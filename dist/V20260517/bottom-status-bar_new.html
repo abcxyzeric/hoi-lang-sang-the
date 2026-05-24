@@ -48,7 +48,7 @@
       left: 0;
       width: 100%;
       height: 300px;
-      background-image: var(--class-bg-url, url('https://gitgud.io/Rown/dnf/-/raw/master/background/%E9%AC%BC%E5%89%91.webp'));
+      background-image: var(--class-bg-url, url('https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/background/gui-jian.webp'));
       background-repeat: no-repeat;
       background-position: center top;
       background-size: 100% auto;
@@ -7939,38 +7939,38 @@
       };
 
       // ==================== Mapping ảnh nền nghề nghiệp ====================
-      const CLASS_BACKGROUND_BASE_URL = 'https://gitgud.io/Rown/dnf/-/raw/master/background/';
+      const CLASS_BACKGROUND_BASE_URL = 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/background/';
       const CLASS_BACKGROUND_MAP = {
-        'Quỷ kiếm sĩ (nam)': '%E9%AC%BC%E5%89%91.webp', 'Quỷ kiếm sĩ (nữ)': '%E5%A5%B3%E9%AC%BC%E5%89%91.webp',
-        'Võ sư (nam)': '%E7%94%B7%E6%A0%BC%E6%96%97.webp', 'Võ sư (nữ)': '%E5%A5%B3%E6%A0%BC%E6%96%97.webp',
-        'Thần xạ thủ (nam)': '%E7%A5%9E%E6%9E%AA%E6%89%8B.webp', 'Thần xạ thủ (nữ)': '%E5%A5%B3%E7%A5%9E%E6%9E%AA%E6%89%8B.webp',
-        'Ma pháp sư (nam)': '%E7%94%B7%E6%B3%95.webp', 'Ma pháp sư (nữ)': '%E5%A5%B3%E6%B3%95.webp',
-        'Thánh chức giả (nam)': '%E7%94%B7%E5%9C%A3%E8%81%8C%E8%80%85.webp', 'Thánh chức giả (nữ)': '%E5%A5%B3%E5%9C%A3%E8%81%8C%E8%80%85.webp',
-        'Ma thương sĩ': '%E9%AD%94%E6%9E%AA.webp', 'Thương kiếm sĩ': '%E6%9E%AA%E5%89%91%E5%A3%AB.webp', 'Hắc ám võ sĩ': '%E9%BB%91%E6%9A%97%E6%AD%A6%E5%A3%AB.webp',
-        'Sứ giả đêm tối': '%E6%9A%97%E5%A4%9C%E4%BD%BF%E8%80%85.webp', 'Hộ vệ': '%E5%AE%88%E6%8A%A4%E8%80%85.webp', 'Cung thủ': '%E5%BC%93%E7%AE%AD%E6%89%8B.webp',
+        'Quỷ kiếm sĩ (nam)': 'gui-jian.webp', 'Quỷ kiếm sĩ (nữ)': 'nu-gui-jian.webp',
+        'Võ sư (nam)': 'vo-su-nam.webp', 'Võ sư (nữ)': 'vo-su-nu.webp',
+        'Thần xạ thủ (nam)': 'than-xa-thu-nam.webp', 'Thần xạ thủ (nữ)': 'than-xa-thu-nu.webp',
+        'Ma pháp sư (nam)': 'ma-phap-su-nam.webp', 'Ma pháp sư (nữ)': 'ma-phap-su-nu.webp',
+        'Thánh chức giả (nam)': 'thanh-chuc-gia-nam.webp', 'Thánh chức giả (nữ)': 'thanh-chuc-gia-nu.webp',
+        'Ma thương sĩ': 'ma-thuong-si.webp', 'Thương kiếm sĩ': 'thuong-kiem-si.webp', 'Hắc ám võ sĩ': 'hac-am-vo-si.webp',
+        'Sứ giả đêm tối': 'su-gia-dem-toi.webp', 'Hộ vệ': 'ho-ve.webp', 'Cung thủ': 'cung-thu.webp',
         // Nâng cao của quỷ kiếm sĩ
-        'Kiếm hồn': '%E9%AC%BC%E5%89%91.webp', 'Quỷ khóc': '%E9%AC%BC%E5%89%91.webp', 'Cuồng chiến sĩ': '%E9%AC%BC%E5%89%91.webp', 'Asura': '%E9%AC%BC%E5%89%91.webp', 'Kiếm ảnh': '%E9%AC%BC%E5%89%91.webp',
-        'Ngự kiếm sĩ': '%E5%A5%B3%E9%AC%BC%E5%89%91.webp', 'Ám đế': '%E5%A5%B3%E9%AC%BC%E5%89%91.webp', 'Khế ma giả': '%E5%A5%B3%E9%AC%BC%E5%89%91.webp', 'Lãng nhân võ sĩ': '%E5%A5%B3%E9%AC%BC%E5%89%91.webp', 'Nhẫn ảnh': '%E5%A5%B3%E9%AC%BC%E5%89%91.webp',
+        'Kiếm hồn': 'gui-jian.webp', 'Quỷ khóc': 'gui-jian.webp', 'Cuồng chiến sĩ': 'gui-jian.webp', 'Asura': 'gui-jian.webp', 'Kiếm ảnh': 'gui-jian.webp',
+        'Ngự kiếm sĩ': 'nu-gui-jian.webp', 'Ám đế': 'nu-gui-jian.webp', 'Khế ma giả': 'nu-gui-jian.webp', 'Lãng nhân võ sĩ': 'nu-gui-jian.webp', 'Nhẫn ảnh': 'nu-gui-jian.webp',
         // Nâng cao của võ sư
-        'Khí công sư': '%E5%A5%B3%E6%A0%BC%E6%96%97.webp', 'Tán đả': '%E5%A5%B3%E6%A0%BC%E6%96%97.webp', 'Nhai bá': '%E5%A5%B3%E6%A0%BC%E6%96%97.webp', 'Nhu đạo gia': '%E5%A5%B3%E6%A0%BC%E6%96%97.webp',
-        'Khí công sư (nam)': '%E7%94%B7%E6%A0%BC%E6%96%97.webp', 'Tán đả (nam)': '%E7%94%B7%E6%A0%BC%E6%96%97.webp', 'Nhai bá (nam)': '%E7%94%B7%E6%A0%BC%E6%96%97.webp', 'Nhu đạo gia (nam)': '%E7%94%B7%E6%A0%BC%E6%96%97.webp', 'Nam nhai bá': '%E7%94%B7%E6%A0%BC%E6%96%97.webp',
+        'Khí công sư': 'vo-su-nu.webp', 'Tán đả': 'vo-su-nu.webp', 'Nhai bá': 'vo-su-nu.webp', 'Nhu đạo gia': 'vo-su-nu.webp',
+        'Khí công sư (nam)': 'vo-su-nam.webp', 'Tán đả (nam)': 'vo-su-nam.webp', 'Nhai bá (nam)': 'vo-su-nam.webp', 'Nhu đạo gia (nam)': 'vo-su-nam.webp', 'Nam nhai bá': 'vo-su-nam.webp',
         // Nâng cao của thần xạ thủ
-        'Mạn du xạ thủ': '%E5%A5%B3%E7%A5%9E%E6%9E%AA%E6%89%8B.webp', 'Pháo sư': '%E5%A5%B3%E7%A5%9E%E6%9E%AA%E6%89%8B.webp', 'Cơ giới sư': '%E5%A5%B3%E7%A5%9E%E6%9E%AA%E6%89%8B.webp', 'Chuyên gia đạn dược': '%E5%A5%B3%E7%A5%9E%E6%9E%AA%E6%89%8B.webp',
-        'Mạn du xạ thủ (nam)': '%E7%A5%9E%E6%9E%AA%E6%89%8B.webp', 'Pháo sư (nam)': '%E7%A5%9E%E6%9E%AA%E6%89%8B.webp', 'Cơ giới sư (nam)': '%E7%A5%9E%E6%9E%AA%E6%89%8B.webp', 'Chuyên gia đạn dược (nam)': '%E7%A5%9E%E6%9E%AA%E6%89%8B.webp', 'Chiến sĩ hợp kim': '%E7%A5%9E%E6%9E%AA%E6%89%8B.webp',
+        'Mạn du xạ thủ': 'than-xa-thu-nu.webp', 'Pháo sư': 'than-xa-thu-nu.webp', 'Cơ giới sư': 'than-xa-thu-nu.webp', 'Chuyên gia đạn dược': 'than-xa-thu-nu.webp',
+        'Mạn du xạ thủ (nam)': 'than-xa-thu-nam.webp', 'Pháo sư (nam)': 'than-xa-thu-nam.webp', 'Cơ giới sư (nam)': 'than-xa-thu-nam.webp', 'Chuyên gia đạn dược (nam)': 'than-xa-thu-nam.webp', 'Chiến sĩ hợp kim': 'than-xa-thu-nam.webp',
         // Nâng cao của ma pháp sư
-        'Nguyên tố sư': '%E5%A5%B3%E6%B3%95.webp', 'Triệu hồi sư': '%E5%A5%B3%E6%B3%95.webp', 'Chiến đấu pháp sư': '%E5%A5%B3%E6%B3%95.webp', 'Học giả ma đạo': '%E5%A5%B3%E6%B3%95.webp', 'Tiểu ma nữ': '%E5%A5%B3%E6%B3%95.webp', 'Sư kết băng': '%E5%A5%B3%E6%B3%95.webp',
-        'Sư phá nguyên tố': '%E7%94%B7%E6%B3%95.webp', 'Sư kết băng (nam)': '%E7%94%B7%E6%B3%95.webp', 'Huyết pháp sư': '%E7%94%B7%E6%B3%95.webp', 'Trục phong giả': '%E7%94%B7%E6%B3%95.webp', 'Hành giả thứ nguyên': '%E7%94%B7%E6%B3%95.webp',
+        'Nguyên tố sư': 'ma-phap-su-nu.webp', 'Triệu hồi sư': 'ma-phap-su-nu.webp', 'Chiến đấu pháp sư': 'ma-phap-su-nu.webp', 'Học giả ma đạo': 'ma-phap-su-nu.webp', 'Tiểu ma nữ': 'ma-phap-su-nu.webp', 'Sư kết băng': 'ma-phap-su-nu.webp',
+        'Sư phá nguyên tố': 'ma-phap-su-nam.webp', 'Sư kết băng (nam)': 'ma-phap-su-nam.webp', 'Huyết pháp sư': 'ma-phap-su-nam.webp', 'Trục phong giả': 'ma-phap-su-nam.webp', 'Hành giả thứ nguyên': 'ma-phap-su-nam.webp',
         // Nâng cao của thánh chức giả
-        'Thánh kỵ sĩ': '%E5%A5%B3%E5%9C%A3%E8%81%8C%E8%80%85.webp', 'Thẩm phán dị đoan': '%E5%A5%B3%E5%9C%A3%E8%81%8C%E8%80%85.webp', 'Vu nữ': '%E5%A5%B3%E5%9C%A3%E8%81%8C%E8%80%85.webp', 'Dụ ma giả': '%E5%A5%B3%E5%9C%A3%E8%81%8C%E8%80%85.webp',
-        'Thánh kỵ sĩ (nam)': '%E7%94%B7%E5%9C%A3%E8%81%8C%E8%80%85.webp', 'Lam quyền thánh sứ': '%E7%94%B7%E5%9C%A3%E8%81%8C%E8%80%85.webp', 'Khu ma sư': '%E7%94%B7%E5%9C%A3%E8%81%8C%E8%80%85.webp', 'Phục thù giả': '%E7%94%B7%E5%9C%A3%E8%81%8C%E8%80%85.webp',
+        'Thánh kỵ sĩ': 'thanh-chuc-gia-nu.webp', 'Thẩm phán dị đoan': 'thanh-chuc-gia-nu.webp', 'Vu nữ': 'thanh-chuc-gia-nu.webp', 'Dụ ma giả': 'thanh-chuc-gia-nu.webp',
+        'Thánh kỵ sĩ (nam)': 'thanh-chuc-gia-nam.webp', 'Lam quyền thánh sứ': 'thanh-chuc-gia-nam.webp', 'Khu ma sư': 'thanh-chuc-gia-nam.webp', 'Phục thù giả': 'thanh-chuc-gia-nam.webp',
         // Nâng cao của các nghề khác
-        'Chinh chiến giả': '%E9%AD%94%E6%9E%AA.webp', 'Quyết chiến giả': '%E9%AD%94%E6%9E%AA.webp', 'Thợ săn': '%E9%AD%94%E6%9E%AA.webp', 'Ám thương sĩ': '%E9%AD%94%E6%9E%AA.webp',
-        'Đặc công': '%E6%9E%AA%E5%89%91%E5%A3%AB.webp', 'Lính đánh thuê chiến tuyến': '%E6%9E%AA%E5%89%91%E5%A3%AB.webp', 'Ám nhận': '%E6%9E%AA%E5%89%91%E5%A3%AB.webp', 'Chuyên gia nguyên năng': '%E6%9E%AA%E5%89%91%E5%A3%AB.webp',
-        'Thích khách': '%E6%9A%97%E5%A4%9C%E4%BD%BF%E8%80%85.webp', 'Tử linh thuật sĩ': '%E6%9A%97%E5%A4%9C%E4%BD%BF%E8%80%85.webp', 'Ninja': '%E6%9A%97%E5%A4%9C%E4%BD%BF%E8%80%85.webp', 'Ảnh vũ giả': '%E6%9A%97%E5%A4%9C%E4%BD%BF%E8%80%85.webp',
-        'Tinh linh kỵ sĩ': '%E5%AE%88%E6%8A%A4%E8%80%85.webp', 'Ma linh hỗn độn': '%E5%AE%88%E6%8A%A4%E8%80%85.webp', 'Paladin': '%E5%AE%88%E6%8A%A4%E8%80%85.webp', 'Long kỵ sĩ': '%E5%AE%88%E6%8A%A4%E8%80%85.webp',
-        'Muse': '%E5%BC%93%E7%AE%AD%E6%89%8B.webp', 'Lữ khách': '%E5%BC%93%E7%AE%AD%E6%89%8B.webp', 'Yêu hộ sứ': '%E5%BC%93%E7%AE%AD%E6%89%8B.webp'
+        'Chinh chiến giả': 'ma-thuong-si.webp', 'Quyết chiến giả': 'ma-thuong-si.webp', 'Thợ săn': 'ma-thuong-si.webp', 'Ám thương sĩ': 'ma-thuong-si.webp',
+        'Đặc công': 'thuong-kiem-si.webp', 'Lính đánh thuê chiến tuyến': 'thuong-kiem-si.webp', 'Ám nhận': 'thuong-kiem-si.webp', 'Chuyên gia nguyên năng': 'thuong-kiem-si.webp',
+        'Thích khách': 'su-gia-dem-toi.webp', 'Tử linh thuật sĩ': 'su-gia-dem-toi.webp', 'Ninja': 'su-gia-dem-toi.webp', 'Ảnh vũ giả': 'su-gia-dem-toi.webp',
+        'Tinh linh kỵ sĩ': 'ho-ve.webp', 'Ma linh hỗn độn': 'ho-ve.webp', 'Paladin': 'ho-ve.webp', 'Long kỵ sĩ': 'ho-ve.webp',
+        'Muse': 'cung-thu.webp', 'Lữ khách': 'cung-thu.webp', 'Yêu hộ sứ': 'cung-thu.webp'
       };
-      const DEFAULT_CLASS_BACKGROUND = '%E9%AC%BC%E5%89%91.webp';
+      const DEFAULT_CLASS_BACKGROUND = 'gui-jian.webp';
       let _cachedClassName = null;
       const getClassBackgroundUrl = (className) => {
         const bgFile = CLASS_BACKGROUND_MAP[className] || DEFAULT_CLASS_BACKGROUND;
@@ -10726,36 +10726,36 @@ ${CHARACTER_PROFILE_FORMAT_SAMPLE.trim()}
       // ==================== Mapping ảnh nhân vật preset ====================
       // Đồng bộ với ảnh đại diện nhân vật tích hợp trong phần làm đẹp nội dung, đồng thời giữ thêm nhân vật riêng của thanh trạng thái
       const PRESET_AVATAR_CONFIG = {
-        'Kỵ sĩ Ung': { avatar: 'https://gitgud.io/Rown/dnf/-/raw/master/%E5%B0%81%E9%9D%A2/%E7%99%8C%E9%AA%91%E5%A3%AB.webp', aliases: ['\u764c\u9a91\u58eb', 'Kỵ sĩ Ung', 'Ung'] },
-        'Yato': { avatar: 'https://gitgud.io/Rown/dnf/-/raw/master/%E5%B0%81%E9%9D%A2/%E5%A4%9C%E6%96%97.webp', aliases: ['\u591c\u6597', 'Yato'] },
-        'Pháp Lộ Đặc': { avatar: 'https://gitgud.io/Rown/dnf/-/raw/master/%E5%A4%B4%E5%83%8F/%E6%B3%95%E9%9C%B2%E7%89%B9.webp', aliases: ['\u6cd5\u9732\u7279', 'Pháp Lộ Đặc'] },
-        'Tinh Cực': { avatar: 'https://gitgud.io/Rown/dnf/-/raw/master/%E5%A4%B4%E5%83%8F/%E6%98%9F%E6%9E%81.webp', aliases: ['\u661f\u6781', 'Tinh Cực'] },
-        'Nại Nhã Lệ': { avatar: 'https://gitgud.io/Rown/dnf/-/raw/master/%E5%A4%B4%E5%83%8F/%E5%A5%88%E9%9B%85%E4%B8%BD.webp', aliases: ['\u5948\u96c5\u4e3d', 'Nại Nhã Lệ'] },
-        'Aiklisia': { avatar: 'https://gitgud.io/Rown/dnf/-/raw/master/%E5%A4%B4%E5%83%8F/%E8%89%BE%E5%85%8B%E8%8E%89%E8%A5%BF%E5%A8%85.webp', aliases: ['\u827e\u514b\u8389\u897f\u5a05', 'Aiklisia'] },
-        'Hồng Liên': { avatar: 'https://gitgud.io/Rown/dnf/-/raw/master/%E5%A4%B4%E5%83%8F/%E7%BA%A2%E8%8E%B2.webp', aliases: ['\u7ea2\u83b2', 'Hồng Liên'] },
-        'Tetto': { avatar: 'https://gitgud.io/Rown/dnf/-/raw/master/%E5%A4%B4%E5%83%8F/%E7%89%B9%E5%9B%BE.webp', aliases: ['\u7279\u56fe', 'Tetto'] },
-        'Điển Ngục Trưởng': { avatar: 'https://gitgud.io/Rown/dnf/-/raw/master/%E5%A4%B4%E5%83%8F/%E5%85%B8%E7%8B%B1%E9%95%BF.webp', aliases: ['\u5178\u72f1\u957f', 'Điển Ngục Trưởng'] },
-        'Hatsuse Izuna': { avatar: 'https://gitgud.io/Rown/dnf/-/raw/master/%E5%A4%B4%E5%83%8F/%E5%88%9D%E6%BF%91%E4%BC%8A%E7%BA%B2.webp', aliases: ['\u521d\u6fd1\u4f0a\u7eb2', '\u4f0a\u7eb2', 'Hatsuse Izuna', 'Izuna'] },
-        'Shiro': { avatar: 'https://gitgud.io/Rown/dnf/-/raw/master/%E5%A4%B4%E5%83%8F/%E7%99%BD.webp', aliases: ['\u767d', 'Shiro'] },
-        'Stephanie': { avatar: 'https://gitgud.io/Rown/dnf/-/raw/master/%E5%A4%B4%E5%83%8F/%E5%8F%B2%E8%92%82%E8%8A%AC%E5%A6%AE.webp', aliases: ['\u53f2\u8482\u82ac\u59ae', 'Stephanie'] },
-        'Jibril': { avatar: 'https://gitgud.io/Rown/dnf/-/raw/master/%E5%A4%B4%E5%83%8F/%E5%90%89%E6%99%AE%E8%8E%89%E5%B0%94.webp', aliases: ['\u5409\u666e\u8389\u5c14', 'Jibril'] },
-        'Feel': { avatar: 'https://gitgud.io/Rown/dnf/-/raw/master/%E5%A4%B4%E5%83%8F/%E8%8F%B2%E5%B0%94.webp', aliases: ['\u83f2\u5c14', 'Feel'] },
-        'Kurami': { avatar: 'https://gitgud.io/Rown/dnf/-/raw/master/%E5%A4%B4%E5%83%8F/%E5%85%8B%E6%8B%89%E7%B1%B3.webp', aliases: ['\u514b\u62c9\u7c73', 'Kurami'] },
-        'Hiiro': { avatar: 'https://gitgud.io/Rown/dnf/-/raw/master/%E5%A4%B4%E5%83%8F/%E7%BB%AF.webp', aliases: ['\u7eef', 'Hiiro'] },
-        'Orchis': { avatar: 'https://gitgud.io/Rown/dnf/-/raw/master/%E5%A4%B4%E5%83%8F/%E5%A5%A5%E5%A5%91%E4%B8%9D.webp', aliases: ['\u5965\u5951\u4e1d', 'Orchis'] },
-        'Ruruka': { avatar: 'https://gitgud.io/Rown/dnf/-/raw/master/%E5%A4%B4%E5%83%8F/Ruruka.webp', aliases: ['\u9732\u9732\u5361', 'Ruruka'] },
-        'Asuna': { avatar: 'https://gitgud.io/Rown/dnf/-/raw/master/%E5%A4%B4%E5%83%8F/Asuna.webp', aliases: ['\u4e9a\u4e1d\u5a1c', 'Asuna'] },
-        'Yuuki': { avatar: 'https://gitgud.io/Rown/dnf/-/raw/master/%E5%A4%B4%E5%83%8F/%E4%BC%98%E7%BA%AA.webp', aliases: ['\u4f18\u7eaa', 'Yuuki'] },
-        'Kiriko': { avatar: 'https://gitgud.io/Rown/dnf/-/raw/master/%E5%A4%B4%E5%83%8F/%E6%A1%90%E5%AD%90.webp', aliases: ['\u6850\u5b50', 'Kiriko'] },
-        'Mito': { avatar: 'https://gitgud.io/Rown/dnf/-/raw/master/%E5%A4%B4%E5%83%8F/%E7%B1%B3%E7%89%B9.webp', aliases: ['\u7c73\u7279', 'Mito'] },
-        'Leafa': { avatar: 'https://gitgud.io/Rown/dnf/-/raw/master/%E5%A4%B4%E5%83%8F/%E8%8E%89%E6%B3%95.webp', aliases: ['\u8389\u6cd5', 'Leafa'] },
-        'Silica': { avatar: 'https://gitgud.io/Rown/dnf/-/raw/master/%E5%A4%B4%E5%83%8F/%E8%A5%BF%E8%8E%89%E5%8D%A1.webp', aliases: ['\u897f\u8389\u5361', 'Silica'] },
-        'Sinon': { avatar: 'https://gitgud.io/Rown/dnf/-/raw/master/%E5%A4%B4%E5%83%8F/%E8%AF%97%E4%B9%83.webp', aliases: ['\u8bd7\u4e43', 'Sinon'] },
-        'Argo': { avatar: 'https://gitgud.io/Rown/dnf/-/raw/master/%E5%A4%B4%E5%83%8F/%E9%98%BF%E5%B0%94%E6%88%88.webp', aliases: ['\u963f\u5c14\u6208', 'Argo'] },
-        'Roman': { avatar: 'https://gitgud.io/Rown/dnf/-/raw/master/%E5%A4%B4%E5%83%8F/%E7%BD%97%E6%9B%BC.webp', aliases: ['\u7f57\u66fc', 'Roman'] },
-        'Freya': { avatar: 'https://gitgud.io/Rown/dnf/-/raw/master/%E5%A4%B4%E5%83%8F/%E8%8A%99%E8%95%BE%E9%9B%85.webp', aliases: ['\u8299\u857e\u96c5', 'Freya'] },
-        'Katisia': { avatar: 'https://gitgud.io/Rown/dnf/-/raw/master/%E5%A4%B4%E5%83%8F/Katisia.webp', aliases: ['\u5361\u63d0\u5e0c\u5a05', 'Katisia'] },
-        'Amis': { avatar: 'https://gitgud.io/Rown/dnf/-/raw/master/%E5%A4%B4%E5%83%8F/Amis.webp', aliases: ['\u7231\u5f25\u65af', 'Amis'] }
+        'Kỵ sĩ Ung': { avatar: 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/cover/cancer-knight.webp', aliases: ['\u764c\u9a91\u58eb', 'Kỵ sĩ Ung', 'Ung'] },
+        'Yato': { avatar: 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/cover/yato.webp', aliases: ['\u591c\u6597', 'Yato'] },
+        'Pháp Lộ Đặc': { avatar: 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/phap-lo-dac.webp', aliases: ['\u6cd5\u9732\u7279', 'Pháp Lộ Đặc'] },
+        'Tinh Cực': { avatar: 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/tinh-cuc.webp', aliases: ['\u661f\u6781', 'Tinh Cực'] },
+        'Nại Nhã Lệ': { avatar: 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/nai-nha-le.webp', aliases: ['\u5948\u96c5\u4e3d', 'Nại Nhã Lệ'] },
+        'Aiklisia': { avatar: 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/aiklisia.webp', aliases: ['\u827e\u514b\u8389\u897f\u5a05', 'Aiklisia'] },
+        'Hồng Liên': { avatar: 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/hong-lien.webp', aliases: ['\u7ea2\u83b2', 'Hồng Liên'] },
+        'Tetto': { avatar: 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/tetto.webp', aliases: ['\u7279\u56fe', 'Tetto'] },
+        'Điển Ngục Trưởng': { avatar: 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/dien-nguc-truong.webp', aliases: ['\u5178\u72f1\u957f', 'Điển Ngục Trưởng'] },
+        'Hatsuse Izuna': { avatar: 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/hatsuse-izuna.webp', aliases: ['\u521d\u6fd1\u4f0a\u7eb2', '\u4f0a\u7eb2', 'Hatsuse Izuna', 'Izuna'] },
+        'Shiro': { avatar: 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/shiro.webp', aliases: ['\u767d', 'Shiro'] },
+        'Stephanie': { avatar: 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/stephanie.webp', aliases: ['\u53f2\u8482\u82ac\u59ae', 'Stephanie'] },
+        'Jibril': { avatar: 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/jibril.webp', aliases: ['\u5409\u666e\u8389\u5c14', 'Jibril'] },
+        'Feel': { avatar: 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/feel.webp', aliases: ['\u83f2\u5c14', 'Feel'] },
+        'Kurami': { avatar: 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/kurami.webp', aliases: ['\u514b\u62c9\u7c73', 'Kurami'] },
+        'Hiiro': { avatar: 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/hiiro.webp', aliases: ['\u7eef', 'Hiiro'] },
+        'Orchis': { avatar: 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/orchis.webp', aliases: ['\u5965\u5951\u4e1d', 'Orchis'] },
+        'Ruruka': { avatar: 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/ruruka.webp', aliases: ['\u9732\u9732\u5361', 'Ruruka'] },
+        'Asuna': { avatar: 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/asuna.webp', aliases: ['\u4e9a\u4e1d\u5a1c', 'Asuna'] },
+        'Yuuki': { avatar: 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/yuuki.webp', aliases: ['\u4f18\u7eaa', 'Yuuki'] },
+        'Kiriko': { avatar: 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/kiriko.webp', aliases: ['\u6850\u5b50', 'Kiriko'] },
+        'Mito': { avatar: 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/mito.webp', aliases: ['\u7c73\u7279', 'Mito'] },
+        'Leafa': { avatar: 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/leafa.webp', aliases: ['\u8389\u6cd5', 'Leafa'] },
+        'Silica': { avatar: 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/silica.webp', aliases: ['\u897f\u8389\u5361', 'Silica'] },
+        'Sinon': { avatar: 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/sinon.webp', aliases: ['\u8bd7\u4e43', 'Sinon'] },
+        'Argo': { avatar: 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/argo.webp', aliases: ['\u963f\u5c14\u6208', 'Argo'] },
+        'Roman': { avatar: 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/roman.webp', aliases: ['\u7f57\u66fc', 'Roman'] },
+        'Freya': { avatar: 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/freya.webp', aliases: ['\u8299\u857e\u96c5', 'Freya'] },
+        'Katisia': { avatar: 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/katisia.webp', aliases: ['\u5361\u63d0\u5e0c\u5a05', 'Katisia'] },
+        'Amis': { avatar: 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/amis.webp', aliases: ['\u7231\u5f25\u65af', 'Amis'] }
       };
 
       const normalizePresetAvatarName = (raw) => {

@@ -433,19 +433,19 @@ if (typeof window !== 'undefined') {
     </script>
 
     <!-- Tải trước ảnh đứng của nhân vật ràng buộc -->
-    <link rel="preload" as="image" href="https://gitgud.io/Rown/dnf/-/raw/master/%E5%B0%81%E9%9D%A2/%E6%B3%95%E9%9C%B2%E7%89%B9.webp">
-    <link rel="preload" as="image" href="https://gitgud.io/Rown/dnf/-/raw/master/%E5%B0%81%E9%9D%A2/%E7%BA%A2%E8%8E%B2.webp">
-    <link rel="preload" as="image" href="https://gitgud.io/Rown/dnf/-/raw/master/%E5%B0%81%E9%9D%A2/%E6%98%9F%E6%9E%81.webp">
-    <link rel="preload" as="image" href="https://gitgud.io/Rown/dnf/-/raw/master/%E5%B0%81%E9%9D%A2/%E8%89%BE%E5%85%8B%E8%8E%89%E8%A5%BF%E5%A8%85.webp">
-    <link rel="preload" as="image" href="https://gitgud.io/Rown/dnf/-/raw/master/%E5%B0%81%E9%9D%A2/%E5%A5%88%E9%9B%85%E4%B8%BD.webp">
+    <link rel="preload" as="image" href="https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/cover/phap-lo-dac.webp">
+    <link rel="preload" as="image" href="https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/cover/hong-lien.webp">
+    <link rel="preload" as="image" href="https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/cover/tinh-cuc.webp">
+    <link rel="preload" as="image" href="https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/cover/aiklisia.webp">
+    <link rel="preload" as="image" href="https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/cover/nai-nha-le.webp">
     <link rel="preload" as="image"
-        href="https://gitgud.io/Rown/dnf/-/raw/master/%E5%B0%81%E9%9D%A2/%E7%99%8C%E9%AA%91%E5%A3%AB.webp">
-    <link rel="preload" as="image" href="https://gitgud.io/Rown/dnf/-/raw/master/%E5%B0%81%E9%9D%A2/%E5%A5%A5%E5%A5%91%E4%B8%9D.webp">
-    <link rel="preload" as="image" href="https://gitgud.io/Rown/dnf/-/raw/master/%E5%B0%81%E9%9D%A2/%E9%9C%B2%E9%9C%B2%E5%8D%A1.webp">
-    <link rel="preload" as="image" href="https://gitgud.io/Rown/dnf/-/raw/master/%E5%B0%81%E9%9D%A2/%E4%BA%9A%E4%B8%9D%E5%A8%9C.webp">
-    <link rel="preload" as="image" href="https://gitgud.io/Rown/dnf/-/raw/master/%E5%B0%81%E9%9D%A2/%E7%99%BD.webp">
-    <link rel="preload" as="image" href="https://gitgud.io/Rown/dnf/-/raw/master/%E5%B0%81%E9%9D%A2/%E5%8D%A1%E6%8F%90%E8%A5%BF%E5%A8%85.webp">
-    <link rel="preload" as="image" href="https://gitgud.io/Rown/dnf/-/raw/master/%E5%B0%81%E9%9D%A2/%E7%88%B1%E5%BC%A5%E6%96%AF.webp">
+        href="https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/cover/cancer-knight.webp">
+    <link rel="preload" as="image" href="https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/cover/orchis.webp">
+    <link rel="preload" as="image" href="https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/cover/ruruka.webp">
+    <link rel="preload" as="image" href="https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/cover/asuna.webp">
+    <link rel="preload" as="image" href="https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/cover/shiro.webp">
+    <link rel="preload" as="image" href="https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/cover/katisia.webp">
+    <link rel="preload" as="image" href="https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/cover/amis.webp">
 
     <style>
         :root {
@@ -661,14 +661,15 @@ if (typeof window !== 'undefined') {
 
         /* Stepper */
         .stepper {
-            display: flex;
-            gap: 4px;
-            padding: 20px 40px 30px;
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(92px, 1fr));
+            gap: 22px 6px;
+            padding: 20px 40px 48px;
         }
 
         .step-item {
-            flex: 1;
             height: 6px;
+            min-width: 0;
             background: rgba(0, 0, 0, 0.05);
             border-radius: 3px;
             position: relative;
@@ -689,13 +690,17 @@ if (typeof window !== 'undefined') {
             position: absolute;
             top: 12px;
             left: 0;
+            right: 0;
             font-size: 0.75rem;
             font-weight: 700;
             color: var(--secondary);
-            text-transform: uppercase;
-            letter-spacing: 1px;
+            text-transform: none;
+            letter-spacing: 0;
+            line-height: 1.25;
             transition: all 0.3s;
-            white-space: nowrap;
+            white-space: normal;
+            overflow-wrap: anywhere;
+            word-break: normal;
         }
 
         .step-item.active .step-label {
@@ -2329,11 +2334,11 @@ if (typeof window !== 'undefined') {
             background: #eef2f3;
         }
 
-        @media (min-width: 981px) {
-            .starter-shop-compact-card.expanded-row {
-                grid-column: 1 / -1;
-            }
+        .starter-shop-compact-card.expanded-row {
+            grid-column: 1 / -1;
+        }
 
+        @media (min-width: 981px) {
             .starter-shop-compact-card.hidden-row-peer {
                 display: none;
             }
@@ -2798,6 +2803,7 @@ if (typeof window !== 'undefined') {
         }
 
         .starter-shop-detail-block {
+            min-width: 0;
             padding: 8px 10px;
             border-radius: 8px;
             border: 1px solid transparent;
@@ -2829,9 +2835,12 @@ if (typeof window !== 'undefined') {
             color: #3f4953;
             font-size: 0.84rem;
             line-height: 1.82;
-            white-space: pre-line;
-            text-wrap: pretty;
-            word-break: break-word;
+            width: 100%;
+            min-width: 0;
+            white-space: normal;
+            text-wrap: wrap;
+            word-break: normal;
+            overflow-wrap: break-word;
             max-height: 12.8em;
             overflow-y: auto;
             padding-right: 4px;
@@ -2930,7 +2939,9 @@ if (typeof window !== 'undefined') {
             }
 
             .stepper {
-                padding: 15px 20px 28px;
+                grid-template-columns: repeat(auto-fit, minmax(82px, 1fr));
+                gap: 24px 6px;
+                padding: 15px 20px 50px;
             }
 
             .step-label {
@@ -4405,7 +4416,9 @@ if (typeof window !== 'undefined') {
             }
 
             .stepper {
-                padding: 12px 15px 26px;
+                grid-template-columns: repeat(auto-fit, minmax(76px, 1fr));
+                gap: 24px 5px;
+                padding: 12px 15px 52px;
             }
 
             .step-label {
@@ -4558,12 +4571,14 @@ if (typeof window !== 'undefined') {
             }
 
             .stepper {
-                padding: 10px 12px 24px;
+                grid-template-columns: repeat(auto-fit, minmax(70px, 1fr));
+                gap: 26px 5px;
+                padding: 10px 12px 54px;
             }
 
             .step-label {
                 font-size: 0.5rem;
-                white-space: nowrap;
+                white-space: normal;
             }
 
             .main-content {
@@ -6251,7 +6266,7 @@ if (typeof window !== 'undefined') {
                                         @click="selectedPresetChar = presetCharacters.cancer_knight"
                                         style="cursor:pointer;">
                                         <div class="teammate-avatar" style="position:relative;">
-                                            <img src="https://gitgud.io/Rown/dnf/-/raw/master/%E5%B0%81%E9%9D%A2/%E7%99%8C%E9%AA%91%E5%A3%AB.webp"
+                                            <img src="https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/cover/cancer-knight.webp"
                                                 alt="Kỵ sĩ Ung thư">
                                             <div class="art-blur-mask" :class="{revealed: cancerKnightRevealed}">
                                                 <span class="blur-warn-text">⚠ Ảnh đứng hơi dị thường</span>
@@ -6276,7 +6291,7 @@ if (typeof window !== 'undefined') {
                                     <div class="teammate-card" @click="selectedPresetChar = presetCharacters.yato"
                                         style="cursor:pointer;">
                                         <div class="teammate-avatar">
-                                            <img src="https://gitgud.io/Rown/dnf/-/raw/master/%E5%B0%81%E9%9D%A2/%E5%A4%9C%E6%96%97.webp"
+                                            <img src="https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/cover/yato.webp"
                                                 alt="Yato">
                                         </div>
                                         <div class="teammate-info">
@@ -9590,7 +9605,7 @@ if (typeof window !== 'undefined') {
                     encounterInfo: 'Cộng sinh với Kỵ sĩ Ung ngay từ đầu, như hình với bóng.',
                     powerLimit: 'Tồn tại dưới hình thái cộng sinh thể, năng lực bị ràng buộc sâu với trạng thái của kỵ sĩ. Nó chọn ở lại bên kỵ sĩ, vĩnh viễn làm một ký sinh giả "không hoàn chỉnh".',
                     icon: 'ri-heart-pulse-fill',
-                    avatar: 'https://gitgud.io/Rown/dnf/-/raw/master/%E5%B0%81%E9%9D%A2/%E7%99%8C%E9%AA%91%E5%A3%AB.webp'
+                    avatar: 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/cover/cancer-knight.webp'
                 };
 
                 // Đặc chất cố hữu của Yato
@@ -9619,7 +9634,7 @@ if (typeof window !== 'undefined') {
                     encounterInfo: 'Đồng hành cùng Yato ngay từ đầu, như hình với bóng.',
                     powerLimit: 'Dao động cảm xúc của Hiiro sẽ trực tiếp ảnh hưởng trạng thái Thần khí; khi ghen tuông hoặc cuồng nộ có thể mất kiểm soát.',
                     icon: 'ri-sword-fill',
-                    avatar: 'https://gitgud.io/Rown/dnf/-/raw/master/%E5%B0%81%E9%9D%A2/%E7%BB%AF.webp'
+                    avatar: 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/cover/hiiro.webp'
                 };
 
                 const presetCompanionById = {
@@ -9697,7 +9712,7 @@ if (typeof window !== 'undefined') {
                         title: 'Kỵ sĩ thứ nhất',
                         race: 'Huyễn tưởng chủng',
                         class: 'Kỵ sĩ tuẫn đạo',
-                        avatar: 'https://gitgud.io/Rown/dnf/-/raw/master/%E5%B0%81%E9%9D%A2/%E7%99%8C%E9%AA%91%E5%A3%AB.webp',
+                        avatar: 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/cover/cancer-knight.webp',
                         intro: 'Anh từng là kỵ sĩ quý tộc sở hữu lãnh địa và thành trì, cho đến khi vị hôn thê chết trong giấc ngủ một tuần trước hôn lễ. Từ đó anh đào quan tài pha lê của người yêu lên và bước vào hành trình đòi cả thế giới ban cho kỳ tích. Trên vai ký sinh một sinh vật u bướu tên là "Ung": nó đang từng tấc một tiêu hao sinh mệnh của kỵ sĩ, nhưng cũng là bạn thân trung thành nhất của anh. Càng suy yếu càng nguy hiểm; khi cận tử, thế giới trong mắt anh hóa thành tranh nét đơn giản, điểm yếu của vạn vật không nơi ẩn náu.',
                         flavor: 'Bi thương và đau khổ là tọa kỵ của ta.',
                         tags: [
@@ -9712,7 +9727,7 @@ if (typeof window !== 'undefined') {
                         title: 'Kỵ sĩ thứ hai',
                         race: 'Huyễn tưởng chủng',
                         class: 'Họa Tân Thần',
-                        avatar: 'https://gitgud.io/Rown/dnf/-/raw/master/%E5%B0%81%E9%9D%A2/%E5%A4%9C%E6%96%97.webp',
+                        avatar: 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/cover/yato.webp',
                         intro: 'Vị thần vô danh trong thời loạn Chiến Quốc, không có thần xã, không có tín đồ, dựa vào việc tiếp nhận nguyện vọng của con người để duy trì tồn tại. Cầm Thần khí "Hiiro", lấy dòng nước và kiếm thuật làm kế sinh nhai. Một vị thần mà ngay cả tên cũng có thể bị thế giới quên lãng đang dùng phí ủy thác 5 yên để chứng minh giá trị tồn tại của mình. Tuy nhiên, người đến thế giới này chỉ là lát cắt ngắn ngủi trong tháng năm dài đằng đẵng của hắn, hình chiếu mảnh đoạn thời Chiến Quốc, còn xa mới là bản thể.',
                         flavor: 'Có duyên với bạn. Cảm ơn đã chiếu cố, 5 yên.',
                         tags: [
@@ -9735,7 +9750,7 @@ if (typeof window !== 'undefined') {
                         character.gender = 'nam tính';
                         character.age = 24;
                         character.race = 'Huyễn tưởng chủng';
-                        character.avatar = 'https://gitgud.io/Rown/dnf/-/raw/master/%E5%B0%81%E9%9D%A2/%E7%99%8C%E9%AA%91%E5%A3%AB.webp';
+                        character.avatar = 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/cover/cancer-knight.webp';
                         try { localStorage.setItem('rpg_player_avatar', character.avatar); } catch (err) { console.warn('[RPG mở đầu] Lưu avatar preset thất bại:', err); }
                         character.identity = 'xuất thân đặc biệt';
 
@@ -9770,7 +9785,7 @@ if (typeof window !== 'undefined') {
                         character.gender = 'nam tính';
                         character.age = 18;
                         character.race = 'Huyễn tưởng chủng';
-                        character.avatar = 'https://gitgud.io/Rown/dnf/-/raw/master/%E5%B0%81%E9%9D%A2/%E5%A4%9C%E6%96%97.webp';
+                        character.avatar = 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/cover/yato.webp';
                         try { localStorage.setItem('rpg_player_avatar', character.avatar); } catch (err) { console.warn('[RPG mở đầu] Lưu avatar preset thất bại:', err); }
                         character.identity = 'xuất thân đặc biệt';
 
@@ -10104,7 +10119,7 @@ if (typeof window !== 'undefined') {
                             encounterInfo: 'Khu vực trên cao, lối vào thứ nguyên rồng, hoặc chiến trường chiến tranh ma vật quy mô lớn. Chỉ hứng thú với kẻ mạnh; sau khi đạt thức tỉnh mới có thể chủ động hiện thân thăm dò.',
                             powerLimit: 'Đánh giá cao tiềm lực của nhân vật chính, nhưng tuyệt đối không làm bảo mẫu giúp đánh quái yếu; chỉ ra tay giải quyết kẻ địch vượt quá năng lực xử lý. Cứu nguy quá thường xuyên sẽ khiến cô ấy hoàn toàn thất vọng.',
                             icon: 'ri-user-star-fill',
-                            avatar: 'https://gitgud.io/Rown/dnf/-/raw/master/%E5%B0%81%E9%9D%A2/%E6%B3%95%E9%9C%B2%E7%89%B9.webp'
+                            avatar: 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/cover/phap-lo-dac.webp'
                         },
                         {
                             id: 't4', name: 'Hồng Liên', race: 'Nhân loại chủng', class: 'Lãng nhân kiếm khách', cost: 10, affinity: 55,
@@ -10117,7 +10132,7 @@ if (typeof window !== 'undefined') {
                             encounterInfo: 'Hoang dã mặt đất, phế tích, vùng hẻo lánh có phong cảnh đẹp hoặc cứ điểm có rượu. Dễ gặp nhất khi cô đi ngang qua lúc bạn đóng trại ngoài đồng hoặc nghỉ chân ở quán rượu nhỏ để ké rượu.',
                             powerLimit: 'Cấp độ giống nhân vật chính. Thân thể kiểu sản xuất hàng loạt hoàn toàn dựa vào kiếm thuật để nghiền ép; phần não thoái hóa làm mất lượng lớn ký ức.',
                             icon: 'ri-user-star-fill',
-                            avatar: 'https://gitgud.io/Rown/dnf/-/raw/master/%E5%B0%81%E9%9D%A2/%E7%BA%A2%E8%8E%B2.webp'
+                            avatar: 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/cover/hong-lien.webp'
                         },
                         {
                             id: 't6', name: 'Tinh Cực', race: 'Nhân loại chủng', class: 'Nhà chiêm tinh / cận vệ viên', cost: 10, affinity: 50,
@@ -10130,7 +10145,7 @@ if (typeof window !== 'undefined') {
                             encounterInfo: 'Cứ điểm thành trấn, cơ cấu học thuật, thư viện. Không xuất hiện ở hoang dã hoặc tiền tuyến; cần hoạt động ở nơi có nền tảng văn minh mới có thể gặp.',
                             powerLimit: 'Vì nhiễm Oripathy, sức mạnh đang suy thoái; hồi đáp của tinh tú ngày càng yếu.',
                             icon: 'ri-user-star-fill',
-                            avatar: 'https://gitgud.io/Rown/dnf/-/raw/master/%E5%B0%81%E9%9D%A2/%E6%98%9F%E6%9E%81.webp'
+                            avatar: 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/cover/tinh-cuc.webp'
                         },
                         {
                             id: 't1', name: 'Aiklisia', race: 'Nhân loại chủng', class: 'Cựu thánh nữ / lữ hành giả', cost: 10, affinity: 50,
@@ -10143,7 +10158,7 @@ if (typeof window !== 'undefined') {
                             encounterInfo: 'Thương đạo, chợ phiên, lữ điếm hoặc tuyến đường hướng về đại sa hải Gorgonda. Cuộc gặp tự nhiên nhất là tình cờ gặp trên đường: tranh phần thức ăn cuối cùng, hoặc bị cùng một đám ma vật vây khốn.',
                             powerLimit: 'Đang trên hành trình, khi chiến đấu dựa vào quái lực và ràng buộc thay vì ma pháp.',
                             icon: 'ri-user-star-fill',
-                            avatar: 'https://gitgud.io/Rown/dnf/-/raw/master/%E5%B0%81%E9%9D%A2/%E8%89%BE%E5%85%8B%E8%8E%89%E8%A5%BF%E5%A8%85.webp'
+                            avatar: 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/cover/aiklisia.webp'
                         },
                         {
                             id: 't8', name: 'Nại Nhã Lệ', race: 'Huyễn tưởng chủng', class: 'Khế ước sứ ma', cost: 10, affinity: 65,
@@ -10156,7 +10171,7 @@ if (typeof window !== 'undefined') {
                             encounterInfo: 'Bất kỳ địa điểm nào (kích hoạt bằng cách triệu hồi qua "khối bát diện lệch rực rỡ"). Nhân vật duy nhất có thể gặp ngay ở giai đoạn mở đầu.',
                             powerLimit: 'Hiện thân dưới dạng khế ước sứ ma, năng lực tùy thuộc thực lực của nhân vật chính. Bản thể không thể giáng lâm, trừ khi người ký khế ước sắp chết và độ thiện cảm đủ cao.',
                             icon: 'ri-user-star-fill',
-                            avatar: 'https://gitgud.io/Rown/dnf/-/raw/master/%E5%B0%81%E9%9D%A2/%E5%A5%88%E9%9B%85%E4%B8%BD.webp'
+                            avatar: 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/cover/nai-nha-le.webp'
                         },
                         {
                             id: 't9', name: 'Orchis', race: 'Nhân tạo sinh mệnh', class: 'Sư điều khiển tơ / sư nhân ngẫu', cost: 10, affinity: 50,
@@ -10169,7 +10184,7 @@ if (typeof window !== 'undefined') {
                             encounterInfo: 'Trạm dịch trên hành trình, gần cánh đồng hoa, rìa thành trấn yên tĩnh hoặc ven đường nơi lữ nhân thường nghỉ chân. Cô sẽ không chủ động bắt chuyện, nhưng nếu bạn được Lloyd đỡ một đòn chí mạng trong lúc nguy nan, đó chính là cách cô công nhận bạn.',
                             powerLimit: 'Không giỏi chủ động can thiệp chiến đấu của người khác, trừ khi đồng bạn thật sự rơi vào nguy cơ. Cô nghiêng về quan sát bên cạnh, chỉ vào thời khắc then chốt mới để Lloyd ra tay viện hộ. Cô không từ chối giúp đỡ, nhưng cũng sẽ không dễ dàng thay bạn giải quyết mọi vấn đề, vì cô tin rằng mỗi người đều cần tự mình đi tìm đáp án.',
                             icon: 'ri-user-star-fill',
-                            avatar: 'https://gitgud.io/Rown/dnf/-/raw/master/%E5%B0%81%E9%9D%A2/%E5%A5%A5%E5%A5%91%E4%B8%9D.webp'
+                            avatar: 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/cover/orchis.webp'
                         },
                         {
                             id: 't10', name: 'Ruruka', race: 'Nhân loại chủng', class: 'Thiếu nữ ánh sáng / quái đạo', cost: 10, affinity: 50,
@@ -10182,7 +10197,7 @@ if (typeof window !== 'undefined') {
                             encounterInfo: 'Tuyến hành động của đoàn quái đạo hoặc tiệm kem không ai nhận ra. Khi xung quanh rơi vào nguy hiểm, cô luôn lặng lẽ hiện thân vào lúc bạn hoàn toàn không nhận ra và chi viện hỏa lực áp đảo.',
                             powerLimit: 'Vì hiện tại vẫn đang ẩn giấu mục đích thật trong thân phận nằm vùng, cô rất ít khi để lộ át chủ bài thật sự, và mọi hành động hoàn toàn dựa trên tiết tấu cùng ý nguyện cá nhân của cô.',
                             icon: 'ri-user-star-fill',
-                            avatar: 'https://gitgud.io/Rown/dnf/-/raw/master/%E5%B0%81%E9%9D%A2/%E9%9C%B2%E9%9C%B2%E5%8D%A1.webp'
+                            avatar: 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/cover/ruruka.webp'
                         },
                         {
                             id: 't11', name: 'Asuna', race: 'Nhân loại chủng', class: 'Sứ giả tế kiếm', cost: 10, affinity: 50,
@@ -10195,7 +10210,7 @@ if (typeof window !== 'undefined') {
                             encounterInfo: 'Khu luyện cấp mê cung hoang dã đầy nguy cơ và thành trấn tiền tuyến. Thường một mình luyện cấp suốt đêm cho đến khi kiệt sức.',
                             powerLimit: 'Chưa đạt tới thời kỳ toàn thịnh; kiếm kỹ và kinh nghiệm chiến đấu vẫn đang tăng lên, đồng thời dễ rơi vào tuyệt cảnh vì một mực theo đuổi tốc độ và lối đánh không cần mạng.',
                             icon: 'ri-sword-fill',
-                            avatar: 'https://gitgud.io/Rown/dnf/-/raw/master/%E5%B0%81%E9%9D%A2/%E4%BA%9A%E4%B8%9D%E5%A8%9C.webp'
+                            avatar: 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/cover/asuna.webp'
                         },
                         {
                             id: 't12', name: 'Shiro', race: 'Nhân loại chủng', class: 'Game thủ bất bại', cost: 10, affinity: 35,
@@ -10208,7 +10223,7 @@ if (typeof window !== 'undefined') {
                             encounterInfo: 'Đang cùng Sora du lịch đại lục.',
                             powerLimit: 'Giỏi dự đoán, khống chế và phối hợp hơn là cường sát chính diện. Khi rời đồng bạn quen thuộc và môi trường an toàn, sẽ biến thành kẻ phế xã khủng.',
                             icon: 'ri-user-star-fill',
-                            avatar: 'https://gitgud.io/Rown/dnf/-/raw/master/%E5%B0%81%E9%9D%A2/%E7%99%BD.webp'
+                            avatar: 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/cover/shiro.webp'
                         },
                         {
                             id: 't13', name: 'Katisia', race: 'Nhân loại chủng', class: 'Lãng nhân kỵ sĩ / thánh nữ tuẫn đạo', cost: 10, affinity: 35,
@@ -10222,7 +10237,7 @@ if (typeof window !== 'undefined') {
                             encounterInfo: 'Dễ gặp cô ấy nhất ở cảng gió biển, đường hành hương, tiệm bánh mì, nền cũ giáo hội hoặc phố hẻm còn dư âm lễ hội; nếu có người trong khốn cục tưởng như không thể vẫn không buông bỏ, cô ấy phần lớn sẽ dừng bước.',
                             powerLimit: 'Bình thường tự do xuyên hành với tư thế lãng nhân kỵ sĩ, chuyển đổi song hình thái đã ổn định; sẽ ưu tiên bảo vệ đồng bạn mà cô công nhận, đặc biệt là bạn.',
                             icon: 'ri-user-star-fill',
-                            avatar: 'https://gitgud.io/Rown/dnf/-/raw/master/%E5%B0%81%E9%9D%A2/%E5%8D%A1%E6%8F%90%E5%B8%8C%E5%A8%85.webp'
+                            avatar: 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/cover/katisia.webp'
                         },
                         {
                             id: 't14', name: 'Amis', race: 'Nhân loại chủng', class: 'Người đường hầm thích cách / ca cơ điện tử', cost: 10, affinity: 35,
@@ -10236,7 +10251,7 @@ if (typeof window !== 'undefined') {
                             encounterInfo: 'Sảnh game, đường xe máy, phòng livestream gần Học viện Tinh Cự, hoặc rìa băng nguyên nơi một con hải báo tuyết nhung nào đó đang phơi nắng. Cô sẽ không chủ động để lộ thân phận cứu thế chủ, chỉ cười hì hì lại gần.',
                             powerLimit: 'Không muốn để lộ đau khổ thật sự và dục vọng chiếm hữu, quen một mình gánh lấy tất cả',
                             icon: 'ri-user-star-fill',
-                            avatar: 'https://gitgud.io/Rown/dnf/-/raw/master/%E5%B0%81%E9%9D%A2/%E7%88%B1%E5%BC%A5%E6%96%AF.webp'
+                            avatar: 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/cover/amis.webp'
                         }
                     ]
                 });
@@ -11171,7 +11186,7 @@ if (typeof window !== 'undefined') {
                     if (selectedWorldview.value === 'sao') return saoClasses;
                     return mockData.dnfClasses;
                 };
-                const QUICK_START_CLASS_OPTION = markRaw({ name: 'nhanhtốcbắt đầu', isQuickStart: true });
+                const QUICK_START_CLASS_OPTION = markRaw({ name: 'Bắt đầu nhanh', isQuickStart: true });
                 const QUICK_START_CLASS_TEMPLATE = markRaw(JSON.parse(`{
                     "class": "Ảnh Hồn Tuyệt Nhận",
                     "customClassName": "Ảnh Hồn Tuyệt Nhận",
@@ -13270,7 +13285,7 @@ if (typeof window !== 'undefined') {
                     if (!source) return 'Không';
                     return source
                         .replace(/[ \t\r\f\v]+/g, ' ')
-                        .replace(/([. !?; ])/g, '$1\n')
+                        .replace(/([.!?;。！？；])/g, '$1\n')
                         .replace(/\n{2,}/g, '\n')
                         .trim();
                 }
@@ -14205,7 +14220,7 @@ Vì nhịp kể chuyện, lượt này tạm thời chưa đưa cuộc xâm nh�
                 const FORBIDDEN_COOLDOWN_CHANGE_REGEX = /(Hồi_chiêu(?:_thời_gian|_lượt|_bộ_đếm)?[^,.;\n]*(?:giảm|hạ|rút ngắn|làm mới|đặt lại|về không|xóa sạch)|(?:giảm|hạ|rút ngắn|làm mới|đặt lại)[^,.;\n]*Hồi_chiêu)/i;
 
                 const skillNeedsSpecialEffect = (skill) => {
-                    const type = String(skill?.Loại || 'chủ động').trim();
+                    const type = String(skill?.Loại || 'chủ động').trim().replace(/_/g, ' ').toLowerCase();
                     if (type === 'đặc biệt' || type === 'đặc biệt nghề nghiệp' || type === 'Nghề_nghiệp_đặc_biệt') return true;
                     if (type !== 'chủ động' && type !== 'triệu hồi') return false;
                     const text = `${skill?.Tên || ''} ${skill?.Mô_tả || ''}`;
@@ -14213,7 +14228,7 @@ Vì nhịp kể chuyện, lượt này tạm thời chưa đưa cuộc xâm nh�
                 };
 
                 const normalizeSkillSpecialEffect = (skill, tierConfig, strictMode = false) => {
-                    const type = String(skill?.Loại || 'chủ động').trim();
+                    const type = String(skill?.Loại || 'chủ động').trim().replace(/_/g, ' ').toLowerCase();
                     const maxLevel = Math.max(1, parseInt(tierConfig?.Giới_hạn_cấp, 10) || 1);
                     const rawEffect = skill?.Hiệu_ứng_đặc_biệt;
                     const mustHave = skillNeedsSpecialEffect(skill);
@@ -14310,7 +14325,8 @@ Vì nhịp kể chuyện, lượt này tạm thời chưa đưa cuộc xâm nh�
                     const skillList = {};
                     const normalizeMvuSkillType = (type) => {
                         const normalizedType = String(type || 'chủ động').trim() || 'chủ động';
-                        return VALID_MVU_SKILL_TYPES.has(normalizedType) ? normalizedType : 'đặc biệt';
+                        const aliasKey = normalizedType.replace(/_/g, ' ').replace(/\s+/g, ' ').toLowerCase();
+                        return SKILL_TYPE_TO_MVU_ENUM[aliasKey] || 'Đặc_biệt';
                     };
 
                     // Duyệt từng bậc kỹ năng.
@@ -16002,9 +16018,10 @@ Lượt này tạm thời không tiếp xúc đối tượng duyên định; v�
                 // Lấy biểu tượng SVG cho kỹ năng.
                 function getSkillIcon(type, tierKey) {
                     let mainType = 'chủ động';
-                    if (type === 'triệu hồi') mainType = 'triệu hồi';
-                    else if (type === 'đặc biệt' || type === 'bị động' || type === 'hỗ trợ') mainType = 'đặc biệt';
-                    else if (type === 'đặc biệt nghề nghiệp' || type === 'Nghề_nghiệp_đặc_biệt') mainType = 'đặc biệt nghề nghiệp';
+                    const normalizedType = String(type || '').trim().replace(/_/g, ' ').replace(/\s+/g, ' ').toLowerCase();
+                    if (normalizedType === 'triệu hồi') mainType = 'triệu hồi';
+                    else if (normalizedType === 'đặc biệt' || normalizedType === 'bị động' || normalizedType === 'hỗ trợ') mainType = 'đặc biệt';
+                    else if (normalizedType === 'đặc biệt nghề nghiệp' || normalizedType === 'nghề nghiệp đặc biệt') mainType = 'đặc biệt nghề nghiệp';
 
                     let pathData = '';
                     if (mainType === 'đặc biệt nghề nghiệp') {
@@ -16041,7 +16058,21 @@ Lượt này tạm thời không tiếp xúc đối tượng duyên định; v�
                 const lockedSkillMap = ref({}); // { [className]: { [tierKey]: { [skillName]: skillObj } } }
                 const skillSoftWarningMap = ref({}); // { [className]: { [tierKey]: { [skillName]: string[] } } }
                 let timerInterval = null;
-                const VALID_MVU_SKILL_TYPES = new Set(['chủ động', 'đặc biệt', 'triệu hồi', 'đặc biệt nghề nghiệp', 'Nghề_nghiệp_đặc_biệt']);
+                const SKILL_TYPE_TO_MVU_ENUM = Object.freeze({
+                    'chủ động': 'Chủ_động',
+                    'sát thương': 'Chủ_động',
+                    'tấn công': 'Chủ_động',
+                    'triệu hồi': 'Triệu_hồi',
+                    'đặc biệt': 'Đặc_biệt',
+                    'hỗ trợ': 'Đặc_biệt',
+                    'bị động': 'Đặc_biệt',
+                    'đặc biệt nghề nghiệp': 'Đặc_biệt_nghề_nghiệp',
+                    'nghề nghiệp đặc biệt': 'Đặc_biệt_nghề_nghiệp'
+                });
+                const VALID_MVU_SKILL_TYPES = new Set([
+                    'chủ động', 'đặc biệt', 'triệu hồi', 'đặc biệt nghề nghiệp', 'Nghề_nghiệp_đặc_biệt',
+                    'Chủ_động', 'Triệu_hồi', 'Đặc_biệt', 'Đặc_biệt_nghề_nghiệp'
+                ]);
                 const ILLEGAL_SKILL_TYPE_WARNING_PREFIX = 'Loại kỹ năng không hợp lệ';
 
                 const cloneJson = (value) => {

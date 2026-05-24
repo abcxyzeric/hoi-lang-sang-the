@@ -200,38 +200,38 @@
   };
 
   // ==================== Mapping ảnh nền nghề nghiệp ====================
-  const CLASS_BACKGROUND_BASE_URL = 'https://gitgud.io/Rown/dnf/-/raw/master/background/';
+  const CLASS_BACKGROUND_BASE_URL = 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/background/';
   const CLASS_BACKGROUND_MAP = {
-    'Quỷ kiếm sĩ (nam)': '%E9%AC%BC%E5%89%91.webp', 'Quỷ kiếm sĩ (nữ)': '%E5%A5%B3%E9%AC%BC%E5%89%91.webp',
-    'Võ sư (nam)': '%E7%94%B7%E6%A0%BC%E6%96%97.webp', 'Võ sư (nữ)': '%E5%A5%B3%E6%A0%BC%E6%96%97.webp',
-    'Thần xạ thủ (nam)': '%E7%A5%9E%E6%9E%AA%E6%89%8B.webp', 'Thần xạ thủ (nữ)': '%E5%A5%B3%E7%A5%9E%E6%9E%AA%E6%89%8B.webp',
-    'Ma pháp sư (nam)': '%E7%94%B7%E6%B3%95.webp', 'Ma pháp sư (nữ)': '%E5%A5%B3%E6%B3%95.webp',
-    'Thánh chức giả (nam)': '%E7%94%B7%E5%9C%A3%E8%81%8C%E8%80%85.webp', 'Thánh chức giả (nữ)': '%E5%A5%B3%E5%9C%A3%E8%81%8C%E8%80%85.webp',
-    'Ma thương sĩ': '%E9%AD%94%E6%9E%AA.webp', 'Thương kiếm sĩ': '%E6%9E%AA%E5%89%91%E5%A3%AB.webp', 'Hắc ám võ sĩ': '%E9%BB%91%E6%9A%97%E6%AD%A6%E5%A3%AB.webp',
-    'Sứ giả đêm tối': '%E6%9A%97%E5%A4%9C%E4%BD%BF%E8%80%85.webp', 'Hộ vệ': '%E5%AE%88%E6%8A%A4%E8%80%85.webp', 'Cung thủ': '%E5%BC%93%E7%AE%AD%E6%89%8B.webp',
+    'Quỷ kiếm sĩ (nam)': 'gui-jian.webp', 'Quỷ kiếm sĩ (nữ)': 'nu-gui-jian.webp',
+    'Võ sư (nam)': 'vo-su-nam.webp', 'Võ sư (nữ)': 'vo-su-nu.webp',
+    'Thần xạ thủ (nam)': 'than-xa-thu-nam.webp', 'Thần xạ thủ (nữ)': 'than-xa-thu-nu.webp',
+    'Ma pháp sư (nam)': 'ma-phap-su-nam.webp', 'Ma pháp sư (nữ)': 'ma-phap-su-nu.webp',
+    'Thánh chức giả (nam)': 'thanh-chuc-gia-nam.webp', 'Thánh chức giả (nữ)': 'thanh-chuc-gia-nu.webp',
+    'Ma thương sĩ': 'ma-thuong-si.webp', 'Thương kiếm sĩ': 'thuong-kiem-si.webp', 'Hắc ám võ sĩ': 'hac-am-vo-si.webp',
+    'Sứ giả đêm tối': 'su-gia-dem-toi.webp', 'Hộ vệ': 'ho-ve.webp', 'Cung thủ': 'cung-thu.webp',
     // Nâng cao của quỷ kiếm sĩ
-    'Kiếm hồn': '%E9%AC%BC%E5%89%91.webp', 'Quỷ khóc': '%E9%AC%BC%E5%89%91.webp', 'Cuồng chiến sĩ': '%E9%AC%BC%E5%89%91.webp', 'Asura': '%E9%AC%BC%E5%89%91.webp', 'Kiếm ảnh': '%E9%AC%BC%E5%89%91.webp',
-    'Ngự kiếm sĩ': '%E5%A5%B3%E9%AC%BC%E5%89%91.webp', 'Ám đế': '%E5%A5%B3%E9%AC%BC%E5%89%91.webp', 'Khế ma giả': '%E5%A5%B3%E9%AC%BC%E5%89%91.webp', 'Lãng nhân võ sĩ': '%E5%A5%B3%E9%AC%BC%E5%89%91.webp', 'Nhẫn ảnh': '%E5%A5%B3%E9%AC%BC%E5%89%91.webp',
+    'Kiếm hồn': 'gui-jian.webp', 'Quỷ khóc': 'gui-jian.webp', 'Cuồng chiến sĩ': 'gui-jian.webp', 'Asura': 'gui-jian.webp', 'Kiếm ảnh': 'gui-jian.webp',
+    'Ngự kiếm sĩ': 'nu-gui-jian.webp', 'Ám đế': 'nu-gui-jian.webp', 'Khế ma giả': 'nu-gui-jian.webp', 'Lãng nhân võ sĩ': 'nu-gui-jian.webp', 'Nhẫn ảnh': 'nu-gui-jian.webp',
     // Nâng cao của võ sư
-    'Khí công sư': '%E5%A5%B3%E6%A0%BC%E6%96%97.webp', 'Tán đả': '%E5%A5%B3%E6%A0%BC%E6%96%97.webp', 'Nhai bá': '%E5%A5%B3%E6%A0%BC%E6%96%97.webp', 'Nhu đạo gia': '%E5%A5%B3%E6%A0%BC%E6%96%97.webp',
-    'Khí công sư (nam)': '%E7%94%B7%E6%A0%BC%E6%96%97.webp', 'Tán đả (nam)': '%E7%94%B7%E6%A0%BC%E6%96%97.webp', 'Nhai bá (nam)': '%E7%94%B7%E6%A0%BC%E6%96%97.webp', 'Nhu đạo gia (nam)': '%E7%94%B7%E6%A0%BC%E6%96%97.webp', 'Nam nhai bá': '%E7%94%B7%E6%A0%BC%E6%96%97.webp',
+    'Khí công sư': 'vo-su-nu.webp', 'Tán đả': 'vo-su-nu.webp', 'Nhai bá': 'vo-su-nu.webp', 'Nhu đạo gia': 'vo-su-nu.webp',
+    'Khí công sư (nam)': 'vo-su-nam.webp', 'Tán đả (nam)': 'vo-su-nam.webp', 'Nhai bá (nam)': 'vo-su-nam.webp', 'Nhu đạo gia (nam)': 'vo-su-nam.webp', 'Nam nhai bá': 'vo-su-nam.webp',
     // Nâng cao của thần xạ thủ
-    'Mạn du xạ thủ': '%E5%A5%B3%E7%A5%9E%E6%9E%AA%E6%89%8B.webp', 'Pháo sư': '%E5%A5%B3%E7%A5%9E%E6%9E%AA%E6%89%8B.webp', 'Cơ giới sư': '%E5%A5%B3%E7%A5%9E%E6%9E%AA%E6%89%8B.webp', 'Chuyên gia đạn dược': '%E5%A5%B3%E7%A5%9E%E6%9E%AA%E6%89%8B.webp',
-    'Mạn du xạ thủ (nam)': '%E7%A5%9E%E6%9E%AA%E6%89%8B.webp', 'Pháo sư (nam)': '%E7%A5%9E%E6%9E%AA%E6%89%8B.webp', 'Cơ giới sư (nam)': '%E7%A5%9E%E6%9E%AA%E6%89%8B.webp', 'Chuyên gia đạn dược (nam)': '%E7%A5%9E%E6%9E%AA%E6%89%8B.webp', 'Chiến sĩ hợp kim': '%E7%A5%9E%E6%9E%AA%E6%89%8B.webp',
+    'Mạn du xạ thủ': 'than-xa-thu-nu.webp', 'Pháo sư': 'than-xa-thu-nu.webp', 'Cơ giới sư': 'than-xa-thu-nu.webp', 'Chuyên gia đạn dược': 'than-xa-thu-nu.webp',
+    'Mạn du xạ thủ (nam)': 'than-xa-thu-nam.webp', 'Pháo sư (nam)': 'than-xa-thu-nam.webp', 'Cơ giới sư (nam)': 'than-xa-thu-nam.webp', 'Chuyên gia đạn dược (nam)': 'than-xa-thu-nam.webp', 'Chiến sĩ hợp kim': 'than-xa-thu-nam.webp',
     // Nâng cao của ma pháp sư
-    'Nguyên tố sư': '%E5%A5%B3%E6%B3%95.webp', 'Triệu hồi sư': '%E5%A5%B3%E6%B3%95.webp', 'Chiến đấu pháp sư': '%E5%A5%B3%E6%B3%95.webp', 'Học giả ma đạo': '%E5%A5%B3%E6%B3%95.webp', 'Tiểu ma nữ': '%E5%A5%B3%E6%B3%95.webp', 'Sư kết băng': '%E5%A5%B3%E6%B3%95.webp',
-    'Sư phá nguyên tố': '%E7%94%B7%E6%B3%95.webp', 'Sư kết băng (nam)': '%E7%94%B7%E6%B3%95.webp', 'Huyết pháp sư': '%E7%94%B7%E6%B3%95.webp', 'Trục phong giả': '%E7%94%B7%E6%B3%95.webp', 'Hành giả thứ nguyên': '%E7%94%B7%E6%B3%95.webp',
+    'Nguyên tố sư': 'ma-phap-su-nu.webp', 'Triệu hồi sư': 'ma-phap-su-nu.webp', 'Chiến đấu pháp sư': 'ma-phap-su-nu.webp', 'Học giả ma đạo': 'ma-phap-su-nu.webp', 'Tiểu ma nữ': 'ma-phap-su-nu.webp', 'Sư kết băng': 'ma-phap-su-nu.webp',
+    'Sư phá nguyên tố': 'ma-phap-su-nam.webp', 'Sư kết băng (nam)': 'ma-phap-su-nam.webp', 'Huyết pháp sư': 'ma-phap-su-nam.webp', 'Trục phong giả': 'ma-phap-su-nam.webp', 'Hành giả thứ nguyên': 'ma-phap-su-nam.webp',
     // Nâng cao của thánh chức giả
-    'Thánh kỵ sĩ': '%E5%A5%B3%E5%9C%A3%E8%81%8C%E8%80%85.webp', 'Thẩm phán dị đoan': '%E5%A5%B3%E5%9C%A3%E8%81%8C%E8%80%85.webp', 'Vu nữ': '%E5%A5%B3%E5%9C%A3%E8%81%8C%E8%80%85.webp', 'Dụ ma giả': '%E5%A5%B3%E5%9C%A3%E8%81%8C%E8%80%85.webp',
-    'Thánh kỵ sĩ (nam)': '%E7%94%B7%E5%9C%A3%E8%81%8C%E8%80%85.webp', 'Lam quyền thánh sứ': '%E7%94%B7%E5%9C%A3%E8%81%8C%E8%80%85.webp', 'Khu ma sư': '%E7%94%B7%E5%9C%A3%E8%81%8C%E8%80%85.webp', 'Phục thù giả': '%E7%94%B7%E5%9C%A3%E8%81%8C%E8%80%85.webp',
+    'Thánh kỵ sĩ': 'thanh-chuc-gia-nu.webp', 'Thẩm phán dị đoan': 'thanh-chuc-gia-nu.webp', 'Vu nữ': 'thanh-chuc-gia-nu.webp', 'Dụ ma giả': 'thanh-chuc-gia-nu.webp',
+    'Thánh kỵ sĩ (nam)': 'thanh-chuc-gia-nam.webp', 'Lam quyền thánh sứ': 'thanh-chuc-gia-nam.webp', 'Khu ma sư': 'thanh-chuc-gia-nam.webp', 'Phục thù giả': 'thanh-chuc-gia-nam.webp',
     // Nâng cao của các nghề khác
-    'Chinh chiến giả': '%E9%AD%94%E6%9E%AA.webp', 'Quyết chiến giả': '%E9%AD%94%E6%9E%AA.webp', 'Thợ săn': '%E9%AD%94%E6%9E%AA.webp', 'Ám thương sĩ': '%E9%AD%94%E6%9E%AA.webp',
-    'Đặc công': '%E6%9E%AA%E5%89%91%E5%A3%AB.webp', 'Lính đánh thuê chiến tuyến': '%E6%9E%AA%E5%89%91%E5%A3%AB.webp', 'Ám nhận': '%E6%9E%AA%E5%89%91%E5%A3%AB.webp', 'Chuyên gia nguyên năng': '%E6%9E%AA%E5%89%91%E5%A3%AB.webp',
-    'Thích khách': '%E6%9A%97%E5%A4%9C%E4%BD%BF%E8%80%85.webp', 'Tử linh thuật sĩ': '%E6%9A%97%E5%A4%9C%E4%BD%BF%E8%80%85.webp', 'Ninja': '%E6%9A%97%E5%A4%9C%E4%BD%BF%E8%80%85.webp', 'Ảnh vũ giả': '%E6%9A%97%E5%A4%9C%E4%BD%BF%E8%80%85.webp',
-    'Tinh linh kỵ sĩ': '%E5%AE%88%E6%8A%A4%E8%80%85.webp', 'Ma linh hỗn độn': '%E5%AE%88%E6%8A%A4%E8%80%85.webp', 'Paladin': '%E5%AE%88%E6%8A%A4%E8%80%85.webp', 'Long kỵ sĩ': '%E5%AE%88%E6%8A%A4%E8%80%85.webp',
-    'Muse': '%E5%BC%93%E7%AE%AD%E6%89%8B.webp', 'Lữ khách': '%E5%BC%93%E7%AE%AD%E6%89%8B.webp', 'Yêu hộ sứ': '%E5%BC%93%E7%AE%AD%E6%89%8B.webp'
+    'Chinh chiến giả': 'ma-thuong-si.webp', 'Quyết chiến giả': 'ma-thuong-si.webp', 'Thợ săn': 'ma-thuong-si.webp', 'Ám thương sĩ': 'ma-thuong-si.webp',
+    'Đặc công': 'thuong-kiem-si.webp', 'Lính đánh thuê chiến tuyến': 'thuong-kiem-si.webp', 'Ám nhận': 'thuong-kiem-si.webp', 'Chuyên gia nguyên năng': 'thuong-kiem-si.webp',
+    'Thích khách': 'su-gia-dem-toi.webp', 'Tử linh thuật sĩ': 'su-gia-dem-toi.webp', 'Ninja': 'su-gia-dem-toi.webp', 'Ảnh vũ giả': 'su-gia-dem-toi.webp',
+    'Tinh linh kỵ sĩ': 'ho-ve.webp', 'Ma linh hỗn độn': 'ho-ve.webp', 'Paladin': 'ho-ve.webp', 'Long kỵ sĩ': 'ho-ve.webp',
+    'Muse': 'cung-thu.webp', 'Lữ khách': 'cung-thu.webp', 'Yêu hộ sứ': 'cung-thu.webp'
   };
-  const DEFAULT_CLASS_BACKGROUND = '%E9%AC%BC%E5%89%91.webp';
+  const DEFAULT_CLASS_BACKGROUND = 'gui-jian.webp';
 
   // Cache nghề nghiệp hiện tại để tránh cập nhật ảnh nền lặp lại.
   let _cachedClassName = null;
@@ -2461,7 +2461,7 @@ ${lockedSkillsJson}
   };
 
   // URL ảnh nền.
-  const HEADER_BG_URL = 'https://gitgud.io/Rown/dnf/-/raw/master/background/rvassh.webp';
+  const HEADER_BG_URL = 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/background/rvassh.webp';
 
   // Kiểm tra và tải ảnh nền header.
   const loadHeaderBackground = () => {
@@ -7578,7 +7578,7 @@ ri-sword-line ri-shield-line ri-fire-fill ri-drop-fill ri-skull-line ri-ghost-2-
     z-index: 10;
     position: relative;
     overflow: hidden;
-    background: url('https://gitgud.io/Rown/dnf/-/raw/master/background/%E9%AC%BC%E5%89%91.webp') no-repeat center center;
+    background: url('https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/background/gui-jian.webp') no-repeat center center;
     background-size: cover;
     padding: 20px 15px 10px; /* Reduced header padding */
 }
@@ -8612,7 +8612,7 @@ ri-sword-line ri-shield-line ri-fire-fill ri-drop-fill ri-skull-line ri-ghost-2-
     aspect-ratio: 1 / 1;
     margin: 0 auto 15px;
     background-color: var(--bg-color);
-    background-image: url('https://gitgud.io/Rown/dnf/-/raw/master/background/29l6g5.webp');
+    background-image: url('https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/background/29l6g5.webp');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;

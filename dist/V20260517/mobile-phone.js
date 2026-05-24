@@ -267,7 +267,7 @@ body #mobile-trigger-btn.tablet-mode {
     flex-direction: column !important;
     position: relative !important;
     background: #fff5f7 !important;
-    background-image: url('https://gitgud.io/Rown/dnf/-/raw/master/%E5%B0%81%E9%9D%A2/%E6%B3%95%E9%9C%B2%E7%89%B9.webp') !important;
+    background-image: url('https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/cover/phap-lo-dac.webp') !important;
     background-size: cover !important;
     background-position: center !important;
     background-repeat: no-repeat !important;
@@ -2158,24 +2158,24 @@ function setupPhoneUiUnderscoreObserver(root = document.getElementById('mobile-p
 
 // ==================== Cấu hình avatar nhân vật ====================
 const CHARACTER_AVATAR_CONFIG = {
-    'Nại Nhã Lệ': 'https://gitgud.io/Rown/dnf/-/raw/master/%E5%A4%B4%E5%83%8F/%E5%A5%88%E9%9B%85%E4%B8%BD.webp',
-    'Tinh Cực': 'https://gitgud.io/Rown/dnf/-/raw/master/%E5%A4%B4%E5%83%8F/%E6%98%9F%E6%9E%81.webp',
-    'Pháp Lộ Đặc': 'https://gitgud.io/Rown/dnf/-/raw/master/%E5%A4%B4%E5%83%8F/%E6%B3%95%E9%9C%B2%E7%89%B9.webp',
-    'Asuna': 'https://gitgud.io/Rown/dnf/-/raw/master/%E5%A4%B4%E5%83%8F/%E4%BA%9A%E4%B8%9D%E5%A8%9C.webp',
-    'Ruruka': 'https://gitgud.io/Rown/dnf/-/raw/master/%E5%A4%B4%E5%83%8F/%E9%9C%B2%E9%9C%B2%E5%8D%A1.webp',
-    'Orchis': 'https://gitgud.io/Rown/dnf/-/raw/master/%E5%A4%B4%E5%83%8F/%E5%A5%A5%E5%A5%91%E4%B8%9D.webp',
-    'Hồng Liên': 'https://gitgud.io/Rown/dnf/-/raw/master/%E5%A4%B4%E5%83%8F/%E7%BA%A2%E8%8E%B2.webp',
-    'Aiklisia': 'https://gitgud.io/Rown/dnf/-/raw/master/%E5%A4%B4%E5%83%8F/%E8%89%BE%E5%85%8B%E8%8E%89%E8%A5%BF%E5%A8%85.webp',
-    'Kurami': 'https://gitgud.io/Rown/dnf/-/raw/master/%E5%A4%B4%E5%83%8F/%E5%85%8B%E6%8B%89%E7%B1%B3.webp',
-    'Hatsuse Izuna': 'https://gitgud.io/Rown/dnf/-/raw/master/%E5%A4%B4%E5%83%8F/%E5%88%9D%E6%BF%91%E4%BC%8A%E7%BA%B2.webp',
-    'Stephanie': 'https://gitgud.io/Rown/dnf/-/raw/master/%E5%A4%B4%E5%83%8F/%E5%8F%B2%E8%92%82%E8%8A%AC%E5%A6%AE.webp',
-    'Jibril': 'https://gitgud.io/Rown/dnf/-/raw/master/%E5%A4%B4%E5%83%8F/%E5%90%89%E6%99%AE%E8%8E%89%E5%B0%94.webp',
-    'Tetto': 'https://gitgud.io/Rown/dnf/-/raw/master/%E5%A4%B4%E5%83%8F/%E7%89%B9%E5%9B%BE.webp',
-    'Shiro': 'https://gitgud.io/Rown/dnf/-/raw/master/%E5%A4%B4%E5%83%8F/%E7%99%BD.webp',
-    'Hiiro': 'https://gitgud.io/Rown/dnf/-/raw/master/%E5%A4%B4%E5%83%8F/%E7%BB%AF.webp',
-    'Feel': 'https://gitgud.io/Rown/dnf/-/raw/master/%E5%A4%B4%E5%83%8F/%E8%8F%B2%E5%B0%94.webp',
-    "Katisia": 'https://gitgud.io/Rown/dnf/-/raw/master/%E5%A4%B4%E5%83%8F/%E5%8D%A1%E6%8F%90%E5%B8%8C%E5%A8%85.webp',
-    "Amis": 'https://gitgud.io/Rown/dnf/-/raw/master/%E5%A4%B4%E5%83%8F/%E7%88%B1%E5%BC%A5%E6%96%AF.webp'
+    'Nại Nhã Lệ': 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/nai-nha-le.webp',
+    'Tinh Cực': 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/tinh-cuc.webp',
+    'Pháp Lộ Đặc': 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/phap-lo-dac.webp',
+    'Asuna': 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/asuna.webp',
+    'Ruruka': 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/ruruka.webp',
+    'Orchis': 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/orchis.webp',
+    'Hồng Liên': 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/hong-lien.webp',
+    'Aiklisia': 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/aiklisia.webp',
+    'Kurami': 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/kurami.webp',
+    'Hatsuse Izuna': 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/hatsuse-izuna.webp',
+    'Stephanie': 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/stephanie.webp',
+    'Jibril': 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/jibril.webp',
+    'Tetto': 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/tetto.webp',
+    'Shiro': 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/shiro.webp',
+    'Hiiro': 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/hiiro.webp',
+    'Feel': 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/feel.webp',
+    "Katisia": 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/katisia.webp',
+    "Amis": 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/amis.webp'
 };
 
 Object.assign(CHARACTER_AVATAR_CONFIG, {
@@ -2294,7 +2294,7 @@ let phoneStartY = 0;
 let isPinned = false;
 
 // Dữ liệu hình nền.
-const phoneWpBaseUrl = 'https://gitgud.io/Rown/dnf/-/raw/master/%E5%B0%81%E9%9D%A2/';
+const phoneWpBaseUrl = 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/cover/';
 const phoneWpData = {
     'Katisia': ['\u5361\u63d0\u5e0c\u5a05'],
     'Nại Nhã Lệ': ['\u5948\u96c5\u4e3d'],
@@ -2315,11 +2315,32 @@ const phoneWpData = {
     'Kurami': ['\u514b\u62c9\u7c73'],
     'Hatsuse Izuna': ['\u521d\u6fd1\u4f0a\u7eb2']
 };
+const phoneWpFileMap = {
+    '\u5361\u63d0\u5e0c\u5a05': 'katisia',
+    '\u5361\u63d0\u897f\u5a05': 'katisia',
+    '\u5948\u96c5\u4e3d': 'nai-nha-le',
+    '\u661f\u6781': 'tinh-cuc',
+    '\u6cd5\u9732\u7279': 'phap-lo-dac',
+    '\u7ea2\u83b2': 'hong-lien',
+    '\u827e\u514b\u8389\u897f\u5a05': 'aiklisia',
+    '\u51ef\u5c14\u8d1d\u6d1b\u65af': 'cerberus',
+    '\u591c\u6597': 'yato',
+    '\u5965\u5951\u4e1d': 'orchis',
+    '\u764c\u9a91\u58eb': 'cancer-knight',
+    '\u7687\u51a0': 'crown',
+    '\u7eef': 'hiiro',
+    '\u767d': 'shiro',
+    '\u5409\u666e\u8389\u5c14': 'jibril',
+    '\u53f2\u8482\u82ac\u59ae': 'stephanie',
+    '\u83f2\u5c14': 'feel',
+    '\u514b\u62c9\u7c73': 'kurami',
+    '\u521d\u6fd1\u4f0a\u7eb2': 'hatsuse-izuna'
+};
 // Tạo danh mục hình nền với URL đầy đủ.
 const phoneWpCategories = Object.fromEntries(
     Object.entries(phoneWpData).map(([name, files]) => [
         name,
-        files.map(file => `${phoneWpBaseUrl}${encodeURIComponent(file)}.webp`)
+        files.map(file => `${phoneWpBaseUrl}${encodeURIComponent(phoneWpFileMap[file] || file)}.webp`)
     ])
 );
 
@@ -9860,7 +9881,7 @@ function setWallpaper(imageUrl) {
 // Khôi phục hình nền
 function restoreWallpaper() {
     try {
-        const defaultWallpaper = 'https://gitgud.io/Rown/dnf/-/raw/master/%E5%B0%81%E9%9D%A2/%E6%B3%95%E9%9C%B2%E7%89%B9.webp';
+        const defaultWallpaper = 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/cover/phap-lo-dac.webp';
         let savedWallpaper = localStorage.getItem('dnf-phone-wallpaper');
 
         // Kiểm tra URL hình nền đã lưu có hợp lệ hay không: phải có nội dung và bắt đầu bằng http.
@@ -9952,7 +9973,7 @@ function uploadCustomWallpaper(file) {
 // Đặt lại thành hình nền mặc định
 function resetWallpaper() {
 
-    const defaultWallpaper = 'https://gitgud.io/Rown/dnf/-/raw/master/%E5%B0%81%E9%9D%A2/%E6%B3%95%E9%9C%B2%E7%89%B9.webp';
+    const defaultWallpaper = 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/cover/phap-lo-dac.webp';
 
     const $screen = $('#mobile-phone-overlay .mobile-phone-screen');
 
