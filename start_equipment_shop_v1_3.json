@@ -1,0 +1,1372 @@
+{
+  "version": "starter-shop-v3",
+  "updatedAt": "2026-04-24",
+  "description": "Danh sách hàng hóa cơ bản của cửa hàng trang bị mở đầu. Chỉ bán trang bị từ Tinh_lương trở lên; nếu chưa ghi Giá_RP thì kết toán theo giá mặc định của phẩm chất.",
+  "Giá_RP_mặc_định": {
+    "Tinh_lương": 1,
+    "Hiếm": 5,
+    "Thần_khí": 20,
+    "Truyền_thuyết": 35,
+    "Sử_thi": 50
+  },
+  "Giá_bán_RP_mặc_định": {
+    "Tinh_lương": 1,
+    "Hiếm": 5,
+    "Thần_khí": 20,
+    "Truyền_thuyết": 35,
+    "Sử_thi": 50
+  },
+  "items": [
+    {
+      "id": "weapon_mercenary_dagger",
+      "Phân_loại": "Vũ_khí",
+      "Loại": "Vũ_khí",
+      "Vị_trí_trang_bị": "Tay_chính",
+      "Tên": "Kiếm ngắn lính đánh thuê",
+      "Phẩm_chất": "Tinh_lương",
+      "Cấp_độ": 1,
+      "Hạng_phẩm": 2,
+      "Nhãn": [
+        "kiếm_ngắn",
+        "cận_chiến",
+        "nhanh_nhẹn"
+      ],
+      "Cộng_thêm_thuộc_tính": {
+        "Nhanh_nhẹn": 1
+      },
+      "Hiệu_quả": "[Vừa tay] Khi thực hiện hành động ẩn nấp hoặc áp sát cự ly gần, kiểm định Nhanh_nhẹn(Ẩn_nấp) +1.",
+      "Mô_tả": "Một thanh kiếm ngắn được rèn tinh xảo, thường thấy bên hông lính đánh thuê biên cảnh và thợ săn tiền thưởng; nhẹ, nhanh và dễ ra tay."
+    },
+    {
+      "id": "weapon_guard_spear",
+      "Phân_loại": "Vũ_khí",
+      "Loại": "Vũ_khí",
+      "Vị_trí_trang_bị": "Tay_chính",
+      "Tên": "Trường thương phòng vệ",
+      "Phẩm_chất": "Tinh_lương",
+      "Cấp_độ": 1,
+      "Hạng_phẩm": 1,
+      "Nhãn": [
+        "trường_thương",
+        "cận_chiến",
+        "sức_mạnh"
+      ],
+      "Cộng_thêm_thuộc_tính": {
+        "Sức_mạnh": 1
+      },
+      "Hiệu_quả": "[Huấn luyện lập trận] Khi phòng thủ theo đội hình hoặc cầm thương cảnh giới, kiểm định Sức_mạnh(Vận_động) +1.",
+      "Mô_tả": "Hàng dân dụng lưu ra thị trường từ mẫu trường thương chế thức của quân phòng thành; cán thương chắc và bền."
+    },
+    {
+      "id": "weapon_apprentice_staff",
+      "Phân_loại": "Vũ_khí",
+      "Loại": "Vũ_khí",
+      "Vị_trí_trang_bị": "Tay_chính",
+      "Tên": "Pháp trượng tập sự",
+      "Phẩm_chất": "Tinh_lương",
+      "Cấp_độ": 1,
+      "Hạng_phẩm": 2,
+      "Nhãn": [
+        "pháp_trượng",
+        "thi_pháp",
+        "trí_lực"
+      ],
+      "Cộng_thêm_thuộc_tính": {
+        "Trí_lực": 1
+      },
+      "Hiệu_quả": "[Lõi gỗ dẫn dòng] Khi dẫn dắt thuật thức cấp thấp, kiểm định Trí_lực(Bí_thuật) +1.",
+      "Mô_tả": "Pháp trượng luyện tập học viện phát cho tân sinh; lõi trượng dùng gỗ tần bì trắng dễ dẫn ma lực."
+    },
+    {
+      "id": "weapon_ranger_shortbow",
+      "Phân_loại": "Vũ_khí",
+      "Loại": "Vũ_khí",
+      "Vị_trí_trang_bị": "Tay_chính",
+      "Tên": "Cung ngắn du hiệp",
+      "Phẩm_chất": "Tinh_lương",
+      "Cấp_độ": 1,
+      "Hạng_phẩm": 3,
+      "Nhãn": [
+        "cung",
+        "tầm_xa",
+        "nhanh_nhẹn"
+      ],
+      "Cộng_thêm_thuộc_tính": {
+        "Nhanh_nhẹn": 1
+      },
+      "Hiệu_quả": "[Thuần thục đường rừng] Khi băng qua rừng cây, phế tích hoặc địa hình chênh cao, kiểm định Nhanh_nhẹn(Nhào_lộn) +1.",
+      "Mô_tả": "Thân cung ngắn và nhẹ, phù hợp với kiểm lâm và thợ săn mới vào nghề cần vừa di chuyển vừa bắn."
+    },
+    {
+      "id": "armor_wayfarer_vest",
+      "Phân_loại": "Phòng_cụ",
+      "Loại": "Phòng_cụ",
+      "Vị_trí_trang_bị": "Áo",
+      "Tên": "Giáp da lữ nhân",
+      "Phẩm_chất": "Tinh_lương",
+      "Cấp_độ": 1,
+      "Hạng_phẩm": 2,
+      "Nhãn": [
+        "giáp_da",
+        "cơ_động",
+        "nhanh_nhẹn"
+      ],
+      "Cộng_thêm_thuộc_tính": {
+        "Nhanh_nhẹn": 1
+      },
+      "Hiệu_quả": "[Lớp khâu chống mưa] Khi hành động trong thời tiết xấu, kiểm định Thể_chất(Sức_bền) +1.",
+      "Mô_tả": "Giáp nhẹ được may từ nhiều lớp da mềm; đây là trang bị hộ thân thường gặp nhất của mạo hiểm giả cấp thấp."
+    },
+    {
+      "id": "armor_light_steel_greaves",
+      "Phân_loại": "Phòng_cụ",
+      "Loại": "Phòng_cụ",
+      "Vị_trí_trang_bị": "Quần",
+      "Tên": "Giáp ống chân thép nhẹ",
+      "Phẩm_chất": "Tinh_lương",
+      "Cấp_độ": 1,
+      "Hạng_phẩm": 2,
+      "Nhãn": [
+        "kim_loại",
+        "phòng_hộ",
+        "thể_chất"
+      ],
+      "Cộng_thêm_thuộc_tính": {
+        "Thể_chất": 1
+      },
+      "Hiệu_quả": "[Chắn đá vụn] Khi vượt qua bãi đá lở hoặc đường dốc, kiểm định Thể_chất(Sức_bền) +1.",
+      "Mô_tả": "Giáp nhẹ che cẳng chân và đầu gối, thường được hộ vệ và người áp vận sử dụng."
+    },
+    {
+      "id": "armor_field_shoulderguard",
+      "Phân_loại": "Phòng_cụ",
+      "Loại": "Phòng_cụ",
+      "Vị_trí_trang_bị": "Vai",
+      "Tên": "Hộ vai dã chiến",
+      "Phẩm_chất": "Tinh_lương",
+      "Cấp_độ": 1,
+      "Hạng_phẩm": 2,
+      "Nhãn": [
+        "hộ_vai",
+        "hành_quân",
+        "thể_chất"
+      ],
+      "Cộng_thêm_thuộc_tính": {
+        "Thể_chất": 1
+      },
+      "Hiệu_quả": "[Thích ứng gánh nặng] Khi mang hành trang và trang bị trong thời gian dài, kiểm định Sức_mạnh(Vận_động) +1.",
+      "Mô_tả": "Hộ vai ép chồng từ da thuộc và phiến thép mỏng, chế tạo riêng cho các cuộc hành quân đường dài."
+    },
+    {
+      "id": "armor_tinker_belt_basic",
+      "Phân_loại": "Phòng_cụ",
+      "Loại": "Phòng_cụ",
+      "Vị_trí_trang_bị": "Đai",
+      "Tên": "Đai công cụ xưởng thợ",
+      "Phẩm_chất": "Tinh_lương",
+      "Cấp_độ": 1,
+      "Hạng_phẩm": 3,
+      "Nhãn": [
+        "đai_lưng",
+        "công_cụ",
+        "trí_lực"
+      ],
+      "Cộng_thêm_thuộc_tính": {
+        "Trí_lực": 1
+      },
+      "Hiệu_quả": "[Sắp xếp đồ treo] Khi sử dụng công cụ hoặc vật phẩm luyện kim, kiểm định Trí_lực(Điều_tra) +1.",
+      "Mô_tả": "Đai da dày gắn đầy móc nhỏ và túi chứa, rất được thợ học việc ưa chuộng."
+    },
+    {
+      "id": "armor_trailblazer_boots",
+      "Phân_loại": "Phòng_cụ",
+      "Loại": "Phòng_cụ",
+      "Vị_trí_trang_bị": "Giày",
+      "Tên": "Giày ngắn người mở đường",
+      "Phẩm_chất": "Tinh_lương",
+      "Cấp_độ": 1,
+      "Hạng_phẩm": 3,
+      "Nhãn": [
+        "giày",
+        "cơ_động",
+        "nhanh_nhẹn"
+      ],
+      "Cộng_thêm_thuộc_tính": {
+        "Nhanh_nhẹn": 1
+      },
+      "Hiệu_quả": "[Thoát lún bùn] Khi di chuyển trên bùn nông, đá vụn hoặc đường nát sau mưa, kiểm định Nhanh_nhẹn(Nhào_lộn) +1.",
+      "Mô_tả": "Giày ngắn đi đường có đế đóng đinh đồng nhỏ dày đặc, phù hợp với đường biên cảnh và chạy việc ngoài hoang dã."
+    },
+    {
+      "id": "jewel_steadyheart_ring",
+      "Phân_loại": "Trang_sức",
+      "Loại": "Trang_sức",
+      "Vị_trí_trang_bị": "Nhẫn",
+      "Tên": "Nhẫn An Tâm",
+      "Phẩm_chất": "Tinh_lương",
+      "Cấp_độ": 1,
+      "Hạng_phẩm": 3,
+      "Nhãn": [
+        "nhẫn",
+        "sinh_mệnh",
+        "cảm_nhận"
+      ],
+      "Cộng_thêm_thuộc_tính": {
+        "Giới_hạn_sinh_mệnh": 5
+      },
+      "Hiệu_quả": "[Ổn tức] Sau khi giật mình tỉnh giấc, gác đêm hoặc đi đường dài, kiểm định Thể_chất(Sức_bền) +1.",
+      "Mô_tả": "Mặt trong vòng nhẫn khắc hoa văn an thần; một món hộ thân nhỏ mà thợ già thường bán cho người đi xa."
+    },
+    {
+      "id": "jewel_march_bracer",
+      "Phân_loại": "Trang_sức",
+      "Loại": "Trang_sức",
+      "Vị_trí_trang_bị": "Vòng_tay",
+      "Tên": "Hộ tý hành quân",
+      "Phẩm_chất": "Tinh_lương",
+      "Cấp_độ": 1,
+      "Hạng_phẩm": 2,
+      "Nhãn": [
+        "vòng_tay",
+        "sức_bền",
+        "thể_chất"
+      ],
+      "Cộng_thêm_thuộc_tính": {
+        "Giới_hạn_sinh_mệnh": 5
+      },
+      "Hiệu_quả": "[Bó cánh tay] Khi vung chém, kéo cung hoặc khuân vác, kiểm định Sức_mạnh(Vận_động) +1.",
+      "Mô_tả": "Hộ tý ghép từ da thuộc và sắt mỏng, ban đầu là đồ huấn luyện trong kho quân nhu."
+    },
+    {
+      "id": "jewel_wayfinder_pendant",
+      "Phân_loại": "Trang_sức",
+      "Loại": "Trang_sức",
+      "Vị_trí_trang_bị": "Vòng_cổ",
+      "Tên": "Mặt dây chỉ đường",
+      "Phẩm_chất": "Tinh_lương",
+      "Cấp_độ": 1,
+      "Hạng_phẩm": 3,
+      "Nhãn": [
+        "vòng_cổ",
+        "du_hành",
+        "cảm_nhận"
+      ],
+      "Cộng_thêm_thuộc_tính": {
+        "Giới_hạn_sinh_mệnh": 6
+      },
+      "Hiệu_quả": "[Nhận gió] Khi truy dấu ngoài hoang dã hoặc phân biệt phương hướng, kiểm định Cảm_nhận(Sinh_tồn) +1.",
+      "Mô_tả": "Trong mặt dây phong kín một mảnh cỏ lữ phong nhỏ; đây là phụ kiện phổ biến của người dẫn đường và hướng đạo."
+    },
+    {
+      "id": "weapon_workshop_repeater",
+      "Phân_loại": "Vũ_khí",
+      "Loại": "Vũ_khí",
+      "Vị_trí_trang_bị": "Tay_chính",
+      "Tên": "Nỏ liên hoàn xưởng thợ",
+      "Phẩm_chất": "Hiếm",
+      "Cấp_độ": 1,
+      "Hạng_phẩm": 5,
+      "Nhãn": [
+        "nỏ",
+        "tầm_xa",
+        "cơ_quan"
+      ],
+      "Cộng_thêm_thuộc_tính": {
+        "Nhanh_nhẹn": 1,
+        "Cơ_bản": 1
+      },
+      "Hiệu_quả": "[Hộp nỏ tháo nhanh] Khi bạn lên dây lại hoặc chỉnh hộp tên sau vật che chắn, lượt này lần kiểm định tấn công tầm xa kế tiếp +1.",
+      "Mô_tả": "Nỏ liên hoàn thử chế từ xưởng địa tinh, kết cấu gọn, hợp với xạ thủ dựa vào nhịp bắn và địa hình.",
+      "Giá_RP": 4,
+      "Giá_bán_RP": 4
+    },
+    {
+      "id": "weapon_wolfhunt_knife",
+      "Phân_loại": "Vũ_khí",
+      "Loại": "Vũ_khí",
+      "Vị_trí_trang_bị": "Tay_chính",
+      "Tên": "Dao găm săn sói",
+      "Phẩm_chất": "Hiếm",
+      "Cấp_độ": 1,
+      "Hạng_phẩm": 4,
+      "Nhãn": [
+        "dao_găm",
+        "cận_chiến",
+        "truy_săn"
+      ],
+      "Cộng_thêm_thuộc_tính": {
+        "Nhanh_nhẹn": 1,
+        "Nâng_cao": 1
+      },
+      "Hiệu_quả": "[Thấy máu bám dấu] Khi bạn truy kích mục tiêu có mô tả đang chảy máu, kích hoạt trong 1 lượt: kiểm định Cảm_nhận(Sinh_tồn) +1 và kiểm định tấn công vòng sau lưng +1.",
+      "Mô_tả": "Lưỡi dao hình trăng non tiện cho đòn kết liễu và quấn sát cận thân; đây là vũ khí phụ của thợ săn khi đối mặt dã thú hung bạo."
+    },
+    {
+      "id": "weapon_stormcall_staff",
+      "Phân_loại": "Vũ_khí",
+      "Loại": "Vũ_khí",
+      "Vị_trí_trang_bị": "Tay_chính",
+      "Tên": "Pháp trượng Gió Reo",
+      "Phẩm_chất": "Hiếm",
+      "Cấp_độ": 1,
+      "Hạng_phẩm": 5,
+      "Nhãn": [
+        "pháp_trượng",
+        "thi_pháp",
+        "hệ_gió"
+      ],
+      "Cộng_thêm_thuộc_tính": {
+        "Trí_lực": 1,
+        "Cơ_bản": 1
+      },
+      "Hiệu_quả": "[Dẫn vết gió] Khi bạn thi pháp ở địa hình trống trải, lượt này một lần kiểm định trúng đích pháp thuật +1.",
+      "Mô_tả": "Đầu trượng khảm đá gió reo, có thể dẫn các phong thuật cấp thấp của người thi pháp vào quỹ đạo rõ ràng hơn."
+    },
+    {
+      "id": "armor_mystic_apprentice_robe",
+      "Phân_loại": "Phòng_cụ",
+      "Loại": "Phòng_cụ",
+      "Vị_trí_trang_bị": "Áo",
+      "Tên": "Áo choàng học đồ bí văn",
+      "Phẩm_chất": "Hiếm",
+      "Cấp_độ": 1,
+      "Hạng_phẩm": 5,
+      "Nhãn": [
+        "giáp_vải",
+        "thi_pháp",
+        "bùa_hộ"
+      ],
+      "Cộng_thêm_thuộc_tính": {
+        "Trí_lực": 1,
+        "Cơ_bản": 1
+      },
+      "Hiệu_quả": "[Màn hộ ánh dư] Khi bạn hoàn tất một lần dẫn pháp thuật, kích hoạt trong 1 lượt: giảm sát thương ma pháp +5%.",
+      "Mô_tả": "Pháp bào chế thức của học đồ cao cấp trong học viện; gấu áo khâu bí văn chỉ bạc giúp ổn định dòng ma lực hồi lưu."
+    },
+    {
+      "id": "armor_hunter_belt",
+      "Phân_loại": "Phòng_cụ",
+      "Loại": "Phòng_cụ",
+      "Vị_trí_trang_bị": "Đai",
+      "Tên": "Đai lưng lối săn",
+      "Phẩm_chất": "Hiếm",
+      "Cấp_độ": 1,
+      "Hạng_phẩm": 4,
+      "Nhãn": [
+        "đai_lưng",
+        "truy_vết",
+        "cảm_nhận"
+      ],
+      "Cộng_thêm_thuộc_tính": {
+        "Cảm_nhận": 1,
+        "Nâng_cao": 1
+      },
+      "Hiệu_quả": "[Nhận hướng qua dấu cỏ] Khi bạn lần theo mục tiêu qua rừng, tuyết nông hoặc bùn đất, lần kiểm định truy dấu này +1.",
+      "Mô_tả": "Mép đai có khắc dấu phương hướng và khóa đồng ghi đường, rất được kiểm lâm yêu thích."
+    },
+    {
+      "id": "armor_wanderer_trousers",
+      "Phân_loại": "Phòng_cụ",
+      "Loại": "Phòng_cụ",
+      "Vị_trí_trang_bị": "Quần",
+      "Tên": "Quần dài lãng khách",
+      "Phẩm_chất": "Hiếm",
+      "Cấp_độ": 1,
+      "Hạng_phẩm": 4,
+      "Nhãn": [
+        "quần",
+        "cơ_động",
+        "thể_chất"
+      ],
+      "Cộng_thêm_thuộc_tính": {
+        "Thể_chất": 1,
+        "Cơ_bản": 1
+      },
+      "Hiệu_quả": "[Bôn ba đường dài] Khi bạn di chuyển liên tục hơn 1 giờ, kiểm định Thể_chất(Sức_bền) +1; [Hồi phục nhanh] Khi bạn nghỉ ngắn, sinh mệnh hồi phục thêm Cấp_độ x 2 điểm.",
+      "Mô_tả": "Quần dài ghép từ vải bạt chịu mài mòn và da thuộc, gia cố hai lớp ở đầu gối và hông; lựa chọn hàng đầu của người đi xa."
+    },
+    {
+      "id": "jewel_ember_ring",
+      "Phân_loại": "Trang_sức",
+      "Loại": "Trang_sức",
+      "Vị_trí_trang_bị": "Nhẫn",
+      "Tên": "Nhẫn Tàn Tro",
+      "Phẩm_chất": "Hiếm",
+      "Cấp_độ": 1,
+      "Hạng_phẩm": 5,
+      "Nhãn": [
+        "nhẫn",
+        "thi_pháp",
+        "hệ_lửa"
+      ],
+      "Cộng_thêm_thuộc_tính": {
+        "Giới_hạn_sinh_mệnh": 8,
+        "Cơ_bản": 1
+      },
+      "Hiệu_quả": "[Ánh tro hâm ấm] Khi bạn dừng lại trong môi trường lạnh giá một thời gian ngắn, trong 1 lượt tiếp theo kiểm định kháng Thể_chất +1.",
+      "Mô_tả": "Nhẫn hộ thân do tế tư lò lửa ban cho học đồ mới, mặt trong còn sót lại than hồng vi nhiệt duy trì ổn định."
+    },
+    {
+      "id": "jewel_prayer_bracer",
+      "Phân_loại": "Trang_sức",
+      "Loại": "Trang_sức",
+      "Vị_trí_trang_bị": "Vòng_tay",
+      "Tên": "Vòng hộ thủ Cầu Sáng",
+      "Phẩm_chất": "Hiếm",
+      "Cấp_độ": 1,
+      "Hạng_phẩm": 4,
+      "Nhãn": [
+        "vòng_tay",
+        "thủ_hộ",
+        "cảm_nhận"
+      ],
+      "Cộng_thêm_thuộc_tính": {
+        "Giới_hạn_sinh_mệnh": 8,
+        "Nâng_cao": 1
+      },
+      "Hiệu_quả": "[Hồi âm lời cầu] Khi bạn bảo vệ đồng đội rồi chịu đòn phản kích đầu tiên, lần kiểm định phòng ngự này +1.",
+      "Mô_tả": "Hộ hoàn lưu ra từ giáo hội cũ, bên trên khắc một đoạn cầu nguyện bình minh ngắn."
+    },
+    {
+      "id": "weapon_oathfire_greatsword",
+      "Phân_loại": "Vũ_khí",
+      "Loại": "Vũ_khí",
+      "Vị_trí_trang_bị": "Tay_chính",
+      "Tên": "Cự kiếm Thệ Diễm",
+      "Phẩm_chất": "Thần_khí",
+      "Cấp_độ": 1,
+      "Hạng_phẩm": 8,
+      "Nhãn": [
+        "cự_kiếm",
+        "cận_chiến",
+        "hỏa_diễm"
+      ],
+      "Cộng_thêm_thuộc_tính": {
+        "Sức_mạnh": 1,
+        "Thể_chất": 1,
+        "Nâng_cao": 1
+      },
+      "Hiệu_quả": "[Hồi âm lời thề cháy] Khi bạn chủ động chống đỡ một lần xung phong chính diện, kích hoạt trong 1 lượt: kiểm định tấn công cận chiến +2 và giảm sát thương vật lý +10%; [Thệ Hỏa Trảm] Mỗi trận 1 lần, vung ra một nhát trọng trảm kéo đuôi lửa, gây [500% + 15% x (Cấp_độ - 1)] sát thương vật lý và cộng thêm 50% sát thương hỏa diễm. Mục tiêu phải vượt qua kiểm định kháng Sức_mạnh DC18, nếu thất bại bị đẩy lùi 10 thước và rơi vào trạng thái bốc cháy (đầu mỗi lượt chịu Cấp_độ x 2 sát thương hỏa diễm, kéo dài 3 lượt).",
+      "Mô_tả": "Từng thuộc về một kỵ sĩ thủ thành trong đêm thành phố bốc cháy; sống kiếm vẫn phong giữ tàn hỏa của lời thề.",
+      "Giá_RP": 22,
+      "Giá_bán_RP": 22
+    },
+    {
+      "id": "weapon_glassfeather_bow",
+      "Phân_loại": "Vũ_khí",
+      "Loại": "Vũ_khí",
+      "Vị_trí_trang_bị": "Tay_chính",
+      "Tên": "Trường cung Ly Vũ",
+      "Phẩm_chất": "Thần_khí",
+      "Cấp_độ": 1,
+      "Hạng_phẩm": 7,
+      "Nhãn": [
+        "trường_cung",
+        "tầm_xa",
+        "áp_gió"
+      ],
+      "Cộng_thêm_thuộc_tính": {
+        "Nhanh_nhẹn": 1,
+        "Cảm_nhận": 1,
+        "Cơ_bản": 1
+      },
+      "Hiệu_quả": "[Lệch hướng theo áp gió] Khi bạn giương cung ở nơi cao hoặc vị trí thuận gió, lần kiểm định tấn công tầm xa kế tiếp +2 và sát thương +20%; [Định dấu đuổi gió] Mỗi trận 1 lần, đến trước lượt tiếp theo của bạn, với mục tiêu đã trúng đòn, kiểm định tấn công của bạn nhằm vào mục tiêu đó +3 và mục tiêu không thể nhận cộng thêm từ vật che chắn.",
+      "Mô_tả": "Được cải chế từ phôi cung do di dân bầu trời để lại; cánh cung dưới ánh nắng ánh lên khúc xạ như lông vũ thủy tinh."
+    },
+    {
+      "id": "jewel_runesmith_bracer",
+      "Phân_loại": "Trang_sức",
+      "Loại": "Trang_sức",
+      "Vị_trí_trang_bị": "Vòng_tay",
+      "Tên": "Hộ tý thợ phù văn",
+      "Phẩm_chất": "Thần_khí",
+      "Cấp_độ": 1,
+      "Hạng_phẩm": 7,
+      "Nhãn": [
+        "vòng_tay",
+        "minh_văn",
+        "thi_pháp"
+      ],
+      "Cộng_thêm_thuộc_tính": {
+        "Trí_lực": 1,
+        "Thể_chất": 1,
+        "Chuyển_nghề": 1
+      },
+      "Hiệu_quả": "[Viết tiếp vết phù] Khi bạn duy trì thành công một hiệu quả kéo dài, kích hoạt trong 1 lượt: kiểm định kháng Trí_lực +2 và giảm sát thương ma pháp +10%; [Hồi văn quán chú] Mỗi trận 1 lần, khiến lần kế tiếp dùng kỹ năng lõi nghề nghiệp được kiểm định tấn công +3 hoặc DC pháp thuật +3, đồng thời sát thương +25%.",
+      "Mô_tả": "Xuất xứ từ xưởng của học phái phù văn cổ; mặt trong hộ tý khắc đầy mạch hồi văn chỉ thợ cả mới đọc hiểu."
+    },
+    {
+      "id": "weapon_dawnsong_blade",
+      "Phân_loại": "Vũ_khí",
+      "Loại": "Vũ_khí",
+      "Vị_trí_trang_bị": "Tay_chính",
+      "Tên": "Trường đao Khúc Ca Bình Minh",
+      "Phẩm_chất": "Truyền_thuyết",
+      "Cấp_độ": 1,
+      "Hạng_phẩm": 10,
+      "Nhãn": [
+        "trường_kiếm",
+        "cận_chiến",
+        "đấu_tay_đôi"
+      ],
+      "Cộng_thêm_thuộc_tính": {
+        "Sức_mạnh": 1,
+        "Nhanh_nhẹn": 1,
+        "Nâng_cao": 1,
+        "Tất_sát": 1
+      },
+      "Hiệu_quả": "[Ứng chiến bình minh] Khi bạn lần đầu áp chế chính diện một cường địch trong chiến đấu, kích hoạt trong 2 lượt: kiểm định tấn công cận chiến +2 và sát thương bạn gây cho mục tiêu +15%; [Lưỡi sao mai rơi] Mỗi trận 1 lần, mở rộng một nhát chém đơn thể thành phạm vi hình nón 15 thước, gây [800% + 20% x (Cấp_độ - 1)] sát thương vật lý. Mục tiêu phải vượt qua kiểm định kháng Nhanh_nhẹn DC18, nếu thất bại chịu toàn bộ sát thương và bị đẩy lùi 10 thước.",
+      "Mô_tả": "Danh kiếm do quán quân quyết đấu vương đô để lại; khi rời vỏ, nó phát ra một tiếng ngân kim loại ngắn và sáng."
+    },
+    {
+      "id": "jewel_omen_ring",
+      "Phân_loại": "Trang_sức",
+      "Loại": "Trang_sức",
+      "Vị_trí_trang_bị": "Nhẫn",
+      "Tên": "Nhẫn Điềm Báo",
+      "Phẩm_chất": "Truyền_thuyết",
+      "Cấp_độ": 1,
+      "Hạng_phẩm": 10,
+      "Nhãn": [
+        "nhẫn",
+        "dự_cảm",
+        "chiến_thuật"
+      ],
+      "Cộng_thêm_thuộc_tính": {
+        "Cảm_nhận": 2,
+        "Áo_nghĩa": 1
+      },
+      "Hiệu_quả": "[Sớm giác điềm dữ] Khi nguy hiểm sắp áp sát từ ngoài tầm nhìn, kích hoạt trong 1 lượt: kiểm định kháng Nhanh_nhẹn +3 và bạn có thể hành động sớm hơn trong thứ tự tiên công; [Kim lệch vận mệnh] Mỗi trận 1 lần, khiến một lần kiểm định hành động then chốt hoặc kiểm định tấn công nhận +3; [Phản chế nguy cơ] Khi bạn vượt qua thành công một lần kiểm định kháng, kích hoạt trong 1 lượt: lần kiểm định tấn công kế tiếp của bạn +2.",
+      "Mô_tả": "Tương truyền do một vị tiên tri sống sót qua vô số chiến trường chế tạo; kim chỉ trên mặt nhẫn luôn khẽ run trước khi nguy hiểm tới gần.",
+      "Giá_RP": 38,
+      "Giá_bán_RP": 38
+    },
+    {
+      "id": "weapon_voidflare_staff",
+      "Phân_loại": "Vũ_khí",
+      "Loại": "Vũ_khí",
+      "Vị_trí_trang_bị": "Tay_chính",
+      "Tên": "Tinh trượng Hư Huy",
+      "Phẩm_chất": "Sử_thi",
+      "Cấp_độ": 1,
+      "Hạng_phẩm": 10,
+      "Nhãn": [
+        "pháp_trượng",
+        "tinh_huy",
+        "phạm_vi"
+      ],
+      "Cộng_thêm_thuộc_tính": {
+        "Trí_lực": 2,
+        "Cảm_nhận": 1,
+        "Toàn_kỹ_năng": 2
+      },
+      "Hiệu_quả": "[Tinh màn phản hồi] Khi bạn liên tiếp thi triển hai thuật thức trong cùng một vòng, thuật thức thứ hai gây sát thương +30% và bỏ qua 15% giảm sát thương ma pháp của mục tiêu; [Triển khai hư huy] Mỗi trận 1 lần, viết lại một pháp thuật đơn thể thành xung kích tinh màn bán kính 20 thước, gây [1000% + 25% x (Cấp_độ - 1)] sát thương ma pháp. Mục tiêu phải vượt qua kiểm định kháng Trí_lực DC20, nếu thất bại chịu toàn bộ sát thương và bị choáng đến đầu lượt tiếp theo của bạn; [Cộng hưởng đêm sao] Khi bạn ở dưới trời sao hoặc nơi thấy được bầu trời đêm rộng, toàn bộ sát thương cuối cùng của pháp thuật tăng thêm +10%; [Hồi âm hư không] Khi pháp thuật của bạn trúng bạo kích, kích hoạt trong 1 lượt: lần kiểm định tấn công pháp thuật kế tiếp +3; [Quần tinh rơi xuống] Mỗi trận 1 lần, chỉ định một điểm trong 60 thước làm mỏ neo sao rơi. Đầu lượt tiếp theo của bạn, tinh tú rơi xuống, gây [1000% + 25% x (Cấp_độ - 1)] sát thương ma pháp lên toàn bộ kẻ địch trong bán kính 20 thước (kiểm định kháng Nhanh_nhẹn DC20 giảm một nửa). Vùng rơi kéo dài 2 lượt; trong thời gian đó, mỗi lần kẻ địch trong vùng tấn công hoặc thi pháp đều phải vượt qua kiểm định kháng Nhanh_nhẹn DC18, nếu không hành động bị ngắt và chịu [300% + 12% x (Cấp_độ - 1)] sát thương ma pháp.",
+      "Mô_tả": "Tương truyền là di tác của tế tư sao băng hoàn thành trên đỉnh đài quan trắc; trong lõi trượng phong giữ một sợi tinh huy trắng lạnh không tắt.",
+      "Giá_RP": 55,
+      "Giá_bán_RP": 55
+    },
+    {
+      "id": "weapon_militia_warhammer",
+      "Phân_loại": "Vũ_khí",
+      "Loại": "Vũ_khí",
+      "Vị_trí_trang_bị": "Tay_chính",
+      "Tên": "Chiến chùy dân binh",
+      "Phẩm_chất": "Tinh_lương",
+      "Cấp_độ": 1,
+      "Hạng_phẩm": 2,
+      "Nhãn": [
+        "chiến_chùy",
+        "cận_chiến",
+        "sức_mạnh"
+      ],
+      "Cộng_thêm_thuộc_tính": {
+        "Sức_mạnh": 1
+      },
+      "Hiệu_quả": "[Trọng kích phá giáp] Khi tấn công mục tiêu mặc giáp nặng, kiểm định Sức_mạnh(Vận_động) +1.",
+      "Mô_tả": "Chiến chùy một tay sản xuất hàng loạt ở lò rèn; đầu chùy nặng, hợp để phá giáp và khiên."
+    },
+    {
+      "id": "weapon_woodcutter_axe",
+      "Phân_loại": "Vũ_khí",
+      "Loại": "Vũ_khí",
+      "Vị_trí_trang_bị": "Tay_chính",
+      "Tên": "Rìu tay đốn gỗ",
+      "Phẩm_chất": "Tinh_lương",
+      "Cấp_độ": 1,
+      "Hạng_phẩm": 2,
+      "Nhãn": [
+        "rìu_tay",
+        "cận_chiến",
+        "sức_mạnh"
+      ],
+      "Cộng_thêm_thuộc_tính": {
+        "Sức_mạnh": 1
+      },
+      "Hiệu_quả": "[Quán tính bổ chém] Khi vung chém liên tục, kiểm định Sức_mạnh(Vận_động) +1.",
+      "Mô_tả": "Công cụ thường dùng của thợ đốn gỗ biên cảnh; lưỡi sắc, trọng tâm dồn về phía trước."
+    },
+    {
+      "id": "armor_chainmail_vest",
+      "Phân_loại": "Phòng_cụ",
+      "Loại": "Phòng_cụ",
+      "Vị_trí_trang_bị": "Áo",
+      "Tên": "Áo giáp xích",
+      "Phẩm_chất": "Tinh_lương",
+      "Cấp_độ": 1,
+      "Hạng_phẩm": 1,
+      "Nhãn": [
+        "xích_giáp",
+        "phòng_hộ",
+        "thể_chất"
+      ],
+      "Cộng_thêm_thuộc_tính": {
+        "Thể_chất": 1
+      },
+      "Hiệu_quả": "[Đệm vòng xích] Khi chịu đâm xuyên hoặc chém, kiểm định Thể_chất(Sức_bền) +1.",
+      "Mô_tả": "Giáp xích nhẹ đan từ vòng sắt, thường mặc bên trong giáp da làm lớp lót."
+    },
+    {
+      "id": "armor_scout_cloak",
+      "Phân_loại": "Phòng_cụ",
+      "Loại": "Phòng_cụ",
+      "Vị_trí_trang_bị": "Vai",
+      "Tên": "Áo choàng trinh sát",
+      "Phẩm_chất": "Tinh_lương",
+      "Cấp_độ": 1,
+      "Hạng_phẩm": 3,
+      "Nhãn": [
+        "áo_choàng",
+        "ẩn_nấp",
+        "nhanh_nhẹn"
+      ],
+      "Cộng_thêm_thuộc_tính": {
+        "Nhanh_nhẹn": 1
+      },
+      "Hiệu_quả": "[Che thân màu tối] Khi hành động trong môi trường lờ mờ hoặc ban đêm, kiểm định Nhanh_nhẹn(Ẩn_nấp) +1.",
+      "Mô_tả": "Áo choàng vải dày nhuộm xám sẫm, mặt trong khâu lớp lót giảm tiếng động."
+    },
+    {
+      "id": "weapon_duelist_rapier",
+      "Phân_loại": "Vũ_khí",
+      "Loại": "Vũ_khí",
+      "Vị_trí_trang_bị": "Tay_chính",
+      "Tên": "Kiếm mảnh đấu sĩ",
+      "Phẩm_chất": "Hiếm",
+      "Cấp_độ": 1,
+      "Hạng_phẩm": 5,
+      "Nhãn": [
+        "kiếm_mảnh",
+        "cận_chiến",
+        "nhanh_nhẹn"
+      ],
+      "Cộng_thêm_thuộc_tính": {
+        "Nhanh_nhẹn": 1,
+        "Cơ_bản": 1
+      },
+      "Hiệu_quả": "[Đâm chuẩn xác] Khi bạn liên tiếp đâm vào một mục tiêu đơn lẻ, lần kiểm định tấn công thứ hai +1; [Tư thế phản kích] Khi bạn né thành công một đòn cận chiến, kích hoạt trong 1 lượt: lần kiểm định tấn công cận chiến kế tiếp +1.",
+      "Mô_tả": "Vũ khí thường gặp trên sân quyết đấu quý tộc; thân kiếm mảnh, hộ thủ tinh tế, nhấn mạnh tốc độ và kỹ xảo."
+    },
+    {
+      "id": "weapon_battlemage_rod",
+      "Phân_loại": "Vũ_khí",
+      "Loại": "Vũ_khí",
+      "Vị_trí_trang_bị": "Tay_chính",
+      "Tên": "Đoản trượng chiến pháp",
+      "Phẩm_chất": "Hiếm",
+      "Cấp_độ": 1,
+      "Hạng_phẩm": 4,
+      "Nhãn": [
+        "đoản_trượng",
+        "thi_pháp",
+        "chiến_đấu"
+      ],
+      "Cộng_thêm_thuộc_tính": {
+        "Trí_lực": 1,
+        "Nâng_cao": 1
+      },
+      "Hiệu_quả": "[Song tu pháp và lưỡi] Khi bạn thi pháp ở cự ly cận chiến, lần kiểm định tấn công pháp thuật này +1; [Trượng kích phản chế] Khi bạn dùng đoản trượng đỡ đòn cận chiến, lần thi pháp kế tiếp được rút ngắn tốc độ.",
+      "Mô_tả": "Đoản trượng đặc chế của chiến pháp sư, thân trượng chắc để đỡ đòn, đầu trượng khảm tinh thể pháp lực."
+    },
+    {
+      "id": "armor_shadowweave_boots",
+      "Phân_loại": "Phòng_cụ",
+      "Loại": "Phòng_cụ",
+      "Vị_trí_trang_bị": "Giày",
+      "Tên": "Giày mềm dệt bóng",
+      "Phẩm_chất": "Hiếm",
+      "Cấp_độ": 1,
+      "Hạng_phẩm": 5,
+      "Nhãn": [
+        "giày",
+        "ẩn_nấp",
+        "nhanh_nhẹn"
+      ],
+      "Cộng_thêm_thuộc_tính": {
+        "Nhanh_nhẹn": 1,
+        "Cơ_bản": 1
+      },
+      "Hiệu_quả": "[Bước chân không tiếng] Khi bạn di chuyển trong nhà hoặc trên nền đá, kiểm định Nhanh_nhẹn(Ẩn_nấp) +1; [Hòa vào bóng tối] Khi bạn đứng yên hơn 1 lượt, lần kiểm định ẩn nấp kế tiếp +2.",
+      "Mô_tả": "Đế giày khâu chỉ bóng tối; nghe nói là trang bị chế thức của công hội đạo tặc, gần như không phát tiếng khi đặt chân xuống đất."
+    },
+    {
+      "id": "jewel_scholar_monocle",
+      "Phân_loại": "Trang_sức",
+      "Loại": "Trang_sức",
+      "Vị_trí_trang_bị": "Đặc_biệt",
+      "Tên": "Kính đơn học giả",
+      "Phẩm_chất": "Hiếm",
+      "Cấp_độ": 1,
+      "Hạng_phẩm": 4,
+      "Nhãn": [
+        "trang_sức",
+        "học_thức",
+        "trí_lực"
+      ],
+      "Cộng_thêm_thuộc_tính": {
+        "Giới_hạn_sinh_mệnh": 8,
+        "Nâng_cao": 1
+      },
+      "Hiệu_quả": "[Quan sát chi tiết] Khi bạn kiểm tra văn hiến, phù văn hoặc dấu vết ma pháp, kiểm định Trí_lực(Điều_tra) +1.",
+      "Mô_tả": "Kính đơn khảm phù văn phóng đại vi hình, là dụng cụ thường mang theo của học giả và giám định sư."
+    },
+    {
+      "id": "weapon_precision_blade",
+      "Phân_loại": "Vũ_khí",
+      "Loại": "Vũ_khí",
+      "Vị_trí_trang_bị": "Tay_chính",
+      "Tên": "Lưỡi Dao Chính Xác",
+      "Phẩm_chất": "Hiếm",
+      "Cấp_độ": 1,
+      "Hạng_phẩm": 5,
+      "Nhãn": [
+        "kiếm_ngắn",
+        "bạo_kích",
+        "nhanh_nhẹn"
+      ],
+      "Cộng_thêm_thuộc_tính": {
+        "Nhanh_nhẹn": 1,
+        "Tỷ_lệ_bạo_kích": 5,
+        "Cơ_bản": 1
+      },
+      "Hiệu_quả": "[Chuẩn xác chí mạng] Khi bạn liên tục tấn công một mục tiêu đơn lẻ, sát thương của lần tấn công thứ hai +20%.",
+      "Mô_tả": "Một thanh kiếm ngắn có lưỡi được cân bằng chính xác; trọng tâm hoàn hảo giúp mỗi lần vung đều nhắm trúng yếu hại."
+    },
+    {
+      "id": "jewel_young_white_branch",
+      "Phân_loại": "Trang_sức",
+      "Loại": "Trang_sức",
+      "Vị_trí_trang_bị": "Đặc_biệt",
+      "Tên": "Cành Bạch Mộc Non",
+      "Phẩm_chất": "Hiếm",
+      "Cấp_độ": 1,
+      "Hạng_phẩm": 4,
+      "Nhãn": [
+        "ngụy_trang",
+        "trò_đùa"
+      ],
+      "Cộng_thêm_thuộc_tính": {
+        "Cảm_nhận": 1,
+        "Cơ_bản": 1,
+        "Nâng_cao": 1
+      },
+      "Hiệu_quả": "[Mô phỏng bạch dương] Mỗi ngày 3 lần, tiêu hao một hành động bẻ một đoạn chồi non nhỏ (ngày hôm sau mọc lại), khiến bạn và toàn bộ trang bị đang mặc biến hình thành một vật vô tri cỡ nhỏ hoặc vừa thường thấy trong môi trường hiện tại (như thùng gỗ, bia đá, chậu lửa). Trong hình thái này, chỉ cần giữ bất động tuyệt đối, bạn tự động vượt qua kiểm định ẩn nấp và được xem như một phần môi trường; bạn có thể chậm rãi trượt ngang với tốc độ tối đa 10 thước, nhưng nếu di chuyển trong tầm mắt kẻ địch thì phải thực hiện kiểm định đối kháng Nhanh_nhẹn(Ẩn_nấp); phát động tấn công, thi pháp, bị chạm vật lý hoặc chịu sát thương đều lập tức phá vỡ biến hình.",
+      "Mô_tả": "Một cành non còn lá bẻ từ cây bạch dương cổ xưa. Dù đã rời thân cây, nó chưa từng héo; bẻ gãy phần ngọn có thể tạm thời lừa thị giác của thế giới xung quanh."
+    },
+    {
+      "id": "weapon_stormcaller_spear",
+      "Phân_loại": "Vũ_khí",
+      "Loại": "Vũ_khí",
+      "Vị_trí_trang_bị": "Tay_chính",
+      "Tên": "Trường thương gọi sét",
+      "Phẩm_chất": "Thần_khí",
+      "Cấp_độ": 1,
+      "Hạng_phẩm": 8,
+      "Nhãn": [
+        "trường_thương",
+        "sấm_sét",
+        "nguyên_tố"
+      ],
+      "Cộng_thêm_thuộc_tính": {
+        "Sức_mạnh": 1,
+        "Nhanh_nhẹn": 1,
+        "Tất_sát": 1
+      },
+      "Hiệu_quả": "[Hồi âm sấm rền] Khi bạn chiến đấu trong mưa hoặc bão sấm, mọi đòn tấn công kèm thêm Cấp_độ x 3 sát thương sấm sét; [Phóng ném thiên phạt] Mỗi trận 1 lần, ném trường thương vào mục tiêu, gây [500% + 15% x (Cấp_độ - 1)] sát thương vật lý và [500% + 15% x (Cấp_độ - 1)] sát thương sấm sét. Sau khi trúng, thương tự trở về tay; mục tiêu phải vượt qua kiểm định kháng Thể_chất DC18, nếu thất bại bị tê liệt 1 lượt.",
+      "Mô_tả": "Mũi thương khảm mảnh Trái Tim Bão Tố, nghe nói là di vật của một lãnh chúa bão tố nào đó. Mỗi lần vung lên đều để lại vệt hồ quang trong không khí."
+    },
+    {
+      "id": "armor_abyssal_plate",
+      "Phân_loại": "Phòng_cụ",
+      "Loại": "Phòng_cụ",
+      "Vị_trí_trang_bị": "Áo",
+      "Tên": "Giáp tấm vực sâu",
+      "Phẩm_chất": "Thần_khí",
+      "Cấp_độ": 1,
+      "Hạng_phẩm": 8,
+      "Nhãn": [
+        "giáp_tấm",
+        "vực_sâu",
+        "phòng_hộ"
+      ],
+      "Cộng_thêm_thuộc_tính": {
+        "Thể_chất": 2,
+        "Chuyển_nghề": 1
+      },
+      "Hiệu_quả": "[Vực sâu che chở] Khi sinh mệnh của bạn thấp hơn 50%, giảm sát thương vật lý +25% và giảm sát thương ma pháp +20%; [Sức bền biển sâu] Khi bạn chịu một lần sát thương vượt quá 30% sinh mệnh hiện tại, kích hoạt trong 2 lượt: bạn nhận Cấp_độ x 5 sinh mệnh tạm thời.",
+      "Mô_tả": "Giáp tấm toàn thân đen nhánh, bề mặt chảy hoa văn tối như biển sâu. Tương truyền là giáp để lại của một kỵ sĩ vực sâu, có thể ban phòng hộ mạnh mẽ nhưng sẽ dần ăn mòn tâm trí người mặc."
+    },
+    {
+      "id": "jewel_phoenix_pendant",
+      "Phân_loại": "Trang_sức",
+      "Loại": "Trang_sức",
+      "Vị_trí_trang_bị": "Vòng_cổ",
+      "Tên": "Mặt dây phượng hoàng bất tử",
+      "Phẩm_chất": "Thần_khí",
+      "Cấp_độ": 1,
+      "Hạng_phẩm": 9,
+      "Nhãn": [
+        "vòng_cổ",
+        "tái_sinh",
+        "hỏa_diễm"
+      ],
+      "Cộng_thêm_thuộc_tính": {
+        "Giới_hạn_sinh_mệnh": 20,
+        "Áo_nghĩa": 1
+      },
+      "Hiệu_quả": "[Tái sinh đốt trời] Mỗi ngày 1 lần, khi sinh mệnh của bạn giảm xuống 0, hóa thành kén lửa. Kén có sinh mệnh tạm thời bằng 50% sinh mệnh tối đa của bạn; lượt sau phá kén bước ra và hồi phục đến 50% sinh mệnh, gây [500% + 15% x (Cấp_độ - 1)] sát thương hỏa diễm lên toàn bộ kẻ địch trong 30 thước (kiểm định kháng Nhanh_nhẹn DC18 giảm một nửa), sát thương này bỏ qua kháng hỏa; [Vòng hào quang tàn tro] Sau khi Tái sinh đốt trời kích hoạt, kéo dài 3 lượt: kẻ địch trong 10 thước quanh bạn chịu [200% + 8% x (Cấp_độ - 1)] sát thương hỏa diễm vào đầu mỗi lượt, trong thời gian đó bạn miễn nhiễm sát thương hỏa diễm.",
+      "Mô_tả": "Trong mặt dây phong ấn một tia bản nguyên hỏa diễm của phượng hoàng bất tử. Truyền thuyết kể rằng một đại hiền giả hỏa diễm đã buộc linh hồn mình với phượng hoàng vào cuối đời, từ đó chế thành di vật này."
+    },
+    {
+      "id": "weapon_tide_saber",
+      "Phân_loại": "Vũ_khí",
+      "Loại": "Vũ_khí",
+      "Vị_trí_trang_bị": "Tay_chính",
+      "Tên": "Quân đao chỉ huy thủy triều",
+      "Phẩm_chất": "Thần_khí",
+      "Cấp_độ": 1,
+      "Hạng_phẩm": 9,
+      "Nhãn": [
+        "quân_đao",
+        "thủy_triều",
+        "chỉ_huy"
+      ],
+      "Cộng_thêm_thuộc_tính": {
+        "Sức_mạnh": 1,
+        "Sức_hấp_dẫn": 1,
+        "Chuyển_nghề": 1
+      },
+      "Hiệu_quả": "[Gọi triều] Mỗi ngày 1 lần, khi bạn cắm dao vào nước (biển, sông hoặc vùng nước lớn), gọi dậy một xung kích thủy triều nhỏ. Toàn bộ thuyền nhỏ phe địch hoặc sinh vật cỡ vừa trở xuống trong phạm vi hình nón 20 thước theo hướng chỉ định phải thực hiện kiểm định đối kháng Sức_mạnh (Sức_mạnh của bạn +5 vs Sức_mạnh mục tiêu); thất bại thì bị đẩy lùi 10 thước và chịu [500% + 15% x (Cấp_độ - 1)] sát thương xung kích; [Uy nghi thuyền trưởng] Khi bạn đứng trên thuyền hoặc bên bờ nước vung quân đao này, toàn bộ đơn vị phe bạn trong 30 thước được lợi thế khi kiểm định sĩ khí.",
+      "Mô_tả": "Chuôi quân đao khảm trân châu biển sâu, thân đao chảy những đường vân nước biển không bao giờ khô. Tương truyền đây là di vật của một thuyền trưởng huyền thoại; khi vung lên, người cầm có thể cảm nhận nhịp đập của đại dương trong lưỡi đao."
+    },
+    {
+      "id": "weapon_executioner_axe",
+      "Phân_loại": "Vũ_khí",
+      "Loại": "Vũ_khí",
+      "Vị_trí_trang_bị": "Tay_chính",
+      "Tên": "Luật của Kẻ Chém Đầu",
+      "Phẩm_chất": "Truyền_thuyết",
+      "Cấp_độ": 1,
+      "Hạng_phẩm": 10,
+      "Nhãn": [
+        "cự_phủ",
+        "hành_quyết",
+        "chém_liên_hoàn"
+      ],
+      "Cộng_thêm_thuộc_tính": {
+        "Sức_mạnh": 2,
+        "Thể_chất": 1,
+        "Sát_thương_bạo_kích": 1,
+        "Nâng_cao": 1,
+        "Tất_sát": 1
+      },
+      "Hiệu_quả": "[Tuyên cáo tử hình] Khi bạn tấn công kẻ địch có sinh mệnh dưới 30%, kiểm định tấn công của bạn cưỡng chế kết toán như bạo kích và bỏ qua giảm sát thương do giáp cung cấp; [Cuồng nhiệt máy chém] Mỗi trận 1 lần, hành hình một mục tiêu đơn lẻ, gây [800% + 20% x (Cấp_độ - 1)] sát thương vật lý. Nếu mục tiêu bị đòn này chém chết, bạn lập tức hồi phục 1 hành động hoàn chỉnh, đồng thời toàn bộ kẻ địch trong 30 thước chứng kiến cảnh đó phải vượt qua kiểm định kháng Cảm_nhận DC18, nếu thất bại rơi vào hoảng sợ 1 lượt; [Luật máu thịt] Khi bạn dùng vũ khí này giết bất kỳ kẻ địch nào, sự cuồng nhiệt trong cự phủ phản hồi cho người cầm: bạn nhận sinh mệnh tạm thời bằng 20% sinh mệnh tối đa của bản thân.",
+      "Mô_tả": "Rìu hai lưỡi chỉ định của đoạn đầu đài vương quốc cũ; trong lưỡi nặng nề ký túc linh hồn luật pháp cuồng tín."
+    },
+    {
+      "id": "weapon_ronin_iron_jitte",
+      "Phân_loại": "Vũ_khí",
+      "Loại": "Vũ_khí",
+      "Vị_trí_trang_bị": "Tay_chính",
+      "Tên": "Thập thủ hắc thiết của lãng khách",
+      "Phẩm_chất": "Truyền_thuyết",
+      "Cấp_độ": 1,
+      "Hạng_phẩm": 10,
+      "Nhãn": [
+        "đoản_binh",
+        "võ_thuật",
+        "chiến_thuật"
+      ],
+      "Cộng_thêm_thuộc_tính": {
+        "Nhanh_nhẹn": 2,
+        "Cảm_nhận": 1,
+        "Tỷ_lệ_bạo_kích": 10,
+        "Nâng_cao": 1,
+        "Áo_nghĩa": 1
+      },
+      "Hiệu_quả": "[Nạp kiếm khí khi thấy sơ hở] Khi đòn cận chiến của bạn trúng, hoặc khi bạn né thành công một đòn tấn công của địch, thập thủ nhận 1 tầng [kiếm khí] (tối đa 3 tầng), xóa sạch sau khi thoát chiến; [Lưu chuyển trong nháy mắt] Khi bạn đang có [kiếm khí] trong chiến đấu, có thể tùy lúc tiêu hao số tầng tương ứng để kích hoạt hiệu quả sau (mỗi vòng tối đa 1 lần): tiêu hao 1 tầng -> lập tức hồi phục HP bằng 30% sinh mệnh tối đa và giải trừ một trạng thái xấu thuộc tầng vật lý của bản thân (như chảy máu, bị vật giữ); tiêu hao 2 tầng -> lượt này lần tấn công kế tiếp gây [800% + 20% x (Cấp_độ - 1)] sát thương vật lý và bỏ qua 30% giảm sát thương vật lý của mục tiêu; tiêu hao 3 tầng -> dùng một phản ứng để đỡ hoàn hảo và triệt tiêu một lần sát thương vật lý cận chiến hoặc tầm xa sắp tới, đồng thời phản lại 100% sát thương đó cho kẻ tấn công; [Tước vũ trang] Khi bạn giao phong với kẻ địch đang cầm vũ khí, kiểm định đối kháng Sức_mạnh(Vận_động) hoặc Nhanh_nhẹn(Nhào_lộn) của bạn +3.",
+      "Mô_tả": "Một thanh đoản đao đen không lưỡi, trông không hề nổi bật, từng chứng kiến vô số trận quyết đấu và phản sát cấp đại sư."
+    },
+    {
+      "id": "armor_chain_veil_prison",
+      "Phân_loại": "Phòng_cụ",
+      "Loại": "Phòng_cụ",
+      "Vị_trí_trang_bị": "Đặc_biệt",
+      "Tên": "Mạng che tù ngục của Kẻ Dệt Ma",
+      "Phẩm_chất": "Sử_thi",
+      "Cấp_độ": 1,
+      "Hạng_phẩm": 10,
+      "Nhãn": [
+        "mặt_nạ",
+        "thi_pháp",
+        "bẻ_cong_pháp_tắc"
+      ],
+      "Cộng_thêm_thuộc_tính": {
+        "Trí_lực": 3,
+        "Sức_hấp_dẫn": 1,
+        "Toàn_kỹ_năng": 2
+      },
+      "Hiệu_quả": "[Dệt pháp vực sâu] Khi bạn thi triển bất kỳ pháp thuật sát thương đơn thể nào, mạng che chuyển nó thành pháp thuật nổ phạm vi bán kính 20 thước (sát thương ngang bằng); [Hồi âm liên khóa] Mỗi trận 2 lần, khi bạn thi triển một pháp thuật tiêu hao hành động, mạng che sẽ khắc ghi pháp thuật đó. Đầu lượt tiếp theo của bạn, mạng che tự động thi triển lại pháp thuật ấy một lần miễn phí; [Rút hồn] Khi kẻ địch thất bại trong kiểm định kháng pháp thuật của bạn, bạn hồi phục HP bằng 10% sinh mệnh tối đa của bản thân; [Không thể nhìn thẳng] Khi bạn đeo mạng che, kích hoạt áp lực ma lực phi nhân: kiểm định Sức_hấp_dẫn(Uy_hiếp) của bạn vĩnh viễn có lợi thế.",
+      "Mô_tả": "Mặt nạ được móc nối từ những sợi xích vàng đen mảnh, từng thuộc về một Kẻ Dệt Ma cổ đại đã cố chưởng khống pháp tắc vực sâu."
+    },
+    {
+      "id": "jewel_voodoo_stuffy_doll",
+      "Phân_loại": "Trang_sức",
+      "Loại": "Trang_sức",
+      "Vị_trí_trang_bị": "Đặc_biệt",
+      "Tên": "Búp bê vá vận rủi",
+      "Phẩm_chất": "Thần_khí",
+      "Cấp_độ": 1,
+      "Hạng_phẩm": 8,
+      "Nhãn": [
+        "trang_sức",
+        "nguyền_rủa",
+        "phản_sát_thương"
+      ],
+      "Cộng_thêm_thuộc_tính": {
+        "Giới_hạn_sinh_mệnh": 15,
+        "Chuyển_nghề": 1
+      },
+      "Hiệu_quả": "[Liên kết vận rủi] Mỗi trận 1 lần, khi bạn dùng một hành động bổ sung đâm kim xương dính máu vào búp bê và đọc tên một sinh vật trong tầm nhìn, mục tiêu phải thực hiện kiểm định kháng Sức_hấp_dẫn DC18. Nếu thất bại, mục tiêu tạo liên kết với búp bê, kéo dài 3 lượt hoặc đến khi bạn chủ động rút kim; [Chuyển dời đau đớn] Khi bạn chịu sát thương trong trạng thái Liên kết vận rủi, mục tiêu liên kết phải vượt qua kiểm định kháng Thể_chất DC16. Nếu thất bại, mục tiêu chịu đúng lượng sát thương cùng loại với bạn; nếu thành công chỉ chịu một nửa. Nếu bạn cố ý tự gây hại để hành hạ kẻ địch (như chủ động bước vào bẫy hoặc tường lửa), kiểm định kháng của mục tiêu chịu bất lợi.",
+      "Mô_tả": "Một con búp bê vải thô trông rách nát, khóe miệng khâu nụ cười quái dị, trong bụng nhét đầy vụn xương dùng để thi pháp."
+    },
+    {
+      "id": "weapon_shadowfang_dagger",
+      "Phân_loại": "Vũ_khí",
+      "Loại": "Vũ_khí",
+      "Vị_trí_trang_bị": "Tay_chính",
+      "Tên": "Kẻ Lẻn Qua Khe Nứt - Nanh Bóng",
+      "Phẩm_chất": "Thần_khí",
+      "Cấp_độ": 1,
+      "Hạng_phẩm": 9,
+      "Nhãn": [
+        "dao_găm",
+        "dịch_chuyển",
+        "ẩn_nấp"
+      ],
+      "Cộng_thêm_thuộc_tính": {
+        "Nhanh_nhẹn": 2,
+        "Chuyển_nghề": 1
+      },
+      "Hiệu_quả": "[Nhảy trong bóng] Mỗi ngày 3 lần, khi bạn ở trong ánh sáng yếu hoặc bóng tối, hoán đổi vị trí với một sinh vật trong 50 thước có kích cỡ không vượt quá bạn; phe địch có thể chống lại bằng kiểm định kháng Sức_hấp_dẫn DC18. Bất kể hoán đổi có thành công hay không, lần kiểm định tấn công cận chiến kế tiếp của bạn nhằm vào mục tiêu đó được lợi thế; [Lời thì thầm bóng tối] Khi bạn cầm dao găm này trong trạng thái ẩn nấp, cảm nhận được hơi thở và nhịp tim của mọi sinh vật sống trong 30 thước, phán đoán đại khái vị trí và trạng thái của chúng (căng thẳng/ngủ say/suy yếu); sinh vật đó không thể giành đột kích bất ngờ đối với bạn.",
+      "Mô_tả": "Thân dao được rèn từ bóng tối thuần túy, gần như trong suốt dưới ánh sáng. Nó không phải hung khí để tạo vết thương, mà là chiếc chìa khóa xuyên qua các bức màn. Mỗi lần dùng nó hoán đổi vị trí, bạn sẽ thoáng nhìn thấy giấc mơ của đối phương trong bóng tối ngắn ngủi."
+    },
+    {
+      "id": "weapon_pact_counterflow",
+      "Phân_loại": "Vũ_khí",
+      "Loại": "Vũ_khí",
+      "Vị_trí_trang_bị": "Tay_chính",
+      "Tên": "Khế Ước Nghịch Hành",
+      "Phẩm_chất": "Sử_thi",
+      "Cấp_độ": 1,
+      "Hạng_phẩm": 10,
+      "Nhãn": [
+        "pháp_khí",
+        "thời_gian",
+        "cái_giá"
+      ],
+      "Cộng_thêm_thuộc_tính": {
+        "Nhanh_nhẹn": 2,
+        "Trí_lực": 2,
+        "Chuyển_nghề": 1,
+        "Tất_sát": 1
+      },
+      "Hiệu_quả": "[Hồi ngược vết thời gian] Mỗi nghỉ ngắn 1 lần, sau khi một mục tiêu hữu hình trong 60 thước hoàn tất hành động (tấn công/thi pháp/di chuyển), bạn có thể dùng phản ứng kích hoạt, bóp méo tuyến thời gian của hành động đó để mục tiêu tung lại kiểm định D20 hoặc xúc xắc sát thương. Bạn bắt buộc nhận kết quả lần thứ hai dù tốt hay xấu, đồng thời nhận 1 tầng dấu vết thời thực: kiểm định Sức_hấp_dẫn bị bất lợi đến lần nghỉ dài kế tiếp; [Phản xung nhân quả] Khi dấu vết thời thực đạt 3 tầng, bạn bị chính thời gian bài xích: mọi kiểm định D20 bị bất lợi và không thể được chữa trị đến khi kết thúc lượt sau, sau đó xóa toàn bộ dấu vết thời thực; [Khoảnh khắc nghịch mệnh] Mỗi trận 1 lần, tiêu hao 2 tầng dấu vết thời thực để chỉ định một kiểm định D20 sắp diễn ra, tuyên bố kết quả đổi thành 20 tự nhiên hoặc 1 tự nhiên; hiệu quả này không chịu ảnh hưởng của bất kỳ năng lực nào khác.",
+      "Mô_tả": "Đây không phải một món vũ khí, mà là bản khế ước khắc trên chính thời gian, được rèn từ kim đồng hồ của một tháp chuông bị thời gian quên lãng. Nó cho phép người sử dụng đảo ngược nhân quả trong khoảnh khắc, nhưng cái giá là mượn ánh sáng từ tương lai của chính mình."
+    },
+    {
+      "id": "jewel_voracious_grasp",
+      "Phân_loại": "Trang_sức",
+      "Loại": "Trang_sức",
+      "Vị_trí_trang_bị": "Vòng_tay",
+      "Tên": "Cái Nắm Đói Khát",
+      "Phẩm_chất": "Truyền_thuyết",
+      "Cấp_độ": 1,
+      "Hạng_phẩm": 10,
+      "Nhãn": [
+        "vòng_tay",
+        "nuốt_chửng",
+        "biến_dị"
+      ],
+      "Cộng_thêm_thuộc_tính": {
+        "Sức_mạnh": 1,
+        "Thể_chất": 1,
+        "Tất_sát": 1
+      },
+      "Hiệu_quả": "[Cơn đói nuốt chửng] Khi bạn tay không nắm lấy vật thể phi ma pháp (vũ khí/tay nắm cửa/xích), băng vải bắt đầu nhai vật đó: nếu là vũ khí, xúc xắc sát thương của nó giảm một bậc (d8 -> d6 -> d4, hồi phục vào lần nghỉ dài kế tiếp); nếu là cửa/khóa/chướng ngại, nó cắn thủng vật liệu gỗ đá dày 10 thước để mở lỗ. Mỗi lần nuốt một vật nhận 1 tầng no đủ (tối đa 3); [Giải phóng bạo thực] Mỗi trận 1 lần, tiêu hao toàn bộ tầng no đủ để phát động: băng vải bung mạnh khỏi cánh tay bạn, tạo thành hư ảnh miệng khổng lồ đường kính 15 thước, gây [800% + 20% x (Cấp_độ - 1)] sát thương ám thực lên toàn bộ kẻ địch trong phạm vi (kiểm định kháng Nhanh_nhẹn DC18 giảm một nửa). Mỗi tầng no đủ đã tiêu hao khiến sát thương này tăng thêm +20%; [Không bao giờ đủ] Khi no đủ đạt 3 tầng, lần tấn công cận chiến tay không kế tiếp của bạn kèm thêm [300% + 12% x (Cấp_độ - 1)] sát thương chân thực (chắc chắn trúng, bỏ qua toàn bộ giảm sát thương), nhưng sau đòn đánh, băng vải phản phệ: trong 1 lượt bạn không thể thực hiện bất kỳ hành động nào.",
+      "Mô_tả": "Dải băng này từng thấm bản chất của một cổ thú đói khát khi phong ấn nó. Nó vĩnh viễn đói, còn bạn là cả dụng cụ ăn uống lẫn nhà ăn duy nhất của nó."
+    },
+    {
+      "id": "weapon_tide_saber",
+      "Phân_loại": "Vũ_khí",
+      "Loại": "Vũ_khí",
+      "Vị_trí_trang_bị": "Tay_chính",
+      "Tên": "Lưỡi Dao Phản Bội",
+      "Phẩm_chất": "Truyền_thuyết",
+      "Cấp_độ": 1,
+      "Hạng_phẩm": 10,
+      "Nhãn": [
+        "dao_găm",
+        "phản_bội",
+        "lời_nguyền"
+      ],
+      "Cộng_thêm_thuộc_tính": {
+        "Nhanh_nhẹn": 2,
+        "Sức_hấp_dẫn": 1,
+        "Chuyển_nghề": 1,
+        "Tất_sát": 1
+      },
+      "Hiệu_quả": "[Khế ước phản bội] Khi bạn giao dao găm này cho một người khác giới sử dụng, nếu người đó dùng nó đánh lén sau lưng người cùng giới với bạn mà họ thân cận và tin tưởng nhất, cưỡng chế khiến sinh mệnh mục tiêu giảm xuống 9 điểm, bỏ qua giáp và giảm sát thương.",
+      "Mô_tả": "Chuôi của con dao găm nghi lễ hoa lệ này khảm những chiếc nhẫn cưới vỡ, thân dao khắc vô số tên của kẻ phản bội. Nó chỉ bộc lộ sức mạnh thật sự khi phản bội người thân cận nhất, như đang chế giễu lòng tin mong manh của con người."
+    },
+    {
+      "id": "jewel_drowned_compass",
+      "Phân_loại": "Trang_sức",
+      "Loại": "Trang_sức",
+      "Vị_trí_trang_bị": "Đặc_biệt",
+      "Tên": "La bàn chết đuối",
+      "Phẩm_chất": "Thần_khí",
+      "Cấp_độ": 1,
+      "Hạng_phẩm": 8,
+      "Nhãn": [
+        "trang_sức",
+        "chỉ_dẫn",
+        "nguyền_rủa"
+      ],
+      "Cộng_thêm_thuộc_tính": {
+        "Cảm_nhận": 2,
+        "Áo_nghĩa": 1
+      },
+      "Hiệu_quả": "[Chỉ dẫn vực sâu] Mỗi ngày 1 lần, bạn có thể hỏi la bàn phương hướng của một khái niệm (như \"nơi trú ẩn gần nhất\", \"vị trí kẻ thù\", \"kho báu thất lạc\"). La bàn sẽ chỉ ra hướng đại khái (sai số trong 30 độ), nhưng khi sử dụng sẽ phát ra hồi âm yếu ở tầng tinh thần, có thể thu hút những tồn tại cũng quan tâm đến khái niệm đó; [Cộng hưởng lạc đường] Khi bạn lạc trong khu vực xa lạ hơn 1 giờ, la bàn tự động chỉ về lối ra gần nhất, nhưng bạn cần vượt qua kiểm định kháng Cảm_nhận DC15, nếu không sẽ thấy gương mặt người chết đuối hiện lên trong la bàn.",
+      "Mô_tả": "Chiếc la bàn bằng đồng này được vớt từ một con thuyền đắm biển sâu; kim chỉ mãi xoay chậm, như đang tìm kiếm thứ gì đó. Nhìn qua kính la bàn có thể thấy bên trong đầy nước biển, thỉnh thoảng nổi lên bọt khí."
+    },
+    {
+      "id": "armor_echo_mask",
+      "Phân_loại": "Phòng_cụ",
+      "Loại": "Phòng_cụ",
+      "Vị_trí_trang_bị": "Đặc_biệt",
+      "Tên": "Mặt nạ hồi âm",
+      "Phẩm_chất": "Thần_khí",
+      "Cấp_độ": 1,
+      "Hạng_phẩm": 9,
+      "Nhãn": [
+        "mặt_nạ",
+        "danh_tính",
+        "ký_ức"
+      ],
+      "Cộng_thêm_thuộc_tính": {
+        "Sức_hấp_dẫn": 2,
+        "Tất_sát": 1
+      },
+      "Hiệu_quả": "[Đánh cắp gương mặt] Mỗi ngày 3 lần, khi bạn chạm vào mặt một sinh vật hình người (cần đối phương phối hợp hoặc đang vô thức), mặt nạ sẽ ghi lại diện mạo, giọng nói và cử chỉ cơ bản của họ. Bạn có thể đeo mặt nạ bất cứ lúc nào để biến thành dáng vẻ người đó, kéo dài 1 giờ; [Lạc mất danh tính] Khi bạn liên tục đeo mặt nạ hơn 3 giờ, phải vượt qua kiểm định kháng Cảm_nhận DC18, nếu không bắt đầu lẫn lộn ký ức của bản thân và đối tượng ngụy trang, kéo dài đến lần nghỉ dài kế tiếp; [Tiếng thét ngàn mặt] Mỗi trận 1 lần, khi lớp ngụy trang bị nhìn thấu, mặt nạ lập tức phóng thích toàn bộ tàn ảnh tinh thần của những gương mặt từng ghi lại. Toàn bộ kẻ địch trong 30 thước phải vượt qua kiểm định kháng Cảm_nhận DC16, nếu thất bại rơi vào trạng thái mặt mũi mơ hồ 1 lượt: kiểm định tấn công bị bất lợi, không thể phân biệt địch ta và chọn mục tiêu tấn công ngẫu nhiên.",
+      "Mô_tả": "Chiếc mặt nạ trắng bệch này có bề mặt trơn nhẵn như gương, không có bất kỳ ngũ quan nào. Khoảnh khắc đeo lên, bạn sẽ cảm thấy vô số ký ức xa lạ tràn vào đầu; đó là tàn ảnh của tất cả những người từng được mặt nạ ghi lại."
+    },
+    {
+      "id": "weapon_memory_quill",
+      "Phân_loại": "Vũ_khí",
+      "Loại": "Vũ_khí",
+      "Vị_trí_trang_bị": "Tay_chính",
+      "Tên": "Bút lông soán ký ức",
+      "Phẩm_chất": "Truyền_thuyết",
+      "Cấp_độ": 1,
+      "Hạng_phẩm": 10,
+      "Nhãn": [
+        "pháp_khí",
+        "ký_ức",
+        "khế_ước"
+      ],
+      "Cộng_thêm_thuộc_tính": {
+        "Trí_lực": 2,
+        "Sức_hấp_dẫn": 1,
+        "Chuyển_nghề": 1,
+        "Áo_nghĩa": 1
+      },
+      "Hiệu_quả": "[Viết khế ước] Khi bạn dùng bút này viết khế ước hoặc thỏa thuận, có thể bóp méo bất kỳ 1 điều khoản nào (không thể bịa thêm từ hư vô, chỉ có thể xuyên tạc). Người ký cần vượt qua kiểm định Cảm_nhận DC13 mới nhận ra; khi điều khoản bị bóp méo được kích hoạt, chữ viết sẽ bốc lửa xanh và hiện rõ; [Trích lấy ký ức] Mỗi ngày 2 lần, khi bạn chạm vào một sinh vật có trí tuệ, bạn có thể đọc ký ức bề mặt trong 1 giờ gần nhất của họ (cần vượt qua kiểm định đối kháng Sức_hấp_dẫn DC18). Thành công thì có thể trích đoạn ký ức đó ra thành văn bản; người bị trích vĩnh viễn mất ký ức ấy cho đến khi nhìn thấy bản ghi chữ viết; [Bút mực thành thật] Mỗi trận 1 lần, viết một từ trong không trung (như \"móng vuốt\", \"lửa\", \"khóa\"), hiện thực hóa thành hiệu quả thực thể kéo dài 1 lượt. Nếu liên quan đến sát thương, tính theo trần [800% + 20% x (Cấp_độ - 1)].",
+      "Mô_tả": "Cây bút lông này do tín đồ của thần ký ức rèn nên; ngòi bút vĩnh viễn không cần mực, vì nó viết bằng chính ký ức. Người sở hữu có thể cảm nhận dòng suy nghĩ của mọi người xung quanh chảy trên đầu bút; đôi khi cây bút sẽ tự chuyển động, viết xuống chuyện bạn không muốn nhớ lại."
+    },
+    {
+      "id": "jewel_truthseeker_monocle",
+      "Phân_loại": "Trang_sức",
+      "Loại": "Trang_sức",
+      "Vị_trí_trang_bị": "Đặc_biệt",
+      "Tên": "Kính đơn Tầm Chân",
+      "Phẩm_chất": "Thần_khí",
+      "Cấp_độ": 1,
+      "Hạng_phẩm": 9,
+      "Nhãn": [
+        "trang_sức",
+        "trinh_trắc",
+        "xã_giao"
+      ],
+      "Cộng_thêm_thuộc_tính": {
+        "Cảm_nhận": 2,
+        "Chuyển_nghề": 1
+      },
+      "Hiệu_quả": "[Lời nói dối hiện hình] Khi bạn trò chuyện với sinh vật có trí tuệ, qua thấu kính bạn có thể thấy môi đối phương ánh đỏ rất nhẹ khi họ nói dối (đối phương không biết); [Thấu suốt bí mật] Mỗi ngày 3 lần, bạn có thể dành 1 phút quan sát một vật phẩm hoặc khung cảnh, thấu kính sẽ hiển thị tàn ảnh của những sự kiện then chốt xảy ra tại đây trong 24 giờ gần nhất (đoạn 3-5 giây).",
+      "Mô_tả": "Kính đơn này được một thẩm phán nào đó đặt làm, trong thấu kính phong ấn linh thể chân ngôn."
+    },
+    {
+      "id": "armor_shadowstep_boots",
+      "Phân_loại": "Phòng_cụ",
+      "Loại": "Phòng_cụ",
+      "Vị_trí_trang_bị": "Giày",
+      "Tên": "Giày Bước Bóng",
+      "Phẩm_chất": "Thần_khí",
+      "Cấp_độ": 1,
+      "Hạng_phẩm": 8,
+      "Nhãn": [
+        "giày",
+        "dịch_chuyển",
+        "ẩn_nấp"
+      ],
+      "Cộng_thêm_thuộc_tính": {
+        "Nhanh_nhẹn": 2,
+        "Cơ_bản": 1
+      },
+      "Hiệu_quả": "[Dạo bước trong bóng] Mỗi trận 3 lần, khi bạn đứng trong bóng râm hoặc khu vực lờ mờ, bạn có thể dịch chuyển tức thời đến một bóng râm khác trong 60 thước (cần nhìn thấy vị trí mục tiêu); [Rơi xuống không tiếng] Khi bạn rơi hoặc nhảy từ nơi cao, lúc tiếp đất hoàn toàn không phát tiếng và không chịu sát thương rơi (tối đa 30 thước).",
+      "Mô_tả": "Đôi giày này do những kẻ dệt bóng của Mặt Phẳng Bóng Tối chế tạo; đế giày không bao giờ để lại dấu chân. Người mang nó có thể cảm nhận vị trí mọi bóng tối xung quanh, như thể chúng đang gọi mình."
+    },
+    {
+      "id": "armor_chameleon_cloak",
+      "Phân_loại": "Phòng_cụ",
+      "Loại": "Phòng_cụ",
+      "Vị_trí_trang_bị": "Vai",
+      "Tên": "Áo choàng tắc kè",
+      "Phẩm_chất": "Thần_khí",
+      "Cấp_độ": 1,
+      "Hạng_phẩm": 9,
+      "Nhãn": [
+        "áo_choàng",
+        "ngụy_trang",
+        "biến_hình"
+      ],
+      "Cộng_thêm_thuộc_tính": {
+        "Sức_hấp_dẫn": 2,
+        "Tất_sát": 1
+      },
+      "Hiệu_quả": "[Ngụy trang hoàn mỹ] Mỗi ngày 3 lần, bạn có thể tiêu hao 1 phút khiến áo choàng biến thành bất kỳ trang phục hoặc giáp nhẹ nào bạn từng thấy, đồng thời ngoại hình của bạn cũng điều chỉnh vi tế để khớp với bộ trang phục đó, kéo dài đến khi bạn chủ động giải trừ hoặc đến lần nghỉ dài kế tiếp; [Hòa vào môi trường] Khi bạn đứng yên hơn 1 lượt, áo choàng sẽ mô phỏng màu sắc và hoa văn của môi trường xung quanh, kiểm định ẩn nấp của bạn được lợi thế.",
+      "Mô_tả": "Áo choàng này dệt từ tổ chức lõi của quái vật mô phỏng, vẫn giữ bản năng bắt chước. Người mặc sẽ thấy mình ngày càng giỏi hòa vào môi trường, nhưng cũng ngày càng khó nhớ diện mạo thật của bản thân."
+    },
+    {
+      "id": "armor_guardian_aegis",
+      "Phân_loại": "Vũ_khí",
+      "Loại": "Vũ_khí",
+      "Vị_trí_trang_bị": "Tay_chính",
+      "Tên": "Hắc Kiếm Tái Rèn",
+      "Phẩm_chất": "Truyền_thuyết",
+      "Cấp_độ": 1,
+      "Hạng_phẩm": 10,
+      "Nhãn": [
+        "trường_kiếm",
+        "trưởng_thành",
+        "lời_nguyền"
+      ],
+      "Cộng_thêm_thuộc_tính": {
+        "Sức_mạnh": 2,
+        "Nhanh_nhẹn": 1,
+        "Cơ_bản": 1,
+        "Chuyển_nghề": 1,
+        "Nâng_cao": 1
+      },
+      "Hiệu_quả": "[Thu hoạch linh hồn] Khi bạn dùng kiếm này giết kẻ địch cấp thủ lĩnh trở lên, với mỗi kẻ như vậy, sát thương cố định trong bảng vũ khí nhân vật của bạn tăng thêm +1 trước khi các hệ số sát thương khác được kết toán (hiện tại: +0); [Cộng hưởng hắc kiếm] Bạn có thể tuyên bố chân danh của kẻ địch có linh hồn đã khắc lên kiếm, khiến linh hồn ấy phục dịch bạn chiến đấu cho đến hết trận này, nhưng số tầng Thu hoạch linh hồn lập tức -1; [Nuốt chủ] Khi bạn rơi vào trạng thái hấp hối trong chiến đấu, phải vượt qua kiểm định kháng Cảm_nhận DC22, nếu không linh hồn bị kiếm nuốt chửng. Muốn phục sinh cần nghi thức cấp truyền thuyết và xác suất thành công giảm 50%.",
+      "Mô_tả": "Thanh trường kiếm đen nhánh này từng chém giết thân xác của một thượng cổ long tôn, sau đó được rèn lại và lưu truyền đến nay. Trên thân kiếm khắc đầy chân danh của những kẻ bị nuốt; mỗi cái tên đại diện cho một linh hồn mạnh mẽ. Nó khao khát thêm linh hồn, nhưng cũng luôn sẵn sàng nuốt chính người cầm."
+    },
+    {
+      "id": "weapon_voidtear_scythe",
+      "Phân_loại": "Vũ_khí",
+      "Loại": "Vũ_khí",
+      "Vị_trí_trang_bị": "Tay_chính",
+      "Tên": "Lưỡi liềm Xé Hư Không",
+      "Phẩm_chất": "Sử_thi",
+      "Cấp_độ": 1,
+      "Hạng_phẩm": 10,
+      "Nhãn": [
+        "liềm",
+        "hư_không",
+        "pha_vị"
+      ],
+      "Cộng_thêm_thuộc_tính": {
+        "Nhanh_nhẹn": 2,
+        "Trí_lực": 2,
+        "Toàn_kỹ_năng": 2
+      },
+      "Hiệu_quả": "[Vết rách không gian] Mỗi trận 2 lần, vung liềm xé rách không gian, gây [1000% + 25% x (Cấp_độ - 1)] sát thương hư không. Toàn bộ kẻ địch trong đường thẳng 20 thước phải vượt qua kiểm định kháng Nhanh_nhẹn DC22, nếu thất bại chịu toàn bộ sát thương và bị dịch chuyển ngẫu nhiên trong phạm vi 10-30 thước; [Bão hư không] Mỗi trận 1 lần, mở khóa sau khi Vết rách không gian đã dùng 2 lần: chỉ định bán kính 20 thước tạo bão hư không kéo dài 2 lượt. Kẻ địch trong khu vực chịu [500% + 15% x (Cấp_độ - 1)] sát thương hư không vào đầu mỗi lượt (không kiểm định kháng); kẻ địch đi vào khu vực phải vượt qua kiểm định kháng Sức_mạnh DC20, nếu thất bại bị dịch chuyển ngẫu nhiên ra ngoài khu vực 20 thước; [Dấu ấn khe nứt] Khi kẻ địch bị Vết rách không gian đánh trúng, kích hoạt: trong 2 lượt, kiểm định tấn công của bạn nhằm vào mục tiêu đó +3. Khi mục tiêu dùng hiệu quả dịch chuyển hoặc chuyển vị, phải vượt qua kiểm định kháng Thể_chất DC20, nếu không chuyển vị thất bại.",
+      "Mô_tả": "Lưỡi của cây liềm này không phải kim loại, mà là khe nứt hư không đã đông cứng. Tương truyền do một kẻ đi trong hư không bắt được mảnh không gian ở rìa vị diện rồi rèn thành. Mỗi lần vung đều để lại vết nứt ngắn ngủi trong hiện thực; nhìn qua khe nứt có thể thấy vực sâu của hư không. Người cầm cảm nhận được tiếng gọi của hư không, nhưng lạm dụng sẽ khiến hiện thực quanh bạn bắt đầu sụp rã."
+    },
+    {
+      "id": "armor_starforged_mantle",
+      "Phân_loại": "Phòng_cụ",
+      "Loại": "Phòng_cụ",
+      "Vị_trí_trang_bị": "Vai",
+      "Tên": "Áo choàng sao rèn",
+      "Phẩm_chất": "Sử_thi",
+      "Cấp_độ": 1,
+      "Hạng_phẩm": 10,
+      "Nhãn": [
+        "áo_choàng",
+        "sao_trời",
+        "phi_hành"
+      ],
+      "Cộng_thêm_thuộc_tính": {
+        "Trí_lực": 2,
+        "Sức_hấp_dẫn": 1,
+        "Toàn_kỹ_năng": 2
+      },
+      "Hiệu_quả": "[Dạo bước tinh giới] Mỗi trận 1 lần, khoác ánh sao hóa thành hư ảnh trong 3 lượt: bạn nhận năng lực bay, và các kiểm định tấn công nhằm vào bạn -5. Khi kết thúc, kẻ địch trong 10 thước phải vượt qua kiểm định kháng Thể_chất DC18, nếu thất bại bị mù 1 lượt; [Dệt tinh đồ] Bạn có thể ghi lại bất kỳ địa điểm nào từng đi qua khi mở Dạo bước tinh giới, rồi sau một lượt ngâm xướng dịch chuyển đến đó (đã ghi: chưa có); [Sao rơi làm khiên] Mỗi ngày 1 lần, dùng phản ứng khi một đồng minh sắp chịu tấn công: phóng chiếu khiên ánh sao, sát thương lần đó giảm một nửa; khiên kéo dài đến đầu lượt sau của đồng minh và ánh sáng mờ trong 10 thước của họ có thể khiến kẻ địch tàng hình hiện hình; [Cộng hưởng chòm sao] Khi ban đêm nhìn thấy bầu trời sao, áo choàng hiện ra tăng ích theo chòm sao mùa hiện tại kéo dài đến nghỉ dài: xuân - Chòm Thợ Săn: kiểm định tấn công tầm xa +2; hạ - Chòm Vương Miện: kiểm định kháng Sức_hấp_dẫn +2; thu - Chòm Thiên Bình: kiểm định kháng Trí_lực +2; đông - Chòm Cự Thuẫn: kiểm định kháng Thể_chất +2.",
+      "Mô_tả": "Áo choàng này dệt từ mảnh sao rơi, mặt trong thêu đầy tinh đồ. Tương truyền là kiệt tác của một lữ giả tinh giới hoàn thành trên đỉnh đài quan trắc; khoác lên sẽ nghe thấy lời thì thầm của quần tinh."
+    },
+    {
+      "id": "armor_argentum_plate",
+      "Phân_loại": "Phòng_cụ",
+      "Loại": "Phòng_cụ",
+      "Vị_trí_trang_bị": "Áo",
+      "Tên": "Trọng giáp thập tự quân bạc trắng",
+      "Phẩm_chất": "Truyền_thuyết",
+      "Cấp_độ": 1,
+      "Hạng_phẩm": 10,
+      "Nhãn": [
+        "trọng_giáp",
+        "thánh_quang",
+        "phòng_hộ"
+      ],
+      "Cộng_thêm_thuộc_tính": {
+        "Thể_chất": 2,
+        "Sức_mạnh": 1,
+        "Nâng_cao": 1,
+        "Áo_nghĩa": 1
+      },
+      "Hiệu_quả": "[Thân thể thuần tịnh] Khi bạn chịu sát thương đâm xuyên, chém hoặc đập, sát thương các loại đó vĩnh viễn giảm 25%; [Thánh quang phản xung] Khi bạn đỡ thành công hoặc chịu sát thương cận chiến, gây [300% + 12% x (Cấp_độ - 1)] sát thương ánh sáng cho kẻ tấn công và cưỡng chế đẩy lùi 5 thước; [Vững như bàn thạch] Bạn miễn nhiễm hiệu quả \"đánh ngã\" và \"cưỡng chế chuyển vị\", đồng thời kiểm định Sức_mạnh(Vận_động) nhận +2.",
+      "Mô_tả": "Trọng giáp rèn từ kim loại bạc trắng thuần tịnh, bề mặt chảy thánh quang từ chối mọi tà ác."
+    },
+    {
+      "id": "armor_porcelain_vestment",
+      "Phân_loại": "Phòng_cụ",
+      "Loại": "Phòng_cụ",
+      "Vị_trí_trang_bị": "Áo",
+      "Tên": "Tế bào trắng sứ của Eleanor",
+      "Phẩm_chất": "Truyền_thuyết",
+      "Cấp_độ": 1,
+      "Hạng_phẩm": 10,
+      "Nhãn": [
+        "tế_bào",
+        "quyền_năng",
+        "hào_quang"
+      ],
+      "Cộng_thêm_thuộc_tính": {
+        "Sức_hấp_dẫn": 2,
+        "Trí_lực": 1,
+        "Chuyển_nghề": 1,
+        "Tất_sát": 1
+      },
+      "Hiệu_quả": "[Hào quang của Đại Tu Viện Trưởng] Khi bạn bước vào chiến đấu, đơn vị phe bạn trong 30 thước được kiểm định tấn công +2, đơn vị phe địch chịu phạt -2 vào kiểm định tấn công; [Quyền năng chính thống] Mỗi trận 1 lần, lấy bản thân làm trung tâm phóng thích gợn sóng, khiến mọi đơn vị phe địch phải vượt qua kiểm định kháng Sức_hấp_dẫn DC18, nếu thất bại rơi vào trạng thái \"quỳ phục\" (không thể di chuyển và phòng ngự giảm một nửa) kéo dài 1 lượt; [Thích ứng phi thụy hóa] Giảm sát thương ma pháp của bạn +15%, đồng thời kiểm định thuyết phục xã giao +2.",
+      "Mô_tả": "Tế bào đan xen giữa giáp sứ trắng xương và lụa, tỏa ra vẻ thống nhất đến rợn người."
+    },
+    {
+      "id": "jewel_old_hunter_lantern",
+      "Phân_loại": "Trang_sức",
+      "Loại": "Trang_sức",
+      "Vị_trí_trang_bị": "Đặc_biệt",
+      "Tên": "Đèn xách thợ săn già",
+      "Phẩm_chất": "Sử_thi",
+      "Cấp_độ": 1,
+      "Hạng_phẩm": 10,
+      "Nhãn": [
+        "huyết_nguyên",
+        "mộng_cảnh",
+        "trưởng_thành"
+      ],
+      "Cộng_thêm_thuộc_tính": {
+        "Cảm_nhận": 2,
+        "Nhanh_nhẹn": 2,
+        "Toàn_kỹ_năng": 2
+      },
+      "Hiệu_quả": "[Khát máu] Trong 1 lượt sau khi bạn chịu sát thương, khi gây sát thương cận chiến lên sinh vật có máu, bạn chuyển hóa 50% sát thương thực tế của lần đó thành hồi phục sinh mệnh cho bản thân; [Mộng cảnh thợ săn] Khi bạn giết kẻ địch cấp tinh anh trở lên, đèn xách hút linh hồn hóa thành [Hồi âm máu] (tinh anh 1 tầng, thủ lĩnh 4 tầng, lãnh chúa 8 tầng, huyền thoại 12 tầng) (số tầng Hồi âm máu hiện tại: 0). Mỗi ngày 1 lần, khi nghỉ dài có thể thắp đèn xách, ý thức của bạn sẽ bước vào \"Mộng cảnh thợ săn\". Trong xưởng của mộng cảnh, bạn có thể giao [Hồi âm máu] cho búp bê trước xưởng: tiêu hao 30 tầng để vĩnh viễn tăng 1 điểm vào bất kỳ thuộc tính nào trong sáu thuộc tính (một thuộc tính đơn không thể vượt quá 30).",
+      "Mô_tả": "Một chiếc đèn xách đồng thau gỉ sét; tiểu sứ giả bên trong sẽ dẫn đường cho bạn trong bóng tối. Đêm săn trong hiện thực dù dài và tuyệt vọng đến đâu, chỉ cần thắp nó lên, búp bê trong xưởng sẽ mãi dùng giọng dịu dàng nói với bạn: \"Mừng trở về, thợ săn thiện lương.\""
+    },
+    {
+      "id": "jewel_index_prescript_pager",
+      "Phân_loại": "Trang_sức",
+      "Loại": "Trang_sức",
+      "Vị_trí_trang_bị": "Đặc_biệt",
+      "Tên": "Máy nhắn tin chỉ lệnh ngón trỏ",
+      "Phẩm_chất": "Truyền_thuyết",
+      "Cấp_độ": 1,
+      "Hạng_phẩm": 10,
+      "Nhãn": [
+        "chỉ_lệnh",
+        "nghiệp",
+        "máy_nhắn_tin"
+      ],
+      "Cộng_thêm_thuộc_tính": {
+        "Cảm_nhận": 2,
+        "Nhanh_nhẹn": 1,
+        "Toàn_kỹ_năng": 1
+      },
+      "Hiệu_quả": "[Dòng chảy mù tín] Chỉ lệnh không kích hoạt ngoài chiến đấu. Chỉ khi mỗi trận chiến bắt đầu, hoặc khi kết thúc vòng 1, 3, 5 trong chiến đấu, máy nhắn tin mới ban xuống một [chỉ_lệnh] (có hiệu ứng âm thanh bíp bíp bíp, trong chính văn bắt buộc dùng một khối HTML độc lập cấp cao nhất có font đặc biệt và phong cách xanh cơ giới để đánh dấu. DM căn cứ chiến cục ban chỉ lệnh, như \"từ bỏ mọi hành động, nhìn đồng đội chết\", \"đọc một câu thơ: đau khổ ơi, ngươi là duy nhất của ta\", \"tấn công đồng minh\" hoặc \"bước vào bẫy\". Chỉ lệnh chỉ được hiển thị trên màn hình nhỏ của máy nhắn tin; chỉ lệnh đều rất ngắn gọn, chỉ vài chữ, không được là trò đùa nghịch hoặc động tác khôi hài, đa số mang ý nghĩa triết học khó trực tiếp hiểu cách đạt thành, hoặc thẳng thừng nhưng bản thân cực kỳ không muốn làm vì phải trả giá nặng, nhằm trải nghiệm sự vô thường và trêu ngươi của vận mệnh; tuyệt đối không biến thành trò thật hay thách. Dù có thực hiện chỉ lệnh hay không, đừng thêm diễn quá nhiều chữ, không vượt quá một câu. Máy nhắn tin chỉ là máy nhắn tin; nghiệp và gia hộ đều lặng lẽ có hiệu lực, không đổi màu, không dị dạng, không có âm thanh nhắc nhở, chỉ hiển thị số tầng nghiệp tăng như khi chỉ lệnh được ban xuống, rồi nếu vòng cho phép thì lập tức đưa chỉ lệnh tiếp theo. Mỗi chỉ lệnh đều phải chờ người chơi tự quyết định, cấm theo quán tính thay người chơi quyết định có tuân theo hay không.) Nếu bạn thực hiện chỉ lệnh trong lượt sau, lập tức nhận 1 tầng trạng thái [đại_hành]; nếu không thực hiện mệnh lệnh, đổi thành nhận 3 tầng trạng thái [nghiệp]. Khi chiến đấu kết thúc, xóa toàn bộ [đại_hành] và [nghiệp]; [Gia hộ chỉ lệnh] Mỗi tầng [đại_hành] khiến kiểm định tấn công của bạn tăng thêm +1 và sát thương cuối cùng tăng thêm +20%. Ngoài ra, tùy số tầng, bạn nhận thêm các hiệu quả sau, từng tầng hiệu quả cộng dồn. Một tầng: kiểm định tấn công của bạn có lợi thế. Hai tầng: mọi kiểm định tấn công của kẻ địch nhằm vào bạn bị bất lợi. Ba tầng trở lên: đòn tấn công của bạn không tung xúc xắc sát thương nữa, trực tiếp lấy tối đa; [Nghiệp của đô thị] Mỗi tầng [nghiệp] khiến kiểm định tấn công của kẻ địch nhằm vào bạn tăng thêm +1, đồng thời khiến bạn chịu thêm 10% sát thương; [Chương Vũ Khúc Cuồng Tấu] Mỗi trận 1 lần, khi đang có ít nhất 3 tầng [đại_hành] có thể phát động: tung chuỗi 9 đoạn tấn công, chỉ kết toán một lần phán định sát thương và chắc chắn trúng cùng bạo kích, tổng cộng gây [1500% + 30% x (Cấp_độ - 1)] sát thương. Sau đó xóa toàn bộ [đại_hành] và [nghiệp].",
+      "Mô_tả": "Một máy nhắn tin vỏ bạc trắng cỡ nhỏ, tiện bỏ vào túi áo vest, truyền đạt chỉ lệnh bằng chữ xanh băng trên màn hình tinh thể lỏng. Hãy kính cẩn làm theo ý nghĩa của chỉ lệnh."
+    },
+    {
+      "id": "weapon_kinsect_glaive_catastrophe",
+      "Phân_loại": "Vũ_khí",
+      "Loại": "Vũ_khí",
+      "Vị_trí_trang_bị": "Tay_chính",
+      "Tên": "Côn trùng liệp - Đèn Dẫn Diệt Tận",
+      "Phẩm_chất": "Truyền_thuyết",
+      "Cấp_độ": 1,
+      "Hạng_phẩm": 10,
+      "Nhãn": [
+        "vũ_khí_cán_dài",
+        "côn_trùng_săn",
+        "tinh_hoa"
+      ],
+      "Cộng_thêm_thuộc_tính": {
+        "Sức_mạnh": 1,
+        "Nhanh_nhẹn": 1,
+        "Nâng_cao": 1,
+        "Tất_sát": 1
+      },
+      "Hiệu_quả": "[Phóng thích côn trùng săn] Khi chiến đấu bắt đầu, dùng một hành động thêm để phóng côn trùng săn trú trên đầu côn thành vật triệu hồi (HP = HP tối đa của bạn x 50%, AC = 12 + giá trị điều chỉnh Nhanh_nhẹn của bạn, có bay) cùng bạn hiệp đồng tác chiến. Mỗi vòng côn trùng săn độc lập tấn công 1 lần, gây [500% + 10% x (Cấp_độ - 1)] sát thương vật lý; bạn có thể tiêu hao 1 hành động để cho ăn, khiến nhân vật nhận một hiệu quả [cường_hóa_cho_ăn], không cộng dồn. Tiêu hao 1 đạo cụ theo độ hiếm phẩm chất của nó để tăng tổng sát thương của côn trùng săn trong trận này (Tinh_lương +10%, mỗi bậc phẩm chất cao hơn tăng thêm 10%). Sau khi côn trùng săn chết, lượt sau có thể tiêu hao 1 hành động để phóng ra lại; [Chiết xuất tinh hoa] Khi đòn tấn công của côn trùng săn trúng kẻ địch, kích hoạt: căn cứ bộ vị trúng đòn của kẻ địch để chiết xuất một loại [tinh_hoa] bám vào bạn đến khi chiến đấu kết thúc (ghi vào Hiệu_ứng_trạng_thái của nhân vật) - tinh hoa đỏ (trúng đầu): mọi sát thương do bạn và côn trùng săn gây ra +10%; tinh hoa cam (trúng thân): mọi sát thương bạn chịu -10%; tinh hoa trắng (trúng tứ chi và đuôi): AC của bạn +1; mỗi màu tối đa 1 tầng. Khi bạn đồng thời có đủ ba màu đỏ, cam, trắng, lập tức bước vào [cường_hóa_giác_trùng], toàn bộ ba hạng tăng ích trên được nhân đôi hiệu lực; [Lăng không trùng trảm phá] Mỗi trận 1 lần, chỉ có thể phát động khi đang trong [cường_hóa_giác_trùng]. Dùng một hành động tiêu hao toàn bộ tinh hoa, chống côn xuống đất bật nhảy rồi tụ lực chém xuống; nếu trúng, gây [800% + 20% x (Cấp_độ - 1)] sát thương và bỏ qua giảm sát thương vật lý của mục tiêu. Sau khi trúng, ngẫu nhiên nhận lại 2 màu tinh hoa; nếu lần này là bạo kích, nhận lại toàn bộ ba màu tinh hoa đỏ, cam, trắng.",
+      "Mô_tả": "Tiết côn chứa sức phá hủy tuyệt đối của Nergigante, từng cùng thợ săn \"xifaka\" chứng kiến hồi kết của vô số cổ long. Nó được ghép thô bạo từ gai đen và vỏ tái sinh của Nergigante; ở đầu cuối trú một con côn trùng săn vĩnh viễn đói khát."
+    },
+    {
+      "Phân_loại": "Vũ_khí",
+      "Loại": "Vũ_khí",
+      "Vị_trí_trang_bị": "Tay_chính",
+      "Tên": "Lụa Mỏng của Ma Nữ Dệt Dục",
+      "Phẩm_chất": "Truyền_thuyết",
+      "Cấp_độ": 1,
+      "Hạng_phẩm": 10,
+      "Nhãn": [
+        "phong_ấn",
+        "dị_hóa",
+        "vải_dệt",
+        "pháp_tắc"
+      ],
+      "Cộng_thêm_thuộc_tính": {
+        "Nhanh_nhẹn": 2,
+        "Sức_hấp_dẫn": 1
+      },
+      "Hiệu_quả": "[Tư thái vô cấu] Thường trú tư thái này: ren có thể tách làm năm, phát động đâm nhanh, chém, quét ngang và các kiểu tấn công khác, tính theo [500% + 20% x (Cấp_độ - 1)]. Khi thấm máu hoặc tinh hoa của mục tiêu, nhận 1 tầng [ăn_mòn_hình_thể] (hiện tại 0 tầng), thoát chiến xóa về 0; [Tắm rửa trong tơ dục] Khi đánh trúng sinh vật cỡ vừa trở xuống, mục tiêu cần thực hiện kiểm định đối kháng Nhanh_nhẹn; thất bại thì bị tước vũ khí hoặc trói buộc 1 vòng, kiểm định đối kháng của bạn +3; [Chân hình thực dục] Khi [ăn_mòn_hình_thể] đạt 5 tầng, ren bị xé rách từ bên trong, lột xác thành xúc tu đỏ sẫm có gai đuôi. Cường độ kết cấu và sức mạnh tăng mạnh, kiểm định tấn công nhận lợi thế; khi đánh trúng mục tiêu sẽ để lại vết sẫm như bỏng, kéo dài 3 vòng, đầu mỗi vòng gây [200% + 20% x (Cấp_độ - 1)] sát thương ăn mòn, không thể cộng dồn. Bạn không thể chuyển về thường thái; sau một thời gian không thấm máu, nó tự động khôi phục.",
+      "Mô_tả": "Một dải ren vương mùi thơm cơ thể thiếu nữ, nhưng chất liệu lại như kim loại tôi luyện. Bên trong nó phong ấn pháp tắc dục vọng còn sót lại từ viễn cổ; mỗi lần mượn máu thịt để lột xác, đường tơ trên sắc bạc lại tối đi một phần, như ngầm báo số mệnh bi thảm của chủ nhân cũ."
+    }
+  ]
+}
