@@ -10797,6 +10797,10 @@ ${CHARACTER_PROFILE_FORMAT_SAMPLE.trim()}
       let _amberMapHydratedUrl = '';
       let _amberMapHydratingUrl = '';
       let _amberMapDirectUrl = '';
+      let _defaultMapEmbedSrcdoc = '';
+      let _defaultMapHydratedUrl = '';
+      let _defaultMapHydratingUrl = '';
+      let _defaultMapDirectUrl = '';
 
       const resolveAmberMapBaseUrl = () => {
         try {
@@ -10874,8 +10878,13 @@ ${CHARACTER_PROFILE_FORMAT_SAMPLE.trim()}
         if (!frame) return;
         const worldviewMode = String(frame.dataset.worldviewMode || '').trim();
         if (worldviewMode !== 'amber') {
+          if (worldviewMode === 'default' && _defaultMapEmbedSrcdoc) {
+            if (frame.getAttribute('src') !== 'about:blank') frame.setAttribute('src', 'about:blank');
+            if (frame.srcdoc !== _defaultMapEmbedSrcdoc) frame.srcdoc = _defaultMapEmbedSrcdoc;
+            return;
+          }
           if (frame.srcdoc) frame.srcdoc = '';
-          const fallbackSrc = String(frame.dataset.mapSrc || '').trim();
+          const fallbackSrc = String(_defaultMapDirectUrl || frame.dataset.mapSrc || '').trim();
           if (fallbackSrc && frame.getAttribute('src') !== fallbackSrc) frame.setAttribute('src', fallbackSrc);
           return;
         }
@@ -10952,6 +10961,55 @@ ${CHARACTER_PROFILE_FORMAT_SAMPLE.trim()}
         hydrateAmberMapEmbed(targetUrl);
       };
 
+      const hydrateDefaultMapEmbed = async (url) => {
+        const targetUrl = String(url || '').trim();
+        _defaultMapHydratingUrl = targetUrl;
+        _defaultMapHydratedUrl = '';
+        _defaultMapEmbedSrcdoc = '';
+        _defaultMapDirectUrl = '';
+        applyAmberMapFrameToDom();
+
+        if (!targetUrl || !/^https?:\/\//i.test(targetUrl)) {
+          _defaultMapHydratingUrl = '';
+          return;
+        }
+
+        try {
+          const response = await fetch(targetUrl, { method: 'GET', mode: 'cors', credentials: 'omit' });
+          if (_defaultMapHydratingUrl !== targetUrl) return;
+          if (!response.ok) throw new Error(`HTTP ${response.status}`);
+          const text = await response.text();
+          if (_defaultMapHydratingUrl !== targetUrl) return;
+
+          if (/(<!doctype\s+html|<html\b)/i.test(text)) {
+            _defaultMapEmbedSrcdoc = injectBaseHrefIntoHtml(text, targetUrl);
+            _defaultMapHydratedUrl = targetUrl;
+            _defaultMapHydratingUrl = '';
+            applyAmberMapFrameToDom();
+            return;
+          }
+
+          _defaultMapDirectUrl = targetUrl;
+          _defaultMapHydratedUrl = targetUrl;
+          _defaultMapHydratingUrl = '';
+          applyAmberMapFrameToDom();
+        } catch (error) {
+          if (_defaultMapHydratingUrl !== targetUrl) return;
+          console.warn('[Thanh trạng thái dưới] Tải trước bản đồ DNF thất bại, chuyển sang tải trực tiếp:', error);
+          _defaultMapDirectUrl = targetUrl;
+          _defaultMapHydratedUrl = targetUrl;
+          _defaultMapHydratingUrl = '';
+          applyAmberMapFrameToDom();
+        }
+      };
+
+      const ensureDefaultMapEmbedReady = (url) => {
+        const targetUrl = String(url || '').trim();
+        if (!targetUrl) return;
+        if (_defaultMapHydratedUrl === targetUrl || _defaultMapHydratingUrl === targetUrl) return;
+        hydrateDefaultMapEmbed(targetUrl);
+      };
+
       const resolveWorldviewMapSrc = (worldviewLabel) => {
         const worldview = String(worldviewLabel || '').trim();
         if (worldview === 'Thanh_kiếm_Hổ_Phách') {
@@ -10983,14 +11041,21 @@ ${CHARACTER_PROFILE_FORMAT_SAMPLE.trim()}
         const mapIframeSrc = resolveWorldviewMapSrc(Thế_giới_quan);
         if (isAmberWorldview) {
           ensureAmberMapEmbedReady(mapIframeSrc);
+        } else if (!isSaoWorldview) {
+          ensureDefaultMapEmbedReady(mapIframeSrc);
         }
         const shouldUseAmberDirectSrc = isAmberWorldview
           && _amberMapHydratedUrl === mapIframeSrc
           && !_amberMapEmbedSrcdoc
           && _amberMapDirectUrl === mapIframeSrc;
+        const shouldUseDefaultDirectSrc = !isAmberWorldview
+          && !isSaoWorldview
+          && _defaultMapHydratedUrl === mapIframeSrc
+          && !_defaultMapEmbedSrcdoc
+          && _defaultMapDirectUrl === mapIframeSrc;
         const renderedMapSrc = isAmberWorldview
           ? (shouldUseAmberDirectSrc ? mapIframeSrc : 'about:blank')
-          : mapIframeSrc;
+          : (shouldUseDefaultDirectSrc ? mapIframeSrc : 'about:blank');
         const timeDisplay = [Niên_lịch, Thời_gian].filter(Boolean).join(' ') || 'Chưa rõ';
         const Địa_điểm = Vị_trí.Địa_điểm || '';
         const Khu_vực = Vị_trí.Khu_vực || '';
