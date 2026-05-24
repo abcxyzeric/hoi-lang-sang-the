@@ -65,7 +65,7 @@ const amberSwordRaces = {
             lore: 'Binh đoàn trọng giáp của người lùn là tuyến phòng thủ kiên cố nhất toàn đại lục. Kỹ nghệ giáp tấm của họ không ai sánh kịp, nhưng họ hành động chậm chạp và tính tình cố chấp.',
             bonuses: { strength: 2, dexterity: -1, constitution: 3, intelligence: 0, wisdom: 0, charisma: -1 },
             buffs: [
-                { name: 'Trái tim rèn đúc', summary: 'Mọi trang bị do chính bạn rèn được thêm một dòng tương đương phẩm chất cao hơn một bậc (chỉ giới hạn với sản phẩm kim loại)', detail: 'Mọi trang bị do chính bạn rèn được thêm một dòng tương đương phẩm chất cao hơn một bậc (chỉ giới hạn với sản phẩm kim loại). Ví dụ, trường kiếm cấp Tinh xảo do bạn rèn sẽ được thêm một dòng trang bị cấp Hiếm.' },
+                { name: 'Trái tim rèn đúc', summary: 'Mọi trang bị do chính bạn rèn được thêm một dòng tương đương phẩm chất cao hơn một bậc (chỉ giới hạn với sản phẩm kim loại)', detail: 'Mọi trang bị do chính bạn rèn được thêm một dòng tương đương phẩm chất cao hơn một bậc (chỉ giới hạn với sản phẩm kim loại). Ví dụ, trường kiếm cấp Tinh lương do bạn rèn sẽ được thêm một dòng trang bị cấp Hiếm.' },
                 { name: 'Thiên thần giáng thế', summary: 'Đập mạnh xuống đất gây động đất, khiến toàn bộ phe địch trong 30 thước ngã xuống, đồng thời nhận lá chắn bằng HP tối đa, miễn nhiễm pháp thuật và tăng sát thương vật lý', detail: '1 lần/nghỉ dài (hành động): bạn đập mạnh vũ khí xuống đất, gây động đất cục bộ. Toàn bộ phe địch đang đứng trên mặt đất trong phạm vi 30 thước bắt buộc vượt miễn trừ sức mạnh; thất bại thì [ngã xuống]. Đồng thời bạn nhận lá chắn bằng HP tối đa, miễn nhiễm toàn bộ pháp thuật do kẻ địch có cấp không cao hơn bản thân một tầng thi triển, và tăng 20% sát thương vật lý cuối cùng cho đến khi chiến đấu kết thúc. Sau khi dùng, nhận trạng thái [Thiên thần giáng thế:Hồi chiêu] cho đến hết nghỉ dài.' },
                 { name: 'Bước chân nặng nề', summary: 'Bất lợi khi kiểm định tiên công', detail: 'Kiểm định tiên công chịu bất lợi.', negative: true }
             ],
@@ -8377,7 +8377,7 @@ if (typeof window !== 'undefined') {
                                                 <select v-model="equip.quality" class="form-select"
                                                     style="padding:8px 10px; font-size:0.85rem;">
                                                     <option>Thường</option>
-                                                    <option>Tinh xảo</option>
+                                                    <option>Tinh lương</option>
                                                     <option>Hiếm</option>
                                                     <option>Thần khí</option>
                                                     <option>Truyền thuyết</option>
@@ -8461,7 +8461,7 @@ if (typeof window !== 'undefined') {
                                                 <select v-model="skill.quality" class="form-select"
                                                     style="padding:8px 10px; font-size:0.85rem;">
                                                     <option>Thường</option>
-                                                    <option>Tinh xảo</option>
+                                                    <option>Tinh lương</option>
                                                     <option>Hiếm</option>
                                                     <option>Thần khí</option>
                                                     <option>Truyền thuyết</option>
@@ -8522,7 +8522,7 @@ if (typeof window !== 'undefined') {
                                                 <select v-model="customTeammate.combo.quality" class="form-select"
                                                     style="padding:8px 10px; font-size:0.85rem;">
                                                     <option>Thường</option>
-                                                    <option>Tinh xảo</option>
+                                                    <option>Tinh lương</option>
                                                     <option>Hiếm</option>
                                                     <option>Thần khí</option>
                                                     <option>Truyền thuyết</option>
@@ -10026,7 +10026,7 @@ if (typeof window !== 'undefined') {
                     identities: {
                         material: [
                             { name: 'Kẻ bại trận vô danh', cost: 0, desc: 'Trong một ván cược dốc hết tất cả, bạn đã thua sạch thân gia, địa vị và nơi cư trú. Ngoài tính mạng được Mười Điều Minh Ước bảo hộ, bạn không còn gì cả. Bắt đầu lại từ con số không là lựa chọn duy nhất.', items: 'Ban đầu nhận 1 vũ khí phẩm chất Thường phù hợp cấp độ nhân vật. Tiền ban đầu 0G' },
-                            { name: 'Thị dân yên ổn', cost: 1, desc: 'Có quyền cư trú hợp pháp, sống cuộc đời yên ổn chín giờ đi làm năm giờ về. Tuy không thể gọi là giàu có, nhưng có tổ ấm nhỏ thuộc về mình và y phục thể diện; bạn là nền đá vững chắc nhất của thế giới này.', items: 'Ban đầu nhận 1 vũ khí phẩm chất Tinh xảo phù hợp cấp độ nhân vật. Tiền ban đầu 1,000G' },
+                            { name: 'Thị dân yên ổn', cost: 1, desc: 'Có quyền cư trú hợp pháp, sống cuộc đời yên ổn chín giờ đi làm năm giờ về. Tuy không thể gọi là giàu có, nhưng có tổ ấm nhỏ thuộc về mình và y phục thể diện; bạn là nền đá vững chắc nhất của thế giới này.', items: 'Ban đầu nhận 1 vũ khí phẩm chất Tinh lương phù hợp cấp độ nhân vật. Tiền ban đầu 1,000G' },
                             { name: 'Thợ thủ công tinh xảo', cost: 5, desc: 'Dựa vào tay nghề tinh xảo không thể thay thế, bạn giành được một chỗ đứng được tôn trọng trong công hội. Bộ hộp dụng cụ mang theo không chỉ là kế sinh nhai, mà còn là chứng minh cho tâm huyết thợ nghề của bạn.', items: 'Ban đầu nhận 1 vũ khí phẩm chất Hiếm phù hợp cấp độ nhân vật. Tiền ban đầu 10,000G' },
                             { name: 'Danh môn vọng tộc', cost: 25, desc: 'Gia huy của gia tộc bạn không ai ở địa phương là không biết. Bạn từng nhận nền giáo dục tinh anh ưu tú, cử chỉ toát ra khí chất quý tộc. Thanh kiếm gia truyền bên hông luôn nhắc bạn về vinh quang của mình.', items: 'Ban đầu nhận 1 vũ khí phẩm chất Thần khí phù hợp cấp độ nhân vật. Tiền ban đầu 50,000G' },
                             { name: 'Cá sấu tài phiệt', cost: 40, desc: 'Đế quốc thương nghiệp của bạn trải rộng qua lãnh địa của nhiều chủng tộc, nắm mạch máu kinh tế của thành thị. Khoác lễ phục tấc vải tấc vàng, nắm đặc quyền ăn cả hai giới hắc bạch; tiền bạc với bạn chỉ là thẻ cược thao túng quy tắc.', items: 'Ban đầu nhận 1 vũ khí phẩm chất Truyền thuyết phù hợp cấp độ nhân vật. Tiền ban đầu 300,000G' },
@@ -10034,7 +10034,7 @@ if (typeof window !== 'undefined') {
                         ],
                         transcendent: [
                             { name: 'Kẻ bị vứt bỏ', cost: 0, desc: 'Bị chủng tộc vứt bỏ vì thiếu hụt ma lực bẩm sinh, vi phạm minh ước hoặc cơ thể trục trặc. Sức mạnh của bạn bị phong ấn hoặc tổn hỏng; để sống tiếp, bạn bắt buộc dựa vào ngoại lực.', items: 'Ban đầu nhận 1 vũ khí phẩm chất Thường phù hợp cấp độ nhân vật. Tiền ban đầu 0G' },
-                            { name: 'Kiểu sản xuất hàng loạt/quyến thuộc', cost: 1, desc: 'Cá thể tiêu chuẩn thường thấy trong chủng tộc. Tuy không có quyền hạn đặc biệt, nhưng sở hữu đầy đủ năng lực truyền thừa chủng tộc và có thể nhận sự che chở cơ bản của tộc đàn.', items: 'Ban đầu nhận 1 vũ khí phẩm chất Tinh xảo phù hợp cấp độ nhân vật. Tiền ban đầu 1,000G' },
+                            { name: 'Kiểu sản xuất hàng loạt/quyến thuộc', cost: 1, desc: 'Cá thể tiêu chuẩn thường thấy trong chủng tộc. Tuy không có quyền hạn đặc biệt, nhưng sở hữu đầy đủ năng lực truyền thừa chủng tộc và có thể nhận sự che chở cơ bản của tộc đàn.', items: 'Ban đầu nhận 1 vũ khí phẩm chất Tinh lương phù hợp cấp độ nhân vật. Tiền ban đầu 1,000G' },
                             { name: 'Điểm kỳ dị/thể biến dị', cost: 5, desc: 'Ngay từ khi sinh ra đã đi kèm biến dị. Có thể là thiên tài đa trọng thuật thức của Sâm tinh chủng, hoặc Cơ khải rời khỏi tập quần và sở hữu "tâm". Bị xem là dị loại, nhưng cũng sở hữu khả năng vô hạn.', items: 'Ban đầu nhận 1 vũ khí phẩm chất Hiếm phù hợp cấp độ nhân vật. Tiền ban đầu 5,000G' },
                             { name: 'Quan chỉ huy thứ tự', cost: 25, desc: 'Trong Sâm tinh chủng là danh môn nắm giữ nghị hội; trong Cơ khải chủng là cơ thể thượng vị chỉ huy tác chiến. Bạn không chỉ mạnh mẽ, mà còn có thể điều động tài nguyên chiến lược của chủng tộc.', items: 'Ban đầu nhận 1 vũ khí phẩm chất Thần khí phù hợp cấp độ nhân vật. Tiền ban đầu 20,000G' },
                             { name: 'Hậu duệ danh môn', cost: 60, desc: 'Hình thái hoàn mỹ gần với cá thể ban đầu nhất do thần linh sáng tạo. Bạn là tồn tại cấp "nghị hội mười tám cánh" của Thiên dực chủng.', items: 'Ban đầu nhận 1 vũ khí phẩm chất Sử thi phù hợp cấp độ nhân vật. Tiền ban đầu 100,000G' }
@@ -10314,10 +10314,10 @@ if (typeof window !== 'undefined') {
                     { name: 'Con bạc bẩm sinh', cost: 6, category: 'positive', type: 'world', icon: 'ri-dice-fill', desc: 'Không phải bạn không khống chế được, bạn thật sự giỏi.', effect: 'Có nắm bắt trực giác với xác suất; vào thời khắc cần vận may, bạn luôn may mắn hơn người khác một chút. Trong trò chơi của Disboard, đây là một loại thiên phú đáng sợ.', flavor: '「Cược? Đây không gọi là cược, đây gọi là đầu tư.」' },
                     { name: 'Hư trương thanh thế', cost: 12, category: 'positive', type: 'world', icon: 'ri-chat-poll-line', desc: 'Rõ ràng trong tay chỉ có bài nát, nhưng vẫn khiến đối thủ tin rằng bạn đang nắm con át chủ bài.', effect: 'Khi đang ở thế bất lợi, kiểm định lừa gạt/uy hiếp nhận [lợi thế]. Đối thủ trí lực càng cao càng dễ trúng chiêu vì suy nghĩ quá độ; nhưng nếu kiểm định đại thất bại, bạn sẽ lập tức rơi vào trạng thái [hoảng sợ].', flavor: '「Đúng như kế hoạch của ta... (thật ra căn bản không có kế hoạch).」' },
                     // ===== Đặc chất kỹ năng sinh hoạt (chỉ tính cấp chuyên gia) =====
-                    { name: 'Đại trù', cost: 8, category: 'life_skill', type: 'craft', icon: 'ri-restaurant-2-line', desc: 'Bạn là một chuyên gia nấu nướng thật sự, có thể biến nguyên liệu bình thường nhất thành mỹ vị.', effect: 'Kiểm định nấu nướng +4, món ăn chế tác chắc chắn kèm hiệu quả tăng ích bổ sung. Cung cấp nguyên liệu hiếm trở lên có thể thử chế tác món ăn cùng phẩm chất; nguyên liệu thường chỉ có thể làm ra món dưới Tinh xảo.', flavor: '「Lửa, dao pháp, gia vị: thiếu một thứ cũng không được.」' },
-                    { name: 'Thần tượng thợ rèn', cost: 20, category: 'life_skill', type: 'craft', icon: 'ri-hammer-line', desc: 'Bạn tinh thông rèn đúc và chế tác, là bậc thầy công tượng được công nhận.', effect: 'Kiểm định rèn đúc/chế tác +4. Cung cấp nguyên liệu hiếm trở lên có thể thử rèn trang bị cùng phẩm chất; nguyên liệu thường tối đa tạo ra Tinh xảo. Có thể sửa chữa trang bị cấp Thần khí bị hỏng.', flavor: '「Mỗi nhát búa đều phải vừa đúng.」' },
+                    { name: 'Đại trù', cost: 8, category: 'life_skill', type: 'craft', icon: 'ri-restaurant-2-line', desc: 'Bạn là một chuyên gia nấu nướng thật sự, có thể biến nguyên liệu bình thường nhất thành mỹ vị.', effect: 'Kiểm định nấu nướng +4, món ăn chế tác chắc chắn kèm hiệu quả tăng ích bổ sung. Cung cấp nguyên liệu hiếm trở lên có thể thử chế tác món ăn cùng phẩm chất; nguyên liệu thường chỉ có thể làm ra món dưới Tinh lương.', flavor: '「Lửa, dao pháp, gia vị: thiếu một thứ cũng không được.」' },
+                    { name: 'Thần tượng thợ rèn', cost: 20, category: 'life_skill', type: 'craft', icon: 'ri-hammer-line', desc: 'Bạn tinh thông rèn đúc và chế tác, là bậc thầy công tượng được công nhận.', effect: 'Kiểm định rèn đúc/chế tác +4. Cung cấp nguyên liệu hiếm trở lên có thể thử rèn trang bị cùng phẩm chất; nguyên liệu thường tối đa tạo ra Tinh lương. Có thể sửa chữa trang bị cấp Thần khí bị hỏng.', flavor: '「Mỗi nhát búa đều phải vừa đúng.」' },
                     { name: 'Diệu thủ hồi xuân', cost: 10, category: 'life_skill', type: 'craft', icon: 'ri-heart-pulse-line', desc: 'Bạn có y thuật cấp chuyên gia, có thể cứu tử đỡ thương trên chiến trường.', effect: 'Kiểm định y liệu +4, khi dùng đạo cụ trị liệu lượng hồi phục gấp đôi; có thể thử chữa lành thương bệnh và nguyền rủa mà thủ đoạn thông thường không thể chữa.', flavor: '「Chỉ cần còn một hơi thở, ta có thể kéo bạn trở lại.」' },
-                    { name: 'Tông sư luyện kim', cost: 20, category: 'life_skill', type: 'craft', icon: 'ri-flask-line', desc: 'Bạn là chuyên gia đỉnh cao trong lĩnh vực luyện kim, tinh thông chuyển hóa dược tề và vật liệu.', effect: 'Kiểm định luyện kim +4. Cung cấp vật liệu luyện kim cấp Thần khí trở lên có thể thử điều phối dược tề cùng phẩm chất; vật liệu dưới Hiếm tối đa tạo ra dược tề Tinh xảo. Tác dụng phụ giảm một nửa.', flavor: '「Vạn vật đều có thể phân giải, cũng có thể tái tổ hợp.」' },
+                    { name: 'Tông sư luyện kim', cost: 20, category: 'life_skill', type: 'craft', icon: 'ri-flask-line', desc: 'Bạn là chuyên gia đỉnh cao trong lĩnh vực luyện kim, tinh thông chuyển hóa dược tề và vật liệu.', effect: 'Kiểm định luyện kim +4. Cung cấp vật liệu luyện kim cấp Thần khí trở lên có thể thử điều phối dược tề cùng phẩm chất; vật liệu dưới Hiếm tối đa tạo ra dược tề Tinh lương. Tác dụng phụ giảm một nửa.', flavor: '「Vạn vật đều có thể phân giải, cũng có thể tái tổ hợp.」' },
                     { name: 'Thi nhân ngâm du', cost: 7, category: 'life_skill', type: 'performance', icon: 'ri-music-line', desc: 'Diễn tấu và tiếng hát của bạn đã đạt cảnh giới hóa, có thể lay động trái tim lạnh lẽo nhất.', effect: 'Kiểm định biểu diễn +4. Khi diễn tấu, có thể thêm trạng thái [cổ vũ] cho đồng đội (toàn thuộc tính +1, kéo dài 1 giờ); biểu diễn trong tửu quán có thể nhận thù lao hậu hĩnh và tình báo.', flavor: '「Một khúc kết thúc, cả sảnh đều rơi lệ.」' },
                     { name: 'Người mật ngữ', cost: 8, category: 'life_skill', type: 'knowledge', icon: 'ri-translate-2', desc: 'Bạn tinh thông nhiều loại ngôn ngữ và mật mã, là chuyên gia trong lĩnh vực phá dịch.', effect: 'Kiểm định ngôn ngữ/mật mã +4, có thể giải đọc văn tự cổ, ám hiệu và thông tin mã hóa, giao lưu cơ bản với bất kỳ chủng tộc trí tuệ nào.', flavor: '「Văn tự là chìa khóa của văn minh, vừa hay ta sưu tầm cả một chùm.」' },
                     { name: 'Thuần thú sư', cost: 8, category: 'life_skill', type: 'survival', icon: 'ri-bear-smile-line', desc: 'Bạn là chuyên gia thuần phục và huấn luyện dã thú, có sự ăn ý tự nhiên với động vật.', effect: 'Kiểm định thuần thú +4, có thể thử thuần phục ma vật hoang dã làm tọa kỵ hoặc đồng bạn chiến đấu; sinh vật đã thuần phục có độ trung thành cao hơn và có thể chấp hành mệnh lệnh phức tạp.', flavor: '「Mỗi con dã thú đều đang chờ người hiểu nó.」' },
@@ -10325,7 +10325,7 @@ if (typeof window !== 'undefined') {
                     { name: 'Kỳ tài thương nhân', cost: 10, category: 'life_skill', type: 'social', icon: 'ri-money-cny-box-line', desc: 'Bạn sinh ra đã là người làm ăn, có khứu giác nhạy bén với thị trường và lợi nhuận.', effect: 'Kiểm định giao dịch +4, giá mua giảm 15%, giá bán tăng 15%. Có thể đánh giá giá trị thật của vật phẩm và nhìn thấu giới hạn của đối phương trong đàm phán thương nghiệp.', flavor: '「Mua thấp bán cao, đó là ma pháp cổ xưa nhất cũng hiệu quả nhất.」' },
                     { name: 'Tay khéo', cost: 8, category: 'life_skill', type: 'craft', icon: 'ri-hand-heart-line', desc: 'Hai tay bạn cực kỳ linh hoạt, tinh thông mở khóa, tháo dỡ và thao tác tinh vi.', effect: 'Kiểm định tay khéo +4, thời gian mở khóa/tháo cạm bẫy giảm một nửa; có thể thử tháo cơ quan phi ma pháp cấp chuyên gia. Kiểm định móc túi có lợi thế.', flavor: '「Đôi tay này có thể trộm vảy rồng mà không bị phát hiện.」' },
                     { name: 'Hề cung đình', cost: 7, category: 'life_skill', type: 'performance', icon: 'ri-emotion-laugh-line', desc: 'Bạn tinh thông đùa cợt và biểu diễn ứng biến, có thể hóa giải lúng túng trong bất kỳ trường hợp nào.', effect: 'Kiểm định tạp kỹ/hài kịch +4, có thể dùng hài hước xoa dịu bầu không khí trong tình thế căng thẳng, khiến NPC địch tạm thời hạ cảnh giác. Khi bị bắt dễ bị xem nhẹ hơn và có cơ hội thoát thân.', flavor: '「Cười đi, cười một hồi sẽ quên mất phải giết ta.」' },
-                    { name: 'Phụ ma sư', cost: 10, category: 'life_skill', type: 'craft', icon: 'ri-magic-line', desc: 'Bạn tinh thông kỹ nghệ rót ma lực vào vật phẩm, là chuyên gia trong lĩnh vực phụ ma.', effect: 'Kiểm định phụ ma +4. Cung cấp kết tinh ma lực cấp Hiếm trở lên có thể thêm hiệu quả ma pháp cùng phẩm chất cho trang bị; kết tinh thường tối đa thêm hiệu quả Tinh xảo. Phụ ma thất bại không làm hỏng trang bị gốc.', flavor: '「Ma lực như nước, khí vật như chén; then chốt nằm ở cách rót vào.」' },
+                    { name: 'Phụ ma sư', cost: 10, category: 'life_skill', type: 'craft', icon: 'ri-magic-line', desc: 'Bạn tinh thông kỹ nghệ rót ma lực vào vật phẩm, là chuyên gia trong lĩnh vực phụ ma.', effect: 'Kiểm định phụ ma +4. Cung cấp kết tinh ma lực cấp Hiếm trở lên có thể thêm hiệu quả ma pháp cùng phẩm chất cho trang bị; kết tinh thường tối đa thêm hiệu quả Tinh lương. Phụ ma thất bại không làm hỏng trang bị gốc.', flavor: '「Ma lực như nước, khí vật như chén; then chốt nằm ở cách rót vào.」' },
                     // ===== Đặc chất trứng màu/thú vị =====
                     { name: 'Khách đến từ dị giới', cost: 10, category: 'easter_egg', type: 'origin', icon: 'ri-global-line', desc: 'Bạn đến từ một thế giới khác.', effect: 'Kiểm định thường thức của thế giới này bất lợi, nhưng có [tri thức dị giới]: có thể thử dùng kiểm định trí lực để giải quyết vấn đề vô giải trong thế giới này. Mở đầu tặng thêm một di vật dị giới (xem khởi tạo mở đầu).', flavor: '「Quy tắc của thế giới này... không giống những gì ta biết lắm.」' },
                     { name: 'Bộ người tuyết', cost: -5, category: 'easter_egg', type: 'skin', icon: 'ri-user-smile-line', desc: 'Bạn có chấp niệm thẩm mỹ bí ẩn với đầu pixel và bộ đồ người tuyết tròn vo.', effect: 'Ngoại hình của bạn bị cưỡng chế cố định thành [bộ đồ người tuyết + mũ trùm đầu pixel]. Kiểm định sức hấp dẫn xã giao -3, nhưng có kháng tính cực cao với [uy hiếp] và [chấn nhiếp tinh thần].', flavor: '「Cái này gọi là thời thượng! Vẫn là trang phục hợp mốt nhất trên thế giới bàn cờ này!」' },
@@ -12600,7 +12600,7 @@ if (typeof window !== 'undefined') {
 
                 function getIdentityResourceTierLabel(items) {
                     const equipText = getIdentityEquipment(items);
-                    const match = String(equipText || '').match(/(Thường|Tinh xảo|Hiếm|Thần khí|Truyền thuyết|Sử thi|Thần thoại|Thần_thoại)/);
+                    const match = String(equipText || '').match(/(Thường|Tinh lương|Hiếm|Thần khí|Truyền thuyết|Sử thi|Thần thoại|Thần_thoại)/);
                     return match ? `${match[1].replace(/_/g, ' ')} hạng` : 'Không có trang bị';
                 }
 
@@ -12617,7 +12617,7 @@ if (typeof window !== 'undefined') {
                     'Truyền thuyết': 'quality-legend',
                     'Thần khí': 'quality-artifact',
                     'Hiếm': 'quality-rare',
-                    'Tinh xảo': 'quality-fine',
+                    'Tinh lương': 'quality-fine',
                     'Thường': 'quality-common'
                 };
 
@@ -12806,7 +12806,7 @@ if (typeof window !== 'undefined') {
                             name: 'Xuất thân đặc biệt',
                             cost: 0,
                             desc: 'Cùng Ung bước lên con đường tìm cách hồi sinh người chết - từng là kỵ sĩ quý tộc có lãnh địa và thành bảo, vị hôn thê là công chúa Ung qua đời trong quan tài pha lê một tuần trước hôn lễ. Từ đó anh kéo quan tài của người yêu đi khắp thế giới, truy tìm truyền thuyết hồi sinh người chết.',
-                            items: 'Ban đầu nhận 1 bộ giáp kỵ sĩ bạc đen bị hư hại, phẩm chất Tinh xảo. tiền ban đầu 0G'
+                            items: 'Ban đầu nhận 1 bộ giáp kỵ sĩ bạc đen bị hư hại, phẩm chất Tinh lương. tiền ban đầu 0G'
                         };
                     }
                     if (presetMode.value === 'yato') {
@@ -12908,8 +12908,8 @@ if (typeof window !== 'undefined') {
                 const STARTER_SHOP_QUALITY_ALIAS = Object.freeze({
                     Thường: 'Thường',
                     Tinh_lương: 'Tinh_lương',
-                    Tinh_xảo: 'Tinh_lương',
-                    'Tinh xảo': 'Tinh_lương',
+                    Tinh_lương: 'Tinh_lương',
+                    'Tinh lương': 'Tinh_lương',
                     'Tinh lương': 'Tinh_lương',
                     Hiếm: 'Hiếm',
                     Thần_khí: 'Thần_khí',
@@ -14410,7 +14410,7 @@ Vì nhịp kể chuyện, lượt này tạm thời chưa đưa cuộc xâm nh�
                             Loại: item.Loại || 'vũ khí',
                             Vị_trí_trang_bị: item.Vị_trí_trang_bị || 'tay chính',
                             Tên: item.Tên || equipKey,
-                            Phẩm_chất: item.Phẩm_chất || 'Tinh xảo',
+                            Phẩm_chất: item.Phẩm_chất || 'Tinh lương',
                             Nhãn: Array.from(new Set([...(item.Nhãn || []), STARTER_SHOP_MVU_TAG])),
                             Cấp_độ: safeLevel,
                             Hạng_phẩm: 0,
@@ -14736,7 +14736,7 @@ Vì nhịp kể chuyện, lượt này tạm thời chưa đưa cuộc xâm nh�
                         // Vũ khí chuyên dụng của Yato: Hiiro (Thần khí trưởng thành).
                         if (presetMode.value === 'yato') {
                             const lv = characterLevel.value;
-                            const qualityTiers = ['Thường', 'Tinh xảo', 'Hiếm', 'Thần khí', 'Truyền thuyết', 'Sử thi', 'Thần thoại'];
+                            const qualityTiers = ['Thường', 'Tinh lương', 'Hiếm', 'Thần khí', 'Truyền thuyết', 'Sử thi', 'Thần thoại'];
                             const qualityIndex = Math.min(Math.floor(lv / 15), 6);
                             const hiEffects = [
                                 '[Cộng hưởng Thần khí] Hiiro có ý thức tự thân, không thể bị người khác nhặt, đánh cắp hoặc cưỡng ép tháo trang bị. Khi Hiiro bị đánh rơi, nàng tự động quay về tay Yato (hành động phụ).',
@@ -14824,7 +14824,7 @@ Vì nhịp kể chuyện, lượt này tạm thời chưa đưa cuộc xâm nh�
                                         Hòm_trang_bị: false
                                     },
                                     'Chiến y gió đỏ trắng': {
-                                        Loại: 'phòng cụ', Vị_trí_trang_bị: 'áo', Tên: 'Chiến y gió đỏ trắng', Phẩm_chất: 'Tinh xảo', Cấp_độ: 1, Cấp_cường_hóa: 0,
+                                        Loại: 'phòng cụ', Vị_trí_trang_bị: 'áo', Tên: 'Chiến y gió đỏ trắng', Phẩm_chất: 'Tinh lương', Cấp_độ: 1, Cấp_cường_hóa: 0,
                                         Cộng_thêm_thuộc_tính: { Nhanh_nhẹn: 2 },
                                         Hiệu_quả: 'Nhẹ và linh động, tăng nhẹ tỷ lệ né tránh.',
                                         Mô_tả: 'Chiến y tay rộng phong cách Nhật lấy màu trắng làm chủ, cổ áo và cổ tay áo viền đỏ, thuận tiện khi vung đao.',
@@ -14897,7 +14897,7 @@ Vì nhịp kể chuyện, lượt này tạm thời chưa đưa cuộc xâm nh�
                                 },
                                 Kỹ_năng: {
                                     'Búa lớn mãnh kích': { Phẩm_chất: 'Hiếm', Loại: 'sát thương', Hiệu_quả: 'Vung búa lớn xương rồng đánh hết sức một đòn, gây [300% + 12% x (Cấp_độ - 1)] sát thương vật lý; kẻ địch trúng đòn cần thực hiện một lần miễn trừ Sức_mạnh, thất bại thì bị [đánh bay] và [ngã xuống].', Mô_tả: 'Một búa thế lớn lực trầm, mặt đất cũng sẽ bị đập nứt. Tuy hoàn toàn không có chương pháp, thứ bạo lực thẳng tới thẳng lui ấy lại khiến người ta yên tâm.' },
-                                    'Sức ăn của thánh nữ': { Phẩm_chất: 'Tinh xảo', Loại: 'đặc biệt', Hiệu_quả: 'Sau khi ăn, nhanh chóng hồi phục thể lực và thương thế, lập tức hồi phục 20% sinh mệnh tối đa, đồng thời xóa 1 tầng [mệt mỏi] hoặc một trạng thái tiêu cực nhẹ.', Mô_tả: 'Thể chất thần kỳ chỉ cần ăn no là có thể hồi sinh đầy máu.' }
+                                    'Sức ăn của thánh nữ': { Phẩm_chất: 'Tinh lương', Loại: 'đặc biệt', Hiệu_quả: 'Sau khi ăn, nhanh chóng hồi phục thể lực và thương thế, lập tức hồi phục 20% sinh mệnh tối đa, đồng thời xóa 1 tầng [mệt mỏi] hoặc một trạng thái tiêu cực nhẹ.', Mô_tả: 'Thể chất thần kỳ chỉ cần ăn no là có thể hồi sinh đầy máu.' }
                                 },
                                 Ngoại_hình: 'Thiếu nữ tràn đầy sức sống, tóc dài xoăn màu bạch kim buộc đuôi ngựa đơn, trên đỉnh đầu có sợi tóc ngố vểnh lên, đôi mắt trắng bạc. Trước trán cài trang sức tóc hình thoi màu tím, luôn mang nụ cười rạng rỡ.',
                                 Trang_phục: 'Áo ba lỗ trắng khoác áo choàng ngắn xanh lục sẫm bên ngoài, quần ngắn đen thắt dây da nâu, găng tay nửa ngón màu nâu, đeo túi đồ ăn vặt chéo vai và vác cây búa lớn xương rồng còn to hơn bản thân.',
@@ -15022,7 +15022,7 @@ Vì nhịp kể chuyện, lượt này tạm thời chưa đưa cuộc xâm nh�
                                         Hòm_trang_bị: false
                                     },
                                     'Đồng phục tân thủ': {
-                                        Loại: 'phòng cụ', Vị_trí_trang_bị: 'áo', Tên: 'Đồng phục tân thủ', Phẩm_chất: 'Tinh xảo', Cấp_độ: 1, Cấp_cường_hóa: 0,
+                                        Loại: 'phòng cụ', Vị_trí_trang_bị: 'áo', Tên: 'Đồng phục tân thủ', Phẩm_chất: 'Tinh lương', Cấp_độ: 1, Cấp_cường_hóa: 0,
                                         Cộng_thêm_thuộc_tính: { Nhanh_nhẹn: 1 },
                                         Hiệu_quả: 'Tăng mạnh độ linh hoạt khi hành động, đồng thời kèm một chút kháng tính tinh thần.',
                                         Mô_tả: 'Trang bị sơ cấp dùng chung cho tân thủ.',
@@ -15031,7 +15031,7 @@ Vì nhịp kể chuyện, lượt này tạm thời chưa đưa cuộc xâm nh�
                                 },
                                 Kỹ_năng: {
                                     'Mưa sao vụn': { Phẩm_chất: 'Hiếm', Loại: 'sát thương', Hiệu_quả: 'Vung tế kiếm tốc độ cao để thực hiện năm nhát đâm liên tiếp, đòn tấn công gây [300% + 12% × (Cấp_độ - 1)] sát thương vật lý; nếu đòn tấn công này trúng, kiểm định tấn công lần kế tiếp của bản thân +2.', Mô_tả: 'Chuỗi năm đòn liên kích như sao băng, là tuyệt kỹ nhanh nhẹn được phát động bằng tốc độ phản xạ thần kinh vượt xa người thường.' },
-                                    'Tinh thể chữa lành': { Phẩm_chất: 'Tinh xảo', Loại: 'hỗ trợ', Hiệu_quả: 'Tiêu hao vật phẩm để nhanh chóng hồi phục cho bản thân hoặc 1 đồng đội 30% giới hạn sinh mệnh; nếu sinh mệnh của mục tiêu thấp hơn 50%, xóa thêm 1 trạng thái tiêu cực nhẹ.', Mô_tả: 'Tinh thể hồi phục chuẩn bị để ứng phó tình huống bất ngờ, thể hiện sự cẩn trọng và chu đáo trong cả thân phận tiểu thư nhà giàu lẫn người dẫn dắt của cô ấy.' }
+                                    'Tinh thể chữa lành': { Phẩm_chất: 'Tinh lương', Loại: 'hỗ trợ', Hiệu_quả: 'Tiêu hao vật phẩm để nhanh chóng hồi phục cho bản thân hoặc 1 đồng đội 30% giới hạn sinh mệnh; nếu sinh mệnh của mục tiêu thấp hơn 50%, xóa thêm 1 trạng thái tiêu cực nhẹ.', Mô_tả: 'Tinh thể hồi phục chuẩn bị để ứng phó tình huống bất ngờ, thể hiện sự cẩn trọng và chu đáo trong cả thân phận tiểu thư nhà giàu lẫn người dẫn dắt của cô ấy.' }
                                 },
                                 Ngoại_hình: 'Tóc dài màu hạt dẻ xõa qua vai như thác nước, gương mặt tinh xảo kiều mỹ toát lên giáo dưỡng và sự dè dặt đặc trưng của đại tiểu thư nhà Yuuki; đôi mắt màu hổ phách sẽ lóe ánh sắc bén khi chiến đấu.',
                                 Trang_phục: 'Mặc áo thắt eo đỏ sẫm và váy ngắn xếp ly, bên ngoài khoác giáp ngực da nhẹ và áo choàng vải thô có mũ lớn. Đây chỉ là phòng cụ giản dị ở giai đoạn tân thủ.',
@@ -15054,7 +15054,7 @@ Vì nhịp kể chuyện, lượt này tạm thời chưa đưa cuộc xâm nh�
                                         Hòm_trang_bị: false
                                     },
                                     'Đồng phục thủy thủ': {
-                                        Loại: 'phòng cụ', Vị_trí_trang_bị: 'áo', Tên: 'Đồng phục thủy thủ', Phẩm_chất: 'Tinh xảo', Cấp_độ: 1, Cấp_cường_hóa: 0,
+                                        Loại: 'phòng cụ', Vị_trí_trang_bị: 'áo', Tên: 'Đồng phục thủy thủ', Phẩm_chất: 'Tinh lương', Cấp_độ: 1, Cấp_cường_hóa: 0,
                                         Cộng_thêm_thuộc_tính: { Nhanh_nhẹn: 1 },
                                         Hiệu_quả: '[Bước tĩnh] Khi Shiro ở trong nhà, trong thành trấn hoặc trong môi trường chưa bị bao vây, kiểm định liên quan đến ẩn nấp và né tránh +1.',
                                         Mô_tả: 'Đồng phục thủy thủ có phom dáng rộng và hơi ngắn, cổ áo cùng cổ tay áo được viền bằng đường chỉ sáng màu. Khi phối với tất quá gối và giày da nhỏ, nó vừa giữ vẻ non nớt của trang phục học sinh, vừa có khí chất tinh xảo quý phái không thể xem nhẹ.',

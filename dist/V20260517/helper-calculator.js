@@ -73,7 +73,7 @@
     };
     const QUALITY_CORE_ATTR_RULES = {
         'Thường': { total: 0, single: 0 },
-        'Tinh_xảo': { total: 1, single: 1 },
+        'Tinh_lương': { total: 1, single: 1 },
         'Hiếm': { total: 1, single: 1 },
         'Thần_khí': { total: 2, single: 1 },
         'Truyền_thuyết': { total: 2, single: 2 },
@@ -82,7 +82,7 @@
     };
     const QUALITY_CRIT_DAMAGE_LIMITS = {
         'Thường': 0.10,
-        'Tinh_xảo': 0.15,
+        'Tinh_lương': 0.15,
         'Hiếm': 0.30,
         'Thần_khí': 0.50,
         'Truyền_thuyết': 0.80,
@@ -93,8 +93,8 @@
         'Hiếm': { pick: ['Cơ_bản', 'Nâng_cao', 'Tất_sát'], count: 1, value: 1 },
         'Thần_khí': { pick: ['Cơ_bản', 'Chuyển_nghề', 'Nâng_cao', 'Tất_sát', 'Áo_nghĩa'], count: 1, value: 1 },
         'Truyền_thuyết': { pick: ['Cơ_bản', 'Chuyển_nghề', 'Nâng_cao', 'Tất_sát', 'Áo_nghĩa'], count: 2, value: 1 },
-        'Sử_thi': { fixed: { 'Toàn_bộ_kỹ_năng': 2 } },
-        'Thần_thoại': { fixed: { 'Toàn_bộ_kỹ_năng': 2, 'Thức_tỉnh_ba': 1 } }
+        'Sử_thi': { fixed: { 'Toàn_kỹ_năng': 2 } },
+        'Thần_thoại': { fixed: { 'Toàn_kỹ_năng': 2, 'Thức_tỉnh_ba': 1 } }
     };
     const CRIT_TO_SKILL_FALLBACK_TIERS = ['Cơ_bản', 'Chuyển_nghề', 'Nâng_cao', 'Tất_sát', 'Áo_nghĩa'];
     const SPECIAL_EQUIP_SLOT = 'Trang_bị_đặc_biệt';
@@ -326,7 +326,7 @@
             const existing = entries.find(entry => entry[0] === key);
             return existing ? safeParseFloat(existing[1], 0) : 0;
         };
-        const isNonStackingSkillKey = (skillKey) => skillKey === 'Toàn_bộ_kỹ_năng' || String(skillKey || '').startsWith('Thức_tỉnh');
+        const isNonStackingSkillKey = (skillKey) => skillKey === 'Toàn_kỹ_năng' || String(skillKey || '').startsWith('Thức_tỉnh');
         const addConvertedSkillEntry = (entries, skillKey, value, seedText) => {
             const addValue = safeParseFloat(value, 0);
             if (addValue <= 0) return false;
@@ -428,12 +428,12 @@
     // ==========================================
 
     const qualityToAC = {
-        'Thường': 1, 'Tinh_xảo': 2, 'Hiếm': 3, 'Thần_khí': 4,
+        'Thường': 1, 'Tinh_lương': 2, 'Hiếm': 3, 'Thần_khí': 4,
         'Truyền_thuyết': 5, 'Sử_thi': 6, 'Thần_thoại': 7
     };
 
     const qualityToDamageDice = {
-        'Thường': '1d6', 'Tinh_xảo': '1d8', 'Hiếm': '2d8', 'Thần_khí': '3d10',
+        'Thường': '1d6', 'Tinh_lương': '1d8', 'Hiếm': '2d8', 'Thần_khí': '3d10',
         'Truyền_thuyết': '3d12', 'Sử_thi': '4d10', 'Thần_thoại': '4d12'
     };
 
@@ -501,7 +501,7 @@
     }
 
     const qualityMultiplier = {
-        'Thường': 1.0, 'Tinh_xảo': 1.5, 'Hiếm': 2.0, 'Thần_khí': 2.5,
+        'Thường': 1.0, 'Tinh_lương': 1.5, 'Hiếm': 2.0, 'Thần_khí': 2.5,
         'Truyền_thuyết': 3.5, 'Sử_thi': 4.0, 'Thần_thoại': 5.0
     };
 
@@ -972,7 +972,7 @@
             Object.entries(bonus).forEach(([key, val]) => {
                 const parsed = safeParseFloat(val, 0);
                 if (parsed === 0) return;
-                if (key === 'Toàn_bộ_kỹ_năng') {
+                if (key === 'Toàn_kỹ_năng') {
                     ALL_SKILL_TIERS.forEach(tier => {
                         totals[tier] = safeParseFloat(totals[tier], 0) + parsed;
                     });
@@ -1706,13 +1706,13 @@
             Danh_sách_trang_bị: {
                 'Hoa Vô Thập Nhật Hồng': {
                     Loại: 'Vũ_khí', Vị_trí_trang_bị: 'Tay_chính', Tên: 'Hoa Vô Thập Nhật Hồng', Phẩm_chất: 'Sử_thi', Cấp_độ: 1, Cấp_cường_hóa: 0,
-                    Cộng_thêm_thuộc_tính: { Nhanh_nhẹn: 2, Cảm_nhận: 1, Toàn_bộ_kỹ_năng: 2 },
+                    Cộng_thêm_thuộc_tính: { Nhanh_nhẹn: 2, Cảm_nhận: 1, Toàn_kỹ_năng: 2 },
                     Hiệu_quả: '[Tàng Hoa] Kích hoạt khi bạn phát động tấn công cận chiến bằng tư thế cư hợp, rút đao hoặc truy kích; kiểm định tấn công lần này +4, và ngưỡng bạo kích được xem như giảm 2;[Chấn Huyết] Kích hoạt khi tấn công cận chiến của bạn trúng đích, nhận 1 tầng [Chấn Huyết] kéo dài tới hết chiến đấu, tối đa 5 tầng; mỗi tầng khiến sát thương cuối của tấn công cận chiến +6%, mỗi lần nhận [Chấn Huyết] mất 1% sinh mệnh hiện tại;[Hồng Hoa Tận] Khi bạn dùng hành động độc lập thứ 2 hoặc thứ 3 trong lượt này để phát động tấn công cận chiến, có thể tiêu hao 1 tầng [Chấn Huyết] để triệt tiêu 3 điểm giảm trúng do liên kích; nếu hệ số trúng của đòn đánh lớn hơn 0, mục tiêu nhận [Chảy máu] 2 lượt;[Thập Nhật Hồng] Mỗi trận 1 lần, có thể phát động khi HP không cao hơn 25% hoặc [Chấn Huyết] đạt 5 tầng. Thực hiện một nhát chém đường thẳng 15 yard, gây [1000% + 25% × (Cấp_độ - 1)] sát thương vật lý, chắc chắn trúng; sau kết toán xóa sạch [Chấn Huyết], mất 25% sinh mệnh hiện tại, tối thiểu giữ lại 1 điểm.',
                     Mô_tả: 'Thanh thái đao vỏ đen kế thừa từ người chị Tường Hoa, lưỡi đao cực mảnh. Thanh đao này tuy không có ý thức tự thân, nhưng luôn khát máu của người cầm. Khi hoa nở tới độ rực rỡ nhất, cũng là khởi đầu của tàn phai.',
                     Hòm_trang_bị: false
                 },
                 'Chiến Y Nhật Phong Đỏ Trắng': {
-                    Loại: 'Phòng_cụ', Vị_trí_trang_bị: 'Áo', Tên: 'Chiến Y Nhật Phong Đỏ Trắng', Phẩm_chất: 'Tinh_xảo', Cấp_độ: 1, Cấp_cường_hóa: 0,
+                    Loại: 'Phòng_cụ', Vị_trí_trang_bị: 'Áo', Tên: 'Chiến Y Nhật Phong Đỏ Trắng', Phẩm_chất: 'Tinh_lương', Cấp_độ: 1, Cấp_cường_hóa: 0,
                     Cộng_thêm_thuộc_tính: { Nhanh_nhẹn: 2 },
                     Hiệu_quả: 'Nhẹ nhàng linh hoạt, tăng nhẹ tỷ lệ né tránh.',
                     Mô_tả: 'Chiến y phong cách Nhật với tay áo rộng, chủ đạo màu trắng, cổ áo và tay áo viền đỏ, thuận tiện vung đao.',
@@ -1785,7 +1785,7 @@
             },
             Kỹ_năng: {
                 'Cự Chùy Mãnh Kích': { Phẩm_chất: 'Hiếm', Loại: 'Sát_thương', Hiệu_quả: 'Vung búa lớn xương rồng tung một đòn toàn lực, gây [300% + 12% × (Cấp_độ - 1)] sát thương vật lý; kẻ địch trúng đòn phải miễn trừ sức mạnh một lần, thất bại thì bị [Đánh bay] và [Ngã xuống].', Mô_tả: 'Một búa thế mạnh lực nặng, mặt đất cũng bị đập nứt. Tuy không có chương pháp, thứ bạo lực thẳng thắn ấy lại khiến người ta yên tâm.' },
-                'Sức Ăn Của Thánh Nữ': { Phẩm_chất: 'Tinh_xảo', Loại: 'Đặc_biệt', Hiệu_quả: 'Sau khi ăn sẽ nhanh chóng hồi phục thể lực và thương thế, lập tức hồi 20% sinh mệnh tối đa và xóa 1 tầng [Mệt mỏi] hoặc trạng thái bất lợi nhẹ.', Mô_tả: 'Thể chất thần kỳ chỉ cần ăn no là có thể hồi đầy máu.' }
+                'Sức Ăn Của Thánh Nữ': { Phẩm_chất: 'Tinh_lương', Loại: 'Đặc_biệt', Hiệu_quả: 'Sau khi ăn sẽ nhanh chóng hồi phục thể lực và thương thế, lập tức hồi 20% sinh mệnh tối đa và xóa 1 tầng [Mệt mỏi] hoặc trạng thái bất lợi nhẹ.', Mô_tả: 'Thể chất thần kỳ chỉ cần ăn no là có thể hồi đầy máu.' }
             },
             Ngoại_hình: 'Thiếu nữ đầy sức sống với tóc xoăn dài màu bạch kim buộc đuôi ngựa đơn, tóc ngố dựng trên đầu và đôi mắt bạc trắng; trước trán cài trang sức hình thoi màu tím, luôn mang nụ cười rạng rỡ.',
             Trang_phục: 'Áo ba lỗ trắng khoác ngoài áo choàng ngắn xanh mực, quần short đen thắt đai da nâu, găng tay nâu hở ngón, đeo túi đồ ăn vặt chéo vai, vác cây búa xương rồng còn lớn hơn cả bản thân',
@@ -1910,7 +1910,7 @@
                     Hòm_trang_bị: false
                 },
                 'Đồng Phục Tân Thủ': {
-                    Loại: 'Phòng_cụ', Vị_trí_trang_bị: 'Áo', Tên: 'Đồng Phục Tân Thủ', Phẩm_chất: 'Tinh_xảo', Cấp_độ: 1, Cấp_cường_hóa: 0,
+                    Loại: 'Phòng_cụ', Vị_trí_trang_bị: 'Áo', Tên: 'Đồng Phục Tân Thủ', Phẩm_chất: 'Tinh_lương', Cấp_độ: 1, Cấp_cường_hóa: 0,
                     Cộng_thêm_thuộc_tính: { Nhanh_nhẹn: 1 },
                     Hiệu_quả: 'Tăng mạnh độ linh hoạt khi hành động, đồng thời kèm kháng tinh thần yếu.',
                     Mô_tả: 'Trang bị sơ cấp dùng chung cho người mới.',
@@ -1919,7 +1919,7 @@
             },
             Kỹ_năng: {
                 'Tinh Tiết Phi Tán': { Phẩm_chất: 'Hiếm', Loại: 'Sát_thương', Hiệu_quả: 'Vung tế kiếm tốc độ cao thực hiện năm nhát đâm liên tiếp, gây [300% + 12% × (Cấp_độ - 1)] sát thương vật lý; nếu đòn này trúng, kiểm định tấn công tiếp theo của bản thân +2.', Mô_tả: 'Ngũ liên kích như sao băng, là tuyệt kỹ nhanh nhẹn phát động bằng tốc độ phản xạ thần kinh vượt người thường.' },
-                'Pha Lê Chữa Lành': { Phẩm_chất: 'Tinh_xảo', Loại: 'Hỗ_trợ', Hiệu_quả: 'Tiêu hao đạo cụ, nhanh chóng hồi 30% sinh mệnh tối đa cho bản thân hoặc 1 đồng đội; nếu sinh mệnh mục tiêu dưới 50%, xóa thêm 1 trạng thái bất lợi nhẹ.', Mô_tả: 'Pha lê hồi phục chuẩn bị để ứng phó tình huống bất ngờ, thể hiện sự cẩn trọng và chu đáo của cô dưới hai thân phận tiểu thư nhà giàu và lãnh tụ.' }
+                'Pha Lê Chữa Lành': { Phẩm_chất: 'Tinh_lương', Loại: 'Hỗ_trợ', Hiệu_quả: 'Tiêu hao đạo cụ, nhanh chóng hồi 30% sinh mệnh tối đa cho bản thân hoặc 1 đồng đội; nếu sinh mệnh mục tiêu dưới 50%, xóa thêm 1 trạng thái bất lợi nhẹ.', Mô_tả: 'Pha lê hồi phục chuẩn bị để ứng phó tình huống bất ngờ, thể hiện sự cẩn trọng và chu đáo của cô dưới hai thân phận tiểu thư nhà giàu và lãnh tụ.' }
             },
             Ngoại_hình: 'Mái tóc dài màu hạt dẻ xõa như thác trên vai, gương mặt tinh xảo xinh đẹp lộ sự giáo dưỡng và dè dặt đặc trưng của đại tiểu thư nhà Yuuki; đôi mắt hổ phách lóe ánh nghiêm nghị khi chiến đấu.',
             Trang_phục: 'Mặc áo bó eo đỏ sẫm và váy ngắn xếp ly, khoác giáp ngực da nhẹ và áo choàng vải thô có mũ trùm lớn. Chỉ là phòng cụ giản dị ở giai đoạn tân thủ.',
@@ -1942,7 +1942,7 @@
                     Hòm_trang_bị: false
                 },
                 'Đồng Phục Thủy Thủ': {
-                    Loại: 'Phòng_cụ', Vị_trí_trang_bị: 'Áo', Tên: 'Đồng Phục Thủy Thủ', Phẩm_chất: 'Tinh_xảo', Cấp_độ: 1, Cấp_cường_hóa: 0,
+                    Loại: 'Phòng_cụ', Vị_trí_trang_bị: 'Áo', Tên: 'Đồng Phục Thủy Thủ', Phẩm_chất: 'Tinh_lương', Cấp_độ: 1, Cấp_cường_hóa: 0,
                     Cộng_thêm_thuộc_tính: { Nhanh_nhẹn: 1 },
                     Hiệu_quả: '[Bước tĩnh] Khi Shiro ở trong nhà, thành trấn hoặc môi trường chưa bị bao vây, kiểm định liên quan tới ẩn nấp và né tránh +1',
                     Mô_tả: 'Đồng phục thủy thủ, dáng rộng hơi ngắn, cổ áo và tay áo viền đường sáng màu. Khi phối với tất quá gối và giày da nhỏ, vừa giữ nét non nớt của đồng phục học sinh, vừa mang vẻ quý khí tinh tế khó xem nhẹ.',
@@ -2043,7 +2043,7 @@
             Danh_sách_trang_bị: {
                 'Sao Mai Vĩnh Viễn': {
                     Loại: 'Vũ_khí', Vị_trí_trang_bị: 'Tay_chính', Tên: 'Sao Mai Vĩnh Viễn', Phẩm_chất: 'Sử_thi', Cấp_độ: 1, Cấp_cường_hóa: 0,
-                    Cộng_thêm_thuộc_tính: { Nhanh_nhẹn: 2, Trí_lực: 1, Toàn_bộ_kỹ_năng: 2, Sát_thương_bạo_kích: 30 },
+                    Cộng_thêm_thuộc_tính: { Nhanh_nhẹn: 2, Trí_lực: 1, Toàn_kỹ_năng: 2, Sát_thương_bạo_kích: 30 },
                     Hiệu_quả: 'Kiểm định tấn công +2;[Dấu ấn tinh huy] Khi kiếm này đánh trúng mục tiêu, khắc [Tầng lưu quang] lên người mục tiêu: mỗi tầng khiến mục tiêu không thể ẩn nấp trước Amis, đồng thời ngưỡng bạo kích của Amis khi tấn công mục tiêu -1, tối đa cộng dồn 3 tầng (ngưỡng bạo kích tối đa -3), kéo dài tới hết chiến đấu;[Lưu quang thừa khải] Kích hoạt khi người cầm chuyển hình thái chiến đấu, thân kiếm tái tạo theo đó: hình thái người hóa thành trọng thứ kiếm lưu quang, hình thái cơ binh hóa thành trọng trường mâu xuyên trời, đồng thời lập tức thanh toán [Tầng lưu quang] tích lũy trên mục tiêu chính: tiêu hao N tầng gây [1000% + 25% × (Cấp_độ-1)] × N÷3 sát thương thuộc tính ánh sáng (làm tròn tới 10 gần nhất, đủ 3 tầng là đủ mức), sau khi kích hoạt xóa sạch số tầng lưu quang của mục tiêu;[Tinh hải quy hàng] Hành động phụ, phát ra một luồng lưu quang khóa một đồng minh trong tầm nhìn, lập tức dịch chuyển người đó tới vị trí liền kề bên Amis, quá trình dịch chuyển không kích hoạt tấn công cơ hội và bẫy.',
                     Mô_tả: 'Kiếm tên "Khải Minh", là kết tinh Amis dùng chấp niệm tái tạo từ dòng dữ liệu vỡ nát khi một mình trôi dạt mười năm trong sâu thẳm không gian hư chất. Thân kiếm quấn ánh sao vụn không bao giờ tắt, lưu chuyển theo cảm xúc người cầm: bình tĩnh như dòng Ngân Hà chảy chậm, khi kịch chiến như sao băng bắn tóe; tồn tại hiểu "tần số" có thể đọc được chấp niệm sâu nhất trong đó. Nó sẽ tự động biến đổi theo hình thái chiến đấu của người cầm: ở hình thái người là trọng thứ kiếm lưu quang, sau khi khởi động binh trang Ẩn Giả biến thành cơ binh thì hóa thành trọng trường mâu xuyên thủng trời cao. Khi trong lòng nàng hiện lên ý nghĩ "muốn thắp sáng đường về cho một ai đó", ánh kiếm vẫn không tắt trong đêm đen sâu nhất. Đây là lời hứa vô thanh của nàng với Kẻ Lãng Du.',
                     Hòm_trang_bị: false
@@ -2847,7 +2847,7 @@
         }
 
         // gradient tăng trưởng phẩm chất của Hiiro:
-        // Lv1-4 Thường,Lv5+ Tinh_xảo,Lv10+ Hiếm,Lv20+ Thần_khí,Lv30+ Truyền_thuyết,Lv45+ Sử_thi,Lv70+ Thần_thoại
+        // Lv1-4 Thường,Lv5+ Tinh_lương,Lv10+ Hiếm,Lv20+ Thần_khí,Lv30+ Truyền_thuyết,Lv45+ Sử_thi,Lv70+ Thần_thoại
         let qualityIndex = 0;
         if (lv >= 70) qualityIndex = 6;
         else if (lv >= 45) qualityIndex = 5;
@@ -2856,7 +2856,7 @@
         else if (lv >= 10) qualityIndex = 2;
         else if (lv >= 5) qualityIndex = 1;
 
-        const qualityTiers = ['Thường','Tinh_xảo','Hiếm','Thần_khí','Truyền_thuyết','Sử_thi','Thần_thoại'];
+        const qualityTiers = ['Thường','Tinh_lương','Hiếm','Thần_khí','Truyền_thuyết','Sử_thi','Thần_thoại'];
         const newQuality = qualityTiers[qualityIndex];
 
         const hiEffects = [
