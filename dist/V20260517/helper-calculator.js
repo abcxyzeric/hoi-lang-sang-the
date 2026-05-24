@@ -2990,9 +2990,16 @@
     const init = async () => {
         await waitGlobalInitialized('Mvu');
         eventOn(Mvu.events.VARIABLE_UPDATE_ENDED, handleExperienceProcessing);
-        try { (window.parent || window).__helper_calculator_script_loaded__ = true; } catch(e) { window.__helper_calculator_script_loaded__ = true; }
-        console.log('[script tính toán phụ trợ] scriptđã tải ');
-        toastr.success('[script tính toán phụ trợ] scriptđã tải ');
+        try {
+            const flagHost = window.parent || window;
+            flagHost.__helper_calculator_loaded__ = true;
+            flagHost.__helper_calculator_script_loaded__ = true;
+        } catch(e) {
+            window.__helper_calculator_loaded__ = true;
+            window.__helper_calculator_script_loaded__ = true;
+        }
+        console.log('[Script tính toán phụ trợ] Script đã tải.');
+        toastr.success('[Script tính toán phụ trợ] Script đã tải.');
     };
 
     $(init);

@@ -14068,13 +14068,20 @@ Phải sửa Trạng_thái_kỹ_năng_tổ_hợp trong &lt;update&gt;&lt;json_pa
     log.info("Khởi tạo hoàn tất.");
 
     // Đánh dấu biến toàn cục để script phụ thuộc kiểm tra được, gắn lên parent window để thấy qua iframe.
-    try { (window.parent || window).__thanh_trang_thai_loaded__ = true; } catch (e) { window.__thanh_trang_thai_loaded__ = true; }
+    try {
+      const flagHost = window.parent || window;
+      flagHost.__status_bar_loaded__ = true;
+      flagHost.__thanh_trang_thai_loaded__ = true;
+    } catch (e) {
+      window.__status_bar_loaded__ = true;
+      window.__thanh_trang_thai_loaded__ = true;
+    }
 
     // Toast báo tải thành công.
     try {
       const win = getCore().window || window;
       if (win.toastr) {
-        win.toastr.success('[Thanh trạng thái ngoài] Script đã tải.');
+        win.toastr.success('[Thanh trạng thái.js] Script đã tải.');
       }
     } catch (e) { /* ignore */ }
   };

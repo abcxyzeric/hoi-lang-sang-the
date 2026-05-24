@@ -3382,7 +3382,14 @@ Giờ đây, các vị thần tứ phương ấy được Tetto mời đến xem
         }, 200);
 
         // Đánh dấu biến toàn cục để script phụ thuộc kiểm tra, gắn vào parent window để thấy qua iframe.
-        try { (window.parent || window).__dien_thoai_nho_loaded__ = true; } catch(e) { window.__dien_thoai_nho_loaded__ = true; }
+        try {
+            const flagHost = window.parent || window;
+            flagHost.__mobile_phone_loaded__ = true;
+            flagHost.__dien_thoai_nho_loaded__ = true;
+        } catch(e) {
+            window.__mobile_phone_loaded__ = true;
+            window.__dien_thoai_nho_loaded__ = true;
+        }
 
     } catch (error) {
         if (typeof toastr !== 'undefined') {
