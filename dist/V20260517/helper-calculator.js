@@ -2435,20 +2435,33 @@
     // kiểm tra ngày sản lượng kinh doanh và đẩy việc cần làm
     // ==========================================
 
-    const CALENDAR_DATE_REGEX = /^(.*?)(\d+) năm (\d+) tháng (\d+) ngày $/;
+    const CALENDAR_DATE_PATTERNS = [
+        { regex: /^(.*?)ngày\s*(\d+)\s*tháng\s*(\d+)\s*năm\s*(\d+)\s*$/i, order: 'dmy' },
+        { regex: /^(.*?)(\d+)\s*năm\s*(\d+)\s*tháng\s*(\d+)\s*ngày\s*$/i, order: 'ymd' },
+        { regex: /^(.*?)năm\s*(\d+)\s*tháng\s*(\d+)\s*ngày\s*(\d+)\s*$/i, order: 'ymd' }
+    ];
     const DAY_MS = 24 * 60 * 60 * 1000;
 
     function parseCalendarDate(text) {
         if (typeof text !== 'string') return null;
         const raw = text.trim();
         if (!raw) return null;
-        const m = raw.match(CALENDAR_DATE_REGEX);
-        if (!m) return null;
 
+        let matched = null;
+        for (const pattern of CALENDAR_DATE_PATTERNS) {
+            const m = raw.match(pattern.regex);
+            if (m) {
+                matched = { match: m, order: pattern.order };
+                break;
+            }
+        }
+        if (!matched) return null;
+
+        const m = matched.match;
         const prefix = (m[1] || '').trim() || 'Lịch Arad';
-        const year = safeParseInt(m[2], NaN);
+        const day = matched.order === 'dmy' ? safeParseInt(m[2], NaN) : safeParseInt(m[4], NaN);
         const month = safeParseInt(m[3], NaN);
-        const day = safeParseInt(m[4], NaN);
+        const year = matched.order === 'dmy' ? safeParseInt(m[4], NaN) : safeParseInt(m[2], NaN);
         if (!Number.isFinite(year) || !Number.isFinite(month) || !Number.isFinite(day)) return null;
         if (month < 1 || month > 12 || day < 1 || day > 31) return null;
 
@@ -2463,7 +2476,8 @@
         const y = date.getUTCFullYear();
         const m = date.getUTCMonth() + 1;
         const d = date.getUTCDate();
-        return `${prefix || 'Lịch Arad'}${y} năm ${m} tháng ${d} ngày `;
+        const normalizedPrefix = `${prefix || 'Lịch Arad'}`.trim();
+        return `${normalizedPrefix ? `${normalizedPrefix} ` : ''}ngày ${d} tháng ${m} năm ${y}`;
     }
 
     function addDaysToCalendarDate(date, days) {
