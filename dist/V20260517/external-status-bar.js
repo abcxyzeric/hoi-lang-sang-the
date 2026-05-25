@@ -4670,7 +4670,7 @@ ri-sword-line ri-shield-line ri-fire-fill ri-drop-fill ri-skull-line ri-ghost-2-
         </div>
         <div class="ts-custom-form">
           <input type="text" class="ts-custom-name" placeholder="Ví dụ: Người_dệt_số_mệnh, Mắt_hư_không..." maxlength="20" />
-          <textarea class="ts-custom-effect" placeholder="Mô tả năng lực siêu nhiên hoặc cơ chế đặc biệt độc đáo... (trong 120 chữ)" maxlength="120"></textarea>
+          <textarea class="ts-custom-effect" placeholder="Mô tả năng lực siêu nhiên hoặc cơ chế đặc biệt độc đáo... (trong 250 chữ)" maxlength="250"></textarea>
           <div class="ts-custom-charcount"><span class="ts-custom-efflen">0</span>/120</div>
           <button class="ts-custom-add" data-type="positive"><i class="ri-add-line"></i> Tạo đặc chất tùy chỉnh</button>
         </div>
@@ -4683,7 +4683,7 @@ ri-sword-line ri-shield-line ri-fire-fill ri-drop-fill ri-skull-line ri-ghost-2-
         </div>
         <div class="ts-custom-form">
           <input type="text" class="ts-custom-name" placeholder="Ví dụ: Người_vẽ_bản_đồ, Thợ_ủ_rượu, Thợ_kim_hoàn..." maxlength="20" />
-          <textarea class="ts-custom-effect" placeholder="Mô tả hiệu quả kỹ năng sinh hoạt cấp chuyên gia... (trong 120 chữ)" maxlength="120"></textarea>
+          <textarea class="ts-custom-effect" placeholder="Mô tả hiệu quả kỹ năng sinh hoạt cấp chuyên gia... (trong 250 chữ)" maxlength="250"></textarea>
           <div class="ts-custom-charcount"><span class="ts-custom-efflen">0</span>/120</div>
           <button class="ts-custom-add" data-type="life_skill"><i class="ri-add-line"></i> Tạo sở trường tùy chỉnh</button>
         </div>
