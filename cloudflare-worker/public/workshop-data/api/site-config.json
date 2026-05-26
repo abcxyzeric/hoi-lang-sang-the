@@ -1,0 +1,37 @@
+{
+  "ok": true,
+  "featured": [
+    {
+      "id": "featured-build-week-1",
+      "slotKey": "build",
+      "targetType": "preset",
+      "targetId": "d8c11ed9-17a1-4e44-a22e-617299bb6c23",
+      "badgeText": "Đề xuất hằng tuần",
+      "title": "",
+      "summary": "Nghe nói mục này còn có minh họa riêng và thông số GalGame riêng; đúng là mạnh gặp mạnh?!",
+      "status": "active",
+      "startsAt": "2026-04-05 08:24:42",
+      "endsAt": "",
+      "createdAt": "2026-04-05 08:24:42",
+      "updatedAt": "2026-05-20 15:14:39"
+    }
+  ],
+  "announcements": [
+    {
+      "id": "notice-banner-simple-1",
+      "title": "",
+      "message": "Hoan nghênh gửi OC; nội dung sẽ được làm thành tuyến nhiệm vụ mở rộng. Chỉ có thiết lập nhân vật, một đoạn cốt truyện hoặc kịch bản hoàn chỉnh đều được. Cũng nhận bài gửi về đặc chất và trang bị cho cửa hàng RP; nội dung nguyên tác sẽ ghi rõ tên tác giả. Muốn gửi bài thì dán trực tiếp trong nhóm và @ tôi.",
+      "badgeText": "Thông báo",
+      "displayMode": "banner",
+      "linkLabel": "",
+      "linkUrl": "",
+      "dismissKey": "",
+      "sortOrder": 10,
+      "status": "active",
+      "startsAt": "2026-04-05 08:33:01",
+      "endsAt": "",
+      "createdAt": "2026-04-05 08:33:01",
+      "updatedAt": "2026-05-14 11:30:05"
+    }
+  ]
+}

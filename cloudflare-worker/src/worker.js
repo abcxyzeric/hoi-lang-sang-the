@@ -38,6 +38,10 @@ async function proxyToOrigin(request, url) {
 }
 
 function getTranslatedApiAssetPath(url) {
+  if (url.pathname === "/api/site-config") {
+    return `${TRANSLATED_DATA_PREFIX}/site-config.json`;
+  }
+
   if (url.pathname === "/api/presets") {
     return `${TRANSLATED_DATA_PREFIX}/presets.json`;
   }
