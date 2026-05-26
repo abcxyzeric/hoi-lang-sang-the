@@ -6181,18 +6181,104 @@ function processMessageImages(content) {
     const imageRegex = /<pic>(.*?)<\/pic>/gi;
 
     const processedContent = content.replace(imageRegex, (match, imagePath) => {
-        const imageUrl = `https://gitgud.io/Rown/dnf/-/raw/master/${imagePath.trim()}.webp`;
+        const picInfo = normalizeMessagePicPath(imagePath);
+        const imageUrl = `${CG_BASE_URL}${encodeURIComponent(picInfo.remotePath).replace(/%2F/g, '/')}.webp`;
+        const cgAttrs = picInfo.characterName && picInfo.sceneType
+            ? ` data-cg-character="${escapeHtml(picInfo.characterName)}" data-cg-scene="${escapeHtml(picInfo.sceneType)}" data-cg-max="${picInfo.maxCount || 1}" onload="window.recordMessageCGUnlock && window.recordMessageCGUnlock(this.dataset.cgCharacter, this.dataset.cgScene, Number(this.dataset.cgMax || 0))"`
+            : '';
         // Dùng data attribute để lưu URL và xử lý bấm bằng ủy thác sự kiện.
         return `<div class="message-image-container" style="margin: 8px 0;">
             <img src="${imageUrl}" 
-                 class="message-image clickable-image" 
-                 data-image-url="${imageUrl}"
-                 style="max-width: 200px; max-height: 200px; border-radius: 8px; cursor: pointer; display: block;"
-                 onerror="this.style.display='none'; this.insertAdjacentHTML('afterend', '<div class=\'image-error\' style=\'color:#999;font-size:12px;padding:8px;\'>📷 Tải ảnh thất bại</div>');" />
+                  class="message-image clickable-image" 
+                  data-image-url="${imageUrl}"
+                  ${cgAttrs}
+                  style="max-width: 200px; max-height: 200px; border-radius: 8px; cursor: pointer; display: block;"
+                  onerror="this.style.display='none'; this.insertAdjacentHTML('afterend', '<div class=\'image-error\' style=\'color:#999;font-size:12px;padding:8px;\'>📷 Tải ảnh thất bại</div>');" />
         </div>`;
     });
 
     return processedContent;
+}
+
+function resolveMessagePicRolls(text) {
+    return String(text || '').replace(/\{\{\s*roll:\s*d(\d+)\s*\}\}/gi, (match, sidesText) => {
+        const sides = Math.max(1, Number(sidesText) || 1);
+        return String(Math.floor(Math.random() * sides) + 1);
+    });
+}
+
+function resolveMessagePicCharacterName(characterName) {
+    const rawName = String(characterName || '').trim();
+    const characterEntries = Object.entries(typeof CG_CHARACTER_REMOTE_NAME !== 'undefined' ? CG_CHARACTER_REMOTE_NAME : {});
+    for (const [displayName, remoteName] of characterEntries) {
+        if (rawName === displayName || rawName === remoteName) {
+            return { displayName, remoteName };
+        }
+    }
+    return {
+        displayName: rawName,
+        remoteName: (typeof CG_CHARACTER_REMOTE_NAME !== 'undefined' && CG_CHARACTER_REMOTE_NAME[rawName]) || rawName,
+    };
+}
+
+function resolveMessagePicSceneName(sceneName) {
+    const rawScene = resolveMessagePicRolls(String(sceneName || '').trim());
+    const sceneEntries = Object.entries(typeof CG_SCENE_REMOTE_NAME !== 'undefined' ? CG_SCENE_REMOTE_NAME : {})
+        .sort((a, b) => Math.max(b[0].length, b[1].length) - Math.max(a[0].length, a[1].length));
+    for (const [displayScene, remoteScene] of sceneEntries) {
+        if (rawScene.startsWith(displayScene)) {
+            return {
+                displayScene,
+                remoteScene: `${remoteScene}${rawScene.slice(displayScene.length)}`,
+            };
+        }
+        if (rawScene.startsWith(remoteScene)) {
+            return {
+                displayScene,
+                remoteScene: rawScene,
+            };
+        }
+    }
+    return {
+        displayScene: rawScene.replace(/\d+$/, ''),
+        remoteScene: rawScene,
+    };
+}
+
+function normalizeMessagePicPath(imagePath) {
+    const rawPath = String(imagePath || '').trim();
+    const parts = rawPath.split('/').map(part => part.trim()).filter(Boolean);
+    if (parts.length >= 3 && (parts[0] === 'SFW' || parts[0] === 'NSFW')) {
+        const characterInfo = resolveMessagePicCharacterName(parts[1]);
+        const sceneInfo = resolveMessagePicSceneName(parts[2]);
+        const remoteParts = [
+            parts[0],
+            characterInfo.remoteName,
+            sceneInfo.remoteScene,
+            ...parts.slice(3).map(resolveMessagePicRolls),
+        ];
+        return {
+            remotePath: remoteParts.join('/'),
+            characterName: characterInfo.displayName,
+            sceneType: sceneInfo.displayScene,
+            maxCount: CG_LIST[characterInfo.displayName]?.[sceneInfo.displayScene] || 1,
+        };
+    }
+    return {
+        remotePath: resolveMessagePicRolls(rawPath),
+        characterName: '',
+        sceneType: '',
+        maxCount: 0,
+    };
+}
+
+function recordMessageCGUnlock(characterName, sceneType, maxCount) {
+    const normalizedCharacter = String(characterName || '').trim();
+    const normalizedScene = String(sceneType || '').trim();
+    if (!normalizedCharacter || !normalizedScene || !CG_LIST[normalizedCharacter]?.[normalizedScene]) {
+        return;
+    }
+    unlockCG(normalizedCharacter, normalizedScene, maxCount || CG_LIST[normalizedCharacter][normalizedScene]);
 }
 
 /**
@@ -6666,8 +6752,8 @@ const CG_CHARACTER_REMOTE_NAME = {
     "Nại Nhã Lệ": "\u5948\u96c5\u4e3d",
     "Tinh Cực": "\u661f\u6781",
     "Pháp Lộ Đặc": "\u6cd5\u9732\u7279",
-    "Asuna": "Asuna",
-    "Ruruka": "Ruruka",
+    "Asuna": "\u4e9a\u4e1d\u5a1c",
+    "Ruruka": "\u9732\u9732\u5361",
     "Hồng Liên": "\u7ea2\u83b2",
     "Orchis": "\u5965\u5951\u4e1d",
     "Jibril": "\u5409\u666e\u8389\u5c14",
@@ -10191,6 +10277,7 @@ if (typeof window !== 'undefined') {
     // Hàm xử lý ảnh
     window.viewFullImage = viewFullImage;
     window.processMessageImages = processMessageImages;
+    window.recordMessageCGUnlock = recordMessageCGUnlock;
 
     // Hàm liên quan đến diễn đàn
     window.phoneGenerateForum = async function () {

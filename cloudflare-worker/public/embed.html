@@ -7057,12 +7057,61 @@
                 return '#636e72';
             }
 
+            function createPresetDownloadFileName(name) {
+                const cleanedName = String(name || 'preset')
+                    .replace(/[\\/:*?"<>|]+/g, ' ')
+                    .replace(/\s+/g, ' ')
+                    .trim();
+                return `${cleanedName || 'preset'}.json`;
+            }
+
             async function downloadBuild(build) {
                 const downloadUrl = build.downloadUrl || `/api/presets/${encodeURIComponent(build.id)}/file`;
-                const a = document.createElement('a');
-                a.href = downloadUrl;
-                a.download = build.name + '.json';
-                a.click();
+                const absoluteUrl = new URL(downloadUrl, window.location.origin).href;
+                try {
+                    const response = await fetch(absoluteUrl, {
+                        cache: 'no-store',
+                        headers: {
+                            Accept: 'application/json',
+                        },
+                    });
+                    const text = await response.text();
+                    if (!response.ok) {
+                        throw new Error(`Máy chủ trả về mã ${response.status}`);
+                    }
+                    if (/^\s*</.test(text)) {
+                        throw new Error('Máy chủ trả về HTML thay vì JSON preset');
+                    }
+                    const parsed = JSON.parse(text);
+                    const normalized = normalizePresetExport(parsed);
+                    if (!normalized?.preset?.data) {
+                        throw new Error('Nội dung tải về không phải JSON preset hợp lệ');
+                    }
+                    const blob = new Blob([JSON.stringify(normalized, null, 2)], {
+                        type: 'application/json;charset=utf-8',
+                    });
+                    const objectUrl = URL.createObjectURL(blob);
+                    const a = document.createElement('a');
+                    a.href = objectUrl;
+                    a.download = createPresetDownloadFileName(build.name);
+                    document.body.appendChild(a);
+                    a.click();
+                    document.body.removeChild(a);
+                    setTimeout(() => URL.revokeObjectURL(objectUrl), 1000);
+                } catch (error) {
+                    const message = error instanceof Error ? error.message : String(error);
+                    buildDataStatus.value = `Tải JSON thất bại: ${message}`;
+                    openActionDialog({
+                        tone: 'danger',
+                        icon: 'ri-error-warning-line',
+                        title: 'Tải JSON thất bại',
+                        message: `${message}. Vui lòng làm mới workshop rồi tải lại preset này.`,
+                        confirmLabel: 'Đã hiểu',
+                        confirmIcon: 'ri-check-line',
+                        showCancel: false,
+                    });
+                    return;
+                }
                 buildDataStatus.value = 'Sau khi tải xong, hãy quay lại trang mở đầu và nhập file JSON vừa tải trong mục "Quản lý preset".';
                 openActionDialog({
                     tone: 'success',

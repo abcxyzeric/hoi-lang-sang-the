@@ -11,7 +11,7 @@ const NO_STORE_HEADERS = {
   "Expires": "0",
 };
 const TRANSLATED_DATA_PREFIX = "/workshop-data/api";
-const WORKSHOP_SHELL_VERSION = "20260526-11de93cf";
+const WORKSHOP_SHELL_VERSION = "20260527-json-cg-fix";
 
 function withCors(response) {
   const headers = new Headers(response.headers);
