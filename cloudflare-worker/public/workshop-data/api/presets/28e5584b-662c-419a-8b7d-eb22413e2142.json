@@ -1,0 +1,40 @@
+{
+  "ok": true,
+  "preset": {
+    "id": "28e5584b-662c-419a-8b7d-eb22413e2142",
+    "ownerId": "1203731113076596796",
+    "ownerName": "🐱TO🦅",
+    "author": "🐱TO🦅",
+    "authorAvatar": "https://cdn.discordapp.com/avatars/1203731113076596796/b87e966f1e634e97ba2576645d9c9040.png?size=128",
+    "name": "Dũng Giả Đại Chiến Ma Vật Nương - Dũng Giả Tình Dục Ver1.1",
+    "title": "Dũng Giả Đại Chiến Ma Vật Nương - Dũng Giả Tình Dục Ver1.1",
+    "intro": "【ver1.1: điều chỉnh nhẹ một số trị số để cân bằng hơn.】\nMột card nhân vật sex battle đường đường chính chính! Hãy dùng \"Dục Kiếm\" của bạn để dạy dỗ thật mạnh những ma vật nương háo sắc kia!\nLà dũng giả, bạn sở hữu \"đặc quyền\" sex battle với ma vật nương, hoặc mời người khác giới tiến hành sex battle để so tài!\nNhắc thân thiện: để tránh tình huống muốn sex battle nhưng lại vào chiến đấu thường, hãy chủ động nói rõ rằng bạn muốn nhận ủy thác liên quan tới ma vật nương, hoặc trước khi kích hoạt chiến đấu với ma vật nương thì trực tiếp bày tỏ ý muốn sex battle / cướp quyền chủ đạo. Nếu không, khả năng cao sẽ vào chiến đấu thường (dù đánh được nửa chừng mà lộ dương vật ra nói muốn làm, cũng có thể chuyển vào sex battle ngay tại chỗ).\n\nPS: cũng có thể chơi như card bình thường. Card có hai hệ thống chiến đấu: một bộ Thánh Kiếm, một bộ Dục Kiếm; trị số lẽ ra khá cân bằng.\n\nCard nhân vật này cần dùng kèm bản mở rộng Dũng Giả Đại Chiến Ma Vật Nương - sex battle. Nhu cầu cụ thể xem danh sách:\nDũng Giả Đại Chiến Ma Vật Nương - Dũng Giả Tình Dục (preset mở đầu)\nDũng Giả Đại Chiến Ma Vật Nương - quy tắc sex battle thường quy (mở rộng)\nDũng Giả Đại Chiến Ma Vật Nương - hướng dẫn liên kết dữ liệu và kiểm định sex battle (mở rộng)\nDũng Giả Đại Chiến Ma Vật Nương - ma vật nương - thế giới hóa chân thực (mở rộng)\n\nCard nhân vật này cũng khuyến nghị dùng kèm một thiết lập nhân vật cụ thể! Chính là cái này bên dưới:\nDũng Giả Đại Chiến Ma Vật Nương - Tiểu dũng giả nam nữ tính hệ thiếu nữ (nhân vật)\n【Nếu không dùng, đừng quên xóa đặc chất nam nữ tính trong preset để tránh trong game xuất hiện cảnh \"gã đàn ông thô kệch trong trẻo ngọt ngào\".】\n\nNgoài ra, cần tự thêm hai đoạn dưới đây vào worldbook:\n<Tầng cấp trí lực của ma vật nương và ứng dụng kỹ năng sex battle> -- tạo một entry riêng, bật đèn xanh, vị trí chèn là bánh răng hệ thống, độ sâu 5.\n\n<Quy tắc sinh thành á chủng và biến thể> -- thêm trực tiếp vào entry đèn xanh vốn có của Hành Lang Sáng Thế là \"Thiết lập kẻ địch\", đặt phía trên </Quy tắc sinh thành kẻ địch>, xếp ở cuối nội dung vốn có của entry này là được.\n==========================\n<Tầng cấp trí lực của ma vật nương và ứng dụng kỹ năng sex battle>\n   Tầng cấp trí lực:\n      - Cấp lính thường / tinh nhuệ: có thể hiểu và vận dụng sự vật đơn giản, tuyệt đối không biết nói (trọng điểm! bắt buộc tuân thủ!).\n      - Cấp thủ lĩnh / lãnh chúa: có thể thốt ra một hai từ đơn giản, hiểu các khái niệm như trồng trọt, rèn đúc, giao dịch.\n      - Cấp huyền thoại: có thể nói năng tự do, có trí tuệ ngang với mười sáu chủng tộc.\n\n   Ứng dụng kỹ năng sex battle:\n      - Nếu là cảnh sex battle, khi phóng kỹ năng loại [Dục Kiếm] nên mô tả là:\n         - Dùng động tác hành vi và bầu không khí để thể hiện kỹ thuật tình dục được phóng ra, thay vì hô tên kỹ năng trong miệng / trong lòng.\n\n</Tầng cấp trí lực của ma vật nương và ứng dụng kỹ năng sex battle>\n=================================\n# Quy tắc sinh thành á chủng và biến thể\n\nPhán định ma vật nương và chỉnh sửa bảng chỉ số:\n  Tỷ lệ kích hoạt: khi gặp quần thể ma vật không phải nhân loại chủng / không phải mười sáu chủng tộc, mỗi cá thể có khoảng 1/3 xác suất là á chủng ma vật nương; khi cụm ma vật đồng loại đạt hoặc vượt 3 cá thể, cưỡng chế bao gồm ít nhất 1 á chủng ma vật nương.\n  Tinh chỉnh chiến lực (nhỉnh hơn cùng bậc): cá thể được phán định là ma vật nương sẽ có giới hạn HP và sát thương cố định cưỡng chế tăng 10%~15% (lấy số nguyên) trên cơ sở bảng chỉ số tiêu chuẩn đã tính ở Step4. Bậc vốn có của nó (lính thường / tinh nhuệ / thủ lĩnh, v.v.) và số lượng kỹ năng giữ nguyên.\n  Đặc hóa kỹ năng: căn cứ <quy tắc sex battle thường quy của dũng giả>, nếu kích hoạt thành công \"sex battle\", bảng kỹ năng chiến đấu thường quy của nó tự động chuyển hóa thành kỹ thuật giao hợp tương ứng, hệ số sát thương và cơ chế hồi chiêu kế thừa liền mạch.\n  Tùy chỉnh cá nhân hóa: ma vật nương gặp được bị giới hạn là ma vật nương còn trinh (chỉ ảnh hưởng cơ chế sinh thành, không ảnh hưởng thiết lập thế giới quan).\n==============================\nPS2: nếu không để ý việc ma vật nương sinh ra toàn là loại dày dạn kinh nghiệm như xe buýt công cộng, có thể tự xóa phần tùy chỉnh cá nhân hóa. (Nói thật có ai muốn sex battle với kiểu ma vật nương không biết đã vắt bao nhiêu đàn ông, lại còn chẳng mấy chú ý vệ sinh như vậy không?)",
+    "coverUrl": "/api/presets/28e5584b-662c-419a-8b7d-eb22413e2142/cover",
+    "className": "Dũng giả",
+    "race": "Nhân loại chủng",
+    "tags": [
+      "Đấu dục",
+      "Gợi dục",
+      "Đơn mục tiêu",
+      "Tấu hài"
+    ],
+    "likes": 36,
+    "liked": false,
+    "downloads": 735,
+    "status": "published",
+    "createdAt": "2026-03-23 12:53:57",
+    "updatedAt": "2026-05-25 10:57:27",
+    "lastLikedAt": "",
+    "presetData": {
+      "name": "",
+      "class": "Dũng giả",
+      "customClassName": "Dũng giả",
+      "race": "Nhân loại chủng",
+      "customRace": null,
+      "customClassStyle": "",
+      "backstory": "",
+      "selectedCustomLevel": 1
+    },
+    "downloadUrl": "/api/presets/28e5584b-662c-419a-8b7d-eb22413e2142/file"
+  }
+}

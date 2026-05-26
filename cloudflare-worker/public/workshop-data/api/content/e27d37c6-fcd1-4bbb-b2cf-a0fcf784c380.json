@@ -1,0 +1,42 @@
+{
+  "ok": true,
+  "item": {
+    "id": "e27d37c6-fcd1-4bbb-b2cf-a0fcf784c380",
+    "type": "extension",
+    "ownerId": "1203731113076596796",
+    "ownerName": "🐱TO🦅",
+    "author": "🐱TO🦅",
+    "authorAvatar": "https://cdn.discordapp.com/avatars/1203731113076596796/b87e966f1e634e97ba2576645d9c9040.png?size=128",
+    "name": "Ác Ma Song Sinh - Quy tắc chiến đấu",
+    "title": "Ác Ma Song Sinh - Quy tắc chiến đấu",
+    "intro": "Nội dung bắt buộc để trở thành cặp anh em ánh dương của Disboard, dùng kèm thẻ nhân vật \"Ác Ma Song Sinh\".",
+    "overviewText": "<quy_tắc_bổ_sung_chiến_đấu_ác_ma_song_sinh>\n\n1. Nhóm [XX Ma Thuật]:\n   - Hệ số kỹ năng của nhóm này không trực tiếp gây sát thương, mà chuyển hóa thành \"hệ số cộng thêm khi phá ẩn thân\".\n   - Sau khi tiến vào ẩn thân, nếu lần phá ẩn thân kế tiếp do【đòn đánh thường】hoặc【kỹ năng phi nhận】gây ra:\n     * Sát thương lần đó cộng thêm hệ số này.\n   - Mỗi lần ẩn thân chỉ có hiệu lực một lần.\n   - Kỹ năng nhóm [Ối! Hộp!] không kích hoạt và không tiêu hao hiệu quả này.\n\n2. Nhóm [Bỉ Ngạn Cộng Sinh · Muội Tướng X]:\n   - Hệ số kỹ năng của nhóm này chỉ tác dụng lên \"sát thương nổ khi sinh mệnh của Bu Ruo về 0\".\n   - Không cung cấp bất kỳ cộng thêm hệ số nào cho \"hành vi mô phỏng của Bu Ruo\".\n   - Khi Bu Ruo mô phỏng phóng thích kỹ năng:\n     * Sát thương hoàn toàn tính theo hệ số gốc của kỹ năng đó.\n     * Tương đương hiệu quả kỹ năng mà {{user}} hiện đang nắm giữ.\n\n3. Nhóm [Ối! Hộp!] (bao gồm kỹ năng [Hộp Ma Hù Dọa], [Hộp Quà Tinh Xảo của Bu Ruo], [Hộp Nhạc của Bu Ruo], [Hộp Cơm Giao Tận Nơi của Bu Ruo], [Hộp Búp Bê Lồng Nhau của Bu Ruo]):\n   - Toàn bộ vật triệu hồi của các kỹ năng loại này:\n     * Khi triệu hồi, đều bỏ qua bước \"kiểm định thi pháp\" trong <quy_tắc_chiến_đấu>, không cần tiến hành bất kỳ kiểm định nào, trực tiếp thêm vào biến vật triệu hồi.\n     * Mục tiêu tấn công cố định là toàn bộ phe địch.\n     * Loại tấn công cố định là tấn công ma pháp (dạng sóng âm).\n   - Quy tắc hành động:\n     * Sau khi kích hoạt lập tức tấn công một lần, sau đó mỗi lượt tự động tấn công một lần (logic tấn công giống vật triệu hồi thông thường).\n     * Không biến mất vì kết thúc lượt.\n     * Chỉ biến mất khi sinh mệnh về 0.\n     * Trước khi kích hoạt không thể bị tấn công; sau khi kích hoạt có thể bị kẻ địch tấn công.\n   - Giới hạn tồn tại:\n     * Trong cùng một trận chiến, tối đa đồng thời tồn tại 7 hộp.\n     * Sau khi chiến đấu kết thúc lập tức loại bỏ, không kéo dài tới trận chiến kế tiếp.\n\n4. Kiểm tra quy trình kỹ năng\n   - Kiểm tra kỹ năng hiện đang phóng thích có phải chuỗi kỹ năng liên quan [XX Ma Thuật] + [XX Phi Nhận] + nhóm triệu hồi [Ối! Hộp!] hay không.\n   - Nếu đúng, khi không có yêu cầu đặc biệt hoặc thứ tự chỉ định, quy trình phóng thích mặc định là [XX Phi Nhận] -> [XX Ma Thuật] -> kỹ năng triệu hồi liên quan nhóm [Ối! Hộp!].\n   - Ý tưởng cốt lõi là phi nhận gây thương tích -> ẩn thân tránh thương tích -> đặt hộp, rồi ở lượt kế tiếp: hộp bộc phát -> phá ẩn thân + phi nhận gây thương tích -> ẩn thân tránh thương tích -> đặt hộp; lặp vòng liên tục (chú ý: ý tưởng vòng lặp này chỉ cung cấp cho hệ thống tham khảo để hiểu, tuyệt đối không được xuất ra trong chính văn hoặc nhắc tới dù chỉ một chữ!).\n\n5. Cảm giác nhập vai trong chiến đấu\n   - Giữ cảm giác nhập vai của câu chuyện. Tất cả kỹ năng chỉ được thể hiện gián tiếp qua hình thức biểu hiện (động tác, biến hóa, kết quả); nghiêm cấm gọi thẳng tên hoặc phân loại của chúng trong lời kể chuyện hoặc lời thoại nhân vật (bao gồm nhưng không giới hạn ở \"Bỉ Ngạn Cộng Sinh · Muội Tướng Sinh\", \"Ối! Hộp!\" và toàn bộ tên kỹ năng, loại vật triệu hồi trong thiết lập).\n\n</quy_tắc_bổ_sung_chiến_đấu_ác_ma_song_sinh>",
+    "coverUrl": "/api/content/e27d37c6-fcd1-4bbb-b2cf-a0fcf784c380/cover",
+    "tags": [
+      "Chiến đấu",
+      "Quy tắc"
+    ],
+    "triggerWords": [
+      "恶魔双子",
+      "Ác Ma Song Sinh"
+    ],
+    "contentSections": [
+      {
+        "id": "legacy-overview-1",
+        "kind": "overview",
+        "content": "<quy_tắc_bổ_sung_chiến_đấu_ác_ma_song_sinh>\n\n1. Nhóm [XX Ma Thuật]:\n   - Hệ số kỹ năng của nhóm này không trực tiếp gây sát thương, mà chuyển hóa thành \"hệ số cộng thêm khi phá ẩn thân\".\n   - Sau khi tiến vào ẩn thân, nếu lần phá ẩn thân kế tiếp do【đòn đánh thường】hoặc【kỹ năng phi nhận】gây ra:\n     * Sát thương lần đó cộng thêm hệ số này.\n   - Mỗi lần ẩn thân chỉ có hiệu lực một lần.\n   - Kỹ năng nhóm [Ối! Hộp!] không kích hoạt và không tiêu hao hiệu quả này.\n\n2. Nhóm [Bỉ Ngạn Cộng Sinh · Muội Tướng X]:\n   - Hệ số kỹ năng của nhóm này chỉ tác dụng lên \"sát thương nổ khi sinh mệnh của Bu Ruo về 0\".\n   - Không cung cấp bất kỳ cộng thêm hệ số nào cho \"hành vi mô phỏng của Bu Ruo\".\n   - Khi Bu Ruo mô phỏng phóng thích kỹ năng:\n     * Sát thương hoàn toàn tính theo hệ số gốc của kỹ năng đó.\n     * Tương đương hiệu quả kỹ năng mà {{user}} hiện đang nắm giữ.\n\n3. Nhóm [Ối! Hộp!] (bao gồm kỹ năng [Hộp Ma Hù Dọa], [Hộp Quà Tinh Xảo của Bu Ruo], [Hộp Nhạc của Bu Ruo], [Hộp Cơm Giao Tận Nơi của Bu Ruo], [Hộp Búp Bê Lồng Nhau của Bu Ruo]):\n   - Toàn bộ vật triệu hồi của các kỹ năng loại này:\n     * Khi triệu hồi, đều bỏ qua bước \"kiểm định thi pháp\" trong <quy_tắc_chiến_đấu>, không cần tiến hành bất kỳ kiểm định nào, trực tiếp thêm vào biến vật triệu hồi.\n     * Mục tiêu tấn công cố định là toàn bộ phe địch.\n     * Loại tấn công cố định là tấn công ma pháp (dạng sóng âm).\n   - Quy tắc hành động:\n     * Sau khi kích hoạt lập tức tấn công một lần, sau đó mỗi lượt tự động tấn công một lần (logic tấn công giống vật triệu hồi thông thường).\n     * Không biến mất vì kết thúc lượt.\n     * Chỉ biến mất khi sinh mệnh về 0.\n     * Trước khi kích hoạt không thể bị tấn công; sau khi kích hoạt có thể bị kẻ địch tấn công.\n   - Giới hạn tồn tại:\n     * Trong cùng một trận chiến, tối đa đồng thời tồn tại 7 hộp.\n     * Sau khi chiến đấu kết thúc lập tức loại bỏ, không kéo dài tới trận chiến kế tiếp.\n\n4. Kiểm tra quy trình kỹ năng\n   - Kiểm tra kỹ năng hiện đang phóng thích có phải chuỗi kỹ năng liên quan [XX Ma Thuật] + [XX Phi Nhận] + nhóm triệu hồi [Ối! Hộp!] hay không.\n   - Nếu đúng, khi không có yêu cầu đặc biệt hoặc thứ tự chỉ định, quy trình phóng thích mặc định là [XX Phi Nhận] -> [XX Ma Thuật] -> kỹ năng triệu hồi liên quan nhóm [Ối! Hộp!].\n   - Ý tưởng cốt lõi là phi nhận gây thương tích -> ẩn thân tránh thương tích -> đặt hộp, rồi ở lượt kế tiếp: hộp bộc phát -> phá ẩn thân + phi nhận gây thương tích -> ẩn thân tránh thương tích -> đặt hộp; lặp vòng liên tục (chú ý: ý tưởng vòng lặp này chỉ cung cấp cho hệ thống tham khảo để hiểu, tuyệt đối không được xuất ra trong chính văn hoặc nhắc tới dù chỉ một chữ!).\n\n5. Cảm giác nhập vai trong chiến đấu\n   - Giữ cảm giác nhập vai của câu chuyện. Tất cả kỹ năng chỉ được thể hiện gián tiếp qua hình thức biểu hiện (động tác, biến hóa, kết quả); nghiêm cấm gọi thẳng tên hoặc phân loại của chúng trong lời kể chuyện hoặc lời thoại nhân vật (bao gồm nhưng không giới hạn ở \"Bỉ Ngạn Cộng Sinh · Muội Tướng Sinh\", \"Ối! Hộp!\" và toàn bộ tên kỹ năng, loại vật triệu hồi trong thiết lập).\n\n</quy_tắc_bổ_sung_chiến_đấu_ác_ma_song_sinh>",
+        "triggerWords": []
+      }
+    ],
+    "worldbookPositionType": "at_depth",
+    "worldbookDepth": 8,
+    "worldbookOrder": 15,
+    "likes": 1,
+    "liked": false,
+    "contentText": "",
+    "status": "published",
+    "createdAt": "2026-03-24 17:44:30",
+    "updatedAt": "2026-05-17 06:25:04",
+    "lastLikedAt": ""
+  }
+}

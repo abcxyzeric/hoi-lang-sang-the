@@ -1,0 +1,37 @@
+{
+  "ok": true,
+  "preset": {
+    "id": "0af11952-60b1-4619-b3d8-ae247f1f0708",
+    "ownerId": "1080115930765463582",
+    "ownerName": "Rinkonro",
+    "author": "Rinkonro",
+    "authorAvatar": "https://cdn.discordapp.com/avatars/1080115930765463582/9cc317b358eafa837908890fa2f1b3d4.png?size=128",
+    "name": "Rein",
+    "title": "Rein",
+    "intro": "Vì đã ghi toàn bộ bất lợi thẩm định và giảm trị số kiểm định vào preset, chơi sẽ rất cực. Hãy cố gắng tránh chiến đấu và kiểm định thường ngày, hoặc bạn cũng có thể thử lợi dụng kiểm định thất bại và đại thất bại để làm vài việc.",
+    "coverUrl": "/api/presets/0af11952-60b1-4619-b3d8-ae247f1f0708/cover",
+    "className": "Cảm xúc dị giới",
+    "race": "Ex-Machina",
+    "tags": [
+      "Làm trò",
+      "Hướng M"
+    ],
+    "likes": 8,
+    "liked": false,
+    "downloads": 12,
+    "status": "published",
+    "createdAt": "2026-03-15 15:31:01",
+    "updatedAt": "2026-05-18 13:12:11",
+    "lastLikedAt": "",
+    "presetData": {
+      "name": "",
+      "class": "Cảm xúc dị giới",
+      "customClassName": "Cảm xúc dị giới",
+      "race": "Ex-Machina",
+      "customClassStyle": "Sau khi Ex-Machina nhận được \"cảm xúc\", cô học hát và dùng cơ thể để mô phỏng âm thanh của nhạc cụ.",
+      "backstory": "",
+      "selectedCustomLevel": 1
+    },
+    "downloadUrl": "/api/presets/0af11952-60b1-4619-b3d8-ae247f1f0708/file"
+  }
+}

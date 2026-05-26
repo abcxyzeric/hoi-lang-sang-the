@@ -1,0 +1,41 @@
+{
+  "ok": true,
+  "preset": {
+    "id": "4984930d-b7c1-41cd-b62d-69025cbdc918",
+    "ownerId": "1418061596760211548",
+    "ownerName": "one",
+    "author": "one",
+    "authorAvatar": "https://cdn.discordapp.com/avatars/1418061596760211548/60c29c9dc3301c86967bb523123c331e.png?size=128",
+    "name": "Pain Lục Đạo",
+    "title": "Pain Lục Đạo",
+    "intro": "Tôi cố gắng khôi phục cây kỹ năng của Pain Lục Đạo, đồng thời thêm một số năng lực Rinnegan khác. Vì chính tôi cũng chưa chơi tới phần sau nên chưa biết liệu có bug không; chắc vẫn còn khá nhiều chỗ có thể tối ưu.\nBản Kiếm Hổ Phách mới nhất chơi khá vui, khuyên mọi người nên thử (hì hì).",
+    "coverUrl": "/api/presets/4984930d-b7c1-41cd-b62d-69025cbdc918/cover",
+    "className": "Lục Đạo",
+    "race": "Nhân loại",
+    "tags": [
+      "Duy trì",
+      "Khống chế",
+      "Triệu hồi",
+      "Hokage",
+      "Pain"
+    ],
+    "likes": 11,
+    "liked": false,
+    "downloads": 75,
+    "status": "published",
+    "createdAt": "2026-03-17 09:38:07",
+    "updatedAt": "2026-05-20 01:54:00",
+    "lastLikedAt": "",
+    "presetData": {
+      "name": "Pain",
+      "class": "Lục Đạo",
+      "customClassName": "Lục Đạo",
+      "race": "Nhân loại",
+      "customRace": null,
+      "customClassStyle": "Lấy Rinnegan làm trung tâm, nắm giữ sức mạnh Thiên Đạo điều khiển lực hút và lực đẩy; có thể triệu hồi hắc bổng để thao túng rối Lục Đạo chiến đấu. Sở hữu các năng lực hủy diệt như Thần La Thiên Chinh, Vạn Tượng Thiên Dẫn, Địa Bạo Thiên Tinh. Khi cấp độ tăng lên có thể mở khóa năm rối lớn: Tu La Đạo, Súc Sinh Đạo, Nhân Gian Đạo, Ngạ Quỷ Đạo và Địa Ngục Đạo; mỗi rối có năng lực chiến đấu riêng, bản thể không thể dùng kỹ năng của rối, phải thông qua điều khiển để phối hợp hoàn hảo sức mạnh Lục Đạo. Đây là người điều khiển đồng lực toàn năng, kết hợp khống chế, gây sát thương, triệu hồi và sửa chữa.",
+      "backstory": "",
+      "selectedCustomLevel": 1
+    },
+    "downloadUrl": "/api/presets/4984930d-b7c1-41cd-b62d-69025cbdc918/file"
+  }
+}

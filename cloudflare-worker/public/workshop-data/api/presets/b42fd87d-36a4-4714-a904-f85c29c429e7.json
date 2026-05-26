@@ -1,0 +1,43 @@
+{
+  "ok": true,
+  "preset": {
+    "id": "b42fd87d-36a4-4714-a904-f85c29c429e7",
+    "ownerId": "1466729476250665177",
+    "ownerName": "Watani Taki",
+    "author": "Watani Taki",
+    "authorAvatar": "https://cdn.discordapp.com/avatars/1466729476250665177/1628fc11e7961d85181295493426b775.png?size=128",
+    "name": "Uchiha Madara (không phải Lục Đạo)",
+    "title": "Uchiha Madara (không phải Lục Đạo)",
+    "intro": "Đoạn trước quên rồi, đoạn giữa quên rồi, đoạn sau cũng quên rồi. Tóm lại, ngươi cũng muốn nhảy múa chứ?",
+    "coverUrl": "/api/presets/b42fd87d-36a4-4714-a904-f85c29c429e7/cover",
+    "className": "Ninja",
+    "race": "Uchiha",
+    "tags": [
+      "Bộc phát",
+      "Khống chế",
+      "Tiếng cười cuồng Uchiha",
+      "Con trai hay cười mới khỏe mạnh",
+      "Chàng trai ánh dương"
+    ],
+    "likes": 4,
+    "liked": false,
+    "downloads": 82,
+    "status": "published",
+    "createdAt": "2026-03-22 12:20:26",
+    "updatedAt": "2026-05-23 19:59:37",
+    "lastLikedAt": "",
+    "presetData": {
+      "name": "Uchiha Madara",
+      "class": "Ninja",
+      "customClassName": "Ninja",
+      "race": "__custom__",
+      "customRace": {
+        "name": "Uchiha"
+      },
+      "customClassStyle": "Uchiha Madara theo đuổi phong cách chiến đấu dùng nhẫn thuật toàn năng tiêu hao thấp để nghiền ép, lấy Susanoo làm sức mạnh chiến đấu cốt lõi. Hỏa Độn và Mộc Độn dùng để khống chế sân và bộc phát, Rinnegan giúp duy trì và phản chế, thiên thạch cùng Susanoo hoàn chỉnh có thể hủy thiên diệt địa. Toàn bộ lối đánh là áp chế bằng bá thể, bất tử bất diệt, đúng kiểu Tu La cấp thần của nhẫn giới.",
+      "backstory": "",
+      "selectedCustomLevel": null
+    },
+    "downloadUrl": "/api/presets/b42fd87d-36a4-4714-a904-f85c29c429e7/file"
+  }
+}

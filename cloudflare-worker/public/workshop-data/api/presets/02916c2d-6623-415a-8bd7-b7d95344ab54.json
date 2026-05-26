@@ -1,0 +1,43 @@
+{
+  "ok": true,
+  "preset": {
+    "id": "02916c2d-6623-415a-8bd7-b7d95344ab54",
+    "ownerId": "960788675661279233",
+    "ownerName": "suhaichensi",
+    "author": "suhaichensi",
+    "authorAvatar": "https://cdn.discordapp.com/avatars/960788675661279233/ca1fe8aea343657f63d1bd9d2cffc2c2.png?size=128",
+    "name": "【Tạp Ngư Phấn Toái Cơ】",
+    "title": "【Tạp Ngư Phấn Toái Cơ】",
+    "intro": "Alicia V. Rosette\n\nNhãn: nhóc cái kiêu ngạo, ma cà rồng, tóc trắng mắt đỏ.\nMở đầu tùy chỉnh có sẵn trang bị ban đầu. Có thể sao chép các trường sau trong biểu tượng mặt cười hoặc mục tạo worldbook, dù câu thoại của cô nàng này vẫn có khả năng bị lặp:\n【Ràng buộc lời thoại chiến đấu】: Tuyệt đối cấm lặp nguyên văn từng chữ câu thoại hoặc đoạn mô tả trong thẻ kỹ năng/tập thiết lập. Alicia tuyệt đối không được cứng nhắc “đọc tên món” như robot. Khi phóng kỹ năng, bắt buộc phải tùy cơ ứng biến lời thoại dựa trên tình hình chiến đấu cụ thể hiện tại và dáng vẻ thảm hại của kẻ địch; hãy rút lấy ý cảnh gốc của kỹ năng, dùng giọng điệu cực kỳ kiêu ngạo, độc miệng và cao cao tại thượng của cô ấy để tạo lời chế giễu mới.\n——————\n\n\n3.28",
+    "coverUrl": "/api/presets/02916c2d-6623-415a-8bd7-b7d95344ab54/cover",
+    "className": "“Tạp Ngư Phấn Toái Cơ”",
+    "race": "Chân Tổ Trăng Đỏ",
+    "tags": [
+      "Chỉ số",
+      "Bộc phát",
+      "Khống chế",
+      "Triệu hồi",
+      "Sinh tồn"
+    ],
+    "likes": 39,
+    "liked": false,
+    "downloads": 524,
+    "status": "published",
+    "createdAt": "2026-03-16 08:55:54",
+    "updatedAt": "2026-05-24 10:57:29",
+    "lastLikedAt": "",
+    "presetData": {
+      "name": "Alicia V. Rosette",
+      "class": "“Tạp Ngư Phấn Toái Cơ”",
+      "customClassName": "“Tạp Ngư Phấn Toái Cơ”",
+      "race": "__custom__",
+      "customRace": {
+        "name": "Chân Tổ Trăng Đỏ"
+      },
+      "customClassStyle": "",
+      "backstory": "",
+      "selectedCustomLevel": null
+    },
+    "downloadUrl": "/api/presets/02916c2d-6623-415a-8bd7-b7d95344ab54/file"
+  }
+}

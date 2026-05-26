@@ -1,0 +1,38 @@
+{
+  "ok": true,
+  "preset": {
+    "id": "22816269-473b-470d-a05c-7a5f62e8e2be",
+    "ownerId": "1461087070180217080",
+    "ownerName": "Winford",
+    "author": "Winford",
+    "authorAvatar": "https://cdn.discordapp.com/avatars/1461087070180217080/9f4ff325ceec0bf1ee60576fdf36c298.png?size=128",
+    "name": "Pháp sư Định Mệnh",
+    "title": "Pháp sư Định Mệnh",
+    "intro": "Bằng cách cộng dồn số tầng [dấu ấn định mệnh], sử dụng các kỹ năng có cơ chế khác nhau để khống chế và gây sát thương lên kẻ địch; thậm chí thao túng định mệnh khiến kẻ địch rơi vào vận rủi, hoặc ban may mắn cho đồng minh. (Bìa dùng hình Kaito Kid.)",
+    "coverUrl": "/api/presets/22816269-473b-470d-a05c-7a5f62e8e2be/cover",
+    "className": "Pháp sư Định Mệnh",
+    "race": "Nhân loại chủng",
+    "tags": [
+      "Khống chế",
+      "Đơn mục tiêu"
+    ],
+    "likes": 1,
+    "liked": false,
+    "downloads": 23,
+    "status": "published",
+    "createdAt": "2026-03-16 04:52:08",
+    "updatedAt": "2026-05-21 16:52:39",
+    "lastLikedAt": "",
+    "presetData": {
+      "name": "Li An",
+      "class": "Pháp sư Định Mệnh",
+      "customClassName": "Pháp sư Định Mệnh",
+      "race": "Nhân loại chủng",
+      "customRace": null,
+      "customClassStyle": "",
+      "backstory": "",
+      "selectedCustomLevel": null
+    },
+    "downloadUrl": "/api/presets/22816269-473b-470d-a05c-7a5f62e8e2be/file"
+  }
+}

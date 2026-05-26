@@ -1,0 +1,40 @@
+{
+  "ok": true,
+  "preset": {
+    "id": "f83a07aa-aa0d-4985-8058-3f45c39d784f",
+    "ownerId": "326341461169799178",
+    "ownerName": "Erochika",
+    "author": "Erochika",
+    "authorAvatar": "https://cdn.discordapp.com/avatars/326341461169799178/11e510d57315edb6f0f8d32b70fc4e2b.png?size=128",
+    "name": "Kiếm sĩ lang thang",
+    "title": "Kiếm sĩ lang thang",
+    "intro": "Kiếm sĩ lang thang phong cách Elden Ring.\nChiến kỹ của vũ khí hệ kiếm + sát thương bằng cầu nguyện ma pháp hệ tín ngưỡng.\nKhởi đầu tự mang Bình Thánh Bôi Giọt Sương Đỏ dạng kỹ năng.",
+    "coverUrl": "/api/presets/f83a07aa-aa0d-4985-8058-3f45c39d784f/cover",
+    "className": "Kỵ Sĩ Lang Thang",
+    "race": "Kẻ Phai Màu",
+    "tags": [
+      "Bộc phát",
+      "Đơn mục tiêu"
+    ],
+    "likes": 7,
+    "liked": false,
+    "downloads": 56,
+    "status": "published",
+    "createdAt": "2026-04-14 05:57:01",
+    "updatedAt": "2026-05-25 11:46:46",
+    "lastLikedAt": "",
+    "presetData": {
+      "name": "",
+      "class": "Kỵ Sĩ Lang Thang",
+      "customClassName": "Kỵ Sĩ Lang Thang",
+      "race": "__custom__",
+      "customRace": {
+        "name": "Kẻ Phai Màu"
+      },
+      "customClassStyle": "Vốn là quý tộc ở một vùng đất nào đó hoặc một kỵ sĩ chính quy từng trung thành với một thế lực, nhưng vì nguyên nhân chưa rõ đã bị lưu đày khỏi quê hương và từ đó bước lên con đường phiêu bạt. Dù mất đi mái nhà, vẫn giữ phẩm giá và tố dưỡng chiến đấu của kỵ sĩ; là pháp sư cận chiến ưu tú cân bằng giữa công và thủ. Giỏi dùng chiến kỹ vũ khí và pháp thuật cầu nguyện để chiến đấu.",
+      "backstory": "",
+      "selectedCustomLevel": 1
+    },
+    "downloadUrl": "/api/presets/f83a07aa-aa0d-4985-8058-3f45c39d784f/file"
+  }
+}

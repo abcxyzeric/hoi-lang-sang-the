@@ -1,0 +1,42 @@
+{
+  "ok": true,
+  "preset": {
+    "id": "dfb3982a-b38a-4ade-83e7-c246f5428f69",
+    "ownerId": "1485639291915731109",
+    "ownerName": "Aluminum",
+    "author": "Aluminum",
+    "authorAvatar": "",
+    "name": "Luyện Khí Sĩ",
+    "title": "Luyện Khí Sĩ",
+    "intro": "Preset tự dùng: thân thể cường hãn, chiến đấu sảng khoái và vẫn có yếu tố sắc dục.",
+    "coverUrl": "/api/presets/dfb3982a-b38a-4ade-83e7-c246f5428f69/cover",
+    "className": "Luyện Khí Sĩ",
+    "race": "Phàm nhân · Luyện khí sĩ",
+    "tags": [
+      "Bộc phát",
+      "Duy trì lâu dài",
+      "Đơn mục tiêu",
+      "Song tu"
+    ],
+    "likes": 1,
+    "liked": false,
+    "downloads": 53,
+    "status": "published",
+    "createdAt": "2026-04-02 12:06:07",
+    "updatedAt": "2026-05-24 10:06:20",
+    "lastLikedAt": "",
+    "presetData": {
+      "name": "Vệ Tịch",
+      "class": "Luyện Khí Sĩ",
+      "customClassName": "Luyện Khí Sĩ",
+      "race": "__custom__",
+      "customRace": {
+        "name": "Phàm nhân · Luyện khí sĩ"
+      },
+      "customClassStyle": "Tôi luyện thân thể bản thân tới cực hạn - lấy thân làm đỉnh, lấy khí làm lửa, lấy máu làm mồi dẫn, rèn thể xác thành một món binh khí vượt khỏi phàm tục. Trong dị giới ma pháp hoành hành này, không có pháp thuật hoa mỹ, không có thần minh chiếu cố, chỉ có một thân thể thuần túy được rèn luyện qua nghìn búa trăm lửa, gần như một pháp bảo.",
+      "backstory": "",
+      "selectedCustomLevel": null
+    },
+    "downloadUrl": "/api/presets/dfb3982a-b38a-4ade-83e7-c246f5428f69/file"
+  }
+}

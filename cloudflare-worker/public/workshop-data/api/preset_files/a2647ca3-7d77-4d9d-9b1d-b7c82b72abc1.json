@@ -1,0 +1,228 @@
+{
+  "exportedAt": "2026-03-12T03:45:51.815Z",
+  "version": "1.0",
+  "preset": {
+    "id": "1773287146213",
+    "name": "Yato",
+    "timestamp": 1773287146213,
+    "createdAt": 1773287146213,
+    "updatedAt": 1773287146213,
+    "data": {
+      "name": "Yato",
+      "gender": "Nam",
+      "age": 18,
+      "race": "Chủng Ảo Tưởng",
+      "identity": "__custom__",
+      "avatar": "https://gitgud.io/Rown/dnf/-/raw/master/%E5%B0%81%E9%9D%A2/%E5%A4%9C%E6%96%97.webp",
+      "attributes": {
+        "strength": 10,
+        "dexterity": 10,
+        "constitution": 10,
+        "intelligence": 10,
+        "wisdom": 10,
+        "charisma": 10
+      },
+      "backstory": "Vị thần vô danh trong thời Chiến Quốc loạn lạc, không có đền thờ, không có tín đồ, duy trì tồn tại bằng cách tiếp nhận nguyện vọng của con người. Cầm thần khí \"Hiiro\", chiến đấu bằng thao túng dòng nước và kiếm thuật tốc độ cao, sở hữu sức mạnh \"Cắt Duyên\" chém đứt nhân duyên. Nhưng thứ tới thế giới này chỉ là một lát cắt ngắn trong tháng năm dài đằng đẵng của hắn, một hình chiếu mảnh ký ức thời Chiến Quốc, còn xa mới là bản thân hắn. Vì vậy, khác với bản thể nhẹ dạ bông đùa, đoạn ký ức được thực thể hóa này trầm mặc ít lời, mặc trang phục lãng nhân thời cũ.",
+      "selectedLevelMode": "custom",
+      "selectedCustomLevel": 1,
+      "selectedSpawnPoint": "Tầng dưới Chợ Vách Cảng Hoàn Uyên · Bờ biển ngoài",
+      "class": "Magatsukami",
+      "selectedBaseClass": "Nghề tùy chỉnh",
+      "customClassName": "Magatsukami",
+      "customClassStyle": "Vị thần vô danh giữa thời Chiến Quốc loạn lạc, cầm thần khí \"Hiiro\" chiến đấu bằng thao túng dòng nước và kiếm thuật tốc độ cao. Hiiro có thể hóa thành lưu thể áp suất cao và tự do biến hình, tấn công từ những góc hiểm khiến phòng ngự gần như vô nghĩa. Sở hữu sức mạnh \"Cắt Duyên\" chém đứt mối duyên của vạn vật; khí tràng của Magatsukami khiến sinh linh xung quanh bất an.",
+      "customClassWeapon": "Hiiro (thần khí · thái đao)",
+      "customClassCombatStyle": "Cận chiến",
+      "skillTree": {
+        "Tier1": [
+          {
+            "名称": "Đâm xuyên",
+            "类型": "Chủ động",
+            "描述": "Lợi dụng đặc tính không chắn tay, không vỏ của Hiiro, dùng thần tốc khó bắt bằng mắt thường để đâm tới phía trước, gây sát thương xuyên thấu. Kỹ năng này không thể bị đỡ gạt. Nếu đánh trúng kẻ địch đang ở trạng thái [Chảy máu], gây sát thương gấp đôi."
+          },
+          {
+            "名称": "Đạn nước · Hiiro",
+            "类型": "Chủ động",
+            "描述": "Vung Hiiro, ngưng tụ và bắn ra đạn nước áp suất cao từ thân kiếm, đẩy lùi và gây sát thương lên kẻ địch phía trước. Sau khi đánh trúng kẻ địch, áp dụng trạng thái [Ẩm ướt] (kháng lôi giảm, xác suất bị đóng băng tăng); nếu kẻ địch va vào tường thì gây thêm hiệu ứng choáng."
+          },
+          {
+            "名称": "Hiiro · giải phóng",
+            "类型": "Đặc biệt",
+            "描述": "Đánh thức ý thức của 'Hiiro', khiến thân đao hóa thành lưu thể áp suất cao, có thể tùy tâm co duỗi và biến hình, tấn công kẻ địch từ những góc quái dị, khiến phòng ngự gần như vô nghĩa.",
+            "特殊效果": {
+              "1": "Khoảng cách tấn công +5 feet, kiểm định trúng +1, tấn công bỏ qua 2 điểm AC (giáp), kéo dài 2 lượt.",
+              "2": "Khoảng cách tấn công +5 feet, kiểm định trúng +1, tấn công bỏ qua 2 điểm AC (giáp), kéo dài 2 lượt.",
+              "3": "Khoảng cách tấn công +5 feet, kiểm định trúng +2, tấn công bỏ qua 3 điểm AC (giáp), kéo dài 3 lượt.",
+              "4": "Khoảng cách tấn công +10 feet, kiểm định trúng +2, tấn công bỏ qua 3 điểm AC (giáp), kéo dài 3 lượt.",
+              "5": "Khoảng cách tấn công +10 feet, kiểm định trúng +3, tấn công bỏ qua 4 điểm AC (giáp), kéo dài 3 lượt.",
+              "6": "Khoảng cách tấn công +10 feet, kiểm định trúng +3, tấn công bỏ qua 4 điểm AC (giáp), kéo dài 3 lượt.",
+              "7": "Khoảng cách tấn công +15 feet, kiểm định trúng +4, tấn công bỏ qua 5 điểm AC (giáp), tấn công có hiệu ứng [thuộc tính nước], kéo dài 4 lượt.",
+              "8": "Khoảng cách tấn công +15 feet, kiểm định trúng +4, tấn công bỏ qua 5 điểm AC (giáp), tấn công có hiệu ứng [thuộc tính nước], kéo dài 4 lượt.",
+              "9": "Khoảng cách tấn công +15 feet, kiểm định trúng +5, tấn công bỏ qua 6 điểm AC (giáp), tấn công có hiệu ứng [thuộc tính nước], kéo dài 4 lượt.",
+              "10": "Khoảng cách tấn công +20 feet, kiểm định trúng +5, đòn đánh thường biến thành tấn công phạm vi hình quạt (lưỡi nước bắn tóe), kéo dài 5 lượt."
+            }
+          }
+        ],
+        "Tier2": [
+          {
+            "名称": "Thuấn trảm · Liễu Loạn",
+            "类型": "Chủ động",
+            "描述": "Trong một khoảnh khắc chém loạn nhiều lần vào kẻ địch xung quanh, nở rộ như hoa máu rối loạn. Gây sát thương phạm vi. Mỗi khi đánh trúng một kẻ địch, Hiiro hấp thu máu của nó, hồi cho Yato 1% sinh mệnh tối đa của bản thân (giới hạn đơn lần 5%)."
+          },
+          {
+            "名称": "Phòng ngự tường nước",
+            "类型": "Chủ động",
+            "描述": "Hiiro điều khiển dòng nước tạo thành một bức tường nước lưu động trước mặt Yato, chống đỡ đòn tấn công sắp tới và phản lại một phần sát thương. Hoàn toàn miễn nhiễm lần tấn công bằng vật bay tầm xa kế tiếp. Nếu tấn công cận chiến đánh trúng tường nước, kẻ tấn công sẽ bị [Đẩy lùi] và rơi vào trạng thái [Ẩm ướt]."
+          },
+          {
+            "名称": "Cách vị Magatsukami",
+            "类型": "Đặc biệt nghề nghiệp",
+            "描述": "Giải phóng bản tính của Magatsukami, tỏa ra khí tức bất tường khiến người ta sợ hãi; sinh linh xung quanh đều cảm thấy run rẩy theo bản năng.",
+            "特殊效果": {
+              "1": "Sau khi kích hoạt, lực tấn công +10%. Tất cả sinh vật phàm tục trong phạm vi 50 feet xung quanh (không thần cách/không truyền kỳ) mỗi lượt cần tiến hành một lần kiểm định ý chí; thất bại thì rơi vào [Sợ hãi] hoặc [Run rẩy] (không thể di chuyển). Sát thương cuối gây lên kẻ địch có 'thần cách' tăng thêm 50%."
+            }
+          }
+        ],
+        "Tier3": [
+          {
+            "名称": "Thủy long · cắn xé",
+            "类型": "Chủ động",
+            "描述": "Hóa dòng nước của Hiiro thành đầu thủy long khổng lồ, mãnh liệt xung kích và cắn xé kẻ địch phía trước, gây sát thương thuộc tính nước phạm vi lớn. Khu vực bị thủy long đánh trúng sẽ biến thành địa hình [Nước đọng] (di chuyển khó khăn). Nếu mục tiêu ở trạng thái [Ẩm ướt], thủy long sẽ [Nuốt chửng] (giam cầm) mục tiêu 1 lượt."
+          },
+          {
+            "名称": "Trảm · phá ma",
+            "类型": "Chủ động",
+            "描述": "Một nhát chém mạnh tập trung thần lực vào một điểm, có năng lực phá giáp cực cao, chuyên dùng để chém giết yêu ma có vỏ cứng. Bỏ qua 50% giáp/AC của mục tiêu. Nếu mục tiêu là sinh vật [Yêu ma] hoặc [Bất tử], gây sát thương gấp đôi và khiến nó không thể tái sinh."
+          },
+          {
+            "名称": "Bản năng giết chóc",
+            "类型": "Đặc biệt",
+            "描述": "Tiến vào trạng thái giết chóc không còn tạp niệm, cảm nhận tăng mạnh, mỗi đòn đều nhắm thẳng yếu huyệt.",
+            "特殊效果": {
+              "1": "Tỷ lệ bạo kích +5%, sát thương bạo kích +10%, kéo dài 3 lượt.",
+              "2": "Tỷ lệ bạo kích +6%, sát thương bạo kích +12%, kéo dài 3 lượt.",
+              "3": "Tỷ lệ bạo kích +7%, sát thương bạo kích +14%, kéo dài 3 lượt.",
+              "4": "Tỷ lệ bạo kích +8%, sát thương bạo kích +16%, kéo dài 4 lượt.",
+              "5": "Tỷ lệ bạo kích +9%, sát thương bạo kích +18%, kéo dài 4 lượt.",
+              "6": "Tỷ lệ bạo kích +10%, sát thương bạo kích +20%, kéo dài 4 lượt.",
+              "7": "Tỷ lệ bạo kích +11%, sát thương bạo kích +25%, kéo dài 5 lượt.",
+              "8": "Tỷ lệ bạo kích +12%, sát thương bạo kích +30%, kéo dài 5 lượt.",
+              "9": "Tỷ lệ bạo kích +13%, sát thương bạo kích +35%, kéo dài 5 lượt.",
+              "10": "Tỷ lệ bạo kích +15%, sát thương bạo kích +50%, kéo dài 6 lượt. Trong thời gian trạng thái, nếu giết kẻ địch, lập tức làm mới hồi chiêu toàn bộ kỹ năng Tier 1 và Tier 2."
+            }
+          }
+        ],
+        "Tier4": [
+          {
+            "名称": "Tuyệt · đoạn giới",
+            "类型": "Chủ động",
+            "描述": "Phát động sức mạnh 'Tuyệt' (Zetsu), chém đứt không gian và kết giới, gây sát thương chuẩn bỏ qua phòng ngự lên toàn bộ kẻ địch trên đường thẳng. Đòn tấn công này không chỉ gây sát thương, mà còn cắt đứt toàn bộ [hiệu quả tăng ích/Buff] và [liên kết] trên mục tiêu (như chuỗi trị liệu, hộ vệ)."
+          },
+          {
+            "名称": "Triệu hồi · diện yêu lang",
+            "类型": "Triệu hồi",
+            "描述": "Thông qua năng lực của Hiiro, triệu hồi 3 con yêu lang đeo mặt nạ hỗ trợ chiến đấu. Đòn tấn công của yêu lang có hiệu quả [Nguyền rủa] (toàn thuộc tính giảm). Khi diện yêu lang chết, nó sẽ nổ gây sát thương thuộc tính ám phạm vi nhỏ.",
+            "召唤物名称": "Diện yêu lang"
+          },
+          {
+            "名称": "Lời nguyền của Hiiro",
+            "类型": "Đặc biệt",
+            "描述": "Kích phát sức mạnh nguyền rủa ẩn chứa trong Hiiro; tuy sẽ ăn mòn người nắm giữ, nhưng có thể cường hóa mạnh năng lực gây tàn phế của đòn tấn công.",
+            "特殊效果": {
+              "1": "Sát thương cuối +5%, khi tấn công kèm hiệu quả 'chảy máu', và vết thương gây ra không thể khép lại bằng thủ đoạn trị liệu thông thường. Bản thân chịu phản phệ 5% sinh mệnh mỗi lượt, tối thiểu mất 1 điểm, kéo dài 3 lượt.",
+              "2": "Sát thương cuối +7%, khi tấn công kèm hiệu quả 'chảy máu', bản thân chịu phản phệ 5% sinh mệnh mỗi lượt, tối thiểu mất 1 điểm, kéo dài 3 lượt.",
+              "3": "Sát thương cuối +9%, khi tấn công kèm hiệu quả 'trọng thương' (trị liệu nhận được giảm một nửa), bản thân chịu phản phệ 5% sinh mệnh mỗi lượt, tối thiểu mất 1 điểm, kéo dài 3 lượt.",
+              "4": "Sát thương cuối +11%, khi tấn công kèm hiệu quả 'trọng thương', bản thân chịu phản phệ 5% sinh mệnh mỗi lượt, tối thiểu mất 1 điểm, kéo dài 4 lượt.",
+              "5": "Sát thương cuối +14%, khi tấn công kèm hiệu quả 'trọng thương', bản thân chịu phản phệ 5% sinh mệnh mỗi lượt, tối thiểu mất 1 điểm, kéo dài 4 lượt.",
+              "6": "Sát thương cuối +17%, khi tấn công kèm hiệu quả 'trọng thương', bản thân chịu phản phệ 5% sinh mệnh mỗi lượt, tối thiểu mất 1 điểm, kéo dài 4 lượt.",
+              "7": "Sát thương cuối +20%, khi tấn công kèm hiệu quả 'suy yếu' (sát thương gây ra giảm một nửa), bản thân chịu phản phệ 5% sinh mệnh mỗi lượt, tối thiểu mất 1 điểm, kéo dài 5 lượt."
+            }
+          }
+        ],
+        "Tier5": [
+          {
+            "名称": "Thuấn sát · Yomotsu Hirasaka",
+            "类型": "Chủ động",
+            "描述": "Như xuyên qua Yomotsu Hirasaka, dùng thân pháp vượt thần tốc để để lại vô số tàn ảnh trên chiến trường, tiến hành liên trảm hủy diệt lên kẻ địch trong phạm vi lớn. Khi phóng thích, Yato tiến vào trạng thái [không thể chọn làm mục tiêu]. Liên trảm được phán định là 10 đòn tấn công độc lập; mỗi đòn đều có xác suất kích hoạt bạo kích và hiệu ứng đặc biệt của Lời nguyền Hiiro."
+          },
+          {
+            "名称": "Trảm · táng tống",
+            "类型": "Chủ động",
+            "描述": "Ban cho kẻ đã định phải diệt vong lòng từ bi cuối cùng. Phát động một đòn xử quyết không thể né tránh lên kẻ địch đơn thể; nếu sinh mệnh kẻ địch thấp hơn 30%, gây sát thương gấp đôi. Nếu kỹ năng này giết thành công kẻ địch, Yato nhận trạng thái [Người Táng Tống]: đòn tấn công kế tiếp chắc chắn bạo kích và bỏ qua giáp."
+          },
+          {
+            "名称": "Triệu lai thủy thần · thác lũ",
+            "类型": "Chủ động",
+            "描述": "Giải phóng hoàn toàn thần lực thuộc tính nước của Hiiro, triệu gọi dòng lũ khổng lồ như thác nước cọ rửa chiến trường; trong thời gian này, đòn chém của bản thân kèm sát thương thuộc tính nước cao. Toàn màn chiến trường phủ môi trường [Nước sâu] (đơn vị không bay/không thủy sinh mỗi lượt bị ngạt hoặc giảm tốc). Kháng lôi và kháng băng của toàn bộ kẻ địch giảm mạnh. Yato hồi sinh mệnh mỗi lượt trong dòng nước."
+          }
+        ],
+        "觉醒": [
+          {
+            "名称": "Magatsukami · giáng lâm",
+            "类型": "Chủ động",
+            "阶位": "Thức tỉnh một",
+            "描述": "Giải phóng hoàn toàn thần cách Magatsukami, bầu trời trở nên tối tăm, quanh thân quấn khí tức tím đen bất tường. Toàn thuộc tính tăng mạnh, mọi đòn chém tiến hóa thành 'Magatsu Trảm'. Phạm vi toàn bộ tấn công mở rộng 50%. Linh hồn kẻ địch bị Yato giết sẽ bị nuốt chửng, không thể hồi sinh."
+          },
+          {
+            "名称": "Tuyệt · Cắt Duyên",
+            "类型": "Chủ động",
+            "阶位": "Thức tỉnh hai",
+            "描述": "Chém đứt mối duyên của vạn vật. Không chỉ là nhát chém vật lý, mà còn là sự cắt đoạn trên khái niệm. Kẻ bị kiếm này chém trúng sẽ bị cắt đứt 'liên hệ' với thế giới, cảm giác tồn tại của chính nó bị xóa bỏ. Gây phán định [xóa bỏ tồn tại] lên mục tiêu. Nếu phán định thành công, mục tiêu trực tiếp biến mất; nếu thất bại, toàn bộ kỹ năng của mục tiêu đi vào hồi chiêu, đồng thời vĩnh viễn mất 50% giới hạn sinh mệnh tối đa (hiệu quả này không thể xua tan)."
+          },
+          {
+            "名称": "Toyoashihara no Nakatsukuni · Loạn Thần",
+            "类型": "Chủ động",
+            "阶位": "Thức tỉnh ba",
+            "描述": "Lấy thân này hóa thành nguồn gốc của loạn thế. Triệu gọi vô tận tai ách và diện yêu, biến chiến trường thành luyện ngục; bản thân đứng ở trung tâm tai ách, vung ra một đòn kết thúc thời đại. Triệu hồi vô số diện yêu tự động tấn công mọi mục tiêu địch đối. Đòn kết thúc gây sát thương chuẩn toàn màn, đồng thời tăng bội số sát thương theo số lượng và cường độ của đơn vị đã chết trên sân."
+          }
+        ]
+      },
+      "skillTreeForClass": "Magatsukami",
+      "lockedSkillMap": {},
+      "skillFlavorInput": "",
+      "teammates": [
+        {
+          "id": "t_hi"
+        }
+      ],
+      "customTeammate": null,
+      "selectedTraits": [],
+      "customTraits": [
+        {
+          "name": "Có duyên với bạn",
+          "effect": "Phần thưởng của 【bất kỳ】 ủy thác nào bạn nhận chắc chắn là 5 đồng vàng; trên đơn ủy thác chính thức, thù lao tiền vàng cưỡng chế là 5G. Có thể nhận được phần thưởng thường quy thật sự khớp độ khó ủy thác hay không cần thông qua kiểm định Sức hấp dẫn DC16 khi bàn giao. Tương ứng, bạn có thể yêu cầu bất kỳ nhân vật nào ban bố ủy thác nhiệm vụ có thưởng 5G; không ai từ chối."
+        },
+        {
+          "name": "Tốc độ của Magatsukami",
+          "effect": "Trong chiến đấu, kiểm định tiên công vĩnh viễn có lợi thế; đòn tấn công đầu tiên trong mỗi trận chiến không thể bị né tránh hoặc đỡ gạt. Kiểm định trúng không chịu ảnh hưởng bởi bất kỳ địa hình nào, vĩnh viễn không bất lợi."
+        },
+        {
+          "name": "Cắt Duyên",
+          "effect": "Tấn công có thể cắt đứt hiệu quả tăng ích và liên kết trên mục tiêu, có thể loại bỏ hiệu ứng trạng thái, chuỗi trị liệu, hộ vệ, khế ước triệu hồi, v.v.; có lợi thế khi kiểm định phá trừ phòng ngự khái niệm như bất tử, tái sinh, luật nhân quả."
+        },
+        {
+          "name": "Vị thần vô danh",
+          "effect": "Cần định kỳ hoàn thành ủy thác và thu 5 yên để duy trì tồn tại. Nếu liên tục 3 lần nghỉ dài không hoàn thành bất kỳ ủy thác nào, nhận trạng thái [Tồn tại mỏng manh] (toàn thuộc tính -2, NPC khó chú ý tới bạn hơn); tầng có thể chồng, khi đạt 5 tầng kích hoạt [nguy cơ biến mất]."
+        },
+        {
+          "name": "Nghiệp của Magatsukami",
+          "effect": "Sau khi giết bất kỳ sinh vật nào, nhận 1 tầng trạng thái [Sát nghiệp]; mỗi 5 tầng [Sát nghiệp] khiến toàn bộ kiểm định xã giao -1, kiểm định uy hiếp +1. Khi hoàn thành ủy thác phi chiến đấu và thông qua kiểm định xã giao để nhận phần thưởng bổ sung, trạng thái này được xóa."
+        },
+        {
+          "name": "Hiiro",
+          "effect": "Nếu Yato trang bị vũ khí khác để chiến đấu, Hiiro có xác suất phá hỏng vũ khí đó sau khi chiến đấu kết thúc."
+        }
+      ],
+      "customExpertise": [],
+      "customIdentity": {
+        "enabled": true,
+        "name": "Lát cắt Magatsukami thời Chiến Quốc",
+        "desc": "Magatsukami vô danh giữa thời Chiến Quốc loạn lạc, không có đền thờ, không có tín đồ. Duy trì tồn tại bằng cách tiếp nhận ủy thác của con người, cầm thần khí \"Hiiro\" bôn ba khắp nơi. Nhưng thứ tới thế giới này chỉ là một lát cắt ngắn trong tháng năm dài đằng đẵng của hắn, một hình chiếu mảnh ký ức thời Chiến Quốc, còn xa mới là bản thân hắn. Vì vậy, khác với bản thể nhẹ dạ bông đùa, đoạn ký ức được thực thể hóa này trầm mặc ít lời, mặc trang phục lãng nhân thời cũ.",
+        "tierIndex": 0
+      },
+      "selectedOpening": "custom",
+      "customOpeningText": "Lát cắt Yato thời Chiến Quốc nhận lời mời của Tet và bị kéo vào thế giới bàn cờ. Sau khi Tet giải thích ngắn gọn hiện trạng và quy tắc của thế giới này, hắn thả Yato xuống điểm khởi đầu. Yato mở đầu với điều kiện đang nắm giữ Hiiro, hãy đăng ký vũ khí trưởng thành được Hiiro vào ô trang bị (chú ý: tên vũ khí phải riêng là Hiiro). Đối với Yato, đây là một ủy thác chỉ đáng giá 5 yên, nhưng đủ để chứng minh ý nghĩa tồn tại của mình.",
+      "selectedDifficulty": "normal",
+      "customRace": null
+    }
+  }
+}

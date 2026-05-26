@@ -1,0 +1,715 @@
+{
+  "exportedAt": "2026-05-10T03:02:34.263Z",
+  "version": "1.0",
+  "preset": {
+    "id": "1778381744959",
+    "name": "Eyima",
+    "timestamp": 1778381744959,
+    "createdAt": 1778381744959,
+    "updatedAt": 1778381744959,
+    "data": {
+      "name": "Emiya",
+      "gender": "Nam",
+      "age": 16,
+      "race": "__custom__",
+      "identity": "__custom__",
+      "avatar": "",
+      "attributes": {
+        "strength": 11,
+        "dexterity": 13,
+        "constitution": 13,
+        "intelligence": 12,
+        "wisdom": 13,
+        "charisma": 13
+      },
+      "backstory": "",
+      "selectedLevelMode": "native",
+      "selectedCustomLevel": null,
+      "selectedSpawnPoint": "Hư Tổ · Phong Vân Đạo Quán Su Nan",
+      "selectedAmberSpawn": null,
+      "class": "Pháp sư chiếu ảnh",
+      "selectedBaseClass": "Nghề tùy chỉnh",
+      "customClassName": "Pháp sư chiếu ảnh",
+      "customClassStyle": "Có thể phân tích và chiếu ảnh những vật từng nhìn thấy. Khi chiếu ảnh sẽ nhận được võ kỹ mà chủ nhân ban đầu sở hữu, phong cách chiến đấu biến hóa đa dạng.",
+      "customClassWeapon": "Song kiếm",
+      "customClassCombatStyle": "Hỗn hợp",
+      "skillTree": {
+        "基础": [
+          {
+            "名称": "Ma thuật chiếu ảnh",
+            "类型": "Chủ động",
+            "描述": "Ngưng tụ ma lực để lập tức tạo ra lượng lớn thương kiếm cấp phổ thông rồi phóng đi tấn công. Loạt phóng liên miên cung cấp khả năng khống chế bước đầu.",
+            "特殊效果": {
+              "1": "Phóng 2 thanh huyễn kiếm trong một lần vào mục tiêu phía trước trong 30 yard; nếu mục tiêu đang mang trạng thái [Phân tích], sát thương cuối cùng của lần đánh này +5%.",
+              "2": "Phóng 2 thanh huyễn kiếm trong một lần vào mục tiêu phía trước trong 35 yard; nếu mục tiêu đang mang [Phân tích], sát thương cuối cùng của lần đánh này +8%.",
+              "3": "Phóng 3 thanh huyễn kiếm trong một lần vào mục tiêu phía trước trong 35 yard; nếu mục tiêu đang mang [Phân tích], sát thương cuối cùng của lần đánh này +8%.",
+              "4": "Phóng 3 thanh huyễn kiếm trong một lần vào mục tiêu phía trước trong 40 yard; nếu đánh trúng mục tiêu mang [Phân tích], kèm [Chậm chạp] 1 hiệp khiến di chuyển bị hạn chế, sát thương cuối cùng +10%.",
+              "5": "Phóng 4 thanh huyễn kiếm trong một lần vào mục tiêu phía trước trong 40 yard; nếu đánh trúng mục tiêu mang [Phân tích], kèm [Chậm chạp] 1 hiệp, sát thương cuối cùng +10%.",
+              "6": "Phóng 4 thanh huyễn kiếm trong một lần vào mục tiêu phía trước trong 45 yard; nếu đánh trúng mục tiêu mang [Phân tích], kèm [Chậm chạp] 2 hiệp, sát thương cuối cùng +12%.",
+              "7": "Phóng 5 thanh huyễn kiếm trong một lần vào mục tiêu phía trước trong 45 yard; nếu đánh trúng mục tiêu mang [Phân tích], kèm [Chậm chạp] 2 hiệp, sát thương cuối cùng +12%.",
+              "8": "Phóng tổng cộng 5 thanh huyễn kiếm vào tối đa 2 mục tiêu phía trước trong 50 yard; miễn trừ Sức mạnh của mục tiêu bị trực tiếp xem là bất lợi, sát thương cuối cùng +15%.",
+              "9": "Phóng tổng cộng 6 thanh huyễn kiếm vào tối đa 2 mục tiêu phía trước trong 50 yard; miễn trừ Sức mạnh của mục tiêu bất lợi, mục tiêu mang [Phân tích] khi chịu thêm đòn sẽ nhận sát thương cuối cùng +15%.",
+              "10": "Phóng tổng cộng 6 thanh huyễn kiếm vào tối đa 3 mục tiêu phía trước trong 55 yard; miễn trừ Sức mạnh bất lợi, khi trúng đòn kèm [Chậm chạp] 3 hiệp, sát thương cuối cùng +18%.",
+              "11": "Phóng tổng cộng 7 thanh huyễn kiếm vào tối đa 3 mục tiêu phía trước trong 55 yard; miễn trừ Sức mạnh bất lợi, kèm [Chậm chạp] 3 hiệp, sát thương cuối cùng +18%.",
+              "12": "Phóng tổng cộng 7 thanh huyễn kiếm vào tối đa 3 mục tiêu phía trước trong 60 yard; miễn trừ cực khó, nếu một lần tấn công trúng đòn sẽ khiến giáp mục tiêu bị ăn mòn và phát sinh suy yếu, sát thương cuối cùng +22%.",
+              "13": "Phóng tổng cộng 8 thanh huyễn kiếm vào nhiều mục tiêu phía trước trong 60 yard; kèm suy yếu giáp và [Chậm chạp] 3 hiệp, sát thương cuối cùng +22%.",
+              "14": "Phóng tổng cộng 8 thanh huyễn kiếm vào nhiều mục tiêu phía trước trong 70 yard; khiến mục tiêu mang [Phân tích] bị ngắt nhịp cưỡng chế trong thời gian ngắn, sát thương cuối cùng +25%.",
+              "15": "Giáng xuống cơn mưa dữ dội gồm tối đa 10 thanh huyễn kiếm lên toàn bộ mục tiêu phía trước trong 80 yard; bất kể trạng thái của chúng, cưỡng chế đặt miễn trừ Thể chất vào bất lợi và kích hoạt lùi vị trí sau khi bị đánh trúng. Nếu mục tiêu mang [Phân tích], kỹ năng này gây sát thương cuối cùng +30% lên mục tiêu đó."
+            },
+            "阶位": "Cơ bản"
+          },
+          {
+            "名称": "Ma thuật cường hóa",
+            "类型": "Đặc biệt",
+            "描述": "Rót ma lực mật độ cực cao vào vũ khí chỉ định, tạm thời cường hóa độ cứng kết cấu và hiệu năng đả kích của người nhận phép.",
+            "特殊效果": {
+              "1": "Ban trạng thái [Cường hóa ma thuật] cho một đồng minh trong phạm vi chạm, kéo dài 2 hiệp; trong thời gian đó, kiểm định Sức mạnh và Nhanh nhẹn có lợi thế, sát thương cuối cùng của kỹ năng +3%.",
+              "2": "Ban trạng thái [Cường hóa ma thuật] cho một đồng minh trong phạm vi chạm, kéo dài 2 hiệp; kiểm định Sức mạnh và Nhanh nhẹn có lợi thế, đòn tấn công có thêm xuyên kháng vật lý +5, sát thương cuối cùng của kỹ năng +5%.",
+              "3": "Ban trạng thái [Cường hóa ma thuật] cho một đồng minh trong 10 yard quanh bản thân, kéo dài 3 hiệp; kiểm định Sức mạnh và Nhanh nhẹn có lợi thế, xuyên kháng vật lý +5, sát thương cuối cùng +5%.",
+              "4": "Ban trạng thái [Cường hóa ma thuật] cho một đồng minh trong 10 yard quanh bản thân, kéo dài 3 hiệp; có lợi thế kiểm định, xuyên kháng vật lý +10, sát thương cuối cùng +8%.",
+              "5": "Ban trạng thái [Cường hóa ma thuật] cho tối đa 2 đồng minh trong 15 yard quanh bản thân, kéo dài 3 hiệp; lợi thế kiểm định, xuyên kháng vật lý +10, sát thương cuối cùng +8%.",
+              "6": "Ban trạng thái [Cường hóa ma thuật] cho tối đa 2 đồng minh trong 15 yard quanh bản thân, kéo dài 4 hiệp; lợi thế kiểm định, xuyên kháng vật lý +10, khi bị đánh nhận AC tạm thời +1, sát thương cuối cùng +10%.",
+              "7": "Ban trạng thái [Cường hóa ma thuật] cho tối đa 2 đồng minh trong 20 yard quanh bản thân, kéo dài 4 hiệp; lợi thế kiểm định, xuyên kháng vật lý +15, AC tạm thời +1, sát thương cuối cùng +10%.",
+              "8": "Ban trạng thái [Cường hóa ma thuật] cho tối đa 3 đồng minh trong 20 yard quanh bản thân, kéo dài 4 hiệp; lợi thế kiểm định, xuyên kháng vật lý +15, AC tạm thời +1, sát thương cuối cùng +12%.",
+              "9": "Ban trạng thái [Cường hóa ma thuật] cho tối đa 3 đồng minh trong 25 yard quanh bản thân, kéo dài 5 hiệp; lợi thế kiểm định, xuyên kháng vật lý +15, AC tạm thời +2, sát thương cuối cùng +12%.",
+              "10": "Ban trạng thái [Cường hóa ma thuật] cho tối đa 3 đồng minh trong 25 yard quanh bản thân, kéo dài 5 hiệp; lợi thế kiểm định, xuyên kháng vật lý +20, AC tạm thời +2, sát thương cuối cùng +15%.",
+              "11": "Ban trạng thái [Cường hóa ma thuật] cho tối đa 4 đồng minh trong 30 yard quanh bản thân, kéo dài 5 hiệp; lợi thế kiểm định, xuyên kháng vật lý +20, AC tạm thời +2, sát thương cuối cùng +15%.",
+              "12": "Ban trạng thái [Cường hóa ma thuật] cho tối đa 4 đồng minh trong 30 yard quanh bản thân, kéo dài 6 hiệp; lợi thế kiểm định, xuyên kháng vật lý +25, AC tạm thời +3, sát thương cuối cùng +18%.",
+              "13": "Ban trạng thái [Cường hóa ma thuật] cho tối đa 4 đồng minh trong 35 yard quanh bản thân, kéo dài 6 hiệp; lợi thế kiểm định, ngưỡng bạo kích -1 (19-20), xuyên thấu +25, AC tạm thời +3, sát thương cuối cùng +18%.",
+              "14": "Ban trạng thái [Cường hóa ma thuật] cho tối đa 5 đồng minh trong 35 yard quanh bản thân, kéo dài 6 hiệp; lợi thế kiểm định, ngưỡng bạo kích -2 (18-20), xuyên thấu +25, AC tạm thời +3, sát thương cuối cùng +20%.",
+              "15": "Ban trạng thái [Cường hóa ma thuật] cho toàn bộ đồng minh trong 40 yard quanh bản thân, kéo dài 7 hiệp; cung cấp lợi thế cho mọi kiểm định liên quan tới thuộc tính và ngưỡng bạo kích -2, xuyên kháng vật lý lẫn pháp thuật đều tăng 30 điểm, khi bị tấn công luôn có AC tạm thời +5, sát thương cuối cùng +25%."
+            },
+            "阶位": "Cơ bản"
+          },
+          {
+            "名称": "Phân tích kết cấu",
+            "类型": "Đặc biệt",
+            "描述": "Dùng ánh mắt để bắt giữ vật chất và khái niệm cốt lõi của mục tiêu, tìm sơ hở chí mạng cho các đòn chiếu ảnh sau đó.",
+            "特殊效果": {
+              "1": "Chỉ định một mục tiêu trong 30 yard để tiến hành kiểm định đối kháng Trí lực; nếu thành công, đặt lên mục tiêu 1 tầng [Phân tích] kéo dài 2 hiệp, tối đa 3 tầng. Khi phe ta tấn công mục tiêu mang [Phân tích], kiểm định trúng đòn cận chiến và tầm xa +1.",
+              "2": "Chỉ định một mục tiêu trong 35 yard để tiến hành kiểm định đối kháng Trí lực; nếu thành công, đặt lên mục tiêu 1 tầng [Phân tích] kéo dài 2 hiệp, tối đa 3 tầng. Khi tấn công mục tiêu mang [Phân tích], kiểm định trúng đòn +2, kiểm định miễn trừ Nhanh nhẹn của mục tiêu -1.",
+              "3": "Chỉ định một mục tiêu trong 35 yard để tiến hành kiểm định đối kháng Trí lực; nếu thành công, đặt lên mục tiêu 1 tầng [Phân tích] kéo dài 3 hiệp, tối đa 3 tầng. Kiểm định trúng đòn +2, kiểm định miễn trừ Nhanh nhẹn của mục tiêu -2.",
+              "4": "Chỉ định một mục tiêu trong 40 yard để tiến hành kiểm định đối kháng Trí lực; nếu thành công, đặt lên mục tiêu 1 tầng [Phân tích] kéo dài 3 hiệp, giới hạn 3 tầng. Kiểm định trúng đòn +3, kiểm định miễn trừ Nhanh nhẹn của mục tiêu -2.",
+              "5": "Chỉ định một mục tiêu trong 40 yard để tiến hành kiểm định đối kháng Trí lực; nếu thành công, đặt lên mục tiêu 1 tầng [Phân tích] kéo dài 3 hiệp, giới hạn 4 tầng. Kiểm định trúng đòn +3, mọi kiểm định miễn trừ của mục tiêu -2.",
+              "6": "Chỉ định một mục tiêu trong 45 yard để tiến hành kiểm định đối kháng Trí lực; nếu thành công, đặt 1 tầng [Phân tích] kéo dài 4 hiệp, giới hạn 4 tầng. Kiểm định trúng đòn +4, mọi kiểm định miễn trừ của mục tiêu -2, sát thương cuối cùng của một lần bị đánh +5%.",
+              "7": "Chỉ định một mục tiêu trong 45 yard để tiến hành kiểm định đối kháng Trí lực; nếu thành công, đặt 1 tầng [Phân tích] kéo dài 4 hiệp, giới hạn 4 tầng. Kiểm định trúng đòn +4, mọi kiểm định miễn trừ của mục tiêu -3, sát thương cuối cùng của một lần bị đánh +5%.",
+              "8": "Chỉ định một mục tiêu trong 50 yard và đặt 1 tầng [Phân tích] kéo dài 4 hiệp, giới hạn 4 tầng. Kiểm định trúng đòn +5, mọi kiểm định miễn trừ của mục tiêu -3, sát thương cuối cùng của một lần bị đánh +8%.",
+              "9": "Chỉ định một mục tiêu trong 50 yard và đặt 1 tầng [Phân tích] kéo dài 4 hiệp, giới hạn 5 tầng. Kiểm định trúng đòn +5, kiểm định miễn trừ -3, sát thương cuối cùng khi mục tiêu bị đánh +10%.",
+              "10": "Chỉ định một mục tiêu trong 55 yard và đặt 1 tầng [Phân tích] kéo dài 5 hiệp, giới hạn 5 tầng. Kiểm định trúng đòn +6, kiểm định miễn trừ -3, sát thương cuối cùng khi bị đánh +10%.",
+              "11": "Chỉ định một mục tiêu trong 55 yard và đặt 1 tầng [Phân tích] kéo dài 5 hiệp, giới hạn 5 tầng. Kiểm định trúng đòn +6, kiểm định miễn trừ -4, sát thương cuối cùng khi bị đánh +12%.",
+              "12": "Chỉ định một mục tiêu trong 60 yard và đặt 1 tầng [Phân tích] kéo dài 5 hiệp, giới hạn 5 tầng. Kiểm định trúng đòn +7, kiểm định miễn trừ -4, sát thương cuối cùng khi bị đánh +12%.",
+              "13": "Chỉ định một mục tiêu trong 60 yard và đặt 1 tầng [Phân tích] kéo dài 6 hiệp, giới hạn 5 tầng. Kiểm định trúng đòn +7, kiểm định miễn trừ -5, sát thương cuối cùng khi bị đánh +15%.",
+              "14": "Chỉ định một mục tiêu trong 65 yard và đặt 1 tầng [Phân tích] kéo dài 6 hiệp, giới hạn 5 tầng. Kiểm định trúng đòn +8, kiểm định miễn trừ -5, ngưỡng bạo kích -1 (19-20), sát thương cuối cùng +15%.",
+              "15": "Chỉ định một mục tiêu trong 70 yard và đặt 1 tầng [Phân tích] kéo dài 7 hiệp, giới hạn 5 tầng. Kiểm định trúng đòn +10, kiểm định miễn trừ -6, ngưỡng bạo kích -1 (19-20), sát thương cuối cùng +20%."
+            },
+            "阶位": "Cơ bản"
+          }
+        ],
+        "转职": [
+          {
+            "名称": "Chiếu ảnh: Kanshou · Bakuya",
+            "类型": "Chủ động",
+            "描述": "Chiếu ảnh cặp song kiếm âm dương mang khái niệm hút nhau, dùng tốc độ cực cao để thực hiện vũ điệu cận chiến dịch chuyển hoa mắt.",
+            "特殊效果": {
+              "1": "Lao 5 yard về phía trước và thực hiện hai nhát chém; nhát cuối đẩy lùi mục tiêu 2 yard, kèm dấu ấn [Dẫn lực âm dương] 1 hiệp.",
+              "2": "Lao 8 yard về phía trước và thực hiện hai nhát chém; đẩy lùi 3 yard, kèm dấu ấn [Dẫn lực âm dương] 1 hiệp, sát thương cuối cùng lần này +3%.",
+              "3": "Lao 8 yard về phía trước và thực hiện ba nhát chém; đẩy lùi 3 yard, kèm dấu ấn [Dẫn lực âm dương] 1 hiệp, sát thương cuối cùng +3%.",
+              "4": "Lao 10 yard về phía trước và thực hiện ba nhát chém; đẩy lùi 4 yard, khiến miễn trừ Sức mạnh của mục tiêu bị giảm, kèm dấu ấn [Dẫn lực âm dương] 2 hiệp, sát thương cuối cùng +5%.",
+              "5": "Lao 10 yard về phía trước và thực hiện bốn nhát chém; đẩy lùi 4 yard, khiến miễn trừ Sức mạnh của mục tiêu bị giảm, kèm dấu ấn [Dẫn lực âm dương] 2 hiệp, sát thương cuối cùng +5%.",
+              "6": "Lao 15 yard về phía trước và thực hiện bốn nhát chém; đẩy lùi 5 yard, trong lúc loạn vũ bản thân AC+1, kèm [Dẫn lực âm dương] 2 hiệp, sát thương cuối cùng +8%.",
+              "7": "Lao 15 yard về phía trước và thực hiện bốn nhát chém; đẩy lùi 5 yard, trong lúc loạn vũ bản thân AC+1, kèm [Dẫn lực âm dương] 3 hiệp, sát thương cuối cùng +8%.",
+              "8": "Lao 20 yard về phía trước và thực hiện năm nhát chém; đẩy lùi 6 yard, bản thân AC+2, kèm [Dẫn lực âm dương] 3 hiệp, sát thương cuối cùng +10%.",
+              "9": "Lao 20 yard về phía trước và thực hiện năm nhát chém; với kẻ địch mang dấu ấn, cung cấp số đoạn khóa truy đuổi chắc chắn, bản thân AC+2, sát thương cuối cùng +12%.",
+              "10": "Lao 25 yard về phía trước và thực hiện năm nhát chém; hiệu quả truy đuổi tăng, đẩy lùi 7 yard, bản thân AC+2, mục tiêu mang dấu ấn [Dẫn lực âm dương] 3 hiệp, sát thương cuối cùng +15%.",
+              "11": "Lao 25 yard về phía trước và thực hiện sáu nhát chém; số đoạn truy đuổi có thể vượt qua địa hình thấp, bản thân AC+2, kèm dấu ấn 3 hiệp, sát thương cuối cùng +18%.",
+              "12": "Lao 30 yard về phía trước và thực hiện sáu nhát chém; đẩy lùi 8 yard rồi hút mục tiêu về điểm trung tâm, bản thân AC+3, kèm [Dẫn lực âm dương] 4 hiệp, sát thương cuối cùng +20%.",
+              "13": "Lao 30 yard về phía trước và thực hiện bảy nhát chém; hoàn toàn bỏ qua tấn công mượn cơ hội của kẻ địch xung quanh, đẩy lùi 8 yard, kèm dấu ấn dẫn lực 4 hiệp, sát thương cuối cùng +22%.",
+              "14": "Lao 35 yard về phía trước và thực hiện bảy nhát chém; trong lúc chém miễn dịch hiệu ứng khống chế thông thường, đẩy lùi 9 yard, kèm thêm chảy máu, sát thương cuối cùng +25%.",
+              "15": "Vượt qua phạm vi 40 yard để tiến hành phán định loạn vũ song kiếm tám đoạn cuồng bạo; trong toàn bộ quá trình thi triển nhận bá thể và miễn dịch nguyên tố cấp thấp. Khi kết thúc, kiếm khí bùng nổ quanh bản thân đẩy bật mọi thứ ra 10 yard, dấu ấn khóa mục tiêu kéo dài tới 5 hiệp, sát thương cuối cùng của kỹ năng tăng lên +30%."
+            },
+            "阶位": "Chuyển nghề"
+          },
+          {
+            "名称": "Chiếu ảnh: Rho Aias bảy lớp",
+            "类型": "Triệu hồi",
+            "描述": "Chiếu ảnh trận vòng bảy cánh hoa ánh sáng từng chặn ngọn giáo ném thần thánh; đây là thần tạo hộ thuẫn mang khái niệm phòng ngự vật phóng cao nhất.",
+            "召唤物名称": "Hệ thống bảy vòng ánh sáng",
+            "特殊效果": {
+              "1": "Triệu hồi trước người 2 yard một trận thể khiên chắn có 2 lớp cánh hoa ánh sáng, kéo dài 1 hiệp; có thể chặn đường đạn từ chính diện, giảm sát thương đi qua bằng 10% sinh mệnh của trận thể. Khi trận thể vỡ, đẩy lùi cực nhẹ khu vực 5 yard phía trước xung quanh.",
+              "2": "Triệu hồi trận thể có 2 lớp cánh hoa ánh sáng, kéo dài 1 hiệp; giảm sát thương 15%, khi vỡ đẩy lùi phía trước 5 yard và cho quân ta lợi thế miễn trừ Sức mạnh.",
+              "3": "Triệu hồi trận thể 3 lớp cánh hoa, kéo dài 2 hiệp; giảm sát thương 15%, khi vỡ đẩy lùi phía trước 5 yard thêm 2 yard, có lợi thế miễn trừ Sức mạnh.",
+              "4": "Triệu hồi trận thể 3 lớp cánh hoa, kéo dài 2 hiệp; giảm sát thương 20%, cưỡng chế đặt bất lợi lên mọi đòn tấn công được phán định là [Phóng chiếu tầm xa], khi vỡ gây sát thương phản chấn và đẩy lùi 3 yard.",
+              "5": "Triệu hồi trận thể 4 lớp cánh hoa, kéo dài 2 hiệp; giảm sát thương 20%, phòng ngự mặt quạt rộng 15 yard, sát thương cuối cùng phản chấn khi vỡ +5%, đẩy lùi 3 yard.",
+              "6": "Triệu hồi trận thể 4 lớp cánh hoa, kéo dài 3 hiệp; giảm sát thương 25%, phòng ngự mặt quạt, có tính chất không thể phá hủy trước vật phóng (AC cực cao), sát thương cuối cùng khi vỡ +8%, đẩy lùi 4 yard.",
+              "7": "Triệu hồi trận thể 4 lớp cánh hoa, kéo dài 3 hiệp; giảm sát thương 25%, khi chịu sát thương nguyên tố thì miễn trừ có lợi thế thông thạo gấp đôi, khi vỡ đẩy lùi 4 yard.",
+              "8": "Triệu hồi trận thể 5 lớp cánh hoa, kéo dài 3 hiệp; giảm sát thương 30%, toàn bộ đơn vị phe ta đứng sau cùng chiến tuyến tránh được lan sát thương phạm vi không chí mạng, sát thương cuối cùng phản chấn khi vỡ +10%.",
+              "9": "Triệu hồi trận thể 5 lớp cánh hoa, kéo dài 3 hiệp; giảm sát thương 30%, trong thời gian khiên mở, kẻ địch chạm vào sẽ bị cưỡng chế mù, sát thương phản kích khi vỡ +12%.",
+              "10": "Triệu hồi trận thể 6 lớp cánh hoa, kéo dài 4 hiệp; giảm 35% mọi sát thương đi xuyên qua khiên, đồng thời kèm một lớp màn sinh mệnh tạm thời hấp thu phần sát thương tràn vượt khả năng chịu tải của khiên, phạm vi đẩy lùi mở rộng tới 15 yard.",
+              "11": "Triệu hồi trận thể 6 lớp cánh hoa, kéo dài 4 hiệp; giảm sát thương 35%, ánh sáng hoa tan khiến kẻ địch trong phạm vi 20 yard quanh khiên rơi vào lạc hướng và suy yếu Sức mạnh, sát thương cuối cùng phản chấn +15%.",
+              "12": "Triệu hồi trận thể 6 lớp cánh hoa, kéo dài 4 hiệp; giảm sát thương 40%, trước khi vỡ hoàn toàn, trận thể có thể hấp thu một lần hiệu ứng tức tử vốn không thể ngăn cản, cho người thi pháp phản ứng thoát thân.",
+              "13": "Triệu hồi trận thể 7 lớp cánh hoa, kéo dài 5 hiệp; giảm sát thương 40%, không chỉ cung cấp phòng ngự chính diện tuyệt đối mà ánh sáng trận liệt phóng ra còn chữa trị một phần nhỏ thương thế cho đồng minh bên trong.",
+              "14": "Triệu hồi trận thể 7 lớp cánh hoa, kéo dài 5 hiệp; giảm sát thương 45%, khi vỡ hóa thành bụi sáng đầy trời, tạo sóng xung kích gây mù phía trước 30 yard, kèm chấn kích dữ dội trong 10 yard và tăng sát thương +25%.",
+              "15": "Bảy lớp cánh hoa thần tạo được tái hiện hoàn mỹ có thể triển khai trận thể kết giới tuyệt đối rộng tới 40 yard và tồn tại trọn 6 hiệp; chặn và giảm tới 50% mọi sát thương thuộc tính lẫn thần thánh. Khoảnh khắc trận thể hoàn toàn tan vỡ, vụ phản chấn cấp thần thoại sẽ nghiền nát toàn bộ mục tiêu phía trước không có khiên, khiến chúng thất bại miễn trừ Thể chất không thể cứu vãn và chịu phán định đánh ngã tuyệt đối, kèm tăng sát thương tối thượng +35%."
+            },
+            "阶位": "Chuyển nghề"
+          },
+          {
+            "名称": "Dung hợp tính chất",
+            "类型": "Đặc biệt nghề nghiệp",
+            "描述": "Tận dụng đặc tính đồng điệu của【Chiếu ảnh】để cưỡng ép trộn khái niệm bảo cụ cao cấp đã biết vào võ kỹ chiếu ảnh thông thường.",
+            "特殊效果": {
+              "1": "Bị động nhận ô [Tích năng dung hợp] (giới hạn 3 lần, đầu mỗi hiệp tự động hồi 1 lần). Khi phóng thích bất kỳ kỹ năng tấn công có bậc là [Chủ động], [Triệu hồi] hoặc [Thức tỉnh], có thể chủ động tiêu hao 1 lần tích năng để cưỡng chế chọn kèm một trong các khái niệm sau: phán định [Gai chết tất trúng]: đòn này hoàn toàn bỏ qua AC hộ thuẫn của mục tiêu, khiến miễn trừ Nhanh nhẹn và né tránh của mục tiêu rơi vào bất lợi vĩnh viễn; phán định [Xoắn ốc xuyên phá]: đòn này nhận 30 điểm xuyên thấu cao, đồng thời kèm [Kết cấu vỡ nát] với mục tiêu có cơ chế phòng ngự vật lý để tăng sát thương cho đòn kế tiếp; phán định [Chuỗi sụp đổ]: cưỡng ép tạo vụ nổ phối hợp quanh điểm mục tiêu hoặc quanh trận thể, mỗi đơn vị tăng thêm quanh mục tiêu trúng đòn sẽ cộng thêm 5% tăng sát thương cuối cùng vụ nổ phạm vi."
+            },
+            "阶位": "Chuyển nghề"
+          }
+        ],
+        "进阶": [
+          {
+            "名称": "Giả · Kiếm xoắn ốc",
+            "类型": "Chủ động",
+            "描述": "Nén và cải tạo ma kiếm tới cực hạn, biến nó thành một đòn khủng khiếp sinh ra cơn lốc xoắn cấp nghiền nát vạn vật.",
+            "特殊效果": {
+              "1": "Bắn mũi tên xoắn ốc về phía trước 40 yard, bùng phát luồng khí hút dữ dội trong 10 yard gây xé rách; nếu mục tiêu đang ở trong [Dẫn lực âm dương], miễn trừ Thể chất bất lợi, khoảng kéo tụ quái tăng thêm 2 yard, sát thương cuối cùng lần này +10%.",
+              "2": "Tạo luồng gió bão dài 45 yard, phạm vi 12 yard, gây xé rách; mục tiêu đang ở trong [Dẫn lực âm dương] bị kéo thêm 3 yard, kèm ngắt nhịp ngắn, sát thương cuối cùng +15%.",
+              "3": "Tạo luồng khí dài 45 yard, phạm vi 12 yard; mục tiêu mang [Dấu săn đuổi] sẽ kích hoạt thêm 1 lần nổ khí lưu, mục tiêu trong dẫn lực bị kéo sâu hơn, sát thương cuối cùng +18%.",
+              "4": "Tầm bắn khí lưu 50 yard, bão rộng 15 yard; mục tiêu bị hút cưỡng chế thất bại kiểm định Sức mạnh và chịu suy yếu phá giáp 1 hiệp, sát thương cuối cùng +22%.",
+              "5": "Tầm bắn 50 yard, bão trong phạm vi 15 yard; gây vang dội siết giết lần hai, mục tiêu mang cả [Dẫn lực âm dương] và [Dấu săn đuổi] đều kích hoạt nổ dây chuyền, tụ quái và kéo hút 5 yard, sát thương cuối cùng +25%.",
+              "6": "Tầm bắn 60 yard, bão rộng 18 yard; cơn lốc xoắn sinh ra có thể đập vỡ mọi chướng ngại tạm thời mỏng yếu và bình chướng tạo vật ma pháp, giảm kháng Thể chất của địch, sát thương cuối cùng +28%.",
+              "7": "Tầm bắn 60 yard, bão rộng 20 yard; xoáy gió liên tục cắt xé khiến mọi mục tiêu ở điểm trung tâm phải tung kiểm định Thể chất, nếu không sẽ trực tiếp bị treo lơ lửng và trước khi rơi xuống sẽ rơi vào tê liệt vật lý, sát thương cuối cùng +32%.",
+              "8": "Tầm bắn 80 yard, bão rộng 20 yard; kích hoạt mô hình sát thương hai đoạn: co rút cực độ rồi phát tán dữ dội, cưỡng chế cuốn mục tiêu ở xa về vị trí trung đoạn của người thi pháp, lực kéo rất mạnh, sát thương cuối cùng +38%.",
+              "9": "Tầm bắn 80 yard, bão rộng 25 yard; mọi kẻ chưa thoát khỏi khí xoáy lập tức chịu phán quyết giảm một nửa xuyên giáp toàn hướng. Bất kể có dấu ấn hay không, lực kéo tụ quái cực nhanh vượt phạm vi 8 yard, sát thương cuối cùng +45%.",
+              "10": "Bỏ qua sức cản không khí để bắn ra một cơn lốc xoắn diệt tuyệt xuyên thẳng tới 100 yard và bao phủ trọn phạm vi 30 yard; hoàn toàn tái tạo địa hình cục bộ của chiến trường. Mọi nạn nhân trong luồng khí phải chịu cấp phán định cao nhất của xé rách, hút bám và tụ quái. Không chỉ lập tức kích nổ mọi dấu ấn chúng đang mang để gây nổ tuẫn táng lần hai quy mô lớn, kỹ năng này còn được nâng sát thương cuối cùng lên +50% và để lại vết thương phá giáp tuyệt đối giảm 50 điểm AC cơ bản trong 3 hiệp."
+            },
+            "阶位": "Nâng cao"
+          },
+          {
+            "名称": "Tam liên Hạc Dực",
+            "类型": "Chủ động",
+            "描述": "Ném ra ba cặp Kanshou-Bakuya liên tiếp rồi lợi dụng lực hút để xoay vòng trở về, thi triển kiếm trận tất sát liền mạch bằng phòng thủ xen kẽ và trọng trảm liên tục.",
+            "特殊效果": {
+              "1": "Khóa mục tiêu phía trước trong 15 yard và phát động tổng cộng ba đoạn trọng kích; nếu mục tiêu có dấu ấn [Dẫn lực âm dương], cặp song kiếm ném ra chắc chắn gây bạo kích khi quay trở lại ở đoạn thứ hai, sát thương cuối cùng +5%.",
+              "2": "Khóa mục tiêu phía trước trong 15 yard để chém đột phá ba đoạn; ngoài việc [Dẫn lực âm dương] khiến đoạn thứ hai chắc chắn bạo kích, đòn đầu còn tước phản ứng tấn công của mục tiêu và khiến sát thương cuối cùng +10%.",
+              "3": "Khóa mục tiêu phía trước trong 20 yard và phát động ba đoạn chém; đoạn đầu cưỡng chế ngắt thi pháp, đoạn thứ hai chắc chắn bạo kích, sát thương cuối cùng +12%.",
+              "4": "Khóa mục tiêu phía trước trong 20 yard, không chỉ gây ba đoạn chém sâu mà còn lợi dụng đường bay vũ khí để tạo vòng phong tỏa giao nhau; khi đoạn thứ ba phán định sẽ kích hoạt khống chế đánh lùi, sát thương cuối cùng +15%.",
+              "5": "Khóa mục tiêu phía trước trong 25 yard và phát động ba lần xung phong cường kích liên tục có kiếm bay áp chế; trong thời gian đó sát thương tầm xa phải chịu giảm một nửa, ba đoạn chắc chắn đánh trúng mục tiêu đang ở [Dẫn lực âm dương] và gây hất bay, sát thương cuối cùng +20%.",
+              "6": "Khóa mục tiêu phía trước trong 25 yard và nối thêm chém chữ thập phá phòng; đường kiếm phong tỏa khiến kiểm định né tránh của mục tiêu bị chém rơi vào bất lợi cực lớn, nếu mục tiêu mang dấu ấn thì đòn thứ ba chắc chắn gây khựng nặng và hất tung, sát thương cuối cùng +25%.",
+              "7": "Khóa mục tiêu phía trước trong 30 yard để hoàn thành chuỗi ném và thu hồi liên tục không gián đoạn; toàn bộ quá trình ba đoạn cung cấp phán định lợi thế tuyệt đối cho kiểm định Nhanh nhẹn của bản thân, và khi đánh trúng mục tiêu mang dấu ấn sẽ làm mới trạng thái hất bay. Đòn kết thúc nối thêm trọng trảm nổ, sát thương cuối cùng +30%.",
+              "8": "Khóa mục tiêu trong 30 yard và phát động chém; ba cặp song kiếm đen trắng xoay quanh hóa thành kiếm võng khiến mục tiêu bị bao vây dày đặc đến mù mắt, số đoạn chắc chắn bạo kích mở rộng tới mọi điểm giao nhau của đường quay về và đường xung phong, sát thương cuối cùng +35%.",
+              "9": "Liên kích trọng trảm xung kích xuyên 35 yard; chỉ cần mục tiêu nằm trên đường quay về, mục tiêu không có dấu ấn cũng phải chịu miễn trừ phòng thủ trúng đòn cực khó, nếu không đều bị lan trúng. Mục tiêu trung tâm bị hất tung mạnh hơn, sát thương cuối cùng +42%.",
+              "10": "Dùng thuấn bộ áp sát cực nhanh tới 40 yard và thi triển mê cung kiếm vũ vô hình, ba vòng ném kiếm và chém kiếm đan xen rực rỡ. Bất kể phòng tuyến đối thủ kiên cố tới đâu, mọi kẻ mang [Dẫn lực âm dương] không chỉ phải chịu từng con số nhảy liên tiếp chắc chắn bạo kích, mà ở cú chém rơi tối hậu cuối cùng còn bị trọng kích dữ dội không thể trốn thoát đập xuống đất hất bay, kích hoạt [Choáng] hủy diệt trong 2 hiệp. Tổng sát thương cuối cùng cộng dồn từ toàn bộ quy trình phán định được kéo lên mức tối đa +50%."
+            },
+            "阶位": "Nâng cao"
+          },
+          {
+            "名称": "Sụp đổ ảo tưởng",
+            "类型": "Chủ động",
+            "描述": "Cưỡng ép rót ma lực mật độ cực hạn vào bảo cụ được chiếu ảnh, khiến kết cấu của nó sụp đổ ngay khoảnh khắc đánh trúng mục tiêu và bộc phát năng lượng hủy diệt quy mô lớn đầy tính nhắm mục tiêu.",
+            "特殊效果": {
+              "1": "Khóa 1 mục tiêu trong 30 yard và bắn bảo cụ sắp sụp đổ, khi trúng sẽ gây vụ nổ bán kính 10 yard; nếu mục tiêu mang trạng thái [Phân tích], phán định kích nổ sẽ tiêu hao 1 tầng Phân tích, khiến vụ nổ này có sát thương cuối cùng +5%.",
+              "2": "Khóa 1 mục tiêu trong 35 yard và bắn bảo cụ sắp sụp đổ, gây vụ nổ bán kính 12 yard; khi tiêu hao 1 tầng [Phân tích], vụ nổ này có sát thương cuối cùng +8% và khiến kẻ địch ở rìa phạm vi nổ chịu miễn trừ Sức mạnh bất lợi.",
+              "3": "Khóa 1 mục tiêu trong 35 yard và bắn bảo cụ sắp sụp đổ, khi trúng gây vụ nổ dây chuyền thứ cấp bán kính 12 yard; tiêu hao 1 tầng [Phân tích] để sát thương cuối cùng +10% và khiến mục tiêu bị điếc tạm thời.",
+              "4": "Khóa 1 mục tiêu trong 40 yard và bắn bảo cụ sụp đổ, khi trúng gây vụ nổ mạnh bán kính 15 yard; nếu mục tiêu đồng thời đang chịu ảnh hưởng [Dẫn lực âm dương], vụ nổ sẽ tự động truy theo trung tâm dẫn lực để co rút rồi bùng phát. Tiêu hao 1 tầng [Phân tích] giúp sát thương cuối cùng +15%.",
+              "5": "Khóa 1 mục tiêu trong 40 yard và bắn bảo cụ sụp đổ, khi trúng gây vụ nổ mạnh bán kính 15 yard; việc truy theo trung tâm dẫn lực để co rút bùng phát sẽ gây chấn động không gian lần hai, tiêu hao Phân tích để sát thương cuối cùng +18%.",
+              "6": "Khóa 1 mục tiêu trong 45 yard và bắn bảo cụ sụp đổ, khi trúng gây vụ nổ siêu mạnh bán kính 18 yard; kẻ địch ở khu trung tâm kích nổ phải tiến hành miễn trừ Thể chất, nếu không sẽ bị cưỡng chế hất bay rồi nện ngã nặng nề. Tiêu hao Phân tích giúp sát thương cuối cùng +20%.",
+              "7": "Khóa 1 mục tiêu trong 45 yard và bắn bảo cụ sụp đổ, gây vụ nổ siêu mạnh bán kính 20 yard; thời gian hất bay lơ lửng kéo dài hơn, mục tiêu đang bị [Chậm chạp] sẽ chịu hiệu ứng hòa tan giáp. Tiêu hao Phân tích giúp sát thương cuối cùng +25%.",
+              "8": "Khóa tối đa 2 mục tiêu trong 50 yard và đồng thời bắn bảo cụ sụp đổ; nếu hai vùng nổ bán kính 20 yard giao nhau, sẽ sinh ra khe nứt tuẫn nổ. Mục tiêu chính rơi vào tuẫn nổ không thể thi triển bất kỳ ma pháp nào trong hiệp đó, tiêu hao Phân tích giúp sát thương cuối cùng +30%.",
+              "9": "Khóa tối đa 2 mục tiêu trong 50 yard và đồng thời bắn bảo cụ sụp đổ; khe nứt tuẫn nổ phạm vi lớn trực tiếp tước khiên tạm thời và tăng ích của địch, tiêu hao Phân tích khiến sát thương cuối cùng của vụ nổ và tuẫn nổ +35%.",
+              "10": "Bất chấp cái giá phải trả, phóng những bảo cụ sụp đổ cấp hủy diệt hoàn toàn vào tối đa 3 mục tiêu trong 60 yard, cuốn lên bão ma lực thuần túy tại nhiều điểm trên vùng rộng bán kính 25 yard. Chỉ cần mục tiêu có [Phân tích] hoặc bất kỳ dấu ấn dẫn lực tụ quái nào, vụ kích nổ không chỉ chuyển hóa toàn bộ dấu ấn thành sụp đổ chân không phạm vi lớn để gây [Choáng] quần thể kéo dài, mà còn đẩy sát thương cuối cùng của cơn bão xóa sổ này lên +45%."
+            },
+            "阶位": "Nâng cao"
+          }
+        ],
+        "必杀": [
+          {
+            "名称": "Xạ Sát Bách Đầu",
+            "类型": "Chủ động",
+            "描述": "Tuyệt kỹ được chiếu ảnh dựa trên truyền thuyết Heracles, hóa thành cung lớn hoặc siêu trọng kiếm để trong khoảnh khắc đồng thời đánh ra chín chùm sáng hoặc nhát chém, tiêu diệt kẻ địch có đặc tính hồi sinh hoặc quần thể.",
+            "特殊效果": {
+              "1": "Khóa một kẻ địch phía trước đang có trạng thái [Choáng] hoặc [Phân tích], liên tục cực nhanh thực hiện chín lần bắn/chém tàn khốc với phán định độc lập; ngưỡng bạo kích của mỗi lần phán định -1 và có thiên hướng tăng tỷ lệ bạo kích, mỗi đòn tăng sát thương cuối cùng 3%.",
+              "2": "Khóa mục tiêu để tiến hành chín liên kích; với đơn vị đã bị choáng, ngưỡng bạo kích của chín lần phán định giảm -2 (18-20), mỗi phán định cộng dồn thêm 5% tăng sát thương cuối cùng đơn đoạn.",
+              "3": "Tái hiện chín lần phán phạt thần thoại đan xen tấn công; với mục tiêu bị Phân tích, ngưỡng bạo kích -2. Nếu toàn bộ các đoạn đều trúng mục tiêu, sẽ gây khựng hất bay mạnh khiến mục tiêu không thể cử động, mỗi đoạn phán định tăng sát thương 6%.",
+              "4": "Chín tia chớp xuyên kích liên hoàn dồn vào một thân; ngưỡng bạo kích của mỗi lần phán định -3 (17-20), áp chế toàn bộ kháng tính của mục tiêu có đặc tính hồi phục, tăng sát thương đơn đoạn đạt 8%.",
+              "5": "Thi triển trận xử quyết chín lớp kín không kẽ hở; ngưỡng bạo kích -3, đồng thời mọi quái vật trước đó từng bị đặt các loại dấu ấn suy yếu đều bị ngắt nhịp chí mạng và mất sức phản công, mỗi lần cung cấp +10% tăng sát thương cuối cùng cưỡng chế.",
+              "6": "Chín đầu rồng lóe sáng xuyên phá như bão tố; ngưỡng bạo kích không chỉ giảm mà mỗi đòn còn kéo theo tầng suy yếu cộng dồn cho tới khi đánh ngã. Nếu cả chín đòn đều trúng, cưỡng chế đặt trạng thái [Suy yếu] kéo dài 2 hiệp, tăng sát thương từng đoạn +12%.",
+              "7": "Diễn dịch thần quang chín liên phát tối thượng của truyền thuyết đồ long, không chỉ áp chế chí mạng thủ lĩnh đơn lẻ mà còn hóa thành chín quang long khổng lồ nuốt trọn cả đường đi. Chỉ cần bắt được vật tế xui xẻo mang [Choáng] hoặc [Phân tích] cực sâu, mỗi lần trong chín kiểm định đều tự mang quyền bạo kích nghiền nát mọi lợi thế né tránh, gây trọng thương trời sập không thể đảo ngược, hoàn thành xử quyết cuồng bạo. Sau chín lần đánh như sấm giáng kết thúc, chắc chắn 100% đặt hiệu ứng xóa sạch toàn kháng và [Suy yếu] hoàn toàn trong 3 hiệp. Chuỗi chín đoạn thu hoạch không thể ngăn cản này khiến sát thương phẫn nộ cuối cùng kèm theo mỗi đoạn bùng tăng tới +15%."
+            },
+            "阶位": "Tất sát"
+          },
+          {
+            "名称": "Kiếm chế đã mất",
+            "类型": "Chủ động",
+            "描述": "Đảo ngược nguyên lý của Vô Hạn Kiếm Chế vốn phải mở rộng ra ngoài, nén cực độ theo dạng mũi tên rồi đưa vào trong cơ thể mục tiêu, phóng thích vụ nổ liên hoàn chí mạng nuốt chửng kết cấu bên trong.",
+            "特殊效果": {
+              "1": "Phát động truy sát kết liễu lên mục tiêu mang ít nhất 1 tầng [Phân tích], kích nổ nội tạng hoặc khung máy bên trong; tiêu hao hoàn toàn mọi tầng [Phân tích], mỗi tầng bị nuốt khiến sát thương cuối cùng của vụ nổ lõi này +10%, kèm phán định xuyên giáp vật lý bỏ qua chuẩn giáp của mục tiêu.",
+              "2": "Xử quyết nội thể đơn mục tiêu tối hậu; mỗi tầng [Phân tích] bị kích nổ giúp nhận thưởng sát thương cuối cùng +12%, năng lượng bùng phát bên trong còn khiến vật chủ chịu bất lợi Nhanh nhẹn trong hiệp kế tiếp.",
+              "3": "Oanh tạc ma biến xâm nhập gây nổ sập từ bên trong; mỗi tầng [Phân tích] được chuyển hóa sẽ đổi thành sát thương cuối cùng +15%, đồng thời mục tiêu rơi vào bất lợi toàn diện với phán định Nhanh nhẹn và Sức mạnh.",
+              "4": "Nén không gian tâm tượng để gây trương nở dữ dội bên trong cơ thể; mỗi tầng [Phân tích] bị nuốt cho sát thương cuối cùng +18%, dòng ma lực hỗn loạn bên trong khiến mục tiêu xuất huyết nội tại ngay tại chỗ và gây hiệu ứng trọng thương mất máu dài hạn.",
+              "5": "Nút thắt khái niệm khiến máu thịt, thậm chí cả vật liệu kim loại, bị hóa lỏng hoàn toàn; mỗi tầng [Phân tích] bị thanh không cung cấp +20% tăng sát thương cuối cùng, sau đó mọi kiểm định thuộc tính của mục tiêu bị cưỡng chế hạ thấp và bình chướng phòng ngự của nó không còn tồn tại.",
+              "6": "Kích nổ nhân quả đảo ngược tuyệt đối tàn nhẫn, đốt cháy toàn bộ kết giới binh trang trong cơ thể mục tiêu; mỗi tầng [Phân tích] bị chuyển hóa và châm cháy cung cấp mức tăng sát thương cuối cùng bùng nổ +22%. Kiểu phá hủy từ trong ra ngoài này bỏ qua cả kháng phòng bên ngoài tưởng như tối cao, cưỡng chế đặt sụp đổ Thể chất độ khó cực cao.",
+              "7": "Như quyền năng thần uy tối đen nhét cả thế giới vào đầu kim rồi đẩy vào yết hầu để xử quyết. Khoảnh khắc bắn vào thân thể, nó khóa định án vô hạn và bùng ra hàng trăm hàng ngàn thanh kiếm thép ngược gai xuyên phá, căng rách mục tiêu hoàn toàn từ trong ra ngoài. Bằng cách thiêu rụi toàn bộ dấu ấn [Phân tích] mà mục tiêu đang gánh, đòn này thực hiện xóa sổ chung cuộc; mỗi tầng Phân tích bị đốt đều phản hồi cho cuộc xử quyết kinh thế này sát thương hủy diệt tối thượng tới +25%. Đồng thời mục tiêu bị ăn mòn từ bên trong không chỉ bị cưỡng chế đóng đinh mọi thuộc tính vào địa ngục bất lợi tuyệt đối sâu nặng nhất, mà còn bị khắc ấn [Hoại tử vĩnh hằng] kéo dài 5 vòng luân chuyển, không thể hồi phục sinh mệnh và cũng không thể mượn trang bị để miễn trừ."
+            },
+            "阶位": "Tất sát"
+          },
+          {
+            "名称": "Vô Hạn Kiếm Chế",
+            "类型": "Đặc biệt",
+            "描述": "Cụ hiện thế giới tâm tượng của bản thân trong phạm vi nhỏ và thời gian ngắn, dùng ma lực viết lại rồi phủ lên hiện thực xung quanh, triển khai lĩnh vực kết giới pháp thuật đầy vô số kiếm trận tuyệt sát.",
+            "特殊效果": {
+              "1": "Tiêu hao ma lực cực cao để triển khai [Kết giới cố hữu] ngắn hạn bán kính 20 yard quanh bản thân, kéo dài 2 hiệp; mọi phán định tấn công bằng vũ khí cận chiến hoặc tầm xa trong kết giới đều nhận 1 lần bù trừ ưu thế cho kiểm định trúng đòn (tung hai xúc xắc lấy cao), phe ta trong kết giới thi triển kỹ năng chủ động có sát thương cuối cùng +5%.",
+              "2": "Triển khai [Kết giới cố hữu] ngắn hạn bán kính 25 yard, kéo dài 2 hiệp; cung cấp 1 lần bù trừ lợi thế cho kiểm định trúng đòn, khoảnh khắc kết giới mở sẽ dùng kiếm khóa tự động áp chế kẻ địch trong phạm vi khiến kiểm định Nhanh nhẹn của chúng -1, sát thương cuối cùng của phe ta +8%.",
+              "3": "Triển khai [Kết giới cố hữu] bán kính 25 yard, kéo dài 3 hiệp; cung cấp lợi thế kiểm định trúng đòn, kiểm định Nhanh nhẹn của địch -2, toàn bộ đơn vị phe ta ở trong kết giới trực tiếp nhận xuyên kháng vật lý +10, kỹ năng chủ động có sát thương cuối cùng +12%.",
+              "4": "Triển khai [Kết giới cố hữu] bán kính 30 yard, kéo dài 3 hiệp; cung cấp lợi thế kiểm định trúng đòn, kiểm định Nhanh nhẹn của địch -2, đồng minh xuyên kháng +15, mỗi lần kẻ địch cưỡng ép dịch chuyển trong kết giới đều phải chịu sát thương mất máu liên tục do kiếm khí cắt xước rất nhỏ, sát thương cuối cùng của phe ta +15%.",
+              "5": "Triển khai [Kết giới cố hữu] bán kính 30 yard, kéo dài 4 hiệp; cung cấp lợi thế trúng đòn và xuyên kháng +20, kiếm phong lạnh buốt và sắc bén áp chế chiến trường khiến kiểm định Nhanh nhẹn và Sức mạnh của địch đều -2, di chuyển của địch bị trì trệ cực mạnh, sát thương cuối cùng của phe ta +18%.",
+              "6": "Triển khai [Kết giới cố hữu] bán kính 35 yard, kéo dài 4 hiệp; kiếm khí lơ lửng trong trận khiến pháp sư phe địch bị kẹp vây có nguy cơ chịu cưỡng chế ngắt thi pháp, toàn quân phe ta phản ứng bạo kích nhạy bén hơn khiến ngưỡng bạo kích cưỡng chế -1 (19-20), toàn bộ kỹ năng chủ động có sát thương cuối cùng +22%.",
+              "7": "Dốc toàn bộ ma lực cưỡng ép đoạt lấy khái niệm địa hình, cụ hiện [Kết giới cố hữu] áp đảo rộng tới 40 yard và lưu lại 5 hiệp; bên trong kết giới hoàn toàn được viết lại thành sân nhà vô địch của người thi pháp. Mọi kẻ địch ở trong đó không chỉ rơi vào kiểm định Nhanh nhẹn và Sức mạnh bất lợi sâu nhất, chịu uy áp im lặng thi pháp thường trực không thể giải trừ, mà toàn bộ đồng minh trong kết giới còn được thần uy che chở để có ngưỡng bạo kích -2 và 30 điểm xuyên song kháng rất cao. Mọi đòn chủ động tuyệt sát của phe ta trong lãnh vực này được nâng sát thương cuối cùng vô điều kiện lên +30%."
+            },
+            "阶位": "Tất sát"
+          }
+        ],
+        "奥义": [
+          {
+            "名称": "Chiếu ảnh: Kiếm Đá Quý",
+            "类型": "Chủ động",
+            "描述": "Chiếu ảnh lễ trang giới hạn thuộc sở hữu của Đệ Nhị Ma Pháp Sứ, mượn danh Zelretch để trực tiếp nạy động đứt gãy không gian song song, mang đến ma lực vĩnh động và kiếm áp chém rách thứ nguyên.",
+            "特殊效果": {
+              "1": "Vung kiếm cắt rách không gian trong 15 yard quanh bản thân, cưỡng chế tạo [Đứt gãy không gian] đầy loạn lưu kéo dài 1 hiệp; mọi kẻ địch trong đứt gãy tự động chịu miễn trừ Nhanh nhẹn bất lợi và khổ sở vì dịch chuyển. Do phản ứng truy kích từ mặt gương không gian, trong cửa sổ ngắn này mọi kỹ năng do phe ta phát động đều được hưởng thêm một lần phán định cắt đứt gãy nối đòn, sát thương cuối cùng của kỹ năng +10%.",
+              "2": "Phạm vi cắt đứt mở rộng tới 20 yard và tạo [Đứt gãy không gian] đa lăng kính tồn tại 2 hiệp; kẻ địch bị kẹt trong trận gặp chậm chạp giảm tốc, đồng thời không chỉ cung cấp thủ đoạn truy kích kết liễu mà còn khiến kiểm định tấn công của bản thân tạm thời có lợi thế sau khi phóng thích kiếm chiêu này, sát thương cuối cùng +15%.",
+              "3": "Khe nứt không gian mở rộng tới 25 yard và tồn tại 2 hiệp; mọi đơn vị ở trong mặt cắt giao nhau đều bị cưỡng chế chặn ma lực, toàn bộ hành động tấn công chủ quan của phe ta theo đó được hưởng nhát chém cắt đứt gãy bạo tẩu đoạn hai phản xạ từ mặt gương, sát thương cuối cùng nhận cường kích +20%.",
+              "4": "Lãnh vực bị chém mở kéo dài tới 35 yard, sinh ra sức nghiến ép vũ trụ song song trong 3 hiệp; bất kỳ đối thủ nào mưu toan phát động ma pháp hoặc kỹ năng trong ma trận khe nứt đều trực tiếp nuốt đau đớn phản chấn cao, đồng thời bị bóc bỏ lượng lớn AC kháng phòng, sát thương cuối cùng nhận mức +25% rất cao.",
+              "5": "Trút vô hạn ma lực và không gian song song gấp nếp vào trung tâm chiến trường một cách bất chấp để kích nổ dị tượng toàn cảnh tan vỡ rộng tới 45 yard, trường tồn 3 hiệp. Mọi kẻ địch bị kẹt trong vực sâu không gian cắt vụn và ghép lại vô cùng vô tận này chẳng khác nào mặc người xẻ thịt: thần kinh Nhanh nhẹn đứt đoạn hoàn toàn, tê liệt và không còn khả năng né tránh. Chừng nào dải sáng tai kiếp ấy còn lóe lên, mỗi đòn đánh người thi pháp tung ra đều như cộng hưởng với bầu trời sao vô ngần, mượn hình chiếu phản ảnh từ thứ nguyên khác để gây phản hồi truy kích tốc độ cực nhanh và sát thương cao liên hoàn chí tử, khiến một kiếm khuynh thế chém nát vận mệnh này độc hưởng tăng ích sát thương cuối cùng cực thịnh +30%."
+            },
+            "阶位": "Áo nghĩa"
+          },
+          {
+            "名称": "Chiếu ảnh: Thánh kiếm Tinh Tú",
+            "类型": "Chủ động",
+            "描述": "Đánh đổi bằng mạch ma thuật gần như tự hủy để chiếu ảnh lưỡi thần thoại thần tạo cháy rực như cực quang - Excalibur, quét sạch toàn bộ đường chân trời phía trước.",
+            "特殊效果": {
+              "1": "Giải phóng chân danh, bắn ra một dòng lũ ánh sáng pháo khổng lồ dài 100 yard, rộng 10 yard xuyên ngang chiến trường; nếu quân địch trên đường pháo sáng trước đó đã nhận [Cường hóa ma thuật] gây suy yếu kháng tính hoặc tích lũy sơ hở [Phân tích], đòn xóa sổ này hoàn toàn bỏ qua mọi lá chắn sinh mệnh tạm thời và kiểm định đỡ gạt cộng thêm mà chúng đã chồng lên, sát thương ánh sáng cuối cùng tăng vọt +20%.",
+              "2": "Mặt phủ của dòng sáng mở rộng thành hào đất cháy dài 100 yard, rộng 15 yard; mọi nơi đi qua đều kèm sát thương nóng chảy giáp nhẹ kéo dài. Những mục tiêu đang ở trạng thái phá giáp [Phân tích] hoàn toàn không thể dùng bất kỳ tính chất phản đòn hay giảm sát thương nào, phải chịu phán quyết gột rửa khổng lồ từ ánh sáng chân kiếm, khiến sát thương cuối cùng +30%.",
+              "3": "Dòng sáng mở rộng thành xung kích thần thánh dài 120 yard, rộng 15 yard; cưỡng chế gán đặc tính thần thánh cấp cực cao khiến khiên xác sống hoặc vực sâu hóa tro bụi ngay tại chỗ, đồng thời người bị đánh trúng mất sạch sức lực phản kháng trong khoảnh khắc, sát thương cuối cùng tăng mạnh +40%.",
+              "4": "Tầng đứt gãy hoàng kim hủy diệt rộng 20 yard, tầm bắn lan tới 120 yard; nó không chỉ bốc hơi kẻ địch và địa hình ngay khi chạm vào mà còn gây dọn sạch khu vực không phân biệt. Nếu tồn tại mục tiêu có khắc dấu ấn lõi của phe ta, mục tiêu đó lập tức bị ánh thánh đánh xuyên đầu, chịu mù lòa không thể phòng thủ quay lại, sát thương trọng thương cuối cùng tăng cực lớn +50%.",
+              "5": "Bất chấp sinh tử, dẫn ánh thánh hoàng kim tuyệt niệm vạn thế này tới đỉnh cao cắt đứt vạn tượng, vung trào thành nghi thức quét sạch bằng cực quang diệt đỉnh dài vô ngần 150 yard và rộng 20 yard như vách vực. Các hạt sáng thần thánh chí cường chí liệt mang theo cơ chế tu chỉnh thế giới, cưỡng chế bóc tách rồi thiêu xuyên kháng tính cơ bản và màn chắn thể năng của toàn bộ sinh vật trên sân; những kẻ rơi vào dấu ấn [Phân tích] bị ép đối diện với sự sụp đổ Thể chất toàn diện và trọng kích tinh thần, không thể may mắn trốn thoát bằng ẩn thân, khiên chắn hay hệ thống chia sẻ sát thương. Như đoạn kết quang trảm cứu rỗi tối hậu, lần đại thanh tẩy tuyệt đối này được đội thêm gia trì hủy diệt vô song chấn động cả trời đất thần minh, mang tới bạo tăng sát thương cuối cùng không gì sánh nổi +60%."
+            },
+            "阶位": "Áo nghĩa"
+          },
+          {
+            "名称": "Chiếu ảnh: Vô Nguyên Kiếm Chế",
+            "类型": "Chủ động",
+            "描述": "Thử tinh luyện mọi khái niệm kiếm từng nhìn thấy và từng giải phẫu tới cực hạn thuần túy, tạm thời cụ hiện trong hiện thế một quỹ tích ngụy thần có thể một kiếm chém đôi mọi thứ, kể cả không gian và bản thân pháp tắc.",
+            "特殊效果": {
+              "1": "Tích tụ ma lực rồi vung ra một vết kiếm không gian dài 30 yard, rộng 2 yard về phía trước; trực tiếp xem mọi sinh mệnh tạm thời thông thường và khiên vật lý hạ vị như không tồn tại. Khi tấn công mục tiêu có AC cực cao, bản thân nhận lợi thế kiểm định Sức mạnh, sát thương cuối cùng của chiêu thức +10%.",
+              "2": "Vung ra một vết kiếm xé rách không gian dài 35 yard, rộng 3 yard; không chỉ cưỡng chế bỏ qua mọi cơ chế phản sát thương phòng ngự, còn kèm hiệu ứng chí tử [Trọng thương] khiến mọi hiệu quả trị liệu và hồi phục thể năng kế tiếp của mục tiêu giảm một nửa, sát thương cuối cùng +15%.",
+              "3": "Vung ra sóng chém không gian tuyệt đối dài 40 yard, rộng 3 yard; mọi mục tiêu bị lan trúng trực tiếp bị cưỡng chế trừ cộng thêm kháng tính Sức mạnh và Thể chất. Khi đối mặt với đơn vị có bất kỳ [Phân tích] nào, chắc chắn kích hoạt trừng phạt bạo kích khái niệm, sát thương cuối cùng +20%.",
+              "4": "Chém ra vực sâu hư không chân lý chết chóc kéo dài 50 yard, rộng 5 yard; đoạn tuyến này lưu lại 1 hiệp và trở thành giới cách không thể vượt qua. Kẻ cưỡng ép băng qua sẽ chịu đau đớn bị khe nứt cắt xé và bị xóa sạch toàn bộ tốc độ di chuyển cơ bản. Sau khi trúng đòn, mục tiêu còn chịu hòa tan phá hủy toàn giáp siêu mạnh, khiến sát thương cuối cùng +25%.",
+              "5": "Thu nhiếp mọi chiêu thức rườm rà thành một tia sáng chỉ còn lại duy nhất con đường chém đứt, kinh thiên động địa. Từ tầm mắt nhìn thấy, nó cắt mở không thương tiếc một hào sâu không gian rộng 10 yard, kéo dài 60 yard, nơi hư thực cùng sinh. Một kiếm này không cần điểm rơi hoa mỹ mà cưỡng chế tước miễn trừ và áp đặt định mệnh tất trúng không thể chống trái. Bất kỳ tử địch nào bị [Chậm chạp] hoặc rơi vào sơ hở [Phân tích] sẽ thấy cả kết giới bảo mệnh mạnh nhất hay trạng thái bất khả chiến bại đều đứt gãy, bong tróc như giấy mỏng và tụt xuống mức kháng âm, kèm trọng thương xé hồn sâu nhất, đổi lấy sát thương cuối cùng như thần phạt chưa từng có +35%."
+            },
+            "阶位": "Áo nghĩa"
+          }
+        ],
+        "觉醒一": [
+          {
+            "名称": "Vô Hạn Kiếm Chế · Hoang dã",
+            "类型": "Chủ động",
+            "描述": "Giải phóng hoàn toàn bão tâm tượng trong cơ thể, viết lại chiến trường hiện tại thành kết giới hoang dã cắm đầy vô tận đoạn nhận. Vô số kiếm kích bay lên như mưa bão rồi rơi xuống trận địa địch chỉ định không chút khoan nhượng, hình thành chuỗi chém hủy diệt như cày sạch mặt đất.",
+            "阶位": "Thức tỉnh một",
+            "特殊效果": {
+              "1": "Lập tức triển khai kết giới hoang dã bán kính 50 yard, cưỡng chế viết lại địa hình trong 3 hiệp; khoảnh khắc kết giới mở, phóng vạn ngàn kiếm vũ lên toàn bộ quân địch trong trận, kích hoạt đối kháng miễn trừ Nhanh nhẹn. Kẻ thất bại rơi vào [Chậm chạp] và suy giảm Sức mạnh. Nếu mục tiêu mang [Phân tích] hoặc [Dẫn lực âm dương], từng thanh kiếm rơi xuống sẽ bị kéo tới thân thể chúng rồi phát nổ, khiến sát thương cuối cùng từng đoạn kiếm vũ của kỹ năng này +15%.",
+              "2": "Phạm vi kết giới hoang dã mở rộng tới 60 yard và tồn tại 4 hiệp; ngoài lễ rửa xuyên phá của kiếm vũ dày đặc, các đoạn kiếm rơi xuống đất sẽ tạo thành bẫy lưỡi kiếm kéo dài. Mỗi khi kẻ địch di chuyển 1 yard trong kết giới đều phải chịu kiểm định xé Thể chất rất nhỏ dẫn tới mất máu. Cơn kiếm vũ chuyên nhắm vào mục tiêu mang dấu ấn tăng dữ dội, đồng thời xóa sạch khiên sinh mệnh tạm thời của chúng, sát thương cuối cùng +25%.",
+              "3": "Cụ hiện hoàn toàn chân lý hoang vu của kiếm cháy rực chân trời, mở rộng kết giới thành lĩnh vực che trời phủ đất kéo dài 80 yard và lưu lại 5 hiệp; tuyên cáo trời đất phương này chính là biển kiếm của ta. Hàng chục triệu dòng kiếm bắn xuống không phân biệt lên mọi đơn vị toàn trường, đủ nghiền nát cả tòa thành. Mọi mục tiêu chịu lễ rửa lập tức rơi vào bất lợi kiểm định toàn thuộc tính không thể vãn hồi. Kết giới không chỉ tiêu hao toàn bộ dấu ấn bất lợi trên người chúng ngay khi giáng xuống để sinh ra tuẫn nổ dây chuyền cuồng bạo, mà còn ban cho người thi pháp phán quyết vương giả không thể ngăn cản, khiến sát thương cuối cùng của tuyệt hưởng khai thiên lập địa này tăng vọt tới +40%."
+            }
+          }
+        ],
+        "觉醒二": [
+          {
+            "名称": "Vô Nguyên Kiếm Chế · Tsumukari",
+            "类型": "Chủ động",
+            "描述": "Dung hợp kỹ nghệ của Emiya Shirou và Sengo Muramasa. Nấu chảy tính chất của vô hạn mảnh đao kiếm, loại bỏ mọi phần dư thừa, chỉ giữ lại khái niệm 'chém đứt'. Có thể coi mọi phòng ngự như không tồn tại; rèn đúc vượt cả Thần Đại, một kiếm khai mở.",
+            "阶位": "Thức tỉnh hai",
+            "特殊效果": {
+              "1": "Rút lấy toàn bộ ma lực và tiềm năng sinh mệnh, nấu chảy vạn kiếm trong lòng bàn tay để hiện hóa thành một thanh thái đao cứu cực duy nhất, chém ngang về phía trước theo cung quỹ đạo dài 100 yard, rộng 10 yard bằng một tia đoạn diệt có thể san phẳng cả số mệnh. Thanh kiếm này cưỡng chế và tuyệt đối bỏ qua mọi cộng thêm AC, cơ chế miễn dịch kháng tính, thậm chí cả nhân quả cấp thấp của hồi sinh tái sinh. Khi đối mặt kẻ đã bị [Phân tích] phá phòng nặng, ngưỡng bạo kích của chiêu này giảm thêm 1 điểm (mở rộng tới 19-20), phép chém đứt pháp tắc mang lại sát thương cuối cùng vô song +30%.",
+              "2": "Thăng hoa hoàn toàn chân ý mang tên khai mở và kết thúc này: tầng đứt gãy khái niệm thuần túy do thái đao vung ra lan dài tới 150 yard, rộng như một khe vực thần thánh. Ngoài việc tuyệt đối bỏ qua tuyến phòng thủ Thể chất và hoàn toàn chém rách mọi nơi trú ẩn pháp thuật nằm dưới bề dày thế giới quan hiện tại, nó còn muốn cưỡng ép cắt đứt bản nguyên của 'sự sống'. Mọi tử địch đang bị kết giới trấn áp hoặc có bất kỳ bất lợi trạng thái khống chế nào đều kích hoạt xung kích tuyệt phạt của khái niệm tất tử, khiến toàn bộ khiên sinh mệnh tạm thời của chúng bốc hơi sạch. Một nhát chém phá tuyệt khai thiên này, bằng quyền thống trị tuyệt đối của nó, hưởng bạo tăng sát thương hủy diệt tối thượng tới +50%."
+            }
+          }
+        ],
+        "觉醒三": [
+          {
+            "名称": "Avalon",
+            "类型": "Đặc biệt",
+            "描述": "Giải phóng hoàn toàn khái niệm thánh di vật vỏ kiếm vốn ẩn giấu, triển khai “Vùng Đất Lý Tưởng Xa Xôi”, cắt đứt mọi can thiệp vật lý và ma pháp từ bên ngoài, thậm chí cả Ngũ Đại Ma Pháp, đạt tới sự vô địch hoàn mỹ tuyệt đối.",
+            "阶位": "Thức tỉnh ba",
+            "特殊效果": {
+              "1": "Trong trọn một vòng tuần hoàn thời tự sau khi phát động, hiệu ứng cưỡng chế có hiệu lực lên bản thân và toàn bộ đồng minh cốt lõi ở cực gần trong phạm vi 5 yard quanh bản thân. Phe ta hoàn toàn thoát khỏi ràng buộc vật lý và chiều không gian của thời không hiện tại, lẩn vào Nội Hải Tinh Cầu; trong thời gian đó miễn dịch mọi sát thương và khống chế trực tiếp hoặc gián tiếp đã biết lẫn chưa biết, bao gồm hủy diệt thần tạo và khóa chết tức tử. Khi giải trừ cách tuyệt và trở về trần thế, kỹ năng lạnh lùng hấp thu rồi chuyển hóa toàn bộ động năng tai ách ập tới trong khoảng trống nhân quả đó, bổ sung năng lượng sinh mệnh cho toàn phe ta, ban một lá chắn sinh mệnh tạm thời khổng lồ, đồng thời gột sạch và đảo ngược mọi bất lợi kiểm định vận mệnh do dị thường vực sâu gây ra, chúc phúc toàn bộ đồng đội để trong ba lần đánh cược tuyệt cảnh liên tiếp kế tiếp đạt lợi thế phán định tuyệt đối."
+            }
+          }
+        ]
+      },
+      "skillTreeForClass": "Pháp sư chiếu ảnh",
+      "lockedSkillMap": {
+        "Pháp sư chiếu ảnh": {
+          "基础": {
+            "Ma thuật chiếu ảnh": {
+              "名称": "Ma thuật chiếu ảnh",
+              "类型": "Chủ động",
+              "描述": "Ngưng tụ ma lực để lập tức tạo ra lượng lớn thương kiếm cấp phổ thông rồi phóng đi tấn công. Loạt phóng liên miên cung cấp khả năng khống chế bước đầu.",
+              "特殊效果": {
+                "1": "Phóng 2 thanh huyễn kiếm trong một lần vào mục tiêu phía trước trong 30 yard; nếu mục tiêu đang mang trạng thái [Phân tích], sát thương cuối cùng của lần đánh này +5%.",
+                "2": "Phóng 2 thanh huyễn kiếm trong một lần vào mục tiêu phía trước trong 35 yard; nếu mục tiêu đang mang [Phân tích], sát thương cuối cùng của lần đánh này +8%.",
+                "3": "Phóng 3 thanh huyễn kiếm trong một lần vào mục tiêu phía trước trong 35 yard; nếu mục tiêu đang mang [Phân tích], sát thương cuối cùng của lần đánh này +8%.",
+                "4": "Phóng 3 thanh huyễn kiếm trong một lần vào mục tiêu phía trước trong 40 yard; nếu đánh trúng mục tiêu mang [Phân tích], kèm [Chậm chạp] 1 hiệp khiến di chuyển bị hạn chế, sát thương cuối cùng +10%.",
+                "5": "Phóng 4 thanh huyễn kiếm trong một lần vào mục tiêu phía trước trong 40 yard; nếu đánh trúng mục tiêu mang [Phân tích], kèm [Chậm chạp] 1 hiệp, sát thương cuối cùng +10%.",
+                "6": "Phóng 4 thanh huyễn kiếm trong một lần vào mục tiêu phía trước trong 45 yard; nếu đánh trúng mục tiêu mang [Phân tích], kèm [Chậm chạp] 2 hiệp, sát thương cuối cùng +12%.",
+                "7": "Phóng 5 thanh huyễn kiếm trong một lần vào mục tiêu phía trước trong 45 yard; nếu đánh trúng mục tiêu mang [Phân tích], kèm [Chậm chạp] 2 hiệp, sát thương cuối cùng +12%.",
+                "8": "Phóng tổng cộng 5 thanh huyễn kiếm vào tối đa 2 mục tiêu phía trước trong 50 yard; miễn trừ Sức mạnh của mục tiêu bị trực tiếp xem là bất lợi, sát thương cuối cùng +15%.",
+                "9": "Phóng tổng cộng 6 thanh huyễn kiếm vào tối đa 2 mục tiêu phía trước trong 50 yard; miễn trừ Sức mạnh của mục tiêu bất lợi, mục tiêu mang [Phân tích] khi chịu thêm đòn sẽ nhận sát thương cuối cùng +15%.",
+                "10": "Phóng tổng cộng 6 thanh huyễn kiếm vào tối đa 3 mục tiêu phía trước trong 55 yard; miễn trừ Sức mạnh bất lợi, khi trúng đòn kèm [Chậm chạp] 3 hiệp, sát thương cuối cùng +18%.",
+                "11": "Phóng tổng cộng 7 thanh huyễn kiếm vào tối đa 3 mục tiêu phía trước trong 55 yard; miễn trừ Sức mạnh bất lợi, kèm [Chậm chạp] 3 hiệp, sát thương cuối cùng +18%.",
+                "12": "Phóng tổng cộng 7 thanh huyễn kiếm vào tối đa 3 mục tiêu phía trước trong 60 yard; miễn trừ cực khó, nếu một lần tấn công trúng đòn sẽ khiến giáp mục tiêu bị ăn mòn và phát sinh suy yếu, sát thương cuối cùng +22%.",
+                "13": "Phóng tổng cộng 8 thanh huyễn kiếm vào nhiều mục tiêu phía trước trong 60 yard; kèm suy yếu giáp và [Chậm chạp] 3 hiệp, sát thương cuối cùng +22%.",
+                "14": "Phóng tổng cộng 8 thanh huyễn kiếm vào nhiều mục tiêu phía trước trong 70 yard; khiến mục tiêu mang [Phân tích] bị ngắt nhịp cưỡng chế trong thời gian ngắn, sát thương cuối cùng +25%.",
+                "15": "Giáng xuống cơn mưa dữ dội gồm tối đa 10 thanh huyễn kiếm lên toàn bộ mục tiêu phía trước trong 80 yard; bất kể trạng thái của chúng, cưỡng chế đặt miễn trừ Thể chất vào bất lợi và kích hoạt lùi vị trí sau khi bị đánh trúng. Nếu mục tiêu mang [Phân tích], kỹ năng này gây sát thương cuối cùng +30% lên mục tiêu đó."
+              },
+              "阶位": "Cơ bản"
+            },
+            "Ma thuật cường hóa": {
+              "名称": "Ma thuật cường hóa",
+              "类型": "Đặc biệt",
+              "描述": "Rót ma lực mật độ cực cao vào vũ khí chỉ định, tạm thời cường hóa độ cứng kết cấu và hiệu năng đả kích của người nhận phép.",
+              "特殊效果": {
+                "1": "Ban trạng thái [Cường hóa ma thuật] cho một đồng minh trong phạm vi chạm, kéo dài 2 hiệp; trong thời gian đó, kiểm định Sức mạnh và Nhanh nhẹn có lợi thế, sát thương cuối cùng của kỹ năng +3%.",
+                "2": "Ban trạng thái [Cường hóa ma thuật] cho một đồng minh trong phạm vi chạm, kéo dài 2 hiệp; kiểm định Sức mạnh và Nhanh nhẹn có lợi thế, đòn tấn công có thêm xuyên kháng vật lý +5, sát thương cuối cùng của kỹ năng +5%.",
+                "3": "Ban trạng thái [Cường hóa ma thuật] cho một đồng minh trong 10 yard quanh bản thân, kéo dài 3 hiệp; kiểm định Sức mạnh và Nhanh nhẹn có lợi thế, xuyên kháng vật lý +5, sát thương cuối cùng +5%.",
+                "4": "Ban trạng thái [Cường hóa ma thuật] cho một đồng minh trong 10 yard quanh bản thân, kéo dài 3 hiệp; có lợi thế kiểm định, xuyên kháng vật lý +10, sát thương cuối cùng +8%.",
+                "5": "Ban trạng thái [Cường hóa ma thuật] cho tối đa 2 đồng minh trong 15 yard quanh bản thân, kéo dài 3 hiệp; lợi thế kiểm định, xuyên kháng vật lý +10, sát thương cuối cùng +8%.",
+                "6": "Ban trạng thái [Cường hóa ma thuật] cho tối đa 2 đồng minh trong 15 yard quanh bản thân, kéo dài 4 hiệp; lợi thế kiểm định, xuyên kháng vật lý +10, khi bị đánh nhận AC tạm thời +1, sát thương cuối cùng +10%.",
+                "7": "Ban trạng thái [Cường hóa ma thuật] cho tối đa 2 đồng minh trong 20 yard quanh bản thân, kéo dài 4 hiệp; lợi thế kiểm định, xuyên kháng vật lý +15, AC tạm thời +1, sát thương cuối cùng +10%.",
+                "8": "Ban trạng thái [Cường hóa ma thuật] cho tối đa 3 đồng minh trong 20 yard quanh bản thân, kéo dài 4 hiệp; lợi thế kiểm định, xuyên kháng vật lý +15, AC tạm thời +1, sát thương cuối cùng +12%.",
+                "9": "Ban trạng thái [Cường hóa ma thuật] cho tối đa 3 đồng minh trong 25 yard quanh bản thân, kéo dài 5 hiệp; lợi thế kiểm định, xuyên kháng vật lý +15, AC tạm thời +2, sát thương cuối cùng +12%.",
+                "10": "Ban trạng thái [Cường hóa ma thuật] cho tối đa 3 đồng minh trong 25 yard quanh bản thân, kéo dài 5 hiệp; lợi thế kiểm định, xuyên kháng vật lý +20, AC tạm thời +2, sát thương cuối cùng +15%.",
+                "11": "Ban trạng thái [Cường hóa ma thuật] cho tối đa 4 đồng minh trong 30 yard quanh bản thân, kéo dài 5 hiệp; lợi thế kiểm định, xuyên kháng vật lý +20, AC tạm thời +2, sát thương cuối cùng +15%.",
+                "12": "Ban trạng thái [Cường hóa ma thuật] cho tối đa 4 đồng minh trong 30 yard quanh bản thân, kéo dài 6 hiệp; lợi thế kiểm định, xuyên kháng vật lý +25, AC tạm thời +3, sát thương cuối cùng +18%.",
+                "13": "Ban trạng thái [Cường hóa ma thuật] cho tối đa 4 đồng minh trong 35 yard quanh bản thân, kéo dài 6 hiệp; lợi thế kiểm định, ngưỡng bạo kích -1 (19-20), xuyên thấu +25, AC tạm thời +3, sát thương cuối cùng +18%.",
+                "14": "Ban trạng thái [Cường hóa ma thuật] cho tối đa 5 đồng minh trong 35 yard quanh bản thân, kéo dài 6 hiệp; lợi thế kiểm định, ngưỡng bạo kích -2 (18-20), xuyên thấu +25, AC tạm thời +3, sát thương cuối cùng +20%.",
+                "15": "Ban trạng thái [Cường hóa ma thuật] cho toàn bộ đồng minh trong 40 yard quanh bản thân, kéo dài 7 hiệp; cung cấp lợi thế cho mọi kiểm định liên quan tới thuộc tính và ngưỡng bạo kích -2, xuyên kháng vật lý lẫn pháp thuật đều tăng 30 điểm, khi bị tấn công luôn có AC tạm thời +5, sát thương cuối cùng +25%."
+              },
+              "阶位": "Cơ bản"
+            },
+            "Phân tích kết cấu": {
+              "名称": "Phân tích kết cấu",
+              "类型": "Đặc biệt",
+              "描述": "Dùng ánh mắt để bắt giữ vật chất và khái niệm cốt lõi của mục tiêu, tìm sơ hở chí mạng cho các đòn chiếu ảnh sau đó.",
+              "特殊效果": {
+                "1": "Chỉ định một mục tiêu trong 30 yard để tiến hành kiểm định đối kháng Trí lực; nếu thành công, đặt lên mục tiêu 1 tầng [Phân tích] kéo dài 2 hiệp, tối đa 3 tầng. Khi phe ta tấn công mục tiêu mang [Phân tích], kiểm định trúng đòn cận chiến và tầm xa +1.",
+                "2": "Chỉ định một mục tiêu trong 35 yard để tiến hành kiểm định đối kháng Trí lực; nếu thành công, đặt lên mục tiêu 1 tầng [Phân tích] kéo dài 2 hiệp, tối đa 3 tầng. Khi tấn công mục tiêu mang [Phân tích], kiểm định trúng đòn +2, kiểm định miễn trừ Nhanh nhẹn của mục tiêu -1.",
+                "3": "Chỉ định một mục tiêu trong 35 yard để tiến hành kiểm định đối kháng Trí lực; nếu thành công, đặt lên mục tiêu 1 tầng [Phân tích] kéo dài 3 hiệp, tối đa 3 tầng. Kiểm định trúng đòn +2, kiểm định miễn trừ Nhanh nhẹn của mục tiêu -2.",
+                "4": "Chỉ định một mục tiêu trong 40 yard để tiến hành kiểm định đối kháng Trí lực; nếu thành công, đặt lên mục tiêu 1 tầng [Phân tích] kéo dài 3 hiệp, giới hạn 3 tầng. Kiểm định trúng đòn +3, kiểm định miễn trừ Nhanh nhẹn của mục tiêu -2.",
+                "5": "Chỉ định một mục tiêu trong 40 yard để tiến hành kiểm định đối kháng Trí lực; nếu thành công, đặt lên mục tiêu 1 tầng [Phân tích] kéo dài 3 hiệp, giới hạn 4 tầng. Kiểm định trúng đòn +3, mọi kiểm định miễn trừ của mục tiêu -2.",
+                "6": "Chỉ định một mục tiêu trong 45 yard để tiến hành kiểm định đối kháng Trí lực; nếu thành công, đặt 1 tầng [Phân tích] kéo dài 4 hiệp, giới hạn 4 tầng. Kiểm định trúng đòn +4, mọi kiểm định miễn trừ của mục tiêu -2, sát thương cuối cùng của một lần bị đánh +5%.",
+                "7": "Chỉ định một mục tiêu trong 45 yard để tiến hành kiểm định đối kháng Trí lực; nếu thành công, đặt 1 tầng [Phân tích] kéo dài 4 hiệp, giới hạn 4 tầng. Kiểm định trúng đòn +4, mọi kiểm định miễn trừ của mục tiêu -3, sát thương cuối cùng của một lần bị đánh +5%.",
+                "8": "Chỉ định một mục tiêu trong 50 yard và đặt 1 tầng [Phân tích] kéo dài 4 hiệp, giới hạn 4 tầng. Kiểm định trúng đòn +5, mọi kiểm định miễn trừ của mục tiêu -3, sát thương cuối cùng của một lần bị đánh +8%.",
+                "9": "Chỉ định một mục tiêu trong 50 yard và đặt 1 tầng [Phân tích] kéo dài 4 hiệp, giới hạn 5 tầng. Kiểm định trúng đòn +5, kiểm định miễn trừ -3, sát thương cuối cùng khi mục tiêu bị đánh +10%.",
+                "10": "Chỉ định một mục tiêu trong 55 yard và đặt 1 tầng [Phân tích] kéo dài 5 hiệp, giới hạn 5 tầng. Kiểm định trúng đòn +6, kiểm định miễn trừ -3, sát thương cuối cùng khi bị đánh +10%.",
+                "11": "Chỉ định một mục tiêu trong 55 yard và đặt 1 tầng [Phân tích] kéo dài 5 hiệp, giới hạn 5 tầng. Kiểm định trúng đòn +6, kiểm định miễn trừ -4, sát thương cuối cùng khi bị đánh +12%.",
+                "12": "Chỉ định một mục tiêu trong 60 yard và đặt 1 tầng [Phân tích] kéo dài 5 hiệp, giới hạn 5 tầng. Kiểm định trúng đòn +7, kiểm định miễn trừ -4, sát thương cuối cùng khi bị đánh +12%.",
+                "13": "Chỉ định một mục tiêu trong 60 yard và đặt 1 tầng [Phân tích] kéo dài 6 hiệp, giới hạn 5 tầng. Kiểm định trúng đòn +7, kiểm định miễn trừ -5, sát thương cuối cùng khi bị đánh +15%.",
+                "14": "Chỉ định một mục tiêu trong 65 yard và đặt 1 tầng [Phân tích] kéo dài 6 hiệp, giới hạn 5 tầng. Kiểm định trúng đòn +8, kiểm định miễn trừ -5, ngưỡng bạo kích -1 (19-20), sát thương cuối cùng +15%.",
+                "15": "Chỉ định một mục tiêu trong 70 yard và đặt 1 tầng [Phân tích] kéo dài 7 hiệp, giới hạn 5 tầng. Kiểm định trúng đòn +10, kiểm định miễn trừ -6, ngưỡng bạo kích -1 (19-20), sát thương cuối cùng +20%."
+              },
+              "阶位": "Cơ bản"
+            }
+          },
+          "转职": {
+            "Chiếu ảnh: Kanshou · Bakuya": {
+              "名称": "Chiếu ảnh: Kanshou · Bakuya",
+              "类型": "Chủ động",
+              "描述": "Chiếu ảnh cặp song kiếm âm dương mang khái niệm hút nhau, dùng tốc độ cực cao để thực hiện vũ điệu cận chiến dịch chuyển hoa mắt.",
+              "特殊效果": {
+                "1": "Lao 5 yard về phía trước và thực hiện hai nhát chém; nhát cuối đẩy lùi mục tiêu 2 yard, kèm dấu ấn [Dẫn lực âm dương] 1 hiệp.",
+                "2": "Lao 8 yard về phía trước và thực hiện hai nhát chém; đẩy lùi 3 yard, kèm dấu ấn [Dẫn lực âm dương] 1 hiệp, sát thương cuối cùng lần này +3%.",
+                "3": "Lao 8 yard về phía trước và thực hiện ba nhát chém; đẩy lùi 3 yard, kèm dấu ấn [Dẫn lực âm dương] 1 hiệp, sát thương cuối cùng +3%.",
+                "4": "Lao 10 yard về phía trước và thực hiện ba nhát chém; đẩy lùi 4 yard, khiến miễn trừ Sức mạnh của mục tiêu bị giảm, kèm dấu ấn [Dẫn lực âm dương] 2 hiệp, sát thương cuối cùng +5%.",
+                "5": "Lao 10 yard về phía trước và thực hiện bốn nhát chém; đẩy lùi 4 yard, khiến miễn trừ Sức mạnh của mục tiêu bị giảm, kèm dấu ấn [Dẫn lực âm dương] 2 hiệp, sát thương cuối cùng +5%.",
+                "6": "Lao 15 yard về phía trước và thực hiện bốn nhát chém; đẩy lùi 5 yard, trong lúc loạn vũ bản thân AC+1, kèm [Dẫn lực âm dương] 2 hiệp, sát thương cuối cùng +8%.",
+                "7": "Lao 15 yard về phía trước và thực hiện bốn nhát chém; đẩy lùi 5 yard, trong lúc loạn vũ bản thân AC+1, kèm [Dẫn lực âm dương] 3 hiệp, sát thương cuối cùng +8%.",
+                "8": "Lao 20 yard về phía trước và thực hiện năm nhát chém; đẩy lùi 6 yard, bản thân AC+2, kèm [Dẫn lực âm dương] 3 hiệp, sát thương cuối cùng +10%.",
+                "9": "Lao 20 yard về phía trước và thực hiện năm nhát chém; với kẻ địch mang dấu ấn, cung cấp số đoạn khóa truy đuổi chắc chắn, bản thân AC+2, sát thương cuối cùng +12%.",
+                "10": "Lao 25 yard về phía trước và thực hiện năm nhát chém; hiệu quả truy đuổi tăng, đẩy lùi 7 yard, bản thân AC+2, mục tiêu mang dấu ấn [Dẫn lực âm dương] 3 hiệp, sát thương cuối cùng +15%.",
+                "11": "Lao 25 yard về phía trước và thực hiện sáu nhát chém; số đoạn truy đuổi có thể vượt qua địa hình thấp, bản thân AC+2, kèm dấu ấn 3 hiệp, sát thương cuối cùng +18%.",
+                "12": "Lao 30 yard về phía trước và thực hiện sáu nhát chém; đẩy lùi 8 yard rồi hút mục tiêu về điểm trung tâm, bản thân AC+3, kèm [Dẫn lực âm dương] 4 hiệp, sát thương cuối cùng +20%.",
+                "13": "Lao 30 yard về phía trước và thực hiện bảy nhát chém; hoàn toàn bỏ qua tấn công mượn cơ hội của kẻ địch xung quanh, đẩy lùi 8 yard, kèm dấu ấn dẫn lực 4 hiệp, sát thương cuối cùng +22%.",
+                "14": "Lao 35 yard về phía trước và thực hiện bảy nhát chém; trong lúc chém miễn dịch hiệu ứng khống chế thông thường, đẩy lùi 9 yard, kèm thêm chảy máu, sát thương cuối cùng +25%.",
+                "15": "Vượt qua phạm vi 40 yard để tiến hành phán định loạn vũ song kiếm tám đoạn cuồng bạo; trong toàn bộ quá trình thi triển nhận bá thể và miễn dịch nguyên tố cấp thấp. Khi kết thúc, kiếm khí bùng nổ quanh bản thân đẩy bật mọi thứ ra 10 yard, dấu ấn khóa mục tiêu kéo dài tới 5 hiệp, sát thương cuối cùng của kỹ năng tăng lên +30%."
+              },
+              "阶位": "Chuyển nghề"
+            },
+            "Chiếu ảnh: Rho Aias bảy lớp": {
+              "名称": "Chiếu ảnh: Rho Aias bảy lớp",
+              "类型": "Triệu hồi",
+              "描述": "Chiếu ảnh trận vòng bảy cánh hoa ánh sáng từng chặn ngọn giáo ném thần thánh; đây là thần tạo hộ thuẫn mang khái niệm phòng ngự vật phóng cao nhất.",
+              "召唤物名称": "Hệ thống bảy vòng ánh sáng",
+              "特殊效果": {
+                "1": "Triệu hồi trước người 2 yard một trận thể khiên chắn có 2 lớp cánh hoa ánh sáng, kéo dài 1 hiệp; có thể chặn đường đạn từ chính diện, giảm sát thương đi qua bằng 10% sinh mệnh của trận thể. Khi trận thể vỡ, đẩy lùi cực nhẹ khu vực 5 yard phía trước xung quanh.",
+                "2": "Triệu hồi trận thể có 2 lớp cánh hoa ánh sáng, kéo dài 1 hiệp; giảm sát thương 15%, khi vỡ đẩy lùi phía trước 5 yard và cho quân ta lợi thế miễn trừ Sức mạnh.",
+                "3": "Triệu hồi trận thể 3 lớp cánh hoa, kéo dài 2 hiệp; giảm sát thương 15%, khi vỡ đẩy lùi phía trước 5 yard thêm 2 yard, có lợi thế miễn trừ Sức mạnh.",
+                "4": "Triệu hồi trận thể 3 lớp cánh hoa, kéo dài 2 hiệp; giảm sát thương 20%, cưỡng chế đặt bất lợi lên mọi đòn tấn công được phán định là [Phóng chiếu tầm xa], khi vỡ gây sát thương phản chấn và đẩy lùi 3 yard.",
+                "5": "Triệu hồi trận thể 4 lớp cánh hoa, kéo dài 2 hiệp; giảm sát thương 20%, phòng ngự mặt quạt rộng 15 yard, sát thương cuối cùng phản chấn khi vỡ +5%, đẩy lùi 3 yard.",
+                "6": "Triệu hồi trận thể 4 lớp cánh hoa, kéo dài 3 hiệp; giảm sát thương 25%, phòng ngự mặt quạt, có tính chất không thể phá hủy trước vật phóng (AC cực cao), sát thương cuối cùng khi vỡ +8%, đẩy lùi 4 yard.",
+                "7": "Triệu hồi trận thể 4 lớp cánh hoa, kéo dài 3 hiệp; giảm sát thương 25%, khi chịu sát thương nguyên tố thì miễn trừ có lợi thế thông thạo gấp đôi, khi vỡ đẩy lùi 4 yard.",
+                "8": "Triệu hồi trận thể 5 lớp cánh hoa, kéo dài 3 hiệp; giảm sát thương 30%, toàn bộ đơn vị phe ta đứng sau cùng chiến tuyến tránh được lan sát thương phạm vi không chí mạng, sát thương cuối cùng phản chấn khi vỡ +10%.",
+                "9": "Triệu hồi trận thể 5 lớp cánh hoa, kéo dài 3 hiệp; giảm sát thương 30%, trong thời gian khiên mở, kẻ địch chạm vào sẽ bị cưỡng chế mù, sát thương phản kích khi vỡ +12%.",
+                "10": "Triệu hồi trận thể 6 lớp cánh hoa, kéo dài 4 hiệp; giảm 35% mọi sát thương đi xuyên qua khiên, đồng thời kèm một lớp màn sinh mệnh tạm thời hấp thu phần sát thương tràn vượt khả năng chịu tải của khiên, phạm vi đẩy lùi mở rộng tới 15 yard.",
+                "11": "Triệu hồi trận thể 6 lớp cánh hoa, kéo dài 4 hiệp; giảm sát thương 35%, ánh sáng hoa tan khiến kẻ địch trong phạm vi 20 yard quanh khiên rơi vào lạc hướng và suy yếu Sức mạnh, sát thương cuối cùng phản chấn +15%.",
+                "12": "Triệu hồi trận thể 6 lớp cánh hoa, kéo dài 4 hiệp; giảm sát thương 40%, trước khi vỡ hoàn toàn, trận thể có thể hấp thu một lần hiệu ứng tức tử vốn không thể ngăn cản, cho người thi pháp phản ứng thoát thân.",
+                "13": "Triệu hồi trận thể 7 lớp cánh hoa, kéo dài 5 hiệp; giảm sát thương 40%, không chỉ cung cấp phòng ngự chính diện tuyệt đối mà ánh sáng trận liệt phóng ra còn chữa trị một phần nhỏ thương thế cho đồng minh bên trong.",
+                "14": "Triệu hồi trận thể 7 lớp cánh hoa, kéo dài 5 hiệp; giảm sát thương 45%, khi vỡ hóa thành bụi sáng đầy trời, tạo sóng xung kích gây mù phía trước 30 yard, kèm chấn kích dữ dội trong 10 yard và tăng sát thương +25%.",
+                "15": "Bảy lớp cánh hoa thần tạo được tái hiện hoàn mỹ có thể triển khai trận thể kết giới tuyệt đối rộng tới 40 yard và tồn tại trọn 6 hiệp; chặn và giảm tới 50% mọi sát thương thuộc tính lẫn thần thánh. Khoảnh khắc trận thể hoàn toàn tan vỡ, vụ phản chấn cấp thần thoại sẽ nghiền nát toàn bộ mục tiêu phía trước không có khiên, khiến chúng thất bại miễn trừ Thể chất không thể cứu vãn và chịu phán định đánh ngã tuyệt đối, kèm tăng sát thương tối thượng +35%."
+              },
+              "阶位": "Chuyển nghề"
+            },
+            "Dung hợp tính chất": {
+              "名称": "Dung hợp tính chất",
+              "类型": "Đặc biệt nghề nghiệp",
+              "描述": "Tận dụng đặc tính đồng điệu của【Chiếu ảnh】để cưỡng ép trộn khái niệm bảo cụ cao cấp đã biết vào võ kỹ chiếu ảnh thông thường.",
+              "特殊效果": {
+                "1": "Bị động nhận ô [Tích năng dung hợp] (giới hạn 3 lần, đầu mỗi hiệp tự động hồi 1 lần). Khi phóng thích bất kỳ kỹ năng tấn công có bậc là [Chủ động], [Triệu hồi] hoặc [Thức tỉnh], có thể chủ động tiêu hao 1 lần tích năng để cưỡng chế chọn kèm một trong các khái niệm sau: phán định [Gai chết tất trúng]: đòn này hoàn toàn bỏ qua AC hộ thuẫn của mục tiêu, khiến miễn trừ Nhanh nhẹn và né tránh của mục tiêu rơi vào bất lợi vĩnh viễn; phán định [Xoắn ốc xuyên phá]: đòn này nhận 30 điểm xuyên thấu cao, đồng thời kèm [Kết cấu vỡ nát] với mục tiêu có cơ chế phòng ngự vật lý để tăng sát thương cho đòn kế tiếp; phán định [Chuỗi sụp đổ]: cưỡng ép tạo vụ nổ phối hợp quanh điểm mục tiêu hoặc quanh trận thể, mỗi đơn vị tăng thêm quanh mục tiêu trúng đòn sẽ cộng thêm 5% tăng sát thương cuối cùng vụ nổ phạm vi."
+              },
+              "阶位": "Chuyển nghề"
+            }
+          },
+          "进阶": {
+            "Giả · Kiếm xoắn ốc": {
+              "名称": "Giả · Kiếm xoắn ốc",
+              "类型": "Chủ động",
+              "描述": "Nén và cải tạo ma kiếm tới cực hạn, biến nó thành một đòn khủng khiếp sinh ra cơn lốc xoắn cấp nghiền nát vạn vật.",
+              "特殊效果": {
+                "1": "Bắn mũi tên xoắn ốc về phía trước 40 yard, bùng phát luồng khí hút dữ dội trong 10 yard gây xé rách; nếu mục tiêu đang ở trong [Dẫn lực âm dương], miễn trừ Thể chất bất lợi, khoảng kéo tụ quái tăng thêm 2 yard, sát thương cuối cùng lần này +10%.",
+                "2": "Tạo luồng gió bão dài 45 yard, phạm vi 12 yard, gây xé rách; mục tiêu đang ở trong [Dẫn lực âm dương] bị kéo thêm 3 yard, kèm ngắt nhịp ngắn, sát thương cuối cùng +15%.",
+                "3": "Tạo luồng khí dài 45 yard, phạm vi 12 yard; mục tiêu mang [Dấu săn đuổi] sẽ kích hoạt thêm 1 lần nổ khí lưu, mục tiêu trong dẫn lực bị kéo sâu hơn, sát thương cuối cùng +18%.",
+                "4": "Tầm bắn khí lưu 50 yard, bão rộng 15 yard; mục tiêu bị hút cưỡng chế thất bại kiểm định Sức mạnh và chịu suy yếu phá giáp 1 hiệp, sát thương cuối cùng +22%.",
+                "5": "Tầm bắn 50 yard, bão trong phạm vi 15 yard; gây vang dội siết giết lần hai, mục tiêu mang cả [Dẫn lực âm dương] và [Dấu săn đuổi] đều kích hoạt nổ dây chuyền, tụ quái và kéo hút 5 yard, sát thương cuối cùng +25%.",
+                "6": "Tầm bắn 60 yard, bão rộng 18 yard; cơn lốc xoắn sinh ra có thể đập vỡ mọi chướng ngại tạm thời mỏng yếu và bình chướng tạo vật ma pháp, giảm kháng Thể chất của địch, sát thương cuối cùng +28%.",
+                "7": "Tầm bắn 60 yard, bão rộng 20 yard; xoáy gió liên tục cắt xé khiến mọi mục tiêu ở điểm trung tâm phải tung kiểm định Thể chất, nếu không sẽ trực tiếp bị treo lơ lửng và trước khi rơi xuống sẽ rơi vào tê liệt vật lý, sát thương cuối cùng +32%.",
+                "8": "Tầm bắn 80 yard, bão rộng 20 yard; kích hoạt mô hình sát thương hai đoạn: co rút cực độ rồi phát tán dữ dội, cưỡng chế cuốn mục tiêu ở xa về vị trí trung đoạn của người thi pháp, lực kéo rất mạnh, sát thương cuối cùng +38%.",
+                "9": "Tầm bắn 80 yard, bão rộng 25 yard; mọi kẻ chưa thoát khỏi khí xoáy lập tức chịu phán quyết giảm một nửa xuyên giáp toàn hướng. Bất kể có dấu ấn hay không, lực kéo tụ quái cực nhanh vượt phạm vi 8 yard, sát thương cuối cùng +45%.",
+                "10": "Bỏ qua sức cản không khí để bắn ra một cơn lốc xoắn diệt tuyệt xuyên thẳng tới 100 yard và bao phủ trọn phạm vi 30 yard; hoàn toàn tái tạo địa hình cục bộ của chiến trường. Mọi nạn nhân trong luồng khí phải chịu cấp phán định cao nhất của xé rách, hút bám và tụ quái. Không chỉ lập tức kích nổ mọi dấu ấn chúng đang mang để gây nổ tuẫn táng lần hai quy mô lớn, kỹ năng này còn được nâng sát thương cuối cùng lên +50% và để lại vết thương phá giáp tuyệt đối giảm 50 điểm AC cơ bản trong 3 hiệp."
+              },
+              "阶位": "Nâng cao"
+            },
+            "Tam liên Hạc Dực": {
+              "名称": "Tam liên Hạc Dực",
+              "类型": "Chủ động",
+              "描述": "Ném ra ba cặp Kanshou-Bakuya liên tiếp rồi lợi dụng lực hút để xoay vòng trở về, thi triển kiếm trận tất sát liền mạch bằng phòng thủ xen kẽ và trọng trảm liên tục.",
+              "特殊效果": {
+                "1": "Khóa mục tiêu phía trước trong 15 yard và phát động tổng cộng ba đoạn trọng kích; nếu mục tiêu có dấu ấn [Dẫn lực âm dương], cặp song kiếm ném ra chắc chắn gây bạo kích khi quay trở lại ở đoạn thứ hai, sát thương cuối cùng +5%.",
+                "2": "Khóa mục tiêu phía trước trong 15 yard để chém đột phá ba đoạn; ngoài việc [Dẫn lực âm dương] khiến đoạn thứ hai chắc chắn bạo kích, đòn đầu còn tước phản ứng tấn công của mục tiêu và khiến sát thương cuối cùng +10%.",
+                "3": "Khóa mục tiêu phía trước trong 20 yard và phát động ba đoạn chém; đoạn đầu cưỡng chế ngắt thi pháp, đoạn thứ hai chắc chắn bạo kích, sát thương cuối cùng +12%.",
+                "4": "Khóa mục tiêu phía trước trong 20 yard, không chỉ gây ba đoạn chém sâu mà còn lợi dụng đường bay vũ khí để tạo vòng phong tỏa giao nhau; khi đoạn thứ ba phán định sẽ kích hoạt khống chế đánh lùi, sát thương cuối cùng +15%.",
+                "5": "Khóa mục tiêu phía trước trong 25 yard và phát động ba lần xung phong cường kích liên tục có kiếm bay áp chế; trong thời gian đó sát thương tầm xa phải chịu giảm một nửa, ba đoạn chắc chắn đánh trúng mục tiêu đang ở [Dẫn lực âm dương] và gây hất bay, sát thương cuối cùng +20%.",
+                "6": "Khóa mục tiêu phía trước trong 25 yard và nối thêm chém chữ thập phá phòng; đường kiếm phong tỏa khiến kiểm định né tránh của mục tiêu bị chém rơi vào bất lợi cực lớn, nếu mục tiêu mang dấu ấn thì đòn thứ ba chắc chắn gây khựng nặng và hất tung, sát thương cuối cùng +25%.",
+                "7": "Khóa mục tiêu phía trước trong 30 yard để hoàn thành chuỗi ném và thu hồi liên tục không gián đoạn; toàn bộ quá trình ba đoạn cung cấp phán định lợi thế tuyệt đối cho kiểm định Nhanh nhẹn của bản thân, và khi đánh trúng mục tiêu mang dấu ấn sẽ làm mới trạng thái hất bay. Đòn kết thúc nối thêm trọng trảm nổ, sát thương cuối cùng +30%.",
+                "8": "Khóa mục tiêu trong 30 yard và phát động chém; ba cặp song kiếm đen trắng xoay quanh hóa thành kiếm võng khiến mục tiêu bị bao vây dày đặc đến mù mắt, số đoạn chắc chắn bạo kích mở rộng tới mọi điểm giao nhau của đường quay về và đường xung phong, sát thương cuối cùng +35%.",
+                "9": "Liên kích trọng trảm xung kích xuyên 35 yard; chỉ cần mục tiêu nằm trên đường quay về, mục tiêu không có dấu ấn cũng phải chịu miễn trừ phòng thủ trúng đòn cực khó, nếu không đều bị lan trúng. Mục tiêu trung tâm bị hất tung mạnh hơn, sát thương cuối cùng +42%.",
+                "10": "Dùng thuấn bộ áp sát cực nhanh tới 40 yard và thi triển mê cung kiếm vũ vô hình, ba vòng ném kiếm và chém kiếm đan xen rực rỡ. Bất kể phòng tuyến đối thủ kiên cố tới đâu, mọi kẻ mang [Dẫn lực âm dương] không chỉ phải chịu từng con số nhảy liên tiếp chắc chắn bạo kích, mà ở cú chém rơi tối hậu cuối cùng còn bị trọng kích dữ dội không thể trốn thoát đập xuống đất hất bay, kích hoạt [Choáng] hủy diệt trong 2 hiệp. Tổng sát thương cuối cùng cộng dồn từ toàn bộ quy trình phán định được kéo lên mức tối đa +50%."
+              },
+              "阶位": "Nâng cao"
+            },
+            "Sụp đổ ảo tưởng": {
+              "名称": "Sụp đổ ảo tưởng",
+              "类型": "Chủ động",
+              "描述": "Cưỡng ép rót ma lực mật độ cực hạn vào bảo cụ được chiếu ảnh, khiến kết cấu của nó sụp đổ ngay khoảnh khắc đánh trúng mục tiêu và bộc phát năng lượng hủy diệt quy mô lớn đầy tính nhắm mục tiêu.",
+              "特殊效果": {
+                "1": "Khóa 1 mục tiêu trong 30 yard và bắn bảo cụ sắp sụp đổ, khi trúng sẽ gây vụ nổ bán kính 10 yard; nếu mục tiêu mang trạng thái [Phân tích], phán định kích nổ sẽ tiêu hao 1 tầng Phân tích, khiến vụ nổ này có sát thương cuối cùng +5%.",
+                "2": "Khóa 1 mục tiêu trong 35 yard và bắn bảo cụ sắp sụp đổ, gây vụ nổ bán kính 12 yard; khi tiêu hao 1 tầng [Phân tích], vụ nổ này có sát thương cuối cùng +8% và khiến kẻ địch ở rìa phạm vi nổ chịu miễn trừ Sức mạnh bất lợi.",
+                "3": "Khóa 1 mục tiêu trong 35 yard và bắn bảo cụ sắp sụp đổ, khi trúng gây vụ nổ dây chuyền thứ cấp bán kính 12 yard; tiêu hao 1 tầng [Phân tích] để sát thương cuối cùng +10% và khiến mục tiêu bị điếc tạm thời.",
+                "4": "Khóa 1 mục tiêu trong 40 yard và bắn bảo cụ sụp đổ, khi trúng gây vụ nổ mạnh bán kính 15 yard; nếu mục tiêu đồng thời đang chịu ảnh hưởng [Dẫn lực âm dương], vụ nổ sẽ tự động truy theo trung tâm dẫn lực để co rút rồi bùng phát. Tiêu hao 1 tầng [Phân tích] giúp sát thương cuối cùng +15%.",
+                "5": "Khóa 1 mục tiêu trong 40 yard và bắn bảo cụ sụp đổ, khi trúng gây vụ nổ mạnh bán kính 15 yard; việc truy theo trung tâm dẫn lực để co rút bùng phát sẽ gây chấn động không gian lần hai, tiêu hao Phân tích để sát thương cuối cùng +18%.",
+                "6": "Khóa 1 mục tiêu trong 45 yard và bắn bảo cụ sụp đổ, khi trúng gây vụ nổ siêu mạnh bán kính 18 yard; kẻ địch ở khu trung tâm kích nổ phải tiến hành miễn trừ Thể chất, nếu không sẽ bị cưỡng chế hất bay rồi nện ngã nặng nề. Tiêu hao Phân tích giúp sát thương cuối cùng +20%.",
+                "7": "Khóa 1 mục tiêu trong 45 yard và bắn bảo cụ sụp đổ, gây vụ nổ siêu mạnh bán kính 20 yard; thời gian hất bay lơ lửng kéo dài hơn, mục tiêu đang bị [Chậm chạp] sẽ chịu hiệu ứng hòa tan giáp. Tiêu hao Phân tích giúp sát thương cuối cùng +25%.",
+                "8": "Khóa tối đa 2 mục tiêu trong 50 yard và đồng thời bắn bảo cụ sụp đổ; nếu hai vùng nổ bán kính 20 yard giao nhau, sẽ sinh ra khe nứt tuẫn nổ. Mục tiêu chính rơi vào tuẫn nổ không thể thi triển bất kỳ ma pháp nào trong hiệp đó, tiêu hao Phân tích giúp sát thương cuối cùng +30%.",
+                "9": "Khóa tối đa 2 mục tiêu trong 50 yard và đồng thời bắn bảo cụ sụp đổ; khe nứt tuẫn nổ phạm vi lớn trực tiếp tước khiên tạm thời và tăng ích của địch, tiêu hao Phân tích khiến sát thương cuối cùng của vụ nổ và tuẫn nổ +35%.",
+                "10": "Bất chấp cái giá phải trả, phóng những bảo cụ sụp đổ cấp hủy diệt hoàn toàn vào tối đa 3 mục tiêu trong 60 yard, cuốn lên bão ma lực thuần túy tại nhiều điểm trên vùng rộng bán kính 25 yard. Chỉ cần mục tiêu có [Phân tích] hoặc bất kỳ dấu ấn dẫn lực tụ quái nào, vụ kích nổ không chỉ chuyển hóa toàn bộ dấu ấn thành sụp đổ chân không phạm vi lớn để gây [Choáng] quần thể kéo dài, mà còn đẩy sát thương cuối cùng của cơn bão xóa sổ này lên +45%."
+              },
+              "阶位": "Nâng cao"
+            }
+          },
+          "必杀": {
+            "Xạ Sát Bách Đầu": {
+              "名称": "Xạ Sát Bách Đầu",
+              "类型": "Chủ động",
+              "描述": "Tuyệt kỹ được chiếu ảnh dựa trên truyền thuyết Heracles, hóa thành cung lớn hoặc siêu trọng kiếm để trong khoảnh khắc đồng thời đánh ra chín chùm sáng hoặc nhát chém, tiêu diệt kẻ địch có đặc tính hồi sinh hoặc quần thể.",
+              "特殊效果": {
+                "1": "Khóa một kẻ địch phía trước đang có trạng thái [Choáng] hoặc [Phân tích], liên tục cực nhanh thực hiện chín lần bắn/chém tàn khốc với phán định độc lập; ngưỡng bạo kích của mỗi lần phán định -1 và có thiên hướng tăng tỷ lệ bạo kích, mỗi đòn tăng sát thương cuối cùng 3%.",
+                "2": "Khóa mục tiêu để tiến hành chín liên kích; với đơn vị đã bị choáng, ngưỡng bạo kích của chín lần phán định giảm -2 (18-20), mỗi phán định cộng dồn thêm 5% tăng sát thương cuối cùng đơn đoạn.",
+                "3": "Tái hiện chín lần phán phạt thần thoại đan xen tấn công; với mục tiêu bị Phân tích, ngưỡng bạo kích -2. Nếu toàn bộ các đoạn đều trúng mục tiêu, sẽ gây khựng hất bay mạnh khiến mục tiêu không thể cử động, mỗi đoạn phán định tăng sát thương 6%.",
+                "4": "Chín tia chớp xuyên kích liên hoàn dồn vào một thân; ngưỡng bạo kích của mỗi lần phán định -3 (17-20), áp chế toàn bộ kháng tính của mục tiêu có đặc tính hồi phục, tăng sát thương đơn đoạn đạt 8%.",
+                "5": "Thi triển trận xử quyết chín lớp kín không kẽ hở; ngưỡng bạo kích -3, đồng thời mọi quái vật trước đó từng bị đặt các loại dấu ấn suy yếu đều bị ngắt nhịp chí mạng và mất sức phản công, mỗi lần cung cấp +10% tăng sát thương cuối cùng cưỡng chế.",
+                "6": "Chín đầu rồng lóe sáng xuyên phá như bão tố; ngưỡng bạo kích không chỉ giảm mà mỗi đòn còn kéo theo tầng suy yếu cộng dồn cho tới khi đánh ngã. Nếu cả chín đòn đều trúng, cưỡng chế đặt trạng thái [Suy yếu] kéo dài 2 hiệp, tăng sát thương từng đoạn +12%.",
+                "7": "Diễn dịch thần quang chín liên phát tối thượng của truyền thuyết đồ long, không chỉ áp chế chí mạng thủ lĩnh đơn lẻ mà còn hóa thành chín quang long khổng lồ nuốt trọn cả đường đi. Chỉ cần bắt được vật tế xui xẻo mang [Choáng] hoặc [Phân tích] cực sâu, mỗi lần trong chín kiểm định đều tự mang quyền bạo kích nghiền nát mọi lợi thế né tránh, gây trọng thương trời sập không thể đảo ngược, hoàn thành xử quyết cuồng bạo. Sau chín lần đánh như sấm giáng kết thúc, chắc chắn 100% đặt hiệu ứng xóa sạch toàn kháng và [Suy yếu] hoàn toàn trong 3 hiệp. Chuỗi chín đoạn thu hoạch không thể ngăn cản này khiến sát thương phẫn nộ cuối cùng kèm theo mỗi đoạn bùng tăng tới +15%."
+              },
+              "阶位": "Tất sát"
+            },
+            "Kiếm chế đã mất": {
+              "名称": "Kiếm chế đã mất",
+              "类型": "Chủ động",
+              "描述": "Đảo ngược nguyên lý của Vô Hạn Kiếm Chế vốn phải mở rộng ra ngoài, nén cực độ theo dạng mũi tên rồi đưa vào trong cơ thể mục tiêu, phóng thích vụ nổ liên hoàn chí mạng nuốt chửng kết cấu bên trong.",
+              "特殊效果": {
+                "1": "Phát động truy sát kết liễu lên mục tiêu mang ít nhất 1 tầng [Phân tích], kích nổ nội tạng hoặc khung máy bên trong; tiêu hao hoàn toàn mọi tầng [Phân tích], mỗi tầng bị nuốt khiến sát thương cuối cùng của vụ nổ lõi này +10%, kèm phán định xuyên giáp vật lý bỏ qua chuẩn giáp của mục tiêu.",
+                "2": "Xử quyết nội thể đơn mục tiêu tối hậu; mỗi tầng [Phân tích] bị kích nổ giúp nhận thưởng sát thương cuối cùng +12%, năng lượng bùng phát bên trong còn khiến vật chủ chịu bất lợi Nhanh nhẹn trong hiệp kế tiếp.",
+                "3": "Oanh tạc ma biến xâm nhập gây nổ sập từ bên trong; mỗi tầng [Phân tích] được chuyển hóa sẽ đổi thành sát thương cuối cùng +15%, đồng thời mục tiêu rơi vào bất lợi toàn diện với phán định Nhanh nhẹn và Sức mạnh.",
+                "4": "Nén không gian tâm tượng để gây trương nở dữ dội bên trong cơ thể; mỗi tầng [Phân tích] bị nuốt cho sát thương cuối cùng +18%, dòng ma lực hỗn loạn bên trong khiến mục tiêu xuất huyết nội tại ngay tại chỗ và gây hiệu ứng trọng thương mất máu dài hạn.",
+                "5": "Nút thắt khái niệm khiến máu thịt, thậm chí cả vật liệu kim loại, bị hóa lỏng hoàn toàn; mỗi tầng [Phân tích] bị thanh không cung cấp +20% tăng sát thương cuối cùng, sau đó mọi kiểm định thuộc tính của mục tiêu bị cưỡng chế hạ thấp và bình chướng phòng ngự của nó không còn tồn tại.",
+                "6": "Kích nổ nhân quả đảo ngược tuyệt đối tàn nhẫn, đốt cháy toàn bộ kết giới binh trang trong cơ thể mục tiêu; mỗi tầng [Phân tích] bị chuyển hóa và châm cháy cung cấp mức tăng sát thương cuối cùng bùng nổ +22%. Kiểu phá hủy từ trong ra ngoài này bỏ qua cả kháng phòng bên ngoài tưởng như tối cao, cưỡng chế đặt sụp đổ Thể chất độ khó cực cao.",
+                "7": "Như quyền năng thần uy tối đen nhét cả thế giới vào đầu kim rồi đẩy vào yết hầu để xử quyết. Khoảnh khắc bắn vào thân thể, nó khóa định án vô hạn và bùng ra hàng trăm hàng ngàn thanh kiếm thép ngược gai xuyên phá, căng rách mục tiêu hoàn toàn từ trong ra ngoài. Bằng cách thiêu rụi toàn bộ dấu ấn [Phân tích] mà mục tiêu đang gánh, đòn này thực hiện xóa sổ chung cuộc; mỗi tầng Phân tích bị đốt đều phản hồi cho cuộc xử quyết kinh thế này sát thương hủy diệt tối thượng tới +25%. Đồng thời mục tiêu bị ăn mòn từ bên trong không chỉ bị cưỡng chế đóng đinh mọi thuộc tính vào địa ngục bất lợi tuyệt đối sâu nặng nhất, mà còn bị khắc ấn [Hoại tử vĩnh hằng] kéo dài 5 vòng luân chuyển, không thể hồi phục sinh mệnh và cũng không thể mượn trang bị để miễn trừ."
+              },
+              "阶位": "Tất sát"
+            },
+            "Vô Hạn Kiếm Chế": {
+              "名称": "Vô Hạn Kiếm Chế",
+              "类型": "Đặc biệt",
+              "描述": "Cụ hiện thế giới tâm tượng của bản thân trong phạm vi nhỏ và thời gian ngắn, dùng ma lực viết lại rồi phủ lên hiện thực xung quanh, triển khai lĩnh vực kết giới pháp thuật đầy vô số kiếm trận tuyệt sát.",
+              "特殊效果": {
+                "1": "Tiêu hao ma lực cực cao để triển khai [Kết giới cố hữu] ngắn hạn bán kính 20 yard quanh bản thân, kéo dài 2 hiệp; mọi phán định tấn công bằng vũ khí cận chiến hoặc tầm xa trong kết giới đều nhận 1 lần bù trừ ưu thế cho kiểm định trúng đòn (tung hai xúc xắc lấy cao), phe ta trong kết giới thi triển kỹ năng chủ động có sát thương cuối cùng +5%.",
+                "2": "Triển khai [Kết giới cố hữu] ngắn hạn bán kính 25 yard, kéo dài 2 hiệp; cung cấp 1 lần bù trừ lợi thế cho kiểm định trúng đòn, khoảnh khắc kết giới mở sẽ dùng kiếm khóa tự động áp chế kẻ địch trong phạm vi khiến kiểm định Nhanh nhẹn của chúng -1, sát thương cuối cùng của phe ta +8%.",
+                "3": "Triển khai [Kết giới cố hữu] bán kính 25 yard, kéo dài 3 hiệp; cung cấp lợi thế kiểm định trúng đòn, kiểm định Nhanh nhẹn của địch -2, toàn bộ đơn vị phe ta ở trong kết giới trực tiếp nhận xuyên kháng vật lý +10, kỹ năng chủ động có sát thương cuối cùng +12%.",
+                "4": "Triển khai [Kết giới cố hữu] bán kính 30 yard, kéo dài 3 hiệp; cung cấp lợi thế kiểm định trúng đòn, kiểm định Nhanh nhẹn của địch -2, đồng minh xuyên kháng +15, mỗi lần kẻ địch cưỡng ép dịch chuyển trong kết giới đều phải chịu sát thương mất máu liên tục do kiếm khí cắt xước rất nhỏ, sát thương cuối cùng của phe ta +15%.",
+                "5": "Triển khai [Kết giới cố hữu] bán kính 30 yard, kéo dài 4 hiệp; cung cấp lợi thế trúng đòn và xuyên kháng +20, kiếm phong lạnh buốt và sắc bén áp chế chiến trường khiến kiểm định Nhanh nhẹn và Sức mạnh của địch đều -2, di chuyển của địch bị trì trệ cực mạnh, sát thương cuối cùng của phe ta +18%.",
+                "6": "Triển khai [Kết giới cố hữu] bán kính 35 yard, kéo dài 4 hiệp; kiếm khí lơ lửng trong trận khiến pháp sư phe địch bị kẹp vây có nguy cơ chịu cưỡng chế ngắt thi pháp, toàn quân phe ta phản ứng bạo kích nhạy bén hơn khiến ngưỡng bạo kích cưỡng chế -1 (19-20), toàn bộ kỹ năng chủ động có sát thương cuối cùng +22%.",
+                "7": "Dốc toàn bộ ma lực cưỡng ép đoạt lấy khái niệm địa hình, cụ hiện [Kết giới cố hữu] áp đảo rộng tới 40 yard và lưu lại 5 hiệp; bên trong kết giới hoàn toàn được viết lại thành sân nhà vô địch của người thi pháp. Mọi kẻ địch ở trong đó không chỉ rơi vào kiểm định Nhanh nhẹn và Sức mạnh bất lợi sâu nhất, chịu uy áp im lặng thi pháp thường trực không thể giải trừ, mà toàn bộ đồng minh trong kết giới còn được thần uy che chở để có ngưỡng bạo kích -2 và 30 điểm xuyên song kháng rất cao. Mọi đòn chủ động tuyệt sát của phe ta trong lãnh vực này được nâng sát thương cuối cùng vô điều kiện lên +30%."
+              },
+              "阶位": "Tất sát"
+            }
+          },
+          "奥义": {
+            "Chiếu ảnh: Kiếm Đá Quý": {
+              "名称": "Chiếu ảnh: Kiếm Đá Quý",
+              "类型": "Chủ động",
+              "描述": "Chiếu ảnh lễ trang giới hạn thuộc sở hữu của Đệ Nhị Ma Pháp Sứ, mượn danh Zelretch để trực tiếp nạy động đứt gãy không gian song song, mang đến ma lực vĩnh động và kiếm áp chém rách thứ nguyên.",
+              "特殊效果": {
+                "1": "Vung kiếm cắt rách không gian trong 15 yard quanh bản thân, cưỡng chế tạo [Đứt gãy không gian] đầy loạn lưu kéo dài 1 hiệp; mọi kẻ địch trong đứt gãy tự động chịu miễn trừ Nhanh nhẹn bất lợi và khổ sở vì dịch chuyển. Do phản ứng truy kích từ mặt gương không gian, trong cửa sổ ngắn này mọi kỹ năng do phe ta phát động đều được hưởng thêm một lần phán định cắt đứt gãy nối đòn, sát thương cuối cùng của kỹ năng +10%.",
+                "2": "Phạm vi cắt đứt mở rộng tới 20 yard và tạo [Đứt gãy không gian] đa lăng kính tồn tại 2 hiệp; kẻ địch bị kẹt trong trận gặp chậm chạp giảm tốc, đồng thời không chỉ cung cấp thủ đoạn truy kích kết liễu mà còn khiến kiểm định tấn công của bản thân tạm thời có lợi thế sau khi phóng thích kiếm chiêu này, sát thương cuối cùng +15%.",
+                "3": "Khe nứt không gian mở rộng tới 25 yard và tồn tại 2 hiệp; mọi đơn vị ở trong mặt cắt giao nhau đều bị cưỡng chế chặn ma lực, toàn bộ hành động tấn công chủ quan của phe ta theo đó được hưởng nhát chém cắt đứt gãy bạo tẩu đoạn hai phản xạ từ mặt gương, sát thương cuối cùng nhận cường kích +20%.",
+                "4": "Lãnh vực bị chém mở kéo dài tới 35 yard, sinh ra sức nghiến ép vũ trụ song song trong 3 hiệp; bất kỳ đối thủ nào mưu toan phát động ma pháp hoặc kỹ năng trong ma trận khe nứt đều trực tiếp nuốt đau đớn phản chấn cao, đồng thời bị bóc bỏ lượng lớn AC kháng phòng, sát thương cuối cùng nhận mức +25% rất cao.",
+                "5": "Trút vô hạn ma lực và không gian song song gấp nếp vào trung tâm chiến trường một cách bất chấp để kích nổ dị tượng toàn cảnh tan vỡ rộng tới 45 yard, trường tồn 3 hiệp. Mọi kẻ địch bị kẹt trong vực sâu không gian cắt vụn và ghép lại vô cùng vô tận này chẳng khác nào mặc người xẻ thịt: thần kinh Nhanh nhẹn đứt đoạn hoàn toàn, tê liệt và không còn khả năng né tránh. Chừng nào dải sáng tai kiếp ấy còn lóe lên, mỗi đòn đánh người thi pháp tung ra đều như cộng hưởng với bầu trời sao vô ngần, mượn hình chiếu phản ảnh từ thứ nguyên khác để gây phản hồi truy kích tốc độ cực nhanh và sát thương cao liên hoàn chí tử, khiến một kiếm khuynh thế chém nát vận mệnh này độc hưởng tăng ích sát thương cuối cùng cực thịnh +30%."
+              },
+              "阶位": "Áo nghĩa"
+            },
+            "Chiếu ảnh: Thánh kiếm Tinh Tú": {
+              "名称": "Chiếu ảnh: Thánh kiếm Tinh Tú",
+              "类型": "Chủ động",
+              "描述": "Đánh đổi bằng mạch ma thuật gần như tự hủy để chiếu ảnh lưỡi thần thoại thần tạo cháy rực như cực quang - Excalibur, quét sạch toàn bộ đường chân trời phía trước.",
+              "特殊效果": {
+                "1": "Giải phóng chân danh, bắn ra một dòng lũ ánh sáng pháo khổng lồ dài 100 yard, rộng 10 yard xuyên ngang chiến trường; nếu quân địch trên đường pháo sáng trước đó đã nhận [Cường hóa ma thuật] gây suy yếu kháng tính hoặc tích lũy sơ hở [Phân tích], đòn xóa sổ này hoàn toàn bỏ qua mọi lá chắn sinh mệnh tạm thời và kiểm định đỡ gạt cộng thêm mà chúng đã chồng lên, sát thương ánh sáng cuối cùng tăng vọt +20%.",
+                "2": "Mặt phủ của dòng sáng mở rộng thành hào đất cháy dài 100 yard, rộng 15 yard; mọi nơi đi qua đều kèm sát thương nóng chảy giáp nhẹ kéo dài. Những mục tiêu đang ở trạng thái phá giáp [Phân tích] hoàn toàn không thể dùng bất kỳ tính chất phản đòn hay giảm sát thương nào, phải chịu phán quyết gột rửa khổng lồ từ ánh sáng chân kiếm, khiến sát thương cuối cùng +30%.",
+                "3": "Dòng sáng mở rộng thành xung kích thần thánh dài 120 yard, rộng 15 yard; cưỡng chế gán đặc tính thần thánh cấp cực cao khiến khiên xác sống hoặc vực sâu hóa tro bụi ngay tại chỗ, đồng thời người bị đánh trúng mất sạch sức lực phản kháng trong khoảnh khắc, sát thương cuối cùng tăng mạnh +40%.",
+                "4": "Tầng đứt gãy hoàng kim hủy diệt rộng 20 yard, tầm bắn lan tới 120 yard; nó không chỉ bốc hơi kẻ địch và địa hình ngay khi chạm vào mà còn gây dọn sạch khu vực không phân biệt. Nếu tồn tại mục tiêu có khắc dấu ấn lõi của phe ta, mục tiêu đó lập tức bị ánh thánh đánh xuyên đầu, chịu mù lòa không thể phòng thủ quay lại, sát thương trọng thương cuối cùng tăng cực lớn +50%.",
+                "5": "Bất chấp sinh tử, dẫn ánh thánh hoàng kim tuyệt niệm vạn thế này tới đỉnh cao cắt đứt vạn tượng, vung trào thành nghi thức quét sạch bằng cực quang diệt đỉnh dài vô ngần 150 yard và rộng 20 yard như vách vực. Các hạt sáng thần thánh chí cường chí liệt mang theo cơ chế tu chỉnh thế giới, cưỡng chế bóc tách rồi thiêu xuyên kháng tính cơ bản và màn chắn thể năng của toàn bộ sinh vật trên sân; những kẻ rơi vào dấu ấn [Phân tích] bị ép đối diện với sự sụp đổ Thể chất toàn diện và trọng kích tinh thần, không thể may mắn trốn thoát bằng ẩn thân, khiên chắn hay hệ thống chia sẻ sát thương. Như đoạn kết quang trảm cứu rỗi tối hậu, lần đại thanh tẩy tuyệt đối này được đội thêm gia trì hủy diệt vô song chấn động cả trời đất thần minh, mang tới bạo tăng sát thương cuối cùng không gì sánh nổi +60%."
+              },
+              "阶位": "Áo nghĩa"
+            },
+            "Chiếu ảnh: Vô Nguyên Kiếm Chế": {
+              "名称": "Chiếu ảnh: Vô Nguyên Kiếm Chế",
+              "类型": "Chủ động",
+              "描述": "Thử tinh luyện mọi khái niệm kiếm từng nhìn thấy và từng giải phẫu tới cực hạn thuần túy, tạm thời cụ hiện trong hiện thế một quỹ tích ngụy thần có thể một kiếm chém đôi mọi thứ, kể cả không gian và bản thân pháp tắc.",
+              "特殊效果": {
+                "1": "Tích tụ ma lực rồi vung ra một vết kiếm không gian dài 30 yard, rộng 2 yard về phía trước; trực tiếp xem mọi sinh mệnh tạm thời thông thường và khiên vật lý hạ vị như không tồn tại. Khi tấn công mục tiêu có AC cực cao, bản thân nhận lợi thế kiểm định Sức mạnh, sát thương cuối cùng của chiêu thức +10%.",
+                "2": "Vung ra một vết kiếm xé rách không gian dài 35 yard, rộng 3 yard; không chỉ cưỡng chế bỏ qua mọi cơ chế phản sát thương phòng ngự, còn kèm hiệu ứng chí tử [Trọng thương] khiến mọi hiệu quả trị liệu và hồi phục thể năng kế tiếp của mục tiêu giảm một nửa, sát thương cuối cùng +15%.",
+                "3": "Vung ra sóng chém không gian tuyệt đối dài 40 yard, rộng 3 yard; mọi mục tiêu bị lan trúng trực tiếp bị cưỡng chế trừ cộng thêm kháng tính Sức mạnh và Thể chất. Khi đối mặt với đơn vị có bất kỳ [Phân tích] nào, chắc chắn kích hoạt trừng phạt bạo kích khái niệm, sát thương cuối cùng +20%.",
+                "4": "Chém ra vực sâu hư không chân lý chết chóc kéo dài 50 yard, rộng 5 yard; đoạn tuyến này lưu lại 1 hiệp và trở thành giới cách không thể vượt qua. Kẻ cưỡng ép băng qua sẽ chịu đau đớn bị khe nứt cắt xé và bị xóa sạch toàn bộ tốc độ di chuyển cơ bản. Sau khi trúng đòn, mục tiêu còn chịu hòa tan phá hủy toàn giáp siêu mạnh, khiến sát thương cuối cùng +25%.",
+                "5": "Thu nhiếp mọi chiêu thức rườm rà thành một tia sáng chỉ còn lại duy nhất con đường chém đứt, kinh thiên động địa. Từ tầm mắt nhìn thấy, nó cắt mở không thương tiếc một hào sâu không gian rộng 10 yard, kéo dài 60 yard, nơi hư thực cùng sinh. Một kiếm này không cần điểm rơi hoa mỹ mà cưỡng chế tước miễn trừ và áp đặt định mệnh tất trúng không thể chống trái. Bất kỳ tử địch nào bị [Chậm chạp] hoặc rơi vào sơ hở [Phân tích] sẽ thấy cả kết giới bảo mệnh mạnh nhất hay trạng thái bất khả chiến bại đều đứt gãy, bong tróc như giấy mỏng và tụt xuống mức kháng âm, kèm trọng thương xé hồn sâu nhất, đổi lấy sát thương cuối cùng như thần phạt chưa từng có +35%."
+              },
+              "阶位": "Áo nghĩa"
+            }
+          },
+          "觉醒一": {
+            "Vô Hạn Kiếm Chế · Hoang dã": {
+              "名称": "Vô Hạn Kiếm Chế · Hoang dã",
+              "类型": "Chủ động",
+              "描述": "Giải phóng hoàn toàn bão tâm tượng trong cơ thể, viết lại chiến trường hiện tại thành kết giới hoang dã cắm đầy vô tận đoạn nhận. Vô số kiếm kích bay lên như mưa bão rồi rơi xuống trận địa địch chỉ định không chút khoan nhượng, hình thành chuỗi chém hủy diệt như cày sạch mặt đất.",
+              "阶位": "Thức tỉnh một",
+              "特殊效果": {
+                "1": "Lập tức triển khai kết giới hoang dã bán kính 50 yard, cưỡng chế viết lại địa hình trong 3 hiệp; khoảnh khắc kết giới mở, phóng vạn ngàn kiếm vũ lên toàn bộ quân địch trong trận, kích hoạt đối kháng miễn trừ Nhanh nhẹn. Kẻ thất bại rơi vào [Chậm chạp] và suy giảm Sức mạnh. Nếu mục tiêu mang [Phân tích] hoặc [Dẫn lực âm dương], từng thanh kiếm rơi xuống sẽ bị kéo tới thân thể chúng rồi phát nổ, khiến sát thương cuối cùng từng đoạn kiếm vũ của kỹ năng này +15%.",
+                "2": "Phạm vi kết giới hoang dã mở rộng tới 60 yard và tồn tại 4 hiệp; ngoài lễ rửa xuyên phá của kiếm vũ dày đặc, các đoạn kiếm rơi xuống đất sẽ tạo thành bẫy lưỡi kiếm kéo dài. Mỗi khi kẻ địch di chuyển 1 yard trong kết giới đều phải chịu kiểm định xé Thể chất rất nhỏ dẫn tới mất máu. Cơn kiếm vũ chuyên nhắm vào mục tiêu mang dấu ấn tăng dữ dội, đồng thời xóa sạch khiên sinh mệnh tạm thời của chúng, sát thương cuối cùng +25%.",
+                "3": "Cụ hiện hoàn toàn chân lý hoang vu của kiếm cháy rực chân trời, mở rộng kết giới thành lĩnh vực che trời phủ đất kéo dài 80 yard và lưu lại 5 hiệp; tuyên cáo trời đất phương này chính là biển kiếm của ta. Hàng chục triệu dòng kiếm bắn xuống không phân biệt lên mọi đơn vị toàn trường, đủ nghiền nát cả tòa thành. Mọi mục tiêu chịu lễ rửa lập tức rơi vào bất lợi kiểm định toàn thuộc tính không thể vãn hồi. Kết giới không chỉ tiêu hao toàn bộ dấu ấn bất lợi trên người chúng ngay khi giáng xuống để sinh ra tuẫn nổ dây chuyền cuồng bạo, mà còn ban cho người thi pháp phán quyết vương giả không thể ngăn cản, khiến sát thương cuối cùng của tuyệt hưởng khai thiên lập địa này tăng vọt tới +40%."
+              }
+            }
+          },
+          "觉醒二": {
+            "Vô Nguyên Kiếm Chế · Tsumukari": {
+              "名称": "Vô Nguyên Kiếm Chế · Tsumukari",
+              "类型": "Chủ động",
+              "描述": "Dung hợp kỹ nghệ của Emiya Shirou và Sengo Muramasa. Nấu chảy tính chất của vô hạn mảnh đao kiếm, loại bỏ mọi phần dư thừa, chỉ giữ lại khái niệm 'chém đứt'. Có thể coi mọi phòng ngự như không tồn tại; rèn đúc vượt cả Thần Đại, một kiếm khai mở.",
+              "阶位": "Thức tỉnh hai",
+              "特殊效果": {
+                "1": "Rút lấy toàn bộ ma lực và tiềm năng sinh mệnh, nấu chảy vạn kiếm trong lòng bàn tay để hiện hóa thành một thanh thái đao cứu cực duy nhất, chém ngang về phía trước theo cung quỹ đạo dài 100 yard, rộng 10 yard bằng một tia đoạn diệt có thể san phẳng cả số mệnh. Thanh kiếm này cưỡng chế và tuyệt đối bỏ qua mọi cộng thêm AC, cơ chế miễn dịch kháng tính, thậm chí cả nhân quả cấp thấp của hồi sinh tái sinh. Khi đối mặt kẻ đã bị [Phân tích] phá phòng nặng, ngưỡng bạo kích của chiêu này giảm thêm 1 điểm (mở rộng tới 19-20), phép chém đứt pháp tắc mang lại sát thương cuối cùng vô song +30%.",
+                "2": "Thăng hoa hoàn toàn chân ý mang tên khai mở và kết thúc này: tầng đứt gãy khái niệm thuần túy do thái đao vung ra lan dài tới 150 yard, rộng như một khe vực thần thánh. Ngoài việc tuyệt đối bỏ qua tuyến phòng thủ Thể chất và hoàn toàn chém rách mọi nơi trú ẩn pháp thuật nằm dưới bề dày thế giới quan hiện tại, nó còn muốn cưỡng ép cắt đứt bản nguyên của 'sự sống'. Mọi tử địch đang bị kết giới trấn áp hoặc có bất kỳ bất lợi trạng thái khống chế nào đều kích hoạt xung kích tuyệt phạt của khái niệm tất tử, khiến toàn bộ khiên sinh mệnh tạm thời của chúng bốc hơi sạch. Một nhát chém phá tuyệt khai thiên này, bằng quyền thống trị tuyệt đối của nó, hưởng bạo tăng sát thương hủy diệt tối thượng tới +50%."
+              }
+            }
+          },
+          "觉醒三": {
+            "Avalon": {
+              "名称": "Avalon",
+              "类型": "Đặc biệt",
+              "描述": "Giải phóng hoàn toàn khái niệm thánh di vật vỏ kiếm vốn ẩn giấu, triển khai “Vùng Đất Lý Tưởng Xa Xôi”, cắt đứt mọi can thiệp vật lý và ma pháp từ bên ngoài, thậm chí cả Ngũ Đại Ma Pháp, đạt tới sự vô địch hoàn mỹ tuyệt đối.",
+              "阶位": "Thức tỉnh ba",
+              "特殊效果": {
+                "1": "Trong trọn một vòng tuần hoàn thời tự sau khi phát động, hiệu ứng cưỡng chế có hiệu lực lên bản thân và toàn bộ đồng minh cốt lõi ở cực gần trong phạm vi 5 yard quanh bản thân. Phe ta hoàn toàn thoát khỏi ràng buộc vật lý và chiều không gian của thời không hiện tại, lẩn vào Nội Hải Tinh Cầu; trong thời gian đó miễn dịch mọi sát thương và khống chế trực tiếp hoặc gián tiếp đã biết lẫn chưa biết, bao gồm hủy diệt thần tạo và khóa chết tức tử. Khi giải trừ cách tuyệt và trở về trần thế, kỹ năng lạnh lùng hấp thu rồi chuyển hóa toàn bộ động năng tai ách ập tới trong khoảng trống nhân quả đó, bổ sung năng lượng sinh mệnh cho toàn phe ta, ban một lá chắn sinh mệnh tạm thời khổng lồ, đồng thời gột sạch và đảo ngược mọi bất lợi kiểm định vận mệnh do dị thường vực sâu gây ra, chúc phúc toàn bộ đồng đội để trong ba lần đánh cược tuyệt cảnh liên tiếp kế tiếp đạt lợi thế phán định tuyệt đối."
+              }
+            }
+          }
+        }
+      },
+      "skillFlavorInput": "Cơ bản: Ma thuật cường hóa, Phân tích kết cấu, Ma thuật chiếu ảnh\nChuyển nghề: Kanshou · Bakuya, Rho Aias bảy lớp, Dung hợp tính chất (có thể dung hợp đặc tính giữa các loại vũ khí có thể chiếu ảnh, ví dụ đem hiệu quả tất trúng của Gáe Bolg vào một vũ khí chiếu ảnh khác)\nNâng cao: Giả · Kiếm xoắn ốc, Tam liên Hạc Dực, Sụp đổ ảo tưởng\nTất sát: Vô Hạn Kiếm Chế, Kiếm chế đã mất (nén Kết giới cố hữu vào đạn hoặc mũi tên; sau khi trúng đích sẽ bùng nổ trong cơ thể địch) (đến từ Emiya Alter), Xạ Sát Bách Đầu\nÁo nghĩa: Kiếm Đá Quý, Thánh kiếm Tinh Tú, Vô Nguyên Kiếm Chế\nThức tỉnh một: Vô Hạn Kiếm Chế · Hoang dã\nThức tỉnh hai: Vô Nguyên Kiếm Chế · Tsumukari (đến từ Sengo Muramasa) (dung hợp kỹ nghệ của Emiya Shirou và Sengo Muramasa. Nấu chảy tính chất của vô hạn mảnh đao kiếm, loại bỏ phần dư thừa, chỉ giữ lại khái niệm 'chém đứt'. Có thể xem mọi phòng ngự như không tồn tại. Đây là rèn đúc vượt cả Thần Đại. Đây là một kiếm cứu cực, tồn tại chỉ để 'khai mở'.)\nThức tỉnh ba: Avalon",
+      "teammates": [
+        {
+          "id": "t3"
+        }
+      ],
+      "customTeammate": null,
+      "selectedTraits": [
+        "Mồm quạ",
+        "Mềm lòng",
+        "Ác mộng của cựu binh",
+        "Khách đến từ dị giới"
+      ],
+      "customTraits": [
+        {
+          "name": "Linh cơ Emiya",
+          "effect": "Kiểm định nấu ăn +4; món ăn làm ra chắc chắn kèm thêm hiệu ứng tăng ích. Nhận một ô tay phụ; ô này cho phép trang bị khiên (loại trang bị là khiên) hoặc vũ khí thứ hai. Nếu là vũ khí, xúc xắc sát thương của vũ khí đó giảm 2 bậc rồi gộp vào tính toán. Trong hiệp đầu của chiến đấu, thứ tự hành động +5. Bạn sẽ không bị đánh úp."
+        },
+        {
+          "name": "Linh cơ Sengo Muramasa",
+          "effect": "Khi rèn/chế tạo, kiểm định +2; khi rèn/chế tạo vũ khí kiếm/đao, kiểm định cộng thêm +2. Lời nói của bạn dễ dẫn dắt người khác hướng thiện hơn. Khi dùng kỹ năng loại kiếm/đao, sát thương cuối cùng tăng thêm 50%."
+        }
+      ],
+      "customExpertise": [],
+      "customIdentity": {
+        "enabled": true,
+        "name": "Xuất thân tùy chỉnh",
+        "desc": "",
+        "cardExpanded": false,
+        "tierIndex": 0
+      },
+      "starterShopSelection": [
+        "jewel_phoenix_pendant"
+      ],
+      "selectedWorldview": "corridor",
+      "selectedOpening": "custom",
+      "customOpeningText": "Người bảo hộ Nhân Lý, ở điểm cuối của hành trình vô tận, lại được một vị thần đến từ thế giới khác mượn đi làm việc.",
+      "selectedDifficulty": "easy",
+      "customRace": {
+        "enabled": true,
+        "name": "Nhân loại chủng · Căn nguyên",
+        "trait1": {
+          "name": "Khởi nguyên · Kiếm",
+          "detail": "Khi rèn/chế tạo vũ khí kiếm/đao, kiểm định +4. Khi dùng kỹ năng loại kiếm/đao, sát thương cuối cùng +50%. Dễ hiểu cấu tạo kiếm/đao hơn; khi rèn/chế tạo vũ khí kiếm/đao, kinh nghiệm nhận được +50%.",
+          "negative": false
+        },
+        "trait2": {
+          "name": "Người bảo hộ",
+          "detail": "Khi chịu ảnh hưởng ma pháp, kiểm định có lợi thế; tốc độ hồi phục HP đã mất tăng lên, kinh nghiệm nhận được +50%, tiêu hao thể lực -50%.",
+          "negative": false
+        }
+      }
+    }
+  }
+}

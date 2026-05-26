@@ -1,0 +1,700 @@
+{
+  "exportedAt": "2026-03-24T17:55:10.859Z",
+  "version": "1.0",
+  "preset": {
+    "id": "1774214461248",
+    "name": "Shadow-sama 2.0",
+    "timestamp": 1774214461248,
+    "createdAt": 1774214461248,
+    "updatedAt": 1774214461248,
+    "data": {
+      "name": "Cid Kagenou",
+      "gender": "Nam",
+      "age": 16,
+      "race": "__custom__",
+      "identity": "__custom__",
+      "avatar": "data:image/jpeg;base64,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",
+      "attributes": {
+        "strength": 15,
+        "dexterity": 15,
+        "constitution": 11,
+        "intelligence": 10,
+        "wisdom": 10,
+        "charisma": 10
+      },
+      "backstory": "",
+      "selectedLevelMode": "native",
+      "selectedCustomLevel": null,
+      "selectedSpawnPoint": "Tầng dưới Chợ Vách Cảng Hoàn Uyên · bờ biển ngoại vi",
+      "class": "Shadow",
+      "selectedBaseClass": "Nghề tùy chỉnh",
+      "customClassName": "Shadow",
+      "customClassStyle": "Trước khi chuyển sinh, Shadow-sama đã học võ thuật, piano và rất nhiều kiến thức khác để trở thành kẻ mạnh trong bóng tối. Sau khi chuyển sinh, cách hiểu của cậu về ma lực khác hẳn người thường; cậu phát triển kỹ thuật nén ma lực và không ngừng rèn luyện nó, từ khi sinh ra đã luyện ma lực, nhờ ma lực mà mỗi ngày có thể không cần ngủ vẫn tiếp tục tu luyện. Kết hợp tri thức kiếp trước với nỗ lực rèn luyện của bản thân, cậu có những năng lực sau:\n1. Tố chất thân thể mạnh mẽ, được tôi luyện từ nhỏ đến lớn và được cải tạo bằng ma lực.\n2. Kiếm kỹ mạnh mẽ, từng được Võ Thần đánh giá tự nhiên như mưa rơi, ở ngay bên cạnh nhưng gần như không thể nhận ra; cùng kỹ thuật cận chiến dùng dây thép, thánh kiếm vật lý - xà beng, tay chân đánh giáp lá cà.\n3. Lượng ma lực tinh luyện khổng lồ và chất lượng cao, có được nhờ tu luyện kỹ thuật nén ma lực.\n4. Slime: vật liệu có tỷ lệ dẫn ma lực lên tới 99%; chỉ cần rót ma lực vào là có thể tự do điều khiển, biến thành quần áo, kiếm và nhiều hình thái khác.\n5. Khống chế ma lực: có thể dùng ma lực thực hiện đủ loại thao tác, như trị thương cho bản thân hoặc người khác, chữa hiện tượng quỷ ám và hóa ma cà rồng; có thể dùng ma lực để bay, tạo lá chắn bảo vệ tinh cầu, điều khiển độ cứng của dây thép và slime, cải tạo thân thể bản thân hoặc người khác. Nổi tiếng nhất là I Am Atomic, mô phỏng vụ nổ hạt nhân bằng cách phóng thích lượng ma lực khổng lồ chất lượng cao; kẻ địch sẽ bốc hơi dưới đòn đánh và địa hình sẽ bị phá hủy.\nCảnh nổ hạt nhân có sức thể hiện mạnh nhất trong anime hiện tại là lần Shadow-sama dùng ma lực tạo lá chắn ngoài không gian để bảo vệ tinh cầu rồi phóng thích vụ nổ hạt nhân, nguồn năng lượng khổng lồ thắp sáng cả tinh hệ.",
+      "customClassWeapon": "Ma lực",
+      "customClassCombatStyle": "Hỗn hợp",
+      "skillTree": {
+        "基础": [
+          {
+            "名称": "Nén ma lực",
+            "类型": "Đặc biệt",
+            "描述": "Nền tảng mà Shadow tu luyện cả đời cũng là kỹ thuật mạnh nhất: thô bạo nén ma lực trong cơ thể, tăng mạnh uy lực và năng lực phán đoán của mọi chiêu thức tiếp theo.",
+            "特殊效果": {
+              "1": "Sau khi kích hoạt, kiểm định Sức mạnh và Nhanh nhẹn +1, sát thương cuối cùng của mọi kỹ năng chủ động +5%, kéo dài 2 vòng.",
+              "2": "Sau khi kích hoạt, kiểm định Sức mạnh và Nhanh nhẹn +1, sát thương cuối cùng của mọi kỹ năng chủ động +8%, kéo dài 2 vòng.",
+              "3": "Sau khi kích hoạt, kiểm định Sức mạnh và Nhanh nhẹn +1, sát thương cuối cùng của mọi kỹ năng chủ động +10%, kéo dài 3 vòng.",
+              "4": "Sau khi kích hoạt, kiểm định Sức mạnh và Nhanh nhẹn +1, sát thương cuối cùng của mọi kỹ năng chủ động +12%, kéo dài 3 vòng.",
+              "5": "Sau khi kích hoạt, kiểm định Sức mạnh và Nhanh nhẹn +2, sát thương cuối cùng của mọi kỹ năng chủ động +15%, kéo dài 3 vòng.",
+              "6": "Sau khi kích hoạt, kiểm định Sức mạnh và Nhanh nhẹn +2, sát thương cuối cùng của mọi kỹ năng chủ động +18%, kéo dài 3 vòng.",
+              "7": "Sau khi kích hoạt, kiểm định Sức mạnh và Nhanh nhẹn +2, sát thương cuối cùng của mọi kỹ năng chủ động +22%, kéo dài 4 vòng.",
+              "8": "Sau khi kích hoạt, kiểm định Sức mạnh và Nhanh nhẹn +2, sát thương cuối cùng của mọi kỹ năng chủ động +25%, kéo dài 4 vòng.",
+              "9": "Sau khi kích hoạt, kiểm định Sức mạnh và Nhanh nhẹn +2, sát thương cuối cùng của mọi kỹ năng chủ động +28%, kéo dài 4 vòng.",
+              "10": "Sau khi kích hoạt, kiểm định Sức mạnh và Nhanh nhẹn +3, sát thương cuối cùng của mọi kỹ năng chủ động +32%, kéo dài 4 vòng; trong thời gian này, mọi kháng pháp thuật +1.",
+              "11": "Sau khi kích hoạt, kiểm định Sức mạnh và Nhanh nhẹn +3, sát thương cuối cùng của mọi kỹ năng chủ động +35%, kéo dài 4 vòng; trong thời gian này, mọi kháng pháp thuật +1.",
+              "12": "Sau khi kích hoạt, kiểm định Sức mạnh và Nhanh nhẹn +3, sát thương cuối cùng của mọi kỹ năng chủ động +38%, kéo dài 5 vòng; trong thời gian này, mọi kháng pháp thuật +2.",
+              "13": "Sau khi kích hoạt, kiểm định Sức mạnh và Nhanh nhẹn +3, sát thương cuối cùng của mọi kỹ năng chủ động +42%, kéo dài 5 vòng; trong thời gian này, mọi kháng pháp thuật +2.",
+              "14": "Sau khi kích hoạt, kiểm định Sức mạnh và Nhanh nhẹn +4, sát thương cuối cùng của mọi kỹ năng chủ động +45%, kéo dài 5 vòng; trong thời gian này, mọi kháng pháp thuật +2.",
+              "15": "Sau khi kích hoạt, kiểm định Sức mạnh và Nhanh nhẹn +5, sát thương cuối cùng của mọi kỹ năng chủ động +50%, kéo dài 5 vòng; trong thời gian này tiến vào trạng thái tập trung cực độ, mọi kiểm định trúng đích của công kích bản thân tự động có lợi thế, đồng thời miễn dịch mọi hiệu quả giảm tốc hoặc giảm thuộc tính áp lên bản thân."
+            },
+            "阶位": "Cơ bản"
+          },
+          {
+            "名称": "Tơ bóng tối",
+            "类型": "Chủ động",
+            "描述": "Vung ra dây thép gần như không thể quan sát đã rót ma lực, cắt xé và quấn lấy kẻ địch phía trước. Đây là thủ đoạn mở màn gom quái kín đáo nhất của lưu phái Shadow.",
+            "特殊效果": {
+              "1": "Sau khi trúng đòn, đơn thể mục tiêu thực hiện miễn trừ Nhanh nhẹn; nếu thất bại thì bị kéo về phía bạn 1 ô và bị gắn [ấn ký bóng tối] kéo dài 2 vòng; sát thương cuối cùng của lần công kích này +0%.",
+              "2": "Sau khi trúng đòn, đơn thể mục tiêu thực hiện miễn trừ Nhanh nhẹn; nếu thất bại thì bị kéo về phía bạn 1 ô và bị gắn [ấn ký bóng tối] kéo dài 2 vòng; sát thương cuối cùng của lần công kích này +5%.",
+              "3": "Sau khi trúng đòn, đơn thể mục tiêu thực hiện miễn trừ Nhanh nhẹn; nếu thất bại thì bị kéo về phía bạn 1 ô và bị gắn [ấn ký bóng tối] kéo dài 2 vòng; sát thương cuối cùng của lần công kích này +10%.",
+              "4": "Sau khi trúng đòn, đơn thể mục tiêu thực hiện miễn trừ Nhanh nhẹn; nếu thất bại thì bị kéo về phía bạn 2 ô và bị gắn [ấn ký bóng tối] kéo dài 2 vòng; sát thương cuối cùng của lần công kích này +10%.",
+              "5": "Sau khi trúng đòn, đơn thể mục tiêu thực hiện miễn trừ Nhanh nhẹn; nếu thất bại thì bị kéo về phía bạn 2 ô và bị gắn [ấn ký bóng tối] kéo dài 2 vòng; sát thương cuối cùng của lần công kích này +15%.",
+              "6": "Sau khi trúng đòn, đơn thể mục tiêu thực hiện miễn trừ Nhanh nhẹn; nếu thất bại thì bị kéo về phía bạn 2 ô và bị gắn [ấn ký bóng tối] kéo dài 2 vòng; sát thương cuối cùng của lần công kích này +20%.",
+              "7": "Sau khi trúng đòn, đơn thể mục tiêu thực hiện miễn trừ Nhanh nhẹn; nếu thất bại thì bị kéo về phía bạn 2 ô và bị gắn [ấn ký bóng tối] kéo dài 3 vòng; sát thương cuối cùng của lần công kích này +20%.",
+              "8": "Sau khi trúng đòn, đơn thể mục tiêu thực hiện miễn trừ Nhanh nhẹn; nếu thất bại thì bị kéo về phía bạn 2 ô và bị gắn [ấn ký bóng tối] kéo dài 3 vòng; sát thương cuối cùng của lần công kích này +25%.",
+              "9": "Sau khi trúng đòn, đơn thể mục tiêu thực hiện miễn trừ Nhanh nhẹn; nếu thất bại thì bị kéo về phía bạn 2 ô và bị gắn [ấn ký bóng tối] kéo dài 3 vòng; sát thương cuối cùng của lần công kích này +30%.",
+              "10": "Sau khi trúng đòn, đơn thể mục tiêu thực hiện miễn trừ Nhanh nhẹn; nếu thất bại thì bị kéo về phía bạn 2 ô, bị [trói buộc] 1 vòng và bị gắn [ấn ký bóng tối] kéo dài 3 vòng; sát thương cuối cùng của lần công kích này +30%.",
+              "11": "Sau khi trúng đòn, đơn thể mục tiêu thực hiện miễn trừ Nhanh nhẹn; nếu thất bại thì bị kéo về phía bạn 2 ô, bị [trói buộc] 1 vòng và bị gắn [ấn ký bóng tối] kéo dài 3 vòng; sát thương cuối cùng của lần công kích này +35%.",
+              "12": "Sau khi trúng đòn, đơn thể mục tiêu thực hiện miễn trừ Nhanh nhẹn; nếu thất bại thì bị kéo về phía bạn 2 ô, bị [trói buộc] 1 vòng và bị gắn [ấn ký bóng tối] kéo dài 3 vòng; sát thương cuối cùng của lần công kích này +40%.",
+              "13": "Phạm vi công kích mở rộng thành vùng nón nhỏ phía trước; mọi kẻ địch trong vùng thất bại miễn trừ đều mục tiêu thực hiện miễn trừ Nhanh nhẹn; nếu thất bại thì bị kéo về phía bạn 2 ô, bị [trói buộc] 1 vòng và bị gắn [ấn ký bóng tối] kéo dài 3 vòng; sát thương cuối cùng của lần công kích này +40%.",
+              "14": "Mọi kẻ địch trong vùng nón thất bại miễn trừ đều mục tiêu thực hiện miễn trừ Nhanh nhẹn; nếu thất bại thì bị kéo về phía bạn 2 ô, bị [trói buộc] 1 vòng và bị gắn [ấn ký bóng tối] kéo dài 3 vòng; sát thương cuối cùng của lần công kích này +45%.",
+              "15": "Phạm vi công kích mở rộng thành vùng nón góc rộng phía trước; mọi kẻ địch thất bại miễn trừ đều mục tiêu thực hiện miễn trừ Nhanh nhẹn; nếu thất bại thì bị kéo về phía bạn 2 ô, bị [trói buộc] 1 vòng và bị gắn [ấn ký bóng tối] kéo dài 3 vòng; sát thương cuối cùng của lần công kích này +0%; nếu mục tiêu đã có [ấn ký bóng tối], mục tiêu chịu thêm một lần sát thương xé cắt như máy xay thịt, sát thương cuối cùng của sát thương phụ này tăng 30%."
+            },
+            "阶位": "Cơ bản"
+          },
+          {
+            "名称": "Ảnh thức · Yến Phản",
+            "类型": "Chủ động",
+            "描述": "Kiếm kỹ cơ bản của lưu phái Shadow. Hai nhát chém tưởng như tùy ý lại không có bất kỳ động tác thừa nào, hoàn toàn khớp với cảm giác tự nhiên như mưa rơi.",
+            "特殊效果": {
+              "1": "Phát động hai nhát chém liên tiếp cực nhanh; nếu mục tiêu mang [ấn ký bóng tối], kiểm định trúng đích +0, sát thương cuối cùng +5%.",
+              "2": "Phát động hai nhát chém liên tiếp cực nhanh; nếu mục tiêu mang [ấn ký bóng tối], kiểm định trúng đích +0, sát thương cuối cùng +8%.",
+              "3": "Phát động hai nhát chém liên tiếp cực nhanh; nếu mục tiêu mang [ấn ký bóng tối], kiểm định trúng đích +0, sát thương cuối cùng +12%.",
+              "4": "Phát động hai nhát chém liên tiếp cực nhanh; nếu mục tiêu mang [ấn ký bóng tối], kiểm định trúng đích +1, sát thương cuối cùng +12%.",
+              "5": "Phát động hai nhát chém liên tiếp cực nhanh; nếu mục tiêu mang [ấn ký bóng tối], kiểm định trúng đích +1, sát thương cuối cùng +15%.",
+              "6": "Phát động hai nhát chém liên tiếp cực nhanh; nếu mục tiêu mang [ấn ký bóng tối], kiểm định trúng đích +1, sát thương cuối cùng +20%.",
+              "7": "Phát động hai nhát chém liên tiếp cực nhanh; nếu mục tiêu mang [ấn ký bóng tối], kiểm định trúng đích +2, sát thương cuối cùng +20%.",
+              "8": "Phát động hai nhát chém liên tiếp cực nhanh; nếu mục tiêu mang [ấn ký bóng tối], kiểm định trúng đích +2, sát thương cuối cùng +25%.",
+              "9": "Phát động hai nhát chém liên tiếp cực nhanh; nếu mục tiêu mang [ấn ký bóng tối], kiểm định trúng đích +2, sát thương cuối cùng +28%.",
+              "10": "Liên trảm nâng cấp thành ba đoạn; nếu mục tiêu mang [ấn ký bóng tối], kiểm định trúng đích +2, sát thương cuối cùng +35%, đồng thời khiến tốc độ mục tiêu -1 ô trong 1 vòng.",
+              "11": "Liên trảm nâng cấp thành ba đoạn; nếu mục tiêu mang [ấn ký bóng tối], kiểm định trúng đích +2, sát thương cuối cùng +38%, đồng thời khiến tốc độ mục tiêu -1 ô trong 1 vòng.",
+              "12": "Liên trảm nâng cấp thành ba đoạn; nếu mục tiêu mang [ấn ký bóng tối], kiểm định trúng đích +3, sát thương cuối cùng +42%, đồng thời khiến tốc độ mục tiêu -1 ô trong 1 vòng.",
+              "13": "Liên trảm nâng cấp thành ba đoạn; nếu mục tiêu mang [ấn ký bóng tối], kiểm định trúng đích +3, sát thương cuối cùng +45%, đồng thời khiến tốc độ mục tiêu -2 ô trong 1 vòng.",
+              "14": "Liên trảm nâng cấp thành ba đoạn; nếu mục tiêu mang [ấn ký bóng tối], kiểm định trúng đích +3, sát thương cuối cùng +50%, đồng thời khiến tốc độ mục tiêu -2 ô trong 1 vòng.",
+              "15": "Liên trảm nâng cấp thành tàn ảnh ba đoạn hoàn mỹ; nếu mục tiêu mang [ấn ký bóng tối], kiểm định trúng đích +3, sát thương cuối cùng +60%, tốc độ -2 ô; sau khi trúng đòn, trực tiếp làm mới thời lượng [ấn ký bóng tối] trên mục tiêu và buộc lần kiểm định công kích kế tiếp của mục tiêu rơi vào bất lợi."
+            },
+            "阶位": "Cơ bản"
+          }
+        ],
+        "转职": [
+          {
+            "名称": "Bước bóng tối",
+            "类型": "Chủ động",
+            "描述": "Hóa thành một khối bóng đen không thể quan sát, tức thời xuất hiện từ điểm mù trong tầm nhìn của mục tiêu và phát động tập kích. Gắn ấn ký để nối chiêu.",
+            "特殊效果": {
+              "1": "Dịch chuyển tức thời tới sau lưng một kẻ địch trong phạm vi 15 thước và phát động chém, sát thương cuối cùng +0%, gắn [ấn ký bóng tối] kéo dài 2 vòng.",
+              "2": "Dịch chuyển tức thời tới sau lưng một kẻ địch trong phạm vi 15 thước và phát động chém, sát thương cuối cùng +5%, gắn [ấn ký bóng tối] kéo dài 2 vòng.",
+              "3": "Dịch chuyển tức thời tới sau lưng một kẻ địch trong phạm vi 20 thước và phát động chém, sát thương cuối cùng +8%, gắn [ấn ký bóng tối] kéo dài 2 vòng.",
+              "4": "Dịch chuyển tức thời tới sau lưng một kẻ địch trong phạm vi 20 thước và phát động chém, sát thương cuối cùng +10%, gắn [ấn ký bóng tối] kéo dài 2 vòng.",
+              "5": "Dịch chuyển tức thời tới sau lưng một kẻ địch trong phạm vi 20 thước và phát động chém, sát thương cuối cùng +15%, gắn [ấn ký bóng tối] kéo dài 3 vòng.",
+              "6": "Dịch chuyển tức thời tới sau lưng một kẻ địch trong phạm vi 25 thước và phát động chém, sát thương cuối cùng +18%, gắn [ấn ký bóng tối] kéo dài 3 vòng.",
+              "7": "Dịch chuyển tức thời tới sau lưng một kẻ địch trong phạm vi 25 thước và phát động chém, sát thương cuối cùng +22%, gắn [ấn ký bóng tối] kéo dài 3 vòng; nếu trúng đòn, cấp né tránh của bản thân tạm thời +1 trong 1 vòng.",
+              "8": "Dịch chuyển tức thời tới sau lưng một kẻ địch trong phạm vi 25 thước và phát động chém, sát thương cuối cùng +25%, gắn [ấn ký bóng tối] kéo dài 3 vòng; cấp né tránh của bản thân tạm thời +1 trong 1 vòng.",
+              "9": "Dịch chuyển tức thời tới sau lưng một kẻ địch trong phạm vi 30 thước và phát động chém, sát thương cuối cùng +28%, gắn [ấn ký bóng tối] kéo dài 3 vòng; cấp né tránh của bản thân tạm thời +1 trong 1 vòng.",
+              "10": "Dịch chuyển tức thời tới sau lưng một kẻ địch trong phạm vi 30 thước và phát động chém, sát thương cuối cùng +32%, gắn [ấn ký bóng tối] kéo dài 4 vòng; cấp né tránh của bản thân tạm thời +2 trong 1 vòng, và lần kiểm định sát thương cận chiến kế tiếp tự có lợi thế.",
+              "11": "Dịch chuyển tức thời tới sau lưng một kẻ địch trong phạm vi 30 thước và phát động chém, sát thương cuối cùng +35%, gắn [ấn ký bóng tối] kéo dài 4 vòng; cấp né tránh của bản thân tạm thời +2 trong 1 vòng.",
+              "12": "Dịch chuyển tức thời tới sau lưng một kẻ địch trong phạm vi 35 thước và phát động chém, sát thương cuối cùng +40%, gắn [ấn ký bóng tối] kéo dài 4 vòng; cấp né tránh của bản thân tạm thời +2 trong 1 vòng.",
+              "13": "Dịch chuyển tức thời tới sau lưng một kẻ địch trong phạm vi 35 thước và phát động chém, sát thương cuối cùng +45%, gắn [ấn ký bóng tối] kéo dài 4 vòng; cấp né tránh của bản thân tạm thời +2 trong 1 vòng.",
+              "14": "Dịch chuyển tức thời tới sau lưng một kẻ địch trong phạm vi 35 thước và phát động chém, sát thương cuối cùng +50%, gắn [ấn ký bóng tối] kéo dài 4 vòng; cấp né tránh của bản thân tạm thời +2 trong 1 vòng.",
+              "15": "Dịch chuyển tức thời tới sau lưng một kẻ địch trong phạm vi tầm nhìn (tối đa 50) thước và phát động chém, sát thương cuối cùng +0%, gắn [ấn ký bóng tối] kéo dài 4 vòng không thể bị xua tan. Công kích này mở rộng phạm vi bạo kích tới 18-20; nếu dùng kỹ năng này hạ sát mục tiêu, lập tức nhận thêm một cơ hội di chuyển không tiêu hao hành động."
+            },
+            "阶位": "Chuyển nghề"
+          },
+          {
+            "名称": "Vũ trang slime",
+            "类型": "Đặc biệt nghề nghiệp",
+            "描述": "Áo ngoài và vũ khí chuyên dụng được tạo từ slime có tỷ lệ dẫn ma lực 99%. Đây là ngụy trang cao cấp nhất: nhẹ, có thể biến hình, phòng ngự cực cao và hoàn toàn không hạn chế dòng chảy ma lực.",
+            "特殊效果": {
+              "1": "Nhận hình thái thường trú: áo ngoài của bạn tương đương giáp nhẹ sử thi cấp phòng cụ +3, không chỉ không hạn chế thi pháp bằng Nhanh nhẹn, mà còn khiến sát thương cuối cùng từ công kích vật lý phi ma pháp bạn nhận vào giảm 15%. Vũ khí slime trong tay bạn có thể tùy ý chuyển đổi giữa trường kiếm/xà beng/trường tiên mà không tốn hành động, đồng thời mọi công kích cận chiến được xem là công kích ma pháp."
+            },
+            "阶位": "Chuyển nghề"
+          },
+          {
+            "名称": "Ảnh thức · Nguyệt Kiêu",
+            "类型": "Chủ động",
+            "描述": "Kiếm kỹ hất tung từ dưới lên, vung ra kiếm khí đen kịt như chim cú vỗ cánh, cắt đứt tiết tấu tiến công của kẻ địch.",
+            "特殊效果": {
+              "1": "Sau khi trúng đòn, mục tiêu thực hiện miễn trừ Thể chất; nếu thất bại thì bị [hất tung] 1 vòng.",
+              "2": "Sau khi trúng đòn, mục tiêu thực hiện miễn trừ Thể chất; nếu thất bại thì bị [hất tung] 1 vòng; sát thương cuối cùng +5%.",
+              "3": "Sau khi trúng đòn, mục tiêu thực hiện miễn trừ Thể chất; nếu thất bại thì bị [hất tung] 1 vòng; sát thương cuối cùng +8%.",
+              "4": "Sau khi trúng đòn, mục tiêu thực hiện miễn trừ Thể chất; nếu thất bại thì bị [hất tung] 1 vòng; sát thương cuối cùng +12%.",
+              "5": "Sau khi trúng đòn, mục tiêu thực hiện miễn trừ Thể chất; nếu thất bại thì bị [hất tung] 1 vòng; sát thương cuối cùng +15%; với kẻ địch đang bị [hất tung], truy kích thêm một lần sát thương kiếm khí.",
+              "6": "Sau khi trúng đòn, mục tiêu thực hiện miễn trừ Thể chất; nếu thất bại thì bị [hất tung] 1 vòng; sát thương cuối cùng +18%; truy kích thêm sát thương kiếm khí.",
+              "7": "Sau khi trúng đòn, mục tiêu thực hiện miễn trừ Thể chất; nếu thất bại thì bị [hất tung] 1 vòng; sát thương cuối cùng +22%; truy kích thêm sát thương kiếm khí.",
+              "8": "Sau khi trúng đòn, mục tiêu thực hiện miễn trừ Thể chất; nếu thất bại thì bị [hất tung] 1 vòng; sát thương cuối cùng +25%; nếu mục tiêu đã có [ấn ký bóng tối], miễn trừ hất tung chuyển thành bất lợi.",
+              "9": "Sau khi trúng đòn, mục tiêu thực hiện miễn trừ Thể chất; nếu thất bại thì bị [hất tung] 1 vòng; sát thương cuối cùng +28%; nếu mục tiêu đã có [ấn ký bóng tối], miễn trừ hất tung chuyển thành bất lợi.",
+              "10": "Sau khi trúng đòn, mục tiêu thực hiện miễn trừ Thể chất; nếu thất bại thì bị [hất tung] 1 vòng, khi hết vòng kèm hiệu quả [ngã xuống]; sát thương cuối cùng +35%; trong lúc bị hất tung, mục tiêu không thể thực hiện hành động phản ứng.",
+              "11": "Sau khi trúng đòn, mục tiêu thực hiện miễn trừ Thể chất; nếu thất bại thì bị [hất tung] 1 vòng, khi hết vòng kèm hiệu quả [ngã xuống]; sát thương cuối cùng +40%; trong lúc bị hất tung, mục tiêu không thể thực hiện hành động phản ứng.",
+              "12": "Sau khi trúng đòn, mục tiêu thực hiện miễn trừ Thể chất; nếu thất bại thì bị [hất tung] 1 vòng, khi hết vòng kèm hiệu quả [ngã xuống]; sát thương cuối cùng +45%; trong lúc bị hất tung, mục tiêu không thể thực hiện hành động phản ứng.",
+              "13": "Sau khi trúng đòn, mục tiêu thực hiện miễn trừ Thể chất; nếu thất bại thì bị [hất tung] 1 vòng, khi hết vòng kèm hiệu quả [ngã xuống]; sát thương cuối cùng +50%; trong lúc bị hất tung, mục tiêu không thể thực hiện hành động phản ứng.",
+              "14": "Sau khi trúng đòn, mục tiêu thực hiện miễn trừ Thể chất; nếu thất bại thì bị [hất tung] 1 vòng, khi hết vòng kèm hiệu quả [ngã xuống]; sát thương cuối cùng +55%; trong lúc bị hất tung, mục tiêu không thể thực hiện hành động phản ứng.",
+              "15": "Sau khi trúng đòn, mục tiêu thực hiện miễn trừ Thể chất; nếu thất bại thì bị [hất tung] 1 vòng mạnh (xem như treo lơ lửng và bị câm lặng) trong 1 vòng, sau khi rơi xuống bị [ngã xuống] nặng và kèm giảm tốc 1 vòng. Sát thương cuối cùng tăng vọt 70%, đồng thời bỏ qua khiên của mục tiêu có ấn ký."
+            },
+            "阶位": "Chuyển nghề"
+          }
+        ],
+        "进阶": [
+          {
+            "名称": "Pha loãng hiện diện",
+            "类型": "Đặc biệt",
+            "描述": "Ẩn giấu hoàn mỹ dao động ma lực và khí tức của bản thân, không có cảm giác tồn tại như người qua đường. Dùng để thoát thù hận trong giao chiến dữ dội và tạo cửa sổ ưu thế tuyệt đối cho đòn chí mạng kế tiếp.",
+            "特殊效果": {
+              "1": "Chủ động kích hoạt, kiểm định Ẩn nấp bằng Nhanh nhẹn của bản thân có lợi thế, kéo dài 1 vòng. Đòn công kích đầu tiên sau khi phá ẩn có kiểm định trúng đích +0, sát thương cuối cùng +5%.",
+              "2": "Chủ động kích hoạt, kiểm định Ẩn nấp bằng Nhanh nhẹn của bản thân có lợi thế, kéo dài 1 vòng. Đòn công kích đầu tiên sau khi phá ẩn có kiểm định trúng đích +0, sát thương cuối cùng +8%.",
+              "3": "Chủ động kích hoạt, kiểm định Ẩn nấp bằng Nhanh nhẹn của bản thân có lợi thế, kéo dài 2 vòng. Đòn công kích đầu tiên sau khi phá ẩn có kiểm định trúng đích +0, sát thương cuối cùng +10%.",
+              "4": "Chủ động kích hoạt, kiểm định Ẩn nấp bằng Nhanh nhẹn của bản thân có lợi thế, kéo dài 2 vòng. Đòn công kích đầu tiên sau khi phá ẩn có kiểm định trúng đích +0, sát thương cuối cùng +15%.",
+              "5": "Chủ động kích hoạt, trực tiếp tiến vào trạng thái [ẩn hình], kéo dài 2 vòng. Đòn công kích đầu tiên sau khi phá ẩn có kiểm định trúng đích +1, sát thương cuối cùng +18%.",
+              "6": "Chủ động kích hoạt, trực tiếp tiến vào trạng thái [ẩn hình], kéo dài 2 vòng. Đòn công kích đầu tiên sau khi phá ẩn có kiểm định trúng đích +1, sát thương cuối cùng +22%.",
+              "7": "Chủ động kích hoạt, trực tiếp tiến vào trạng thái [ẩn hình], kéo dài 2 vòng. Đòn công kích đầu tiên sau khi phá ẩn có kiểm định trúng đích +1, sát thương cuối cùng +25%.",
+              "8": "Chủ động kích hoạt, trực tiếp tiến vào trạng thái [ẩn hình], kéo dài 3 vòng. Đòn công kích đầu tiên sau khi phá ẩn có kiểm định trúng đích +1, sát thương cuối cùng +28%.",
+              "9": "Chủ động kích hoạt, trực tiếp tiến vào trạng thái [ẩn hình], kéo dài 3 vòng. Đòn công kích đầu tiên sau khi phá ẩn có kiểm định trúng đích +2, sát thương cuối cùng +32%.",
+              "10": "Chủ động kích hoạt, tiến vào trạng thái [ẩn hình cao cấp] (dù công kích cũng không lập tức hiện hình, duy trì đến khi lượt hiện tại kết thúc), kéo dài 3 vòng. Đòn công kích đầu tiên sau khi phá ẩn có kiểm định trúng đích +2, sát thương cuối cùng +38%."
+            },
+            "阶位": "Nâng cao"
+          },
+          {
+            "名称": "Trận gai slime",
+            "类型": "Chủ động",
+            "描述": "Biến chiến y slime bao bọc toàn thân thành vô số gai đen trong khoảnh khắc, xuyên phá bốn phương tám hướng. Đây là áp chế không góc chết sau khi Bước bóng tối cắt vào giữa đội hình địch.",
+            "特殊效果": {
+              "1": "Bùng phát gai xuyên trong phạm vi 10 thước. Kẻ địch trong phạm vi miễn trừ Nhanh nhẹn với bất lợi; nếu thất bại sẽ chịu sát thương, sát thương cuối cùng +5%.",
+              "2": "Bùng phát gai xuyên trong phạm vi 10 thước. Kẻ địch trong phạm vi miễn trừ Nhanh nhẹn với bất lợi; nếu thất bại sẽ chịu sát thương, sát thương cuối cùng +8%.",
+              "3": "Bùng phát gai xuyên trong phạm vi 10 thước. Kẻ địch trong phạm vi miễn trừ Nhanh nhẹn với bất lợi; nếu thất bại sẽ chịu sát thương, sát thương cuối cùng +10%; người trúng đòn bị giảm tốc 1 ô.",
+              "4": "Bùng phát gai xuyên trong phạm vi 12 thước. Kẻ địch trong phạm vi miễn trừ Nhanh nhẹn với bất lợi; nếu thất bại sẽ chịu sát thương, sát thương cuối cùng +12%; người trúng đòn bị giảm tốc 1 ô.",
+              "5": "Bùng phát gai xuyên trong phạm vi 12 thước. Kẻ địch trong phạm vi miễn trừ Nhanh nhẹn với bất lợi; nếu thất bại sẽ chịu sát thương, sát thương cuối cùng +15%; người trúng đòn bị giảm tốc 1 ô; với kẻ địch đã có [ấn ký bóng tối], gai slime truy kích thêm một lần sát thương nhỏ.",
+              "6": "Bùng phát gai xuyên trong phạm vi 12 thước. Kẻ địch trong phạm vi miễn trừ Nhanh nhẹn với bất lợi; nếu thất bại sẽ chịu sát thương, sát thương cuối cùng +18%; người trúng đòn bị giảm tốc 1 ô; với kẻ địch đã có [ấn ký bóng tối], truy kích thêm sát thương, sát thương phụ cuối cùng +5%.",
+              "7": "Bùng phát gai xuyên trong phạm vi 15 thước. Kẻ địch trong phạm vi miễn trừ Nhanh nhẹn với bất lợi; nếu thất bại sẽ chịu sát thương, sát thương cuối cùng +22%; người trúng đòn bị giảm tốc 1 ô; với kẻ địch đã có [ấn ký bóng tối], truy kích thêm sát thương, sát thương phụ cuối cùng +5%.",
+              "8": "Bùng phát gai xuyên trong phạm vi 15 thước. Kẻ địch trong phạm vi miễn trừ Nhanh nhẹn với bất lợi; nếu thất bại sẽ chịu sát thương, sát thương cuối cùng +25%; người trúng đòn bị giảm tốc 2 ô; với kẻ địch đã có [ấn ký bóng tối], truy kích thêm sát thương, sát thương phụ cuối cùng +10%.",
+              "9": "Bùng phát gai xuyên trong phạm vi 15 thước. Kẻ địch trong phạm vi miễn trừ Nhanh nhẹn với bất lợi; nếu thất bại sẽ chịu sát thương, sát thương cuối cùng +28%; người trúng đòn bị giảm tốc 2 ô; với kẻ địch đã có [ấn ký bóng tối], truy kích thêm sát thương, sát thương phụ cuối cùng +10%.",
+              "10": "Bùng phát trận gai siết cổ trong phạm vi 18 thước. Kẻ địch trong phạm vi miễn trừ Nhanh nhẹn với bất lợi; nếu thất bại sẽ chịu sát thương, sát thương cuối cùng +35%; mọi kẻ địch thất bại bị đóng đinh tại chỗ ([giam cầm] 1 vòng). Với kẻ địch có ấn ký, gai slime xé rách thêm, khiến kháng chảy máu của mục tiêu tạm thời về 0."
+            },
+            "阶位": "Nâng cao"
+          },
+          {
+            "名称": "Ảnh thức · Tàn Nguyệt",
+            "类型": "Chủ động",
+            "描述": "Xoay người vung ra một luồng kiếm khí hình cung đen kịt nuốt trọn ánh sáng xung quanh. Một đòn tưởng mộc mạc không hoa mỹ, thực chất có thể cắt rách không gian và cưỡng ép đẩy lùi đám địch đang áp sát.",
+            "特殊效果": {
+              "1": "Vung kiếm khí hình quạt gây sát thương cho kẻ địch trong phạm vi 15 thước phía trước, sát thương cuối cùng +5%, đẩy lui 1 ô nếu mục tiêu thất bại miễn trừ.",
+              "2": "Vung kiếm khí hình quạt gây sát thương cho kẻ địch trong phạm vi 15 thước phía trước, sát thương cuối cùng +8%, đẩy lui 1 ô nếu mục tiêu thất bại miễn trừ.",
+              "3": "Vung kiếm khí hình quạt gây sát thương cho kẻ địch trong phạm vi 15 thước phía trước, sát thương cuối cùng +12%, đẩy lui 1 ô nếu mục tiêu thất bại miễn trừ.",
+              "4": "Vung kiếm khí hình quạt gây sát thương cho kẻ địch trong phạm vi 15 thước phía trước, sát thương cuối cùng +15%, đẩy lui 1 ô nếu mục tiêu thất bại miễn trừ.",
+              "5": "Sóng xung kích mở rộng gây sát thương cho kẻ địch trong phạm vi 20 thước phía trước, sát thương cuối cùng +20%, đẩy lui 2 ô.",
+              "6": "Sóng xung kích mở rộng gây sát thương cho kẻ địch trong phạm vi 20 thước phía trước, sát thương cuối cùng +22%, đẩy lui 2 ô.",
+              "7": "Sóng xung kích mở rộng gây sát thương cho kẻ địch trong phạm vi 20 thước phía trước, sát thương cuối cùng +25%, đẩy lui 2 ô.",
+              "8": "Sóng xung kích mở rộng gây sát thương cho kẻ địch trong phạm vi 20 thước phía trước, sát thương cuối cùng +28%, đẩy lui 2 ô; nếu mục tiêu va vào chướng ngại, chịu thêm một lần sát thương cùn nhẹ.",
+              "9": "Sóng xung kích mở rộng gây sát thương cho kẻ địch trong phạm vi 20 thước phía trước, sát thương cuối cùng +32%, đẩy lui 2 ô; nếu mục tiêu va vào chướng ngại, chịu thêm một lần sát thương cùn.",
+              "10": "Kiếm khí Tàn Nguyệt thực thể hóa gây sát thương cho kẻ địch trong phạm vi 25 thước phía trước, sát thương cuối cùng +38%, đẩy lui 2 ô; nếu mục tiêu bị đánh văng vào tường thì chắc chắn kèm [choáng] 1 vòng; nếu mục tiêu mang [ấn ký bóng tối], kiếm khí sẽ tạo một vụ nổ cực nhỏ."
+            },
+            "阶位": "Nâng cao"
+          }
+        ],
+        "必杀": [
+          {
+            "名称": "Kết giới ma lực",
+            "类型": "Đặc biệt",
+            "描述": "Dùng ma lực mật độ cực cao dựng lá chắn tuyệt đối quanh thân. Nó không chỉ chống đỡ đòn hủy diệt, mà ma lực tinh thuần còn thanh lọc và chữa lành mọi dị thường cùng chứng phụ thân trong cơ thể.",
+            "特殊效果": {
+              "1": "Tiêu hao một lượng nhỏ ma lực để tạo khiên, nhận sinh mệnh tạm thời bằng 10% giới hạn sinh mệnh, kéo dài 2 vòng.",
+              "2": "Tiêu hao một lượng nhỏ ma lực để tạo khiên, nhận sinh mệnh tạm thời bằng 12% giới hạn sinh mệnh, kéo dài 2 vòng.",
+              "3": "Tiêu hao một lượng nhỏ ma lực để tạo khiên, nhận sinh mệnh tạm thời bằng 15% giới hạn sinh mệnh, kéo dài 2 vòng.",
+              "4": "Tiêu hao một lượng nhỏ ma lực để tạo khiên, nhận sinh mệnh tạm thời bằng 18% giới hạn sinh mệnh, kéo dài 3 vòng.",
+              "5": "Mật độ khiên tăng, nhận sinh mệnh tạm thời bằng 20% giới hạn sinh mệnh, kéo dài 3 vòng; khi khiên tồn tại, mọi kiểm định miễn trừ thuộc tính của bản thân +1.",
+              "6": "Mật độ khiên tăng, nhận sinh mệnh tạm thời bằng 22% giới hạn sinh mệnh, kéo dài 3 vòng; khi khiên tồn tại, mọi kiểm định miễn trừ thuộc tính của bản thân +1.",
+              "7": "Mật độ khiên tăng, nhận sinh mệnh tạm thời bằng 25% giới hạn sinh mệnh, kéo dài 3 vòng; khi khiên tồn tại, mọi kiểm định miễn trừ thuộc tính của bản thân +1."
+            },
+            "阶位": "Tất sát"
+          },
+          {
+            "名称": "Ảnh thức · Vô Minh",
+            "类型": "Chủ động",
+            "描述": "Thu kiếm vào vỏ, nén ma lực cực hạn trong vỏ kiếm rồi rút đao với tốc độ thần tốc. Ngay cả động tác xuất kiếm cũng không thể quan sát; đây là kỹ thuật chém giết đơn thể mạnh nhất để kích nổ ấn ký và kết liễu sinh mệnh.",
+            "特殊效果": {
+              "1": "Áp sát mục tiêu và phát động một đòn rút đao cực tốc lên đơn thể cận chiến, sát thương cuối cùng +10%.",
+              "2": "Áp sát mục tiêu và phát động một đòn rút đao cực tốc lên đơn thể cận chiến, sát thương cuối cùng +15%.",
+              "3": "Áp sát mục tiêu và phát động một đòn rút đao cực tốc lên đơn thể cận chiến, sát thương cuối cùng +18%.",
+              "4": "Áp sát mục tiêu và phát động một đòn rút đao cực tốc lên đơn thể cận chiến, sát thương cuối cùng +22%; nếu mục tiêu mang [ấn ký bóng tối], phạm vi bạo kích tạm thời mở rộng (19-20).",
+              "5": "Cực ý kéo dài. Trước khi rút đao có thể thực hiện một lần đột tiến tức thời không thể nhìn thấy, tối đa 10 thước, rồi phát động một đòn rút đao cực tốc lên đơn thể cận chiến, sát thương cuối cùng +28%; nếu mục tiêu mang ấn ký, phạm vi bạo kích mở rộng (19-20).",
+              "6": "Cực ý kéo dài. Trước khi rút đao có thể thực hiện một lần đột tiến tức thời không thể nhìn thấy, tối đa 10 thước, rồi phát động một đòn rút đao cực tốc lên đơn thể cận chiến, sát thương cuối cùng +32%; nếu mục tiêu mang ấn ký, phạm vi bạo kích mở rộng (19-20).",
+              "7": "Cực ý kéo dài. Trước khi rút đao có thể thực hiện một lần đột tiến tức thời không thể nhìn thấy, tối đa 10 thước, rồi phát động một đòn rút đao cực tốc lên đơn thể cận chiến, sát thương cuối cùng +36%; nếu mục tiêu mang ấn ký, phạm vi bạo kích mở rộng (19-20)."
+            },
+            "阶位": "Tất sát"
+          },
+          {
+            "名称": "Lồng giam slime",
+            "类型": "Chủ động",
+            "描述": "Quăng lượng lớn slime hóa thành mái vòm tử lao đen kịt, cô lập ma lực của kẻ bị nhốt với bên ngoài. Đây là khống chế quần thể cực kỳ bá đạo, tạo bãi ngắm hoàn hảo cho các đại chiêu nổ hạt nhân tiếp theo.",
+            "特殊效果": {
+              "1": "Ném slime phủ vùng 10 thước, địch thất bại miễn trừ Nhanh nhẹn bị nhốt trong lồng 1 vòng, tốc độ di chuyển giảm nửa.",
+              "2": "Ném slime phủ vùng 10 thước, địch thất bại miễn trừ Nhanh nhẹn bị nhốt trong lồng 1 vòng, tốc độ di chuyển giảm nửa và chịu thêm sát thương ép nhẹ.",
+              "3": "Ném slime phủ vùng 10 thước, địch thất bại miễn trừ Nhanh nhẹn bị nhốt trong lồng 1 vòng, tốc độ di chuyển giảm xuống còn 5 thước và chịu thêm sát thương ép.",
+              "4": "Ném slime phủ vùng 12 thước, địch thất bại miễn trừ Nhanh nhẹn bị nhốt trong lồng 1 vòng, tốc độ di chuyển giảm xuống còn 5 thước và chịu thêm sát thương ép.",
+              "5": "Slime sinh sôi, phủ vùng 12 thước; địch thất bại miễn trừ Nhanh nhẹn bị nhốt trong lồng 2 vòng; kẻ bị nhốt không chỉ giảm tốc, tầm nhìn còn bị nén chỉ còn 5 thước quanh bản thân và không thể dùng công kích tầm xa cần đường nhìn.",
+              "6": "Slime sinh sôi, phủ vùng 12 thước; địch thất bại miễn trừ Nhanh nhẹn bị nhốt trong lồng 2 vòng; kẻ bị nhốt bị giảm tốc, tầm nhìn bị nén, và đầu mỗi vòng chịu sát thương ép kéo dài, sát thương cuối cùng +10%.",
+              "7": "Slime sinh sôi, phủ vùng 15 thước; địch thất bại miễn trừ Nhanh nhẹn bị nhốt trong lồng 2 vòng; kẻ bị nhốt bị giảm tốc, tầm nhìn bị nén, và đầu mỗi vòng chịu sát thương ép kéo dài, sát thương cuối cùng +15%."
+            },
+            "阶位": "Tất sát"
+          }
+        ],
+        "奥义": [
+          {
+            "名称": "Ảnh thức · Thiên Nhận",
+            "类型": "Chủ động",
+            "描述": "Dựa vào thân thể và ma lực cường hóa vượt người thường, tức thời hóa thành hắc quang xuyên qua đội hình địch và chém ra vô số kiếm ảnh. Dùng thể thuật và kiếm kỹ cực hạn để lăng trì đối thủ, thể hiện quyền thống trị cận chiến tối cao.",
+            "特殊效果": {
+              "1": "Xuyên lướt liên tục trong phạm vi 15 thước và chém 3 mục tiêu khác nhau, mỗi nhát chém có sát thương cuối cùng +15%.",
+              "2": "Xuyên lướt liên tục trong phạm vi 15 thước và chém 3 mục tiêu khác nhau, mỗi nhát chém có sát thương cuối cùng +20%.",
+              "3": "Xuyên lướt liên tục trong phạm vi 20 thước và chém 4 mục tiêu khác nhau, mỗi nhát chém có sát thương cuối cùng +25%.",
+              "4": "Xuyên lướt liên tục trong phạm vi 20 thước và chém 4 mục tiêu khác nhau, mỗi nhát chém có sát thương cuối cùng +30%.",
+              "5": "Xuyên lướt liên tục trong phạm vi 25 thước và chém 5 mục tiêu khác nhau, mỗi nhát chém có sát thương cuối cùng +35%; nếu không đủ mục tiêu, có thể chém lặp lại cùng mục tiêu, nhưng sát thương các nhát sau giảm 30%."
+            },
+            "阶位": "Áo nghĩa"
+          },
+          {
+            "名称": "I Am Atomic Sword",
+            "类型": "Chủ động",
+            "描述": "Thu bó lượng ma lực khổng lồ mô phỏng vụ nổ hạt nhân lên lưỡi kiếm. Đây không phải vụ nổ phạm vi rộng, mà là sự kiềm chế đến cực hạn, chém ra một tuyến ánh sáng hủy diệt có thể bổ đôi trời đất.",
+            "特殊效果": {
+              "1": "Tụ ma lực vào thân kiếm, vung kiếm quang xuyên qua đường thẳng dài 30 thước, sát thương cuối cùng +20%.",
+              "2": "Tụ ma lực vào thân kiếm, vung kiếm quang xuyên qua đường thẳng dài 30 thước, sát thương cuối cùng +25%.",
+              "3": "Tụ ma lực vào thân kiếm, vung kiếm quang xuyên qua đường thẳng dài 35 thước, sát thương cuối cùng +30%.",
+              "4": "Tụ ma lực vào thân kiếm, vung kiếm quang xuyên qua đường thẳng dài 35 thước, sát thương cuối cùng +35%.",
+              "5": "Kiếm quang được nén tới cực hạn, vung kiếm quang xuyên qua đường thẳng dài 40 thước, sát thương cuối cùng +45%; lưỡi hủy diệt rộng 5 thước gây tổn hại gấp đôi cho mọi tạo vật ma pháp và khiên trên đường thẳng."
+            },
+            "阶位": "Áo nghĩa"
+          },
+          {
+            "名称": "I Am Atomic Rain",
+            "类型": "Chủ động",
+            "描述": "Nhảy lên đỉnh trời đêm, biến ma lực tinh thuần đã nén tới cực hạn thành vô số tia sáng rơi xuống. Mỗi giọt mưa ánh sáng đều như một quả bom hạt nhân mini, dấy lên chuỗi nổ liên hoàn quét sạch không phân biệt trong đội hình địch.",
+            "特殊效果": {
+              "1": "Lơ lửng rồi giáng pháo kích chùm sáng xuống vùng chỉ định 20 thước, tạo nổ phạm vi kéo dài 1 vòng, sát thương cuối cùng +20%.",
+              "2": "Lơ lửng rồi giáng pháo kích chùm sáng xuống vùng chỉ định 20 thước, tạo nổ phạm vi kéo dài 1 vòng, sát thương cuối cùng +25%.",
+              "3": "Lơ lửng rồi giáng pháo kích chùm sáng xuống vùng chỉ định 25 thước, tạo nổ phạm vi kéo dài 1 vòng, sát thương cuối cùng +30%.",
+              "4": "Lơ lửng rồi giáng pháo kích chùm sáng xuống vùng chỉ định 25 thước, tạo nổ phạm vi kéo dài 1 vòng, sát thương cuối cùng +35%.",
+              "5": "Mưa ma lực tăng mạnh, oanh tạc vùng chỉ định 30 thước, tạo nổ phạm vi kéo dài 2 vòng, sát thương cuối cùng +45%; người thi pháp đứng trong mưa phải kiểm định tập trung mỗi vòng, nếu không pháp thuật gián đoạn."
+            },
+            "阶位": "Áo nghĩa"
+          }
+        ],
+        "觉醒一": [
+          {
+            "名称": "I Am Atomic",
+            "类型": "Chủ động",
+            "阶位": "Thức tỉnh một",
+            "描述": "“Tên ta là Shadow. Kẻ tiềm phục trong bóng tối, săn lùng bóng tối.” Chiêu thức tuyệt đối tuyên cáo sự tồn tại của bản thân. Nén lượng ma lực khổng lồ tới một kỳ điểm mà mắt thường không thể quan sát, rồi bộc phát kết giới ma lực cấp nổ hạt nhân đủ sức hủy diệt thị trấn.",
+            "特殊效果": {
+              "1": "Mỗi trận 1 lần. Shadow phóng một kết giới ma lực màu tím violet với bán kính 100 thước. Mọi mục tiêu địch phải thực hiện miễn trừ kép Thể chất và Nhanh nhẹn với DC cực cao; nếu thất bại sẽ chịu sát thương nguyên tử sụp rã không thể gọi tên, trực tiếp xóa mọi giáp và kháng ma pháp dưới Truyền thuyết. Nếu mục tiêu có [ấn ký bóng tối], kết giới còn cưỡng chế bốc hơi 30% sinh mệnh (áp dụng với tồn tại ngoài cấp Thần thoại). Sau vụ nổ, chiến trường để lại tàn ảnh cực quang tím đẹp đẽ, khiến kẻ sống sót rơi vào [kính sợ] và [chấn nhiếp] sâu, không thể hành động 1 vòng hoàn chỉnh. Đây là mỹ học bạo lực thuần túy và hoa lệ.",
+              "2": "Mỗi trận 1 lần. Shadow phóng một kết giới ma lực màu tím violet với bán kính 100 thước. Mọi mục tiêu địch phải thực hiện miễn trừ kép Thể chất và Nhanh nhẹn với DC cực cao; nếu thất bại sẽ chịu sát thương nguyên tử sụp rã không thể gọi tên, trực tiếp xóa mọi giáp và kháng ma pháp dưới Truyền thuyết. Nếu mục tiêu có [ấn ký bóng tối], kết giới còn cưỡng chế bốc hơi 30% sinh mệnh (áp dụng với tồn tại ngoài cấp Thần thoại). Sau vụ nổ, chiến trường để lại tàn ảnh cực quang tím đẹp đẽ, khiến kẻ sống sót rơi vào [kính sợ] và [chấn nhiếp] sâu, không thể hành động 1 vòng hoàn chỉnh. Đây là mỹ học bạo lực thuần túy và hoa lệ.",
+              "3": "Mỗi trận 1 lần. Shadow phóng một kết giới ma lực màu tím violet với bán kính 100 thước. Mọi mục tiêu địch phải thực hiện miễn trừ kép Thể chất và Nhanh nhẹn với DC cực cao; nếu thất bại sẽ chịu sát thương nguyên tử sụp rã không thể gọi tên, trực tiếp xóa mọi giáp và kháng ma pháp dưới Truyền thuyết. Nếu mục tiêu có [ấn ký bóng tối], kết giới còn cưỡng chế bốc hơi 30% sinh mệnh (áp dụng với tồn tại ngoài cấp Thần thoại). Sau vụ nổ, chiến trường để lại tàn ảnh cực quang tím đẹp đẽ, khiến kẻ sống sót rơi vào [kính sợ] và [chấn nhiếp] sâu, không thể hành động 1 vòng hoàn chỉnh. Đây là mỹ học bạo lực thuần túy và hoa lệ."
+            }
+          }
+        ],
+        "觉醒二": [
+          {
+            "名称": "I Am All-Range Atomic",
+            "类型": "Chủ động",
+            "阶位": "Thức tỉnh hai",
+            "描述": "Vụ nổ hạt nhân toàn phương vị, toàn lĩnh vực, không góc chết. Shadow không còn nén lượng ma lực khổng lồ vào một điểm, mà trực tiếp trải nó như sóng thần khắp toàn bộ không gian chiến đấu trong tầm mắt, rồi kích phát vụ nổ khái niệm trong toàn bộ không gian, phân biệt địch ta hoàn mỹ.",
+            "特殊效果": {
+              "1": "Mỗi trận 1 lần. Sau khi kích hoạt, mọi không gian trong phạm vi 300 thước trên chiến trường bị ma lực đen kịt của Shadow bao phủ. Đồng minh không bị tổn thương và được ma lực tinh thuần chữa lành, hồi 30% giới hạn sinh mệnh và thanh lọc mọi trạng thái bất lợi; kẻ địch chịu sát thương nghiền ép không phân biệt và không có chỗ trốn. Xúc xắc sát thương lần này cưỡng chế lấy giá trị tối đa, không thể bị chỗ nấp, dịch chuyển hoặc nhảy không gian né tránh. Đòn này thay đổi sinh thái chiến trường, khiến mọi chiến thuật màu mè của địch hóa hư vô trước sức mạnh tuyệt đối.",
+              "2": "Mỗi trận 1 lần. Sau khi kích hoạt, mọi không gian trong phạm vi 300 thước trên chiến trường bị ma lực đen kịt của Shadow bao phủ. Đồng minh không bị tổn thương và được ma lực tinh thuần chữa lành, hồi 30% giới hạn sinh mệnh và thanh lọc mọi trạng thái bất lợi; kẻ địch chịu sát thương nghiền ép không phân biệt và không có chỗ trốn. Xúc xắc sát thương lần này cưỡng chế lấy giá trị tối đa, không thể bị chỗ nấp, dịch chuyển hoặc nhảy không gian né tránh. Đòn này thay đổi sinh thái chiến trường, khiến mọi chiến thuật màu mè của địch hóa hư vô trước sức mạnh tuyệt đối."
+            }
+          }
+        ],
+        "觉醒三": [
+          {
+            "名称": "I Am Universal Atomic",
+            "类型": "Chủ động",
+            "阶位": "Thức tỉnh ba",
+            "描述": "“Chân lý của vũ trụ ở ngay nơi đây.” Thoát khỏi ràng buộc của mặt đất, Shadow bay ra ngoài tinh không, dựa vào lá chắn ma lực khổng lồ bao phủ cả tinh cầu để phóng thích vụ nổ hạt nhân khái niệm tối thượng xuống chiến trường. Ma lực khổng lồ thậm chí thắp sáng cả tinh hệ.",
+            "特殊效果": {
+              "1": "Mỗi chiến dịch 1 lần. Đây là kỳ tích cấp Thần thoại, tạm thời bóp méo pháp tắc thế giới. Shadow rời khỏi lưới chiến đấu hiện tại và tiến vào không gian vũ trụ, nhận 1 vòng vô địch và ẩn hình. Vòng kế tiếp, một luồng cực quang xuyên trời oanh kích toàn sân. Dưới ánh sáng này, kiểm định phòng ngự của phàm nhân không còn ý nghĩa; khái niệm tồn tại của mọi kẻ địch không phải thủ lĩnh trên chiến trường bị trực tiếp bóc bỏ và chết ngay. Với thủ lĩnh cấp Truyền thuyết hoặc Thần thoại, ánh sáng bỏ qua mọi cơ chế vô địch, miễn dịch khái niệm và pháp tắc giảm sát thương, cưỡng chế cắt 50% sinh mệnh hiện tại và tước vòng hành động hoàn chỉnh kế tiếp. Sau đòn này, vì đã phóng thích năng lượng khổng lồ như vũ trụ khai sinh, địa hình quanh chiến trường vĩnh viễn biến thành một hố thiên thạch phát sáng sâu không thấy đáy, thể hiện cảnh giới làm màu tối thượng của kẻ mạnh trong bóng tối."
+            }
+          }
+        ]
+      },
+      "skillTreeForClass": "Shadow",
+      "lockedSkillMap": {
+        "Shadow": {
+          "基础": {
+            "Nén ma lực": {
+              "名称": "Nén ma lực",
+              "类型": "Đặc biệt",
+              "描述": "Nền tảng mà Shadow tu luyện cả đời cũng là kỹ thuật mạnh nhất: thô bạo nén ma lực trong cơ thể, tăng mạnh uy lực và năng lực phán đoán của mọi chiêu thức tiếp theo.",
+              "特殊效果": {
+                "1": "Sau khi kích hoạt, kiểm định Sức mạnh và Nhanh nhẹn +1, sát thương cuối cùng của mọi kỹ năng chủ động +5%, kéo dài 2 vòng.",
+                "2": "Sau khi kích hoạt, kiểm định Sức mạnh và Nhanh nhẹn +1, sát thương cuối cùng của mọi kỹ năng chủ động +8%, kéo dài 2 vòng.",
+                "3": "Sau khi kích hoạt, kiểm định Sức mạnh và Nhanh nhẹn +1, sát thương cuối cùng của mọi kỹ năng chủ động +10%, kéo dài 3 vòng.",
+                "4": "Sau khi kích hoạt, kiểm định Sức mạnh và Nhanh nhẹn +1, sát thương cuối cùng của mọi kỹ năng chủ động +12%, kéo dài 3 vòng.",
+                "5": "Sau khi kích hoạt, kiểm định Sức mạnh và Nhanh nhẹn +2, sát thương cuối cùng của mọi kỹ năng chủ động +15%, kéo dài 3 vòng.",
+                "6": "Sau khi kích hoạt, kiểm định Sức mạnh và Nhanh nhẹn +2, sát thương cuối cùng của mọi kỹ năng chủ động +18%, kéo dài 3 vòng.",
+                "7": "Sau khi kích hoạt, kiểm định Sức mạnh và Nhanh nhẹn +2, sát thương cuối cùng của mọi kỹ năng chủ động +22%, kéo dài 4 vòng.",
+                "8": "Sau khi kích hoạt, kiểm định Sức mạnh và Nhanh nhẹn +2, sát thương cuối cùng của mọi kỹ năng chủ động +25%, kéo dài 4 vòng.",
+                "9": "Sau khi kích hoạt, kiểm định Sức mạnh và Nhanh nhẹn +2, sát thương cuối cùng của mọi kỹ năng chủ động +28%, kéo dài 4 vòng.",
+                "10": "Sau khi kích hoạt, kiểm định Sức mạnh và Nhanh nhẹn +3, sát thương cuối cùng của mọi kỹ năng chủ động +32%, kéo dài 4 vòng; trong thời gian này, mọi kháng pháp thuật +1.",
+                "11": "Sau khi kích hoạt, kiểm định Sức mạnh và Nhanh nhẹn +3, sát thương cuối cùng của mọi kỹ năng chủ động +35%, kéo dài 4 vòng; trong thời gian này, mọi kháng pháp thuật +1.",
+                "12": "Sau khi kích hoạt, kiểm định Sức mạnh và Nhanh nhẹn +3, sát thương cuối cùng của mọi kỹ năng chủ động +38%, kéo dài 5 vòng; trong thời gian này, mọi kháng pháp thuật +2.",
+                "13": "Sau khi kích hoạt, kiểm định Sức mạnh và Nhanh nhẹn +3, sát thương cuối cùng của mọi kỹ năng chủ động +42%, kéo dài 5 vòng; trong thời gian này, mọi kháng pháp thuật +2.",
+                "14": "Sau khi kích hoạt, kiểm định Sức mạnh và Nhanh nhẹn +4, sát thương cuối cùng của mọi kỹ năng chủ động +45%, kéo dài 5 vòng; trong thời gian này, mọi kháng pháp thuật +2.",
+                "15": "Sau khi kích hoạt, kiểm định Sức mạnh và Nhanh nhẹn +5, sát thương cuối cùng của mọi kỹ năng chủ động +50%, kéo dài 5 vòng; trong thời gian này tiến vào trạng thái tập trung cực độ, mọi kiểm định trúng đích của công kích bản thân tự động có lợi thế, đồng thời miễn dịch mọi hiệu quả giảm tốc hoặc giảm thuộc tính áp lên bản thân."
+              },
+              "阶位": "Cơ bản"
+            },
+            "Tơ bóng tối": {
+              "名称": "Tơ bóng tối",
+              "类型": "Chủ động",
+              "描述": "Vung ra dây thép gần như không thể quan sát đã rót ma lực, cắt xé và quấn lấy kẻ địch phía trước. Đây là thủ đoạn mở màn gom quái kín đáo nhất của lưu phái Shadow.",
+              "特殊效果": {
+                "1": "Sau khi trúng đòn, đơn thể mục tiêu thực hiện miễn trừ Nhanh nhẹn; nếu thất bại thì bị kéo về phía bạn 1 ô và bị gắn [ấn ký bóng tối] kéo dài 2 vòng; sát thương cuối cùng của lần công kích này +0%.",
+                "2": "Sau khi trúng đòn, đơn thể mục tiêu thực hiện miễn trừ Nhanh nhẹn; nếu thất bại thì bị kéo về phía bạn 1 ô và bị gắn [ấn ký bóng tối] kéo dài 2 vòng; sát thương cuối cùng của lần công kích này +5%.",
+                "3": "Sau khi trúng đòn, đơn thể mục tiêu thực hiện miễn trừ Nhanh nhẹn; nếu thất bại thì bị kéo về phía bạn 1 ô và bị gắn [ấn ký bóng tối] kéo dài 2 vòng; sát thương cuối cùng của lần công kích này +10%.",
+                "4": "Sau khi trúng đòn, đơn thể mục tiêu thực hiện miễn trừ Nhanh nhẹn; nếu thất bại thì bị kéo về phía bạn 2 ô và bị gắn [ấn ký bóng tối] kéo dài 2 vòng; sát thương cuối cùng của lần công kích này +10%.",
+                "5": "Sau khi trúng đòn, đơn thể mục tiêu thực hiện miễn trừ Nhanh nhẹn; nếu thất bại thì bị kéo về phía bạn 2 ô và bị gắn [ấn ký bóng tối] kéo dài 2 vòng; sát thương cuối cùng của lần công kích này +15%.",
+                "6": "Sau khi trúng đòn, đơn thể mục tiêu thực hiện miễn trừ Nhanh nhẹn; nếu thất bại thì bị kéo về phía bạn 2 ô và bị gắn [ấn ký bóng tối] kéo dài 2 vòng; sát thương cuối cùng của lần công kích này +20%.",
+                "7": "Sau khi trúng đòn, đơn thể mục tiêu thực hiện miễn trừ Nhanh nhẹn; nếu thất bại thì bị kéo về phía bạn 2 ô và bị gắn [ấn ký bóng tối] kéo dài 3 vòng; sát thương cuối cùng của lần công kích này +20%.",
+                "8": "Sau khi trúng đòn, đơn thể mục tiêu thực hiện miễn trừ Nhanh nhẹn; nếu thất bại thì bị kéo về phía bạn 2 ô và bị gắn [ấn ký bóng tối] kéo dài 3 vòng; sát thương cuối cùng của lần công kích này +25%.",
+                "9": "Sau khi trúng đòn, đơn thể mục tiêu thực hiện miễn trừ Nhanh nhẹn; nếu thất bại thì bị kéo về phía bạn 2 ô và bị gắn [ấn ký bóng tối] kéo dài 3 vòng; sát thương cuối cùng của lần công kích này +30%.",
+                "10": "Sau khi trúng đòn, đơn thể mục tiêu thực hiện miễn trừ Nhanh nhẹn; nếu thất bại thì bị kéo về phía bạn 2 ô, bị [trói buộc] 1 vòng và bị gắn [ấn ký bóng tối] kéo dài 3 vòng; sát thương cuối cùng của lần công kích này +30%.",
+                "11": "Sau khi trúng đòn, đơn thể mục tiêu thực hiện miễn trừ Nhanh nhẹn; nếu thất bại thì bị kéo về phía bạn 2 ô, bị [trói buộc] 1 vòng và bị gắn [ấn ký bóng tối] kéo dài 3 vòng; sát thương cuối cùng của lần công kích này +35%.",
+                "12": "Sau khi trúng đòn, đơn thể mục tiêu thực hiện miễn trừ Nhanh nhẹn; nếu thất bại thì bị kéo về phía bạn 2 ô, bị [trói buộc] 1 vòng và bị gắn [ấn ký bóng tối] kéo dài 3 vòng; sát thương cuối cùng của lần công kích này +40%.",
+                "13": "Phạm vi công kích mở rộng thành vùng nón nhỏ phía trước; mọi kẻ địch trong vùng thất bại miễn trừ đều mục tiêu thực hiện miễn trừ Nhanh nhẹn; nếu thất bại thì bị kéo về phía bạn 2 ô, bị [trói buộc] 1 vòng và bị gắn [ấn ký bóng tối] kéo dài 3 vòng; sát thương cuối cùng của lần công kích này +40%.",
+                "14": "Mọi kẻ địch trong vùng nón thất bại miễn trừ đều mục tiêu thực hiện miễn trừ Nhanh nhẹn; nếu thất bại thì bị kéo về phía bạn 2 ô, bị [trói buộc] 1 vòng và bị gắn [ấn ký bóng tối] kéo dài 3 vòng; sát thương cuối cùng của lần công kích này +45%.",
+                "15": "Phạm vi công kích mở rộng thành vùng nón góc rộng phía trước; mọi kẻ địch thất bại miễn trừ đều mục tiêu thực hiện miễn trừ Nhanh nhẹn; nếu thất bại thì bị kéo về phía bạn 2 ô, bị [trói buộc] 1 vòng và bị gắn [ấn ký bóng tối] kéo dài 3 vòng; sát thương cuối cùng của lần công kích này +0%; nếu mục tiêu đã có [ấn ký bóng tối], mục tiêu chịu thêm một lần sát thương xé cắt như máy xay thịt, sát thương cuối cùng của sát thương phụ này tăng 30%."
+              },
+              "阶位": "Cơ bản"
+            },
+            "Ảnh thức · Yến Phản": {
+              "名称": "Ảnh thức · Yến Phản",
+              "类型": "Chủ động",
+              "描述": "Kiếm kỹ cơ bản của lưu phái Shadow. Hai nhát chém tưởng như tùy ý lại không có bất kỳ động tác thừa nào, hoàn toàn khớp với cảm giác tự nhiên như mưa rơi.",
+              "特殊效果": {
+                "1": "Phát động hai nhát chém liên tiếp cực nhanh; nếu mục tiêu mang [ấn ký bóng tối], kiểm định trúng đích +0, sát thương cuối cùng +5%.",
+                "2": "Phát động hai nhát chém liên tiếp cực nhanh; nếu mục tiêu mang [ấn ký bóng tối], kiểm định trúng đích +0, sát thương cuối cùng +8%.",
+                "3": "Phát động hai nhát chém liên tiếp cực nhanh; nếu mục tiêu mang [ấn ký bóng tối], kiểm định trúng đích +0, sát thương cuối cùng +12%.",
+                "4": "Phát động hai nhát chém liên tiếp cực nhanh; nếu mục tiêu mang [ấn ký bóng tối], kiểm định trúng đích +1, sát thương cuối cùng +12%.",
+                "5": "Phát động hai nhát chém liên tiếp cực nhanh; nếu mục tiêu mang [ấn ký bóng tối], kiểm định trúng đích +1, sát thương cuối cùng +15%.",
+                "6": "Phát động hai nhát chém liên tiếp cực nhanh; nếu mục tiêu mang [ấn ký bóng tối], kiểm định trúng đích +1, sát thương cuối cùng +20%.",
+                "7": "Phát động hai nhát chém liên tiếp cực nhanh; nếu mục tiêu mang [ấn ký bóng tối], kiểm định trúng đích +2, sát thương cuối cùng +20%.",
+                "8": "Phát động hai nhát chém liên tiếp cực nhanh; nếu mục tiêu mang [ấn ký bóng tối], kiểm định trúng đích +2, sát thương cuối cùng +25%.",
+                "9": "Phát động hai nhát chém liên tiếp cực nhanh; nếu mục tiêu mang [ấn ký bóng tối], kiểm định trúng đích +2, sát thương cuối cùng +28%.",
+                "10": "Liên trảm nâng cấp thành ba đoạn; nếu mục tiêu mang [ấn ký bóng tối], kiểm định trúng đích +2, sát thương cuối cùng +35%, đồng thời khiến tốc độ mục tiêu -1 ô trong 1 vòng.",
+                "11": "Liên trảm nâng cấp thành ba đoạn; nếu mục tiêu mang [ấn ký bóng tối], kiểm định trúng đích +2, sát thương cuối cùng +38%, đồng thời khiến tốc độ mục tiêu -1 ô trong 1 vòng.",
+                "12": "Liên trảm nâng cấp thành ba đoạn; nếu mục tiêu mang [ấn ký bóng tối], kiểm định trúng đích +3, sát thương cuối cùng +42%, đồng thời khiến tốc độ mục tiêu -1 ô trong 1 vòng.",
+                "13": "Liên trảm nâng cấp thành ba đoạn; nếu mục tiêu mang [ấn ký bóng tối], kiểm định trúng đích +3, sát thương cuối cùng +45%, đồng thời khiến tốc độ mục tiêu -2 ô trong 1 vòng.",
+                "14": "Liên trảm nâng cấp thành ba đoạn; nếu mục tiêu mang [ấn ký bóng tối], kiểm định trúng đích +3, sát thương cuối cùng +50%, đồng thời khiến tốc độ mục tiêu -2 ô trong 1 vòng.",
+                "15": "Liên trảm nâng cấp thành tàn ảnh ba đoạn hoàn mỹ; nếu mục tiêu mang [ấn ký bóng tối], kiểm định trúng đích +3, sát thương cuối cùng +60%, tốc độ -2 ô; sau khi trúng đòn, trực tiếp làm mới thời lượng [ấn ký bóng tối] trên mục tiêu và buộc lần kiểm định công kích kế tiếp của mục tiêu rơi vào bất lợi."
+              },
+              "阶位": "Cơ bản"
+            }
+          },
+          "转职": {
+            "Bước bóng tối": {
+              "名称": "Bước bóng tối",
+              "类型": "Chủ động",
+              "描述": "Hóa thành một khối bóng đen không thể quan sát, tức thời xuất hiện từ điểm mù trong tầm nhìn của mục tiêu và phát động tập kích. Gắn ấn ký để nối chiêu.",
+              "特殊效果": {
+                "1": "Dịch chuyển tức thời tới sau lưng một kẻ địch trong phạm vi 15 thước và phát động chém, sát thương cuối cùng +0%, gắn [ấn ký bóng tối] kéo dài 2 vòng.",
+                "2": "Dịch chuyển tức thời tới sau lưng một kẻ địch trong phạm vi 15 thước và phát động chém, sát thương cuối cùng +5%, gắn [ấn ký bóng tối] kéo dài 2 vòng.",
+                "3": "Dịch chuyển tức thời tới sau lưng một kẻ địch trong phạm vi 20 thước và phát động chém, sát thương cuối cùng +8%, gắn [ấn ký bóng tối] kéo dài 2 vòng.",
+                "4": "Dịch chuyển tức thời tới sau lưng một kẻ địch trong phạm vi 20 thước và phát động chém, sát thương cuối cùng +10%, gắn [ấn ký bóng tối] kéo dài 2 vòng.",
+                "5": "Dịch chuyển tức thời tới sau lưng một kẻ địch trong phạm vi 20 thước và phát động chém, sát thương cuối cùng +15%, gắn [ấn ký bóng tối] kéo dài 3 vòng.",
+                "6": "Dịch chuyển tức thời tới sau lưng một kẻ địch trong phạm vi 25 thước và phát động chém, sát thương cuối cùng +18%, gắn [ấn ký bóng tối] kéo dài 3 vòng.",
+                "7": "Dịch chuyển tức thời tới sau lưng một kẻ địch trong phạm vi 25 thước và phát động chém, sát thương cuối cùng +22%, gắn [ấn ký bóng tối] kéo dài 3 vòng; nếu trúng đòn, cấp né tránh của bản thân tạm thời +1 trong 1 vòng.",
+                "8": "Dịch chuyển tức thời tới sau lưng một kẻ địch trong phạm vi 25 thước và phát động chém, sát thương cuối cùng +25%, gắn [ấn ký bóng tối] kéo dài 3 vòng; cấp né tránh của bản thân tạm thời +1 trong 1 vòng.",
+                "9": "Dịch chuyển tức thời tới sau lưng một kẻ địch trong phạm vi 30 thước và phát động chém, sát thương cuối cùng +28%, gắn [ấn ký bóng tối] kéo dài 3 vòng; cấp né tránh của bản thân tạm thời +1 trong 1 vòng.",
+                "10": "Dịch chuyển tức thời tới sau lưng một kẻ địch trong phạm vi 30 thước và phát động chém, sát thương cuối cùng +32%, gắn [ấn ký bóng tối] kéo dài 4 vòng; cấp né tránh của bản thân tạm thời +2 trong 1 vòng, và lần kiểm định sát thương cận chiến kế tiếp tự có lợi thế.",
+                "11": "Dịch chuyển tức thời tới sau lưng một kẻ địch trong phạm vi 30 thước và phát động chém, sát thương cuối cùng +35%, gắn [ấn ký bóng tối] kéo dài 4 vòng; cấp né tránh của bản thân tạm thời +2 trong 1 vòng.",
+                "12": "Dịch chuyển tức thời tới sau lưng một kẻ địch trong phạm vi 35 thước và phát động chém, sát thương cuối cùng +40%, gắn [ấn ký bóng tối] kéo dài 4 vòng; cấp né tránh của bản thân tạm thời +2 trong 1 vòng.",
+                "13": "Dịch chuyển tức thời tới sau lưng một kẻ địch trong phạm vi 35 thước và phát động chém, sát thương cuối cùng +45%, gắn [ấn ký bóng tối] kéo dài 4 vòng; cấp né tránh của bản thân tạm thời +2 trong 1 vòng.",
+                "14": "Dịch chuyển tức thời tới sau lưng một kẻ địch trong phạm vi 35 thước và phát động chém, sát thương cuối cùng +50%, gắn [ấn ký bóng tối] kéo dài 4 vòng; cấp né tránh của bản thân tạm thời +2 trong 1 vòng.",
+                "15": "Dịch chuyển tức thời tới sau lưng một kẻ địch trong phạm vi tầm nhìn (tối đa 50) thước và phát động chém, sát thương cuối cùng +0%, gắn [ấn ký bóng tối] kéo dài 4 vòng không thể bị xua tan. Công kích này mở rộng phạm vi bạo kích tới 18-20; nếu dùng kỹ năng này hạ sát mục tiêu, lập tức nhận thêm một cơ hội di chuyển không tiêu hao hành động."
+              },
+              "阶位": "Chuyển nghề"
+            },
+            "Vũ trang slime": {
+              "名称": "Vũ trang slime",
+              "类型": "Đặc biệt nghề nghiệp",
+              "描述": "Áo ngoài và vũ khí chuyên dụng được tạo từ slime có tỷ lệ dẫn ma lực 99%. Đây là ngụy trang cao cấp nhất: nhẹ, có thể biến hình, phòng ngự cực cao và hoàn toàn không hạn chế dòng chảy ma lực.",
+              "特殊效果": {
+                "1": "Nhận hình thái thường trú: áo ngoài của bạn tương đương giáp nhẹ sử thi cấp phòng cụ +3, không chỉ không hạn chế thi pháp bằng Nhanh nhẹn, mà còn khiến sát thương cuối cùng từ công kích vật lý phi ma pháp bạn nhận vào giảm 15%. Vũ khí slime trong tay bạn có thể tùy ý chuyển đổi giữa trường kiếm/xà beng/trường tiên mà không tốn hành động, đồng thời mọi công kích cận chiến được xem là công kích ma pháp."
+              },
+              "阶位": "Chuyển nghề"
+            },
+            "Ảnh thức · Nguyệt Kiêu": {
+              "名称": "Ảnh thức · Nguyệt Kiêu",
+              "类型": "Chủ động",
+              "描述": "Kiếm kỹ hất tung từ dưới lên, vung ra kiếm khí đen kịt như chim cú vỗ cánh, cắt đứt tiết tấu tiến công của kẻ địch.",
+              "特殊效果": {
+                "1": "Sau khi trúng đòn, mục tiêu thực hiện miễn trừ Thể chất; nếu thất bại thì bị [hất tung] 1 vòng.",
+                "2": "Sau khi trúng đòn, mục tiêu thực hiện miễn trừ Thể chất; nếu thất bại thì bị [hất tung] 1 vòng; sát thương cuối cùng +5%.",
+                "3": "Sau khi trúng đòn, mục tiêu thực hiện miễn trừ Thể chất; nếu thất bại thì bị [hất tung] 1 vòng; sát thương cuối cùng +8%.",
+                "4": "Sau khi trúng đòn, mục tiêu thực hiện miễn trừ Thể chất; nếu thất bại thì bị [hất tung] 1 vòng; sát thương cuối cùng +12%.",
+                "5": "Sau khi trúng đòn, mục tiêu thực hiện miễn trừ Thể chất; nếu thất bại thì bị [hất tung] 1 vòng; sát thương cuối cùng +15%; với kẻ địch đang bị [hất tung], truy kích thêm một lần sát thương kiếm khí.",
+                "6": "Sau khi trúng đòn, mục tiêu thực hiện miễn trừ Thể chất; nếu thất bại thì bị [hất tung] 1 vòng; sát thương cuối cùng +18%; truy kích thêm sát thương kiếm khí.",
+                "7": "Sau khi trúng đòn, mục tiêu thực hiện miễn trừ Thể chất; nếu thất bại thì bị [hất tung] 1 vòng; sát thương cuối cùng +22%; truy kích thêm sát thương kiếm khí.",
+                "8": "Sau khi trúng đòn, mục tiêu thực hiện miễn trừ Thể chất; nếu thất bại thì bị [hất tung] 1 vòng; sát thương cuối cùng +25%; nếu mục tiêu đã có [ấn ký bóng tối], miễn trừ hất tung chuyển thành bất lợi.",
+                "9": "Sau khi trúng đòn, mục tiêu thực hiện miễn trừ Thể chất; nếu thất bại thì bị [hất tung] 1 vòng; sát thương cuối cùng +28%; nếu mục tiêu đã có [ấn ký bóng tối], miễn trừ hất tung chuyển thành bất lợi.",
+                "10": "Sau khi trúng đòn, mục tiêu thực hiện miễn trừ Thể chất; nếu thất bại thì bị [hất tung] 1 vòng, khi hết vòng kèm hiệu quả [ngã xuống]; sát thương cuối cùng +35%; trong lúc bị hất tung, mục tiêu không thể thực hiện hành động phản ứng.",
+                "11": "Sau khi trúng đòn, mục tiêu thực hiện miễn trừ Thể chất; nếu thất bại thì bị [hất tung] 1 vòng, khi hết vòng kèm hiệu quả [ngã xuống]; sát thương cuối cùng +40%; trong lúc bị hất tung, mục tiêu không thể thực hiện hành động phản ứng.",
+                "12": "Sau khi trúng đòn, mục tiêu thực hiện miễn trừ Thể chất; nếu thất bại thì bị [hất tung] 1 vòng, khi hết vòng kèm hiệu quả [ngã xuống]; sát thương cuối cùng +45%; trong lúc bị hất tung, mục tiêu không thể thực hiện hành động phản ứng.",
+                "13": "Sau khi trúng đòn, mục tiêu thực hiện miễn trừ Thể chất; nếu thất bại thì bị [hất tung] 1 vòng, khi hết vòng kèm hiệu quả [ngã xuống]; sát thương cuối cùng +50%; trong lúc bị hất tung, mục tiêu không thể thực hiện hành động phản ứng.",
+                "14": "Sau khi trúng đòn, mục tiêu thực hiện miễn trừ Thể chất; nếu thất bại thì bị [hất tung] 1 vòng, khi hết vòng kèm hiệu quả [ngã xuống]; sát thương cuối cùng +55%; trong lúc bị hất tung, mục tiêu không thể thực hiện hành động phản ứng.",
+                "15": "Sau khi trúng đòn, mục tiêu thực hiện miễn trừ Thể chất; nếu thất bại thì bị [hất tung] 1 vòng mạnh (xem như treo lơ lửng và bị câm lặng) trong 1 vòng, sau khi rơi xuống bị [ngã xuống] nặng và kèm giảm tốc 1 vòng. Sát thương cuối cùng tăng vọt 70%, đồng thời bỏ qua khiên của mục tiêu có ấn ký."
+              },
+              "阶位": "Chuyển nghề"
+            }
+          },
+          "进阶": {
+            "Pha loãng hiện diện": {
+              "名称": "Pha loãng hiện diện",
+              "类型": "Đặc biệt",
+              "描述": "Ẩn giấu hoàn mỹ dao động ma lực và khí tức của bản thân, không có cảm giác tồn tại như người qua đường. Dùng để thoát thù hận trong giao chiến dữ dội và tạo cửa sổ ưu thế tuyệt đối cho đòn chí mạng kế tiếp.",
+              "特殊效果": {
+                "1": "Chủ động kích hoạt, kiểm định Ẩn nấp bằng Nhanh nhẹn của bản thân có lợi thế, kéo dài 1 vòng. Đòn công kích đầu tiên sau khi phá ẩn có kiểm định trúng đích +0, sát thương cuối cùng +5%.",
+                "2": "Chủ động kích hoạt, kiểm định Ẩn nấp bằng Nhanh nhẹn của bản thân có lợi thế, kéo dài 1 vòng. Đòn công kích đầu tiên sau khi phá ẩn có kiểm định trúng đích +0, sát thương cuối cùng +8%.",
+                "3": "Chủ động kích hoạt, kiểm định Ẩn nấp bằng Nhanh nhẹn của bản thân có lợi thế, kéo dài 2 vòng. Đòn công kích đầu tiên sau khi phá ẩn có kiểm định trúng đích +0, sát thương cuối cùng +10%.",
+                "4": "Chủ động kích hoạt, kiểm định Ẩn nấp bằng Nhanh nhẹn của bản thân có lợi thế, kéo dài 2 vòng. Đòn công kích đầu tiên sau khi phá ẩn có kiểm định trúng đích +0, sát thương cuối cùng +15%.",
+                "5": "Chủ động kích hoạt, trực tiếp tiến vào trạng thái [ẩn hình], kéo dài 2 vòng. Đòn công kích đầu tiên sau khi phá ẩn có kiểm định trúng đích +1, sát thương cuối cùng +18%.",
+                "6": "Chủ động kích hoạt, trực tiếp tiến vào trạng thái [ẩn hình], kéo dài 2 vòng. Đòn công kích đầu tiên sau khi phá ẩn có kiểm định trúng đích +1, sát thương cuối cùng +22%.",
+                "7": "Chủ động kích hoạt, trực tiếp tiến vào trạng thái [ẩn hình], kéo dài 2 vòng. Đòn công kích đầu tiên sau khi phá ẩn có kiểm định trúng đích +1, sát thương cuối cùng +25%.",
+                "8": "Chủ động kích hoạt, trực tiếp tiến vào trạng thái [ẩn hình], kéo dài 3 vòng. Đòn công kích đầu tiên sau khi phá ẩn có kiểm định trúng đích +1, sát thương cuối cùng +28%.",
+                "9": "Chủ động kích hoạt, trực tiếp tiến vào trạng thái [ẩn hình], kéo dài 3 vòng. Đòn công kích đầu tiên sau khi phá ẩn có kiểm định trúng đích +2, sát thương cuối cùng +32%.",
+                "10": "Chủ động kích hoạt, tiến vào trạng thái [ẩn hình cao cấp] (dù công kích cũng không lập tức hiện hình, duy trì đến khi lượt hiện tại kết thúc), kéo dài 3 vòng. Đòn công kích đầu tiên sau khi phá ẩn có kiểm định trúng đích +2, sát thương cuối cùng +38%."
+              },
+              "阶位": "Nâng cao"
+            },
+            "Trận gai slime": {
+              "名称": "Trận gai slime",
+              "类型": "Chủ động",
+              "描述": "Biến chiến y slime bao bọc toàn thân thành vô số gai đen trong khoảnh khắc, xuyên phá bốn phương tám hướng. Đây là áp chế không góc chết sau khi Bước bóng tối cắt vào giữa đội hình địch.",
+              "特殊效果": {
+                "1": "Bùng phát gai xuyên trong phạm vi 10 thước. Kẻ địch trong phạm vi miễn trừ Nhanh nhẹn với bất lợi; nếu thất bại sẽ chịu sát thương, sát thương cuối cùng +5%.",
+                "2": "Bùng phát gai xuyên trong phạm vi 10 thước. Kẻ địch trong phạm vi miễn trừ Nhanh nhẹn với bất lợi; nếu thất bại sẽ chịu sát thương, sát thương cuối cùng +8%.",
+                "3": "Bùng phát gai xuyên trong phạm vi 10 thước. Kẻ địch trong phạm vi miễn trừ Nhanh nhẹn với bất lợi; nếu thất bại sẽ chịu sát thương, sát thương cuối cùng +10%; người trúng đòn bị giảm tốc 1 ô.",
+                "4": "Bùng phát gai xuyên trong phạm vi 12 thước. Kẻ địch trong phạm vi miễn trừ Nhanh nhẹn với bất lợi; nếu thất bại sẽ chịu sát thương, sát thương cuối cùng +12%; người trúng đòn bị giảm tốc 1 ô.",
+                "5": "Bùng phát gai xuyên trong phạm vi 12 thước. Kẻ địch trong phạm vi miễn trừ Nhanh nhẹn với bất lợi; nếu thất bại sẽ chịu sát thương, sát thương cuối cùng +15%; người trúng đòn bị giảm tốc 1 ô; với kẻ địch đã có [ấn ký bóng tối], gai slime truy kích thêm một lần sát thương nhỏ.",
+                "6": "Bùng phát gai xuyên trong phạm vi 12 thước. Kẻ địch trong phạm vi miễn trừ Nhanh nhẹn với bất lợi; nếu thất bại sẽ chịu sát thương, sát thương cuối cùng +18%; người trúng đòn bị giảm tốc 1 ô; với kẻ địch đã có [ấn ký bóng tối], truy kích thêm sát thương, sát thương phụ cuối cùng +5%.",
+                "7": "Bùng phát gai xuyên trong phạm vi 15 thước. Kẻ địch trong phạm vi miễn trừ Nhanh nhẹn với bất lợi; nếu thất bại sẽ chịu sát thương, sát thương cuối cùng +22%; người trúng đòn bị giảm tốc 1 ô; với kẻ địch đã có [ấn ký bóng tối], truy kích thêm sát thương, sát thương phụ cuối cùng +5%.",
+                "8": "Bùng phát gai xuyên trong phạm vi 15 thước. Kẻ địch trong phạm vi miễn trừ Nhanh nhẹn với bất lợi; nếu thất bại sẽ chịu sát thương, sát thương cuối cùng +25%; người trúng đòn bị giảm tốc 2 ô; với kẻ địch đã có [ấn ký bóng tối], truy kích thêm sát thương, sát thương phụ cuối cùng +10%.",
+                "9": "Bùng phát gai xuyên trong phạm vi 15 thước. Kẻ địch trong phạm vi miễn trừ Nhanh nhẹn với bất lợi; nếu thất bại sẽ chịu sát thương, sát thương cuối cùng +28%; người trúng đòn bị giảm tốc 2 ô; với kẻ địch đã có [ấn ký bóng tối], truy kích thêm sát thương, sát thương phụ cuối cùng +10%.",
+                "10": "Bùng phát trận gai siết cổ trong phạm vi 18 thước. Kẻ địch trong phạm vi miễn trừ Nhanh nhẹn với bất lợi; nếu thất bại sẽ chịu sát thương, sát thương cuối cùng +35%; mọi kẻ địch thất bại bị đóng đinh tại chỗ ([giam cầm] 1 vòng). Với kẻ địch có ấn ký, gai slime xé rách thêm, khiến kháng chảy máu của mục tiêu tạm thời về 0."
+              },
+              "阶位": "Nâng cao"
+            },
+            "Ảnh thức · Tàn Nguyệt": {
+              "名称": "Ảnh thức · Tàn Nguyệt",
+              "类型": "Chủ động",
+              "描述": "Xoay người vung ra một luồng kiếm khí hình cung đen kịt nuốt trọn ánh sáng xung quanh. Một đòn tưởng mộc mạc không hoa mỹ, thực chất có thể cắt rách không gian và cưỡng ép đẩy lùi đám địch đang áp sát.",
+              "特殊效果": {
+                "1": "Vung kiếm khí hình quạt gây sát thương cho kẻ địch trong phạm vi 15 thước phía trước, sát thương cuối cùng +5%, đẩy lui 1 ô nếu mục tiêu thất bại miễn trừ.",
+                "2": "Vung kiếm khí hình quạt gây sát thương cho kẻ địch trong phạm vi 15 thước phía trước, sát thương cuối cùng +8%, đẩy lui 1 ô nếu mục tiêu thất bại miễn trừ.",
+                "3": "Vung kiếm khí hình quạt gây sát thương cho kẻ địch trong phạm vi 15 thước phía trước, sát thương cuối cùng +12%, đẩy lui 1 ô nếu mục tiêu thất bại miễn trừ.",
+                "4": "Vung kiếm khí hình quạt gây sát thương cho kẻ địch trong phạm vi 15 thước phía trước, sát thương cuối cùng +15%, đẩy lui 1 ô nếu mục tiêu thất bại miễn trừ.",
+                "5": "Sóng xung kích mở rộng gây sát thương cho kẻ địch trong phạm vi 20 thước phía trước, sát thương cuối cùng +20%, đẩy lui 2 ô.",
+                "6": "Sóng xung kích mở rộng gây sát thương cho kẻ địch trong phạm vi 20 thước phía trước, sát thương cuối cùng +22%, đẩy lui 2 ô.",
+                "7": "Sóng xung kích mở rộng gây sát thương cho kẻ địch trong phạm vi 20 thước phía trước, sát thương cuối cùng +25%, đẩy lui 2 ô.",
+                "8": "Sóng xung kích mở rộng gây sát thương cho kẻ địch trong phạm vi 20 thước phía trước, sát thương cuối cùng +28%, đẩy lui 2 ô; nếu mục tiêu va vào chướng ngại, chịu thêm một lần sát thương cùn nhẹ.",
+                "9": "Sóng xung kích mở rộng gây sát thương cho kẻ địch trong phạm vi 20 thước phía trước, sát thương cuối cùng +32%, đẩy lui 2 ô; nếu mục tiêu va vào chướng ngại, chịu thêm một lần sát thương cùn.",
+                "10": "Kiếm khí Tàn Nguyệt thực thể hóa gây sát thương cho kẻ địch trong phạm vi 25 thước phía trước, sát thương cuối cùng +38%, đẩy lui 2 ô; nếu mục tiêu bị đánh văng vào tường thì chắc chắn kèm [choáng] 1 vòng; nếu mục tiêu mang [ấn ký bóng tối], kiếm khí sẽ tạo một vụ nổ cực nhỏ."
+              },
+              "阶位": "Nâng cao"
+            }
+          },
+          "必杀": {
+            "Kết giới ma lực": {
+              "名称": "Kết giới ma lực",
+              "类型": "Đặc biệt",
+              "描述": "Dùng ma lực mật độ cực cao dựng lá chắn tuyệt đối quanh thân. Nó không chỉ chống đỡ đòn hủy diệt, mà ma lực tinh thuần còn thanh lọc và chữa lành mọi dị thường cùng chứng phụ thân trong cơ thể.",
+              "特殊效果": {
+                "1": "Tiêu hao một lượng nhỏ ma lực để tạo khiên, nhận sinh mệnh tạm thời bằng 10% giới hạn sinh mệnh, kéo dài 2 vòng.",
+                "2": "Tiêu hao một lượng nhỏ ma lực để tạo khiên, nhận sinh mệnh tạm thời bằng 12% giới hạn sinh mệnh, kéo dài 2 vòng.",
+                "3": "Tiêu hao một lượng nhỏ ma lực để tạo khiên, nhận sinh mệnh tạm thời bằng 15% giới hạn sinh mệnh, kéo dài 2 vòng.",
+                "4": "Tiêu hao một lượng nhỏ ma lực để tạo khiên, nhận sinh mệnh tạm thời bằng 18% giới hạn sinh mệnh, kéo dài 3 vòng.",
+                "5": "Mật độ khiên tăng, nhận sinh mệnh tạm thời bằng 20% giới hạn sinh mệnh, kéo dài 3 vòng; khi khiên tồn tại, mọi kiểm định miễn trừ thuộc tính của bản thân +1.",
+                "6": "Mật độ khiên tăng, nhận sinh mệnh tạm thời bằng 22% giới hạn sinh mệnh, kéo dài 3 vòng; khi khiên tồn tại, mọi kiểm định miễn trừ thuộc tính của bản thân +1.",
+                "7": "Mật độ khiên tăng, nhận sinh mệnh tạm thời bằng 25% giới hạn sinh mệnh, kéo dài 3 vòng; khi khiên tồn tại, mọi kiểm định miễn trừ thuộc tính của bản thân +1."
+              },
+              "阶位": "Tất sát"
+            },
+            "Ảnh thức · Vô Minh": {
+              "名称": "Ảnh thức · Vô Minh",
+              "类型": "Chủ động",
+              "描述": "Thu kiếm vào vỏ, nén ma lực cực hạn trong vỏ kiếm rồi rút đao với tốc độ thần tốc. Ngay cả động tác xuất kiếm cũng không thể quan sát; đây là kỹ thuật chém giết đơn thể mạnh nhất để kích nổ ấn ký và kết liễu sinh mệnh.",
+              "特殊效果": {
+                "1": "Áp sát mục tiêu và phát động một đòn rút đao cực tốc lên đơn thể cận chiến, sát thương cuối cùng +10%.",
+                "2": "Áp sát mục tiêu và phát động một đòn rút đao cực tốc lên đơn thể cận chiến, sát thương cuối cùng +15%.",
+                "3": "Áp sát mục tiêu và phát động một đòn rút đao cực tốc lên đơn thể cận chiến, sát thương cuối cùng +18%.",
+                "4": "Áp sát mục tiêu và phát động một đòn rút đao cực tốc lên đơn thể cận chiến, sát thương cuối cùng +22%; nếu mục tiêu mang [ấn ký bóng tối], phạm vi bạo kích tạm thời mở rộng (19-20).",
+                "5": "Cực ý kéo dài. Trước khi rút đao có thể thực hiện một lần đột tiến tức thời không thể nhìn thấy, tối đa 10 thước, rồi phát động một đòn rút đao cực tốc lên đơn thể cận chiến, sát thương cuối cùng +28%; nếu mục tiêu mang ấn ký, phạm vi bạo kích mở rộng (19-20).",
+                "6": "Cực ý kéo dài. Trước khi rút đao có thể thực hiện một lần đột tiến tức thời không thể nhìn thấy, tối đa 10 thước, rồi phát động một đòn rút đao cực tốc lên đơn thể cận chiến, sát thương cuối cùng +32%; nếu mục tiêu mang ấn ký, phạm vi bạo kích mở rộng (19-20).",
+                "7": "Cực ý kéo dài. Trước khi rút đao có thể thực hiện một lần đột tiến tức thời không thể nhìn thấy, tối đa 10 thước, rồi phát động một đòn rút đao cực tốc lên đơn thể cận chiến, sát thương cuối cùng +36%; nếu mục tiêu mang ấn ký, phạm vi bạo kích mở rộng (19-20)."
+              },
+              "阶位": "Tất sát"
+            },
+            "Lồng giam slime": {
+              "名称": "Lồng giam slime",
+              "类型": "Chủ động",
+              "描述": "Quăng lượng lớn slime hóa thành mái vòm tử lao đen kịt, cô lập ma lực của kẻ bị nhốt với bên ngoài. Đây là khống chế quần thể cực kỳ bá đạo, tạo bãi ngắm hoàn hảo cho các đại chiêu nổ hạt nhân tiếp theo.",
+              "特殊效果": {
+                "1": "Ném slime phủ vùng 10 thước, địch thất bại miễn trừ Nhanh nhẹn bị nhốt trong lồng 1 vòng, tốc độ di chuyển giảm nửa.",
+                "2": "Ném slime phủ vùng 10 thước, địch thất bại miễn trừ Nhanh nhẹn bị nhốt trong lồng 1 vòng, tốc độ di chuyển giảm nửa và chịu thêm sát thương ép nhẹ.",
+                "3": "Ném slime phủ vùng 10 thước, địch thất bại miễn trừ Nhanh nhẹn bị nhốt trong lồng 1 vòng, tốc độ di chuyển giảm xuống còn 5 thước và chịu thêm sát thương ép.",
+                "4": "Ném slime phủ vùng 12 thước, địch thất bại miễn trừ Nhanh nhẹn bị nhốt trong lồng 1 vòng, tốc độ di chuyển giảm xuống còn 5 thước và chịu thêm sát thương ép.",
+                "5": "Slime sinh sôi, phủ vùng 12 thước; địch thất bại miễn trừ Nhanh nhẹn bị nhốt trong lồng 2 vòng; kẻ bị nhốt không chỉ giảm tốc, tầm nhìn còn bị nén chỉ còn 5 thước quanh bản thân và không thể dùng công kích tầm xa cần đường nhìn.",
+                "6": "Slime sinh sôi, phủ vùng 12 thước; địch thất bại miễn trừ Nhanh nhẹn bị nhốt trong lồng 2 vòng; kẻ bị nhốt bị giảm tốc, tầm nhìn bị nén, và đầu mỗi vòng chịu sát thương ép kéo dài, sát thương cuối cùng +10%.",
+                "7": "Slime sinh sôi, phủ vùng 15 thước; địch thất bại miễn trừ Nhanh nhẹn bị nhốt trong lồng 2 vòng; kẻ bị nhốt bị giảm tốc, tầm nhìn bị nén, và đầu mỗi vòng chịu sát thương ép kéo dài, sát thương cuối cùng +15%."
+              },
+              "阶位": "Tất sát"
+            }
+          },
+          "奥义": {
+            "Ảnh thức · Thiên Nhận": {
+              "名称": "Ảnh thức · Thiên Nhận",
+              "类型": "Chủ động",
+              "描述": "Dựa vào thân thể và ma lực cường hóa vượt người thường, tức thời hóa thành hắc quang xuyên qua đội hình địch và chém ra vô số kiếm ảnh. Dùng thể thuật và kiếm kỹ cực hạn để lăng trì đối thủ, thể hiện quyền thống trị cận chiến tối cao.",
+              "特殊效果": {
+                "1": "Xuyên lướt liên tục trong phạm vi 15 thước và chém 3 mục tiêu khác nhau, mỗi nhát chém có sát thương cuối cùng +15%.",
+                "2": "Xuyên lướt liên tục trong phạm vi 15 thước và chém 3 mục tiêu khác nhau, mỗi nhát chém có sát thương cuối cùng +20%.",
+                "3": "Xuyên lướt liên tục trong phạm vi 20 thước và chém 4 mục tiêu khác nhau, mỗi nhát chém có sát thương cuối cùng +25%.",
+                "4": "Xuyên lướt liên tục trong phạm vi 20 thước và chém 4 mục tiêu khác nhau, mỗi nhát chém có sát thương cuối cùng +30%.",
+                "5": "Xuyên lướt liên tục trong phạm vi 25 thước và chém 5 mục tiêu khác nhau, mỗi nhát chém có sát thương cuối cùng +35%; nếu không đủ mục tiêu, có thể chém lặp lại cùng mục tiêu, nhưng sát thương các nhát sau giảm 30%."
+              },
+              "阶位": "Áo nghĩa"
+            },
+            "I Am Atomic Sword": {
+              "名称": "I Am Atomic Sword",
+              "类型": "Chủ động",
+              "描述": "Thu bó lượng ma lực khổng lồ mô phỏng vụ nổ hạt nhân lên lưỡi kiếm. Đây không phải vụ nổ phạm vi rộng, mà là sự kiềm chế đến cực hạn, chém ra một tuyến ánh sáng hủy diệt có thể bổ đôi trời đất.",
+              "特殊效果": {
+                "1": "Tụ ma lực vào thân kiếm, vung kiếm quang xuyên qua đường thẳng dài 30 thước, sát thương cuối cùng +20%.",
+                "2": "Tụ ma lực vào thân kiếm, vung kiếm quang xuyên qua đường thẳng dài 30 thước, sát thương cuối cùng +25%.",
+                "3": "Tụ ma lực vào thân kiếm, vung kiếm quang xuyên qua đường thẳng dài 35 thước, sát thương cuối cùng +30%.",
+                "4": "Tụ ma lực vào thân kiếm, vung kiếm quang xuyên qua đường thẳng dài 35 thước, sát thương cuối cùng +35%.",
+                "5": "Kiếm quang được nén tới cực hạn, vung kiếm quang xuyên qua đường thẳng dài 40 thước, sát thương cuối cùng +45%; lưỡi hủy diệt rộng 5 thước gây tổn hại gấp đôi cho mọi tạo vật ma pháp và khiên trên đường thẳng."
+              },
+              "阶位": "Áo nghĩa"
+            },
+            "I Am Atomic Rain": {
+              "名称": "I Am Atomic Rain",
+              "类型": "Chủ động",
+              "描述": "Nhảy lên đỉnh trời đêm, biến ma lực tinh thuần đã nén tới cực hạn thành vô số tia sáng rơi xuống. Mỗi giọt mưa ánh sáng đều như một quả bom hạt nhân mini, dấy lên chuỗi nổ liên hoàn quét sạch không phân biệt trong đội hình địch.",
+              "特殊效果": {
+                "1": "Lơ lửng rồi giáng pháo kích chùm sáng xuống vùng chỉ định 20 thước, tạo nổ phạm vi kéo dài 1 vòng, sát thương cuối cùng +20%.",
+                "2": "Lơ lửng rồi giáng pháo kích chùm sáng xuống vùng chỉ định 20 thước, tạo nổ phạm vi kéo dài 1 vòng, sát thương cuối cùng +25%.",
+                "3": "Lơ lửng rồi giáng pháo kích chùm sáng xuống vùng chỉ định 25 thước, tạo nổ phạm vi kéo dài 1 vòng, sát thương cuối cùng +30%.",
+                "4": "Lơ lửng rồi giáng pháo kích chùm sáng xuống vùng chỉ định 25 thước, tạo nổ phạm vi kéo dài 1 vòng, sát thương cuối cùng +35%.",
+                "5": "Mưa ma lực tăng mạnh, oanh tạc vùng chỉ định 30 thước, tạo nổ phạm vi kéo dài 2 vòng, sát thương cuối cùng +45%; người thi pháp đứng trong mưa phải kiểm định tập trung mỗi vòng, nếu không pháp thuật gián đoạn."
+              },
+              "阶位": "Áo nghĩa"
+            }
+          },
+          "觉醒一": {
+            "I Am Atomic": {
+              "名称": "I Am Atomic",
+              "类型": "Chủ động",
+              "阶位": "Thức tỉnh một",
+              "描述": "“Tên ta là Shadow. Kẻ tiềm phục trong bóng tối, săn lùng bóng tối.” Chiêu thức tuyệt đối tuyên cáo sự tồn tại của bản thân. Nén lượng ma lực khổng lồ tới một kỳ điểm mà mắt thường không thể quan sát, rồi bộc phát kết giới ma lực cấp nổ hạt nhân đủ sức hủy diệt thị trấn.",
+              "特殊效果": {
+                "1": "Mỗi trận 1 lần. Shadow phóng một kết giới ma lực màu tím violet với bán kính 100 thước. Mọi mục tiêu địch phải thực hiện miễn trừ kép Thể chất và Nhanh nhẹn với DC cực cao; nếu thất bại sẽ chịu sát thương nguyên tử sụp rã không thể gọi tên, trực tiếp xóa mọi giáp và kháng ma pháp dưới Truyền thuyết. Nếu mục tiêu có [ấn ký bóng tối], kết giới còn cưỡng chế bốc hơi 30% sinh mệnh (áp dụng với tồn tại ngoài cấp Thần thoại). Sau vụ nổ, chiến trường để lại tàn ảnh cực quang tím đẹp đẽ, khiến kẻ sống sót rơi vào [kính sợ] và [chấn nhiếp] sâu, không thể hành động 1 vòng hoàn chỉnh. Đây là mỹ học bạo lực thuần túy và hoa lệ.",
+                "2": "Mỗi trận 1 lần. Shadow phóng một kết giới ma lực màu tím violet với bán kính 100 thước. Mọi mục tiêu địch phải thực hiện miễn trừ kép Thể chất và Nhanh nhẹn với DC cực cao; nếu thất bại sẽ chịu sát thương nguyên tử sụp rã không thể gọi tên, trực tiếp xóa mọi giáp và kháng ma pháp dưới Truyền thuyết. Nếu mục tiêu có [ấn ký bóng tối], kết giới còn cưỡng chế bốc hơi 30% sinh mệnh (áp dụng với tồn tại ngoài cấp Thần thoại). Sau vụ nổ, chiến trường để lại tàn ảnh cực quang tím đẹp đẽ, khiến kẻ sống sót rơi vào [kính sợ] và [chấn nhiếp] sâu, không thể hành động 1 vòng hoàn chỉnh. Đây là mỹ học bạo lực thuần túy và hoa lệ.",
+                "3": "Mỗi trận 1 lần. Shadow phóng một kết giới ma lực màu tím violet với bán kính 100 thước. Mọi mục tiêu địch phải thực hiện miễn trừ kép Thể chất và Nhanh nhẹn với DC cực cao; nếu thất bại sẽ chịu sát thương nguyên tử sụp rã không thể gọi tên, trực tiếp xóa mọi giáp và kháng ma pháp dưới Truyền thuyết. Nếu mục tiêu có [ấn ký bóng tối], kết giới còn cưỡng chế bốc hơi 30% sinh mệnh (áp dụng với tồn tại ngoài cấp Thần thoại). Sau vụ nổ, chiến trường để lại tàn ảnh cực quang tím đẹp đẽ, khiến kẻ sống sót rơi vào [kính sợ] và [chấn nhiếp] sâu, không thể hành động 1 vòng hoàn chỉnh. Đây là mỹ học bạo lực thuần túy và hoa lệ."
+              }
+            }
+          },
+          "觉醒二": {
+            "I Am All-Range Atomic": {
+              "名称": "I Am All-Range Atomic",
+              "类型": "Chủ động",
+              "阶位": "Thức tỉnh hai",
+              "描述": "Vụ nổ hạt nhân toàn phương vị, toàn lĩnh vực, không góc chết. Shadow không còn nén lượng ma lực khổng lồ vào một điểm, mà trực tiếp trải nó như sóng thần khắp toàn bộ không gian chiến đấu trong tầm mắt, rồi kích phát vụ nổ khái niệm trong toàn bộ không gian, phân biệt địch ta hoàn mỹ.",
+              "特殊效果": {
+                "1": "Mỗi trận 1 lần. Sau khi kích hoạt, mọi không gian trong phạm vi 300 thước trên chiến trường bị ma lực đen kịt của Shadow bao phủ. Đồng minh không bị tổn thương và được ma lực tinh thuần chữa lành, hồi 30% giới hạn sinh mệnh và thanh lọc mọi trạng thái bất lợi; kẻ địch chịu sát thương nghiền ép không phân biệt và không có chỗ trốn. Xúc xắc sát thương lần này cưỡng chế lấy giá trị tối đa, không thể bị chỗ nấp, dịch chuyển hoặc nhảy không gian né tránh. Đòn này thay đổi sinh thái chiến trường, khiến mọi chiến thuật màu mè của địch hóa hư vô trước sức mạnh tuyệt đối.",
+                "2": "Mỗi trận 1 lần. Sau khi kích hoạt, mọi không gian trong phạm vi 300 thước trên chiến trường bị ma lực đen kịt của Shadow bao phủ. Đồng minh không bị tổn thương và được ma lực tinh thuần chữa lành, hồi 30% giới hạn sinh mệnh và thanh lọc mọi trạng thái bất lợi; kẻ địch chịu sát thương nghiền ép không phân biệt và không có chỗ trốn. Xúc xắc sát thương lần này cưỡng chế lấy giá trị tối đa, không thể bị chỗ nấp, dịch chuyển hoặc nhảy không gian né tránh. Đòn này thay đổi sinh thái chiến trường, khiến mọi chiến thuật màu mè của địch hóa hư vô trước sức mạnh tuyệt đối."
+              }
+            }
+          },
+          "觉醒三": {
+            "I Am Universal Atomic": {
+              "名称": "I Am Universal Atomic",
+              "类型": "Chủ động",
+              "阶位": "Thức tỉnh ba",
+              "描述": "“Chân lý của vũ trụ ở ngay nơi đây.” Thoát khỏi ràng buộc của mặt đất, Shadow bay ra ngoài tinh không, dựa vào lá chắn ma lực khổng lồ bao phủ cả tinh cầu để phóng thích vụ nổ hạt nhân khái niệm tối thượng xuống chiến trường. Ma lực khổng lồ thậm chí thắp sáng cả tinh hệ.",
+              "特殊效果": {
+                "1": "Mỗi chiến dịch 1 lần. Đây là kỳ tích cấp Thần thoại, tạm thời bóp méo pháp tắc thế giới. Shadow rời khỏi lưới chiến đấu hiện tại và tiến vào không gian vũ trụ, nhận 1 vòng vô địch và ẩn hình. Vòng kế tiếp, một luồng cực quang xuyên trời oanh kích toàn sân. Dưới ánh sáng này, kiểm định phòng ngự của phàm nhân không còn ý nghĩa; khái niệm tồn tại của mọi kẻ địch không phải thủ lĩnh trên chiến trường bị trực tiếp bóc bỏ và chết ngay. Với thủ lĩnh cấp Truyền thuyết hoặc Thần thoại, ánh sáng bỏ qua mọi cơ chế vô địch, miễn dịch khái niệm và pháp tắc giảm sát thương, cưỡng chế cắt 50% sinh mệnh hiện tại và tước vòng hành động hoàn chỉnh kế tiếp. Sau đòn này, vì đã phóng thích năng lượng khổng lồ như vũ trụ khai sinh, địa hình quanh chiến trường vĩnh viễn biến thành một hố thiên thạch phát sáng sâu không thấy đáy, thể hiện cảnh giới làm màu tối thượng của kẻ mạnh trong bóng tối."
+              }
+            }
+          }
+        }
+      },
+      "skillFlavorInput": "1. Kỹ năng cốt lõi: khống chế ma lực\nShadow không có thuộc tính ma pháp màu mè; sức mạnh của cậu bắt nguồn từ khả năng khống chế ma lực đến cực hạn, đạt tới cảnh giới phi nhân trong kỹ thuật nén, phóng thích và chuyển hóa ma lực.\n\nỨng dụng cơ bản:\n\nNén ma lực: nén lượng lớn ma lực vào một điểm cực nhỏ rồi phóng thích tức thời, tạo ra uy lực bùng nổ.\n\nCường hóa ma lực: dùng ma lực cường hóa tốc độ, sức mạnh và phản ứng của bản thân, đạt tới mức vượt qua giới hạn loài người.\n\nCảm nhận ma lực: có thể cảm nhận dao động ma lực xung quanh và dự đoán hành động của kẻ địch.\n\n2. Kỹ năng biểu tượng: I Am Atomic\nĐây là tất sát kỹ tối thượng của Shadow, cũng là chiêu thức biểu tượng nhất toàn bộ tác phẩm.\n\nThuộc tính\tMô tả\nCách phát động\tNén toàn bộ ma lực tới cực hạn, ngưng tụ vào một điểm.\nHiệu quả phóng thích\tPhóng thích tức thời, tạo vụ nổ khổng lồ đủ sức hủy diệt mọi thứ.\nUy lực có thể khống chế\tCó thể từ “chỉ phá hủy một tòa nhà” đến “biến cả thành phố thành hư vô”.\nLời thoại\t“I Am Atomic.” - đọc bằng tiếng Anh để tăng cảm giác chuunibyou.\nHình thái chiến đấu:\n\nBản thường: dùng ở cuối mùa 1 anime khi đối đầu Beatrix, phá hủy toàn bộ thánh địa.\n\nBản toàn phạm vi (All-Range Atomic): phiên bản cường hóa xuất hiện trong game mobile, ma lực bao trùm mọi hướng.\n\n3. Hệ thống kỹ năng chiến đấu\nKỹ năng\tMô tả\nKiếm thuật\tKiếm thuật của Shadow đã đạt cấp “kiếm quỷ”, có thể một tay cầm kiếm chém giết ma kiếm sĩ cao cấp.\nThể thuật\tThể thuật được ma lực cường hóa, có thể dễ dàng tránh công kích của ma kiếm sĩ cấp C.\nBước bóng tối\tKỹ thuật di chuyển hiện ra và biến mất từ trong bóng tối.\nBộc phát ma lực\tPhóng thích tức thời ma lực đã nén, hình thành sóng xung kích.\n4. Kỹ năng đặc biệt: trang bị slime\nShadow dùng slime làm trang bị chiến đấu:\n\nTrang bị\tChức năng\nChiến phục slime\tDùng ma lực điều khiển slime tạo thành đồ bó sát, có thể biến hình tùy ý, lực phòng ngự rất cao.\nKiếm slime\tDùng slime ngưng tụ thành kiếm, có thể tùy ý đổi hình dạng, nhẹ và sắc bén.\nNgụy trang slime\tDùng slime thay đổi ngoại hình để ngụy trang thân phận.\nƯu thế của trang bị slime: nhẹ, có thể biến hình, phòng ngự cao và không hạn chế dòng chảy ma lực.\n\n5. Năng lực bị động\nNăng lực\tMô tả\nPha loãng hiện diện\tỞ trạng thái Cid, cậu có thể hạ cảm giác tồn tại của bản thân xuống mức thấp nhất, ngụy trang hoàn hảo thành người qua đường.\nCảm nhận nguy cơ\tCó thể cảm nhận uy hiếp tiềm tàng và kẻ địch mạnh.\nThiên phú chiến đấu\tSau khi chuyển sinh có trực giác chiến đấu và năng lực học tập rất cao.\n6. Tổng kết phong cách chiến đấu\nChiến đấu của Shadow không phải kiểu mãng phu “mạnh nhất nhanh nhất”, mà là:\n\nDùng động tác nhỏ nhất, ít ma lực nhất, cách tao nhã nhất, kết thúc chiến đấu ở “thời cơ thích hợp nhất”.\n\nThứ cậu theo đuổi không phải “chiến thắng” - chiến thắng quá đơn giản.\n\nThứ cậu theo đuổi là: “khiến trận chiến này trông đủ ngầu”.\n\n7. Bảng kỹ năng\nPhân loại\tTên kỹ năng\tHiệu quả\nTất sát kỹ\tI Am Atomic\tNén toàn bộ ma lực rồi kích nổ, uy lực đủ hủy diệt thành phố.\nKiếm kỹ\tTrảm kích bóng tối\tMột đòn chém tất sát bằng kiếm slime.\nThể thuật\tBước bóng tối\tDịch chuyển tức thời giữa các bóng tối, xuất quỷ nhập thần.\nPhòng ngự\tKết giới ma lực\tDùng ma lực tạo lá chắn chống đỡ công kích.\nĐặc biệt\tBiến hình slime\tBiến slime thành bất kỳ hình dạng nào: kiếm, khiên, xiềng xích, thậm chí quần áo.\nBị động\tPha loãng hiện diện\tKhi ngụy trang thành người qua đường, cảm giác tồn tại gần như bằng không.\n\nCốt lõi vĩnh viễn là chiêu đó - I Am Atomic.\n\nMọi kỹ năng khác đều tồn tại để khi chiêu đó được dùng ra, nó “đủ ngầu”.\nMọi kỹ năng lấy ấn ký bóng tối làm trọng tâm.\nKỹ năng cơ bản lấy tơ dây và kiếm kỹ làm chính.\nBị động chuyển nghề cần bao gồm các đặc tính nhẹ, có thể biến hình, phòng ngự cao và không hạn chế dòng chảy ma lực.\nCó thể dùng các kỹ năng Shadow đã sử dụng trong anime The Eminence in Shadow để thiết lập.",
+      "teammates": [],
+      "customTeammate": null,
+      "selectedTraits": [
+        "Khách đến từ dị giới"
+      ],
+      "customTraits": [
+        {
+          "name": "Đặc chất của Shadow-sama",
+          "effect": "3. Lượng ma lực tinh luyện khổng lồ và chất lượng cao, có được nhờ tu luyện kỹ thuật nén ma lực.\n4. Slime: vật liệu có tỷ lệ dẫn ma lực lên tới 99%; chỉ cần rót ma lực vào là có thể tự do điều khiển, biến thành quần áo, kiếm và nhiều hình thái khác.\n5. Khống chế ma lực: có thể dùng ma lực thực hiện đủ loại thao tác, ví dụ trị thương cho bản thân hoặc người khác."
+        },
+        {
+          "name": "Kẻ mạnh trong bóng tối",
+          "effect": "Shadow-sama vì muốn trở thành kẻ mạnh trong bóng tối nên đã học võ thuật, piano và rất nhiều kiến thức khác. Sau khi chuyển sinh, cách hiểu của cậu về ma lực khác hẳn người thường; cậu phát triển kỹ thuật nén ma lực và không ngừng rèn luyện ma lực, từ khi sinh ra đã bắt đầu luyện ma lực, dựa vào ma lực mỗi ngày có thể không cần ngủ vẫn luyện tiếp. Cậu có tố chất thân thể mạnh mẽ, được tôi luyện từ nhỏ đến lớn và được cải tạo bằng ma lực."
+        }
+      ],
+      "customExpertise": [],
+      "customIdentity": {
+        "enabled": true,
+        "name": "Shadow-sama",
+        "desc": "Cid Kagenou / Shadow, em trai của Claire, trưởng nam nhà nam tước Kagenou. Năm 6 tuổi đã là một ma kiếm sĩ rất mạnh; năm 15 tuổi nhập học Học viện Ma Kiếm sĩ Midgar, hiện 16 tuổi.\nCậu vô cùng ngưỡng mộ sự tồn tại của kẻ mạnh trong bóng tối. Dù bản thân có thực lực cực mạnh, thường ngày cậu vẫn cố gắng trở thành nhân vật người qua đường mờ nhạt, khiến người khác nghĩ Cid Kagenou chỉ là một học sinh bình thường.\nCậu có năng lực quan sát tinh vi và phản ứng nhanh. Từ nhỏ đã không ngừng điều khiển ma lực để rèn đúc thân thể; ngay cả triệu chứng của người bị quỷ ám cũng chỉ bị cậu phán đoán là phản ứng bạo tẩu ma lực, rồi tự mình giải quyết triệt để. Vì từ khi sinh ra đã dài ngày rèn lọc và thăng hoa ma lực của bản thân, chất và lượng ma lực đều cực kỳ đáng sợ. Dù bản thân cho rằng tác dụng chỉ là xóa mệt mỏi, cải thiện tuần hoàn ma lực hoặc trị thương nhẹ, thực tế nó còn đáng sợ hơn nhiều, sở hữu năng lực chữa trị cường độ cao, thậm chí có hiệu quả tái sinh. Bản thân cậu hơi tham tiền, không giỏi đánh bạc nhưng kỹ thuật gian lận đã tới mức lô hỏa thuần thanh; từ nhỏ đã thường lén đi săn đạo tặc, đoạt tài vật của chúng và chiếm làm của riêng, xem những tội phạm ấy như ống tiết kiệm của mình. Cậu thường dùng các chiến lợi phẩm quý giá để tỏ vẻ ngầu và trầm tư, khiến những người biết thân phận thật của cậu đều cho rằng thật ra cậu đang gánh một quyết tâm trọng đại.\nSau lưng người khác, cậu hành động dưới danh nghĩa “Shadow”.\nĐể diễn vai người qua đường, cậu sáng tạo bốn mươi tám chiêu “áo nghĩa kiểu người qua đường” và thành công khiến người khác nghĩ thực lực của Cid rất bình thường. Khi trở thành Shadow, cậu chỉ muốn tỏ vẻ ngầu và theo đuổi cảm giác tồn tại, đồng thời sáng tạo áo nghĩa của nhân vật kẻ mạnh trong bóng tối: I Am Atomic. Những người từng chứng kiến thực lực của Shadow hầu như đều cho rằng thực lực của cậu hẳn đứng đầu thế giới, thậm chí có thể là mạnh nhất lịch sử. Nếu chỉ xét lượng ma lực nắm giữ thì cậu vẫn không bằng những người thức tỉnh như Alpha, nhưng nhờ kỹ thuật khống chế ma lực thần kỳ, cậu đã phát triển kỹ thuật nén ma lực độc đáo; bằng cách nén và phóng thích ma lực trong khoảnh khắc, cậu đạt được sức bộc phát vượt thường thức và thực hiện áo nghĩa hủy diệt mà nhân loại vốn không thể có: I Am Atomic.\nNhờ hiểu biết võ thuật từ kiếp trước cộng với tri thức khoa học, cậu sáng tạo không ít sản phẩm và kỹ xảo vượt thời đại.",
+        "tierIndex": 2
+      },
+      "selectedOpening": "traverse",
+      "customOpeningText": "",
+      "selectedDifficulty": "normal",
+      "customRace": {
+        "enabled": true,
+        "name": "Shadow-sama",
+        "trait1": {
+          "name": "Tinh thông ma lực",
+          "detail": "Từ thuở nhỏ đã không ngừng điều khiển ma lực để rèn đúc thân thể; từ khi sinh ra đã lâu dài rèn lọc và thăng hoa ma lực của bản thân, khiến chất và lượng ma lực đều vô cùng đáng sợ.\n1. Lượng ma lực tinh luyện khổng lồ và chất lượng cao, có được nhờ tu luyện kỹ thuật nén ma lực.\n2. Slime: vật liệu có tỷ lệ dẫn ma lực lên tới 99%; chỉ cần rót ma lực vào là có thể tự do điều khiển, biến thành quần áo, kiếm và nhiều hình thái khác.\n3. Khống chế ma lực: có thể dùng ma lực thực hiện đủ loại thao tác, ví dụ trị thương cho bản thân hoặc người khác.",
+          "negative": false
+        },
+        "trait2": {
+          "name": "Kẻ mạnh trong bóng tối",
+          "detail": "Ngưỡng mộ khái niệm “kẻ tiềm phục trong bóng tối, săn lùng bóng tối” gọi là “kẻ mạnh trong bóng tối”, cậu tích cực rèn luyện bản thân. Dù thực lực rất mạnh, thường ngày cậu vẫn cố gắng trở thành nhân vật người qua đường mờ nhạt. Cậu có năng lực quan sát tinh vi và phản ứng nhanh, sau lưng người khác hành động dưới danh nghĩa “Shadow”.",
+          "negative": false
+        }
+      }
+    }
+  }
+}

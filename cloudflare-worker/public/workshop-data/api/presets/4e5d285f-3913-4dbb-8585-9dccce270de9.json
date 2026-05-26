@@ -1,0 +1,43 @@
+{
+  "ok": true,
+  "preset": {
+    "id": "4e5d285f-3913-4dbb-8585-9dccce270de9",
+    "ownerId": "1330999889575936045",
+    "ownerName": "Rem",
+    "author": "Rem",
+    "authorAvatar": "https://cdn.discordapp.com/avatars/1330999889575936045/9eea3e987422379fb9adeb1815809840.png?size=128",
+    "name": "Hồn Minh Giáp Sắt · Mordekaiser",
+    "title": "Hồn Minh Giáp Sắt · Mordekaiser",
+    "intro": "Đây là một cỗ máy xay thịt tử thần lấy chiến nuôi chiến: hoàn toàn từ bỏ trị liệu thông thường, dựa vào việc điên cuồng rút lấy linh hồn kẻ địch để chuyển hóa thành lượng khiên khổng lồ cuồn cuộn không dứt, rồi thông qua “Tuyệt cảnh luân hồi” cô lập tuyệt đối để cưỡng ép cướp đoạt thuộc tính phe địch, cuối cùng nghiền nát chúng cả hồn lẫn xác, biến chúng thành đại quân vong linh phục vụ cho ngươi và cốt long!",
+    "coverUrl": "/api/presets/4e5d285f-3913-4dbb-8585-9dccce270de9/cover",
+    "className": "Chúa Tể Minh Giới",
+    "race": "Chủng Minh Giáp",
+    "tags": [
+      "Triệu hồi",
+      "Bạo chúa",
+      "Trọng giáp",
+      "Nghiền ép bằng sức mạnh",
+      "Duy trì"
+    ],
+    "likes": 3,
+    "liked": false,
+    "downloads": 27,
+    "status": "published",
+    "createdAt": "2026-05-05 18:33:42",
+    "updatedAt": "2026-05-21 07:40:09",
+    "lastLikedAt": "",
+    "presetData": {
+      "name": "Mordekaiser",
+      "class": "Chúa Tể Minh Giới",
+      "customClassName": "Chúa Tể Minh Giới",
+      "race": "__custom__",
+      "customRace": {
+        "name": "Chủng Minh Giáp"
+      },
+      "customClassStyle": "Thành thạo điều khiển bộ trọng giáp hắc thiết không thể phá hủy cùng ma pháp tử linh hủy diệt, dùng trị số và sức mạnh tuyệt đối nghiền ép mọi phản kháng. Phương thức chiến đấu trầm ổn mà không thể ngăn cản, những cú vung đại chùy khai đại hợp luôn đi cùng cơn bão u minh rút lấy sinh mệnh kẻ địch. Phong cách kỹ năng tràn đầy cảm giác thống trị và áp bức: không chỉ có thể cưỡng ép câu thúc linh hồn người chết làm của riêng mình, mà còn giỏi dùng man lực kéo con mồi vào lĩnh vực tử giới cách ly với thế gian để tiến hành một trận tử đấu không cánh nào bay thoát. Đây là một bạo chúa vô tình thống trị chiến trường, càng đánh càng hăng.",
+      "backstory": "Khi còn sống, hắn là quân phiệt tàn bạo Sahn Uzal; sau khi chết, hắn phát hiện bờ bên kia chỉ là một vùng hoang vu. Dựa vào ý chí khủng khiếp cự tuyệt tiêu vong, hắn dùng linh hồn người chết để đúc nên đế quốc minh giới Mitna Rachnun, rồi trói linh hồn bản thân lên bộ hắc thiết giáp không thể phá hủy, trở thành chân chủ duy nhất thống ngự sinh và tử. Hắn không tin vào số mệnh, chỉ tin vào sắt thép và thống trị. Câu nói kinh điển: “Đúc lại, quy nhất. Ta, chính là thiên mệnh!” “Vận mệnh, chúa tể, lừa gạt. Cái chết, chẳng qua chỉ là điểm khởi đầu của ta.”",
+      "selectedCustomLevel": 1
+    },
+    "downloadUrl": "/api/presets/4e5d285f-3913-4dbb-8585-9dccce270de9/file"
+  }
+}

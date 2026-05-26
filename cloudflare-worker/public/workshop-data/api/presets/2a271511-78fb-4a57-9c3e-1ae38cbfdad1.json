@@ -1,0 +1,41 @@
+{
+  "ok": true,
+  "preset": {
+    "id": "2a271511-78fb-4a57-9c3e-1ae38cbfdad1",
+    "ownerId": "837659596838797334",
+    "ownerName": "ProP",
+    "author": "ProP",
+    "authorAvatar": "",
+    "name": "Hỏa Long Chiến Pháp",
+    "title": "Hỏa Long Chiến Pháp",
+    "intro": "Bìa không liên quan. Cập nhật v2.0: đại tu mô tả kỹ năng, đơn giản hóa cấu trúc phức tạp.\nĐây là BD lấy ma pháp lửa và cường hóa đánh thường làm cốt lõi. Pháp sư chiến trường vừa có sinh tồn vừa có nhiều hành động trong một hiệp: cơ bản bốn hành động một hiệp, sau chuyển nghề thường trú sáu hành động dạng hoàn chỉnh, nâng cao tối đa tám hành động. Hai chế độ đánh thường có thể chuyển đổi, hiệu quả khác nhau. Không phải BD siêu mẫu vô não, chém lên rất có cảm giác.",
+    "coverUrl": "/api/presets/2a271511-78fb-4a57-9c3e-1ae38cbfdad1/cover",
+    "className": "Hỏa Long Chiến Pháp",
+    "race": "Hậu duệ Hỏa Long",
+    "tags": [
+      "Duy trì",
+      "Sinh tồn",
+      "Bộc phát"
+    ],
+    "likes": 2,
+    "liked": false,
+    "downloads": 14,
+    "status": "published",
+    "createdAt": "2026-03-20 10:34:02",
+    "updatedAt": "2026-05-20 12:48:13",
+    "lastLikedAt": "",
+    "presetData": {
+      "name": "Nãi Long",
+      "class": "Hỏa Long Chiến Pháp",
+      "customClassName": "Hỏa Long Chiến Pháp",
+      "race": "__custom__",
+      "customRace": {
+        "name": "Hậu duệ Hỏa Long"
+      },
+      "customClassStyle": "Pháp sư chiến trường, dùng ma lực tạo hình để vừa công vừa thủ.",
+      "backstory": "",
+      "selectedCustomLevel": null
+    },
+    "downloadUrl": "/api/presets/2a271511-78fb-4a57-9c3e-1ae38cbfdad1/file"
+  }
+}

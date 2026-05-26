@@ -1,0 +1,39 @@
+{
+  "ok": true,
+  "preset": {
+    "id": "a0f02049-4a1e-4754-920d-8f192f9b1bb8",
+    "ownerId": "1017047513615831110",
+    "ownerName": "dukemomo",
+    "author": "dukemomo",
+    "authorAvatar": "https://cdn.discordapp.com/avatars/1017047513615831110/c7c4b0513d083c099796e8bcedf7a15b.png?size=128",
+    "name": "Siêu nhân Ta Nghĩ Là",
+    "title": "Siêu nhân Ta Nghĩ Là",
+    "intro": "Ta nghĩ đây là phần giới thiệu? Tộc trưởng bảo ta là chiến thần chuyển thế, nhưng ta chỉ muốn yên ổn gõ nồi, nấu cơm. Ta muốn lấy búa gõ búa, cô Búa cũng có thể được gõ thành ta. Ta cùng cô Búa gõ búa với nhau, sinh ra một đống búa con rồi tiếp tục gõ búa.",
+    "coverUrl": "/api/presets/a0f02049-4a1e-4754-920d-8f192f9b1bb8/cover",
+    "className": "Nghề Ta Nghĩ Là",
+    "race": "Chủng tộc Ta Nghĩ Là",
+    "tags": [
+      "Trò lạ"
+    ],
+    "likes": 0,
+    "liked": false,
+    "downloads": 9,
+    "status": "published",
+    "createdAt": "2026-03-29 20:22:00",
+    "updatedAt": "2026-05-18 12:48:21",
+    "lastLikedAt": "",
+    "presetData": {
+      "name": "Anderson Klein",
+      "class": "Nghề Ta Nghĩ Là",
+      "customClassName": "Nghề Ta Nghĩ Là",
+      "race": "__custom__",
+      "customRace": {
+        "name": "Chủng tộc Ta Nghĩ Là"
+      },
+      "customClassStyle": "Nghề Ta Nghĩ Là dựa vào Sức mạnh Ta Nghĩ Là để chiến đấu và hỗ trợ đời sống. Sức mạnh Ta Nghĩ Là là năng lực dùng niềm tin bóp méo hiện thực.",
+      "backstory": "",
+      "selectedCustomLevel": null
+    },
+    "downloadUrl": "/api/presets/a0f02049-4a1e-4754-920d-8f192f9b1bb8/file"
+  }
+}

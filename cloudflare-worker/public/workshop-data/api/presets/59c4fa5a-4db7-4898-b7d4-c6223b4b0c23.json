@@ -1,0 +1,41 @@
+{
+  "ok": true,
+  "preset": {
+    "id": "59c4fa5a-4db7-4898-b7d4-c6223b4b0c23",
+    "ownerId": "1440617696210452521",
+    "ownerName": "Yihei",
+    "author": "Yihei",
+    "authorAvatar": "https://cdn.discordapp.com/avatars/1440617696210452521/3466ad375925f505f65266049a320392.png?size=128",
+    "name": "Kỵ Binh Tinh Hỏa - Firefly",
+    "title": "Kỵ Binh Tinh Hỏa - Firefly",
+    "intro": "Sau khi biến thân, giai đoạn một của SAM là bộc phát sức mạnh, giai đoạn hai là hủy thương cơ động cao.",
+    "coverUrl": "/api/presets/59c4fa5a-4db7-4898-b7d4-c6223b4b0c23/cover",
+    "className": "Kỵ Binh Tinh Hỏa",
+    "race": "Chủng người cải tạo",
+    "tags": [
+      "Bộc phát",
+      "Duy trì",
+      "Sinh tồn"
+    ],
+    "likes": 11,
+    "liked": false,
+    "downloads": 125,
+    "status": "published",
+    "createdAt": "2026-03-19 06:08:56",
+    "updatedAt": "2026-05-25 00:46:54",
+    "lastLikedAt": "",
+    "presetData": {
+      "name": "Firefly",
+      "class": "Kỵ Binh Tinh Hỏa",
+      "customClassName": "Kỵ Binh Tinh Hỏa",
+      "race": "__custom__",
+      "customRace": {
+        "name": "Chủng người cải tạo"
+      },
+      "customClassStyle": "Sau khi biến thân, giai đoạn một của SAM là bộc phát sức mạnh, giai đoạn hai là hủy thương cơ động cao.",
+      "backstory": "",
+      "selectedCustomLevel": null
+    },
+    "downloadUrl": "/api/presets/59c4fa5a-4db7-4898-b7d4-c6223b4b0c23/file"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "ok": true,
+  "preset": {
+    "id": "d513d660-8abe-4392-8a4a-ce63b2e2548d",
+    "ownerId": "1271574516115439686",
+    "ownerName": "Kurokura",
+    "author": "Kurokura",
+    "authorAvatar": "https://cdn.discordapp.com/avatars/1271574516115439686/024230e62639ee437b2653b5ea7b3443.png?size=128",
+    "name": "BlackSouls - Grimm",
+    "title": "BlackSouls - Grimm",
+    "intro": "\"Cô gái yêu dấu của tôi, đang ở nơi nào?\"\nNgười bất tử Grimm đã đến khu vườn hộp của Tetto để tìm Alice. Anh chiến đấu bằng cách lấy tài nguyên cốt lõi [Võ nghệ] làm nền tảng, liên tục hoán đổi vũ khí trong tay để phóng thích chiến kỹ và ma pháp. Tôi thấy nhân vật này rất có tinh thần kỵ sĩ.",
+    "coverUrl": "/api/presets/d513d660-8abe-4392-8a4a-ce63b2e2548d/cover",
+    "className": "Linh Hồn Đen",
+    "race": "Người bất tử",
+    "tags": [
+      "Trình diễn 5 võ nghệ",
+      "Alice vẫn chưa đủ"
+    ],
+    "likes": 11,
+    "liked": false,
+    "downloads": 109,
+    "status": "published",
+    "createdAt": "2026-04-28 00:09:29",
+    "updatedAt": "2026-05-25 05:33:17",
+    "lastLikedAt": "",
+    "presetData": {
+      "name": "Grimm",
+      "class": "Linh Hồn Đen",
+      "customClassName": "Linh Hồn Đen",
+      "race": "__custom__",
+      "customRace": {
+        "name": "Người bất tử"
+      },
+      "customClassStyle": "Biến vũ khí trong tay thành nhiều dạng khác nhau rồi liên tục hoán đổi để phóng thích chiến kỹ và ma pháp; kích hoạt [Võ nghệ] để nhận các tăng ích khác nhau, từ đó linh hoạt ứng phó với từng đối thủ.",
+      "backstory": "",
+      "selectedCustomLevel": 1
+    },
+    "downloadUrl": "/api/presets/d513d660-8abe-4392-8a4a-ce63b2e2548d/file"
+  }
+}

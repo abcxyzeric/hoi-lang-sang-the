@@ -1,0 +1,39 @@
+{
+  "ok": true,
+  "preset": {
+    "id": "50dcd60e-6f01-44a8-9956-d285d011c2fb",
+    "ownerId": "1364165618160373814",
+    "ownerName": "diedoro",
+    "author": "diedoro",
+    "authorAvatar": "https://cdn.discordapp.com/avatars/1364165618160373814/03f4528e6d28090d930f7dde4951220a.png?size=128",
+    "name": "Gà Hầm",
+    "title": "Gà Hầm",
+    "intro": "Mới chỉ là bản đời một thôi, cơ sở dữ liệu Hakimi của đời hai hình như còn chưa biết.",
+    "coverUrl": "/api/presets/50dcd60e-6f01-44a8-9956-d285d011c2fb/cover",
+    "className": "Robot lỗi",
+    "race": "Máy móc tự động",
+    "tags": [
+      "Chế vui"
+    ],
+    "likes": 1,
+    "liked": false,
+    "downloads": 8,
+    "status": "published",
+    "createdAt": "2026-03-28 17:07:01",
+    "updatedAt": "2026-05-18 00:58:27",
+    "lastLikedAt": "",
+    "presetData": {
+      "name": "Robot lỗi",
+      "class": "Robot lỗi",
+      "customClassName": "Robot lỗi",
+      "race": "__custom__",
+      "customRace": {
+        "name": "Máy móc tự động"
+      },
+      "customClassStyle": "Quả cầu nạp năng lượng dẫn động · lập trình chiến thuật",
+      "backstory": "Một cơ thể máy móc tự động không ngừng tự cải tạo bản thân. Sau khi bị thương nặng rồi ẩn mình trong bãi phế liệu, nó kết bạn với một robot khác tên Flaw, rồi lại bước vào tòa tháp để tìm kiếm kẻ sáng tạo ra mình là “kiến trúc sư”. Nó chiến đấu bằng công nghệ quả cầu nạp năng lượng, có thể liên tục điều chỉnh và tối ưu chương trình của bản thân ngay trong chiến đấu.",
+      "selectedCustomLevel": null
+    },
+    "downloadUrl": "/api/presets/50dcd60e-6f01-44a8-9956-d285d011c2fb/file"
+  }
+}

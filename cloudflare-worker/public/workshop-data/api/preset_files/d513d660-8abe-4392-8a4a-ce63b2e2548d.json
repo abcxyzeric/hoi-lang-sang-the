@@ -1,0 +1,976 @@
+{
+  "exportedAt": "2026-04-28T00:09:51.107Z",
+  "version": "1.0",
+  "preset": {
+    "id": "1777334383078",
+    "name": "Grimm",
+    "timestamp": 1777334383078,
+    "createdAt": 1777334383078,
+    "updatedAt": 1777334383078,
+    "data": {
+      "name": "Grimm",
+      "gender": "Nam",
+      "age": 18,
+      "race": "__custom__",
+      "identity": "__custom__",
+      "avatar": "data:image/webp;base64,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",
+      "attributes": {
+        "strength": 13,
+        "dexterity": 12,
+        "constitution": 13,
+        "intelligence": 12,
+        "wisdom": 13,
+        "charisma": 12
+      },
+      "backstory": "",
+      "selectedLevelMode": "custom",
+      "selectedCustomLevel": 1,
+      "selectedSpawnPoint": "Tầng dưới Thành Cảng Vách Hoàn Uyên · bờ biển ngoại vi",
+      "selectedAmberSpawn": null,
+      "class": "Linh Hồn Đen",
+      "selectedBaseClass": "Nghề tùy chỉnh",
+      "customClassName": "Linh Hồn Đen",
+      "customClassStyle": "Biến vũ khí trong tay thành nhiều dạng khác nhau rồi liên tục hoán đổi để phóng thích chiến kỹ và ma pháp; kích hoạt [Võ nghệ] để nhận các tăng ích khác nhau, từ đó linh hoạt ứng phó với từng đối thủ.",
+      "customClassWeapon": "Bất kỳ",
+      "customClassCombatStyle": "Hỗn hợp",
+      "skillTree": {
+        "基础": [
+          {
+            "名称": "Trực kiếm - Tư thế chuẩn bị",
+            "类型": "Chủ động",
+            "描述": "Nâng kiếm song song với mặt đất, rồi tung ra một nhát chém mạnh từ dưới lên trên.",
+            "特殊效果": {
+              "1": "Khi phát động nhát chém, kiểm định trúng đòn +1; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này nhận thêm sát thương cuối cùng +10%.",
+              "2": "Khi phát động nhát chém, kiểm định trúng đòn +2; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này nhận thêm sát thương cuối cùng +15%.",
+              "3": "Khi phát động nhát chém, kiểm định trúng đòn +3; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này nhận thêm sát thương cuối cùng +20%.",
+              "4": "Khi phát động nhát chém, kiểm định trúng đòn +4; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này nhận thêm sát thương cuối cùng +25%.",
+              "5": "Khi phát động nhát chém, kiểm định trúng đòn +5; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này nhận thêm sát thương cuối cùng +30%.",
+              "6": "Khi phát động nhát chém, kiểm định trúng đòn +6; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này nhận thêm sát thương cuối cùng +35%.",
+              "7": "Khi phát động nhát chém, kiểm định trúng đòn +7; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này nhận thêm sát thương cuối cùng +40%.",
+              "8": "Khi phát động nhát chém, kiểm định trúng đòn +8; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này nhận thêm sát thương cuối cùng +45%.",
+              "9": "Khi phát động nhát chém, kiểm định trúng đòn +9; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này nhận thêm sát thương cuối cùng +50%.",
+              "10": "Khi phát động nhát chém, kiểm định trúng đòn +10; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này nhận thêm sát thương cuối cùng +55%.",
+              "11": "Khi phát động nhát chém, kiểm định trúng đòn +11; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này nhận thêm sát thương cuối cùng +60%.",
+              "12": "Khi phát động nhát chém, kiểm định trúng đòn +12; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này nhận thêm sát thương cuối cùng +65%.",
+              "13": "Khi phát động nhát chém, kiểm định trúng đòn +13; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này nhận thêm sát thương cuối cùng +70%.",
+              "14": "Khi phát động nhát chém, kiểm định trúng đòn +14; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này nhận thêm sát thương cuối cùng +75%.",
+              "15": "Khi phát động nhát chém, kiểm định trúng đòn +15; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này nhận thêm sát thương cuối cùng +80%."
+            },
+            "阶位": "Cơ bản"
+          },
+          {
+            "名称": "Dao găm - Nhị liên trảm",
+            "类型": "Chủ động",
+            "描述": "Hạ thấp thân hình, sau đó dùng những nhát chém giao nhau liên tiếp để xé rách đối thủ.",
+            "特殊效果": {
+              "1": "Kiểm định Nhanh nhẹn của đòn tấn công này +1; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch nhận trạng thái [Chảy máu] kéo dài 2 hiệp khi bị đánh trúng.",
+              "2": "Kiểm định Nhanh nhẹn của đòn tấn công này +2; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch nhận trạng thái [Chảy máu] kéo dài 2 hiệp khi bị đánh trúng.",
+              "3": "Kiểm định Nhanh nhẹn của đòn tấn công này +3; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch nhận trạng thái [Chảy máu] kéo dài 2 hiệp khi bị đánh trúng.",
+              "4": "Kiểm định Nhanh nhẹn của đòn tấn công này +4; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch nhận trạng thái [Chảy máu] kéo dài 2 hiệp khi bị đánh trúng.",
+              "5": "Kiểm định Nhanh nhẹn của đòn tấn công này +5; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch nhận trạng thái [Chảy máu] kéo dài 2 hiệp khi bị đánh trúng.",
+              "6": "Kiểm định Nhanh nhẹn của đòn tấn công này +6; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch nhận trạng thái [Chảy máu] kéo dài 2 hiệp khi bị đánh trúng.",
+              "7": "Kiểm định Nhanh nhẹn của đòn tấn công này +7; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch nhận trạng thái [Chảy máu] kéo dài 2 hiệp khi bị đánh trúng.",
+              "8": "Kiểm định Nhanh nhẹn của đòn tấn công này +8; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch nhận trạng thái [Chảy máu] kéo dài 2 hiệp khi bị đánh trúng.",
+              "9": "Kiểm định Nhanh nhẹn của đòn tấn công này +9; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch nhận trạng thái [Chảy máu] kéo dài 2 hiệp khi bị đánh trúng.",
+              "10": "Kiểm định Nhanh nhẹn của đòn tấn công này +10; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch nhận trạng thái [Chảy máu] kéo dài 2 hiệp khi bị đánh trúng.",
+              "11": "Kiểm định Nhanh nhẹn của đòn tấn công này +11; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch nhận trạng thái [Chảy máu] kéo dài 2 hiệp khi bị đánh trúng.",
+              "12": "Kiểm định Nhanh nhẹn của đòn tấn công này +12; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch nhận trạng thái [Chảy máu] kéo dài 2 hiệp khi bị đánh trúng.",
+              "13": "Kiểm định Nhanh nhẹn của đòn tấn công này +13; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch nhận trạng thái [Chảy máu] kéo dài 2 hiệp khi bị đánh trúng.",
+              "14": "Kiểm định Nhanh nhẹn của đòn tấn công này +14; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch nhận trạng thái [Chảy máu] kéo dài 2 hiệp khi bị đánh trúng.",
+              "15": "Kiểm định Nhanh nhẹn của đòn tấn công này +15; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch nhận trạng thái [Chảy máu] kéo dài 2 hiệp khi bị đánh trúng."
+            },
+            "阶位": "Cơ bản"
+          },
+          {
+            "名称": "Khiên - Phòng ngự",
+            "类型": "Đặc biệt",
+            "描述": "Giơ khiên lên, chuẩn bị ứng phó đòn tấn công kế tiếp và tăng hiệu quả giảm sát thương của lần bị tấn công tiếp theo.",
+            "特殊效果": {
+              "1": "Khi bị tấn công lần kế tiếp, tỷ lệ giảm sát thương tăng 10%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để tỷ lệ giảm sát thương của lần đó tăng thêm 2%.",
+              "2": "Khi bị tấn công lần kế tiếp, tỷ lệ giảm sát thương tăng 10%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để tỷ lệ giảm sát thương của lần đó tăng thêm 4%.",
+              "3": "Khi bị tấn công lần kế tiếp, tỷ lệ giảm sát thương tăng 10%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để tỷ lệ giảm sát thương của lần đó tăng thêm 6%.",
+              "4": "Khi bị tấn công lần kế tiếp, tỷ lệ giảm sát thương tăng 10%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để tỷ lệ giảm sát thương của lần đó tăng thêm 8%.",
+              "5": "Khi bị tấn công lần kế tiếp, tỷ lệ giảm sát thương tăng 10%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để tỷ lệ giảm sát thương của lần đó tăng thêm 10%.",
+              "6": "Khi bị tấn công lần kế tiếp, tỷ lệ giảm sát thương tăng 10%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để tỷ lệ giảm sát thương của lần đó tăng thêm 12%.",
+              "7": "Khi bị tấn công lần kế tiếp, tỷ lệ giảm sát thương tăng 10%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để tỷ lệ giảm sát thương của lần đó tăng thêm 14%.",
+              "8": "Khi bị tấn công lần kế tiếp, tỷ lệ giảm sát thương tăng 10%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để tỷ lệ giảm sát thương của lần đó tăng thêm 16%.",
+              "9": "Khi bị tấn công lần kế tiếp, tỷ lệ giảm sát thương tăng 10%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để tỷ lệ giảm sát thương của lần đó tăng thêm 18%.",
+              "10": "Khi bị tấn công lần kế tiếp, tỷ lệ giảm sát thương tăng 10%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để tỷ lệ giảm sát thương của lần đó tăng thêm 20%.",
+              "11": "Khi bị tấn công lần kế tiếp, tỷ lệ giảm sát thương tăng 10%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để tỷ lệ giảm sát thương của lần đó tăng thêm 22%.",
+              "12": "Khi bị tấn công lần kế tiếp, tỷ lệ giảm sát thương tăng 10%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để tỷ lệ giảm sát thương của lần đó tăng thêm 24%.",
+              "13": "Khi bị tấn công lần kế tiếp, tỷ lệ giảm sát thương tăng 10%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để tỷ lệ giảm sát thương của lần đó tăng thêm 26%.",
+              "14": "Khi bị tấn công lần kế tiếp, tỷ lệ giảm sát thương tăng 10%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để tỷ lệ giảm sát thương của lần đó tăng thêm 28%.",
+              "15": "Khi bị tấn công lần kế tiếp, tỷ lệ giảm sát thương tăng 10%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để tỷ lệ giảm sát thương của lần đó tăng thêm 30%."
+            },
+            "阶位": "Cơ bản"
+          },
+          {
+            "名称": "Vật phẩm - Bình Estus",
+            "类型": "Đặc biệt",
+            "描述": "Bảo vật của người bất tử, vật phẩm hồi phục có thể sử dụng vô hạn. Mỗi trận chiến dùng tối đa hai lần, hồi phục sinh mệnh theo tỷ lệ cố định.",
+            "特殊效果": {
+              "1": "Sau khi sử dụng, hồi phục 30% sinh mệnh tối đa; nếu đang có [Võ nghệ], tiêu hao 1 tầng để lần hồi phục này không tiêu hao tài nguyên hành động.",
+              "2": "Sau khi sử dụng, hồi phục 32% sinh mệnh tối đa; nếu đang có [Võ nghệ], tiêu hao 1 tầng để lần hồi phục này không tiêu hao tài nguyên hành động.",
+              "3": "Sau khi sử dụng, hồi phục 34% sinh mệnh tối đa; nếu đang có [Võ nghệ], tiêu hao 1 tầng để lần hồi phục này không tiêu hao tài nguyên hành động.",
+              "4": "Sau khi sử dụng, hồi phục 36% sinh mệnh tối đa; nếu đang có [Võ nghệ], tiêu hao 1 tầng để lần hồi phục này không tiêu hao tài nguyên hành động.",
+              "5": "Sau khi sử dụng, hồi phục 38% sinh mệnh tối đa; nếu đang có [Võ nghệ], tiêu hao 1 tầng để lần hồi phục này không tiêu hao tài nguyên hành động.",
+              "6": "Sau khi sử dụng, hồi phục 40% sinh mệnh tối đa; nếu đang có [Võ nghệ], tiêu hao 1 tầng để lần hồi phục này không tiêu hao tài nguyên hành động.",
+              "7": "Sau khi sử dụng, hồi phục 42% sinh mệnh tối đa; nếu đang có [Võ nghệ], tiêu hao 1 tầng để lần hồi phục này không tiêu hao tài nguyên hành động.",
+              "8": "Sau khi sử dụng, hồi phục 44% sinh mệnh tối đa; nếu đang có [Võ nghệ], tiêu hao 1 tầng để lần hồi phục này không tiêu hao tài nguyên hành động.",
+              "9": "Sau khi sử dụng, hồi phục 46% sinh mệnh tối đa; nếu đang có [Võ nghệ], tiêu hao 1 tầng để lần hồi phục này không tiêu hao tài nguyên hành động.",
+              "10": "Sau khi sử dụng, hồi phục 48% sinh mệnh tối đa; nếu đang có [Võ nghệ], tiêu hao 1 tầng để lần hồi phục này không tiêu hao tài nguyên hành động.",
+              "11": "Sau khi sử dụng, hồi phục 50% sinh mệnh tối đa; nếu đang có [Võ nghệ], tiêu hao 1 tầng để lần hồi phục này không tiêu hao tài nguyên hành động.",
+              "12": "Sau khi sử dụng, hồi phục 52% sinh mệnh tối đa; nếu đang có [Võ nghệ], tiêu hao 1 tầng để lần hồi phục này không tiêu hao tài nguyên hành động.",
+              "13": "Sau khi sử dụng, hồi phục 54% sinh mệnh tối đa; nếu đang có [Võ nghệ], tiêu hao 1 tầng để lần hồi phục này không tiêu hao tài nguyên hành động.",
+              "14": "Sau khi sử dụng, hồi phục 56% sinh mệnh tối đa; nếu đang có [Võ nghệ], tiêu hao 1 tầng để lần hồi phục này không tiêu hao tài nguyên hành động.",
+              "15": "Sau khi sử dụng, hồi phục 60% sinh mệnh tối đa; nếu đang có [Võ nghệ], tiêu hao 1 tầng để lần hồi phục này không tiêu hao tài nguyên hành động."
+            },
+            "阶位": "Cơ bản"
+          },
+          {
+            "名称": "Kiếm Phi Long - Sóng xung kích của rồng",
+            "类型": "Chủ động",
+            "描述": "Quét ngang thân kiếm, phóng ra sóng xung kích phạm vi lớn cuốn quét kẻ địch.",
+            "特殊效果": {
+              "1": "Phạm vi ảnh hưởng của sóng xung kích mở rộng tới 22 yard; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch bị đánh trúng nhận trạng thái [Bốc cháy] kéo dài 2 hiệp.",
+              "2": "Phạm vi ảnh hưởng của sóng xung kích mở rộng tới 24 yard; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch bị đánh trúng nhận trạng thái [Bốc cháy] kéo dài 2 hiệp.",
+              "3": "Phạm vi ảnh hưởng của sóng xung kích mở rộng tới 26 yard; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch bị đánh trúng nhận trạng thái [Bốc cháy] kéo dài 2 hiệp.",
+              "4": "Phạm vi ảnh hưởng của sóng xung kích mở rộng tới 28 yard; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch bị đánh trúng nhận trạng thái [Bốc cháy] kéo dài 2 hiệp.",
+              "5": "Phạm vi ảnh hưởng của sóng xung kích mở rộng tới 30 yard; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch bị đánh trúng nhận trạng thái [Bốc cháy] kéo dài 2 hiệp.",
+              "6": "Phạm vi ảnh hưởng của sóng xung kích mở rộng tới 32 yard; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch bị đánh trúng nhận trạng thái [Bốc cháy] kéo dài 2 hiệp.",
+              "7": "Phạm vi ảnh hưởng của sóng xung kích mở rộng tới 34 yard; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch bị đánh trúng nhận trạng thái [Bốc cháy] kéo dài 2 hiệp.",
+              "8": "Phạm vi ảnh hưởng của sóng xung kích mở rộng tới 36 yard; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch bị đánh trúng nhận trạng thái [Bốc cháy] kéo dài 2 hiệp.",
+              "9": "Phạm vi ảnh hưởng của sóng xung kích mở rộng tới 38 yard; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch bị đánh trúng nhận trạng thái [Bốc cháy] kéo dài 2 hiệp.",
+              "10": "Phạm vi ảnh hưởng của sóng xung kích mở rộng tới 40 yard; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch bị đánh trúng nhận trạng thái [Bốc cháy] kéo dài 2 hiệp.",
+              "11": "Phạm vi ảnh hưởng của sóng xung kích mở rộng tới 42 yard; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch bị đánh trúng nhận trạng thái [Bốc cháy] kéo dài 2 hiệp.",
+              "12": "Phạm vi ảnh hưởng của sóng xung kích mở rộng tới 44 yard; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch bị đánh trúng nhận trạng thái [Bốc cháy] kéo dài 2 hiệp.",
+              "13": "Phạm vi ảnh hưởng của sóng xung kích mở rộng tới 46 yard; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch bị đánh trúng nhận trạng thái [Bốc cháy] kéo dài 2 hiệp.",
+              "14": "Phạm vi ảnh hưởng của sóng xung kích mở rộng tới 48 yard; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch bị đánh trúng nhận trạng thái [Bốc cháy] kéo dài 2 hiệp.",
+              "15": "Phạm vi ảnh hưởng của sóng xung kích mở rộng tới 50 yard; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch bị đánh trúng nhận trạng thái [Bốc cháy] kéo dài 2 hiệp."
+            },
+            "阶位": "Cơ bản"
+          },
+          {
+            "名称": "Kỹ nghệ - Lăn né tránh",
+            "类型": "Đặc biệt",
+            "描述": "Dùng thân pháp của bản thân để tránh né đòn tấn công đang ập tới trong chớp mắt. Chỉ có thể dùng khi đang có [Võ nghệ]; dùng liên tục sẽ trực tiếp thất bại.",
+            "特殊效果": {
+              "1": "Sau khi tiêu hao 1 tầng [Võ nghệ], khi bị tấn công lần kế tiếp sẽ tiến hành kiểm định Nhanh nhẹn đối kháng; kiểm định Nhanh nhẹn nhận cộng thêm +1, nếu thành công thì né hoàn toàn sát thương lần đó.",
+              "2": "Sau khi tiêu hao 1 tầng [Võ nghệ], khi bị tấn công lần kế tiếp sẽ tiến hành kiểm định Nhanh nhẹn đối kháng; kiểm định Nhanh nhẹn nhận cộng thêm +2, nếu thành công thì né hoàn toàn sát thương lần đó.",
+              "3": "Sau khi tiêu hao 1 tầng [Võ nghệ], khi bị tấn công lần kế tiếp sẽ tiến hành kiểm định Nhanh nhẹn đối kháng; kiểm định Nhanh nhẹn nhận cộng thêm +3, nếu thành công thì né hoàn toàn sát thương lần đó.",
+              "4": "Sau khi tiêu hao 1 tầng [Võ nghệ], khi bị tấn công lần kế tiếp sẽ tiến hành kiểm định Nhanh nhẹn đối kháng; kiểm định Nhanh nhẹn nhận cộng thêm +4, nếu thành công thì né hoàn toàn sát thương lần đó.",
+              "5": "Sau khi tiêu hao 1 tầng [Võ nghệ], khi bị tấn công lần kế tiếp sẽ tiến hành kiểm định Nhanh nhẹn đối kháng; kiểm định Nhanh nhẹn nhận cộng thêm +5, nếu thành công thì né hoàn toàn sát thương lần đó.",
+              "6": "Sau khi tiêu hao 1 tầng [Võ nghệ], khi bị tấn công lần kế tiếp sẽ tiến hành kiểm định Nhanh nhẹn đối kháng; kiểm định Nhanh nhẹn nhận cộng thêm +6, nếu thành công thì né hoàn toàn sát thương lần đó.",
+              "7": "Sau khi tiêu hao 1 tầng [Võ nghệ], khi bị tấn công lần kế tiếp sẽ tiến hành kiểm định Nhanh nhẹn đối kháng; kiểm định Nhanh nhẹn nhận cộng thêm +7, nếu thành công thì né hoàn toàn sát thương lần đó.",
+              "8": "Sau khi tiêu hao 1 tầng [Võ nghệ], khi bị tấn công lần kế tiếp sẽ tiến hành kiểm định Nhanh nhẹn đối kháng; kiểm định Nhanh nhẹn nhận cộng thêm +8, nếu thành công thì né hoàn toàn sát thương lần đó.",
+              "9": "Sau khi tiêu hao 1 tầng [Võ nghệ], khi bị tấn công lần kế tiếp sẽ tiến hành kiểm định Nhanh nhẹn đối kháng; kiểm định Nhanh nhẹn nhận cộng thêm +9, nếu thành công thì né hoàn toàn sát thương lần đó.",
+              "10": "Sau khi tiêu hao 1 tầng [Võ nghệ], khi bị tấn công lần kế tiếp sẽ tiến hành kiểm định Nhanh nhẹn đối kháng; kiểm định Nhanh nhẹn nhận cộng thêm +10, nếu thành công thì né hoàn toàn sát thương lần đó.",
+              "11": "Sau khi tiêu hao 1 tầng [Võ nghệ], khi bị tấn công lần kế tiếp sẽ tiến hành kiểm định Nhanh nhẹn đối kháng; kiểm định Nhanh nhẹn nhận cộng thêm +11, nếu thành công thì né hoàn toàn sát thương lần đó.",
+              "12": "Sau khi tiêu hao 1 tầng [Võ nghệ], khi bị tấn công lần kế tiếp sẽ tiến hành kiểm định Nhanh nhẹn đối kháng; kiểm định Nhanh nhẹn nhận cộng thêm +12, nếu thành công thì né hoàn toàn sát thương lần đó.",
+              "13": "Sau khi tiêu hao 1 tầng [Võ nghệ], khi bị tấn công lần kế tiếp sẽ tiến hành kiểm định Nhanh nhẹn đối kháng; kiểm định Nhanh nhẹn nhận cộng thêm +13, nếu thành công thì né hoàn toàn sát thương lần đó.",
+              "14": "Sau khi tiêu hao 1 tầng [Võ nghệ], khi bị tấn công lần kế tiếp sẽ tiến hành kiểm định Nhanh nhẹn đối kháng; kiểm định Nhanh nhẹn nhận cộng thêm +14, nếu thành công thì né hoàn toàn sát thương lần đó.",
+              "15": "Sau khi tiêu hao 1 tầng [Võ nghệ], khi bị tấn công lần kế tiếp sẽ tiến hành kiểm định Nhanh nhẹn đối kháng; kiểm định Nhanh nhẹn nhận cộng thêm +15, nếu thành công thì né hoàn toàn sát thương lần đó."
+            },
+            "阶位": "Cơ bản"
+          }
+        ],
+        "转职": [
+          {
+            "名称": "Súng ngắn - Hỏa lực phá thế",
+            "类型": "Chủ động",
+            "描述": "Bắn ra một phát chuẩn xác để đánh sụp tư thế của địch. Nếu dùng khi địch đang tụ lực kỹ năng mạnh, có thể khiến chúng rơi vào trạng thái [Choáng] 1 hiệp, nhưng một số kẻ địch hùng mạnh không thể bị phá thế.",
+            "特殊效果": {
+              "1": "Phát bắn lần này nhận thêm sát thương cuối cùng +10%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này không tiêu hao tài nguyên hành động.",
+              "2": "Phát bắn lần này nhận thêm sát thương cuối cùng +15%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này không tiêu hao tài nguyên hành động.",
+              "3": "Phát bắn lần này nhận thêm sát thương cuối cùng +20%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này không tiêu hao tài nguyên hành động.",
+              "4": "Phát bắn lần này nhận thêm sát thương cuối cùng +25%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này không tiêu hao tài nguyên hành động.",
+              "5": "Phát bắn lần này nhận thêm sát thương cuối cùng +30%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này không tiêu hao tài nguyên hành động.",
+              "6": "Phát bắn lần này nhận thêm sát thương cuối cùng +35%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này không tiêu hao tài nguyên hành động.",
+              "7": "Phát bắn lần này nhận thêm sát thương cuối cùng +40%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này không tiêu hao tài nguyên hành động.",
+              "8": "Phát bắn lần này nhận thêm sát thương cuối cùng +45%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này không tiêu hao tài nguyên hành động.",
+              "9": "Phát bắn lần này nhận thêm sát thương cuối cùng +50%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này không tiêu hao tài nguyên hành động.",
+              "10": "Phát bắn lần này nhận thêm sát thương cuối cùng +55%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này không tiêu hao tài nguyên hành động.",
+              "11": "Phát bắn lần này nhận thêm sát thương cuối cùng +60%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này không tiêu hao tài nguyên hành động.",
+              "12": "Phát bắn lần này nhận thêm sát thương cuối cùng +65%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này không tiêu hao tài nguyên hành động.",
+              "13": "Phát bắn lần này nhận thêm sát thương cuối cùng +70%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này không tiêu hao tài nguyên hành động.",
+              "14": "Phát bắn lần này nhận thêm sát thương cuối cùng +75%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này không tiêu hao tài nguyên hành động.",
+              "15": "Phát bắn lần này nhận thêm sát thương cuối cùng +80%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này không tiêu hao tài nguyên hành động."
+            },
+            "阶位": "Chuyển nghề"
+          },
+          {
+            "名称": "Dao cưa thịt - Lưỡi máu",
+            "类型": "Chủ động",
+            "描述": "Tàn nhẫn chém kẻ địch hai lần; khi kẻ địch đang ở trạng thái chảy máu, sát thương nhận được sẽ tăng.",
+            "特殊效果": {
+              "1": "Khi tấn công mục tiêu đang ở trạng thái [Chảy máu], sát thương cuối cùng +10%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này trở thành đặc công với kẻ địch loại [Thú], gây thêm sát thương cuối cùng +10%.",
+              "2": "Khi tấn công mục tiêu đang ở trạng thái [Chảy máu], sát thương cuối cùng +15%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này trở thành đặc công với kẻ địch loại [Thú], gây thêm sát thương cuối cùng +15%.",
+              "3": "Khi tấn công mục tiêu đang ở trạng thái [Chảy máu], sát thương cuối cùng +20%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này trở thành đặc công với kẻ địch loại [Thú], gây thêm sát thương cuối cùng +20%.",
+              "4": "Khi tấn công mục tiêu đang ở trạng thái [Chảy máu], sát thương cuối cùng +25%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này trở thành đặc công với kẻ địch loại [Thú], gây thêm sát thương cuối cùng +25%.",
+              "5": "Khi tấn công mục tiêu đang ở trạng thái [Chảy máu], sát thương cuối cùng +30%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này trở thành đặc công với kẻ địch loại [Thú], gây thêm sát thương cuối cùng +30%.",
+              "6": "Khi tấn công mục tiêu đang ở trạng thái [Chảy máu], sát thương cuối cùng +35%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này trở thành đặc công với kẻ địch loại [Thú], gây thêm sát thương cuối cùng +35%.",
+              "7": "Khi tấn công mục tiêu đang ở trạng thái [Chảy máu], sát thương cuối cùng +40%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này trở thành đặc công với kẻ địch loại [Thú], gây thêm sát thương cuối cùng +40%.",
+              "8": "Khi tấn công mục tiêu đang ở trạng thái [Chảy máu], sát thương cuối cùng +45%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này trở thành đặc công với kẻ địch loại [Thú], gây thêm sát thương cuối cùng +45%.",
+              "9": "Khi tấn công mục tiêu đang ở trạng thái [Chảy máu], sát thương cuối cùng +50%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này trở thành đặc công với kẻ địch loại [Thú], gây thêm sát thương cuối cùng +50%.",
+              "10": "Khi tấn công mục tiêu đang ở trạng thái [Chảy máu], sát thương cuối cùng +55%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này trở thành đặc công với kẻ địch loại [Thú], gây thêm sát thương cuối cùng +55%.",
+              "11": "Khi tấn công mục tiêu đang ở trạng thái [Chảy máu], sát thương cuối cùng +60%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này trở thành đặc công với kẻ địch loại [Thú], gây thêm sát thương cuối cùng +60%.",
+              "12": "Khi tấn công mục tiêu đang ở trạng thái [Chảy máu], sát thương cuối cùng +65%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này trở thành đặc công với kẻ địch loại [Thú], gây thêm sát thương cuối cùng +65%.",
+              "13": "Khi tấn công mục tiêu đang ở trạng thái [Chảy máu], sát thương cuối cùng +70%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này trở thành đặc công với kẻ địch loại [Thú], gây thêm sát thương cuối cùng +70%.",
+              "14": "Khi tấn công mục tiêu đang ở trạng thái [Chảy máu], sát thương cuối cùng +75%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này trở thành đặc công với kẻ địch loại [Thú], gây thêm sát thương cuối cùng +75%.",
+              "15": "Khi tấn công mục tiêu đang ở trạng thái [Chảy máu], sát thương cuối cùng +80%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này trở thành đặc công với kẻ địch loại [Thú], gây thêm sát thương cuối cùng +80%."
+            },
+            "阶位": "Chuyển nghề"
+          },
+          {
+            "名称": "Luật Bão Tố - Bá Vương Bão Tố",
+            "类型": "Chủ động",
+            "描述": "Thổi bùng cuồng phong, cắt xé kẻ địch trên phạm vi lớn và gây sát thương thuộc tính gió.",
+            "特殊效果": {
+              "1": "Phạm vi chém thuộc tính gió mở rộng tới 22 yard; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này trở thành chắc chắn trúng.",
+              "2": "Phạm vi chém thuộc tính gió mở rộng tới 24 yard; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này trở thành chắc chắn trúng.",
+              "3": "Phạm vi chém thuộc tính gió mở rộng tới 26 yard; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này trở thành chắc chắn trúng.",
+              "4": "Phạm vi chém thuộc tính gió mở rộng tới 28 yard; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này trở thành chắc chắn trúng.",
+              "5": "Phạm vi chém thuộc tính gió mở rộng tới 30 yard; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này trở thành chắc chắn trúng.",
+              "6": "Phạm vi chém thuộc tính gió mở rộng tới 32 yard; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này trở thành chắc chắn trúng.",
+              "7": "Phạm vi chém thuộc tính gió mở rộng tới 34 yard; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này trở thành chắc chắn trúng.",
+              "8": "Phạm vi chém thuộc tính gió mở rộng tới 36 yard; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này trở thành chắc chắn trúng.",
+              "9": "Phạm vi chém thuộc tính gió mở rộng tới 38 yard; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này trở thành chắc chắn trúng.",
+              "10": "Phạm vi chém thuộc tính gió mở rộng tới 40 yard; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này trở thành chắc chắn trúng.",
+              "11": "Phạm vi chém thuộc tính gió mở rộng tới 42 yard; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này trở thành chắc chắn trúng.",
+              "12": "Phạm vi chém thuộc tính gió mở rộng tới 44 yard; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này trở thành chắc chắn trúng.",
+              "13": "Phạm vi chém thuộc tính gió mở rộng tới 46 yard; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này trở thành chắc chắn trúng.",
+              "14": "Phạm vi chém thuộc tính gió mở rộng tới 48 yard; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này trở thành chắc chắn trúng.",
+              "15": "Phạm vi chém thuộc tính gió mở rộng tới 50 yard; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này trở thành chắc chắn trúng."
+            },
+            "阶位": "Chuyển nghề"
+          },
+          {
+            "名称": "Tư chất của Kẻ Thống Trị",
+            "类型": "Đặc biệt nghề nghiệp",
+            "描述": "\"Dù sao thì anh cũng sở hữu tư chất đủ để trở thành phu quân của Kẻ Thống Trị mà, ku hi hi.\"",
+            "特殊效果": {
+              "1": "Cơ chế kích hoạt bị động: khi vào chiến đấu, tự động nhận 2 tầng [Võ nghệ]; ngưỡng bạo kích của bản thân cố định giảm 1, mọi đòn tấn công nhận hiệu chỉnh kiểm định trúng đòn +2; mỗi lần gây bạo kích, lập tức nhận 1 tầng [Võ nghệ]."
+            },
+            "阶位": "Chuyển nghề"
+          }
+        ],
+        "进阶": [
+          {
+            "名称": "Đại kiếm Ánh Trăng - Lưỡi trăng",
+            "类型": "Chủ động",
+            "描述": "Giơ cao thân kiếm khiến nó tỏa ánh trăng, nhận trạng thái tăng 30% sát thương kéo dài 3 hiệp, đồng thời có thể tiêu hao tầng để chém thêm.",
+            "特殊效果": {
+              "1": "Khi nhận trạng thái tăng sát thương, đồng thời hồi phục 10 điểm sinh mệnh tạm thời; nếu đang có [Võ nghệ], tiêu hao 1 tầng để chém thêm một luồng kiếm khí gây sát thương thuộc tính ma pháp, kiếm khí gây sát thương cuối cùng +10%.",
+              "2": "Khi nhận trạng thái tăng sát thương, đồng thời hồi phục 15 điểm sinh mệnh tạm thời; nếu đang có [Võ nghệ], tiêu hao 1 tầng để chém thêm một luồng kiếm khí gây sát thương thuộc tính ma pháp, kiếm khí gây sát thương cuối cùng +20%.",
+              "3": "Khi nhận trạng thái tăng sát thương, đồng thời hồi phục 20 điểm sinh mệnh tạm thời; nếu đang có [Võ nghệ], tiêu hao 1 tầng để chém thêm một luồng kiếm khí gây sát thương thuộc tính ma pháp, kiếm khí gây sát thương cuối cùng +30%.",
+              "4": "Khi nhận trạng thái tăng sát thương, đồng thời hồi phục 25 điểm sinh mệnh tạm thời; nếu đang có [Võ nghệ], tiêu hao 1 tầng để chém thêm một luồng kiếm khí gây sát thương thuộc tính ma pháp, kiếm khí gây sát thương cuối cùng +40%.",
+              "5": "Khi nhận trạng thái tăng sát thương, đồng thời hồi phục 30 điểm sinh mệnh tạm thời; nếu đang có [Võ nghệ], tiêu hao 1 tầng để chém thêm một luồng kiếm khí gây sát thương thuộc tính ma pháp, kiếm khí gây sát thương cuối cùng +50%.",
+              "6": "Khi nhận trạng thái tăng sát thương, đồng thời hồi phục 35 điểm sinh mệnh tạm thời; nếu đang có [Võ nghệ], tiêu hao 1 tầng để chém thêm một luồng kiếm khí gây sát thương thuộc tính ma pháp, kiếm khí gây sát thương cuối cùng +60%.",
+              "7": "Khi nhận trạng thái tăng sát thương, đồng thời hồi phục 40 điểm sinh mệnh tạm thời; nếu đang có [Võ nghệ], tiêu hao 1 tầng để chém thêm một luồng kiếm khí gây sát thương thuộc tính ma pháp, kiếm khí gây sát thương cuối cùng +70%.",
+              "8": "Khi nhận trạng thái tăng sát thương, đồng thời hồi phục 45 điểm sinh mệnh tạm thời; nếu đang có [Võ nghệ], tiêu hao 1 tầng để chém thêm một luồng kiếm khí gây sát thương thuộc tính ma pháp, kiếm khí gây sát thương cuối cùng +80%.",
+              "9": "Khi nhận trạng thái tăng sát thương, đồng thời hồi phục 50 điểm sinh mệnh tạm thời; nếu đang có [Võ nghệ], tiêu hao 1 tầng để chém thêm một luồng kiếm khí gây sát thương thuộc tính ma pháp, kiếm khí gây sát thương cuối cùng +90%.",
+              "10": "Khi nhận trạng thái tăng sát thương, đồng thời hồi phục 55 điểm sinh mệnh tạm thời; nếu đang có [Võ nghệ], tiêu hao 1 tầng để chém thêm một luồng kiếm khí gây sát thương thuộc tính ma pháp, kiếm khí gây sát thương cuối cùng +100%."
+            },
+            "阶位": "Nâng cao"
+          },
+          {
+            "名称": "Kiếm Bóng Tối - Bộc phát tội nghiệp",
+            "类型": "Chủ động",
+            "描述": "Gây sát thương thuộc tính bóng tối lên toàn bộ kẻ địch, làm suy yếu khả năng trúng đòn của chúng và gieo rắc kịch độc.",
+            "特殊效果": {
+              "1": "Khiến toàn bộ kẻ địch bị đánh trúng có kiểm định trúng đòn của đòn tấn công kế tiếp -2, kéo dài 2 hiệp; sát thương thuộc tính bóng tối lần này nhận sát thương cuối cùng +10%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch nhận trạng thái [Trúng độc] kéo dài 2 hiệp.",
+              "2": "Khiến toàn bộ kẻ địch bị đánh trúng có kiểm định trúng đòn của đòn tấn công kế tiếp -2, kéo dài 2 hiệp; sát thương thuộc tính bóng tối lần này nhận sát thương cuối cùng +20%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch nhận trạng thái [Trúng độc] kéo dài 2 hiệp.",
+              "3": "Khiến toàn bộ kẻ địch bị đánh trúng có kiểm định trúng đòn của đòn tấn công kế tiếp -2, kéo dài 2 hiệp; sát thương thuộc tính bóng tối lần này nhận sát thương cuối cùng +30%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch nhận trạng thái [Trúng độc] kéo dài 2 hiệp.",
+              "4": "Khiến toàn bộ kẻ địch bị đánh trúng có kiểm định trúng đòn của đòn tấn công kế tiếp -2, kéo dài 2 hiệp; sát thương thuộc tính bóng tối lần này nhận sát thương cuối cùng +40%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch nhận trạng thái [Trúng độc] kéo dài 2 hiệp.",
+              "5": "Khiến toàn bộ kẻ địch bị đánh trúng có kiểm định trúng đòn của đòn tấn công kế tiếp -2, kéo dài 2 hiệp; sát thương thuộc tính bóng tối lần này nhận sát thương cuối cùng +50%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch nhận trạng thái [Trúng độc] kéo dài 2 hiệp.",
+              "6": "Khiến toàn bộ kẻ địch bị đánh trúng có kiểm định trúng đòn của đòn tấn công kế tiếp -2, kéo dài 2 hiệp; sát thương thuộc tính bóng tối lần này nhận sát thương cuối cùng +60%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch nhận trạng thái [Trúng độc] kéo dài 2 hiệp.",
+              "7": "Khiến toàn bộ kẻ địch bị đánh trúng có kiểm định trúng đòn của đòn tấn công kế tiếp -2, kéo dài 2 hiệp; sát thương thuộc tính bóng tối lần này nhận sát thương cuối cùng +70%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch nhận trạng thái [Trúng độc] kéo dài 2 hiệp.",
+              "8": "Khiến toàn bộ kẻ địch bị đánh trúng có kiểm định trúng đòn của đòn tấn công kế tiếp -2, kéo dài 2 hiệp; sát thương thuộc tính bóng tối lần này nhận sát thương cuối cùng +80%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch nhận trạng thái [Trúng độc] kéo dài 2 hiệp.",
+              "9": "Khiến toàn bộ kẻ địch bị đánh trúng có kiểm định trúng đòn của đòn tấn công kế tiếp -2, kéo dài 2 hiệp; sát thương thuộc tính bóng tối lần này nhận sát thương cuối cùng +90%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch nhận trạng thái [Trúng độc] kéo dài 2 hiệp.",
+              "10": "Khiến toàn bộ kẻ địch bị đánh trúng có kiểm định trúng đòn của đòn tấn công kế tiếp -2, kéo dài 2 hiệp; sát thương thuộc tính bóng tối lần này nhận sát thương cuối cùng +100%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch nhận trạng thái [Trúng độc] kéo dài 2 hiệp."
+            },
+            "阶位": "Nâng cao"
+          },
+          {
+            "名称": "Kiếm Andoru - Lưỡi linh khí",
+            "类型": "Chủ động",
+            "描述": "Chém ra một luồng kiếm khí thuộc tính ma lực, sau đó nhận tăng ích năng lượng cho bản thân và có thể thấu chi tài nguyên để lấy thêm hành động.",
+            "特殊效果": {
+              "1": "Khi phóng thích kiếm khí, kiểm định trúng đòn +1 và nếu trúng sẽ gián tiếp nhận 2 tầng [Võ nghệ]; nếu đang có [Võ nghệ], có thể tiêu hao 1 tầng để hồi phục 1 điểm tài nguyên hành động. Hiệu ứng này mỗi trận chiến chỉ có thể kích hoạt 1 lần.",
+              "2": "Khi phóng thích kiếm khí, kiểm định trúng đòn +2 và nếu trúng sẽ gián tiếp nhận 2 tầng [Võ nghệ]; nếu đang có [Võ nghệ], có thể tiêu hao 1 tầng để hồi phục 1 điểm tài nguyên hành động. Hiệu ứng này mỗi trận chiến chỉ có thể kích hoạt 1 lần.",
+              "3": "Khi phóng thích kiếm khí, kiểm định trúng đòn +3 và nếu trúng sẽ gián tiếp nhận 2 tầng [Võ nghệ]; nếu đang có [Võ nghệ], có thể tiêu hao 1 tầng để hồi phục 1 điểm tài nguyên hành động. Hiệu ứng này mỗi trận chiến chỉ có thể kích hoạt 1 lần.",
+              "4": "Khi phóng thích kiếm khí, kiểm định trúng đòn +4 và nếu trúng sẽ gián tiếp nhận 2 tầng [Võ nghệ]; nếu đang có [Võ nghệ], có thể tiêu hao 1 tầng để hồi phục 1 điểm tài nguyên hành động. Hiệu ứng này mỗi trận chiến chỉ có thể kích hoạt 1 lần.",
+              "5": "Khi phóng thích kiếm khí, kiểm định trúng đòn +5 và nếu trúng sẽ gián tiếp nhận 2 tầng [Võ nghệ]; nếu đang có [Võ nghệ], có thể tiêu hao 1 tầng để hồi phục 1 điểm tài nguyên hành động. Hiệu ứng này mỗi trận chiến chỉ có thể kích hoạt 1 lần.",
+              "6": "Khi phóng thích kiếm khí, kiểm định trúng đòn +6 và nếu trúng sẽ gián tiếp nhận 2 tầng [Võ nghệ]; nếu đang có [Võ nghệ], có thể tiêu hao 1 tầng để hồi phục 1 điểm tài nguyên hành động. Hiệu ứng này mỗi trận chiến chỉ có thể kích hoạt 1 lần.",
+              "7": "Khi phóng thích kiếm khí, kiểm định trúng đòn +7 và nếu trúng sẽ gián tiếp nhận 2 tầng [Võ nghệ]; nếu đang có [Võ nghệ], có thể tiêu hao 1 tầng để hồi phục 1 điểm tài nguyên hành động. Hiệu ứng này mỗi trận chiến chỉ có thể kích hoạt 1 lần.",
+              "8": "Khi phóng thích kiếm khí, kiểm định trúng đòn +8 và nếu trúng sẽ gián tiếp nhận 2 tầng [Võ nghệ]; nếu đang có [Võ nghệ], có thể tiêu hao 1 tầng để hồi phục 1 điểm tài nguyên hành động. Hiệu ứng này mỗi trận chiến chỉ có thể kích hoạt 1 lần.",
+              "9": "Khi phóng thích kiếm khí, kiểm định trúng đòn +9 và nếu trúng sẽ gián tiếp nhận 2 tầng [Võ nghệ]; nếu đang có [Võ nghệ], có thể tiêu hao 1 tầng để hồi phục 1 điểm tài nguyên hành động. Hiệu ứng này mỗi trận chiến chỉ có thể kích hoạt 1 lần.",
+              "10": "Khi phóng thích kiếm khí, kiểm định trúng đòn +10 và nếu trúng sẽ gián tiếp nhận 2 tầng [Võ nghệ]; nếu đang có [Võ nghệ], có thể tiêu hao 1 tầng để hồi phục 1 điểm tài nguyên hành động. Hiệu ứng này mỗi trận chiến chỉ có thể kích hoạt 1 lần."
+            },
+            "阶位": "Nâng cao"
+          },
+          {
+            "名称": "Mỏ neo Kỵ sĩ Biển Sâu - Cuồng nộ",
+            "类型": "Chủ động",
+            "描述": "Giải trừ toàn bộ trạng thái suy yếu trên bản thân rồi bước vào trạng thái [Cuồng nộ] 2 hiệp, lực tấn công tăng 200% nhưng không thể bạo kích, đồng thời vung ra một cột nước khổng lồ.",
+            "特殊效果": {
+              "1": "Khi bước vào trạng thái cuồng nộ, miễn trừ dẻo dai của bản thân +1; nếu đang có [Võ nghệ], tiêu hao 1 tầng để phóng thích thêm nước nghiền nát gây sát thương thuộc tính nước, nước nghiền nát gây sát thương cuối cùng +10%.",
+              "2": "Khi bước vào trạng thái cuồng nộ, miễn trừ dẻo dai của bản thân +2; nếu đang có [Võ nghệ], tiêu hao 1 tầng để phóng thích thêm nước nghiền nát gây sát thương thuộc tính nước, nước nghiền nát gây sát thương cuối cùng +20%.",
+              "3": "Khi bước vào trạng thái cuồng nộ, miễn trừ dẻo dai của bản thân +3; nếu đang có [Võ nghệ], tiêu hao 1 tầng để phóng thích thêm nước nghiền nát gây sát thương thuộc tính nước, nước nghiền nát gây sát thương cuối cùng +30%.",
+              "4": "Khi bước vào trạng thái cuồng nộ, miễn trừ dẻo dai của bản thân +4; nếu đang có [Võ nghệ], tiêu hao 1 tầng để phóng thích thêm nước nghiền nát gây sát thương thuộc tính nước, nước nghiền nát gây sát thương cuối cùng +40%.",
+              "5": "Khi bước vào trạng thái cuồng nộ, miễn trừ dẻo dai của bản thân +5; nếu đang có [Võ nghệ], tiêu hao 1 tầng để phóng thích thêm nước nghiền nát gây sát thương thuộc tính nước, nước nghiền nát gây sát thương cuối cùng +50%.",
+              "6": "Khi bước vào trạng thái cuồng nộ, miễn trừ dẻo dai của bản thân +6; nếu đang có [Võ nghệ], tiêu hao 1 tầng để phóng thích thêm nước nghiền nát gây sát thương thuộc tính nước, nước nghiền nát gây sát thương cuối cùng +60%.",
+              "7": "Khi bước vào trạng thái cuồng nộ, miễn trừ dẻo dai của bản thân +7; nếu đang có [Võ nghệ], tiêu hao 1 tầng để phóng thích thêm nước nghiền nát gây sát thương thuộc tính nước, nước nghiền nát gây sát thương cuối cùng +70%.",
+              "8": "Khi bước vào trạng thái cuồng nộ, miễn trừ dẻo dai của bản thân +8; nếu đang có [Võ nghệ], tiêu hao 1 tầng để phóng thích thêm nước nghiền nát gây sát thương thuộc tính nước, nước nghiền nát gây sát thương cuối cùng +80%.",
+              "9": "Khi bước vào trạng thái cuồng nộ, miễn trừ dẻo dai của bản thân +9; nếu đang có [Võ nghệ], tiêu hao 1 tầng để phóng thích thêm nước nghiền nát gây sát thương thuộc tính nước, nước nghiền nát gây sát thương cuối cùng +90%.",
+              "10": "Khi bước vào trạng thái cuồng nộ, miễn trừ dẻo dai của bản thân +10; nếu đang có [Võ nghệ], tiêu hao 1 tầng để phóng thích thêm nước nghiền nát gây sát thương thuộc tính nước, nước nghiền nát gây sát thương cuối cùng +100%."
+            },
+            "阶位": "Nâng cao"
+          }
+        ],
+        "必杀": [
+          {
+            "名称": "Cung Điên Jubjub - Tiếng gọi của Chim Điên",
+            "类型": "Chủ động",
+            "描述": "Bước vào trạng thái [Phát cuồng] 2 hiệp. Trong thời gian này, sát thương gây ra tăng gấp đôi nhưng mỗi lần hành động mất HP bằng 20% sinh mệnh tối đa; liên tục bắn vào kẻ địch và khi bạo kích sẽ được bắn thêm.",
+            "特殊效果": {
+              "1": "Trong thời gian phát cuồng, mọi kiểm định miễn trừ cho bắn xa +1; nếu đang có [Võ nghệ], tiêu hao 1 tầng để cố định giảm ngưỡng bạo kích của đòn tấn công này đi 1.",
+              "2": "Trong thời gian phát cuồng, mọi kiểm định miễn trừ cho bắn xa +2; nếu đang có [Võ nghệ], tiêu hao 1 tầng để cố định giảm ngưỡng bạo kích của đòn tấn công này đi 1.",
+              "3": "Trong thời gian phát cuồng, mọi kiểm định miễn trừ cho bắn xa +3; nếu đang có [Võ nghệ], tiêu hao 1 tầng để cố định giảm ngưỡng bạo kích của đòn tấn công này đi 1.",
+              "4": "Trong thời gian phát cuồng, mọi kiểm định miễn trừ cho bắn xa +4; nếu đang có [Võ nghệ], tiêu hao 1 tầng để cố định giảm ngưỡng bạo kích của đòn tấn công này đi 1.",
+              "5": "Trong thời gian phát cuồng, mọi kiểm định miễn trừ cho bắn xa +5; nếu đang có [Võ nghệ], tiêu hao 1 tầng để cố định giảm ngưỡng bạo kích của đòn tấn công này đi 1.",
+              "6": "Trong thời gian phát cuồng, mọi kiểm định miễn trừ cho bắn xa +6; nếu đang có [Võ nghệ], tiêu hao 1 tầng để cố định giảm ngưỡng bạo kích của đòn tấn công này đi 1.",
+              "7": "Trong thời gian phát cuồng, mọi kiểm định miễn trừ cho bắn xa +7; nếu đang có [Võ nghệ], tiêu hao 1 tầng để cố định giảm ngưỡng bạo kích của đòn tấn công này đi 1."
+            },
+            "阶位": "Tất sát"
+          },
+          {
+            "名称": "Bạo kiếm Bandersnatch - Vảy ngược cuồng loạn",
+            "类型": "Chủ động",
+            "描述": "Bước vào trạng thái tụ lực, khiến sát thương bản thân phải chịu giảm 50% và hạ thứ tự hành động xuống cuối cùng. Khi giải phóng tụ lực, phát động đòn hủy diệt; số tầng tụ lực có thể chồng nhiều lần.",
+            "特殊效果": {
+              "1": "Trong thời gian tụ lực, nhận miễn trừ đối kháng toàn thuộc tính +1; nếu đang có [Võ nghệ], tiêu hao 1 tầng để khi kết toán đòn tấn công này, mỗi tầng tụ lực khiến sát thương tăng 120%.",
+              "2": "Trong thời gian tụ lực, nhận miễn trừ đối kháng toàn thuộc tính +2; nếu đang có [Võ nghệ], tiêu hao 1 tầng để khi kết toán đòn tấn công này, mỗi tầng tụ lực khiến sát thương tăng 120%.",
+              "3": "Trong thời gian tụ lực, nhận miễn trừ đối kháng toàn thuộc tính +3; nếu đang có [Võ nghệ], tiêu hao 1 tầng để khi kết toán đòn tấn công này, mỗi tầng tụ lực khiến sát thương tăng 120%.",
+              "4": "Trong thời gian tụ lực, nhận miễn trừ đối kháng toàn thuộc tính +4; nếu đang có [Võ nghệ], tiêu hao 1 tầng để khi kết toán đòn tấn công này, mỗi tầng tụ lực khiến sát thương tăng 120%.",
+              "5": "Trong thời gian tụ lực, nhận miễn trừ đối kháng toàn thuộc tính +5; nếu đang có [Võ nghệ], tiêu hao 1 tầng để khi kết toán đòn tấn công này, mỗi tầng tụ lực khiến sát thương tăng 120%.",
+              "6": "Trong thời gian tụ lực, nhận miễn trừ đối kháng toàn thuộc tính +6; nếu đang có [Võ nghệ], tiêu hao 1 tầng để khi kết toán đòn tấn công này, mỗi tầng tụ lực khiến sát thương tăng 120%.",
+              "7": "Trong thời gian tụ lực, nhận miễn trừ đối kháng toàn thuộc tính +7; nếu đang có [Võ nghệ], tiêu hao 1 tầng để khi kết toán đòn tấn công này, mỗi tầng tụ lực khiến sát thương tăng 120%."
+            },
+            "阶位": "Tất sát"
+          },
+          {
+            "名称": "Kiếm Dũng Vorpal - Tam đoạn trảm tối thượng",
+            "类型": "Chủ động",
+            "描述": "Thi triển kỹ nghệ diệt rồng của vị anh hùng thuở trước, giáng xuống kẻ địch những nhát chém liên hoàn như phán quyết.",
+            "特殊效果": {
+              "1": "Trong thời gian phát động nhát chém, giáp cơ bản AC tạm thời tăng 1; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này đặc công với kẻ địch loại [Rồng], gây sát thương cuối cùng +10% với loại rồng.",
+              "2": "Trong thời gian phát động nhát chém, giáp cơ bản AC tạm thời tăng 2; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này đặc công với kẻ địch loại [Rồng], gây sát thương cuối cùng +20% với loại rồng.",
+              "3": "Trong thời gian phát động nhát chém, giáp cơ bản AC tạm thời tăng 3; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này đặc công với kẻ địch loại [Rồng], gây sát thương cuối cùng +30% với loại rồng.",
+              "4": "Trong thời gian phát động nhát chém, giáp cơ bản AC tạm thời tăng 4; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này đặc công với kẻ địch loại [Rồng], gây sát thương cuối cùng +40% với loại rồng.",
+              "5": "Trong thời gian phát động nhát chém, giáp cơ bản AC tạm thời tăng 5; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này đặc công với kẻ địch loại [Rồng], gây sát thương cuối cùng +50% với loại rồng.",
+              "6": "Trong thời gian phát động nhát chém, giáp cơ bản AC tạm thời tăng 6; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này đặc công với kẻ địch loại [Rồng], gây sát thương cuối cùng +60% với loại rồng.",
+              "7": "Trong thời gian phát động nhát chém, giáp cơ bản AC tạm thời tăng 7; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này đặc công với kẻ địch loại [Rồng], gây sát thương cuối cùng +70% với loại rồng."
+            },
+            "阶位": "Tất sát"
+          },
+          {
+            "名称": "Liềm Mục Jabberwock - Màn đêm oán hận",
+            "类型": "Chủ động",
+            "描述": "Dùng lưỡi liềm thu hoạch kẻ địch, gây sát thương thuộc tính bóng tối trên phạm vi lớn và cưỡng ép hút lấy tinh túy sinh mệnh của chúng.",
+            "特殊效果": {
+              "1": "Khi đòn tấn công này trúng, gây thêm sát thương chân thực bằng 5% sinh mệnh tối đa của kẻ địch, đồng thời sau khi trúng đòn bản thân tạm thời nhận 10 điểm sinh mệnh tạm thời; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch chịu tấn công bị giảm 20% lực tấn công trong 1 hiệp kế tiếp.",
+              "2": "Khi đòn tấn công này trúng, gây thêm sát thương chân thực bằng 5% sinh mệnh tối đa của kẻ địch, đồng thời sau khi trúng đòn bản thân tạm thời nhận 20 điểm sinh mệnh tạm thời; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch chịu tấn công bị giảm 20% lực tấn công trong 1 hiệp kế tiếp.",
+              "3": "Khi đòn tấn công này trúng, gây thêm sát thương chân thực bằng 5% sinh mệnh tối đa của kẻ địch, đồng thời sau khi trúng đòn bản thân tạm thời nhận 30 điểm sinh mệnh tạm thời; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch chịu tấn công bị giảm 20% lực tấn công trong 1 hiệp kế tiếp.",
+              "4": "Khi đòn tấn công này trúng, gây thêm sát thương chân thực bằng 5% sinh mệnh tối đa của kẻ địch, đồng thời sau khi trúng đòn bản thân tạm thời nhận 40 điểm sinh mệnh tạm thời; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch chịu tấn công bị giảm 20% lực tấn công trong 1 hiệp kế tiếp.",
+              "5": "Khi đòn tấn công này trúng, gây thêm sát thương chân thực bằng 5% sinh mệnh tối đa của kẻ địch, đồng thời sau khi trúng đòn bản thân tạm thời nhận 50 điểm sinh mệnh tạm thời; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch chịu tấn công bị giảm 20% lực tấn công trong 1 hiệp kế tiếp.",
+              "6": "Khi đòn tấn công này trúng, gây thêm sát thương chân thực bằng 5% sinh mệnh tối đa của kẻ địch, đồng thời sau khi trúng đòn bản thân tạm thời nhận 60 điểm sinh mệnh tạm thời; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch chịu tấn công bị giảm 20% lực tấn công trong 1 hiệp kế tiếp.",
+              "7": "Khi đòn tấn công này trúng, gây thêm sát thương chân thực bằng 5% sinh mệnh tối đa của kẻ địch, đồng thời sau khi trúng đòn bản thân tạm thời nhận 70 điểm sinh mệnh tạm thời; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch chịu tấn công bị giảm 20% lực tấn công trong 1 hiệp kế tiếp."
+            },
+            "阶位": "Tất sát"
+          }
+        ],
+        "奥义": [
+          {
+            "名称": "Nhát chém đen",
+            "类型": "Chủ động",
+            "描述": "Ngưng tụ lưỡi đao từ Linh Hồn Đen của bản thân để thực hiện ba nhát chém chắc chắn trúng liên tiếp. Bản thân kỹ năng này không thể bạo kích nhưng có năng lực xuyên thấu cực mạnh.",
+            "特殊效果": {
+              "1": "Mỗi lần nhát chém chắc chắn trúng đánh trúng, nhận tăng sát thương cuối cùng +10%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để cưỡng chế chuyển toàn bộ loại sát thương của đòn tấn công này thành sát thương chân thực.",
+              "2": "Mỗi lần nhát chém chắc chắn trúng đánh trúng, nhận tăng sát thương cuối cùng +20%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để cưỡng chế chuyển toàn bộ loại sát thương của đòn tấn công này thành sát thương chân thực.",
+              "3": "Mỗi lần nhát chém chắc chắn trúng đánh trúng, nhận tăng sát thương cuối cùng +30%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để cưỡng chế chuyển toàn bộ loại sát thương của đòn tấn công này thành sát thương chân thực.",
+              "4": "Mỗi lần nhát chém chắc chắn trúng đánh trúng, nhận tăng sát thương cuối cùng +40%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để cưỡng chế chuyển toàn bộ loại sát thương của đòn tấn công này thành sát thương chân thực.",
+              "5": "Mỗi lần nhát chém chắc chắn trúng đánh trúng, nhận tăng sát thương cuối cùng +50%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để cưỡng chế chuyển toàn bộ loại sát thương của đòn tấn công này thành sát thương chân thực."
+            },
+            "阶位": "Áo nghĩa"
+          },
+          {
+            "名称": "Sóng đen",
+            "类型": "Chủ động",
+            "描述": "Tỏa ra làn sóng bóng tối khổng lồ từ Linh Hồn Đen của bản thân để tấn công kẻ địch xung quanh; không thể bạo kích.",
+            "特殊效果": {
+              "1": "Bán kính khuếch tán của sóng bóng tối tăng thêm 5 yard; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch bị đánh trúng nhận trạng thái [Yếu đuối] 2 hiệp, trong thời gian đó mọi sát thương phải chịu cưỡng chế tăng 20%.",
+              "2": "Bán kính khuếch tán của sóng bóng tối tăng thêm 10 yard; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch bị đánh trúng nhận trạng thái [Yếu đuối] 2 hiệp, trong thời gian đó mọi sát thương phải chịu cưỡng chế tăng 20%.",
+              "3": "Bán kính khuếch tán của sóng bóng tối tăng thêm 15 yard; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch bị đánh trúng nhận trạng thái [Yếu đuối] 2 hiệp, trong thời gian đó mọi sát thương phải chịu cưỡng chế tăng 20%.",
+              "4": "Bán kính khuếch tán của sóng bóng tối tăng thêm 20 yard; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch bị đánh trúng nhận trạng thái [Yếu đuối] 2 hiệp, trong thời gian đó mọi sát thương phải chịu cưỡng chế tăng 20%.",
+              "5": "Bán kính khuếch tán của sóng bóng tối tăng thêm 25 yard; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch bị đánh trúng nhận trạng thái [Yếu đuối] 2 hiệp, trong thời gian đó mọi sát thương phải chịu cưỡng chế tăng 20%."
+            },
+            "阶位": "Áo nghĩa"
+          },
+          {
+            "名称": "Lửa nổ hỗn độn",
+            "类型": "Chủ động",
+            "描述": "Kích phát một vụ nổ dữ dội trên phạm vi cực lớn, gây sát thương thuộc tính lửa. Ánh lửa sẽ nuốt chửng những thân thể vốn đã đang bốc cháy.",
+            "特殊效果": {
+              "1": "Với kẻ địch đang ở trạng thái [Bốc cháy], gây thêm sát thương cuối cùng +10%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để sau phán định nổ, kỹ năng này gây thêm sát thương thuộc tính lửa bằng 25% sinh mệnh tối đa của kẻ địch.",
+              "2": "Với kẻ địch đang ở trạng thái [Bốc cháy], gây thêm sát thương cuối cùng +20%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để sau phán định nổ, kỹ năng này gây thêm sát thương thuộc tính lửa bằng 25% sinh mệnh tối đa của kẻ địch.",
+              "3": "Với kẻ địch đang ở trạng thái [Bốc cháy], gây thêm sát thương cuối cùng +30%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để sau phán định nổ, kỹ năng này gây thêm sát thương thuộc tính lửa bằng 25% sinh mệnh tối đa của kẻ địch.",
+              "4": "Với kẻ địch đang ở trạng thái [Bốc cháy], gây thêm sát thương cuối cùng +40%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để sau phán định nổ, kỹ năng này gây thêm sát thương thuộc tính lửa bằng 25% sinh mệnh tối đa của kẻ địch.",
+              "5": "Với kẻ địch đang ở trạng thái [Bốc cháy], gây thêm sát thương cuối cùng +50%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để sau phán định nổ, kỹ năng này gây thêm sát thương thuộc tính lửa bằng 25% sinh mệnh tối đa của kẻ địch."
+            },
+            "阶位": "Áo nghĩa"
+          },
+          {
+            "名称": "Song kiếm Thần Thiên Sứ - Kiếm khí vô tận",
+            "类型": "Chủ động",
+            "描述": "Thực hiện một nhát chém thuộc tính ánh sáng với tần suất cực cao lên kẻ địch, nhận kiếm khí liên miên bất tuyệt để liên trảm nhiều lần.",
+            "特殊效果": {
+              "1": "Khi phát động, kiểm định trúng đòn ban đầu +2; nếu trúng sẽ nhận 1 tầng [Kiếm khí]. Mỗi tầng khiến số lần chém của Song kiếm Thần Thiên Sứ +1 và sát thương cuối cùng do nhát chém gây ra +10%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để ngay khi ra tay nhận thêm 1 tầng [Kiếm khí].",
+              "2": "Khi phát động, kiểm định trúng đòn ban đầu +4; nếu trúng sẽ nhận 1 tầng [Kiếm khí]. Mỗi tầng khiến số lần chém của Song kiếm Thần Thiên Sứ +1 và sát thương cuối cùng do nhát chém gây ra +10%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để ngay khi ra tay nhận thêm 1 tầng [Kiếm khí].",
+              "3": "Khi phát động, kiểm định trúng đòn ban đầu +6; nếu trúng sẽ nhận 1 tầng [Kiếm khí]. Mỗi tầng khiến số lần chém của Song kiếm Thần Thiên Sứ +1 và sát thương cuối cùng do nhát chém gây ra +10%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để ngay khi ra tay nhận thêm 1 tầng [Kiếm khí].",
+              "4": "Khi phát động, kiểm định trúng đòn ban đầu +8; nếu trúng sẽ nhận 1 tầng [Kiếm khí]. Mỗi tầng khiến số lần chém của Song kiếm Thần Thiên Sứ +1 và sát thương cuối cùng do nhát chém gây ra +10%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để ngay khi ra tay nhận thêm 1 tầng [Kiếm khí].",
+              "5": "Khi phát động, kiểm định trúng đòn ban đầu +10; nếu trúng sẽ nhận 1 tầng [Kiếm khí]. Mỗi tầng khiến số lần chém của Song kiếm Thần Thiên Sứ +1 và sát thương cuối cùng do nhát chém gây ra +10%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để ngay khi ra tay nhận thêm 1 tầng [Kiếm khí]."
+            },
+            "阶位": "Áo nghĩa"
+          }
+        ],
+        "觉醒一": [
+          {
+            "名称": "Khúc trấn hồn",
+            "类型": "Đặc biệt",
+            "阶位": "Thức tỉnh một",
+            "描述": "Cất lên khúc trấn hồn, tạm thời rời xa cái chết.",
+            "特殊效果": {
+              "1": "Bước vào trạng thái [Bất tử] 5 hiệp. Trong thời gian này không thể chết (sinh mệnh không thể hạ xuống dưới 0); khi trạng thái kết thúc hoặc khi chịu sát thương chí tử, tự động hồi phục 10% sinh mệnh tối đa. Kỹ năng này mỗi trận chiến chỉ có thể dùng 1 lần.",
+              "2": "Bước vào trạng thái [Bất tử] 5 hiệp. Trong thời gian này không thể chết (sinh mệnh không thể hạ xuống dưới 0); khi trạng thái kết thúc hoặc khi chịu sát thương chí tử, tự động hồi phục 15% sinh mệnh tối đa. Kỹ năng này mỗi trận chiến chỉ có thể dùng 1 lần.",
+              "3": "Bước vào trạng thái [Bất tử] 5 hiệp. Trong thời gian này không thể chết (sinh mệnh không thể hạ xuống dưới 0); khi trạng thái kết thúc hoặc khi chịu sát thương chí tử, tự động hồi phục 20% sinh mệnh tối đa. Kỹ năng này mỗi trận chiến chỉ có thể dùng 1 lần."
+            }
+          }
+        ],
+        "觉醒二": [
+          {
+            "名称": "Sân khấu XX - Hy vọng nhỏ bé dành cho em",
+            "类型": "Đặc biệt",
+            "阶位": "Thức tỉnh hai",
+            "描述": "Vậy nên xin hãy bước chân ra và chạy đi, đừng dừng lại, đừng quay đầu, hãy mang theo cả tình yêu của cô gái ấy.",
+            "特殊效果": {
+              "1": "Khi chiến đấu bắt đầu, tự động có hiệu lực như hào quang bị động: kiểm định toàn bộ thuộc tính của bản thân +5, miễn dịch mọi hiệu ứng tiêu cực, trong chiến đấu mỗi hiệp số lần hành động +1, đồng thời mọi hành động của bản thân nhận tăng sát thương cuối cùng +10%.",
+              "2": "Khi chiến đấu bắt đầu, tự động có hiệu lực như hào quang bị động: kiểm định toàn bộ thuộc tính của bản thân +5, miễn dịch mọi hiệu ứng tiêu cực, trong chiến đấu mỗi hiệp số lần hành động +1, đồng thời mọi hành động của bản thân nhận tăng sát thương cuối cùng +20%."
+            }
+          }
+        ],
+        "觉醒三": [
+          {
+            "名称": "Quyền năng của Đấng Sáng Tạo",
+            "类型": "Đặc biệt",
+            "阶位": "Thức tỉnh ba",
+            "描述": "Kết quả đến từ sự kết hợp giữa thiết bị sân khấu hắc ám và linh hồn nhà văn, sở hữu năng lực thay đổi mọi thứ.\n\"Tôi là Grimm. Kết cục như thế này, tôi tuyệt đối không chấp nhận.\"",
+            "特殊效果": {
+              "1": "Khi dùng trong chiến đấu, người chơi có thể chỉ định một quy tắc, hiệu ứng địa hình hoặc một thuộc tính phòng ngự của kẻ địch trong cảnh chiến đấu hiện tại để tiến hành một lần sửa đổi (do DM phán định, ví dụ xóa kháng tính hoặc tái tạo địa hình), mỗi trận chiến giới hạn 1 lần. Khi dùng ngoài chiến đấu, mỗi ngày 1 lần có thể tạo vật phẩm từ hư không hoặc hồi sinh người đã chết. Sau khi thu được toàn bộ quân cờ chủng tộc, mọi giới hạn của kỹ năng này được giải trừ hoàn toàn."
+            }
+          }
+        ]
+      },
+      "skillTreeForClass": "Linh Hồn Đen",
+      "lockedSkillMap": {
+        "Linh Hồn Đen": {
+          "基础": {
+            "Trực kiếm - Tư thế chuẩn bị": {
+              "名称": "Trực kiếm - Tư thế chuẩn bị",
+              "类型": "Chủ động",
+              "描述": "Nâng kiếm song song với mặt đất, rồi tung ra một nhát chém mạnh từ dưới lên trên.",
+              "特殊效果": {
+                "1": "Khi phát động nhát chém, kiểm định trúng đòn +1; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này nhận thêm sát thương cuối cùng +10%.",
+                "2": "Khi phát động nhát chém, kiểm định trúng đòn +2; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này nhận thêm sát thương cuối cùng +15%.",
+                "3": "Khi phát động nhát chém, kiểm định trúng đòn +3; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này nhận thêm sát thương cuối cùng +20%.",
+                "4": "Khi phát động nhát chém, kiểm định trúng đòn +4; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này nhận thêm sát thương cuối cùng +25%.",
+                "5": "Khi phát động nhát chém, kiểm định trúng đòn +5; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này nhận thêm sát thương cuối cùng +30%.",
+                "6": "Khi phát động nhát chém, kiểm định trúng đòn +6; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này nhận thêm sát thương cuối cùng +35%.",
+                "7": "Khi phát động nhát chém, kiểm định trúng đòn +7; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này nhận thêm sát thương cuối cùng +40%.",
+                "8": "Khi phát động nhát chém, kiểm định trúng đòn +8; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này nhận thêm sát thương cuối cùng +45%.",
+                "9": "Khi phát động nhát chém, kiểm định trúng đòn +9; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này nhận thêm sát thương cuối cùng +50%.",
+                "10": "Khi phát động nhát chém, kiểm định trúng đòn +10; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này nhận thêm sát thương cuối cùng +55%.",
+                "11": "Khi phát động nhát chém, kiểm định trúng đòn +11; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này nhận thêm sát thương cuối cùng +60%.",
+                "12": "Khi phát động nhát chém, kiểm định trúng đòn +12; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này nhận thêm sát thương cuối cùng +65%.",
+                "13": "Khi phát động nhát chém, kiểm định trúng đòn +13; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này nhận thêm sát thương cuối cùng +70%.",
+                "14": "Khi phát động nhát chém, kiểm định trúng đòn +14; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này nhận thêm sát thương cuối cùng +75%.",
+                "15": "Khi phát động nhát chém, kiểm định trúng đòn +15; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này nhận thêm sát thương cuối cùng +80%."
+              },
+              "阶位": "Cơ bản"
+            },
+            "Dao găm - Nhị liên trảm": {
+              "名称": "Dao găm - Nhị liên trảm",
+              "类型": "Chủ động",
+              "描述": "Hạ thấp thân hình, sau đó dùng những nhát chém giao nhau liên tiếp để xé rách đối thủ.",
+              "特殊效果": {
+                "1": "Kiểm định Nhanh nhẹn của đòn tấn công này +1; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch nhận trạng thái [Chảy máu] kéo dài 2 hiệp khi bị đánh trúng.",
+                "2": "Kiểm định Nhanh nhẹn của đòn tấn công này +2; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch nhận trạng thái [Chảy máu] kéo dài 2 hiệp khi bị đánh trúng.",
+                "3": "Kiểm định Nhanh nhẹn của đòn tấn công này +3; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch nhận trạng thái [Chảy máu] kéo dài 2 hiệp khi bị đánh trúng.",
+                "4": "Kiểm định Nhanh nhẹn của đòn tấn công này +4; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch nhận trạng thái [Chảy máu] kéo dài 2 hiệp khi bị đánh trúng.",
+                "5": "Kiểm định Nhanh nhẹn của đòn tấn công này +5; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch nhận trạng thái [Chảy máu] kéo dài 2 hiệp khi bị đánh trúng.",
+                "6": "Kiểm định Nhanh nhẹn của đòn tấn công này +6; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch nhận trạng thái [Chảy máu] kéo dài 2 hiệp khi bị đánh trúng.",
+                "7": "Kiểm định Nhanh nhẹn của đòn tấn công này +7; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch nhận trạng thái [Chảy máu] kéo dài 2 hiệp khi bị đánh trúng.",
+                "8": "Kiểm định Nhanh nhẹn của đòn tấn công này +8; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch nhận trạng thái [Chảy máu] kéo dài 2 hiệp khi bị đánh trúng.",
+                "9": "Kiểm định Nhanh nhẹn của đòn tấn công này +9; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch nhận trạng thái [Chảy máu] kéo dài 2 hiệp khi bị đánh trúng.",
+                "10": "Kiểm định Nhanh nhẹn của đòn tấn công này +10; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch nhận trạng thái [Chảy máu] kéo dài 2 hiệp khi bị đánh trúng.",
+                "11": "Kiểm định Nhanh nhẹn của đòn tấn công này +11; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch nhận trạng thái [Chảy máu] kéo dài 2 hiệp khi bị đánh trúng.",
+                "12": "Kiểm định Nhanh nhẹn của đòn tấn công này +12; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch nhận trạng thái [Chảy máu] kéo dài 2 hiệp khi bị đánh trúng.",
+                "13": "Kiểm định Nhanh nhẹn của đòn tấn công này +13; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch nhận trạng thái [Chảy máu] kéo dài 2 hiệp khi bị đánh trúng.",
+                "14": "Kiểm định Nhanh nhẹn của đòn tấn công này +14; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch nhận trạng thái [Chảy máu] kéo dài 2 hiệp khi bị đánh trúng.",
+                "15": "Kiểm định Nhanh nhẹn của đòn tấn công này +15; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch nhận trạng thái [Chảy máu] kéo dài 2 hiệp khi bị đánh trúng."
+              },
+              "阶位": "Cơ bản"
+            },
+            "Khiên - Phòng ngự": {
+              "名称": "Khiên - Phòng ngự",
+              "类型": "Đặc biệt",
+              "描述": "Giơ khiên lên, chuẩn bị ứng phó đòn tấn công kế tiếp và tăng hiệu quả giảm sát thương của lần bị tấn công tiếp theo.",
+              "特殊效果": {
+                "1": "Khi bị tấn công lần kế tiếp, tỷ lệ giảm sát thương tăng 10%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để tỷ lệ giảm sát thương của lần đó tăng thêm 2%.",
+                "2": "Khi bị tấn công lần kế tiếp, tỷ lệ giảm sát thương tăng 10%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để tỷ lệ giảm sát thương của lần đó tăng thêm 4%.",
+                "3": "Khi bị tấn công lần kế tiếp, tỷ lệ giảm sát thương tăng 10%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để tỷ lệ giảm sát thương của lần đó tăng thêm 6%.",
+                "4": "Khi bị tấn công lần kế tiếp, tỷ lệ giảm sát thương tăng 10%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để tỷ lệ giảm sát thương của lần đó tăng thêm 8%.",
+                "5": "Khi bị tấn công lần kế tiếp, tỷ lệ giảm sát thương tăng 10%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để tỷ lệ giảm sát thương của lần đó tăng thêm 10%.",
+                "6": "Khi bị tấn công lần kế tiếp, tỷ lệ giảm sát thương tăng 10%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để tỷ lệ giảm sát thương của lần đó tăng thêm 12%.",
+                "7": "Khi bị tấn công lần kế tiếp, tỷ lệ giảm sát thương tăng 10%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để tỷ lệ giảm sát thương của lần đó tăng thêm 14%.",
+                "8": "Khi bị tấn công lần kế tiếp, tỷ lệ giảm sát thương tăng 10%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để tỷ lệ giảm sát thương của lần đó tăng thêm 16%.",
+                "9": "Khi bị tấn công lần kế tiếp, tỷ lệ giảm sát thương tăng 10%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để tỷ lệ giảm sát thương của lần đó tăng thêm 18%.",
+                "10": "Khi bị tấn công lần kế tiếp, tỷ lệ giảm sát thương tăng 10%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để tỷ lệ giảm sát thương của lần đó tăng thêm 20%.",
+                "11": "Khi bị tấn công lần kế tiếp, tỷ lệ giảm sát thương tăng 10%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để tỷ lệ giảm sát thương của lần đó tăng thêm 22%.",
+                "12": "Khi bị tấn công lần kế tiếp, tỷ lệ giảm sát thương tăng 10%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để tỷ lệ giảm sát thương của lần đó tăng thêm 24%.",
+                "13": "Khi bị tấn công lần kế tiếp, tỷ lệ giảm sát thương tăng 10%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để tỷ lệ giảm sát thương của lần đó tăng thêm 26%.",
+                "14": "Khi bị tấn công lần kế tiếp, tỷ lệ giảm sát thương tăng 10%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để tỷ lệ giảm sát thương của lần đó tăng thêm 28%.",
+                "15": "Khi bị tấn công lần kế tiếp, tỷ lệ giảm sát thương tăng 10%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để tỷ lệ giảm sát thương của lần đó tăng thêm 30%."
+              },
+              "阶位": "Cơ bản"
+            },
+            "Vật phẩm - Bình Estus": {
+              "名称": "Vật phẩm - Bình Estus",
+              "类型": "Đặc biệt",
+              "描述": "Bảo vật của người bất tử, vật phẩm hồi phục có thể sử dụng vô hạn. Mỗi trận chiến dùng tối đa hai lần, hồi phục sinh mệnh theo tỷ lệ cố định.",
+              "特殊效果": {
+                "1": "Sau khi sử dụng, hồi phục 30% sinh mệnh tối đa; nếu đang có [Võ nghệ], tiêu hao 1 tầng để lần hồi phục này không tiêu hao tài nguyên hành động.",
+                "2": "Sau khi sử dụng, hồi phục 32% sinh mệnh tối đa; nếu đang có [Võ nghệ], tiêu hao 1 tầng để lần hồi phục này không tiêu hao tài nguyên hành động.",
+                "3": "Sau khi sử dụng, hồi phục 34% sinh mệnh tối đa; nếu đang có [Võ nghệ], tiêu hao 1 tầng để lần hồi phục này không tiêu hao tài nguyên hành động.",
+                "4": "Sau khi sử dụng, hồi phục 36% sinh mệnh tối đa; nếu đang có [Võ nghệ], tiêu hao 1 tầng để lần hồi phục này không tiêu hao tài nguyên hành động.",
+                "5": "Sau khi sử dụng, hồi phục 38% sinh mệnh tối đa; nếu đang có [Võ nghệ], tiêu hao 1 tầng để lần hồi phục này không tiêu hao tài nguyên hành động.",
+                "6": "Sau khi sử dụng, hồi phục 40% sinh mệnh tối đa; nếu đang có [Võ nghệ], tiêu hao 1 tầng để lần hồi phục này không tiêu hao tài nguyên hành động.",
+                "7": "Sau khi sử dụng, hồi phục 42% sinh mệnh tối đa; nếu đang có [Võ nghệ], tiêu hao 1 tầng để lần hồi phục này không tiêu hao tài nguyên hành động.",
+                "8": "Sau khi sử dụng, hồi phục 44% sinh mệnh tối đa; nếu đang có [Võ nghệ], tiêu hao 1 tầng để lần hồi phục này không tiêu hao tài nguyên hành động.",
+                "9": "Sau khi sử dụng, hồi phục 46% sinh mệnh tối đa; nếu đang có [Võ nghệ], tiêu hao 1 tầng để lần hồi phục này không tiêu hao tài nguyên hành động.",
+                "10": "Sau khi sử dụng, hồi phục 48% sinh mệnh tối đa; nếu đang có [Võ nghệ], tiêu hao 1 tầng để lần hồi phục này không tiêu hao tài nguyên hành động.",
+                "11": "Sau khi sử dụng, hồi phục 50% sinh mệnh tối đa; nếu đang có [Võ nghệ], tiêu hao 1 tầng để lần hồi phục này không tiêu hao tài nguyên hành động.",
+                "12": "Sau khi sử dụng, hồi phục 52% sinh mệnh tối đa; nếu đang có [Võ nghệ], tiêu hao 1 tầng để lần hồi phục này không tiêu hao tài nguyên hành động.",
+                "13": "Sau khi sử dụng, hồi phục 54% sinh mệnh tối đa; nếu đang có [Võ nghệ], tiêu hao 1 tầng để lần hồi phục này không tiêu hao tài nguyên hành động.",
+                "14": "Sau khi sử dụng, hồi phục 56% sinh mệnh tối đa; nếu đang có [Võ nghệ], tiêu hao 1 tầng để lần hồi phục này không tiêu hao tài nguyên hành động.",
+                "15": "Sau khi sử dụng, hồi phục 60% sinh mệnh tối đa; nếu đang có [Võ nghệ], tiêu hao 1 tầng để lần hồi phục này không tiêu hao tài nguyên hành động."
+              },
+              "阶位": "Cơ bản"
+            },
+            "Kiếm Phi Long - Sóng xung kích của rồng": {
+              "名称": "Kiếm Phi Long - Sóng xung kích của rồng",
+              "类型": "Chủ động",
+              "描述": "Quét ngang thân kiếm, phóng ra sóng xung kích phạm vi lớn cuốn quét kẻ địch.",
+              "特殊效果": {
+                "1": "Phạm vi ảnh hưởng của sóng xung kích mở rộng tới 22 yard; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch bị đánh trúng nhận trạng thái [Bốc cháy] kéo dài 2 hiệp.",
+                "2": "Phạm vi ảnh hưởng của sóng xung kích mở rộng tới 24 yard; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch bị đánh trúng nhận trạng thái [Bốc cháy] kéo dài 2 hiệp.",
+                "3": "Phạm vi ảnh hưởng của sóng xung kích mở rộng tới 26 yard; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch bị đánh trúng nhận trạng thái [Bốc cháy] kéo dài 2 hiệp.",
+                "4": "Phạm vi ảnh hưởng của sóng xung kích mở rộng tới 28 yard; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch bị đánh trúng nhận trạng thái [Bốc cháy] kéo dài 2 hiệp.",
+                "5": "Phạm vi ảnh hưởng của sóng xung kích mở rộng tới 30 yard; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch bị đánh trúng nhận trạng thái [Bốc cháy] kéo dài 2 hiệp.",
+                "6": "Phạm vi ảnh hưởng của sóng xung kích mở rộng tới 32 yard; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch bị đánh trúng nhận trạng thái [Bốc cháy] kéo dài 2 hiệp.",
+                "7": "Phạm vi ảnh hưởng của sóng xung kích mở rộng tới 34 yard; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch bị đánh trúng nhận trạng thái [Bốc cháy] kéo dài 2 hiệp.",
+                "8": "Phạm vi ảnh hưởng của sóng xung kích mở rộng tới 36 yard; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch bị đánh trúng nhận trạng thái [Bốc cháy] kéo dài 2 hiệp.",
+                "9": "Phạm vi ảnh hưởng của sóng xung kích mở rộng tới 38 yard; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch bị đánh trúng nhận trạng thái [Bốc cháy] kéo dài 2 hiệp.",
+                "10": "Phạm vi ảnh hưởng của sóng xung kích mở rộng tới 40 yard; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch bị đánh trúng nhận trạng thái [Bốc cháy] kéo dài 2 hiệp.",
+                "11": "Phạm vi ảnh hưởng của sóng xung kích mở rộng tới 42 yard; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch bị đánh trúng nhận trạng thái [Bốc cháy] kéo dài 2 hiệp.",
+                "12": "Phạm vi ảnh hưởng của sóng xung kích mở rộng tới 44 yard; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch bị đánh trúng nhận trạng thái [Bốc cháy] kéo dài 2 hiệp.",
+                "13": "Phạm vi ảnh hưởng của sóng xung kích mở rộng tới 46 yard; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch bị đánh trúng nhận trạng thái [Bốc cháy] kéo dài 2 hiệp.",
+                "14": "Phạm vi ảnh hưởng của sóng xung kích mở rộng tới 48 yard; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch bị đánh trúng nhận trạng thái [Bốc cháy] kéo dài 2 hiệp.",
+                "15": "Phạm vi ảnh hưởng của sóng xung kích mở rộng tới 50 yard; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch bị đánh trúng nhận trạng thái [Bốc cháy] kéo dài 2 hiệp."
+              },
+              "阶位": "Cơ bản"
+            },
+            "Kỹ nghệ - Lăn né tránh": {
+              "名称": "Kỹ nghệ - Lăn né tránh",
+              "类型": "Đặc biệt",
+              "描述": "Dùng thân pháp của bản thân để tránh né đòn tấn công đang ập tới trong chớp mắt. Chỉ có thể dùng khi đang có [Võ nghệ]; dùng liên tục sẽ trực tiếp thất bại.",
+              "特殊效果": {
+                "1": "Sau khi tiêu hao 1 tầng [Võ nghệ], khi bị tấn công lần kế tiếp sẽ tiến hành kiểm định Nhanh nhẹn đối kháng; kiểm định Nhanh nhẹn nhận cộng thêm +1, nếu thành công thì né hoàn toàn sát thương lần đó.",
+                "2": "Sau khi tiêu hao 1 tầng [Võ nghệ], khi bị tấn công lần kế tiếp sẽ tiến hành kiểm định Nhanh nhẹn đối kháng; kiểm định Nhanh nhẹn nhận cộng thêm +2, nếu thành công thì né hoàn toàn sát thương lần đó.",
+                "3": "Sau khi tiêu hao 1 tầng [Võ nghệ], khi bị tấn công lần kế tiếp sẽ tiến hành kiểm định Nhanh nhẹn đối kháng; kiểm định Nhanh nhẹn nhận cộng thêm +3, nếu thành công thì né hoàn toàn sát thương lần đó.",
+                "4": "Sau khi tiêu hao 1 tầng [Võ nghệ], khi bị tấn công lần kế tiếp sẽ tiến hành kiểm định Nhanh nhẹn đối kháng; kiểm định Nhanh nhẹn nhận cộng thêm +4, nếu thành công thì né hoàn toàn sát thương lần đó.",
+                "5": "Sau khi tiêu hao 1 tầng [Võ nghệ], khi bị tấn công lần kế tiếp sẽ tiến hành kiểm định Nhanh nhẹn đối kháng; kiểm định Nhanh nhẹn nhận cộng thêm +5, nếu thành công thì né hoàn toàn sát thương lần đó.",
+                "6": "Sau khi tiêu hao 1 tầng [Võ nghệ], khi bị tấn công lần kế tiếp sẽ tiến hành kiểm định Nhanh nhẹn đối kháng; kiểm định Nhanh nhẹn nhận cộng thêm +6, nếu thành công thì né hoàn toàn sát thương lần đó.",
+                "7": "Sau khi tiêu hao 1 tầng [Võ nghệ], khi bị tấn công lần kế tiếp sẽ tiến hành kiểm định Nhanh nhẹn đối kháng; kiểm định Nhanh nhẹn nhận cộng thêm +7, nếu thành công thì né hoàn toàn sát thương lần đó.",
+                "8": "Sau khi tiêu hao 1 tầng [Võ nghệ], khi bị tấn công lần kế tiếp sẽ tiến hành kiểm định Nhanh nhẹn đối kháng; kiểm định Nhanh nhẹn nhận cộng thêm +8, nếu thành công thì né hoàn toàn sát thương lần đó.",
+                "9": "Sau khi tiêu hao 1 tầng [Võ nghệ], khi bị tấn công lần kế tiếp sẽ tiến hành kiểm định Nhanh nhẹn đối kháng; kiểm định Nhanh nhẹn nhận cộng thêm +9, nếu thành công thì né hoàn toàn sát thương lần đó.",
+                "10": "Sau khi tiêu hao 1 tầng [Võ nghệ], khi bị tấn công lần kế tiếp sẽ tiến hành kiểm định Nhanh nhẹn đối kháng; kiểm định Nhanh nhẹn nhận cộng thêm +10, nếu thành công thì né hoàn toàn sát thương lần đó.",
+                "11": "Sau khi tiêu hao 1 tầng [Võ nghệ], khi bị tấn công lần kế tiếp sẽ tiến hành kiểm định Nhanh nhẹn đối kháng; kiểm định Nhanh nhẹn nhận cộng thêm +11, nếu thành công thì né hoàn toàn sát thương lần đó.",
+                "12": "Sau khi tiêu hao 1 tầng [Võ nghệ], khi bị tấn công lần kế tiếp sẽ tiến hành kiểm định Nhanh nhẹn đối kháng; kiểm định Nhanh nhẹn nhận cộng thêm +12, nếu thành công thì né hoàn toàn sát thương lần đó.",
+                "13": "Sau khi tiêu hao 1 tầng [Võ nghệ], khi bị tấn công lần kế tiếp sẽ tiến hành kiểm định Nhanh nhẹn đối kháng; kiểm định Nhanh nhẹn nhận cộng thêm +13, nếu thành công thì né hoàn toàn sát thương lần đó.",
+                "14": "Sau khi tiêu hao 1 tầng [Võ nghệ], khi bị tấn công lần kế tiếp sẽ tiến hành kiểm định Nhanh nhẹn đối kháng; kiểm định Nhanh nhẹn nhận cộng thêm +14, nếu thành công thì né hoàn toàn sát thương lần đó.",
+                "15": "Sau khi tiêu hao 1 tầng [Võ nghệ], khi bị tấn công lần kế tiếp sẽ tiến hành kiểm định Nhanh nhẹn đối kháng; kiểm định Nhanh nhẹn nhận cộng thêm +15, nếu thành công thì né hoàn toàn sát thương lần đó."
+              },
+              "阶位": "Cơ bản"
+            }
+          },
+          "转职": {
+            "Súng ngắn - Hỏa lực phá thế": {
+              "名称": "Súng ngắn - Hỏa lực phá thế",
+              "类型": "Chủ động",
+              "描述": "Bắn ra một phát chuẩn xác để đánh sụp tư thế của địch. Nếu dùng khi địch đang tụ lực kỹ năng mạnh, có thể khiến chúng rơi vào trạng thái [Choáng] 1 hiệp, nhưng một số kẻ địch hùng mạnh không thể bị phá thế.",
+              "特殊效果": {
+                "1": "Phát bắn lần này nhận thêm sát thương cuối cùng +10%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này không tiêu hao tài nguyên hành động.",
+                "2": "Phát bắn lần này nhận thêm sát thương cuối cùng +15%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này không tiêu hao tài nguyên hành động.",
+                "3": "Phát bắn lần này nhận thêm sát thương cuối cùng +20%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này không tiêu hao tài nguyên hành động.",
+                "4": "Phát bắn lần này nhận thêm sát thương cuối cùng +25%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này không tiêu hao tài nguyên hành động.",
+                "5": "Phát bắn lần này nhận thêm sát thương cuối cùng +30%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này không tiêu hao tài nguyên hành động.",
+                "6": "Phát bắn lần này nhận thêm sát thương cuối cùng +35%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này không tiêu hao tài nguyên hành động.",
+                "7": "Phát bắn lần này nhận thêm sát thương cuối cùng +40%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này không tiêu hao tài nguyên hành động.",
+                "8": "Phát bắn lần này nhận thêm sát thương cuối cùng +45%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này không tiêu hao tài nguyên hành động.",
+                "9": "Phát bắn lần này nhận thêm sát thương cuối cùng +50%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này không tiêu hao tài nguyên hành động.",
+                "10": "Phát bắn lần này nhận thêm sát thương cuối cùng +55%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này không tiêu hao tài nguyên hành động.",
+                "11": "Phát bắn lần này nhận thêm sát thương cuối cùng +60%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này không tiêu hao tài nguyên hành động.",
+                "12": "Phát bắn lần này nhận thêm sát thương cuối cùng +65%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này không tiêu hao tài nguyên hành động.",
+                "13": "Phát bắn lần này nhận thêm sát thương cuối cùng +70%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này không tiêu hao tài nguyên hành động.",
+                "14": "Phát bắn lần này nhận thêm sát thương cuối cùng +75%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này không tiêu hao tài nguyên hành động.",
+                "15": "Phát bắn lần này nhận thêm sát thương cuối cùng +80%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này không tiêu hao tài nguyên hành động."
+              },
+              "阶位": "Chuyển nghề"
+            },
+            "Dao cưa thịt - Lưỡi máu": {
+              "名称": "Dao cưa thịt - Lưỡi máu",
+              "类型": "Chủ động",
+              "描述": "Tàn nhẫn chém kẻ địch hai lần; khi kẻ địch đang ở trạng thái chảy máu, sát thương nhận được sẽ tăng.",
+              "特殊效果": {
+                "1": "Khi tấn công mục tiêu đang ở trạng thái [Chảy máu], sát thương cuối cùng +10%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này trở thành đặc công với kẻ địch loại [Thú], gây thêm sát thương cuối cùng +10%.",
+                "2": "Khi tấn công mục tiêu đang ở trạng thái [Chảy máu], sát thương cuối cùng +15%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này trở thành đặc công với kẻ địch loại [Thú], gây thêm sát thương cuối cùng +15%.",
+                "3": "Khi tấn công mục tiêu đang ở trạng thái [Chảy máu], sát thương cuối cùng +20%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này trở thành đặc công với kẻ địch loại [Thú], gây thêm sát thương cuối cùng +20%.",
+                "4": "Khi tấn công mục tiêu đang ở trạng thái [Chảy máu], sát thương cuối cùng +25%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này trở thành đặc công với kẻ địch loại [Thú], gây thêm sát thương cuối cùng +25%.",
+                "5": "Khi tấn công mục tiêu đang ở trạng thái [Chảy máu], sát thương cuối cùng +30%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này trở thành đặc công với kẻ địch loại [Thú], gây thêm sát thương cuối cùng +30%.",
+                "6": "Khi tấn công mục tiêu đang ở trạng thái [Chảy máu], sát thương cuối cùng +35%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này trở thành đặc công với kẻ địch loại [Thú], gây thêm sát thương cuối cùng +35%.",
+                "7": "Khi tấn công mục tiêu đang ở trạng thái [Chảy máu], sát thương cuối cùng +40%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này trở thành đặc công với kẻ địch loại [Thú], gây thêm sát thương cuối cùng +40%.",
+                "8": "Khi tấn công mục tiêu đang ở trạng thái [Chảy máu], sát thương cuối cùng +45%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này trở thành đặc công với kẻ địch loại [Thú], gây thêm sát thương cuối cùng +45%.",
+                "9": "Khi tấn công mục tiêu đang ở trạng thái [Chảy máu], sát thương cuối cùng +50%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này trở thành đặc công với kẻ địch loại [Thú], gây thêm sát thương cuối cùng +50%.",
+                "10": "Khi tấn công mục tiêu đang ở trạng thái [Chảy máu], sát thương cuối cùng +55%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này trở thành đặc công với kẻ địch loại [Thú], gây thêm sát thương cuối cùng +55%.",
+                "11": "Khi tấn công mục tiêu đang ở trạng thái [Chảy máu], sát thương cuối cùng +60%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này trở thành đặc công với kẻ địch loại [Thú], gây thêm sát thương cuối cùng +60%.",
+                "12": "Khi tấn công mục tiêu đang ở trạng thái [Chảy máu], sát thương cuối cùng +65%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này trở thành đặc công với kẻ địch loại [Thú], gây thêm sát thương cuối cùng +65%.",
+                "13": "Khi tấn công mục tiêu đang ở trạng thái [Chảy máu], sát thương cuối cùng +70%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này trở thành đặc công với kẻ địch loại [Thú], gây thêm sát thương cuối cùng +70%.",
+                "14": "Khi tấn công mục tiêu đang ở trạng thái [Chảy máu], sát thương cuối cùng +75%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này trở thành đặc công với kẻ địch loại [Thú], gây thêm sát thương cuối cùng +75%.",
+                "15": "Khi tấn công mục tiêu đang ở trạng thái [Chảy máu], sát thương cuối cùng +80%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này trở thành đặc công với kẻ địch loại [Thú], gây thêm sát thương cuối cùng +80%."
+              },
+              "阶位": "Chuyển nghề"
+            },
+            "Luật Bão Tố - Bá Vương Bão Tố": {
+              "名称": "Luật Bão Tố - Bá Vương Bão Tố",
+              "类型": "Chủ động",
+              "描述": "Thổi bùng cuồng phong, cắt xé kẻ địch trên phạm vi lớn và gây sát thương thuộc tính gió.",
+              "特殊效果": {
+                "1": "Phạm vi chém thuộc tính gió mở rộng tới 22 yard; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này trở thành chắc chắn trúng.",
+                "2": "Phạm vi chém thuộc tính gió mở rộng tới 24 yard; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này trở thành chắc chắn trúng.",
+                "3": "Phạm vi chém thuộc tính gió mở rộng tới 26 yard; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này trở thành chắc chắn trúng.",
+                "4": "Phạm vi chém thuộc tính gió mở rộng tới 28 yard; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này trở thành chắc chắn trúng.",
+                "5": "Phạm vi chém thuộc tính gió mở rộng tới 30 yard; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này trở thành chắc chắn trúng.",
+                "6": "Phạm vi chém thuộc tính gió mở rộng tới 32 yard; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này trở thành chắc chắn trúng.",
+                "7": "Phạm vi chém thuộc tính gió mở rộng tới 34 yard; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này trở thành chắc chắn trúng.",
+                "8": "Phạm vi chém thuộc tính gió mở rộng tới 36 yard; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này trở thành chắc chắn trúng.",
+                "9": "Phạm vi chém thuộc tính gió mở rộng tới 38 yard; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này trở thành chắc chắn trúng.",
+                "10": "Phạm vi chém thuộc tính gió mở rộng tới 40 yard; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này trở thành chắc chắn trúng.",
+                "11": "Phạm vi chém thuộc tính gió mở rộng tới 42 yard; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này trở thành chắc chắn trúng.",
+                "12": "Phạm vi chém thuộc tính gió mở rộng tới 44 yard; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này trở thành chắc chắn trúng.",
+                "13": "Phạm vi chém thuộc tính gió mở rộng tới 46 yard; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này trở thành chắc chắn trúng.",
+                "14": "Phạm vi chém thuộc tính gió mở rộng tới 48 yard; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này trở thành chắc chắn trúng.",
+                "15": "Phạm vi chém thuộc tính gió mở rộng tới 50 yard; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này trở thành chắc chắn trúng."
+              },
+              "阶位": "Chuyển nghề"
+            },
+            "Tư chất của Kẻ Thống Trị": {
+              "名称": "Tư chất của Kẻ Thống Trị",
+              "类型": "Đặc biệt nghề nghiệp",
+              "描述": "\"Dù sao thì anh cũng sở hữu tư chất đủ để trở thành phu quân của Kẻ Thống Trị mà, ku hi hi.\"",
+              "特殊效果": {
+                "1": "Cơ chế kích hoạt bị động: khi vào chiến đấu, tự động nhận 2 tầng [Võ nghệ]; ngưỡng bạo kích của bản thân cố định giảm 1, mọi đòn tấn công nhận hiệu chỉnh kiểm định trúng đòn +2; mỗi lần gây bạo kích, lập tức nhận 1 tầng [Võ nghệ]."
+              },
+              "阶位": "Chuyển nghề"
+            }
+          },
+          "进阶": {
+            "Đại kiếm Ánh Trăng - Lưỡi trăng": {
+              "名称": "Đại kiếm Ánh Trăng - Lưỡi trăng",
+              "类型": "Chủ động",
+              "描述": "Giơ cao thân kiếm khiến nó tỏa ánh trăng, nhận trạng thái tăng 30% sát thương kéo dài 3 hiệp, đồng thời có thể tiêu hao tầng để chém thêm.",
+              "特殊效果": {
+                "1": "Khi nhận trạng thái tăng sát thương, đồng thời hồi phục 10 điểm sinh mệnh tạm thời; nếu đang có [Võ nghệ], tiêu hao 1 tầng để chém thêm một luồng kiếm khí gây sát thương thuộc tính ma pháp, kiếm khí gây sát thương cuối cùng +10%.",
+                "2": "Khi nhận trạng thái tăng sát thương, đồng thời hồi phục 15 điểm sinh mệnh tạm thời; nếu đang có [Võ nghệ], tiêu hao 1 tầng để chém thêm một luồng kiếm khí gây sát thương thuộc tính ma pháp, kiếm khí gây sát thương cuối cùng +20%.",
+                "3": "Khi nhận trạng thái tăng sát thương, đồng thời hồi phục 20 điểm sinh mệnh tạm thời; nếu đang có [Võ nghệ], tiêu hao 1 tầng để chém thêm một luồng kiếm khí gây sát thương thuộc tính ma pháp, kiếm khí gây sát thương cuối cùng +30%.",
+                "4": "Khi nhận trạng thái tăng sát thương, đồng thời hồi phục 25 điểm sinh mệnh tạm thời; nếu đang có [Võ nghệ], tiêu hao 1 tầng để chém thêm một luồng kiếm khí gây sát thương thuộc tính ma pháp, kiếm khí gây sát thương cuối cùng +40%.",
+                "5": "Khi nhận trạng thái tăng sát thương, đồng thời hồi phục 30 điểm sinh mệnh tạm thời; nếu đang có [Võ nghệ], tiêu hao 1 tầng để chém thêm một luồng kiếm khí gây sát thương thuộc tính ma pháp, kiếm khí gây sát thương cuối cùng +50%.",
+                "6": "Khi nhận trạng thái tăng sát thương, đồng thời hồi phục 35 điểm sinh mệnh tạm thời; nếu đang có [Võ nghệ], tiêu hao 1 tầng để chém thêm một luồng kiếm khí gây sát thương thuộc tính ma pháp, kiếm khí gây sát thương cuối cùng +60%.",
+                "7": "Khi nhận trạng thái tăng sát thương, đồng thời hồi phục 40 điểm sinh mệnh tạm thời; nếu đang có [Võ nghệ], tiêu hao 1 tầng để chém thêm một luồng kiếm khí gây sát thương thuộc tính ma pháp, kiếm khí gây sát thương cuối cùng +70%.",
+                "8": "Khi nhận trạng thái tăng sát thương, đồng thời hồi phục 45 điểm sinh mệnh tạm thời; nếu đang có [Võ nghệ], tiêu hao 1 tầng để chém thêm một luồng kiếm khí gây sát thương thuộc tính ma pháp, kiếm khí gây sát thương cuối cùng +80%.",
+                "9": "Khi nhận trạng thái tăng sát thương, đồng thời hồi phục 50 điểm sinh mệnh tạm thời; nếu đang có [Võ nghệ], tiêu hao 1 tầng để chém thêm một luồng kiếm khí gây sát thương thuộc tính ma pháp, kiếm khí gây sát thương cuối cùng +90%.",
+                "10": "Khi nhận trạng thái tăng sát thương, đồng thời hồi phục 55 điểm sinh mệnh tạm thời; nếu đang có [Võ nghệ], tiêu hao 1 tầng để chém thêm một luồng kiếm khí gây sát thương thuộc tính ma pháp, kiếm khí gây sát thương cuối cùng +100%."
+              },
+              "阶位": "Nâng cao"
+            },
+            "Kiếm Bóng Tối - Bộc phát tội nghiệp": {
+              "名称": "Kiếm Bóng Tối - Bộc phát tội nghiệp",
+              "类型": "Chủ động",
+              "描述": "Gây sát thương thuộc tính bóng tối lên toàn bộ kẻ địch, làm suy yếu khả năng trúng đòn của chúng và gieo rắc kịch độc.",
+              "特殊效果": {
+                "1": "Khiến toàn bộ kẻ địch bị đánh trúng có kiểm định trúng đòn của đòn tấn công kế tiếp -2, kéo dài 2 hiệp; sát thương thuộc tính bóng tối lần này nhận sát thương cuối cùng +10%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch nhận trạng thái [Trúng độc] kéo dài 2 hiệp.",
+                "2": "Khiến toàn bộ kẻ địch bị đánh trúng có kiểm định trúng đòn của đòn tấn công kế tiếp -2, kéo dài 2 hiệp; sát thương thuộc tính bóng tối lần này nhận sát thương cuối cùng +20%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch nhận trạng thái [Trúng độc] kéo dài 2 hiệp.",
+                "3": "Khiến toàn bộ kẻ địch bị đánh trúng có kiểm định trúng đòn của đòn tấn công kế tiếp -2, kéo dài 2 hiệp; sát thương thuộc tính bóng tối lần này nhận sát thương cuối cùng +30%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch nhận trạng thái [Trúng độc] kéo dài 2 hiệp.",
+                "4": "Khiến toàn bộ kẻ địch bị đánh trúng có kiểm định trúng đòn của đòn tấn công kế tiếp -2, kéo dài 2 hiệp; sát thương thuộc tính bóng tối lần này nhận sát thương cuối cùng +40%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch nhận trạng thái [Trúng độc] kéo dài 2 hiệp.",
+                "5": "Khiến toàn bộ kẻ địch bị đánh trúng có kiểm định trúng đòn của đòn tấn công kế tiếp -2, kéo dài 2 hiệp; sát thương thuộc tính bóng tối lần này nhận sát thương cuối cùng +50%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch nhận trạng thái [Trúng độc] kéo dài 2 hiệp.",
+                "6": "Khiến toàn bộ kẻ địch bị đánh trúng có kiểm định trúng đòn của đòn tấn công kế tiếp -2, kéo dài 2 hiệp; sát thương thuộc tính bóng tối lần này nhận sát thương cuối cùng +60%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch nhận trạng thái [Trúng độc] kéo dài 2 hiệp.",
+                "7": "Khiến toàn bộ kẻ địch bị đánh trúng có kiểm định trúng đòn của đòn tấn công kế tiếp -2, kéo dài 2 hiệp; sát thương thuộc tính bóng tối lần này nhận sát thương cuối cùng +70%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch nhận trạng thái [Trúng độc] kéo dài 2 hiệp.",
+                "8": "Khiến toàn bộ kẻ địch bị đánh trúng có kiểm định trúng đòn của đòn tấn công kế tiếp -2, kéo dài 2 hiệp; sát thương thuộc tính bóng tối lần này nhận sát thương cuối cùng +80%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch nhận trạng thái [Trúng độc] kéo dài 2 hiệp.",
+                "9": "Khiến toàn bộ kẻ địch bị đánh trúng có kiểm định trúng đòn của đòn tấn công kế tiếp -2, kéo dài 2 hiệp; sát thương thuộc tính bóng tối lần này nhận sát thương cuối cùng +90%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch nhận trạng thái [Trúng độc] kéo dài 2 hiệp.",
+                "10": "Khiến toàn bộ kẻ địch bị đánh trúng có kiểm định trúng đòn của đòn tấn công kế tiếp -2, kéo dài 2 hiệp; sát thương thuộc tính bóng tối lần này nhận sát thương cuối cùng +100%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch nhận trạng thái [Trúng độc] kéo dài 2 hiệp."
+              },
+              "阶位": "Nâng cao"
+            },
+            "Kiếm Andoru - Lưỡi linh khí": {
+              "名称": "Kiếm Andoru - Lưỡi linh khí",
+              "类型": "Chủ động",
+              "描述": "Chém ra một luồng kiếm khí thuộc tính ma lực, sau đó nhận tăng ích năng lượng cho bản thân và có thể thấu chi tài nguyên để lấy thêm hành động.",
+              "特殊效果": {
+                "1": "Khi phóng thích kiếm khí, kiểm định trúng đòn +1 và nếu trúng sẽ gián tiếp nhận 2 tầng [Võ nghệ]; nếu đang có [Võ nghệ], có thể tiêu hao 1 tầng để hồi phục 1 điểm tài nguyên hành động. Hiệu ứng này mỗi trận chiến chỉ có thể kích hoạt 1 lần.",
+                "2": "Khi phóng thích kiếm khí, kiểm định trúng đòn +2 và nếu trúng sẽ gián tiếp nhận 2 tầng [Võ nghệ]; nếu đang có [Võ nghệ], có thể tiêu hao 1 tầng để hồi phục 1 điểm tài nguyên hành động. Hiệu ứng này mỗi trận chiến chỉ có thể kích hoạt 1 lần.",
+                "3": "Khi phóng thích kiếm khí, kiểm định trúng đòn +3 và nếu trúng sẽ gián tiếp nhận 2 tầng [Võ nghệ]; nếu đang có [Võ nghệ], có thể tiêu hao 1 tầng để hồi phục 1 điểm tài nguyên hành động. Hiệu ứng này mỗi trận chiến chỉ có thể kích hoạt 1 lần.",
+                "4": "Khi phóng thích kiếm khí, kiểm định trúng đòn +4 và nếu trúng sẽ gián tiếp nhận 2 tầng [Võ nghệ]; nếu đang có [Võ nghệ], có thể tiêu hao 1 tầng để hồi phục 1 điểm tài nguyên hành động. Hiệu ứng này mỗi trận chiến chỉ có thể kích hoạt 1 lần.",
+                "5": "Khi phóng thích kiếm khí, kiểm định trúng đòn +5 và nếu trúng sẽ gián tiếp nhận 2 tầng [Võ nghệ]; nếu đang có [Võ nghệ], có thể tiêu hao 1 tầng để hồi phục 1 điểm tài nguyên hành động. Hiệu ứng này mỗi trận chiến chỉ có thể kích hoạt 1 lần.",
+                "6": "Khi phóng thích kiếm khí, kiểm định trúng đòn +6 và nếu trúng sẽ gián tiếp nhận 2 tầng [Võ nghệ]; nếu đang có [Võ nghệ], có thể tiêu hao 1 tầng để hồi phục 1 điểm tài nguyên hành động. Hiệu ứng này mỗi trận chiến chỉ có thể kích hoạt 1 lần.",
+                "7": "Khi phóng thích kiếm khí, kiểm định trúng đòn +7 và nếu trúng sẽ gián tiếp nhận 2 tầng [Võ nghệ]; nếu đang có [Võ nghệ], có thể tiêu hao 1 tầng để hồi phục 1 điểm tài nguyên hành động. Hiệu ứng này mỗi trận chiến chỉ có thể kích hoạt 1 lần.",
+                "8": "Khi phóng thích kiếm khí, kiểm định trúng đòn +8 và nếu trúng sẽ gián tiếp nhận 2 tầng [Võ nghệ]; nếu đang có [Võ nghệ], có thể tiêu hao 1 tầng để hồi phục 1 điểm tài nguyên hành động. Hiệu ứng này mỗi trận chiến chỉ có thể kích hoạt 1 lần.",
+                "9": "Khi phóng thích kiếm khí, kiểm định trúng đòn +9 và nếu trúng sẽ gián tiếp nhận 2 tầng [Võ nghệ]; nếu đang có [Võ nghệ], có thể tiêu hao 1 tầng để hồi phục 1 điểm tài nguyên hành động. Hiệu ứng này mỗi trận chiến chỉ có thể kích hoạt 1 lần.",
+                "10": "Khi phóng thích kiếm khí, kiểm định trúng đòn +10 và nếu trúng sẽ gián tiếp nhận 2 tầng [Võ nghệ]; nếu đang có [Võ nghệ], có thể tiêu hao 1 tầng để hồi phục 1 điểm tài nguyên hành động. Hiệu ứng này mỗi trận chiến chỉ có thể kích hoạt 1 lần."
+              },
+              "阶位": "Nâng cao"
+            },
+            "Mỏ neo Kỵ sĩ Biển Sâu - Cuồng nộ": {
+              "名称": "Mỏ neo Kỵ sĩ Biển Sâu - Cuồng nộ",
+              "类型": "Chủ động",
+              "描述": "Giải trừ toàn bộ trạng thái suy yếu trên bản thân rồi bước vào trạng thái [Cuồng nộ] 2 hiệp, lực tấn công tăng 200% nhưng không thể bạo kích, đồng thời vung ra một cột nước khổng lồ.",
+              "特殊效果": {
+                "1": "Khi bước vào trạng thái cuồng nộ, miễn trừ dẻo dai của bản thân +1; nếu đang có [Võ nghệ], tiêu hao 1 tầng để phóng thích thêm nước nghiền nát gây sát thương thuộc tính nước, nước nghiền nát gây sát thương cuối cùng +10%.",
+                "2": "Khi bước vào trạng thái cuồng nộ, miễn trừ dẻo dai của bản thân +2; nếu đang có [Võ nghệ], tiêu hao 1 tầng để phóng thích thêm nước nghiền nát gây sát thương thuộc tính nước, nước nghiền nát gây sát thương cuối cùng +20%.",
+                "3": "Khi bước vào trạng thái cuồng nộ, miễn trừ dẻo dai của bản thân +3; nếu đang có [Võ nghệ], tiêu hao 1 tầng để phóng thích thêm nước nghiền nát gây sát thương thuộc tính nước, nước nghiền nát gây sát thương cuối cùng +30%.",
+                "4": "Khi bước vào trạng thái cuồng nộ, miễn trừ dẻo dai của bản thân +4; nếu đang có [Võ nghệ], tiêu hao 1 tầng để phóng thích thêm nước nghiền nát gây sát thương thuộc tính nước, nước nghiền nát gây sát thương cuối cùng +40%.",
+                "5": "Khi bước vào trạng thái cuồng nộ, miễn trừ dẻo dai của bản thân +5; nếu đang có [Võ nghệ], tiêu hao 1 tầng để phóng thích thêm nước nghiền nát gây sát thương thuộc tính nước, nước nghiền nát gây sát thương cuối cùng +50%.",
+                "6": "Khi bước vào trạng thái cuồng nộ, miễn trừ dẻo dai của bản thân +6; nếu đang có [Võ nghệ], tiêu hao 1 tầng để phóng thích thêm nước nghiền nát gây sát thương thuộc tính nước, nước nghiền nát gây sát thương cuối cùng +60%.",
+                "7": "Khi bước vào trạng thái cuồng nộ, miễn trừ dẻo dai của bản thân +7; nếu đang có [Võ nghệ], tiêu hao 1 tầng để phóng thích thêm nước nghiền nát gây sát thương thuộc tính nước, nước nghiền nát gây sát thương cuối cùng +70%.",
+                "8": "Khi bước vào trạng thái cuồng nộ, miễn trừ dẻo dai của bản thân +8; nếu đang có [Võ nghệ], tiêu hao 1 tầng để phóng thích thêm nước nghiền nát gây sát thương thuộc tính nước, nước nghiền nát gây sát thương cuối cùng +80%.",
+                "9": "Khi bước vào trạng thái cuồng nộ, miễn trừ dẻo dai của bản thân +9; nếu đang có [Võ nghệ], tiêu hao 1 tầng để phóng thích thêm nước nghiền nát gây sát thương thuộc tính nước, nước nghiền nát gây sát thương cuối cùng +90%.",
+                "10": "Khi bước vào trạng thái cuồng nộ, miễn trừ dẻo dai của bản thân +10; nếu đang có [Võ nghệ], tiêu hao 1 tầng để phóng thích thêm nước nghiền nát gây sát thương thuộc tính nước, nước nghiền nát gây sát thương cuối cùng +100%."
+              },
+              "阶位": "Nâng cao"
+            }
+          },
+          "必杀": {
+            "Cung Điên Jubjub - Tiếng gọi của Chim Điên": {
+              "名称": "Cung Điên Jubjub - Tiếng gọi của Chim Điên",
+              "类型": "Chủ động",
+              "描述": "Bước vào trạng thái [Phát cuồng] 2 hiệp. Trong thời gian này, sát thương gây ra tăng gấp đôi nhưng mỗi lần hành động mất HP bằng 20% sinh mệnh tối đa; liên tục bắn vào kẻ địch và khi bạo kích sẽ được bắn thêm.",
+              "特殊效果": {
+                "1": "Trong thời gian phát cuồng, mọi kiểm định miễn trừ cho bắn xa +1; nếu đang có [Võ nghệ], tiêu hao 1 tầng để cố định giảm ngưỡng bạo kích của đòn tấn công này đi 1.",
+                "2": "Trong thời gian phát cuồng, mọi kiểm định miễn trừ cho bắn xa +2; nếu đang có [Võ nghệ], tiêu hao 1 tầng để cố định giảm ngưỡng bạo kích của đòn tấn công này đi 1.",
+                "3": "Trong thời gian phát cuồng, mọi kiểm định miễn trừ cho bắn xa +3; nếu đang có [Võ nghệ], tiêu hao 1 tầng để cố định giảm ngưỡng bạo kích của đòn tấn công này đi 1.",
+                "4": "Trong thời gian phát cuồng, mọi kiểm định miễn trừ cho bắn xa +4; nếu đang có [Võ nghệ], tiêu hao 1 tầng để cố định giảm ngưỡng bạo kích của đòn tấn công này đi 1.",
+                "5": "Trong thời gian phát cuồng, mọi kiểm định miễn trừ cho bắn xa +5; nếu đang có [Võ nghệ], tiêu hao 1 tầng để cố định giảm ngưỡng bạo kích của đòn tấn công này đi 1.",
+                "6": "Trong thời gian phát cuồng, mọi kiểm định miễn trừ cho bắn xa +6; nếu đang có [Võ nghệ], tiêu hao 1 tầng để cố định giảm ngưỡng bạo kích của đòn tấn công này đi 1.",
+                "7": "Trong thời gian phát cuồng, mọi kiểm định miễn trừ cho bắn xa +7; nếu đang có [Võ nghệ], tiêu hao 1 tầng để cố định giảm ngưỡng bạo kích của đòn tấn công này đi 1."
+              },
+              "阶位": "Tất sát"
+            },
+            "Bạo kiếm Bandersnatch - Vảy ngược cuồng loạn": {
+              "名称": "Bạo kiếm Bandersnatch - Vảy ngược cuồng loạn",
+              "类型": "Chủ động",
+              "描述": "Bước vào trạng thái tụ lực, khiến sát thương bản thân phải chịu giảm 50% và hạ thứ tự hành động xuống cuối cùng. Khi giải phóng tụ lực, phát động đòn hủy diệt; số tầng tụ lực có thể chồng nhiều lần.",
+              "特殊效果": {
+                "1": "Trong thời gian tụ lực, nhận miễn trừ đối kháng toàn thuộc tính +1; nếu đang có [Võ nghệ], tiêu hao 1 tầng để khi kết toán đòn tấn công này, mỗi tầng tụ lực khiến sát thương tăng 120%.",
+                "2": "Trong thời gian tụ lực, nhận miễn trừ đối kháng toàn thuộc tính +2; nếu đang có [Võ nghệ], tiêu hao 1 tầng để khi kết toán đòn tấn công này, mỗi tầng tụ lực khiến sát thương tăng 120%.",
+                "3": "Trong thời gian tụ lực, nhận miễn trừ đối kháng toàn thuộc tính +3; nếu đang có [Võ nghệ], tiêu hao 1 tầng để khi kết toán đòn tấn công này, mỗi tầng tụ lực khiến sát thương tăng 120%.",
+                "4": "Trong thời gian tụ lực, nhận miễn trừ đối kháng toàn thuộc tính +4; nếu đang có [Võ nghệ], tiêu hao 1 tầng để khi kết toán đòn tấn công này, mỗi tầng tụ lực khiến sát thương tăng 120%.",
+                "5": "Trong thời gian tụ lực, nhận miễn trừ đối kháng toàn thuộc tính +5; nếu đang có [Võ nghệ], tiêu hao 1 tầng để khi kết toán đòn tấn công này, mỗi tầng tụ lực khiến sát thương tăng 120%.",
+                "6": "Trong thời gian tụ lực, nhận miễn trừ đối kháng toàn thuộc tính +6; nếu đang có [Võ nghệ], tiêu hao 1 tầng để khi kết toán đòn tấn công này, mỗi tầng tụ lực khiến sát thương tăng 120%.",
+                "7": "Trong thời gian tụ lực, nhận miễn trừ đối kháng toàn thuộc tính +7; nếu đang có [Võ nghệ], tiêu hao 1 tầng để khi kết toán đòn tấn công này, mỗi tầng tụ lực khiến sát thương tăng 120%."
+              },
+              "阶位": "Tất sát"
+            },
+            "Kiếm Dũng Vorpal - Tam đoạn trảm tối thượng": {
+              "名称": "Kiếm Dũng Vorpal - Tam đoạn trảm tối thượng",
+              "类型": "Chủ động",
+              "描述": "Thi triển kỹ nghệ diệt rồng của vị anh hùng thuở trước, giáng xuống kẻ địch những nhát chém liên hoàn như phán quyết.",
+              "特殊效果": {
+                "1": "Trong thời gian phát động nhát chém, giáp cơ bản AC tạm thời tăng 1; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này đặc công với kẻ địch loại [Rồng], gây sát thương cuối cùng +10% với loại rồng.",
+                "2": "Trong thời gian phát động nhát chém, giáp cơ bản AC tạm thời tăng 2; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này đặc công với kẻ địch loại [Rồng], gây sát thương cuối cùng +20% với loại rồng.",
+                "3": "Trong thời gian phát động nhát chém, giáp cơ bản AC tạm thời tăng 3; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này đặc công với kẻ địch loại [Rồng], gây sát thương cuối cùng +30% với loại rồng.",
+                "4": "Trong thời gian phát động nhát chém, giáp cơ bản AC tạm thời tăng 4; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này đặc công với kẻ địch loại [Rồng], gây sát thương cuối cùng +40% với loại rồng.",
+                "5": "Trong thời gian phát động nhát chém, giáp cơ bản AC tạm thời tăng 5; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này đặc công với kẻ địch loại [Rồng], gây sát thương cuối cùng +50% với loại rồng.",
+                "6": "Trong thời gian phát động nhát chém, giáp cơ bản AC tạm thời tăng 6; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này đặc công với kẻ địch loại [Rồng], gây sát thương cuối cùng +60% với loại rồng.",
+                "7": "Trong thời gian phát động nhát chém, giáp cơ bản AC tạm thời tăng 7; nếu đang có [Võ nghệ], tiêu hao 1 tầng để đòn tấn công này đặc công với kẻ địch loại [Rồng], gây sát thương cuối cùng +70% với loại rồng."
+              },
+              "阶位": "Tất sát"
+            },
+            "Liềm Mục Jabberwock - Màn đêm oán hận": {
+              "名称": "Liềm Mục Jabberwock - Màn đêm oán hận",
+              "类型": "Chủ động",
+              "描述": "Dùng lưỡi liềm thu hoạch kẻ địch, gây sát thương thuộc tính bóng tối trên phạm vi lớn và cưỡng ép hút lấy tinh túy sinh mệnh của chúng.",
+              "特殊效果": {
+                "1": "Khi đòn tấn công này trúng, gây thêm sát thương chân thực bằng 5% sinh mệnh tối đa của kẻ địch, đồng thời sau khi trúng đòn bản thân tạm thời nhận 10 điểm sinh mệnh tạm thời; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch chịu tấn công bị giảm 20% lực tấn công trong 1 hiệp kế tiếp.",
+                "2": "Khi đòn tấn công này trúng, gây thêm sát thương chân thực bằng 5% sinh mệnh tối đa của kẻ địch, đồng thời sau khi trúng đòn bản thân tạm thời nhận 20 điểm sinh mệnh tạm thời; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch chịu tấn công bị giảm 20% lực tấn công trong 1 hiệp kế tiếp.",
+                "3": "Khi đòn tấn công này trúng, gây thêm sát thương chân thực bằng 5% sinh mệnh tối đa của kẻ địch, đồng thời sau khi trúng đòn bản thân tạm thời nhận 30 điểm sinh mệnh tạm thời; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch chịu tấn công bị giảm 20% lực tấn công trong 1 hiệp kế tiếp.",
+                "4": "Khi đòn tấn công này trúng, gây thêm sát thương chân thực bằng 5% sinh mệnh tối đa của kẻ địch, đồng thời sau khi trúng đòn bản thân tạm thời nhận 40 điểm sinh mệnh tạm thời; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch chịu tấn công bị giảm 20% lực tấn công trong 1 hiệp kế tiếp.",
+                "5": "Khi đòn tấn công này trúng, gây thêm sát thương chân thực bằng 5% sinh mệnh tối đa của kẻ địch, đồng thời sau khi trúng đòn bản thân tạm thời nhận 50 điểm sinh mệnh tạm thời; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch chịu tấn công bị giảm 20% lực tấn công trong 1 hiệp kế tiếp.",
+                "6": "Khi đòn tấn công này trúng, gây thêm sát thương chân thực bằng 5% sinh mệnh tối đa của kẻ địch, đồng thời sau khi trúng đòn bản thân tạm thời nhận 60 điểm sinh mệnh tạm thời; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch chịu tấn công bị giảm 20% lực tấn công trong 1 hiệp kế tiếp.",
+                "7": "Khi đòn tấn công này trúng, gây thêm sát thương chân thực bằng 5% sinh mệnh tối đa của kẻ địch, đồng thời sau khi trúng đòn bản thân tạm thời nhận 70 điểm sinh mệnh tạm thời; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch chịu tấn công bị giảm 20% lực tấn công trong 1 hiệp kế tiếp."
+              },
+              "阶位": "Tất sát"
+            }
+          },
+          "奥义": {
+            "Nhát chém đen": {
+              "名称": "Nhát chém đen",
+              "类型": "Chủ động",
+              "描述": "Ngưng tụ lưỡi đao từ Linh Hồn Đen của bản thân để thực hiện ba nhát chém chắc chắn trúng liên tiếp. Bản thân kỹ năng này không thể bạo kích nhưng có năng lực xuyên thấu cực mạnh.",
+              "特殊效果": {
+                "1": "Mỗi lần nhát chém chắc chắn trúng đánh trúng, nhận tăng sát thương cuối cùng +10%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để cưỡng chế chuyển toàn bộ loại sát thương của đòn tấn công này thành sát thương chân thực.",
+                "2": "Mỗi lần nhát chém chắc chắn trúng đánh trúng, nhận tăng sát thương cuối cùng +20%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để cưỡng chế chuyển toàn bộ loại sát thương của đòn tấn công này thành sát thương chân thực.",
+                "3": "Mỗi lần nhát chém chắc chắn trúng đánh trúng, nhận tăng sát thương cuối cùng +30%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để cưỡng chế chuyển toàn bộ loại sát thương của đòn tấn công này thành sát thương chân thực.",
+                "4": "Mỗi lần nhát chém chắc chắn trúng đánh trúng, nhận tăng sát thương cuối cùng +40%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để cưỡng chế chuyển toàn bộ loại sát thương của đòn tấn công này thành sát thương chân thực.",
+                "5": "Mỗi lần nhát chém chắc chắn trúng đánh trúng, nhận tăng sát thương cuối cùng +50%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để cưỡng chế chuyển toàn bộ loại sát thương của đòn tấn công này thành sát thương chân thực."
+              },
+              "阶位": "Áo nghĩa"
+            },
+            "Sóng đen": {
+              "名称": "Sóng đen",
+              "类型": "Chủ động",
+              "描述": "Tỏa ra làn sóng bóng tối khổng lồ từ Linh Hồn Đen của bản thân để tấn công kẻ địch xung quanh; không thể bạo kích.",
+              "特殊效果": {
+                "1": "Bán kính khuếch tán của sóng bóng tối tăng thêm 5 yard; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch bị đánh trúng nhận trạng thái [Yếu đuối] 2 hiệp, trong thời gian đó mọi sát thương phải chịu cưỡng chế tăng 20%.",
+                "2": "Bán kính khuếch tán của sóng bóng tối tăng thêm 10 yard; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch bị đánh trúng nhận trạng thái [Yếu đuối] 2 hiệp, trong thời gian đó mọi sát thương phải chịu cưỡng chế tăng 20%.",
+                "3": "Bán kính khuếch tán của sóng bóng tối tăng thêm 15 yard; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch bị đánh trúng nhận trạng thái [Yếu đuối] 2 hiệp, trong thời gian đó mọi sát thương phải chịu cưỡng chế tăng 20%.",
+                "4": "Bán kính khuếch tán của sóng bóng tối tăng thêm 20 yard; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch bị đánh trúng nhận trạng thái [Yếu đuối] 2 hiệp, trong thời gian đó mọi sát thương phải chịu cưỡng chế tăng 20%.",
+                "5": "Bán kính khuếch tán của sóng bóng tối tăng thêm 25 yard; nếu đang có [Võ nghệ], tiêu hao 1 tầng để kẻ địch bị đánh trúng nhận trạng thái [Yếu đuối] 2 hiệp, trong thời gian đó mọi sát thương phải chịu cưỡng chế tăng 20%."
+              },
+              "阶位": "Áo nghĩa"
+            },
+            "Lửa nổ hỗn độn": {
+              "名称": "Lửa nổ hỗn độn",
+              "类型": "Chủ động",
+              "描述": "Kích phát một vụ nổ dữ dội trên phạm vi cực lớn, gây sát thương thuộc tính lửa. Ánh lửa sẽ nuốt chửng những thân thể vốn đã đang bốc cháy.",
+              "特殊效果": {
+                "1": "Với kẻ địch đang ở trạng thái [Bốc cháy], gây thêm sát thương cuối cùng +10%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để sau phán định nổ, kỹ năng này gây thêm sát thương thuộc tính lửa bằng 25% sinh mệnh tối đa của kẻ địch.",
+                "2": "Với kẻ địch đang ở trạng thái [Bốc cháy], gây thêm sát thương cuối cùng +20%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để sau phán định nổ, kỹ năng này gây thêm sát thương thuộc tính lửa bằng 25% sinh mệnh tối đa của kẻ địch.",
+                "3": "Với kẻ địch đang ở trạng thái [Bốc cháy], gây thêm sát thương cuối cùng +30%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để sau phán định nổ, kỹ năng này gây thêm sát thương thuộc tính lửa bằng 25% sinh mệnh tối đa của kẻ địch.",
+                "4": "Với kẻ địch đang ở trạng thái [Bốc cháy], gây thêm sát thương cuối cùng +40%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để sau phán định nổ, kỹ năng này gây thêm sát thương thuộc tính lửa bằng 25% sinh mệnh tối đa của kẻ địch.",
+                "5": "Với kẻ địch đang ở trạng thái [Bốc cháy], gây thêm sát thương cuối cùng +50%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để sau phán định nổ, kỹ năng này gây thêm sát thương thuộc tính lửa bằng 25% sinh mệnh tối đa của kẻ địch."
+              },
+              "阶位": "Áo nghĩa"
+            },
+            "Song kiếm Thần Thiên Sứ - Kiếm khí vô tận": {
+              "名称": "Song kiếm Thần Thiên Sứ - Kiếm khí vô tận",
+              "类型": "Chủ động",
+              "描述": "Thực hiện một nhát chém thuộc tính ánh sáng với tần suất cực cao lên kẻ địch, nhận kiếm khí liên miên bất tuyệt để liên trảm nhiều lần.",
+              "特殊效果": {
+                "1": "Khi phát động, kiểm định trúng đòn ban đầu +2; nếu trúng sẽ nhận 1 tầng [Kiếm khí]. Mỗi tầng khiến số lần chém của Song kiếm Thần Thiên Sứ +1 và sát thương cuối cùng do nhát chém gây ra +10%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để ngay khi ra tay nhận thêm 1 tầng [Kiếm khí].",
+                "2": "Khi phát động, kiểm định trúng đòn ban đầu +4; nếu trúng sẽ nhận 1 tầng [Kiếm khí]. Mỗi tầng khiến số lần chém của Song kiếm Thần Thiên Sứ +1 và sát thương cuối cùng do nhát chém gây ra +10%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để ngay khi ra tay nhận thêm 1 tầng [Kiếm khí].",
+                "3": "Khi phát động, kiểm định trúng đòn ban đầu +6; nếu trúng sẽ nhận 1 tầng [Kiếm khí]. Mỗi tầng khiến số lần chém của Song kiếm Thần Thiên Sứ +1 và sát thương cuối cùng do nhát chém gây ra +10%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để ngay khi ra tay nhận thêm 1 tầng [Kiếm khí].",
+                "4": "Khi phát động, kiểm định trúng đòn ban đầu +8; nếu trúng sẽ nhận 1 tầng [Kiếm khí]. Mỗi tầng khiến số lần chém của Song kiếm Thần Thiên Sứ +1 và sát thương cuối cùng do nhát chém gây ra +10%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để ngay khi ra tay nhận thêm 1 tầng [Kiếm khí].",
+                "5": "Khi phát động, kiểm định trúng đòn ban đầu +10; nếu trúng sẽ nhận 1 tầng [Kiếm khí]. Mỗi tầng khiến số lần chém của Song kiếm Thần Thiên Sứ +1 và sát thương cuối cùng do nhát chém gây ra +10%; nếu đang có [Võ nghệ], tiêu hao 1 tầng để ngay khi ra tay nhận thêm 1 tầng [Kiếm khí]."
+              },
+              "阶位": "Áo nghĩa"
+            }
+          },
+          "觉醒一": {
+            "Khúc trấn hồn": {
+              "名称": "Khúc trấn hồn",
+              "类型": "Đặc biệt",
+              "阶位": "Thức tỉnh một",
+              "描述": "Cất lên khúc trấn hồn, tạm thời rời xa cái chết.",
+              "特殊效果": {
+                "1": "Bước vào trạng thái [Bất tử] 5 hiệp. Trong thời gian này không thể chết (sinh mệnh không thể hạ xuống dưới 0); khi trạng thái kết thúc hoặc khi chịu sát thương chí tử, tự động hồi phục 10% sinh mệnh tối đa. Kỹ năng này mỗi trận chiến chỉ có thể dùng 1 lần.",
+                "2": "Bước vào trạng thái [Bất tử] 5 hiệp. Trong thời gian này không thể chết (sinh mệnh không thể hạ xuống dưới 0); khi trạng thái kết thúc hoặc khi chịu sát thương chí tử, tự động hồi phục 15% sinh mệnh tối đa. Kỹ năng này mỗi trận chiến chỉ có thể dùng 1 lần.",
+                "3": "Bước vào trạng thái [Bất tử] 5 hiệp. Trong thời gian này không thể chết (sinh mệnh không thể hạ xuống dưới 0); khi trạng thái kết thúc hoặc khi chịu sát thương chí tử, tự động hồi phục 20% sinh mệnh tối đa. Kỹ năng này mỗi trận chiến chỉ có thể dùng 1 lần."
+              }
+            }
+          },
+          "觉醒二": {
+            "Sân khấu XX - Hy vọng nhỏ bé dành cho em": {
+              "名称": "Sân khấu XX - Hy vọng nhỏ bé dành cho em",
+              "类型": "Đặc biệt",
+              "阶位": "Thức tỉnh hai",
+              "描述": "Vậy nên xin hãy bước chân ra và chạy đi, đừng dừng lại, đừng quay đầu, hãy mang theo cả tình yêu của cô gái ấy.",
+              "特殊效果": {
+                "1": "Khi chiến đấu bắt đầu, tự động có hiệu lực như hào quang bị động: kiểm định toàn bộ thuộc tính của bản thân +5, miễn dịch mọi hiệu ứng tiêu cực, trong chiến đấu mỗi hiệp số lần hành động +1, đồng thời mọi hành động của bản thân nhận tăng sát thương cuối cùng +10%.",
+                "2": "Khi chiến đấu bắt đầu, tự động có hiệu lực như hào quang bị động: kiểm định toàn bộ thuộc tính của bản thân +5, miễn dịch mọi hiệu ứng tiêu cực, trong chiến đấu mỗi hiệp số lần hành động +1, đồng thời mọi hành động của bản thân nhận tăng sát thương cuối cùng +20%."
+              }
+            }
+          },
+          "觉醒三": {
+            "Quyền năng của Đấng Sáng Tạo": {
+              "名称": "Quyền năng của Đấng Sáng Tạo",
+              "类型": "Đặc biệt",
+              "阶位": "Thức tỉnh ba",
+              "描述": "Kết quả đến từ sự kết hợp giữa thiết bị sân khấu hắc ám và linh hồn nhà văn, sở hữu năng lực thay đổi mọi thứ.\n\"Tôi là Grimm. Kết cục như thế này, tôi tuyệt đối không chấp nhận.\"",
+              "特殊效果": {
+                "1": "Khi dùng trong chiến đấu, người chơi có thể chỉ định một quy tắc, hiệu ứng địa hình hoặc một thuộc tính phòng ngự của kẻ địch trong cảnh chiến đấu hiện tại để tiến hành một lần sửa đổi (do DM phán định, ví dụ xóa kháng tính hoặc tái tạo địa hình), mỗi trận chiến giới hạn 1 lần. Khi dùng ngoài chiến đấu, mỗi ngày 1 lần có thể tạo vật phẩm từ hư không hoặc hồi sinh người đã chết. Sau khi thu được toàn bộ quân cờ chủng tộc, mọi giới hạn của kỹ năng này được giải trừ hoàn toàn."
+              }
+            }
+          }
+        }
+      },
+      "skillFlavorInput": "",
+      "teammates": [],
+      "customTeammate": null,
+      "selectedTraits": [
+        "Học rộng nhớ dai"
+      ],
+      "customTraits": [
+        {
+          "name": "Mảnh vỡ luân hồi",
+          "effect": "Trong luân hồi, bạn đã rèn luyện võ nghệ tới cảnh giới đăng phong tạo cực. Khi tấn công, trị phạt giảm do liên kích bị giảm một nửa; đồng thời nếu trong chiến đấu bản thân không có [Võ nghệ], sau khi tiêu hao tài nguyên hành động trong chiến đấu sẽ nhận 1 tầng [Võ nghệ], tối đa 5 tầng."
+        }
+      ],
+      "customExpertise": [],
+      "customIdentity": {
+        "enabled": true,
+        "name": "Khởi đầu mới",
+        "desc": "Để tìm Alice, Grimm nhận lời mời đến khu vườn hộp của Tetto, và ánh mắt của các Kẻ Thống Trị cũng theo đó mà đặt lên nơi này....",
+        "cardExpanded": true,
+        "tierIndex": 3
+      },
+      "starterShopSelection": [],
+      "selectedWorldview": "corridor",
+      "selectedOpening": "traverse",
+      "customOpeningText": "",
+      "selectedDifficulty": "easy",
+      "customRace": {
+        "enabled": true,
+        "name": "Người bất tử",
+        "trait1": {
+          "name": "''Kiệt tác tối cao''",
+          "detail": "Bạn sở hữu tiềm năng trưởng thành vượt xa tưởng tượng của người thường, kinh nghiệm nhận được +50%.",
+          "negative": false
+        },
+        "trait2": {
+          "name": "Linh hồn đen",
+          "detail": "Mỗi ngày, lần đầu chết trong chiến đấu, bạn hồi phục 30% sinh mệnh tối đa và hồi sinh.\nKhi nhìn thấy một cô gái thỏa mãn hai trong ba yếu tố [tóc vàng], [thiếu nữ đáng yêu], [mang tên Alice], bạn bắt buộc phải tiến hành kiểm định Trí lực. Nếu thất bại, bạn sẽ rơi vào trạng thái Linh Hồn Đen bạo tẩu và ngẫu nhiên bị cưỡng chế thực hiện một trong ba hành động [xâm phạm], [sát hại], [đến thăm Alice]. Đặc tính này không thể bị đảo ngược bằng bất kỳ hình thức nào ngoài [Quyền năng của Đấng Sáng Tạo].",
+          "negative": true
+        }
+      }
+    }
+  }
+}

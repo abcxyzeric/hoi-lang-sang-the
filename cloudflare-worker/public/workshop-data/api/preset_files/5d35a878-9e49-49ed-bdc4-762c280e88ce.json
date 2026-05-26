@@ -1,0 +1,750 @@
+{
+  "exportedAt": "2026-03-19T19:12:15.112Z",
+  "version": "1.0",
+  "preset": {
+    "id": "1773947529616",
+    "name": "Rimuru",
+    "timestamp": 1773947529616,
+    "createdAt": 1773947529616,
+    "updatedAt": 1773947529616,
+    "data": {
+      "name": "Rimuru Tempest",
+      "gender": "Không",
+      "age": 18,
+      "race": "__custom__",
+      "identity": "__custom__",
+      "avatar": "",
+      "attributes": {
+        "strength": 12,
+        "dexterity": 12,
+        "constitution": 12,
+        "intelligence": 15,
+        "wisdom": 11,
+        "charisma": 11
+      },
+      "backstory": "",
+      "selectedLevelMode": "native",
+      "selectedCustomLevel": null,
+      "selectedSpawnPoint": "Tầng dưới Thành Cảng Vách Hoàn Uyên · bờ biển ngoại vi",
+      "class": "Ma Vương · Rimuru",
+      "selectedBaseClass": "Nghề tùy chỉnh",
+      "customClassName": "Ma Vương · Rimuru",
+      "customClassStyle": "Rimuru, Ma Vương, kỹ năng tối thượng",
+      "customClassWeapon": "Long Ma Đao / vũ khí mô phỏng / vũ khí khái niệm",
+      "customClassCombatStyle": "Hỗn hợp",
+      "skillTree": {
+        "基础": [
+          {
+            "名称": "Biến hình cơ thể",
+            "类型": "Đặc biệt",
+            "描述": "Tận dụng đặc tính của slime để tự do thay đổi hình dạng cơ thể, né tránh sát thương hoặc xuyên qua địa hình.",
+            "特殊效果": {
+              "1": "Chủ động mở. Trong hiệp này AC+2, đồng thời có kháng tính lợi thế với sát thương cùn.",
+              "2": "Chủ động mở. Trong hiệp này AC+2, đồng thời có kháng tính lợi thế với sát thương cùn.",
+              "3": "Chủ động mở. Trong hiệp này AC+2, đồng thời có kháng tính lợi thế với sát thương cùn/xuyên.",
+              "4": "Chủ động mở. Trong hiệp này AC+3, đồng thời có kháng tính lợi thế với sát thương cùn/xuyên.",
+              "5": "Chủ động mở. Trong hiệp này AC+3, đồng thời có kháng tính lợi thế với sát thương cùn/xuyên.",
+              "6": "Chủ động mở. Trong hiệp này AC+3, đồng thời có kháng tính lợi thế với sát thương vật lý.",
+              "7": "Chủ động mở. Trong hiệp này AC+4, đồng thời có kháng tính lợi thế với sát thương vật lý; có thể xuyên qua địa hình hẹp.",
+              "8": "Chủ động mở. Trong hiệp này AC+4, đồng thời có kháng tính lợi thế với sát thương vật lý; có thể xuyên qua địa hình hẹp.",
+              "9": "Chủ động mở. Trong hiệp này AC+4, đồng thời có kháng tính lợi thế với sát thương vật lý; có thể xuyên qua địa hình hẹp.",
+              "10": "Chủ động mở. Trong hiệp này AC+5, đồng thời có kháng tính lợi thế với sát thương vật lý; có thể xuyên qua địa hình hẹp.",
+              "11": "Chủ động mở. Trong hiệp này AC+5, miễn dịch trọng kích; có thể xuyên qua địa hình hẹp.",
+              "12": "Chủ động mở. Trong hiệp này AC+5, miễn dịch trọng kích; có thể xuyên qua địa hình hẹp.",
+              "13": "Chủ động mở. Trong hiệp này AC+6, miễn dịch trọng kích; có thể xuyên qua địa hình hẹp.",
+              "14": "Chủ động mở. Trong hiệp này AC+6, miễn dịch trọng kích, miễn dịch bắt giữ; có thể xuyên qua địa hình hẹp.",
+              "15": "Chủ động mở. Trong hiệp này AC+7, miễn dịch trọng kích, miễn dịch bắt giữ, sát thương vật lý phải chịu giảm một nửa."
+            },
+            "阶位": "Cơ bản"
+          },
+          {
+            "名称": "Cảm nhận ma lực",
+            "类型": "Đặc biệt",
+            "描述": "Nhạy bén cảm nhận dòng chảy ma lực xung quanh. Đây là năng lực then chốt khi thăm dò và trinh sát.",
+            "特殊效果": {
+              "1": "Kiểm định Cảm nhận (Phát giác) +1, có thể cảm nhận phản ứng ma lực trong phạm vi 30 feet ngoài tầm nhìn.",
+              "2": "Kiểm định Cảm nhận (Phát giác) +2, có thể cảm nhận phản ứng ma lực trong phạm vi 30 feet ngoài tầm nhìn.",
+              "3": "Kiểm định Cảm nhận (Phát giác) +2, có thể cảm nhận phản ứng ma lực trong phạm vi 40 feet ngoài tầm nhìn.",
+              "4": "Kiểm định Cảm nhận (Phát giác) +2, có thể cảm nhận phản ứng ma lực trong phạm vi 50 feet ngoài tầm nhìn.",
+              "5": "Kiểm định Cảm nhận (Phát giác) +3, có thể cảm nhận phản ứng ma lực trong phạm vi 50 feet ngoài tầm nhìn; thậm chí cảm nhận được vị trí mơ hồ của đơn vị tàng hình.",
+              "6": "Kiểm định Cảm nhận (Phát giác) +3, có thể cảm nhận phản ứng ma lực trong phạm vi 60 feet ngoài tầm nhìn; thậm chí cảm nhận được vị trí mơ hồ của đơn vị tàng hình.",
+              "7": "Kiểm định Cảm nhận (Phát giác) +3, có thể cảm nhận phản ứng ma lực trong phạm vi 70 feet ngoài tầm nhìn; thậm chí cảm nhận được vị trí mơ hồ của đơn vị tàng hình.",
+              "8": "Kiểm định Cảm nhận (Phát giác) +4, có thể cảm nhận phản ứng ma lực trong phạm vi 70 feet ngoài tầm nhìn; thậm chí cảm nhận được vị trí mơ hồ của đơn vị tàng hình.",
+              "9": "Kiểm định Cảm nhận (Phát giác) +4, có thể cảm nhận phản ứng ma lực trong phạm vi 80 feet ngoài tầm nhìn; nhìn thấu vị trí cụ thể của đơn vị tàng hình.",
+              "10": "Kiểm định Cảm nhận (Phát giác) +5, có thể cảm nhận phản ứng ma lực trong phạm vi 80 feet ngoài tầm nhìn; nhìn thấu vị trí cụ thể của đơn vị tàng hình.",
+              "11": "Kiểm định Cảm nhận (Phát giác) +5, có thể cảm nhận phản ứng ma lực trong phạm vi 90 feet ngoài tầm nhìn; nhìn thấu vị trí cụ thể của đơn vị tàng hình.",
+              "12": "Kiểm định Cảm nhận (Phát giác) +6, có thể cảm nhận phản ứng ma lực trong phạm vi 90 feet ngoài tầm nhìn; nhìn thấu vị trí cụ thể của đơn vị tàng hình.",
+              "13": "Kiểm định Cảm nhận (Phát giác) +6, có thể cảm nhận phản ứng ma lực trong phạm vi 100 feet ngoài tầm nhìn; nhìn thấu vị trí cụ thể của đơn vị tàng hình.",
+              "14": "Kiểm định Cảm nhận (Phát giác) +7, có thể cảm nhận phản ứng ma lực trong phạm vi 100 feet ngoài tầm nhìn; nhìn thấu vị trí cụ thể của đơn vị tàng hình.",
+              "15": "Kiểm định Cảm nhận (Phát giác) +8, cảm nhận 360 độ toàn phương vị, miễn dịch đột kích."
+            },
+            "阶位": "Cơ bản"
+          },
+          {
+            "名称": "Tự tái sinh",
+            "类型": "Đặc biệt",
+            "描述": "Tiêu hao ma lực để tăng tốc phân bào và tu sửa vết thương. Đây là năng lực cốt lõi để duy trì chiến đấu.",
+            "特殊效果": {
+              "1": "Mỗi trận 1 lần, dùng hành động bổ sung để hồi phục sinh mệnh bằng 1d6 + hiệu chỉnh Thể chất.",
+              "2": "Mỗi trận 1 lần, dùng hành động bổ sung để hồi phục sinh mệnh bằng 1d8 + hiệu chỉnh Thể chất.",
+              "3": "Mỗi trận 2 lần, dùng hành động bổ sung để hồi phục sinh mệnh bằng 1d8 + hiệu chỉnh Thể chất.",
+              "4": "Mỗi trận 2 lần, dùng hành động bổ sung để hồi phục sinh mệnh bằng 1d10 + hiệu chỉnh Thể chất.",
+              "5": "Mỗi trận 2 lần, dùng hành động bổ sung để hồi phục sinh mệnh bằng 1d10 + hiệu chỉnh Thể chất; xóa một trạng thái chảy máu.",
+              "6": "Mỗi trận 2 lần, dùng hành động bổ sung để hồi phục sinh mệnh bằng 2d6 + hiệu chỉnh Thể chất; xóa một trạng thái chảy máu.",
+              "7": "Mỗi trận 3 lần, dùng hành động bổ sung để hồi phục sinh mệnh bằng 2d6 + hiệu chỉnh Thể chất; xóa một trạng thái chảy máu.",
+              "8": "Mỗi trận 3 lần, dùng hành động bổ sung để hồi phục sinh mệnh bằng 2d8 + hiệu chỉnh Thể chất; xóa một trạng thái chảy máu/trúng độc.",
+              "9": "Mỗi trận 3 lần, dùng hành động bổ sung để hồi phục sinh mệnh bằng 2d8 + hiệu chỉnh Thể chất; xóa một trạng thái chảy máu/trúng độc.",
+              "10": "Mỗi trận 3 lần, dùng hành động bổ sung để hồi phục sinh mệnh bằng 3d8 + hiệu chỉnh Thể chất; xóa một trạng thái vật lý tiêu cực.",
+              "11": "Mỗi trận 4 lần, dùng hành động bổ sung để hồi phục sinh mệnh bằng 3d8 + hiệu chỉnh Thể chất; xóa một trạng thái vật lý tiêu cực.",
+              "12": "Mỗi trận 4 lần, dùng hành động bổ sung để hồi phục sinh mệnh bằng 3d10 + hiệu chỉnh Thể chất và hồi phục 5% sinh mệnh tối đa; xóa một trạng thái vật lý tiêu cực.",
+              "13": "Mỗi trận 4 lần, dùng hành động bổ sung để hồi phục sinh mệnh bằng 3d10 + hiệu chỉnh Thể chất và hồi phục 10% sinh mệnh tối đa; xóa hai trạng thái tiêu cực bất kỳ.",
+              "14": "Mỗi trận 5 lần, dùng hành động bổ sung để hồi phục sinh mệnh bằng 4d10 + hiệu chỉnh Thể chất và hồi phục 15% sinh mệnh tối đa; xóa hai trạng thái tiêu cực bất kỳ.",
+              "15": "Mỗi trận 5 lần, dùng hành động bổ sung để hồi phục sinh mệnh bằng 4d10 + hiệu chỉnh Thể chất và hồi phục 20% sinh mệnh tối đa. Xóa toàn bộ trạng thái tiêu cực."
+            },
+            "阶位": "Cơ bản"
+          },
+          {
+            "名称": "Hắc Lôi · Nhất Thiểm",
+            "类型": "Chủ động",
+            "描述": "Quấn hắc lôi quanh thân, hóa thành tia chớp đen lao tới. Dùng để mở đầu bằng xung phong và gây tê liệt.",
+            "特殊效果": {
+              "1": "Xung phong tới mục tiêu trong phạm vi 30 feet và tiến hành cận chiến. Sau khi trúng đòn, buộc mục tiêu miễn trừ Thể chất; nếu thất bại thì [Tê liệt] 1 hiệp.",
+              "2": "Xung phong tới mục tiêu trong phạm vi 30 feet và tiến hành cận chiến. Sau khi trúng đòn, buộc mục tiêu miễn trừ Thể chất; nếu thất bại thì [Tê liệt] 2 hiệp.",
+              "3": "Xung phong tới mục tiêu trong phạm vi 30 feet và tiến hành cận chiến, kiểm định sát thương +1. Sau khi trúng đòn, buộc mục tiêu miễn trừ Thể chất; nếu thất bại thì [Tê liệt] 2 hiệp.",
+              "4": "Xung phong tới mục tiêu trong phạm vi 30 feet và tiến hành cận chiến, kiểm định sát thương +1. Sau khi trúng đòn, buộc mục tiêu miễn trừ Thể chất; nếu thất bại thì [Tê liệt] 3 hiệp.",
+              "5": "Cự ly xung phong tăng lên 40 feet, kiểm định sát thương +2. Sau khi trúng đòn, buộc mục tiêu miễn trừ Thể chất; nếu thất bại thì [Tê liệt] 3 hiệp.",
+              "6": "Cự ly xung phong tăng lên 40 feet, kiểm định sát thương +2, sát thương kế tiếp nhận tăng thêm 5%. Sau khi trúng đòn, buộc mục tiêu miễn trừ Thể chất; nếu thất bại thì [Tê liệt] 3 hiệp.",
+              "7": "Cự ly xung phong tăng lên 40 feet, kiểm định sát thương +2, sát thương kế tiếp nhận tăng thêm 10%. Sau khi trúng đòn, buộc mục tiêu miễn trừ Thể chất; nếu thất bại thì [Tê liệt] 3 hiệp.",
+              "8": "Cự ly xung phong tăng lên 40 feet, kiểm định sát thương +2, sát thương kế tiếp nhận tăng thêm 15%. Sau khi trúng đòn, buộc mục tiêu miễn trừ Thể chất; nếu thất bại thì [Tê liệt] 3 hiệp.",
+              "9": "Cự ly xung phong tăng lên 40 feet, kiểm định sát thương +2, sát thương kế tiếp nhận tăng thêm 20%. Sau khi trúng đòn, buộc mục tiêu miễn trừ Thể chất; nếu thất bại thì [Tê liệt] 3 hiệp.",
+              "10": "Sau khi trúng đòn, gây 40% sát thương lan điện lên kẻ địch trong phạm vi 5 feet quanh mục tiêu; kiểm định sát thương +2, sát thương kế tiếp nhận tăng thêm 20%. Sau khi trúng đòn, buộc mục tiêu miễn trừ Thể chất; nếu thất bại thì [Tê liệt] 3 hiệp.",
+              "11": "Sau khi trúng đòn, gây 50% sát thương lan điện lên kẻ địch trong phạm vi 5 feet quanh mục tiêu; kiểm định sát thương +2, sát thương kế tiếp nhận tăng thêm 20%. Sau khi trúng đòn, buộc mục tiêu miễn trừ Thể chất; nếu thất bại thì [Tê liệt] 3 hiệp.",
+              "12": "Sau khi trúng đòn, gây 60% sát thương lan điện lên kẻ địch trong phạm vi 5 feet quanh mục tiêu; kiểm định sát thương +2, sát thương kế tiếp nhận tăng thêm 20%. Sau khi trúng đòn, buộc mục tiêu miễn trừ Thể chất; nếu thất bại thì [Tê liệt] 3 hiệp.",
+              "13": "Sau khi trúng đòn, gây 70% sát thương lan điện lên kẻ địch trong phạm vi 5 feet quanh mục tiêu; kiểm định sát thương +2, sát thương kế tiếp nhận tăng thêm 20%. Sau khi trúng đòn, buộc mục tiêu miễn trừ Thể chất; nếu thất bại thì [Tê liệt] 3 hiệp.",
+              "14": "Sau khi trúng đòn, gây 80% sát thương lan điện lên kẻ địch trong phạm vi 5 feet quanh mục tiêu; kiểm định sát thương +2, sát thương kế tiếp nhận tăng thêm 20%. Sau khi trúng đòn, buộc mục tiêu miễn trừ Thể chất; nếu thất bại thì [Tê liệt] 3 hiệp.",
+              "15": "Sau khi trúng đòn, gây 100% sát thương lan điện lên kẻ địch trong phạm vi 5 feet quanh mục tiêu; kiểm định sát thương +2, sát thương kế tiếp nhận tăng thêm 20%. Sau khi trúng đòn, buộc mục tiêu miễn trừ Thể chất; nếu thất bại thì [Tê liệt] 3 hiệp."
+            },
+            "阶位": "Cơ bản"
+          }
+        ],
+        "转职": [
+          {
+            "名称": "Gia tốc tư duy",
+            "类型": "Đặc biệt",
+            "描述": "Nâng tốc độ tư duy lên gấp trăm lần, như thể thời gian chậm lại. Dùng để ứng phó với các đòn tấn công tốc độ cực cao.",
+            "特殊效果": {
+              "1": "Chủ động mở. Trong hiệp này, miễn trừ Nhanh nhẹn có lợi thế, đồng thời phản ứng tăng thêm 1 lần.",
+              "2": "Chủ động mở. Trong hiệp này, miễn trừ Nhanh nhẹn có lợi thế, đồng thời phản ứng tăng thêm 1 lần; kiểm định Trí lực +1.",
+              "3": "Chủ động mở. Trong hiệp này, miễn trừ Nhanh nhẹn có lợi thế, đồng thời phản ứng tăng thêm 1 lần; kiểm định Trí lực +2.",
+              "4": "Chủ động mở. Trong hiệp này, miễn trừ Nhanh nhẹn có lợi thế, đồng thời phản ứng tăng thêm 2 lần; kiểm định Trí lực +2.",
+              "5": "Chủ động mở. Trong hiệp này, miễn trừ Nhanh nhẹn có lợi thế, đồng thời phản ứng tăng thêm 2 lần; kiểm định Trí lực +3.",
+              "6": "Chủ động mở. Trong hiệp này, miễn trừ Nhanh nhẹn có lợi thế, đồng thời phản ứng tăng thêm 2 lần; kiểm định Trí lực +3; miễn dịch [Sợ hãi].",
+              "7": "Chủ động mở. Trong hiệp này, miễn trừ Nhanh nhẹn có lợi thế, đồng thời phản ứng tăng thêm 2 lần; kiểm định Trí lực +4; miễn dịch [Sợ hãi].",
+              "8": "Chủ động mở. Trong hiệp này, miễn trừ Nhanh nhẹn có lợi thế, đồng thời phản ứng tăng thêm 2 lần; kiểm định Trí lực +5; miễn dịch [Sợ hãi].",
+              "9": "Chủ động mở. Trong hiệp này, miễn trừ Nhanh nhẹn có lợi thế, đồng thời phản ứng tăng thêm 3 lần; kiểm định Trí lực +5; miễn dịch [Sợ hãi].",
+              "10": "Chủ động mở. Trong hiệp này, miễn trừ Nhanh nhẹn có lợi thế, đồng thời phản ứng tăng thêm 3 lần; kiểm định Trí lực +6; miễn dịch [Sợ hãi].",
+              "11": "Chủ động mở. Trong hiệp này, miễn trừ Nhanh nhẹn có lợi thế, đồng thời phản ứng tăng thêm 3 lần; kiểm định Trí lực +6; miễn dịch khống chế tinh thần.",
+              "12": "Chủ động mở. Trong hiệp này, miễn trừ Nhanh nhẹn có lợi thế, đồng thời phản ứng tăng thêm 3 lần; kiểm định Trí lực +7; miễn dịch khống chế tinh thần.",
+              "13": "Chủ động mở. Trong hiệp này, miễn trừ Nhanh nhẹn có lợi thế, đồng thời phản ứng tăng thêm 4 lần; kiểm định Trí lực +7; miễn dịch khống chế tinh thần.",
+              "14": "Chủ động mở. Trong hiệp này, miễn trừ Nhanh nhẹn có lợi thế, đồng thời phản ứng tăng thêm 4 lần; kiểm định Trí lực +8; miễn dịch khống chế tinh thần.",
+              "15": "Chủ động mở, kéo dài 2 hiệp. Miễn trừ Nhanh nhẹn có lợi thế, phản ứng vô hạn; kiểm định Trí lực +10."
+            },
+            "阶位": "Chuyển nghề"
+          },
+          {
+            "名称": "Đại Hiền Giả · Tự động diễn toán",
+            "类型": "Đặc biệt nghề nghiệp",
+            "描述": "Giao việc diễn toán chiến đấu cho Đại Hiền Giả quản lý, cung cấp hỗ trợ chiến thuật.",
+            "特殊效果": {
+              "1": "Bị động: hiệu chỉnh Trí lực của bạn có thể cộng vào kiểm định tiên công. Mỗi trận 1 lần, khi tấn công trượt, có thể yêu cầu Đại Hiền Giả hiệu chỉnh và tung xúc xắc lại."
+            },
+            "阶位": "Chuyển nghề"
+          },
+          {
+            "名称": "Ngục Hắc Viêm",
+            "类型": "Chủ động",
+            "描述": "Dung hợp ngọn lửa ma pháp với hắc lôi, phóng thích vào khu vực chỉ định để tạo thành vùng hắc viêm. Có thể phối hợp với hơi thở của hình chiếu để phong tỏa khu vực.",
+            "特殊效果": {
+              "1": "Chọn một khu vực bán kính 10 feet để tạo [Ngục Hắc Viêm], kéo dài 2 hiệp. Kẻ địch trong khu vực bị bất lợi khi miễn trừ Nhanh nhẹn; đầu hiệp chịu sát thương lửa phụ tương đương hiệu chỉnh Trí lực của bạn.",
+              "2": "Chọn một khu vực bán kính 10 feet để tạo [Ngục Hắc Viêm], kéo dài 3 hiệp. Kẻ địch trong khu vực bị bất lợi khi miễn trừ Nhanh nhẹn; đầu hiệp chịu sát thương lửa phụ tương đương hiệu chỉnh Trí lực của bạn.",
+              "3": "Chọn một khu vực bán kính 10 feet để tạo [Ngục Hắc Viêm], kéo dài 4 hiệp. Kẻ địch trong khu vực bị bất lợi khi miễn trừ Nhanh nhẹn; đầu hiệp chịu sát thương lửa phụ tương đương hiệu chỉnh Trí lực của bạn.",
+              "4": "Chọn một khu vực bán kính 10 feet để tạo [Ngục Hắc Viêm], kéo dài 4 hiệp. Kẻ địch trong khu vực bị bất lợi khi miễn trừ Nhanh nhẹn; đầu hiệp chịu sát thương lửa phụ tương đương hiệu chỉnh Trí lực của bạn +2.",
+              "5": "Chọn một khu vực bán kính 10 feet để tạo [Ngục Hắc Viêm], kéo dài 4 hiệp. Kẻ địch trong khu vực bị bất lợi khi miễn trừ Nhanh nhẹn; đầu hiệp chịu sát thương lửa phụ tương đương hiệu chỉnh Trí lực của bạn +3.",
+              "6": "Chọn một khu vực bán kính 10 feet để tạo [Ngục Hắc Viêm], kéo dài 4 hiệp. Kẻ địch trong khu vực bị bất lợi khi miễn trừ Nhanh nhẹn; đầu hiệp chịu sát thương lửa phụ tương đương hiệu chỉnh Trí lực của bạn +4.",
+              "7": "Chọn một khu vực bán kính 10 feet để tạo [Ngục Hắc Viêm], kéo dài 4 hiệp. Kẻ địch trong khu vực bị bất lợi khi miễn trừ Nhanh nhẹn; đầu hiệp chịu sát thương lửa phụ tương đương hiệu chỉnh Trí lực của bạn +5.",
+              "8": "Bán kính [Ngục Hắc Viêm] mở rộng tới 15 feet. Kẻ địch đi vào khu vực phải miễn trừ Thể chất; nếu thất bại thì tốc độ di chuyển giảm một nửa, sát thương phải chịu +10%.",
+              "9": "Bán kính [Ngục Hắc Viêm] mở rộng tới 15 feet. Kẻ địch đi vào khu vực phải miễn trừ Thể chất; nếu thất bại thì tốc độ di chuyển giảm một nửa, sát thương phải chịu +15%.",
+              "10": "Bán kính [Ngục Hắc Viêm] mở rộng tới 15 feet. Kẻ địch đi vào khu vực phải miễn trừ Thể chất; nếu thất bại thì tốc độ di chuyển giảm một nửa, sát thương phải chịu +20%.",
+              "11": "Bán kính [Ngục Hắc Viêm] mở rộng tới 15 feet. Kẻ địch đi vào khu vực phải miễn trừ Thể chất; nếu thất bại thì tốc độ di chuyển giảm một nửa, sát thương phải chịu +25%.",
+              "12": "Bán kính [Ngục Hắc Viêm] mở rộng tới 15 feet. Kẻ địch đi vào khu vực phải miễn trừ Thể chất; nếu thất bại thì tốc độ di chuyển giảm một nửa, sát thương phải chịu +30%.",
+              "13": "Bán kính [Ngục Hắc Viêm] mở rộng tới 15 feet. Kẻ địch đi vào khu vực phải miễn trừ Thể chất; nếu thất bại thì tốc độ di chuyển giảm một nửa, sát thương phải chịu +35%.",
+              "14": "Bán kính [Ngục Hắc Viêm] mở rộng tới 15 feet. Kẻ địch đi vào khu vực phải miễn trừ Thể chất; nếu thất bại thì tốc độ di chuyển giảm một nửa, sát thương phải chịu +40%.",
+              "15": "Kẻ địch đi vào khu vực phải miễn trừ Thể chất; nếu thất bại thì tốc độ di chuyển giảm một nửa, sát thương phải chịu +40%. Khi phóng thích lên kẻ địch đang ở trạng thái [Tê liệt], lập tức kích nổ khu vực để gây một lần sát thương hỗn hợp lôi hỏa cực lớn (300%) và làm mới số hiệp của mọi trạng thái tiêu cực."
+            },
+            "阶位": "Chuyển nghề"
+          }
+        ],
+        "进阶": [
+          {
+            "名称": "Vua Bạo Thực · Hấp thu",
+            "类型": "Đặc biệt",
+            "描述": "Triển khai kết giới bạo thực, hấp thu các đòn tấn công ma lực xung quanh. Chuyển hóa sát thương ma pháp thành ma lực hoặc sinh mệnh của bản thân.",
+            "特殊效果": {
+              "1": "Phản ứng. Hấp thu 30% sát thương ma pháp đơn lẻ và hồi phục lượng sinh mệnh tương đương.",
+              "2": "Phản ứng. Hấp thu 35% sát thương ma pháp đơn lẻ và hồi phục lượng sinh mệnh tương đương.",
+              "3": "Phản ứng. Hấp thu 40% sát thương ma pháp đơn lẻ và hồi phục lượng sinh mệnh tương đương.",
+              "4": "Phản ứng. Hấp thu 45% sát thương ma pháp đơn lẻ và hồi phục lượng sinh mệnh tương đương.",
+              "5": "Phản ứng. Hấp thu 50% sát thương ma pháp đơn lẻ và hồi phục lượng sinh mệnh tương đương.",
+              "6": "Phản ứng. Hấp thu 55% sát thương ma pháp đơn lẻ và hồi phục lượng sinh mệnh tương đương.",
+              "7": "Phản ứng. Hấp thu 60% sát thương ma pháp đơn lẻ và hồi phục lượng sinh mệnh tương đương.",
+              "8": "Phản ứng. Hấp thu 65% sát thương ma pháp đơn lẻ và hồi phục lượng sinh mệnh tương đương.",
+              "9": "Phản ứng. Hấp thu 70% sát thương ma pháp đơn lẻ và hồi phục lượng sinh mệnh tương đương.",
+              "10": "Phản ứng. Hấp thu 80% sát thương ma pháp đơn lẻ và hồi phục lượng sinh mệnh tương đương. Nếu bị tràn, phần tràn được lưu lại để tăng sát thương cho đòn tấn công kế tiếp."
+            },
+            "阶位": "Nâng cao"
+          },
+          {
+            "名称": "Long Ma Đao · Khai nhận",
+            "类型": "Đặc biệt",
+            "描述": "Triệu hồi Long Ma Đao, bước vào tư thế cận chiến. Khiến đòn đánh thường chuyển thành tấn công thái đao và hưởng cộng thêm Nhanh nhẹn.",
+            "特殊效果": {
+              "1": "Triệu hồi Long Ma Đao kéo dài 3 hiệp. Trong thời gian này, xúc xắc sát thương đòn đánh thường trở thành 1d8 (chém), kiểm định trúng đòn +1. Có thể dùng kỹ năng hệ [Long Ma Đao].",
+              "2": "Triệu hồi Long Ma Đao kéo dài 4 hiệp. Trong thời gian này, xúc xắc sát thương đòn đánh thường trở thành 1d8 (chém), kiểm định trúng đòn +1.",
+              "3": "Triệu hồi Long Ma Đao kéo dài 4 hiệp. Trong thời gian này, xúc xắc sát thương đòn đánh thường trở thành 1d8 (chém), kiểm định trúng đòn +2.",
+              "4": "Triệu hồi Long Ma Đao kéo dài 5 hiệp. Trong thời gian này, xúc xắc sát thương đòn đánh thường trở thành 1d10 (chém), kiểm định trúng đòn +2.",
+              "5": "Triệu hồi Long Ma Đao kéo dài 5 hiệp. Trong thời gian này, xúc xắc sát thương đòn đánh thường trở thành 1d10 (chém), kiểm định trúng đòn +3. Tỷ lệ bạo kích +5%.",
+              "6": "Triệu hồi Long Ma Đao kéo dài 6 hiệp. Trong thời gian này, xúc xắc sát thương đòn đánh thường trở thành 1d10 (chém), kiểm định trúng đòn +3. Tỷ lệ bạo kích +5%.",
+              "7": "Triệu hồi Long Ma Đao kéo dài 6 hiệp. Trong thời gian này, xúc xắc sát thương đòn đánh thường trở thành 1d12 (chém), kiểm định trúng đòn +4. Tỷ lệ bạo kích +10%.",
+              "8": "Triệu hồi Long Ma Đao kéo dài 7 hiệp. Trong thời gian này, xúc xắc sát thương đòn đánh thường trở thành 2d12 (chém), kiểm định trúng đòn +4. Tỷ lệ bạo kích +10%.",
+              "9": "Triệu hồi Long Ma Đao kéo dài 7 hiệp. Trong thời gian này, xúc xắc sát thương đòn đánh thường trở thành 3d12 (chém), kiểm định trúng đòn +5. Tỷ lệ bạo kích +15%.",
+              "10": "Triệu hồi Long Ma Đao kéo dài 8 hiệp. Trong thời gian này, xúc xắc sát thương đòn đánh thường trở thành 4d12 (chém), kiểm định trúng đòn +5. Tỷ lệ bạo kích +15%."
+            },
+            "阶位": "Nâng cao"
+          },
+          {
+            "名称": "Long Ma Đao · Hắc viêm trảm",
+            "类型": "Chủ động",
+            "描述": "Trong trạng thái khai nhận, phủ sức mạnh bạo thực và hắc viêm lên thân đao để xử quyết kẻ địch đang ở trong Ngục Hắc Viêm.",
+            "特殊效果": {
+              "1": "Cần dùng trong trạng thái [Long Ma Đao · Khai nhận]. Phát động một nhát chém dữ dội lên đơn thể; nếu mục tiêu đang ở trong địa hình [Ngục Hắc Viêm], sát thương tăng 10%.",
+              "2": "Cần dùng trong trạng thái [Long Ma Đao · Khai nhận]. Phát động một nhát chém dữ dội lên đơn thể; nếu mục tiêu đang ở trong địa hình [Ngục Hắc Viêm], sát thương tăng 20%.",
+              "3": "Cần dùng trong trạng thái [Long Ma Đao · Khai nhận]. Phát động một nhát chém dữ dội lên đơn thể; nếu mục tiêu đang ở trong địa hình [Ngục Hắc Viêm], sát thương tăng 30%.",
+              "4": "Cần dùng trong trạng thái [Long Ma Đao · Khai nhận]. Phát động một nhát chém dữ dội lên đơn thể; nếu mục tiêu đang ở trong địa hình [Ngục Hắc Viêm], sát thương tăng 40%. Đồng thời tạo địa hình [Vực Hắc Viêm].",
+              "5": "Cần dùng trong trạng thái [Long Ma Đao · Khai nhận]. Phát động một nhát chém dữ dội lên đơn thể; nếu mục tiêu đang ở trong địa hình [Ngục Hắc Viêm], sát thương tăng 50%. Đồng thời tạo địa hình [Vực Hắc Viêm].",
+              "6": "Cần dùng trong trạng thái [Long Ma Đao · Khai nhận]. Phát động một nhát chém dữ dội lên đơn thể; nếu mục tiêu đang ở trong địa hình [Ngục Hắc Viêm], sát thương tăng 60%. Đồng thời tạo địa hình [Vực Hắc Viêm].",
+              "7": "Cần dùng trong trạng thái [Long Ma Đao · Khai nhận]. Phát động một nhát chém dữ dội lên đơn thể; nếu mục tiêu đang ở trong địa hình [Ngục Hắc Viêm], sát thương tăng 70%. Đồng thời tạo địa hình [Vực Hắc Viêm].",
+              "8": "Cần dùng trong trạng thái [Long Ma Đao · Khai nhận]. Phát động một nhát chém dữ dội lên đơn thể; nếu mục tiêu đang ở trong địa hình [Ngục Hắc Viêm], sát thương tăng 70%. Đồng thời tạo địa hình [Vực Hắc Viêm]. Sau khi trúng đòn, kèm thêm [Ma năng xé rách]: lần kế tiếp mục tiêu chịu sát thương ma pháp, sát thương cuối cùng của lần đó tăng 20%.",
+              "9": "Cần dùng trong trạng thái [Long Ma Đao · Khai nhận]. Phát động một nhát chém dữ dội lên đơn thể; nếu mục tiêu đang ở trong địa hình [Ngục Hắc Viêm], sát thương tăng 70%. Đồng thời tạo địa hình [Vực Hắc Viêm]. Sau khi trúng đòn, kèm thêm [Ma năng xé rách]: lần kế tiếp mục tiêu chịu sát thương ma pháp, sát thương cuối cùng của lần đó tăng 40%.",
+              "10": "Cần dùng trong trạng thái [Long Ma Đao · Khai nhận]. Phát động một nhát chém dữ dội lên đơn thể; nếu mục tiêu đang ở trong địa hình [Ngục Hắc Viêm], sát thương tăng 70%. Đồng thời tạo địa hình [Vực Hắc Viêm]. Sau khi trúng đòn, kèm thêm [Ma năng xé rách]: lần kế tiếp mục tiêu chịu sát thương ma pháp, sát thương cuối cùng của lần đó tăng 60%."
+            },
+            "阶位": "Nâng cao"
+          }
+        ],
+        "必杀": [
+          {
+            "名称": "Cơn thịnh nộ của thần",
+            "类型": "Chủ động",
+            "描述": "Đòn đánh quang học vật lý lợi dụng giọt nước phản xạ ánh mặt trời. Một cuộc xử quyết không tiếng động.",
+            "特殊效果": {
+              "1": "Dẫn 1 hiệp. Khi hiệp kế tiếp bắt đầu, gây 5 đoạn sát thương quang huy/xuyên 6d10 lên kẻ địch trong tầm nhìn. Bỏ qua AC, chỉ có thể miễn trừ Nhanh nhẹn.",
+              "2": "Dẫn 1 hiệp. Khi hiệp kế tiếp bắt đầu, gây 7 đoạn sát thương quang huy/xuyên 6d10 lên kẻ địch trong tầm nhìn. Bỏ qua AC, chỉ có thể miễn trừ Nhanh nhẹn.",
+              "3": "Dẫn 1 hiệp. Khi hiệp kế tiếp bắt đầu, gây 9 đoạn sát thương quang huy/xuyên 8d10 lên kẻ địch trong tầm nhìn. Bỏ qua AC, chỉ có thể miễn trừ Nhanh nhẹn.",
+              "4": "Dẫn 1 hiệp. Khi hiệp kế tiếp bắt đầu, gây 10 đoạn sát thương quang huy/xuyên 8d10 lên kẻ địch trong tầm nhìn. Bỏ qua AC, chỉ có thể miễn trừ Nhanh nhẹn. Nếu mục tiêu chưa phát giác bạn, chắc chắn trọng kích.",
+              "5": "Dẫn 1 hiệp. Khi hiệp kế tiếp bắt đầu, gây 12 đoạn sát thương quang huy/xuyên 10d10 lên kẻ địch trong tầm nhìn. Bỏ qua AC, chỉ có thể miễn trừ Nhanh nhẹn. Nếu mục tiêu chưa phát giác bạn, chắc chắn trọng kích.",
+              "6": "Gây 24 đoạn sát thương quang huy/xuyên 10d10 lên kẻ địch trong tầm nhìn. Bỏ qua AC, chỉ có thể miễn trừ Nhanh nhẹn. Nếu mục tiêu chưa phát giác bạn, chắc chắn trọng kích.",
+              "7": "Gây 24 đoạn sát thương quang huy/xuyên 12d12 lên kẻ địch trong tầm nhìn. Bỏ qua AC, chỉ có thể miễn trừ Nhanh nhẹn. Nếu mục tiêu chưa phát giác bạn, chắc chắn trọng kích. Sau khi mỗi chùm sáng hạ sát kẻ địch, phần sát thương tràn của lần đó sẽ khúc xạ sang kẻ địch gần nhất khác."
+            },
+            "阶位": "Tất sát"
+          },
+          {
+            "名称": "Tạo thuốc hồi phục hoàn toàn",
+            "类型": "Đặc biệt",
+            "描述": "Tạo ra thuốc hồi phục cấp cao nhất trong cơ thể. Phương thức tự cấp cứu tối thượng.",
+            "特殊效果": {
+              "1": "Tiêu hao toàn bộ ma lực còn lại, mỗi trận chiến giới hạn 1 lần. Hồi phục 50% sinh mệnh tối đa của bản thân, xóa toàn bộ trạng thái tiêu cực.",
+              "2": "Tiêu hao toàn bộ ma lực còn lại, mỗi trận chiến giới hạn 1 lần. Hồi phục 60% sinh mệnh tối đa của bản thân, xóa toàn bộ trạng thái tiêu cực.",
+              "3": "Tiêu hao toàn bộ ma lực còn lại, mỗi trận chiến giới hạn 1 lần. Hồi phục 70% sinh mệnh tối đa của bản thân, xóa toàn bộ trạng thái tiêu cực.",
+              "4": "Tiêu hao toàn bộ ma lực còn lại, mỗi trận chiến giới hạn 1 lần. Hồi phục 80% sinh mệnh tối đa của bản thân, xóa toàn bộ trạng thái tiêu cực.",
+              "5": "Tiêu hao toàn bộ ma lực còn lại, mỗi trận chiến giới hạn 1 lần. Hồi phục 90% sinh mệnh tối đa của bản thân, xóa toàn bộ trạng thái tiêu cực.",
+              "6": "Tiêu hao toàn bộ ma lực còn lại, mỗi trận chiến giới hạn 2 lần. Hồi phục 100% sinh mệnh tối đa của bản thân, xóa toàn bộ trạng thái tiêu cực.",
+              "7": "Tiêu hao một nửa ma lực còn lại, mỗi trận chiến giới hạn 3 lần. Hồi phục 100% sinh mệnh tối đa của bản thân, xóa toàn bộ trạng thái tiêu cực."
+            },
+            "阶位": "Tất sát"
+          },
+          {
+            "名称": "Vua Bão Tố · Triệu hồi hình chiếu Veldora",
+            "类型": "Triệu hồi",
+            "描述": "Triệu hồi hình chiếu ma lực của người bạn thân Veldora để phối hợp chiến đấu.",
+            "召唤物名称": "Hình chiếu Veldora",
+            "特殊效果": {
+              "1": "Triệu hồi hình chiếu Veldora, kéo dài 3 hiệp. Hình chiếu mỗi hiệp ngẫu nhiên phóng thích [Hơi thở Bão Tố] (2d6 sát thương sét).",
+              "2": "Triệu hồi hình chiếu Veldora, kéo dài 3 hiệp. Hình chiếu mỗi hiệp ngẫu nhiên phóng thích [Hơi thở Bão Tố] (2d8 sát thương sét).",
+              "3": "Triệu hồi hình chiếu Veldora, kéo dài 3 hiệp. Hình chiếu mỗi hiệp ngẫu nhiên phóng thích [Hơi thở Bão Tố] (2d10 sát thương sét).",
+              "4": "Triệu hồi hình chiếu Veldora, kéo dài 3 hiệp. Hình chiếu mỗi hiệp ngẫu nhiên phóng thích [Hơi thở Bão Tố] (3d10 sát thương sét).",
+              "5": "Triệu hồi hình chiếu Veldora, kéo dài 3 hiệp. Hình chiếu mỗi hiệp ngẫu nhiên phóng thích [Hơi thở Bão Tố] (4d6 sát thương sét).",
+              "6": "Triệu hồi hình chiếu Veldora, kéo dài 3 hiệp. Hình chiếu mỗi hiệp ngẫu nhiên phóng thích [Hơi thở Bão Tố] (4d8 sát thương sét).",
+              "7": "Triệu hồi hình chiếu Veldora, kéo dài 3 hiệp. Hình chiếu mỗi hiệp ngẫu nhiên phóng thích [Hơi thở Bão Tố] (4d10 sát thương sét)."
+            },
+            "阶位": "Tất sát"
+          }
+        ],
+        "奥义": [
+          {
+            "名称": "Bá khí Ma Vương",
+            "类型": "Chủ động",
+            "描述": "Phóng thích toàn công suất uy áp của Ma Vương, chấn vỡ không gian và áp chế toàn bộ kẻ địch trên chiến trường.",
+            "特殊效果": {
+              "1": "Toàn bộ kẻ địch trên sân tiến hành miễn trừ Thể chất; nếu thất bại thì [Chấn nhiếp] 1 hiệp, nếu thành công thì [Run sợ] 2 hiệp. Đồng thời gây 5d10 sát thương tinh thần.",
+              "2": "Toàn bộ kẻ địch trên sân tiến hành miễn trừ Thể chất; nếu thất bại thì [Chấn nhiếp] 1 hiệp, nếu thành công thì [Run sợ] 2 hiệp. Đồng thời gây 6d10 sát thương tinh thần. DC miễn trừ +1.",
+              "3": "Toàn bộ kẻ địch trên sân tiến hành miễn trừ Thể chất; nếu thất bại thì [Chấn nhiếp] 1 hiệp, nếu thành công thì [Run sợ] 2 hiệp. Đồng thời gây 7d10 sát thương tinh thần. DC miễn trừ +2.",
+              "4": "Toàn bộ kẻ địch trên sân tiến hành miễn trừ Thể chất; nếu thất bại thì [Chấn nhiếp] 2 hiệp, nếu thành công thì [Run sợ] 3 hiệp. Đồng thời gây 8d10 sát thương tinh thần. DC miễn trừ +3.",
+              "5": "Toàn bộ kẻ địch trên sân tiến hành miễn trừ Thể chất; nếu thất bại thì [Tê liệt] 2 hiệp, nếu thành công thì [Run sợ] 3 hiệp. Đồng thời gây 10d10 sát thương tinh thần. DC miễn trừ +4."
+            },
+            "阶位": "Áo nghĩa"
+          },
+          {
+            "名称": "Vua Trí Tuệ · Giải phóng quyền năng",
+            "类型": "Đặc biệt",
+            "描述": "Phát huy năng lực diễn toán tới cực hạn, cường hóa toàn diện.",
+            "特殊效果": {
+              "1": "Toàn bộ kiểm định thuộc tính +2. DC miễn trừ của mọi kỹ năng +2.",
+              "2": "Toàn bộ kiểm định thuộc tính +3. DC miễn trừ của mọi kỹ năng +4.",
+              "3": "Toàn bộ kiểm định thuộc tính +4. DC miễn trừ của mọi kỹ năng +6.",
+              "4": "Toàn bộ kiểm định thuộc tính +4. Mỗi hiệp tự động nhận hiệu ứng [Đại Hiền Giả · Tự động diễn toán] ở cấp này. DC miễn trừ của mọi kỹ năng +8.",
+              "5": "Toàn bộ kiểm định thuộc tính +5. Bạn luôn ở trong trạng thái [Gia tốc tư duy]. DC miễn trừ của mọi kỹ năng +10."
+            },
+            "阶位": "Áo nghĩa"
+          },
+          {
+            "名称": "Vua Thệ Ước · Uriel",
+            "类型": "Đặc biệt",
+            "描述": "Sự chi phối và cách tuyệt không gian tuyệt đối. Phòng ngự vô địch.",
+            "特殊效果": {
+              "1": "Chủ động mở. Bạn và đồng minh trong phạm vi 10 feet quanh bạn miễn dịch mọi sát thương, kéo dài 1 hiệp. Mỗi kỳ nghỉ dài 1 lần.",
+              "2": "Chủ động mở. Bạn và đồng minh trong phạm vi 10 feet quanh bạn miễn dịch mọi sát thương, kéo dài 2 hiệp. Mỗi kỳ nghỉ dài 1 lần.",
+              "3": "Chủ động mở. Bạn và đồng minh trong phạm vi 10 feet quanh bạn miễn dịch mọi sát thương, kéo dài 2 hiệp. Mỗi kỳ nghỉ dài 2 lần.",
+              "4": "Chủ động mở. Bạn và đồng minh trong phạm vi 10 feet quanh bạn miễn dịch mọi sát thương, kéo dài 2 hiệp. Khi kết thúc, hồi phục 20% sinh mệnh cho mọi người được hưởng hiệu ứng. Mỗi kỳ nghỉ dài 2 lần.",
+              "5": "Chủ động mở. Bạn và đồng minh trong phạm vi 10 feet quanh bạn miễn dịch mọi sát thương, kéo dài 2 hiệp. Khi kết thúc, hồi phục 20% sinh mệnh cho mọi người được hưởng hiệu ứng. Mỗi kỳ nghỉ dài 3 lần."
+            },
+            "阶位": "Áo nghĩa"
+          }
+        ],
+        "觉醒一": [
+          {
+            "名称": "Vua Bạo Thực · Kẻ Nuốt Chửng",
+            "类型": "Chủ động",
+            "阶位": "Thức tỉnh một",
+            "描述": "Đòn tối thượng nuốt chửng sạch mọi thứ. Phối hợp với kỹ năng khống chế để kết liễu.",
+            "特殊效果": {
+              "1": "Gây sát thương cực lớn lên mục tiêu đơn thể. Nếu sinh mệnh mục tiêu thấp hơn 20%, trực tiếp xử quyết (bỏ qua kháng tính và vô địch). Sau khi nuốt chửng thành công, hồi phục toàn bộ sinh mệnh và trạng thái của bản thân.",
+              "2": "Gây sát thương cực lớn lên mục tiêu đơn thể. Nếu sinh mệnh mục tiêu thấp hơn 25%, trực tiếp xử quyết (bỏ qua kháng tính và vô địch). Sau khi nuốt chửng thành công, hồi phục toàn bộ sinh mệnh và trạng thái của bản thân, kinh nghiệm nhận được +30%.",
+              "3": "Gây sát thương cực lớn lên mục tiêu đơn thể. Nếu sinh mệnh mục tiêu thấp hơn 30%, trực tiếp xử quyết (bỏ qua kháng tính và vô địch). Sau khi nuốt chửng thành công, hồi phục toàn bộ sinh mệnh và trạng thái của bản thân, kinh nghiệm nhận được +50%."
+            }
+          }
+        ],
+        "觉醒二": [
+          {
+            "名称": "Giải phóng Long chủng",
+            "类型": "Đặc biệt",
+            "阶位": "Thức tỉnh hai",
+            "描述": "Giải phóng chân dạng của 'long ma niêm tính tinh thần thể'. Thể hình lớn hơn, thuộc tính tăng vọt và nhận long uy.",
+            "特殊效果": {
+              "1": "Biến thân thành hình thái long ma, kiểm định Sức mạnh và Thể chất +15, mỗi hiệp hồi phục 10% sinh mệnh. Đòn đánh thường kèm sát thương lan hắc lôi phạm vi lớn (tức cộng thêm toàn sát thương 500%); mỗi hiệp kẻ địch phải qua một lần kiểm định uy hiếp (Thể chất).",
+              "2": "Biến thân thành hình thái long ma, kiểm định Sức mạnh và Thể chất +20, mỗi hiệp hồi phục 20% sinh mệnh, miễn dịch sát thương vật lý. Đòn đánh thường kèm sát thương lan hắc lôi phạm vi lớn (tức cộng thêm toàn sát thương 600%); mỗi hiệp kẻ địch phải qua một lần kiểm định uy hiếp (Thể chất)."
+            }
+          }
+        ],
+        "觉醒三": [
+          {
+            "名称": "Thần Hư Không",
+            "类型": "Đặc biệt",
+            "阶位": "Thức tỉnh ba",
+            "描述": "Năng lực tối thượng [Azathoth]. Nắm giữ quyền năng thần thánh của hư vô và hỗn độn.",
+            "特殊效果": {
+              "1": "Mỗi trận 1 lần. Tiêu hao toàn bộ năng lượng. Chọn một mục: 1. xóa bỏ hoàn toàn một tồn tại phi thần tính trong tầm nhìn; 2. tái tạo môi trường xung quanh (thay đổi địa mạo, pháp tắc); 3. hồi phục hoàn toàn mọi trạng thái của bản thân và nhận tăng sát thương 1000%."
+            }
+          }
+        ]
+      },
+      "skillTreeForClass": "Ma Vương · Rimuru",
+      "lockedSkillMap": {
+        "Ma Vương · Rimuru": {
+          "基础": {
+            "Biến hình cơ thể": {
+              "名称": "Biến hình cơ thể",
+              "类型": "Đặc biệt",
+              "描述": "Tận dụng đặc tính của slime để tự do thay đổi hình dạng cơ thể, né tránh sát thương hoặc xuyên qua địa hình.",
+              "特殊效果": {
+                "1": "Chủ động mở. Trong hiệp này AC+2, đồng thời có kháng tính lợi thế với sát thương cùn.",
+                "2": "Chủ động mở. Trong hiệp này AC+2, đồng thời có kháng tính lợi thế với sát thương cùn.",
+                "3": "Chủ động mở. Trong hiệp này AC+2, đồng thời có kháng tính lợi thế với sát thương cùn/xuyên.",
+                "4": "Chủ động mở. Trong hiệp này AC+3, đồng thời có kháng tính lợi thế với sát thương cùn/xuyên.",
+                "5": "Chủ động mở. Trong hiệp này AC+3, đồng thời có kháng tính lợi thế với sát thương cùn/xuyên.",
+                "6": "Chủ động mở. Trong hiệp này AC+3, đồng thời có kháng tính lợi thế với sát thương vật lý.",
+                "7": "Chủ động mở. Trong hiệp này AC+4, đồng thời có kháng tính lợi thế với sát thương vật lý; có thể xuyên qua địa hình hẹp.",
+                "8": "Chủ động mở. Trong hiệp này AC+4, đồng thời có kháng tính lợi thế với sát thương vật lý; có thể xuyên qua địa hình hẹp.",
+                "9": "Chủ động mở. Trong hiệp này AC+4, đồng thời có kháng tính lợi thế với sát thương vật lý; có thể xuyên qua địa hình hẹp.",
+                "10": "Chủ động mở. Trong hiệp này AC+5, đồng thời có kháng tính lợi thế với sát thương vật lý; có thể xuyên qua địa hình hẹp.",
+                "11": "Chủ động mở. Trong hiệp này AC+5, miễn dịch trọng kích; có thể xuyên qua địa hình hẹp.",
+                "12": "Chủ động mở. Trong hiệp này AC+5, miễn dịch trọng kích; có thể xuyên qua địa hình hẹp.",
+                "13": "Chủ động mở. Trong hiệp này AC+6, miễn dịch trọng kích; có thể xuyên qua địa hình hẹp.",
+                "14": "Chủ động mở. Trong hiệp này AC+6, miễn dịch trọng kích, miễn dịch bắt giữ; có thể xuyên qua địa hình hẹp.",
+                "15": "Chủ động mở. Trong hiệp này AC+7, miễn dịch trọng kích, miễn dịch bắt giữ, sát thương vật lý phải chịu giảm một nửa."
+              },
+              "阶位": "Cơ bản"
+            },
+            "Cảm nhận ma lực": {
+              "名称": "Cảm nhận ma lực",
+              "类型": "Đặc biệt",
+              "描述": "Nhạy bén cảm nhận dòng chảy ma lực xung quanh. Đây là năng lực then chốt khi thăm dò và trinh sát.",
+              "特殊效果": {
+                "1": "Kiểm định Cảm nhận (Phát giác) +1, có thể cảm nhận phản ứng ma lực trong phạm vi 30 feet ngoài tầm nhìn.",
+                "2": "Kiểm định Cảm nhận (Phát giác) +2, có thể cảm nhận phản ứng ma lực trong phạm vi 30 feet ngoài tầm nhìn.",
+                "3": "Kiểm định Cảm nhận (Phát giác) +2, có thể cảm nhận phản ứng ma lực trong phạm vi 40 feet ngoài tầm nhìn.",
+                "4": "Kiểm định Cảm nhận (Phát giác) +2, có thể cảm nhận phản ứng ma lực trong phạm vi 50 feet ngoài tầm nhìn.",
+                "5": "Kiểm định Cảm nhận (Phát giác) +3, có thể cảm nhận phản ứng ma lực trong phạm vi 50 feet ngoài tầm nhìn; thậm chí cảm nhận được vị trí mơ hồ của đơn vị tàng hình.",
+                "6": "Kiểm định Cảm nhận (Phát giác) +3, có thể cảm nhận phản ứng ma lực trong phạm vi 60 feet ngoài tầm nhìn; thậm chí cảm nhận được vị trí mơ hồ của đơn vị tàng hình.",
+                "7": "Kiểm định Cảm nhận (Phát giác) +3, có thể cảm nhận phản ứng ma lực trong phạm vi 70 feet ngoài tầm nhìn; thậm chí cảm nhận được vị trí mơ hồ của đơn vị tàng hình.",
+                "8": "Kiểm định Cảm nhận (Phát giác) +4, có thể cảm nhận phản ứng ma lực trong phạm vi 70 feet ngoài tầm nhìn; thậm chí cảm nhận được vị trí mơ hồ của đơn vị tàng hình.",
+                "9": "Kiểm định Cảm nhận (Phát giác) +4, có thể cảm nhận phản ứng ma lực trong phạm vi 80 feet ngoài tầm nhìn; nhìn thấu vị trí cụ thể của đơn vị tàng hình.",
+                "10": "Kiểm định Cảm nhận (Phát giác) +5, có thể cảm nhận phản ứng ma lực trong phạm vi 80 feet ngoài tầm nhìn; nhìn thấu vị trí cụ thể của đơn vị tàng hình.",
+                "11": "Kiểm định Cảm nhận (Phát giác) +5, có thể cảm nhận phản ứng ma lực trong phạm vi 90 feet ngoài tầm nhìn; nhìn thấu vị trí cụ thể của đơn vị tàng hình.",
+                "12": "Kiểm định Cảm nhận (Phát giác) +6, có thể cảm nhận phản ứng ma lực trong phạm vi 90 feet ngoài tầm nhìn; nhìn thấu vị trí cụ thể của đơn vị tàng hình.",
+                "13": "Kiểm định Cảm nhận (Phát giác) +6, có thể cảm nhận phản ứng ma lực trong phạm vi 100 feet ngoài tầm nhìn; nhìn thấu vị trí cụ thể của đơn vị tàng hình.",
+                "14": "Kiểm định Cảm nhận (Phát giác) +7, có thể cảm nhận phản ứng ma lực trong phạm vi 100 feet ngoài tầm nhìn; nhìn thấu vị trí cụ thể của đơn vị tàng hình.",
+                "15": "Kiểm định Cảm nhận (Phát giác) +8, cảm nhận 360 độ toàn phương vị, miễn dịch đột kích."
+              },
+              "阶位": "Cơ bản"
+            },
+            "Tự tái sinh": {
+              "名称": "Tự tái sinh",
+              "类型": "Đặc biệt",
+              "描述": "Tiêu hao ma lực để tăng tốc phân bào và tu sửa vết thương. Đây là năng lực cốt lõi để duy trì chiến đấu.",
+              "特殊效果": {
+                "1": "Mỗi trận 1 lần, dùng hành động bổ sung để hồi phục sinh mệnh bằng 1d6 + hiệu chỉnh Thể chất.",
+                "2": "Mỗi trận 1 lần, dùng hành động bổ sung để hồi phục sinh mệnh bằng 1d8 + hiệu chỉnh Thể chất.",
+                "3": "Mỗi trận 2 lần, dùng hành động bổ sung để hồi phục sinh mệnh bằng 1d8 + hiệu chỉnh Thể chất.",
+                "4": "Mỗi trận 2 lần, dùng hành động bổ sung để hồi phục sinh mệnh bằng 1d10 + hiệu chỉnh Thể chất.",
+                "5": "Mỗi trận 2 lần, dùng hành động bổ sung để hồi phục sinh mệnh bằng 1d10 + hiệu chỉnh Thể chất; xóa một trạng thái chảy máu.",
+                "6": "Mỗi trận 2 lần, dùng hành động bổ sung để hồi phục sinh mệnh bằng 2d6 + hiệu chỉnh Thể chất; xóa một trạng thái chảy máu.",
+                "7": "Mỗi trận 3 lần, dùng hành động bổ sung để hồi phục sinh mệnh bằng 2d6 + hiệu chỉnh Thể chất; xóa một trạng thái chảy máu.",
+                "8": "Mỗi trận 3 lần, dùng hành động bổ sung để hồi phục sinh mệnh bằng 2d8 + hiệu chỉnh Thể chất; xóa một trạng thái chảy máu/trúng độc.",
+                "9": "Mỗi trận 3 lần, dùng hành động bổ sung để hồi phục sinh mệnh bằng 2d8 + hiệu chỉnh Thể chất; xóa một trạng thái chảy máu/trúng độc.",
+                "10": "Mỗi trận 3 lần, dùng hành động bổ sung để hồi phục sinh mệnh bằng 3d8 + hiệu chỉnh Thể chất; xóa một trạng thái vật lý tiêu cực.",
+                "11": "Mỗi trận 4 lần, dùng hành động bổ sung để hồi phục sinh mệnh bằng 3d8 + hiệu chỉnh Thể chất; xóa một trạng thái vật lý tiêu cực.",
+                "12": "Mỗi trận 4 lần, dùng hành động bổ sung để hồi phục sinh mệnh bằng 3d10 + hiệu chỉnh Thể chất và hồi phục 5% sinh mệnh tối đa; xóa một trạng thái vật lý tiêu cực.",
+                "13": "Mỗi trận 4 lần, dùng hành động bổ sung để hồi phục sinh mệnh bằng 3d10 + hiệu chỉnh Thể chất và hồi phục 10% sinh mệnh tối đa; xóa hai trạng thái tiêu cực bất kỳ.",
+                "14": "Mỗi trận 5 lần, dùng hành động bổ sung để hồi phục sinh mệnh bằng 4d10 + hiệu chỉnh Thể chất và hồi phục 15% sinh mệnh tối đa; xóa hai trạng thái tiêu cực bất kỳ.",
+                "15": "Mỗi trận 5 lần, dùng hành động bổ sung để hồi phục sinh mệnh bằng 4d10 + hiệu chỉnh Thể chất và hồi phục 20% sinh mệnh tối đa. Xóa toàn bộ trạng thái tiêu cực."
+              },
+              "阶位": "Cơ bản"
+            },
+            "Hắc Lôi · Nhất Thiểm": {
+              "名称": "Hắc Lôi · Nhất Thiểm",
+              "类型": "Chủ động",
+              "描述": "Quấn hắc lôi quanh thân, hóa thành tia chớp đen lao tới. Dùng để mở đầu bằng xung phong và gây tê liệt.",
+              "特殊效果": {
+                "1": "Xung phong tới mục tiêu trong phạm vi 30 feet và tiến hành cận chiến. Sau khi trúng đòn, buộc mục tiêu miễn trừ Thể chất; nếu thất bại thì [Tê liệt] 1 hiệp.",
+                "2": "Xung phong tới mục tiêu trong phạm vi 30 feet và tiến hành cận chiến. Sau khi trúng đòn, buộc mục tiêu miễn trừ Thể chất; nếu thất bại thì [Tê liệt] 2 hiệp.",
+                "3": "Xung phong tới mục tiêu trong phạm vi 30 feet và tiến hành cận chiến, kiểm định sát thương +1. Sau khi trúng đòn, buộc mục tiêu miễn trừ Thể chất; nếu thất bại thì [Tê liệt] 2 hiệp.",
+                "4": "Xung phong tới mục tiêu trong phạm vi 30 feet và tiến hành cận chiến, kiểm định sát thương +1. Sau khi trúng đòn, buộc mục tiêu miễn trừ Thể chất; nếu thất bại thì [Tê liệt] 3 hiệp.",
+                "5": "Cự ly xung phong tăng lên 40 feet, kiểm định sát thương +2. Sau khi trúng đòn, buộc mục tiêu miễn trừ Thể chất; nếu thất bại thì [Tê liệt] 3 hiệp.",
+                "6": "Cự ly xung phong tăng lên 40 feet, kiểm định sát thương +2, sát thương kế tiếp nhận tăng thêm 5%. Sau khi trúng đòn, buộc mục tiêu miễn trừ Thể chất; nếu thất bại thì [Tê liệt] 3 hiệp.",
+                "7": "Cự ly xung phong tăng lên 40 feet, kiểm định sát thương +2, sát thương kế tiếp nhận tăng thêm 10%. Sau khi trúng đòn, buộc mục tiêu miễn trừ Thể chất; nếu thất bại thì [Tê liệt] 3 hiệp.",
+                "8": "Cự ly xung phong tăng lên 40 feet, kiểm định sát thương +2, sát thương kế tiếp nhận tăng thêm 15%. Sau khi trúng đòn, buộc mục tiêu miễn trừ Thể chất; nếu thất bại thì [Tê liệt] 3 hiệp.",
+                "9": "Cự ly xung phong tăng lên 40 feet, kiểm định sát thương +2, sát thương kế tiếp nhận tăng thêm 20%. Sau khi trúng đòn, buộc mục tiêu miễn trừ Thể chất; nếu thất bại thì [Tê liệt] 3 hiệp.",
+                "10": "Sau khi trúng đòn, gây 40% sát thương lan điện lên kẻ địch trong phạm vi 5 feet quanh mục tiêu; kiểm định sát thương +2, sát thương kế tiếp nhận tăng thêm 20%. Sau khi trúng đòn, buộc mục tiêu miễn trừ Thể chất; nếu thất bại thì [Tê liệt] 3 hiệp.",
+                "11": "Sau khi trúng đòn, gây 50% sát thương lan điện lên kẻ địch trong phạm vi 5 feet quanh mục tiêu; kiểm định sát thương +2, sát thương kế tiếp nhận tăng thêm 20%. Sau khi trúng đòn, buộc mục tiêu miễn trừ Thể chất; nếu thất bại thì [Tê liệt] 3 hiệp.",
+                "12": "Sau khi trúng đòn, gây 60% sát thương lan điện lên kẻ địch trong phạm vi 5 feet quanh mục tiêu; kiểm định sát thương +2, sát thương kế tiếp nhận tăng thêm 20%. Sau khi trúng đòn, buộc mục tiêu miễn trừ Thể chất; nếu thất bại thì [Tê liệt] 3 hiệp.",
+                "13": "Sau khi trúng đòn, gây 70% sát thương lan điện lên kẻ địch trong phạm vi 5 feet quanh mục tiêu; kiểm định sát thương +2, sát thương kế tiếp nhận tăng thêm 20%. Sau khi trúng đòn, buộc mục tiêu miễn trừ Thể chất; nếu thất bại thì [Tê liệt] 3 hiệp.",
+                "14": "Sau khi trúng đòn, gây 80% sát thương lan điện lên kẻ địch trong phạm vi 5 feet quanh mục tiêu; kiểm định sát thương +2, sát thương kế tiếp nhận tăng thêm 20%. Sau khi trúng đòn, buộc mục tiêu miễn trừ Thể chất; nếu thất bại thì [Tê liệt] 3 hiệp.",
+                "15": "Sau khi trúng đòn, gây 100% sát thương lan điện lên kẻ địch trong phạm vi 5 feet quanh mục tiêu; kiểm định sát thương +2, sát thương kế tiếp nhận tăng thêm 20%. Sau khi trúng đòn, buộc mục tiêu miễn trừ Thể chất; nếu thất bại thì [Tê liệt] 3 hiệp."
+              },
+              "阶位": "Cơ bản"
+            }
+          },
+          "转职": {
+            "Gia tốc tư duy": {
+              "名称": "Gia tốc tư duy",
+              "类型": "Đặc biệt",
+              "描述": "Nâng tốc độ tư duy lên gấp trăm lần, như thể thời gian chậm lại. Dùng để ứng phó với các đòn tấn công tốc độ cực cao.",
+              "特殊效果": {
+                "1": "Chủ động mở. Trong hiệp này, miễn trừ Nhanh nhẹn có lợi thế, đồng thời phản ứng tăng thêm 1 lần.",
+                "2": "Chủ động mở. Trong hiệp này, miễn trừ Nhanh nhẹn có lợi thế, đồng thời phản ứng tăng thêm 1 lần; kiểm định Trí lực +1.",
+                "3": "Chủ động mở. Trong hiệp này, miễn trừ Nhanh nhẹn có lợi thế, đồng thời phản ứng tăng thêm 1 lần; kiểm định Trí lực +2.",
+                "4": "Chủ động mở. Trong hiệp này, miễn trừ Nhanh nhẹn có lợi thế, đồng thời phản ứng tăng thêm 2 lần; kiểm định Trí lực +2.",
+                "5": "Chủ động mở. Trong hiệp này, miễn trừ Nhanh nhẹn có lợi thế, đồng thời phản ứng tăng thêm 2 lần; kiểm định Trí lực +3.",
+                "6": "Chủ động mở. Trong hiệp này, miễn trừ Nhanh nhẹn có lợi thế, đồng thời phản ứng tăng thêm 2 lần; kiểm định Trí lực +3; miễn dịch [Sợ hãi].",
+                "7": "Chủ động mở. Trong hiệp này, miễn trừ Nhanh nhẹn có lợi thế, đồng thời phản ứng tăng thêm 2 lần; kiểm định Trí lực +4; miễn dịch [Sợ hãi].",
+                "8": "Chủ động mở. Trong hiệp này, miễn trừ Nhanh nhẹn có lợi thế, đồng thời phản ứng tăng thêm 2 lần; kiểm định Trí lực +5; miễn dịch [Sợ hãi].",
+                "9": "Chủ động mở. Trong hiệp này, miễn trừ Nhanh nhẹn có lợi thế, đồng thời phản ứng tăng thêm 3 lần; kiểm định Trí lực +5; miễn dịch [Sợ hãi].",
+                "10": "Chủ động mở. Trong hiệp này, miễn trừ Nhanh nhẹn có lợi thế, đồng thời phản ứng tăng thêm 3 lần; kiểm định Trí lực +6; miễn dịch [Sợ hãi].",
+                "11": "Chủ động mở. Trong hiệp này, miễn trừ Nhanh nhẹn có lợi thế, đồng thời phản ứng tăng thêm 3 lần; kiểm định Trí lực +6; miễn dịch khống chế tinh thần.",
+                "12": "Chủ động mở. Trong hiệp này, miễn trừ Nhanh nhẹn có lợi thế, đồng thời phản ứng tăng thêm 3 lần; kiểm định Trí lực +7; miễn dịch khống chế tinh thần.",
+                "13": "Chủ động mở. Trong hiệp này, miễn trừ Nhanh nhẹn có lợi thế, đồng thời phản ứng tăng thêm 4 lần; kiểm định Trí lực +7; miễn dịch khống chế tinh thần.",
+                "14": "Chủ động mở. Trong hiệp này, miễn trừ Nhanh nhẹn có lợi thế, đồng thời phản ứng tăng thêm 4 lần; kiểm định Trí lực +8; miễn dịch khống chế tinh thần.",
+                "15": "Chủ động mở, kéo dài 2 hiệp. Miễn trừ Nhanh nhẹn có lợi thế, phản ứng vô hạn; kiểm định Trí lực +10."
+              },
+              "阶位": "Chuyển nghề"
+            },
+            "Đại Hiền Giả · Tự động diễn toán": {
+              "名称": "Đại Hiền Giả · Tự động diễn toán",
+              "类型": "Đặc biệt nghề nghiệp",
+              "描述": "Giao việc diễn toán chiến đấu cho Đại Hiền Giả quản lý, cung cấp hỗ trợ chiến thuật.",
+              "特殊效果": {
+                "1": "Bị động: hiệu chỉnh Trí lực của bạn có thể cộng vào kiểm định tiên công. Mỗi trận 1 lần, khi tấn công trượt, có thể yêu cầu Đại Hiền Giả hiệu chỉnh và tung xúc xắc lại."
+              },
+              "阶位": "Chuyển nghề"
+            },
+            "Ngục Hắc Viêm": {
+              "名称": "Ngục Hắc Viêm",
+              "类型": "Chủ động",
+              "描述": "Dung hợp ngọn lửa ma pháp với hắc lôi, phóng thích vào khu vực chỉ định để tạo thành vùng hắc viêm. Có thể phối hợp với hơi thở của hình chiếu để phong tỏa khu vực.",
+              "特殊效果": {
+                "1": "Chọn một khu vực bán kính 10 feet để tạo [Ngục Hắc Viêm], kéo dài 2 hiệp. Kẻ địch trong khu vực bị bất lợi khi miễn trừ Nhanh nhẹn; đầu hiệp chịu sát thương lửa phụ tương đương hiệu chỉnh Trí lực của bạn.",
+                "2": "Chọn một khu vực bán kính 10 feet để tạo [Ngục Hắc Viêm], kéo dài 3 hiệp. Kẻ địch trong khu vực bị bất lợi khi miễn trừ Nhanh nhẹn; đầu hiệp chịu sát thương lửa phụ tương đương hiệu chỉnh Trí lực của bạn.",
+                "3": "Chọn một khu vực bán kính 10 feet để tạo [Ngục Hắc Viêm], kéo dài 4 hiệp. Kẻ địch trong khu vực bị bất lợi khi miễn trừ Nhanh nhẹn; đầu hiệp chịu sát thương lửa phụ tương đương hiệu chỉnh Trí lực của bạn.",
+                "4": "Chọn một khu vực bán kính 10 feet để tạo [Ngục Hắc Viêm], kéo dài 4 hiệp. Kẻ địch trong khu vực bị bất lợi khi miễn trừ Nhanh nhẹn; đầu hiệp chịu sát thương lửa phụ tương đương hiệu chỉnh Trí lực của bạn +2.",
+                "5": "Chọn một khu vực bán kính 10 feet để tạo [Ngục Hắc Viêm], kéo dài 4 hiệp. Kẻ địch trong khu vực bị bất lợi khi miễn trừ Nhanh nhẹn; đầu hiệp chịu sát thương lửa phụ tương đương hiệu chỉnh Trí lực của bạn +3.",
+                "6": "Chọn một khu vực bán kính 10 feet để tạo [Ngục Hắc Viêm], kéo dài 4 hiệp. Kẻ địch trong khu vực bị bất lợi khi miễn trừ Nhanh nhẹn; đầu hiệp chịu sát thương lửa phụ tương đương hiệu chỉnh Trí lực của bạn +4.",
+                "7": "Chọn một khu vực bán kính 10 feet để tạo [Ngục Hắc Viêm], kéo dài 4 hiệp. Kẻ địch trong khu vực bị bất lợi khi miễn trừ Nhanh nhẹn; đầu hiệp chịu sát thương lửa phụ tương đương hiệu chỉnh Trí lực của bạn +5.",
+                "8": "Bán kính [Ngục Hắc Viêm] mở rộng tới 15 feet. Kẻ địch đi vào khu vực phải miễn trừ Thể chất; nếu thất bại thì tốc độ di chuyển giảm một nửa, sát thương phải chịu +10%.",
+                "9": "Bán kính [Ngục Hắc Viêm] mở rộng tới 15 feet. Kẻ địch đi vào khu vực phải miễn trừ Thể chất; nếu thất bại thì tốc độ di chuyển giảm một nửa, sát thương phải chịu +15%.",
+                "10": "Bán kính [Ngục Hắc Viêm] mở rộng tới 15 feet. Kẻ địch đi vào khu vực phải miễn trừ Thể chất; nếu thất bại thì tốc độ di chuyển giảm một nửa, sát thương phải chịu +20%.",
+                "11": "Bán kính [Ngục Hắc Viêm] mở rộng tới 15 feet. Kẻ địch đi vào khu vực phải miễn trừ Thể chất; nếu thất bại thì tốc độ di chuyển giảm một nửa, sát thương phải chịu +25%.",
+                "12": "Bán kính [Ngục Hắc Viêm] mở rộng tới 15 feet. Kẻ địch đi vào khu vực phải miễn trừ Thể chất; nếu thất bại thì tốc độ di chuyển giảm một nửa, sát thương phải chịu +30%.",
+                "13": "Bán kính [Ngục Hắc Viêm] mở rộng tới 15 feet. Kẻ địch đi vào khu vực phải miễn trừ Thể chất; nếu thất bại thì tốc độ di chuyển giảm một nửa, sát thương phải chịu +35%.",
+                "14": "Bán kính [Ngục Hắc Viêm] mở rộng tới 15 feet. Kẻ địch đi vào khu vực phải miễn trừ Thể chất; nếu thất bại thì tốc độ di chuyển giảm một nửa, sát thương phải chịu +40%.",
+                "15": "Kẻ địch đi vào khu vực phải miễn trừ Thể chất; nếu thất bại thì tốc độ di chuyển giảm một nửa, sát thương phải chịu +40%. Khi phóng thích lên kẻ địch đang ở trạng thái [Tê liệt], lập tức kích nổ khu vực để gây một lần sát thương hỗn hợp lôi hỏa cực lớn (300%) và làm mới số hiệp của mọi trạng thái tiêu cực."
+              },
+              "阶位": "Chuyển nghề"
+            }
+          },
+          "进阶": {
+            "Vua Bạo Thực · Hấp thu": {
+              "名称": "Vua Bạo Thực · Hấp thu",
+              "类型": "Đặc biệt",
+              "描述": "Triển khai kết giới bạo thực, hấp thu các đòn tấn công ma lực xung quanh. Chuyển hóa sát thương ma pháp thành ma lực hoặc sinh mệnh của bản thân.",
+              "特殊效果": {
+                "1": "Phản ứng. Hấp thu 30% sát thương ma pháp đơn lẻ và hồi phục lượng sinh mệnh tương đương.",
+                "2": "Phản ứng. Hấp thu 35% sát thương ma pháp đơn lẻ và hồi phục lượng sinh mệnh tương đương.",
+                "3": "Phản ứng. Hấp thu 40% sát thương ma pháp đơn lẻ và hồi phục lượng sinh mệnh tương đương.",
+                "4": "Phản ứng. Hấp thu 45% sát thương ma pháp đơn lẻ và hồi phục lượng sinh mệnh tương đương.",
+                "5": "Phản ứng. Hấp thu 50% sát thương ma pháp đơn lẻ và hồi phục lượng sinh mệnh tương đương.",
+                "6": "Phản ứng. Hấp thu 55% sát thương ma pháp đơn lẻ và hồi phục lượng sinh mệnh tương đương.",
+                "7": "Phản ứng. Hấp thu 60% sát thương ma pháp đơn lẻ và hồi phục lượng sinh mệnh tương đương.",
+                "8": "Phản ứng. Hấp thu 65% sát thương ma pháp đơn lẻ và hồi phục lượng sinh mệnh tương đương.",
+                "9": "Phản ứng. Hấp thu 70% sát thương ma pháp đơn lẻ và hồi phục lượng sinh mệnh tương đương.",
+                "10": "Phản ứng. Hấp thu 80% sát thương ma pháp đơn lẻ và hồi phục lượng sinh mệnh tương đương. Nếu bị tràn, phần tràn được lưu lại để tăng sát thương cho đòn tấn công kế tiếp."
+              },
+              "阶位": "Nâng cao"
+            },
+            "Long Ma Đao · Khai nhận": {
+              "名称": "Long Ma Đao · Khai nhận",
+              "类型": "Đặc biệt",
+              "描述": "Triệu hồi Long Ma Đao, bước vào tư thế cận chiến. Khiến đòn đánh thường chuyển thành tấn công thái đao và hưởng cộng thêm Nhanh nhẹn.",
+              "特殊效果": {
+                "1": "Triệu hồi Long Ma Đao kéo dài 3 hiệp. Trong thời gian này, xúc xắc sát thương đòn đánh thường trở thành 1d8 (chém), kiểm định trúng đòn +1. Có thể dùng kỹ năng hệ [Long Ma Đao].",
+                "2": "Triệu hồi Long Ma Đao kéo dài 4 hiệp. Trong thời gian này, xúc xắc sát thương đòn đánh thường trở thành 1d8 (chém), kiểm định trúng đòn +1.",
+                "3": "Triệu hồi Long Ma Đao kéo dài 4 hiệp. Trong thời gian này, xúc xắc sát thương đòn đánh thường trở thành 1d8 (chém), kiểm định trúng đòn +2.",
+                "4": "Triệu hồi Long Ma Đao kéo dài 5 hiệp. Trong thời gian này, xúc xắc sát thương đòn đánh thường trở thành 1d10 (chém), kiểm định trúng đòn +2.",
+                "5": "Triệu hồi Long Ma Đao kéo dài 5 hiệp. Trong thời gian này, xúc xắc sát thương đòn đánh thường trở thành 1d10 (chém), kiểm định trúng đòn +3. Tỷ lệ bạo kích +5%.",
+                "6": "Triệu hồi Long Ma Đao kéo dài 6 hiệp. Trong thời gian này, xúc xắc sát thương đòn đánh thường trở thành 1d10 (chém), kiểm định trúng đòn +3. Tỷ lệ bạo kích +5%.",
+                "7": "Triệu hồi Long Ma Đao kéo dài 6 hiệp. Trong thời gian này, xúc xắc sát thương đòn đánh thường trở thành 1d12 (chém), kiểm định trúng đòn +4. Tỷ lệ bạo kích +10%.",
+                "8": "Triệu hồi Long Ma Đao kéo dài 7 hiệp. Trong thời gian này, xúc xắc sát thương đòn đánh thường trở thành 2d12 (chém), kiểm định trúng đòn +4. Tỷ lệ bạo kích +10%.",
+                "9": "Triệu hồi Long Ma Đao kéo dài 7 hiệp. Trong thời gian này, xúc xắc sát thương đòn đánh thường trở thành 3d12 (chém), kiểm định trúng đòn +5. Tỷ lệ bạo kích +15%.",
+                "10": "Triệu hồi Long Ma Đao kéo dài 8 hiệp. Trong thời gian này, xúc xắc sát thương đòn đánh thường trở thành 4d12 (chém), kiểm định trúng đòn +5. Tỷ lệ bạo kích +15%."
+              },
+              "阶位": "Nâng cao"
+            },
+            "Long Ma Đao · Hắc viêm trảm": {
+              "名称": "Long Ma Đao · Hắc viêm trảm",
+              "类型": "Chủ động",
+              "描述": "Trong trạng thái khai nhận, phủ sức mạnh bạo thực và hắc viêm lên thân đao để xử quyết kẻ địch đang ở trong Ngục Hắc Viêm.",
+              "特殊效果": {
+                "1": "Cần dùng trong trạng thái [Long Ma Đao · Khai nhận]. Phát động một nhát chém dữ dội lên đơn thể; nếu mục tiêu đang ở trong địa hình [Ngục Hắc Viêm], sát thương tăng 10%.",
+                "2": "Cần dùng trong trạng thái [Long Ma Đao · Khai nhận]. Phát động một nhát chém dữ dội lên đơn thể; nếu mục tiêu đang ở trong địa hình [Ngục Hắc Viêm], sát thương tăng 20%.",
+                "3": "Cần dùng trong trạng thái [Long Ma Đao · Khai nhận]. Phát động một nhát chém dữ dội lên đơn thể; nếu mục tiêu đang ở trong địa hình [Ngục Hắc Viêm], sát thương tăng 30%.",
+                "4": "Cần dùng trong trạng thái [Long Ma Đao · Khai nhận]. Phát động một nhát chém dữ dội lên đơn thể; nếu mục tiêu đang ở trong địa hình [Ngục Hắc Viêm], sát thương tăng 40%. Đồng thời tạo địa hình [Vực Hắc Viêm].",
+                "5": "Cần dùng trong trạng thái [Long Ma Đao · Khai nhận]. Phát động một nhát chém dữ dội lên đơn thể; nếu mục tiêu đang ở trong địa hình [Ngục Hắc Viêm], sát thương tăng 50%. Đồng thời tạo địa hình [Vực Hắc Viêm].",
+                "6": "Cần dùng trong trạng thái [Long Ma Đao · Khai nhận]. Phát động một nhát chém dữ dội lên đơn thể; nếu mục tiêu đang ở trong địa hình [Ngục Hắc Viêm], sát thương tăng 60%. Đồng thời tạo địa hình [Vực Hắc Viêm].",
+                "7": "Cần dùng trong trạng thái [Long Ma Đao · Khai nhận]. Phát động một nhát chém dữ dội lên đơn thể; nếu mục tiêu đang ở trong địa hình [Ngục Hắc Viêm], sát thương tăng 70%. Đồng thời tạo địa hình [Vực Hắc Viêm].",
+                "8": "Cần dùng trong trạng thái [Long Ma Đao · Khai nhận]. Phát động một nhát chém dữ dội lên đơn thể; nếu mục tiêu đang ở trong địa hình [Ngục Hắc Viêm], sát thương tăng 70%. Đồng thời tạo địa hình [Vực Hắc Viêm]. Sau khi trúng đòn, kèm thêm [Ma năng xé rách]: lần kế tiếp mục tiêu chịu sát thương ma pháp, sát thương cuối cùng của lần đó tăng 20%.",
+                "9": "Cần dùng trong trạng thái [Long Ma Đao · Khai nhận]. Phát động một nhát chém dữ dội lên đơn thể; nếu mục tiêu đang ở trong địa hình [Ngục Hắc Viêm], sát thương tăng 70%. Đồng thời tạo địa hình [Vực Hắc Viêm]. Sau khi trúng đòn, kèm thêm [Ma năng xé rách]: lần kế tiếp mục tiêu chịu sát thương ma pháp, sát thương cuối cùng của lần đó tăng 40%.",
+                "10": "Cần dùng trong trạng thái [Long Ma Đao · Khai nhận]. Phát động một nhát chém dữ dội lên đơn thể; nếu mục tiêu đang ở trong địa hình [Ngục Hắc Viêm], sát thương tăng 70%. Đồng thời tạo địa hình [Vực Hắc Viêm]. Sau khi trúng đòn, kèm thêm [Ma năng xé rách]: lần kế tiếp mục tiêu chịu sát thương ma pháp, sát thương cuối cùng của lần đó tăng 60%."
+              },
+              "阶位": "Nâng cao"
+            }
+          },
+          "必杀": {
+            "Cơn thịnh nộ của thần": {
+              "名称": "Cơn thịnh nộ của thần",
+              "类型": "Chủ động",
+              "描述": "Đòn đánh quang học vật lý lợi dụng giọt nước phản xạ ánh mặt trời. Một cuộc xử quyết không tiếng động.",
+              "特殊效果": {
+                "1": "Dẫn 1 hiệp. Khi hiệp kế tiếp bắt đầu, gây 5 đoạn sát thương quang huy/xuyên 6d10 lên kẻ địch trong tầm nhìn. Bỏ qua AC, chỉ có thể miễn trừ Nhanh nhẹn.",
+                "2": "Dẫn 1 hiệp. Khi hiệp kế tiếp bắt đầu, gây 7 đoạn sát thương quang huy/xuyên 6d10 lên kẻ địch trong tầm nhìn. Bỏ qua AC, chỉ có thể miễn trừ Nhanh nhẹn.",
+                "3": "Dẫn 1 hiệp. Khi hiệp kế tiếp bắt đầu, gây 9 đoạn sát thương quang huy/xuyên 8d10 lên kẻ địch trong tầm nhìn. Bỏ qua AC, chỉ có thể miễn trừ Nhanh nhẹn.",
+                "4": "Dẫn 1 hiệp. Khi hiệp kế tiếp bắt đầu, gây 10 đoạn sát thương quang huy/xuyên 8d10 lên kẻ địch trong tầm nhìn. Bỏ qua AC, chỉ có thể miễn trừ Nhanh nhẹn. Nếu mục tiêu chưa phát giác bạn, chắc chắn trọng kích.",
+                "5": "Dẫn 1 hiệp. Khi hiệp kế tiếp bắt đầu, gây 12 đoạn sát thương quang huy/xuyên 10d10 lên kẻ địch trong tầm nhìn. Bỏ qua AC, chỉ có thể miễn trừ Nhanh nhẹn. Nếu mục tiêu chưa phát giác bạn, chắc chắn trọng kích.",
+                "6": "Gây 24 đoạn sát thương quang huy/xuyên 10d10 lên kẻ địch trong tầm nhìn. Bỏ qua AC, chỉ có thể miễn trừ Nhanh nhẹn. Nếu mục tiêu chưa phát giác bạn, chắc chắn trọng kích.",
+                "7": "Gây 24 đoạn sát thương quang huy/xuyên 12d12 lên kẻ địch trong tầm nhìn. Bỏ qua AC, chỉ có thể miễn trừ Nhanh nhẹn. Nếu mục tiêu chưa phát giác bạn, chắc chắn trọng kích. Sau khi mỗi chùm sáng hạ sát kẻ địch, phần sát thương tràn của lần đó sẽ khúc xạ sang kẻ địch gần nhất khác."
+              },
+              "阶位": "Tất sát"
+            },
+            "Tạo thuốc hồi phục hoàn toàn": {
+              "名称": "Tạo thuốc hồi phục hoàn toàn",
+              "类型": "Đặc biệt",
+              "描述": "Tạo ra thuốc hồi phục cấp cao nhất trong cơ thể. Phương thức tự cấp cứu tối thượng.",
+              "特殊效果": {
+                "1": "Tiêu hao toàn bộ ma lực còn lại, mỗi trận chiến giới hạn 1 lần. Hồi phục 50% sinh mệnh tối đa của bản thân, xóa toàn bộ trạng thái tiêu cực.",
+                "2": "Tiêu hao toàn bộ ma lực còn lại, mỗi trận chiến giới hạn 1 lần. Hồi phục 60% sinh mệnh tối đa của bản thân, xóa toàn bộ trạng thái tiêu cực.",
+                "3": "Tiêu hao toàn bộ ma lực còn lại, mỗi trận chiến giới hạn 1 lần. Hồi phục 70% sinh mệnh tối đa của bản thân, xóa toàn bộ trạng thái tiêu cực.",
+                "4": "Tiêu hao toàn bộ ma lực còn lại, mỗi trận chiến giới hạn 1 lần. Hồi phục 80% sinh mệnh tối đa của bản thân, xóa toàn bộ trạng thái tiêu cực.",
+                "5": "Tiêu hao toàn bộ ma lực còn lại, mỗi trận chiến giới hạn 1 lần. Hồi phục 90% sinh mệnh tối đa của bản thân, xóa toàn bộ trạng thái tiêu cực.",
+                "6": "Tiêu hao toàn bộ ma lực còn lại, mỗi trận chiến giới hạn 2 lần. Hồi phục 100% sinh mệnh tối đa của bản thân, xóa toàn bộ trạng thái tiêu cực.",
+                "7": "Tiêu hao một nửa ma lực còn lại, mỗi trận chiến giới hạn 3 lần. Hồi phục 100% sinh mệnh tối đa của bản thân, xóa toàn bộ trạng thái tiêu cực."
+              },
+              "阶位": "Tất sát"
+            },
+            "Vua Bão Tố · Triệu hồi hình chiếu Veldora": {
+              "名称": "Vua Bão Tố · Triệu hồi hình chiếu Veldora",
+              "类型": "Triệu hồi",
+              "描述": "Triệu hồi hình chiếu ma lực của người bạn thân Veldora để phối hợp chiến đấu.",
+              "召唤物名称": "Hình chiếu Veldora",
+              "特殊效果": {
+                "1": "Triệu hồi hình chiếu Veldora, kéo dài 3 hiệp. Hình chiếu mỗi hiệp ngẫu nhiên phóng thích [Hơi thở Bão Tố] (2d6 sát thương sét).",
+                "2": "Triệu hồi hình chiếu Veldora, kéo dài 3 hiệp. Hình chiếu mỗi hiệp ngẫu nhiên phóng thích [Hơi thở Bão Tố] (2d8 sát thương sét).",
+                "3": "Triệu hồi hình chiếu Veldora, kéo dài 3 hiệp. Hình chiếu mỗi hiệp ngẫu nhiên phóng thích [Hơi thở Bão Tố] (2d10 sát thương sét).",
+                "4": "Triệu hồi hình chiếu Veldora, kéo dài 3 hiệp. Hình chiếu mỗi hiệp ngẫu nhiên phóng thích [Hơi thở Bão Tố] (3d10 sát thương sét).",
+                "5": "Triệu hồi hình chiếu Veldora, kéo dài 3 hiệp. Hình chiếu mỗi hiệp ngẫu nhiên phóng thích [Hơi thở Bão Tố] (4d6 sát thương sét).",
+                "6": "Triệu hồi hình chiếu Veldora, kéo dài 3 hiệp. Hình chiếu mỗi hiệp ngẫu nhiên phóng thích [Hơi thở Bão Tố] (4d8 sát thương sét).",
+                "7": "Triệu hồi hình chiếu Veldora, kéo dài 3 hiệp. Hình chiếu mỗi hiệp ngẫu nhiên phóng thích [Hơi thở Bão Tố] (4d10 sát thương sét)."
+              },
+              "阶位": "Tất sát"
+            }
+          },
+          "奥义": {
+            "Bá khí Ma Vương": {
+              "名称": "Bá khí Ma Vương",
+              "类型": "Chủ động",
+              "描述": "Phóng thích toàn công suất uy áp của Ma Vương, chấn vỡ không gian và áp chế toàn bộ kẻ địch trên chiến trường.",
+              "特殊效果": {
+                "1": "Toàn bộ kẻ địch trên sân tiến hành miễn trừ Thể chất; nếu thất bại thì [Chấn nhiếp] 1 hiệp, nếu thành công thì [Run sợ] 2 hiệp. Đồng thời gây 5d10 sát thương tinh thần.",
+                "2": "Toàn bộ kẻ địch trên sân tiến hành miễn trừ Thể chất; nếu thất bại thì [Chấn nhiếp] 1 hiệp, nếu thành công thì [Run sợ] 2 hiệp. Đồng thời gây 6d10 sát thương tinh thần. DC miễn trừ +1.",
+                "3": "Toàn bộ kẻ địch trên sân tiến hành miễn trừ Thể chất; nếu thất bại thì [Chấn nhiếp] 1 hiệp, nếu thành công thì [Run sợ] 2 hiệp. Đồng thời gây 7d10 sát thương tinh thần. DC miễn trừ +2.",
+                "4": "Toàn bộ kẻ địch trên sân tiến hành miễn trừ Thể chất; nếu thất bại thì [Chấn nhiếp] 2 hiệp, nếu thành công thì [Run sợ] 3 hiệp. Đồng thời gây 8d10 sát thương tinh thần. DC miễn trừ +3.",
+                "5": "Toàn bộ kẻ địch trên sân tiến hành miễn trừ Thể chất; nếu thất bại thì [Tê liệt] 2 hiệp, nếu thành công thì [Run sợ] 3 hiệp. Đồng thời gây 10d10 sát thương tinh thần. DC miễn trừ +4."
+              },
+              "阶位": "Áo nghĩa"
+            },
+            "Vua Trí Tuệ · Giải phóng quyền năng": {
+              "名称": "Vua Trí Tuệ · Giải phóng quyền năng",
+              "类型": "Đặc biệt",
+              "描述": "Phát huy năng lực diễn toán tới cực hạn, cường hóa toàn diện.",
+              "特殊效果": {
+                "1": "Toàn bộ kiểm định thuộc tính +2. DC miễn trừ của mọi kỹ năng +2.",
+                "2": "Toàn bộ kiểm định thuộc tính +3. DC miễn trừ của mọi kỹ năng +4.",
+                "3": "Toàn bộ kiểm định thuộc tính +4. DC miễn trừ của mọi kỹ năng +6.",
+                "4": "Toàn bộ kiểm định thuộc tính +4. Mỗi hiệp tự động nhận hiệu ứng [Đại Hiền Giả · Tự động diễn toán] ở cấp này. DC miễn trừ của mọi kỹ năng +8.",
+                "5": "Toàn bộ kiểm định thuộc tính +5. Bạn luôn ở trong trạng thái [Gia tốc tư duy]. DC miễn trừ của mọi kỹ năng +10."
+              },
+              "阶位": "Áo nghĩa"
+            },
+            "Vua Thệ Ước · Uriel": {
+              "名称": "Vua Thệ Ước · Uriel",
+              "类型": "Đặc biệt",
+              "描述": "Sự chi phối và cách tuyệt không gian tuyệt đối. Phòng ngự vô địch.",
+              "特殊效果": {
+                "1": "Chủ động mở. Bạn và đồng minh trong phạm vi 10 feet quanh bạn miễn dịch mọi sát thương, kéo dài 1 hiệp. Mỗi kỳ nghỉ dài 1 lần.",
+                "2": "Chủ động mở. Bạn và đồng minh trong phạm vi 10 feet quanh bạn miễn dịch mọi sát thương, kéo dài 2 hiệp. Mỗi kỳ nghỉ dài 1 lần.",
+                "3": "Chủ động mở. Bạn và đồng minh trong phạm vi 10 feet quanh bạn miễn dịch mọi sát thương, kéo dài 2 hiệp. Mỗi kỳ nghỉ dài 2 lần.",
+                "4": "Chủ động mở. Bạn và đồng minh trong phạm vi 10 feet quanh bạn miễn dịch mọi sát thương, kéo dài 2 hiệp. Khi kết thúc, hồi phục 20% sinh mệnh cho mọi người được hưởng hiệu ứng. Mỗi kỳ nghỉ dài 2 lần.",
+                "5": "Chủ động mở. Bạn và đồng minh trong phạm vi 10 feet quanh bạn miễn dịch mọi sát thương, kéo dài 2 hiệp. Khi kết thúc, hồi phục 20% sinh mệnh cho mọi người được hưởng hiệu ứng. Mỗi kỳ nghỉ dài 3 lần."
+              },
+              "阶位": "Áo nghĩa"
+            }
+          },
+          "觉醒一": {
+            "Vua Bạo Thực · Kẻ Nuốt Chửng": {
+              "名称": "Vua Bạo Thực · Kẻ Nuốt Chửng",
+              "类型": "Chủ động",
+              "阶位": "Thức tỉnh một",
+              "描述": "Đòn tối thượng nuốt chửng sạch mọi thứ. Phối hợp với kỹ năng khống chế để kết liễu.",
+              "特殊效果": {
+                "1": "Gây sát thương cực lớn lên mục tiêu đơn thể. Nếu sinh mệnh mục tiêu thấp hơn 20%, trực tiếp xử quyết (bỏ qua kháng tính và vô địch). Sau khi nuốt chửng thành công, hồi phục toàn bộ sinh mệnh và trạng thái của bản thân.",
+                "2": "Gây sát thương cực lớn lên mục tiêu đơn thể. Nếu sinh mệnh mục tiêu thấp hơn 25%, trực tiếp xử quyết (bỏ qua kháng tính và vô địch). Sau khi nuốt chửng thành công, hồi phục toàn bộ sinh mệnh và trạng thái của bản thân, kinh nghiệm nhận được +30%.",
+                "3": "Gây sát thương cực lớn lên mục tiêu đơn thể. Nếu sinh mệnh mục tiêu thấp hơn 30%, trực tiếp xử quyết (bỏ qua kháng tính và vô địch). Sau khi nuốt chửng thành công, hồi phục toàn bộ sinh mệnh và trạng thái của bản thân, kinh nghiệm nhận được +50%."
+              }
+            }
+          },
+          "觉醒二": {
+            "Giải phóng Long chủng": {
+              "名称": "Giải phóng Long chủng",
+              "类型": "Đặc biệt",
+              "阶位": "Thức tỉnh hai",
+              "描述": "Giải phóng chân dạng của 'long ma niêm tính tinh thần thể'. Thể hình lớn hơn, thuộc tính tăng vọt và nhận long uy.",
+              "特殊效果": {
+                "1": "Biến thân thành hình thái long ma, kiểm định Sức mạnh và Thể chất +15, mỗi hiệp hồi phục 10% sinh mệnh. Đòn đánh thường kèm sát thương lan hắc lôi phạm vi lớn (tức cộng thêm toàn sát thương 500%); mỗi hiệp kẻ địch phải qua một lần kiểm định uy hiếp (Thể chất).",
+                "2": "Biến thân thành hình thái long ma, kiểm định Sức mạnh và Thể chất +20, mỗi hiệp hồi phục 20% sinh mệnh, miễn dịch sát thương vật lý. Đòn đánh thường kèm sát thương lan hắc lôi phạm vi lớn (tức cộng thêm toàn sát thương 600%); mỗi hiệp kẻ địch phải qua một lần kiểm định uy hiếp (Thể chất)."
+              }
+            }
+          },
+          "觉醒三": {
+            "Thần Hư Không": {
+              "名称": "Thần Hư Không",
+              "类型": "Đặc biệt",
+              "阶位": "Thức tỉnh ba",
+              "描述": "Năng lực tối thượng [Azathoth]. Nắm giữ quyền năng thần thánh của hư vô và hỗn độn.",
+              "特殊效果": {
+                "1": "Mỗi trận 1 lần. Tiêu hao toàn bộ năng lượng. Chọn một mục: 1. xóa bỏ hoàn toàn một tồn tại phi thần tính trong tầm nhìn; 2. tái tạo môi trường xung quanh (thay đổi địa mạo, pháp tắc); 3. hồi phục hoàn toàn mọi trạng thái của bản thân và nhận tăng sát thương 1000%."
+              }
+            }
+          }
+        }
+      },
+      "skillFlavorInput": "Đầu ra",
+      "teammates": [],
+      "customTeammate": null,
+      "selectedTraits": [],
+      "customTraits": [
+        {
+          "name": "Đại Hiền Giả",
+          "effect": "Thông qua sự hỗ trợ của Đại Hiền Giả, Rimuru thường có thể tìm được lời giải tối ưu, kiểm định Trí lực +5. Có thể chủ động để Đại Hiền Giả điều khiển cơ thể bước vào trạng thái lý trí tuyệt đối, mọi kiểm định chiến đấu chắc chắn có lợi thế và sở hữu mô thức hành vi khác với bản thân ban đầu. Có thể để Đại Hiền Giả phân tích chiêu thức của địch, nhận được một kỹ năng tài nguyên."
+        },
+        {
+          "name": "Beelzebub",
+          "effect": "Rimuru có thể dùng một hành động để thử nuốt chửng sinh vật có sinh mệnh thấp hơn 10% (kiểm định Sức mạnh). Nếu sinh vật bị nuốt chết đi, Rimuru có thể chọn nhận một đặc chất của sinh vật đó, hoặc học một pháp thuật mà sinh vật đó biết."
+        },
+        {
+          "name": "Phân tích dung hợp",
+          "effect": "Có thể thông qua kiểm định Trí lực để dung hợp đặc chất và pháp thuật, từ đó nhận đặc chất mới hoặc kỹ năng tài nguyên mới. Độ khó DC do DM thiết lập."
+        }
+      ],
+      "customExpertise": [],
+      "customIdentity": {
+        "enabled": true,
+        "name": "Xuất thân tùy chỉnh",
+        "desc": "",
+        "tierIndex": 0
+      },
+      "selectedOpening": "custom",
+      "customOpeningText": "Được Tetto triệu hồi đến Disboard",
+      "selectedDifficulty": "normal",
+      "customRace": {
+        "enabled": true,
+        "name": "Slime",
+        "trait1": {
+          "name": "Bạo thực",
+          "detail": "Kinh nghiệm nhận được +100%. Có thể dùng một hành động để thay đổi ngoại hình: biến về dạng slime (quái bùn siêu nhỏ), hoặc biến thành một sinh vật hình người từng bị bản thân nuốt chửng (thường là dáng vẻ của Shizu). Mỗi khi hạ sát một đơn vị có cấp cao hơn bản thân, toàn bộ thuộc tính +1. Có thể cất vật phẩm/sinh vật sống trong dạ dày.",
+          "negative": false
+        },
+        "trait2": {
+          "name": "Ma Vương",
+          "detail": "Trong trạng thái chiến đấu, cuối mỗi hiệp nhận cộng thêm 5% sát thương cuối cùng. Khi kiểm định, mỗi lần kiểm định tung 3 xúc xắc và lấy kết quả cao nhất. Khi tấn công, sát thương cơ bản kèm thêm sát thương phụ bằng Trí lực ×5. Có thể tự do triệu hồi những người từng được bản thân đặt tên.",
+          "negative": false
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "ok": true,
+  "preset": {
+    "id": "e1bbda05-3923-4f79-9a9d-524c9e833561",
+    "ownerId": "1466782605797097512",
+    "ownerName": "luiyun",
+    "author": "luiyun",
+    "authorAvatar": "",
+    "name": "Emiya",
+    "title": "Emiya",
+    "intro": "Tôi đã cố gắng ghép đủ toàn bộ chiêu hệ Shirou vào đây, bao gồm hợp nhất ba tuyến, Đại Mạo Hiểm Đời Hai, Muramasa; phần Hắc A chỉ nhét thêm mỗi Kiếm Chế Đã Mất.",
+    "coverUrl": "/api/presets/e1bbda05-3923-4f79-9a9d-524c9e833561/cover",
+    "className": "Pháp sư chiếu ảnh",
+    "race": "Nhân loại chủng · Căn nguyên",
+    "tags": [
+      "Bộc phát",
+      "Vượt chuẩn",
+      "Dọn quái"
+    ],
+    "likes": 2,
+    "liked": false,
+    "downloads": 64,
+    "status": "published",
+    "createdAt": "2026-05-12 03:00:33",
+    "updatedAt": "2026-05-25 04:15:19",
+    "lastLikedAt": "",
+    "presetData": {
+      "name": "Emiya",
+      "class": "Pháp sư chiếu ảnh",
+      "customClassName": "Pháp sư chiếu ảnh",
+      "race": "__custom__",
+      "customRace": {
+        "name": "Nhân loại chủng · Căn nguyên"
+      },
+      "customClassStyle": "Có thể phân tích và chiếu ảnh những vật từng nhìn thấy. Khi chiếu ảnh sẽ nhận được võ kỹ mà chủ nhân ban đầu sở hữu, phong cách chiến đấu biến hóa đa dạng.",
+      "backstory": "",
+      "selectedCustomLevel": null
+    },
+    "downloadUrl": "/api/presets/e1bbda05-3923-4f79-9a9d-524c9e833561/file"
+  }
+}

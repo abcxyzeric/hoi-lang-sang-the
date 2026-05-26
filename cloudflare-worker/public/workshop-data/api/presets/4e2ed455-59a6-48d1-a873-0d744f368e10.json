@@ -1,0 +1,38 @@
+{
+  "ok": true,
+  "preset": {
+    "id": "4e2ed455-59a6-48d1-a873-0d744f368e10",
+    "ownerId": "1314651332954685470",
+    "ownerName": "C17",
+    "author": "C17",
+    "authorAvatar": "https://cdn.discordapp.com/avatars/1314651332954685470/ab508bef40332e5abbecf721f290a377.png?size=128",
+    "name": "Học giả Chiếu Minh Thuật",
+    "title": "Học giả Chiếu Minh Thuật",
+    "intro": "Nghề nghiệp được viết tham khảo chuẩn tắc Đăng và Chiếu Minh thuật trong game Cultist Simulator cùng Book of Hours, độ mạnh khá kiểu ngồi xe lăn.\n—————\nPháp sư, thuộc tính cốt lõi là Trí lực, yếu tố lõi của nghề là chuẩn tắc Đăng, Chiếu Minh thuật và ánh sáng.\nNội dung bao gồm cây kỹ năng và hai đặc chất, còn lại đều có thể tự chỉnh.\nKỹ năng có rất nhiều năng lực buff và debuff, cơ chế khá nhiều, sát thương đầu trận tương đối thấp.\nHiệu quả kỹ năng bao gồm nhưng không giới hạn ở dịch chuyển chớp nhoáng, khống chế tinh thần, sát thương theo phần trăm và thao túng xúc xắc.\n—————\nKỹ năng khá nhiều, sau khi nâng đầy kỹ năng đặc biệt và kỹ năng bị động có thể để AI ghi các kỹ năng đó vào cột hiệu ứng trạng thái, rồi hủy trang bị và hạ cấp kỹ năng để giải phóng ô kỹ năng và điểm SP.\nLưu ý: trong yếu tố của chuẩn tắc Đăng có bao gồm lý tính và sự bất nhân, nếu không muốn kiểu miêu tả nhân vật như vậy thì cần ghi rõ trong phần mô tả thiết lập người dùng.",
+    "coverUrl": "/api/presets/4e2ed455-59a6-48d1-a873-0d744f368e10/cover",
+    "className": "Học giả Chiếu Minh Thuật",
+    "race": "Chủng người",
+    "tags": [
+      "Khống chế",
+      "Cơ chế"
+    ],
+    "likes": 0,
+    "liked": false,
+    "downloads": 51,
+    "status": "published",
+    "createdAt": "2026-03-19 14:26:00",
+    "updatedAt": "2026-05-21 16:43:55",
+    "lastLikedAt": "",
+    "presetData": {
+      "name": "Kẻ Tái Sinh Lần Hai",
+      "class": "Học giả Chiếu Minh Thuật",
+      "customClassName": "Học giả Chiếu Minh Thuật",
+      "race": "Chủng người",
+      "customRace": null,
+      "customClassStyle": "Pháp sư, thuộc tính cốt lõi là Trí lực, yếu tố lõi của nghề là chuẩn tắc Đăng, Chiếu Minh thuật và ánh sáng.\nKỹ năng có rất nhiều năng lực buff và debuff, cơ chế khá nhiều, sát thương đầu trận tương đối thấp.",
+      "backstory": "",
+      "selectedCustomLevel": 1
+    },
+    "downloadUrl": "/api/presets/4e2ed455-59a6-48d1-a873-0d744f368e10/file"
+  }
+}

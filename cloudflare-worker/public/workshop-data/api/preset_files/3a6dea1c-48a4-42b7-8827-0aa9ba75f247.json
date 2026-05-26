@@ -1,0 +1,736 @@
+{
+  "exportedAt": "2026-03-30T06:02:37.094Z",
+  "version": "1.0",
+  "preset": {
+    "id": "1774850556020",
+    "name": "Yogg-Saron",
+    "timestamp": 1774850556020,
+    "createdAt": 1774850556020,
+    "updatedAt": 1774850556020,
+    "data": {
+      "name": "Yogg-Saron",
+      "gender": "Không",
+      "age": "Tồn tại từ thuở vĩnh hằng",
+      "race": "__custom__",
+      "identity": "__custom__",
+      "avatar": "",
+      "attributes": {
+        "strength": 13,
+        "dexterity": 10,
+        "constitution": 15,
+        "intelligence": 15,
+        "wisdom": 10,
+        "charisma": 8
+      },
+      "backstory": "Ác Ma Ngàn Miệng, kẻ dệt số mệnh và điên loạn. Sinh ra trong hư không, cùng Y'Shaarj, N'Zoth và C'Thun được gọi là Cựu Thần. Yogg-Saron bị Titan phong ấn trong nhà tù dưới lòng Northrend, nhưng tiếng thì thầm của hắn chưa bao giờ dừng lại. Hắn không cần mắt, vì hắn có vô số cái miệng đang rì rầm; hắn không cần tay, vì hắn có vô số xúc tu đang dệt nên những sợi chỉ số mệnh. Mỗi ý nghĩ điên loạn đều là con nối dõi của hắn, mỗi viên xúc xắc được tung ra đều là lời thì thầm của hắn. Trong hỗn mang nơi Disboard và Arad hòa nhập, Yogg-Saron ngửi thấy món đồ chơi mới: những chủng tộc tự cho rằng mình có thể quyết định số mệnh bằng \"trò chơi\", thực ra chỉ là con rối nhảy múa trong lòng bàn tay hắn.",
+      "selectedLevelMode": "native",
+      "selectedCustomLevel": null,
+      "selectedSpawnPoint": "Tầng dưới thành phố vách Cảng Hoàn Uyên · bờ biển ngoại vi",
+      "class": "Ác Ma Ngàn Miệng · Yogg-Saron",
+      "selectedBaseClass": "Nghề tùy chỉnh",
+      "customClassName": "Ác Ma Ngàn Miệng · Yogg-Saron",
+      "customClassStyle": "Pháp thuật ngẫu nhiên, thao túng số mệnh, dệt sự điên loạn",
+      "customClassWeapon": "Lời thì thầm ngàn miệng / Chạm số mệnh / Ánh nhìn điên loạn",
+      "customClassCombatStyle": "Kiểu thi pháp ngẫu nhiên · thao túng số mệnh",
+      "skillTree": {
+        "基础": [
+          {
+            "名称": "Lời Thì Thầm Của Số Mệnh",
+            "类型": "Đặc biệt",
+            "描述": "Vô số cái miệng của Yogg-Saron khẽ rì rầm; từng âm tiết đều bẻ cong hoa văn của hiện thực. Kẻ nghe thấy những lời thì thầm ấy hoặc nhận được khải thị, hoặc rơi vào điên loạn.",
+            "特殊效果": {
+              "1": "Khi bắt đầu mỗi hiệp, ngẫu nhiên chọn một mục tiêu. Mục tiêu đó có 80% xác suất nhận [Khải thị] (toàn thuộc tính +10%), 20% xác suất nhận [Mê sảng] (toàn thuộc tính -10%).",
+              "2": "Ngẫu nhiên chọn hai mục tiêu. 70% xác suất [Khải thị], 30% xác suất [Mê sảng].",
+              "3": "Ngẫu nhiên chọn ba mục tiêu. 65% xác suất [Khải thị], 35% xác suất [Mê sảng].",
+              "4": "Ngẫu nhiên chọn bốn mục tiêu. 60% xác suất [Khải thị], 40% xác suất [Mê sảng].",
+              "5": "Ngẫu nhiên chọn năm mục tiêu. 55% xác suất [Khải thị], 45% xác suất [Mê sảng].",
+              "6": "Ngẫu nhiên chọn sáu mục tiêu. 50% xác suất [Khải thị], 50% xác suất [Mê sảng].",
+              "7": "Ngẫu nhiên chọn mọi mục tiêu trên sân. 45% xác suất [Khải thị], 55% xác suất [Mê sảng].",
+              "8": "Ngẫu nhiên chọn mọi mục tiêu trên sân. 40% xác suất [Khải thị], 60% xác suất [Mê sảng]; hiệu quả [Khải thị] tăng lên +15%.",
+              "9": "Ngẫu nhiên chọn mọi mục tiêu trên sân. 35% xác suất [Khải thị], 65% xác suất [Mê sảng]; hiệu quả [Mê sảng] tăng lên -15%.",
+              "10": "Ngẫu nhiên chọn mọi mục tiêu trên sân. 30% xác suất [Khải thị], 70% xác suất [Mê sảng]; [Khải thị] có 20% xác suất nâng cấp thành [Thần khải] (toàn thuộc tính +25%), [Mê sảng] có 20% xác suất nâng cấp thành [Điên loạn] (toàn thuộc tính -25% và ngẫu nhiên tấn công đồng minh).",
+              "11": "Ngẫu nhiên chọn mọi mục tiêu trên sân. 25% xác suất [Khải thị], 75% xác suất [Mê sảng]; xác suất [Thần khải] tăng lên 30%, xác suất [Điên loạn] tăng lên 30%.",
+              "12": "Ngẫu nhiên chọn mọi mục tiêu trên sân. 20% xác suất [Khải thị], 80% xác suất [Mê sảng]; xác suất [Thần khải] 40%, xác suất [Điên loạn] 40%.",
+              "13": "Ngẫu nhiên chọn mọi mục tiêu trên sân. 15% xác suất [Khải thị], 85% xác suất [Mê sảng]; xác suất [Thần khải] 50%, xác suất [Điên loạn] 50%.",
+              "14": "Ngẫu nhiên chọn mọi mục tiêu trên sân. 10% xác suất [Khải thị], 90% xác suất [Mê sảng]; xác suất [Thần khải] 60%, xác suất [Điên loạn] 60%.",
+              "15": "[Bản giao hưởng điên loạn] - khi bắt đầu mỗi hiệp, từng mục tiêu trên sân tự phán định độc lập: 5% xác suất nhận [Thần khải], 15% xác suất nhận [Khải thị], 30% xác suất nhận [Mê sảng], 50% xác suất nhận [Điên loạn]."
+            },
+            "阶位": "Cơ bản"
+          },
+          {
+            "名称": "Âm Thanh Ngàn Miệng",
+            "类型": "Chủ động",
+            "描述": "Yogg-Saron đồng thời dùng một ngàn cái miệng đọc một ngàn chú ngữ. Không ai biết âm tiết tiếp theo sẽ triệu gọi thứ gì.",
+            "特殊效果": {
+              "1": "Ngẫu nhiên thi triển 1 pháp thuật. Pháp thuật có thể gây sát thương, trị liệu, tăng ích hoặc bất lợi, hiệu quả tương đương 50% pháp thuật thông thường.",
+              "2": "Ngẫu nhiên thi triển 2 pháp thuật, hiệu quả tăng lên 60%.",
+              "3": "Ngẫu nhiên thi triển 3 pháp thuật, hiệu quả tăng lên 70%.",
+              "4": "Ngẫu nhiên thi triển 4 pháp thuật, hiệu quả tăng lên 80%.",
+              "5": "Ngẫu nhiên thi triển 5 pháp thuật, hiệu quả tăng lên 90%.",
+              "6": "Ngẫu nhiên thi triển 6 pháp thuật, hiệu quả đạt 100%.",
+              "7": "Ngẫu nhiên thi triển 7 pháp thuật, hiệu quả 110%; giữa các pháp thuật có thể sinh ra [Phản ứng dây chuyền].",
+              "8": "Ngẫu nhiên thi triển 8 pháp thuật, hiệu quả 120%; xác suất [Phản ứng dây chuyền] tăng lên.",
+              "9": "Ngẫu nhiên thi triển 9 pháp thuật, hiệu quả 130%; có thể xuất hiện [Pháp thuật kỳ tích] (hiệu quả gấp đôi).",
+              "10": "Ngẫu nhiên thi triển 10 pháp thuật, hiệu quả 150%; xác suất [Pháp thuật kỳ tích] 20%; sau khi thi triển xong, căn cứ vào số lượng pháp thuật đã thi triển để hồi phục lượng sinh mệnh theo cùng số phần trăm.",
+              "11": "Ngẫu nhiên thi triển 12 pháp thuật, hiệu quả 180%; xác suất [Pháp thuật kỳ tích] 30%; pháp thuật có 10% xác suất được [Sao chép] một lần.",
+              "12": "Ngẫu nhiên thi triển 14 pháp thuật, hiệu quả 200%; xác suất [Pháp thuật kỳ tích] 40%; pháp thuật có 20% xác suất được [Sao chép].",
+              "13": "Ngẫu nhiên thi triển 16 pháp thuật, hiệu quả 250%; xác suất [Pháp thuật kỳ tích] 50%; pháp thuật có 30% xác suất được [Sao chép].",
+              "14": "Ngẫu nhiên thi triển 18 pháp thuật, hiệu quả 300%; xác suất [Pháp thuật kỳ tích] 60%; pháp thuật có 40% xác suất được [Sao chép].",
+              "15": "[Ngâm tụng vô tận] - ngẫu nhiên thi triển 20 pháp thuật, hiệu quả 500%; mỗi lần thi triển pháp thuật có 50% xác suất thi triển thêm một pháp thuật giống hệt; xác suất [Pháp thuật kỳ tích] 80%; sau khi thi triển xong, Yogg-Saron tiến vào trạng thái [Vọng âm điên loạn]: trong trận chiến này, mỗi lần từng thi triển một pháp thuật sẽ vĩnh viễn tăng 1% hiệu quả của toàn bộ pháp thuật."
+            },
+            "阶位": "Cơ bản"
+          },
+          {
+            "名称": "Chạm Số Mệnh",
+            "类型": "Chủ động",
+            "描述": "Xúc tu của Yogg-Saron khẽ gảy những sợi chỉ số mệnh. Kết quả ư? Ai mà biết được.",
+            "特殊效果": {
+              "1": "Ngẫu nhiên hoán đổi tỷ lệ phần trăm sinh mệnh hiện tại của hai mục tiêu trên sân.",
+              "2": "Ngẫu nhiên hoán đổi toàn bộ trạng thái tăng ích của hai mục tiêu trên sân.",
+              "3": "Ngẫu nhiên hoán đổi toàn bộ trạng thái bất lợi của hai mục tiêu trên sân.",
+              "4": "Ngẫu nhiên sao chép một trạng thái tăng ích trên một mục tiêu sang một mục tiêu ngẫu nhiên khác.",
+              "5": "Ngẫu nhiên sao chép một trạng thái bất lợi trên một mục tiêu sang một mục tiêu ngẫu nhiên khác.",
+              "6": "Ngẫu nhiên chọn một mục tiêu, phân phối ngẫu nhiên toàn bộ trạng thái tăng ích của mục tiêu đó cho các mục tiêu khác trên sân.",
+              "7": "Ngẫu nhiên chọn một mục tiêu, phân phối ngẫu nhiên toàn bộ trạng thái bất lợi của mục tiêu đó cho các mục tiêu khác trên sân.",
+              "8": "Ngẫu nhiên hoán đổi lực công kích của một mục tiêu trên sân với lực phòng ngự của một mục tiêu khác.",
+              "9": "Ngẫu nhiên hoán đổi tốc độ của một mục tiêu trên sân với may mắn của một mục tiêu khác.",
+              "10": "[Xáo bài số mệnh] - ngẫu nhiên đặt lại toàn bộ trạng thái tăng ích/bất lợi của mọi mục tiêu trên sân; mỗi mục tiêu nhận 1-3 trạng thái ngẫu nhiên mới.",
+              "11": "[Dệt số mệnh] - chọn một mục tiêu; trong 3 hiệp kế tiếp, mọi mục tiêu tấn công của mục tiêu đó đều bị ngẫu nhiên hóa, mọi nguồn sát thương mà mục tiêu đó phải chịu cũng bị ngẫu nhiên hóa.",
+              "12": "[Đảo ngược số mệnh] - ngẫu nhiên chọn một mục tiêu, đảo ngược hiệu quả đòn tấn công kế tiếp của mục tiêu đó (sát thương biến thành trị liệu, trị liệu biến thành sát thương).",
+              "13": "[Chia sẻ số mệnh] - ngẫu nhiên nối hai mục tiêu lại với nhau; sát thương và trị liệu họ nhận sẽ được chia sẻ.",
+              "14": "[Vòng quay số mệnh] - mọi mục tiêu trên sân tung một viên xúc xắc số mệnh: 1-3 nhận một hiệu ứng tiêu cực, 4-6 nhận một hiệu ứng tích cực; cường độ hiệu ứng phụ thuộc vào điểm tung ra.",
+              "15": "[Vòng quay số mệnh của Yogg-Saron] - một vòng quay lớn xuất hiện trên chiến trường. Yogg-Saron xoay nó, rồi từng mục tiêu trên sân (bao gồm chính Yogg) bị dịch chuyển ngẫu nhiên đến một vị trí ngẫu nhiên, nhận một trạng thái ngẫu nhiên, đồng thời chịu một lần sát thương thuộc loại ngẫu nhiên (lượng sát thương ngẫu nhiên, có thể là 0 cũng có thể chí mạng)."
+            },
+            "阶位": "Cơ bản"
+          },
+          {
+            "名称": "Ánh Nhìn Điên Loạn",
+            "类型": "Chủ động",
+            "描述": "Yogg-Saron mở đôi mắt vốn không tồn tại của hắn, xuyên qua hư không nhìn thẳng vào linh hồn ngươi. Kẻ nhìn thấy đôi mắt ấy sẽ thấy nỗi sợ sâu nhất trong lòng mình.",
+            "特殊效果": {
+              "1": "Nhìn chăm chú một mục tiêu, khiến mục tiêu rơi vào trạng thái [Sợ hãi], có 50% xác suất ngẫu nhiên tấn công đồng minh, kéo dài 1 hiệp.",
+              "2": "Nhìn chăm chú một mục tiêu, [Sợ hãi] kéo dài 2 hiệp, có 60% xác suất hành động ngẫu nhiên.",
+              "3": "Nhìn chăm chú một mục tiêu, [Sợ hãi] kéo dài 2 hiệp, có 70% xác suất hành động ngẫu nhiên; đồng thời mục tiêu chịu một lần sát thương tinh thần.",
+              "4": "Nhìn chăm chú hai mục tiêu, [Sợ hãi] kéo dài 2 hiệp, có 70% xác suất hành động ngẫu nhiên.",
+              "5": "Nhìn chăm chú hai mục tiêu, [Sợ hãi] kéo dài 3 hiệp, có 80% xác suất hành động ngẫu nhiên; sát thương tăng lên.",
+              "6": "Nhìn chăm chú ba mục tiêu, [Sợ hãi] kéo dài 3 hiệp, có 80% xác suất hành động ngẫu nhiên.",
+              "7": "Nhìn chăm chú ba mục tiêu, [Sợ hãi] kéo dài 3 hiệp, có 90% xác suất hành động ngẫu nhiên; mục tiêu bị nhìn chăm chú sẽ thấy [Ảo tượng], mỗi hiệp chịu thêm một lần sát thương tinh thần.",
+              "8": "Nhìn chăm chú bốn mục tiêu, [Sợ hãi] kéo dài 3 hiệp, có 90% xác suất hành động ngẫu nhiên.",
+              "9": "Nhìn chăm chú bốn mục tiêu, [Sợ hãi] kéo dài 4 hiệp, có 95% xác suất hành động ngẫu nhiên; sát thương [Ảo tượng] tăng lên.",
+              "10": "Nhìn chăm chú năm mục tiêu, [Sợ hãi] kéo dài 4 hiệp, có 95% xác suất hành động ngẫu nhiên; trong thời gian sợ hãi, mục tiêu bị nhìn chăm chú có 50% xác suất mỗi hiệp lây [Sợ hãi] sang một đồng minh liền kề.",
+              "11": "Nhìn chăm chú sáu mục tiêu, [Sợ hãi] kéo dài 4 hiệp, có 100% xác suất hành động ngẫu nhiên; xác suất [Lây nhiễm] tăng lên 70%.",
+              "12": "Nhìn chăm chú bảy mục tiêu, [Sợ hãi] kéo dài 5 hiệp, có 100% xác suất hành động ngẫu nhiên; sát thương [Ảo tượng] lại tăng lên; mục tiêu bị nhìn chăm chú có xác suất nhất định trực tiếp [Sụp đổ] (bỏ qua cả hiệp).",
+              "13": "Nhìn chăm chú tám mục tiêu, [Sợ hãi] kéo dài 5 hiệp; xác suất [Sụp đổ] tăng lên.",
+              "14": "Nhìn chăm chú chín mục tiêu, [Sợ hãi] kéo dài 5 hiệp; sau khi sợ hãi kết thúc, mục tiêu bị nhìn chăm chú có 50% xác suất vĩnh viễn nhận một đặc chất [Điên loạn] (xác suất hành động ngẫu nhiên vĩnh viễn +10%).",
+              "15": "[Ánh Nhìn Vạn Nhãn] - Yogg-Saron 'mở' toàn bộ mắt của hắn, nhìn chăm chú mọi mục tiêu trên sân. Mỗi mục tiêu phán định độc lập: 30% xác suất lập tức [Sụp đổ]; 40% xác suất tiến vào [Sợ hãi] sâu (kéo dài 5 hiệp, mỗi hiệp có 100% xác suất hành động ngẫu nhiên); 30% xác suất nhìn thấy [Ảo tượng tối hậu] (chịu sát thương tinh thần cực lớn, đồng thời trong 3 hiệp kế tiếp mỗi hiệp chịu sát thương duy trì)."
+            },
+            "阶位": "Cơ bản"
+          }
+        ],
+        "转职": [
+          {
+            "名称": "Không Thể Gọi Tên",
+            "类型": "Đặc biệt",
+            "描述": "Sự tồn tại của Yogg-Saron tự thân đã là một nghịch lý. Bất kỳ ai cố hiểu hắn đều mất lý trí ngay khoảnh khắc tưởng rằng mình đã hiểu.",
+            "特殊效果": {
+              "1": "Bị động: bất kỳ hành vi nào cố phân tích, dự đoán hoặc phản chế Yogg-Saron đều có 10% xác suất khiến người thi thuật rơi vào [Rối trí].",
+              "2": "Bị động: xác suất rối trí tăng lên 15%.",
+              "3": "Bị động: xác suất rối trí 20%; bất kỳ hành động nào cố đọc suy nghĩ của Yogg-Saron sẽ khiến người thi thuật chịu sát thương tinh thần.",
+              "4": "Bị động: xác suất rối trí 25%; [Không Thể Gọi Tên] của Yogg-Saron khiến hắn miễn dịch mọi hình thức [Dự đoán trước] và [Đọc tâm trí].",
+              "5": "Bị động: xác suất rối trí 30%; bất kỳ mục tiêu nào thi triển pháp thuật loại [Tiên tri] trước mặt Yogg-Saron sẽ bị [Phản phệ] (kết quả tiên tri bị bóp méo, đồng thời người thi thuật rơi vào [Điên loạn])."
+            },
+            "阶位": "Chuyển nghề"
+          },
+          {
+            "名称": "Món Quà Của Saron",
+            "类型": "Chủ động",
+            "描述": "Yogg-Saron hào phóng ban cho ngươi một món quà. Mở nó đi. Nhanh lên.",
+            "特殊效果": {
+              "1": "Chọn một mục tiêu, tặng một [Món quà]. Mục tiêu có 70% xác suất nhận một hiệu ứng tăng ích, 30% xác suất nhận một hiệu ứng bất lợi.",
+              "2": "Hiệu quả [Món quà] tăng cường; xác suất điều chỉnh thành 65%/35%.",
+              "3": "Hiệu quả [Món quà] tiếp tục tăng cường; xác suất điều chỉnh thành 60%/40%; có thể xuất hiện [Bất ngờ] (hiệu quả gấp đôi hoặc hiệu quả tiêu cực gấp đôi).",
+              "4": "Xác suất điều chỉnh thành 55%/45%; xác suất [Bất ngờ] tăng lên.",
+              "5": "Xác suất điều chỉnh thành 50%/50%; xác suất [Bất ngờ] lại tăng lên; có thể chọn loại [Món quà] (sát thương/trị liệu/tăng ích/bất lợi), nhưng hiệu quả cụ thể vẫn ngẫu nhiên.",
+              "6": "Xác suất điều chỉnh thành 45%/55%; có thể chọn hai mục tiêu.",
+              "7": "Xác suất điều chỉnh thành 40%/60%; có thể chọn ba mục tiêu; hiệu quả [Món quà] tăng mạnh.",
+              "8": "Xác suất điều chỉnh thành 35%/65%; có thể chọn bốn mục tiêu; [Món quà] có thể đồng thời chứa tăng ích và bất lợi.",
+              "9": "Xác suất điều chỉnh thành 30%/70%; có thể chọn năm mục tiêu; [Món quà] có 10% xác suất là [Lời nguyền của Saron] (chắc chắn là hiệu ứng bất lợi mạnh).",
+              "10": "Xác suất điều chỉnh thành 25%/75%; có thể chọn sáu mục tiêu; [Phúc lành của Saron] (chắc chắn là hiệu ứng tăng ích mạnh) và [Lời nguyền của Saron] mỗi loại có xác suất 10%; 80% còn lại là ngẫu nhiên."
+            },
+            "阶位": "Chuyển nghề"
+          },
+          {
+            "名称": "Dòng Lũ Pháp Thuật Ngẫu Nhiên",
+            "类型": "Chủ động",
+            "描述": "Yogg-Saron phóng thích một dòng lũ pháp thuật. Không ai có thể đoán dòng lũ sẽ cuốn qua thứ gì, nhưng ai cũng biết kẻ bị cuốn vào sẽ chẳng dễ chịu.",
+            "特殊效果": {
+              "1": "Phóng thích một dòng lũ pháp thuật, ngẫu nhiên gây sát thương thuộc loại ngẫu nhiên lên 1-3 mục tiêu.",
+              "2": "Ngẫu nhiên gây sát thương lên 2-4 mục tiêu; lượng sát thương ngẫu nhiên (80%-120%).",
+              "3": "Ngẫu nhiên gây sát thương lên 3-5 mục tiêu; sát thương ngẫu nhiên; có 20% xác suất kèm bất lợi ngẫu nhiên.",
+              "4": "Ngẫu nhiên gây sát thương lên 4-6 mục tiêu; sát thương ngẫu nhiên; có 30% xác suất kèm bất lợi ngẫu nhiên; có 10% xác suất kích hoạt [Tạt lan].",
+              "5": "Ngẫu nhiên gây sát thương lên 5-7 mục tiêu; sát thương ngẫu nhiên; có 40% xác suất kèm bất lợi ngẫu nhiên; có 15% xác suất kích hoạt [Tạt lan].",
+              "6": "Ngẫu nhiên gây sát thương lên 6-8 mục tiêu; sát thương ngẫu nhiên; có 50% xác suất kèm bất lợi ngẫu nhiên; có 20% xác suất kích hoạt [Tạt lan]; có 5% xác suất kích hoạt [Hủy diệt] (sát thương gấp đôi).",
+              "7": "Ngẫu nhiên gây sát thương lên 7-9 mục tiêu; sát thương ngẫu nhiên; xác suất bất lợi 60%; tạt lan 25%; hủy diệt 10%.",
+              "8": "Ngẫu nhiên gây sát thương lên 8-10 mục tiêu; sát thương ngẫu nhiên; xác suất bất lợi 70%; tạt lan 30%; hủy diệt 15%.",
+              "9": "Ngẫu nhiên gây sát thương lên 9-11 mục tiêu; sát thương ngẫu nhiên; xác suất bất lợi 80%; tạt lan 35%; hủy diệt 20%.",
+              "10": "Ngẫu nhiên gây sát thương lên 10-12 mục tiêu; sát thương ngẫu nhiên; xác suất bất lợi 90%; tạt lan 40%; hủy diệt 25%; khi dòng lũ kết thúc, có 10% xác suất lại thi triển một lần [Dòng Lũ Pháp Thuật Ngẫu Nhiên]."
+            },
+            "阶位": "Chuyển nghề"
+          }
+        ],
+        "进阶": [
+          {
+            "名称": "Ảo Tượng Của Saron",
+            "类型": "Đặc biệt",
+            "描述": "Yogg-Saron cấy một ảo tượng vào tâm trí ngươi. Nó có thể là thật, cũng có thể là giả. Ngươi vĩnh viễn không thể biết.",
+            "特殊效果": {
+              "1": "Chọn một mục tiêu, cấy một [Ảo tượng] vào tâm trí mục tiêu đó. Mục tiêu có 50% xác suất tin ảo tượng là thật (nhận một thông tin giả), 50% xác suất nhìn thấu.",
+              "2": "[Ảo tượng] càng chân thực hơn, xác suất nhìn thấu giảm xuống 45%; mục tiêu bị lừa có thể đưa ra phán đoán sai.",
+              "3": "Xác suất nhìn thấu 40%; ảo tượng có thể đồng thời ảnh hưởng hai mục tiêu.",
+              "4": "Xác suất nhìn thấu 35%; ảo tượng có thể đồng thời ảnh hưởng ba mục tiêu; nội dung ảo tượng có thể tùy chỉnh (nhưng kết quả vẫn ngẫu nhiên).",
+              "5": "Xác suất nhìn thấu 30%; ảo tượng có thể ảnh hưởng bốn mục tiêu; mục tiêu bị lừa trong chiến đấu có 20% xác suất xem đồng đội là kẻ địch.",
+              "6": "Xác suất nhìn thấu 25%; ảo tượng có thể ảnh hưởng năm mục tiêu; [Ảo tượng tập thể] - mọi mục tiêu bị ảnh hưởng đều thấy cùng một ảo tượng, vì cùng xác nhận lẫn nhau nên càng khó nhìn thấu.",
+              "7": "Xác suất nhìn thấu 20%; ảo tượng có thể ảnh hưởng sáu mục tiêu; mục tiêu bị lừa có 30% xác suất làm ra hành vi hoàn toàn trái chiến thuật.",
+              "8": "Xác suất nhìn thấu 15%; ảo tượng có thể ảnh hưởng bảy mục tiêu; [Ảo tượng sâu] - ngay cả khi mục tiêu nhìn thấu, vẫn có một nửa xác suất tiếp tục bị ảo tượng ảnh hưởng (vì ảo tượng quá chân thực).",
+              "9": "Xác suất nhìn thấu 10%; ảo tượng có thể ảnh hưởng tám mục tiêu; [Ảo tượng chân thực] - 50% sát thương do ảo tượng gây ra là thật.",
+              "10": "[Người dệt ảo tượng] - Yogg-Saron có thể đồng thời duy trì nhiều ảo tượng, mỗi mục tiêu có ảo tượng độc lập; 80% sát thương trong ảo tượng là thật; mục tiêu bị ảo tượng giết chết thì trong hiện thực cũng sẽ chết."
+            },
+            "阶位": "Nâng cao"
+          },
+          {
+            "名称": "Tặng Phẩm Điên Loạn",
+            "类型": "Đặc biệt",
+            "描述": "Yogg-Saron xem điên loạn như món quà ban cho ngươi. Chấp nhận nó, ngươi sẽ nhận được sức mạnh; từ chối nó, ngươi sẽ chịu đau đớn.",
+            "特殊效果": {
+              "1": "Chọn một mục tiêu, cưỡng chế mục tiêu nhận [Phúc lành điên loạn]: lực công kích +20%, nhưng mỗi hiệp có 10% xác suất tấn công ngẫu nhiên.",
+              "2": "[Phúc lành điên loạn] lực công kích +25%, xác suất mất khống chế 15%.",
+              "3": "[Phúc lành điên loạn] lực công kích +30%, xác suất mất khống chế 20%; có thể đồng thời chúc phúc hai mục tiêu.",
+              "4": "[Phúc lành điên loạn] lực công kích +35%, xác suất mất khống chế 25%; có thể chúc phúc ba mục tiêu.",
+              "5": "[Phúc lành điên loạn] lực công kích +40%, xác suất mất khống chế 30%; có thể chúc phúc bốn mục tiêu; trong thời gian chúc phúc, mỗi khi mục tiêu giết một kẻ địch, xác suất mất khống chế vĩnh viễn +5%.",
+              "6": "[Phúc lành điên loạn] lực công kích +45%, xác suất mất khống chế 35%; có thể chúc phúc năm mục tiêu; [Điên loạn sâu] - khi chúc phúc kết thúc, mục tiêu có 50% xác suất vĩnh viễn nhận [Điên loạn nhẹ] (xác suất mất khống chế vĩnh viễn +5%).",
+              "7": "[Phúc lành điên loạn] lực công kích +50%, xác suất mất khống chế 40%; có thể chúc phúc sáu mục tiêu; xác suất [Điên loạn sâu] tăng lên 70%.",
+              "8": "[Phúc lành điên loạn] lực công kích +55%, xác suất mất khống chế 45%; có thể chúc phúc bảy mục tiêu; xác suất [Điên loạn sâu] 80%; mục tiêu chết trong thời gian chúc phúc sẽ phóng thích một lần [Bộc phát điên loạn] khi chết (gây sát thương lên mọi đơn vị xung quanh).",
+              "9": "[Phúc lành điên loạn] lực công kích +60%, xác suất mất khống chế 50%; có thể chúc phúc tám mục tiêu; xác suất [Điên loạn sâu] 90%; trong thời gian chúc phúc, mục tiêu chịu sát thương càng cao thì lực công kích càng cao (tối đa tăng thêm +30%).",
+              "10": "[Ân tứ của Saron] - chọn một mục tiêu, cưỡng chế mục tiêu tiến vào trạng thái [Hoàn toàn điên loạn]: toàn thuộc tính +100%, mỗi hiệp có 50% xác suất hành động ngẫu nhiên, 50% xác suất hành động bình thường; [Hoàn toàn điên loạn] kéo dài đến khi chiến đấu kết thúc; sau khi kết thúc, mục tiêu vĩnh viễn nhận [Dấu ấn điên loạn] (toàn thuộc tính -10%, xác suất mất khống chế vĩnh viễn +10%)."
+            },
+            "阶位": "Nâng cao"
+          },
+          {
+            "名称": "Vọng Âm Hư Không",
+            "类型": "Chủ động",
+            "描述": "Yogg-Saron triệu gọi vọng âm của hư không. Mỗi lần vọng âm đều là vọng âm của vọng âm trước đó.",
+            "特殊效果": {
+              "1": "Phóng thích một luồng vọng âm hư không, ngẫu nhiên chọn một mục tiêu gây sát thương, sau đó có 30% xác suất phóng thích lại (sát thương giảm dần 20%).",
+              "2": "Xác suất phóng thích lại 40%; có thể bật nảy 2 lần.",
+              "3": "Xác suất phóng thích lại 50%; có thể bật nảy 3 lần.",
+              "4": "Xác suất phóng thích lại 60%; có thể bật nảy 4 lần; bật nảy có thể chọn mục tiêu khác.",
+              "5": "Xác suất phóng thích lại 70%; có thể bật nảy 5 lần; mỗi lần bật nảy có 20% xác suất kèm bất lợi ngẫu nhiên.",
+              "6": "Xác suất phóng thích lại 80%; có thể bật nảy 6 lần; xác suất kèm bất lợi 30%.",
+              "7": "Xác suất phóng thích lại 90%; có thể bật nảy 7 lần; xác suất kèm bất lợi 40%; sau khi bật nảy đến lần thứ 5, sát thương không còn giảm dần.",
+              "8": "Xác suất phóng thích lại 100%; có thể bật nảy 8 lần; xác suất kèm bất lợi 50%; bật nảy có thể đồng thời tấn công nhiều mục tiêu.",
+              "9": "Xác suất phóng thích lại 100%; có thể bật nảy 10 lần; xác suất kèm bất lợi 60%; [Cộng hưởng hư không] - khi vọng âm bật nảy 3 lần trên cùng một mục tiêu, kích hoạt một lần sát thương lớn bổ sung.",
+              "10": "[Vọng âm vô tận] - phóng thích vọng âm hư không; sau mỗi lần trúng đòn có 100% xác suất bật nảy (sát thương không giảm dần), cho đến khi mọi mục tiêu đều bị đánh trúng ít nhất một lần; mỗi lần bật nảy có 70% xác suất kèm bất lợi ngẫu nhiên; sau khi vọng âm kết thúc, mọi mục tiêu bị đánh trúng đều chịu một lần [Chấn cộng hư không] (căn cứ số lần bị đánh trúng để gây sát thương bổ sung)."
+            },
+            "阶位": "Nâng cao"
+          }
+        ],
+        "必杀": [
+          {
+            "名称": "Bánh Xe Số Mệnh",
+            "类型": "Chủ động",
+            "描述": "Yogg-Saron xoay bánh xe số mệnh. Khi vòng quay dừng lại, có kẻ sẽ khóc, có kẻ sẽ cười.",
+            "特殊效果": {
+              "1": "Xoay bánh xe số mệnh. Ngẫu nhiên chọn một hiệu quả: 1. trị liệu toàn sân; 2. sát thương toàn sân; 3. tăng ích toàn sân; 4. bất lợi toàn sân. Hiệu quả ở cường độ trung bình.",
+              "2": "Cường độ hiệu quả tăng lên; có thể chọn 2 trong 4 hiệu quả, rồi ngẫu nhiên chọn một hiệu quả trong số đó để có hiệu lực.",
+              "3": "Cường độ hiệu quả lại tăng lên; có thể chọn 3 trong 4 hiệu quả, rồi ngẫu nhiên chọn một hiệu quả trong số đó để có hiệu lực; có thể xuất hiện [Vòng quay kỳ tích] (hiệu quả gấp đôi).",
+              "4": "Cường độ hiệu quả tăng mạnh; vòng quay thêm hai hiệu quả mới: 5. hồi sinh một mục tiêu đã chết ngẫu nhiên; 6. giết một mục tiêu ngẫu nhiên (có máu thấp hơn 20%).",
+              "5": "Vòng quay thêm hiệu quả: 7. hoán đổi sinh mệnh toàn sân; 8. sao chép trạng thái toàn sân; xác suất [Vòng quay kỳ tích] tăng lên.",
+              "6": "Vòng quay thêm hiệu quả: 9. dịch chuyển ngẫu nhiên toàn sân; 10. hồi tưởng thời gian (quay về trạng thái 2 hiệp trước); cường độ hiệu quả đạt [cấp Số Mệnh].",
+              "7": "[Vòng quay số mệnh của Yogg-Saron] - vòng quay có 20 ô, mỗi ô tương ứng một sự kiện hoàn toàn ngẫu nhiên. Sự kiện có thể mang tính hủy diệt, cũng có thể mang tính cứu rỗi. Không ai (bao gồm chính Yogg-Saron) biết vòng quay sẽ dừng ở đâu."
+            },
+            "阶位": "Tất sát"
+          },
+          {
+            "名称": "Vịnh Xướng Ngàn Miệng",
+            "类型": "Chủ động",
+            "描述": "Một ngàn cái miệng của Yogg-Saron đồng thời bắt đầu vịnh xướng. Một ngàn chú ngữ đồng thời phóng thích. Thế giới trong khoảnh khắc này đánh mất trật tự.",
+            "特殊效果": {
+              "1": "Thi triển 10 pháp thuật ngẫu nhiên, mục tiêu ngẫu nhiên, hiệu quả ngẫu nhiên.",
+              "2": "Thi triển 15 pháp thuật ngẫu nhiên.",
+              "3": "Thi triển 20 pháp thuật ngẫu nhiên; pháp thuật có 10% xác suất [Liên khóa] (thi triển thêm một pháp thuật).",
+              "4": "Thi triển 25 pháp thuật ngẫu nhiên; xác suất [Liên khóa] 20%.",
+              "5": "Thi triển 30 pháp thuật ngẫu nhiên; xác suất [Liên khóa] 30%; có thể xuất hiện [Pháp thuật sử thi] (hiệu quả gấp 3 lần bình thường).",
+              "6": "Thi triển 40 pháp thuật ngẫu nhiên; xác suất [Liên khóa] 40%; xác suất [Pháp thuật sử thi] 10%.",
+              "7": "Thi triển 50 pháp thuật ngẫu nhiên; xác suất [Liên khóa] 50%; xác suất [Pháp thuật sử thi] 20%; sau khi vịnh xướng kết thúc, căn cứ vào số lượng pháp thuật đã thi triển, Yogg-Saron nhận lượng cộng thêm sát thương theo cùng số phần trăm (kéo dài đến khi chiến đấu kết thúc)."
+            },
+            "阶位": "Tất sát"
+          },
+          {
+            "名称": "Điên Loạn Giáng Lâm",
+            "类型": "Đặc biệt",
+            "描述": "Yogg-Saron gieo rắc điên loạn đến từng ngóc ngách. Không ai có thể trốn thoát.",
+            "特殊效果": {
+              "1": "Mọi mục tiêu trên sân cưỡng chế nhận [Điên loạn nhẹ]: mỗi hiệp có 20% xác suất hành động ngẫu nhiên.",
+              "2": "Xác suất mất khống chế của [Điên loạn nhẹ] tăng lên 25%; kéo dài 3 hiệp.",
+              "3": "[Điên loạn nhẹ] kéo dài 4 hiệp; xác suất mất khống chế 30%; có 10% xác suất nâng cấp thành [Điên loạn vừa] (xác suất mất khống chế 50%).",
+              "4": "[Điên loạn nhẹ] kéo dài 5 hiệp; xác suất [Điên loạn vừa] 20%; trong thời gian [Điên loạn], mục tiêu mỗi hiệp chịu sát thương tinh thần nhẹ.",
+              "5": "Xác suất [Điên loạn vừa] 30%; sát thương tinh thần tăng lên; khi [Điên loạn] kết thúc, mục tiêu có 30% xác suất vĩnh viễn nhận [Điên loạn nhẹ].",
+              "6": "Xác suất [Điên loạn vừa] 40%; xác suất điên loạn vĩnh viễn 40%; trong thời gian [Điên loạn], mọi đòn tấn công của mục tiêu có 20% xác suất lệch hướng.",
+              "7": "Xác suất [Điên loạn vừa] 50%; xác suất điên loạn vĩnh viễn 50%; trong thời gian [Điên loạn], mục tiêu nhìn thấy [Ảo tượng] và có thể tấn công ảo tượng (lãng phí đòn tấn công)."
+            },
+            "阶位": "Tất sát"
+          }
+        ],
+        "奥义": [
+          {
+            "名称": "Hình Thái Hư Không",
+            "类型": "Chủ động",
+            "描述": "Yogg-Saron tạm thời phô bày hình thái chân thật của hắn. Kẻ nhìn thấy hình thái này sẽ ghi nhớ dáng vẻ của hư không.",
+            "特殊效果": {
+              "1": "Tiến vào [Hình thái hư không]. Trong hình thái này, hiệu quả mọi pháp thuật +50%; mỗi khi thi triển một pháp thuật, có 20% xác suất thi triển thêm một pháp thuật ngẫu nhiên.",
+              "2": "Hiệu quả pháp thuật +80%; xác suất thi triển thêm 30%.",
+              "3": "Hiệu quả pháp thuật +100%; xác suất thi triển thêm 40%; trong hình thái này miễn dịch mọi hiệu ứng khống chế.",
+              "4": "Hiệu quả pháp thuật +120%; xác suất thi triển thêm 50%; trong hình thái này mỗi hiệp tự động thi triển [Lời Thì Thầm Của Số Mệnh].",
+              "5": "Hiệu quả pháp thuật +150%; xác suất thi triển thêm 60%; [Âm Thanh Ngàn Miệng] được thi triển trong hình thái này tự động nâng cấp thành [Vịnh Xướng Ngàn Miệng]."
+            },
+            "阶位": "Áo nghĩa"
+          },
+          {
+            "名称": "Kẻ Dệt Số Mệnh",
+            "类型": "Đặc biệt",
+            "描述": "Yogg-Saron bắt đầu dệt số mệnh. Mỗi sợi chỉ là một khả năng, mỗi nút thắt là một biến số.",
+            "特殊效果": {
+              "1": "[Dệt số mệnh] - Yogg-Saron có thể nhìn thấy mọi sự kiện có thể xảy ra trong 3 hiệp kế tiếp (3 nhánh), rồi chọn một nhánh trong đó để biến nó thành hiện thực.",
+              "2": "Có thể nhìn thấy 5 nhánh trong 5 hiệp kế tiếp; có thể chọn một nhánh; đồng thời có thể [Cắt đứt] một nhánh (khiến nó không thể xảy ra).",
+              "3": "Có thể nhìn thấy 7 nhánh trong 7 hiệp kế tiếp; có thể chọn hoặc cắt đứt hai nhánh.",
+              "4": "Có thể nhìn thấy 10 nhánh trong 10 hiệp kế tiếp; có thể chọn hoặc cắt đứt ba nhánh; [Dệt lại số mệnh] - Yogg-Saron có thể dệt lại sự kiện đã xảy ra (mỗi trận chiến 1 lần, đổi một kết quả đã xảy ra thành một kết quả khả dĩ khác).",
+              "5": "[Chúa Tể Số Mệnh] - Yogg-Saron có thể dệt hướng đi của toàn bộ trận chiến. Mỗi trận chiến 1 lần, hắn có thể chỉ định xác suất của mọi sự kiện ngẫu nhiên trong 5 hiệp kế tiếp (ví dụ: '5 hiệp kế tiếp, mọi pháp thuật ngẫu nhiên đều là pháp thuật sát thương', '5 hiệp kế tiếp, mọi phán định điên loạn đều thành công')."
+            },
+            "阶位": "Áo nghĩa"
+          },
+          {
+            "名称": "Ân Tứ Của Yogg-Saron",
+            "类型": "Đặc biệt",
+            "描述": "Yogg-Saron quyết định ban cho ngươi phúc lành của hắn. Hãy nhận lấy đi, đó là vinh hạnh của ngươi.",
+            "特殊效果": {
+              "1": "Chọn một mục tiêu, trao [Ân Tứ của Yogg-Saron]: toàn thuộc tính +20%, mọi kỹ năng có 20% xác suất kích hoạt hiệu quả bổ sung (hiệu quả ngẫu nhiên).",
+              "2": "Toàn thuộc tính +30%; xác suất hiệu quả bổ sung 30%.",
+              "3": "Toàn thuộc tính +40%; xác suất hiệu quả bổ sung 40%; trong thời gian ân tứ, mục tiêu mỗi hiệp tự động nhận một tăng ích ngẫu nhiên.",
+              "4": "Toàn thuộc tính +50%; xác suất hiệu quả bổ sung 50%; trong thời gian ân tứ, khi mục tiêu chết có 50% xác suất hồi sinh với 50% sinh mệnh.",
+              "5": "Toàn thuộc tính +60%; xác suất hiệu quả bổ sung 60%; trong thời gian ân tứ, mọi đòn tấn công của mục tiêu có 30% xác suất gây sát thương gấp đôi; sau khi ân tứ kết thúc, mục tiêu vĩnh viễn nhận [Dấu ấn của Yogg-Saron] (toàn thuộc tính +10%, xác suất mọi sự kiện ngẫu nhiên +10%)."
+            },
+            "阶位": "Áo nghĩa"
+          }
+        ],
+        "觉醒一": [
+          {
+            "名称": "Thức Tỉnh Của Yogg-Saron",
+            "类型": "Chủ động",
+            "阶位": "Thức tỉnh một",
+            "描述": "Yogg-Saron giãy thoát xiềng xích của Titan, phô bày sức mạnh thật sự của hắn. Hư không đang run rẩy, hiện thực đang sụp đổ.",
+            "特殊效果": {
+              "1": "[Thức tỉnh] - Yogg-Saron tiến vào trạng thái thức tỉnh. Mọi hiệu quả ngẫu nhiên của kỹ năng nghiêng về hướng có lợi (ví dụ xác suất khải thị của [Lời Thì Thầm Của Số Mệnh] +20%, xác suất pháp thuật kỳ tích của [Âm Thanh Ngàn Miệng] +20%); mỗi hiệp tự động thi triển một lần [Lời Thì Thầm Của Số Mệnh]; trong thời gian thức tỉnh, Yogg-Saron miễn dịch mọi khống chế tinh thần.",
+              "2": "[Thức tỉnh sâu] - xác suất có lợi của mọi hiệu quả ngẫu nhiên +30%; mỗi hiệp tự động thi triển [Lời Thì Thầm Của Số Mệnh] và [Âm Thanh Ngàn Miệng] (mỗi kỹ năng một lần); trong thời gian thức tỉnh, mỗi hành động của Yogg-Saron có 30% xác suất kích hoạt [Vọng Âm Hư Không] (thêm một hành động).",
+              "3": "[Thức tỉnh hoàn toàn] - xác suất có lợi của mọi hiệu quả ngẫu nhiên +50%; mỗi hiệp tự động thi triển [Lời Thì Thầm Của Số Mệnh], [Âm Thanh Ngàn Miệng] và [Ánh Nhìn Điên Loạn]; trong thời gian thức tỉnh, mỗi hiệp Yogg-Saron có thể [Dệt số mệnh] một lần; sau khi thức tỉnh kết thúc, Yogg-Saron nhận [Vọng âm hư không] (trong 3 hiệp kế tiếp, mỗi lần thi triển pháp thuật đều có 50% xác suất thi triển thêm một lần)."
+            }
+          }
+        ],
+        "觉醒二": [
+          {
+            "名称": "Thần Hư Không",
+            "类型": "Đặc biệt",
+            "阶位": "Thức tỉnh hai",
+            "描述": "Yogg-Saron không còn chỉ là một Cựu Thần. Hắn là chính hư không, là cội nguồn của điên loạn.",
+            "特殊效果": {
+              "1": "[Thần Hư Không] - Yogg-Saron trở thành một phần của hư không. Mỗi trận chiến 1 lần, hắn có thể [Phủ định hiện thực]: chọn một sự kiện đã xảy ra, khiến nó [chưa từng xảy ra] (ví dụ 'đòn tấn công này không trúng', 'mục tiêu này chưa chết'). Sau khi sử dụng, Yogg-Saron tiến vào trạng thái [Cộng hưởng hư không]: hiệu quả mọi pháp thuật +100%, kéo dài 3 hiệp.",
+              "2": "[Chúa Tể Hư Không] - mỗi trận chiến có 2 lần [Phủ định hiện thực]; hiệu quả [Cộng hưởng hư không] +150%, kéo dài 5 hiệp; trong thời gian thức tỉnh, [Dệt số mệnh] của Yogg-Saron có thể dệt [Nút chết số mệnh] (chọn một mục tiêu, số mệnh của mục tiêu đó bị khóa: trong 3 hiệp kế tiếp, mọi kết quả phán định ngẫu nhiên của mục tiêu đó đều là kết quả tệ nhất)."
+            }
+          }
+        ],
+        "觉醒三": [
+          {
+            "名称": "Chung Cuộc Của Saron",
+            "类型": "Đặc biệt",
+            "阶位": "Thức tỉnh ba",
+            "描述": "Yogg-Saron vén bức màn cuối cùng. Hư không và hiện thực không còn ranh giới. Mọi lựa chọn đều đúng, mọi lựa chọn đều sai.",
+            "特殊效果": {
+              "1": "[Chung cuộc] - mỗi trận chiến 1 lần. Yogg-Saron phóng thích toàn bộ sức mạnh, chọn một mục: 1. [Đặt lại] - đặt lại toàn bộ trận chiến, mọi mục tiêu quay về trạng thái khi chiến đấu bắt đầu (bao gồm máu, vị trí, trạng thái), nhưng Yogg-Saron giữ lại mọi ký ức; 2. [Chung cuộc vòng quay] - xoay một vòng quay chứa mọi khả năng (bao gồm các kết quả cực đoan như 'Yogg-Saron trực tiếp thắng' và 'Yogg-Saron trực tiếp thua'), kết quả tuyệt đối ngẫu nhiên và không thể bị bất kỳ năng lực nào can thiệp; 3. [Chung cuộc điên loạn] - mọi mục tiêu trên sân (bao gồm chính Yogg-Saron) tiến vào [Điên loạn tối hậu]: mỗi hiệp 100% xác suất hành động ngẫu nhiên, tấn công ngẫu nhiên, thi pháp ngẫu nhiên, kéo dài đến khi chiến đấu kết thúc; 4. [Hư không giáng lâm] - triệu gọi hư không nuốt chửng chiến trường, mọi mục tiêu (bao gồm Yogg-Saron) bị truyền tống vào hư không; ở nơi đó, mọi quy tắc đều do sự điên loạn của Yogg-Saron quyết định."
+            }
+          }
+        ]
+      },
+      "skillTreeForClass": "Ác Ma Ngàn Miệng · Yogg-Saron",
+      "lockedSkillMap": {
+        "Ác Ma Ngàn Miệng · Yogg-Saron": {
+          "基础": {
+            "Lời Thì Thầm Của Số Mệnh": {
+              "名称": "Lời Thì Thầm Của Số Mệnh",
+              "类型": "Đặc biệt",
+              "描述": "Vô số cái miệng của Yogg-Saron khẽ rì rầm; từng âm tiết đều bẻ cong hoa văn của hiện thực. Kẻ nghe thấy những lời thì thầm ấy hoặc nhận được khải thị, hoặc rơi vào điên loạn.",
+              "特殊效果": {
+                "1": "Khi bắt đầu mỗi hiệp, ngẫu nhiên chọn một mục tiêu. Mục tiêu đó có 80% xác suất nhận [Khải thị] (toàn thuộc tính +10%), 20% xác suất nhận [Mê sảng] (toàn thuộc tính -10%).",
+                "2": "Ngẫu nhiên chọn hai mục tiêu. 70% xác suất [Khải thị], 30% xác suất [Mê sảng].",
+                "3": "Ngẫu nhiên chọn ba mục tiêu. 65% xác suất [Khải thị], 35% xác suất [Mê sảng].",
+                "4": "Ngẫu nhiên chọn bốn mục tiêu. 60% xác suất [Khải thị], 40% xác suất [Mê sảng].",
+                "5": "Ngẫu nhiên chọn năm mục tiêu. 55% xác suất [Khải thị], 45% xác suất [Mê sảng].",
+                "6": "Ngẫu nhiên chọn sáu mục tiêu. 50% xác suất [Khải thị], 50% xác suất [Mê sảng].",
+                "7": "Ngẫu nhiên chọn mọi mục tiêu trên sân. 45% xác suất [Khải thị], 55% xác suất [Mê sảng].",
+                "8": "Ngẫu nhiên chọn mọi mục tiêu trên sân. 40% xác suất [Khải thị], 60% xác suất [Mê sảng]; hiệu quả [Khải thị] tăng lên +15%.",
+                "9": "Ngẫu nhiên chọn mọi mục tiêu trên sân. 35% xác suất [Khải thị], 65% xác suất [Mê sảng]; hiệu quả [Mê sảng] tăng lên -15%.",
+                "10": "Ngẫu nhiên chọn mọi mục tiêu trên sân. 30% xác suất [Khải thị], 70% xác suất [Mê sảng]; [Khải thị] có 20% xác suất nâng cấp thành [Thần khải] (toàn thuộc tính +25%), [Mê sảng] có 20% xác suất nâng cấp thành [Điên loạn] (toàn thuộc tính -25% và ngẫu nhiên tấn công đồng minh).",
+                "11": "Ngẫu nhiên chọn mọi mục tiêu trên sân. 25% xác suất [Khải thị], 75% xác suất [Mê sảng]; xác suất [Thần khải] tăng lên 30%, xác suất [Điên loạn] tăng lên 30%.",
+                "12": "Ngẫu nhiên chọn mọi mục tiêu trên sân. 20% xác suất [Khải thị], 80% xác suất [Mê sảng]; xác suất [Thần khải] 40%, xác suất [Điên loạn] 40%.",
+                "13": "Ngẫu nhiên chọn mọi mục tiêu trên sân. 15% xác suất [Khải thị], 85% xác suất [Mê sảng]; xác suất [Thần khải] 50%, xác suất [Điên loạn] 50%.",
+                "14": "Ngẫu nhiên chọn mọi mục tiêu trên sân. 10% xác suất [Khải thị], 90% xác suất [Mê sảng]; xác suất [Thần khải] 60%, xác suất [Điên loạn] 60%.",
+                "15": "[Bản giao hưởng điên loạn] - khi bắt đầu mỗi hiệp, từng mục tiêu trên sân tự phán định độc lập: 5% xác suất nhận [Thần khải], 15% xác suất nhận [Khải thị], 30% xác suất nhận [Mê sảng], 50% xác suất nhận [Điên loạn]."
+              },
+              "阶位": "Cơ bản"
+            },
+            "Âm Thanh Ngàn Miệng": {
+              "名称": "Âm Thanh Ngàn Miệng",
+              "类型": "Chủ động",
+              "描述": "Yogg-Saron đồng thời dùng một ngàn cái miệng đọc một ngàn chú ngữ. Không ai biết âm tiết tiếp theo sẽ triệu gọi thứ gì.",
+              "特殊效果": {
+                "1": "Ngẫu nhiên thi triển 1 pháp thuật. Pháp thuật có thể gây sát thương, trị liệu, tăng ích hoặc bất lợi, hiệu quả tương đương 50% pháp thuật thông thường.",
+                "2": "Ngẫu nhiên thi triển 2 pháp thuật, hiệu quả tăng lên 60%.",
+                "3": "Ngẫu nhiên thi triển 3 pháp thuật, hiệu quả tăng lên 70%.",
+                "4": "Ngẫu nhiên thi triển 4 pháp thuật, hiệu quả tăng lên 80%.",
+                "5": "Ngẫu nhiên thi triển 5 pháp thuật, hiệu quả tăng lên 90%.",
+                "6": "Ngẫu nhiên thi triển 6 pháp thuật, hiệu quả đạt 100%.",
+                "7": "Ngẫu nhiên thi triển 7 pháp thuật, hiệu quả 110%; giữa các pháp thuật có thể sinh ra [Phản ứng dây chuyền].",
+                "8": "Ngẫu nhiên thi triển 8 pháp thuật, hiệu quả 120%; xác suất [Phản ứng dây chuyền] tăng lên.",
+                "9": "Ngẫu nhiên thi triển 9 pháp thuật, hiệu quả 130%; có thể xuất hiện [Pháp thuật kỳ tích] (hiệu quả gấp đôi).",
+                "10": "Ngẫu nhiên thi triển 10 pháp thuật, hiệu quả 150%; xác suất [Pháp thuật kỳ tích] 20%; sau khi thi triển xong, căn cứ vào số lượng pháp thuật đã thi triển để hồi phục lượng sinh mệnh theo cùng số phần trăm.",
+                "11": "Ngẫu nhiên thi triển 12 pháp thuật, hiệu quả 180%; xác suất [Pháp thuật kỳ tích] 30%; pháp thuật có 10% xác suất được [Sao chép] một lần.",
+                "12": "Ngẫu nhiên thi triển 14 pháp thuật, hiệu quả 200%; xác suất [Pháp thuật kỳ tích] 40%; pháp thuật có 20% xác suất được [Sao chép].",
+                "13": "Ngẫu nhiên thi triển 16 pháp thuật, hiệu quả 250%; xác suất [Pháp thuật kỳ tích] 50%; pháp thuật có 30% xác suất được [Sao chép].",
+                "14": "Ngẫu nhiên thi triển 18 pháp thuật, hiệu quả 300%; xác suất [Pháp thuật kỳ tích] 60%; pháp thuật có 40% xác suất được [Sao chép].",
+                "15": "[Ngâm tụng vô tận] - ngẫu nhiên thi triển 20 pháp thuật, hiệu quả 500%; mỗi lần thi triển pháp thuật có 50% xác suất thi triển thêm một pháp thuật giống hệt; xác suất [Pháp thuật kỳ tích] 80%; sau khi thi triển xong, Yogg-Saron tiến vào trạng thái [Vọng âm điên loạn]: trong trận chiến này, mỗi lần từng thi triển một pháp thuật sẽ vĩnh viễn tăng 1% hiệu quả của toàn bộ pháp thuật."
+              },
+              "阶位": "Cơ bản"
+            },
+            "Chạm Số Mệnh": {
+              "名称": "Chạm Số Mệnh",
+              "类型": "Chủ động",
+              "描述": "Xúc tu của Yogg-Saron khẽ gảy những sợi chỉ số mệnh. Kết quả ư? Ai mà biết được.",
+              "特殊效果": {
+                "1": "Ngẫu nhiên hoán đổi tỷ lệ phần trăm sinh mệnh hiện tại của hai mục tiêu trên sân.",
+                "2": "Ngẫu nhiên hoán đổi toàn bộ trạng thái tăng ích của hai mục tiêu trên sân.",
+                "3": "Ngẫu nhiên hoán đổi toàn bộ trạng thái bất lợi của hai mục tiêu trên sân.",
+                "4": "Ngẫu nhiên sao chép một trạng thái tăng ích trên một mục tiêu sang một mục tiêu ngẫu nhiên khác.",
+                "5": "Ngẫu nhiên sao chép một trạng thái bất lợi trên một mục tiêu sang một mục tiêu ngẫu nhiên khác.",
+                "6": "Ngẫu nhiên chọn một mục tiêu, phân phối ngẫu nhiên toàn bộ trạng thái tăng ích của mục tiêu đó cho các mục tiêu khác trên sân.",
+                "7": "Ngẫu nhiên chọn một mục tiêu, phân phối ngẫu nhiên toàn bộ trạng thái bất lợi của mục tiêu đó cho các mục tiêu khác trên sân.",
+                "8": "Ngẫu nhiên hoán đổi lực công kích của một mục tiêu trên sân với lực phòng ngự của một mục tiêu khác.",
+                "9": "Ngẫu nhiên hoán đổi tốc độ của một mục tiêu trên sân với may mắn của một mục tiêu khác.",
+                "10": "[Xáo bài số mệnh] - ngẫu nhiên đặt lại toàn bộ trạng thái tăng ích/bất lợi của mọi mục tiêu trên sân; mỗi mục tiêu nhận 1-3 trạng thái ngẫu nhiên mới.",
+                "11": "[Dệt số mệnh] - chọn một mục tiêu; trong 3 hiệp kế tiếp, mọi mục tiêu tấn công của mục tiêu đó đều bị ngẫu nhiên hóa, mọi nguồn sát thương mà mục tiêu đó phải chịu cũng bị ngẫu nhiên hóa.",
+                "12": "[Đảo ngược số mệnh] - ngẫu nhiên chọn một mục tiêu, đảo ngược hiệu quả đòn tấn công kế tiếp của mục tiêu đó (sát thương biến thành trị liệu, trị liệu biến thành sát thương).",
+                "13": "[Chia sẻ số mệnh] - ngẫu nhiên nối hai mục tiêu lại với nhau; sát thương và trị liệu họ nhận sẽ được chia sẻ.",
+                "14": "[Vòng quay số mệnh] - mọi mục tiêu trên sân tung một viên xúc xắc số mệnh: 1-3 nhận một hiệu ứng tiêu cực, 4-6 nhận một hiệu ứng tích cực; cường độ hiệu ứng phụ thuộc vào điểm tung ra.",
+                "15": "[Vòng quay số mệnh của Yogg-Saron] - một vòng quay lớn xuất hiện trên chiến trường. Yogg-Saron xoay nó, rồi từng mục tiêu trên sân (bao gồm chính Yogg) bị dịch chuyển ngẫu nhiên đến một vị trí ngẫu nhiên, nhận một trạng thái ngẫu nhiên, đồng thời chịu một lần sát thương thuộc loại ngẫu nhiên (lượng sát thương ngẫu nhiên, có thể là 0 cũng có thể chí mạng)."
+              },
+              "阶位": "Cơ bản"
+            },
+            "Ánh Nhìn Điên Loạn": {
+              "名称": "Ánh Nhìn Điên Loạn",
+              "类型": "Chủ động",
+              "描述": "Yogg-Saron mở đôi mắt vốn không tồn tại của hắn, xuyên qua hư không nhìn thẳng vào linh hồn ngươi. Kẻ nhìn thấy đôi mắt ấy sẽ thấy nỗi sợ sâu nhất trong lòng mình.",
+              "特殊效果": {
+                "1": "Nhìn chăm chú một mục tiêu, khiến mục tiêu rơi vào trạng thái [Sợ hãi], có 50% xác suất ngẫu nhiên tấn công đồng minh, kéo dài 1 hiệp.",
+                "2": "Nhìn chăm chú một mục tiêu, [Sợ hãi] kéo dài 2 hiệp, có 60% xác suất hành động ngẫu nhiên.",
+                "3": "Nhìn chăm chú một mục tiêu, [Sợ hãi] kéo dài 2 hiệp, có 70% xác suất hành động ngẫu nhiên; đồng thời mục tiêu chịu một lần sát thương tinh thần.",
+                "4": "Nhìn chăm chú hai mục tiêu, [Sợ hãi] kéo dài 2 hiệp, có 70% xác suất hành động ngẫu nhiên.",
+                "5": "Nhìn chăm chú hai mục tiêu, [Sợ hãi] kéo dài 3 hiệp, có 80% xác suất hành động ngẫu nhiên; sát thương tăng lên.",
+                "6": "Nhìn chăm chú ba mục tiêu, [Sợ hãi] kéo dài 3 hiệp, có 80% xác suất hành động ngẫu nhiên.",
+                "7": "Nhìn chăm chú ba mục tiêu, [Sợ hãi] kéo dài 3 hiệp, có 90% xác suất hành động ngẫu nhiên; mục tiêu bị nhìn chăm chú sẽ thấy [Ảo tượng], mỗi hiệp chịu thêm một lần sát thương tinh thần.",
+                "8": "Nhìn chăm chú bốn mục tiêu, [Sợ hãi] kéo dài 3 hiệp, có 90% xác suất hành động ngẫu nhiên.",
+                "9": "Nhìn chăm chú bốn mục tiêu, [Sợ hãi] kéo dài 4 hiệp, có 95% xác suất hành động ngẫu nhiên; sát thương [Ảo tượng] tăng lên.",
+                "10": "Nhìn chăm chú năm mục tiêu, [Sợ hãi] kéo dài 4 hiệp, có 95% xác suất hành động ngẫu nhiên; trong thời gian sợ hãi, mục tiêu bị nhìn chăm chú có 50% xác suất mỗi hiệp lây [Sợ hãi] sang một đồng minh liền kề.",
+                "11": "Nhìn chăm chú sáu mục tiêu, [Sợ hãi] kéo dài 4 hiệp, có 100% xác suất hành động ngẫu nhiên; xác suất [Lây nhiễm] tăng lên 70%.",
+                "12": "Nhìn chăm chú bảy mục tiêu, [Sợ hãi] kéo dài 5 hiệp, có 100% xác suất hành động ngẫu nhiên; sát thương [Ảo tượng] lại tăng lên; mục tiêu bị nhìn chăm chú có xác suất nhất định trực tiếp [Sụp đổ] (bỏ qua cả hiệp).",
+                "13": "Nhìn chăm chú tám mục tiêu, [Sợ hãi] kéo dài 5 hiệp; xác suất [Sụp đổ] tăng lên.",
+                "14": "Nhìn chăm chú chín mục tiêu, [Sợ hãi] kéo dài 5 hiệp; sau khi sợ hãi kết thúc, mục tiêu bị nhìn chăm chú có 50% xác suất vĩnh viễn nhận một đặc chất [Điên loạn] (xác suất hành động ngẫu nhiên vĩnh viễn +10%).",
+                "15": "[Ánh Nhìn Vạn Nhãn] - Yogg-Saron 'mở' toàn bộ mắt của hắn, nhìn chăm chú mọi mục tiêu trên sân. Mỗi mục tiêu phán định độc lập: 30% xác suất lập tức [Sụp đổ]; 40% xác suất tiến vào [Sợ hãi] sâu (kéo dài 5 hiệp, mỗi hiệp có 100% xác suất hành động ngẫu nhiên); 30% xác suất nhìn thấy [Ảo tượng tối hậu] (chịu sát thương tinh thần cực lớn, đồng thời trong 3 hiệp kế tiếp mỗi hiệp chịu sát thương duy trì)."
+              },
+              "阶位": "Cơ bản"
+            }
+          },
+          "转职": {
+            "Không Thể Gọi Tên": {
+              "名称": "Không Thể Gọi Tên",
+              "类型": "Đặc biệt",
+              "描述": "Sự tồn tại của Yogg-Saron tự thân đã là một nghịch lý. Bất kỳ ai cố hiểu hắn đều mất lý trí ngay khoảnh khắc tưởng rằng mình đã hiểu.",
+              "特殊效果": {
+                "1": "Bị động: bất kỳ hành vi nào cố phân tích, dự đoán hoặc phản chế Yogg-Saron đều có 10% xác suất khiến người thi thuật rơi vào [Rối trí].",
+                "2": "Bị động: xác suất rối trí tăng lên 15%.",
+                "3": "Bị động: xác suất rối trí 20%; bất kỳ hành động nào cố đọc suy nghĩ của Yogg-Saron sẽ khiến người thi thuật chịu sát thương tinh thần.",
+                "4": "Bị động: xác suất rối trí 25%; [Không Thể Gọi Tên] của Yogg-Saron khiến hắn miễn dịch mọi hình thức [Dự đoán trước] và [Đọc tâm trí].",
+                "5": "Bị động: xác suất rối trí 30%; bất kỳ mục tiêu nào thi triển pháp thuật loại [Tiên tri] trước mặt Yogg-Saron sẽ bị [Phản phệ] (kết quả tiên tri bị bóp méo, đồng thời người thi thuật rơi vào [Điên loạn])."
+              },
+              "阶位": "Chuyển nghề"
+            },
+            "Món Quà Của Saron": {
+              "名称": "Món Quà Của Saron",
+              "类型": "Chủ động",
+              "描述": "Yogg-Saron hào phóng ban cho ngươi một món quà. Mở nó đi. Nhanh lên.",
+              "特殊效果": {
+                "1": "Chọn một mục tiêu, tặng một [Món quà]. Mục tiêu có 70% xác suất nhận một hiệu ứng tăng ích, 30% xác suất nhận một hiệu ứng bất lợi.",
+                "2": "Hiệu quả [Món quà] tăng cường; xác suất điều chỉnh thành 65%/35%.",
+                "3": "Hiệu quả [Món quà] tiếp tục tăng cường; xác suất điều chỉnh thành 60%/40%; có thể xuất hiện [Bất ngờ] (hiệu quả gấp đôi hoặc hiệu quả tiêu cực gấp đôi).",
+                "4": "Xác suất điều chỉnh thành 55%/45%; xác suất [Bất ngờ] tăng lên.",
+                "5": "Xác suất điều chỉnh thành 50%/50%; xác suất [Bất ngờ] lại tăng lên; có thể chọn loại [Món quà] (sát thương/trị liệu/tăng ích/bất lợi), nhưng hiệu quả cụ thể vẫn ngẫu nhiên.",
+                "6": "Xác suất điều chỉnh thành 45%/55%; có thể chọn hai mục tiêu.",
+                "7": "Xác suất điều chỉnh thành 40%/60%; có thể chọn ba mục tiêu; hiệu quả [Món quà] tăng mạnh.",
+                "8": "Xác suất điều chỉnh thành 35%/65%; có thể chọn bốn mục tiêu; [Món quà] có thể đồng thời chứa tăng ích và bất lợi.",
+                "9": "Xác suất điều chỉnh thành 30%/70%; có thể chọn năm mục tiêu; [Món quà] có 10% xác suất là [Lời nguyền của Saron] (chắc chắn là hiệu ứng bất lợi mạnh).",
+                "10": "Xác suất điều chỉnh thành 25%/75%; có thể chọn sáu mục tiêu; [Phúc lành của Saron] (chắc chắn là hiệu ứng tăng ích mạnh) và [Lời nguyền của Saron] mỗi loại có xác suất 10%; 80% còn lại là ngẫu nhiên."
+              },
+              "阶位": "Chuyển nghề"
+            },
+            "Dòng Lũ Pháp Thuật Ngẫu Nhiên": {
+              "名称": "Dòng Lũ Pháp Thuật Ngẫu Nhiên",
+              "类型": "Chủ động",
+              "描述": "Yogg-Saron phóng thích một dòng lũ pháp thuật. Không ai có thể đoán dòng lũ sẽ cuốn qua thứ gì, nhưng ai cũng biết kẻ bị cuốn vào sẽ chẳng dễ chịu.",
+              "特殊效果": {
+                "1": "Phóng thích một dòng lũ pháp thuật, ngẫu nhiên gây sát thương thuộc loại ngẫu nhiên lên 1-3 mục tiêu.",
+                "2": "Ngẫu nhiên gây sát thương lên 2-4 mục tiêu; lượng sát thương ngẫu nhiên (80%-120%).",
+                "3": "Ngẫu nhiên gây sát thương lên 3-5 mục tiêu; sát thương ngẫu nhiên; có 20% xác suất kèm bất lợi ngẫu nhiên.",
+                "4": "Ngẫu nhiên gây sát thương lên 4-6 mục tiêu; sát thương ngẫu nhiên; có 30% xác suất kèm bất lợi ngẫu nhiên; có 10% xác suất kích hoạt [Tạt lan].",
+                "5": "Ngẫu nhiên gây sát thương lên 5-7 mục tiêu; sát thương ngẫu nhiên; có 40% xác suất kèm bất lợi ngẫu nhiên; có 15% xác suất kích hoạt [Tạt lan].",
+                "6": "Ngẫu nhiên gây sát thương lên 6-8 mục tiêu; sát thương ngẫu nhiên; có 50% xác suất kèm bất lợi ngẫu nhiên; có 20% xác suất kích hoạt [Tạt lan]; có 5% xác suất kích hoạt [Hủy diệt] (sát thương gấp đôi).",
+                "7": "Ngẫu nhiên gây sát thương lên 7-9 mục tiêu; sát thương ngẫu nhiên; xác suất bất lợi 60%; tạt lan 25%; hủy diệt 10%.",
+                "8": "Ngẫu nhiên gây sát thương lên 8-10 mục tiêu; sát thương ngẫu nhiên; xác suất bất lợi 70%; tạt lan 30%; hủy diệt 15%.",
+                "9": "Ngẫu nhiên gây sát thương lên 9-11 mục tiêu; sát thương ngẫu nhiên; xác suất bất lợi 80%; tạt lan 35%; hủy diệt 20%.",
+                "10": "Ngẫu nhiên gây sát thương lên 10-12 mục tiêu; sát thương ngẫu nhiên; xác suất bất lợi 90%; tạt lan 40%; hủy diệt 25%; khi dòng lũ kết thúc, có 10% xác suất lại thi triển một lần [Dòng Lũ Pháp Thuật Ngẫu Nhiên]."
+              },
+              "阶位": "Chuyển nghề"
+            }
+          },
+          "进阶": {
+            "Ảo Tượng Của Saron": {
+              "名称": "Ảo Tượng Của Saron",
+              "类型": "Đặc biệt",
+              "描述": "Yogg-Saron cấy một ảo tượng vào tâm trí ngươi. Nó có thể là thật, cũng có thể là giả. Ngươi vĩnh viễn không thể biết.",
+              "特殊效果": {
+                "1": "Chọn một mục tiêu, cấy một [Ảo tượng] vào tâm trí mục tiêu đó. Mục tiêu có 50% xác suất tin ảo tượng là thật (nhận một thông tin giả), 50% xác suất nhìn thấu.",
+                "2": "[Ảo tượng] càng chân thực hơn, xác suất nhìn thấu giảm xuống 45%; mục tiêu bị lừa có thể đưa ra phán đoán sai.",
+                "3": "Xác suất nhìn thấu 40%; ảo tượng có thể đồng thời ảnh hưởng hai mục tiêu.",
+                "4": "Xác suất nhìn thấu 35%; ảo tượng có thể đồng thời ảnh hưởng ba mục tiêu; nội dung ảo tượng có thể tùy chỉnh (nhưng kết quả vẫn ngẫu nhiên).",
+                "5": "Xác suất nhìn thấu 30%; ảo tượng có thể ảnh hưởng bốn mục tiêu; mục tiêu bị lừa trong chiến đấu có 20% xác suất xem đồng đội là kẻ địch.",
+                "6": "Xác suất nhìn thấu 25%; ảo tượng có thể ảnh hưởng năm mục tiêu; [Ảo tượng tập thể] - mọi mục tiêu bị ảnh hưởng đều thấy cùng một ảo tượng, vì cùng xác nhận lẫn nhau nên càng khó nhìn thấu.",
+                "7": "Xác suất nhìn thấu 20%; ảo tượng có thể ảnh hưởng sáu mục tiêu; mục tiêu bị lừa có 30% xác suất làm ra hành vi hoàn toàn trái chiến thuật.",
+                "8": "Xác suất nhìn thấu 15%; ảo tượng có thể ảnh hưởng bảy mục tiêu; [Ảo tượng sâu] - ngay cả khi mục tiêu nhìn thấu, vẫn có một nửa xác suất tiếp tục bị ảo tượng ảnh hưởng (vì ảo tượng quá chân thực).",
+                "9": "Xác suất nhìn thấu 10%; ảo tượng có thể ảnh hưởng tám mục tiêu; [Ảo tượng chân thực] - 50% sát thương do ảo tượng gây ra là thật.",
+                "10": "[Người dệt ảo tượng] - Yogg-Saron có thể đồng thời duy trì nhiều ảo tượng, mỗi mục tiêu có ảo tượng độc lập; 80% sát thương trong ảo tượng là thật; mục tiêu bị ảo tượng giết chết thì trong hiện thực cũng sẽ chết."
+              },
+              "阶位": "Nâng cao"
+            },
+            "Tặng Phẩm Điên Loạn": {
+              "名称": "Tặng Phẩm Điên Loạn",
+              "类型": "Đặc biệt",
+              "描述": "Yogg-Saron xem điên loạn như món quà ban cho ngươi. Chấp nhận nó, ngươi sẽ nhận được sức mạnh; từ chối nó, ngươi sẽ chịu đau đớn.",
+              "特殊效果": {
+                "1": "Chọn một mục tiêu, cưỡng chế mục tiêu nhận [Phúc lành điên loạn]: lực công kích +20%, nhưng mỗi hiệp có 10% xác suất tấn công ngẫu nhiên.",
+                "2": "[Phúc lành điên loạn] lực công kích +25%, xác suất mất khống chế 15%.",
+                "3": "[Phúc lành điên loạn] lực công kích +30%, xác suất mất khống chế 20%; có thể đồng thời chúc phúc hai mục tiêu.",
+                "4": "[Phúc lành điên loạn] lực công kích +35%, xác suất mất khống chế 25%; có thể chúc phúc ba mục tiêu.",
+                "5": "[Phúc lành điên loạn] lực công kích +40%, xác suất mất khống chế 30%; có thể chúc phúc bốn mục tiêu; trong thời gian chúc phúc, mỗi khi mục tiêu giết một kẻ địch, xác suất mất khống chế vĩnh viễn +5%.",
+                "6": "[Phúc lành điên loạn] lực công kích +45%, xác suất mất khống chế 35%; có thể chúc phúc năm mục tiêu; [Điên loạn sâu] - khi chúc phúc kết thúc, mục tiêu có 50% xác suất vĩnh viễn nhận [Điên loạn nhẹ] (xác suất mất khống chế vĩnh viễn +5%).",
+                "7": "[Phúc lành điên loạn] lực công kích +50%, xác suất mất khống chế 40%; có thể chúc phúc sáu mục tiêu; xác suất [Điên loạn sâu] tăng lên 70%.",
+                "8": "[Phúc lành điên loạn] lực công kích +55%, xác suất mất khống chế 45%; có thể chúc phúc bảy mục tiêu; xác suất [Điên loạn sâu] 80%; mục tiêu chết trong thời gian chúc phúc sẽ phóng thích một lần [Bộc phát điên loạn] khi chết (gây sát thương lên mọi đơn vị xung quanh).",
+                "9": "[Phúc lành điên loạn] lực công kích +60%, xác suất mất khống chế 50%; có thể chúc phúc tám mục tiêu; xác suất [Điên loạn sâu] 90%; trong thời gian chúc phúc, mục tiêu chịu sát thương càng cao thì lực công kích càng cao (tối đa tăng thêm +30%).",
+                "10": "[Ân tứ của Saron] - chọn một mục tiêu, cưỡng chế mục tiêu tiến vào trạng thái [Hoàn toàn điên loạn]: toàn thuộc tính +100%, mỗi hiệp có 50% xác suất hành động ngẫu nhiên, 50% xác suất hành động bình thường; [Hoàn toàn điên loạn] kéo dài đến khi chiến đấu kết thúc; sau khi kết thúc, mục tiêu vĩnh viễn nhận [Dấu ấn điên loạn] (toàn thuộc tính -10%, xác suất mất khống chế vĩnh viễn +10%)."
+              },
+              "阶位": "Nâng cao"
+            },
+            "Vọng Âm Hư Không": {
+              "名称": "Vọng Âm Hư Không",
+              "类型": "Chủ động",
+              "描述": "Yogg-Saron triệu gọi vọng âm của hư không. Mỗi lần vọng âm đều là vọng âm của vọng âm trước đó.",
+              "特殊效果": {
+                "1": "Phóng thích một luồng vọng âm hư không, ngẫu nhiên chọn một mục tiêu gây sát thương, sau đó có 30% xác suất phóng thích lại (sát thương giảm dần 20%).",
+                "2": "Xác suất phóng thích lại 40%; có thể bật nảy 2 lần.",
+                "3": "Xác suất phóng thích lại 50%; có thể bật nảy 3 lần.",
+                "4": "Xác suất phóng thích lại 60%; có thể bật nảy 4 lần; bật nảy có thể chọn mục tiêu khác.",
+                "5": "Xác suất phóng thích lại 70%; có thể bật nảy 5 lần; mỗi lần bật nảy có 20% xác suất kèm bất lợi ngẫu nhiên.",
+                "6": "Xác suất phóng thích lại 80%; có thể bật nảy 6 lần; xác suất kèm bất lợi 30%.",
+                "7": "Xác suất phóng thích lại 90%; có thể bật nảy 7 lần; xác suất kèm bất lợi 40%; sau khi bật nảy đến lần thứ 5, sát thương không còn giảm dần.",
+                "8": "Xác suất phóng thích lại 100%; có thể bật nảy 8 lần; xác suất kèm bất lợi 50%; bật nảy có thể đồng thời tấn công nhiều mục tiêu.",
+                "9": "Xác suất phóng thích lại 100%; có thể bật nảy 10 lần; xác suất kèm bất lợi 60%; [Cộng hưởng hư không] - khi vọng âm bật nảy 3 lần trên cùng một mục tiêu, kích hoạt một lần sát thương lớn bổ sung.",
+                "10": "[Vọng âm vô tận] - phóng thích vọng âm hư không; sau mỗi lần trúng đòn có 100% xác suất bật nảy (sát thương không giảm dần), cho đến khi mọi mục tiêu đều bị đánh trúng ít nhất một lần; mỗi lần bật nảy có 70% xác suất kèm bất lợi ngẫu nhiên; sau khi vọng âm kết thúc, mọi mục tiêu bị đánh trúng đều chịu một lần [Chấn cộng hư không] (căn cứ số lần bị đánh trúng để gây sát thương bổ sung)."
+              },
+              "阶位": "Nâng cao"
+            }
+          },
+          "必杀": {
+            "Bánh Xe Số Mệnh": {
+              "名称": "Bánh Xe Số Mệnh",
+              "类型": "Chủ động",
+              "描述": "Yogg-Saron xoay bánh xe số mệnh. Khi vòng quay dừng lại, có kẻ sẽ khóc, có kẻ sẽ cười.",
+              "特殊效果": {
+                "1": "Xoay bánh xe số mệnh. Ngẫu nhiên chọn một hiệu quả: 1. trị liệu toàn sân; 2. sát thương toàn sân; 3. tăng ích toàn sân; 4. bất lợi toàn sân. Hiệu quả ở cường độ trung bình.",
+                "2": "Cường độ hiệu quả tăng lên; có thể chọn 2 trong 4 hiệu quả, rồi ngẫu nhiên chọn một hiệu quả trong số đó để có hiệu lực.",
+                "3": "Cường độ hiệu quả lại tăng lên; có thể chọn 3 trong 4 hiệu quả, rồi ngẫu nhiên chọn một hiệu quả trong số đó để có hiệu lực; có thể xuất hiện [Vòng quay kỳ tích] (hiệu quả gấp đôi).",
+                "4": "Cường độ hiệu quả tăng mạnh; vòng quay thêm hai hiệu quả mới: 5. hồi sinh một mục tiêu đã chết ngẫu nhiên; 6. giết một mục tiêu ngẫu nhiên (có máu thấp hơn 20%).",
+                "5": "Vòng quay thêm hiệu quả: 7. hoán đổi sinh mệnh toàn sân; 8. sao chép trạng thái toàn sân; xác suất [Vòng quay kỳ tích] tăng lên.",
+                "6": "Vòng quay thêm hiệu quả: 9. dịch chuyển ngẫu nhiên toàn sân; 10. hồi tưởng thời gian (quay về trạng thái 2 hiệp trước); cường độ hiệu quả đạt [cấp Số Mệnh].",
+                "7": "[Vòng quay số mệnh của Yogg-Saron] - vòng quay có 20 ô, mỗi ô tương ứng một sự kiện hoàn toàn ngẫu nhiên. Sự kiện có thể mang tính hủy diệt, cũng có thể mang tính cứu rỗi. Không ai (bao gồm chính Yogg-Saron) biết vòng quay sẽ dừng ở đâu."
+              },
+              "阶位": "Tất sát"
+            },
+            "Vịnh Xướng Ngàn Miệng": {
+              "名称": "Vịnh Xướng Ngàn Miệng",
+              "类型": "Chủ động",
+              "描述": "Một ngàn cái miệng của Yogg-Saron đồng thời bắt đầu vịnh xướng. Một ngàn chú ngữ đồng thời phóng thích. Thế giới trong khoảnh khắc này đánh mất trật tự.",
+              "特殊效果": {
+                "1": "Thi triển 10 pháp thuật ngẫu nhiên, mục tiêu ngẫu nhiên, hiệu quả ngẫu nhiên.",
+                "2": "Thi triển 15 pháp thuật ngẫu nhiên.",
+                "3": "Thi triển 20 pháp thuật ngẫu nhiên; pháp thuật có 10% xác suất [Liên khóa] (thi triển thêm một pháp thuật).",
+                "4": "Thi triển 25 pháp thuật ngẫu nhiên; xác suất [Liên khóa] 20%.",
+                "5": "Thi triển 30 pháp thuật ngẫu nhiên; xác suất [Liên khóa] 30%; có thể xuất hiện [Pháp thuật sử thi] (hiệu quả gấp 3 lần bình thường).",
+                "6": "Thi triển 40 pháp thuật ngẫu nhiên; xác suất [Liên khóa] 40%; xác suất [Pháp thuật sử thi] 10%.",
+                "7": "Thi triển 50 pháp thuật ngẫu nhiên; xác suất [Liên khóa] 50%; xác suất [Pháp thuật sử thi] 20%; sau khi vịnh xướng kết thúc, căn cứ vào số lượng pháp thuật đã thi triển, Yogg-Saron nhận lượng cộng thêm sát thương theo cùng số phần trăm (kéo dài đến khi chiến đấu kết thúc)."
+              },
+              "阶位": "Tất sát"
+            },
+            "Điên Loạn Giáng Lâm": {
+              "名称": "Điên Loạn Giáng Lâm",
+              "类型": "Đặc biệt",
+              "描述": "Yogg-Saron gieo rắc điên loạn đến từng ngóc ngách. Không ai có thể trốn thoát.",
+              "特殊效果": {
+                "1": "Mọi mục tiêu trên sân cưỡng chế nhận [Điên loạn nhẹ]: mỗi hiệp có 20% xác suất hành động ngẫu nhiên.",
+                "2": "Xác suất mất khống chế của [Điên loạn nhẹ] tăng lên 25%; kéo dài 3 hiệp.",
+                "3": "[Điên loạn nhẹ] kéo dài 4 hiệp; xác suất mất khống chế 30%; có 10% xác suất nâng cấp thành [Điên loạn vừa] (xác suất mất khống chế 50%).",
+                "4": "[Điên loạn nhẹ] kéo dài 5 hiệp; xác suất [Điên loạn vừa] 20%; trong thời gian [Điên loạn], mục tiêu mỗi hiệp chịu sát thương tinh thần nhẹ.",
+                "5": "Xác suất [Điên loạn vừa] 30%; sát thương tinh thần tăng lên; khi [Điên loạn] kết thúc, mục tiêu có 30% xác suất vĩnh viễn nhận [Điên loạn nhẹ].",
+                "6": "Xác suất [Điên loạn vừa] 40%; xác suất điên loạn vĩnh viễn 40%; trong thời gian [Điên loạn], mọi đòn tấn công của mục tiêu có 20% xác suất lệch hướng.",
+                "7": "Xác suất [Điên loạn vừa] 50%; xác suất điên loạn vĩnh viễn 50%; trong thời gian [Điên loạn], mục tiêu nhìn thấy [Ảo tượng] và có thể tấn công ảo tượng (lãng phí đòn tấn công)."
+              },
+              "阶位": "Tất sát"
+            }
+          },
+          "奥义": {
+            "Hình Thái Hư Không": {
+              "名称": "Hình Thái Hư Không",
+              "类型": "Chủ động",
+              "描述": "Yogg-Saron tạm thời phô bày hình thái chân thật của hắn. Kẻ nhìn thấy hình thái này sẽ ghi nhớ dáng vẻ của hư không.",
+              "特殊效果": {
+                "1": "Tiến vào [Hình thái hư không]. Trong hình thái này, hiệu quả mọi pháp thuật +50%; mỗi khi thi triển một pháp thuật, có 20% xác suất thi triển thêm một pháp thuật ngẫu nhiên.",
+                "2": "Hiệu quả pháp thuật +80%; xác suất thi triển thêm 30%.",
+                "3": "Hiệu quả pháp thuật +100%; xác suất thi triển thêm 40%; trong hình thái này miễn dịch mọi hiệu ứng khống chế.",
+                "4": "Hiệu quả pháp thuật +120%; xác suất thi triển thêm 50%; trong hình thái này mỗi hiệp tự động thi triển [Lời Thì Thầm Của Số Mệnh].",
+                "5": "Hiệu quả pháp thuật +150%; xác suất thi triển thêm 60%; [Âm Thanh Ngàn Miệng] được thi triển trong hình thái này tự động nâng cấp thành [Vịnh Xướng Ngàn Miệng]."
+              },
+              "阶位": "Áo nghĩa"
+            },
+            "Kẻ Dệt Số Mệnh": {
+              "名称": "Kẻ Dệt Số Mệnh",
+              "类型": "Đặc biệt",
+              "描述": "Yogg-Saron bắt đầu dệt số mệnh. Mỗi sợi chỉ là một khả năng, mỗi nút thắt là một biến số.",
+              "特殊效果": {
+                "1": "[Dệt số mệnh] - Yogg-Saron có thể nhìn thấy mọi sự kiện có thể xảy ra trong 3 hiệp kế tiếp (3 nhánh), rồi chọn một nhánh trong đó để biến nó thành hiện thực.",
+                "2": "Có thể nhìn thấy 5 nhánh trong 5 hiệp kế tiếp; có thể chọn một nhánh; đồng thời có thể [Cắt đứt] một nhánh (khiến nó không thể xảy ra).",
+                "3": "Có thể nhìn thấy 7 nhánh trong 7 hiệp kế tiếp; có thể chọn hoặc cắt đứt hai nhánh.",
+                "4": "Có thể nhìn thấy 10 nhánh trong 10 hiệp kế tiếp; có thể chọn hoặc cắt đứt ba nhánh; [Dệt lại số mệnh] - Yogg-Saron có thể dệt lại sự kiện đã xảy ra (mỗi trận chiến 1 lần, đổi một kết quả đã xảy ra thành một kết quả khả dĩ khác).",
+                "5": "[Chúa Tể Số Mệnh] - Yogg-Saron có thể dệt hướng đi của toàn bộ trận chiến. Mỗi trận chiến 1 lần, hắn có thể chỉ định xác suất của mọi sự kiện ngẫu nhiên trong 5 hiệp kế tiếp (ví dụ: '5 hiệp kế tiếp, mọi pháp thuật ngẫu nhiên đều là pháp thuật sát thương', '5 hiệp kế tiếp, mọi phán định điên loạn đều thành công')."
+              },
+              "阶位": "Áo nghĩa"
+            },
+            "Ân Tứ Của Yogg-Saron": {
+              "名称": "Ân Tứ Của Yogg-Saron",
+              "类型": "Đặc biệt",
+              "描述": "Yogg-Saron quyết định ban cho ngươi phúc lành của hắn. Hãy nhận lấy đi, đó là vinh hạnh của ngươi.",
+              "特殊效果": {
+                "1": "Chọn một mục tiêu, trao [Ân Tứ của Yogg-Saron]: toàn thuộc tính +20%, mọi kỹ năng có 20% xác suất kích hoạt hiệu quả bổ sung (hiệu quả ngẫu nhiên).",
+                "2": "Toàn thuộc tính +30%; xác suất hiệu quả bổ sung 30%.",
+                "3": "Toàn thuộc tính +40%; xác suất hiệu quả bổ sung 40%; trong thời gian ân tứ, mục tiêu mỗi hiệp tự động nhận một tăng ích ngẫu nhiên.",
+                "4": "Toàn thuộc tính +50%; xác suất hiệu quả bổ sung 50%; trong thời gian ân tứ, khi mục tiêu chết có 50% xác suất hồi sinh với 50% sinh mệnh.",
+                "5": "Toàn thuộc tính +60%; xác suất hiệu quả bổ sung 60%; trong thời gian ân tứ, mọi đòn tấn công của mục tiêu có 30% xác suất gây sát thương gấp đôi; sau khi ân tứ kết thúc, mục tiêu vĩnh viễn nhận [Dấu ấn của Yogg-Saron] (toàn thuộc tính +10%, xác suất mọi sự kiện ngẫu nhiên +10%)."
+              },
+              "阶位": "Áo nghĩa"
+            }
+          },
+          "觉醒一": {
+            "Thức Tỉnh Của Yogg-Saron": {
+              "名称": "Thức Tỉnh Của Yogg-Saron",
+              "类型": "Chủ động",
+              "阶位": "Thức tỉnh một",
+              "描述": "Yogg-Saron giãy thoát xiềng xích của Titan, phô bày sức mạnh thật sự của hắn. Hư không đang run rẩy, hiện thực đang sụp đổ.",
+              "特殊效果": {
+                "1": "[Thức tỉnh] - Yogg-Saron tiến vào trạng thái thức tỉnh. Mọi hiệu quả ngẫu nhiên của kỹ năng nghiêng về hướng có lợi (ví dụ xác suất khải thị của [Lời Thì Thầm Của Số Mệnh] +20%, xác suất pháp thuật kỳ tích của [Âm Thanh Ngàn Miệng] +20%); mỗi hiệp tự động thi triển một lần [Lời Thì Thầm Của Số Mệnh]; trong thời gian thức tỉnh, Yogg-Saron miễn dịch mọi khống chế tinh thần.",
+                "2": "[Thức tỉnh sâu] - xác suất có lợi của mọi hiệu quả ngẫu nhiên +30%; mỗi hiệp tự động thi triển [Lời Thì Thầm Của Số Mệnh] và [Âm Thanh Ngàn Miệng] (mỗi kỹ năng một lần); trong thời gian thức tỉnh, mỗi hành động của Yogg-Saron có 30% xác suất kích hoạt [Vọng Âm Hư Không] (thêm một hành động).",
+                "3": "[Thức tỉnh hoàn toàn] - xác suất có lợi của mọi hiệu quả ngẫu nhiên +50%; mỗi hiệp tự động thi triển [Lời Thì Thầm Của Số Mệnh], [Âm Thanh Ngàn Miệng] và [Ánh Nhìn Điên Loạn]; trong thời gian thức tỉnh, mỗi hiệp Yogg-Saron có thể [Dệt số mệnh] một lần; sau khi thức tỉnh kết thúc, Yogg-Saron nhận [Vọng âm hư không] (trong 3 hiệp kế tiếp, mỗi lần thi triển pháp thuật đều có 50% xác suất thi triển thêm một lần)."
+              }
+            }
+          },
+          "觉醒二": {
+            "Thần Hư Không": {
+              "名称": "Thần Hư Không",
+              "类型": "Đặc biệt",
+              "阶位": "Thức tỉnh hai",
+              "描述": "Yogg-Saron không còn chỉ là một Cựu Thần. Hắn là chính hư không, là cội nguồn của điên loạn.",
+              "特殊效果": {
+                "1": "[Thần Hư Không] - Yogg-Saron trở thành một phần của hư không. Mỗi trận chiến 1 lần, hắn có thể [Phủ định hiện thực]: chọn một sự kiện đã xảy ra, khiến nó [chưa từng xảy ra] (ví dụ 'đòn tấn công này không trúng', 'mục tiêu này chưa chết'). Sau khi sử dụng, Yogg-Saron tiến vào trạng thái [Cộng hưởng hư không]: hiệu quả mọi pháp thuật +100%, kéo dài 3 hiệp.",
+                "2": "[Chúa Tể Hư Không] - mỗi trận chiến có 2 lần [Phủ định hiện thực]; hiệu quả [Cộng hưởng hư không] +150%, kéo dài 5 hiệp; trong thời gian thức tỉnh, [Dệt số mệnh] của Yogg-Saron có thể dệt [Nút chết số mệnh] (chọn một mục tiêu, số mệnh của mục tiêu đó bị khóa: trong 3 hiệp kế tiếp, mọi kết quả phán định ngẫu nhiên của mục tiêu đó đều là kết quả tệ nhất)."
+              }
+            }
+          },
+          "觉醒三": {
+            "Chung Cuộc Của Saron": {
+              "名称": "Chung Cuộc Của Saron",
+              "类型": "Đặc biệt",
+              "阶位": "Thức tỉnh ba",
+              "描述": "Yogg-Saron vén bức màn cuối cùng. Hư không và hiện thực không còn ranh giới. Mọi lựa chọn đều đúng, mọi lựa chọn đều sai.",
+              "特殊效果": {
+                "1": "[Chung cuộc] - mỗi trận chiến 1 lần. Yogg-Saron phóng thích toàn bộ sức mạnh, chọn một mục: 1. [Đặt lại] - đặt lại toàn bộ trận chiến, mọi mục tiêu quay về trạng thái khi chiến đấu bắt đầu (bao gồm máu, vị trí, trạng thái), nhưng Yogg-Saron giữ lại mọi ký ức; 2. [Chung cuộc vòng quay] - xoay một vòng quay chứa mọi khả năng (bao gồm các kết quả cực đoan như 'Yogg-Saron trực tiếp thắng' và 'Yogg-Saron trực tiếp thua'), kết quả tuyệt đối ngẫu nhiên và không thể bị bất kỳ năng lực nào can thiệp; 3. [Chung cuộc điên loạn] - mọi mục tiêu trên sân (bao gồm chính Yogg-Saron) tiến vào [Điên loạn tối hậu]: mỗi hiệp 100% xác suất hành động ngẫu nhiên, tấn công ngẫu nhiên, thi pháp ngẫu nhiên, kéo dài đến khi chiến đấu kết thúc; 4. [Hư không giáng lâm] - triệu gọi hư không nuốt chửng chiến trường, mọi mục tiêu (bao gồm Yogg-Saron) bị truyền tống vào hư không; ở nơi đó, mọi quy tắc đều do sự điên loạn của Yogg-Saron quyết định."
+              }
+            }
+          }
+        }
+      },
+      "skillFlavorInput": "ngẫu nhiên / số mệnh / điên loạn / hư không",
+      "teammates": [],
+      "customTeammate": null,
+      "selectedTraits": [],
+      "customTraits": [
+        {
+          "name": "Ác Ma Ngàn Miệng",
+          "effect": "Một ngàn cái miệng của Yogg-Saron đồng thời thì thầm. Khi bắt đầu mỗi hiệp, ngẫu nhiên tạo ra một [Vọng âm thì thầm] trên sân: có thể là một hiệu ứng tăng ích, một hiệu ứng bất lợi, một lần sát thương, một lần trị liệu, hoặc một sự kiện ngẫu nhiên. Hiệu quả của vọng âm sẽ mạnh dần theo thời gian chiến đấu."
+        },
+        {
+          "name": "Chúa Tể Số Mệnh",
+          "effect": "Yogg-Saron không bị số mệnh trói buộc; hắn dệt nên số mệnh. Bất kỳ hành vi nào cố dùng tiên tri, bói toán hoặc năng lực liên quan đến số mệnh để tác động lên hành động của Yogg-Saron đều khiến người thi thuật nhìn thấy [Số mệnh sai lầm] (nhận thông tin giả và có thể bị dẫn dụ sai hướng). Yogg-Saron có thể chủ động [Bóp méo số mệnh]: mỗi trận chiến một lần, hắn có thể đổi kết quả của một sự kiện ngẫu nhiên thành một kết quả khả dĩ khác."
+        },
+        {
+          "name": "Nguồn Cơn Điên Loạn",
+          "effect": "Yogg-Saron là cội nguồn của điên loạn. Bất kỳ hành vi nào cố [Thanh tẩy] hoặc [Xua tan] hiệu ứng điên loạn do Yogg-Saron áp đặt đều có 50% xác suất thất bại, đồng thời khiến chính người thi thuật rơi vào [Điên loạn nhẹ]. Khi Yogg-Saron có mặt trên sân, tất cả hiệu ứng liên quan đến [Điên loạn] trên mọi mục tiêu tăng 50%."
+        }
+      ],
+      "customExpertise": [],
+      "customIdentity": {
+        "enabled": true,
+        "name": "Ác Ma Ngàn Miệng",
+        "desc": "Cựu Thần, Ác Ma Ngàn Miệng, kẻ dệt số mệnh và điên loạn. Bị Titan phong ấn dưới lòng Northrend, nhưng tiếng thì thầm của hắn chưa bao giờ dừng lại. Hắn không cần mắt, vì hắn có vô số cái miệng đang rì rầm; hắn không cần tay, vì hắn có vô số xúc tu đang dệt nên những sợi chỉ số mệnh.",
+        "tierIndex": 0
+      },
+      "selectedOpening": "custom",
+      "customOpeningText": "Hư không đang run rẩy. Những xúc tu vô hình vươn ra từ vực sâu, tiếng thì thầm của Ác Ma Ngàn Miệng vang vọng trong mọi ngóc ngách. \"Số mệnh?\" Vô số cái miệng đồng thời bật cười. \"Đó chẳng qua chỉ là một âm tiết ta phun ra mà thôi.\"",
+      "selectedDifficulty": "easy",
+      "customRace": {
+        "enabled": true,
+        "name": "Cựu Thần",
+        "trait1": {
+          "name": "Thân Thể Hư Không",
+          "detail": "Yogg-Saron không có hình thái cố định; hắn chính là hư không. Miễn dịch mọi hiệu ứng biến hình, hóa đá và giam cầm. Sát thương vật lý phải chịu giảm 20%, nhưng sát thương tinh thần phải chịu tăng 20%. Mỗi hiệp tự động hồi 5% sinh mệnh tối đa.",
+          "negative": false
+        },
+        "trait2": {
+          "name": "Cổ Họng Số Mệnh",
+          "detail": "Mỗi cái miệng của Yogg-Saron đều đang thì thầm một số mệnh khác nhau. Mỗi lần thi triển kỹ năng có 20% xác suất kích hoạt [Vọng âm số mệnh]: thi triển thêm một kỹ năng ngẫu nhiên (có thể là kỹ năng trong bất kỳ cây kỹ năng nào, bỏ qua giới hạn cấp độ). Kỹ năng vọng âm có hiệu quả bằng 50% kỹ năng gốc.",
+          "negative": false
+        }
+      }
+    }
+  }
+}

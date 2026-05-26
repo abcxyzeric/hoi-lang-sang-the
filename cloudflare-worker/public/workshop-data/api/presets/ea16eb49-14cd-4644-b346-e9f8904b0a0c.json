@@ -1,0 +1,37 @@
+{
+  "ok": true,
+  "preset": {
+    "id": "ea16eb49-14cd-4644-b346-e9f8904b0a0c",
+    "ownerId": "1493256479900307639",
+    "ownerName": "fengheng7",
+    "author": "fengheng7",
+    "authorAvatar": "https://cdn.discordapp.com/avatars/1493256479900307639/e0b2a244c1fa627c785852a20259ba70.png?size=128",
+    "name": "Nguyên Thấm",
+    "title": "Nguyên Thấm",
+    "intro": "Chưa có giới thiệu",
+    "coverUrl": "/api/presets/ea16eb49-14cd-4644-b346-e9f8904b0a0c/cover",
+    "className": "“Con Đường Bình Phàm”",
+    "race": "Chủng Nghịch Lý",
+    "tags": [],
+    "likes": 0,
+    "liked": false,
+    "downloads": 19,
+    "status": "published",
+    "createdAt": "2026-04-23 08:26:55",
+    "updatedAt": "2026-05-21 19:07:37",
+    "lastLikedAt": "",
+    "presetData": {
+      "name": "Nguyên Thấm",
+      "class": "“Con Đường Bình Phàm”",
+      "customClassName": "“Con Đường Bình Phàm”",
+      "race": "__custom__",
+      "customRace": {
+        "name": "Chủng Nghịch Lý"
+      },
+      "customClassStyle": "",
+      "backstory": "",
+      "selectedCustomLevel": null
+    },
+    "downloadUrl": "/api/presets/ea16eb49-14cd-4644-b346-e9f8904b0a0c/file"
+  }
+}

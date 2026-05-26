@@ -1,0 +1,352 @@
+{
+  "exportedAt": "2026-03-18T11:04:17.787Z",
+  "version": "1.0",
+  "preset": {
+    "id": "1773826621205",
+    "name": "Quý cô Sett",
+    "timestamp": 1773826621205,
+    "createdAt": 1773826621205,
+    "updatedAt": 1773826621205,
+    "data": {
+      "name": "Setti",
+      "gender": "Nữ",
+      "age": 18,
+      "race": "Thú nhân chủng",
+      "identity": "__custom__",
+      "avatar": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wgARCADiAQcDASIAAhEBAxEB/8QAGwABAAMBAQEBAAAAAAAAAAAAAAMEBQYCAQf/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIQAxAAAAHvwAAAAAKEeabNzluiJwefmXqHsDPv8cdBochumoAAAAAAAABHJiHi9OMe7kyG56jtGTY+Zx0Tn98pZUXRGLR1ss6x59AAAAAAAA+FbPzOpKl6jfOe2aF4so/BXueYzHk0a5i9bz/QGPm3fJrWq9gAAAAAAI8c3MbHhNnQs55YuRVjzJV1iKX7UE/n4SUZKZp+khkW5s4v2M3SAAAAAAB4IM/QjLsFiiV/MkpbkeSLxB8JvUkp4wa+ueNGPLNzn9uuY/TcJ3YAAAAAApXKp9mqyEmS1iloZOwfaF3FJ9FIOYnyTXtw0zpoPsxiXLw5fezbJqPPoAAAAAq+fWYXs7SxSfczpClPJoGDsc1YOnyaOkYM2LcPFro6xdtc3uk/zzEVfnr2WZQAAAAEJmSTwFyjcwSXmduAwLG9uH5/s6GmWcPR1TmY+ryzkdiLrDh63XRnuXjOlIuj5/pD6AAAAABh7XKmtqZF4zdznOjMizfGfamrk0NX2T/a858826JJyUtQ3nzRM6z91T6AAAAArwkUvr0QZfR82adK/gnTz5w0PWdonyGb6HzwSfPo8c1c8m3Ut4RoX8m6WIJZCh7ueD0oi+VSSr4+lybO0D6D5zexlGvD9xD7vso2q9uAq2ZPhSn+2CWtLypT7SHwUc+zplTawd8+gV7HkiQi5lepStrvoA+ffBlaikYMfQ5xqUJ80+6n53uHeOI1joMHCrmvqZchqc90PKnZ3IpR5+VSeKSUhn+gCCf59AAEE4rTQWT7zHT1ivXwt04i5N9NKhBonn52XMmr8xdI1+P6j0WIfX0is14y6zYTYZFgvvIyvehGVJrcAR+iT2+D3XtAFDj9+wYPQ+5Svqg5vZ5Iv0u0hOZ24uROy81tMj9e/R8m8THinoeTNRjYAA+Bl6YU7ISZocf04S2Avgw6Qa+OGvXDaA+B89g5AJAf/8QAKxAAAgIBAwIFAwUBAAAAAAAAAgMBBAAREhMFEBQgISIwIyQxMjM0QEQV/9oACAEBAAEFAvlm2uGusghfeZgYEoKO43FmC7q2pEoIf6dt0hCVcSeoj9JRb1drMyyQ0ke0+kU9XVrE8Fige+r/AEjMVghZOwI32H+5lNgxT8QrOYcrGMhVONva42E1OkKka0qhwdFKYn+la+4sGUKWkNiT3mNWlGsV4jNPbViJr2qrFzVv74zrBbhUHGofb1CPtuqxMTH9BjxWdEZIH+48RG9QQJR2mJS2CEstUvqVD2RBRZ6nn5s9Yj21v43zz6RYkmYIwIh77mVI0YmJACMRzcZZG/XX3b9ssrLPKihCc5REeqBJ1URoj57ltYKWgpcT9rK3qGbI37ybgrgexnJEAwESMThqMRgfbOsQitsh/uroLcn5DHcJ1rMRInkTJWA/TZLicsBWs2RptOwcRp2ac6gELGWZvksOdtmJ9cn244tsU59vzMnTDDbcxqhcsmbV7S1Adg41nGKw4xkt2bN2TIrCPuLe4sA4McufSjpbd5/KRQIqjB9x49u2EL1xH1CyZ0hfvLdLCENvay+bVqRgLLVQ0YNimrYLRtr5atHdXt/Kf1Gtn00jaZ8YKDnbcOYWMbYxv1D1mwYjARl677um1+Ncnuu4xQtHYQMh0xiV81FDd6/jmdIRHsX72CWrHnLGLCFhE83UsKYEY3NkAgBy/c2ZWr6zZsihVKGcsNEizTXtUCBaudjIKJ+N/wC04tit0LwylVgJiCOdq6yeTCi2nD6gs1IXC15ZtTBOWNRcGNSul0G163y1SVpjvXDUf9Yfj4m/kmy24tcLPqGWFa0SZy0KkxoRCIt29Qt8VilnjjsYtS6aW2dzk9OfdkFIqi+xUaqhfAhloDOus7tQk+EBD1+O2+cQsUEP7zla4y0ytRHqD9lYWsgunujF2TrEHVDbilJWNlh35RShONs2TzhM8jpJ7bNGygOnWAZcXY1CpqSiZzGsNg/EwSIFV4XOv3oepNqXJyvRI8d0pqi6a+RsvBhqlKCV4FYM8BBYICAlpEMFE1wcTFwYZYErZ30V/BIpyROKa61L4qUfLuiLiNQiY1GuelrLlXxGQtunhcANka6ZzrjIYtmcS84FTnhlRkmC46m+WZXR4VK1eIsKhkgmzIx8czpCfubDWzM12w1duJRb8jJZk1pZMVE54NGoK45xz+PG23Hgkpb+Zh4hfFWrejPktw1oggEzaVyKXJQZyu7Wq2DWmHrnNcgoLuK9G+SdIGntsXIGIxpamufdmuETM5mxg2Vz5jcAZucecJTkV15p6U50a2oJkS7VWwiNwmfKaCOB8kF7u3UHzC+mCMVpKBES3FWPlKGROQUT3IIKOAl92NFcaNdgKBflrfuqdyzc2+FpuJayDXIUIzYdKo2siQ3yJJVGVDk049woTWht1ywhYW7EYgSZZrDyriIjyG2AKGhPZrNufSRnipPPuy8lpnGlC+eV/wAl9gbVokAYQ+aboKChyYdABMBxYSNxAELEzFYmLOpvQCwXasxXXSry4n0weQ9NIJj0jvprBLkcmdIZ9zigUM+SfSPDFYMRgBfYPF1IGzWfzBeKFyFmIGtdVY8ljqYBNRRXSApaTmwixJeJOr/G7RGmSzNcj0yO1naciiS80FrkF7rBnMVqsIyZ2dbsoLcbV2w99RgoCwoOouqH/wBevIvc+zilxMosCqtJsCvNMCSoxjpyx2rwigY1JmQvIGI8i1CqPMcaYXugfWM6n9F1svtRrBYV1BMoZSg1we08mVKmsgr7epbsRRRXi/OlIf0Xa3jLMfgmaTC/nj6Z9npGwg7Eqp07K/B9VDl6g4ZqXXWtmU+lyc6aZdRudT6lAFZKHtYom5CvfMyWAMAJPWOcplktbGeLmM/6ChwbtY8gonITaz7teeMGMGxDM3nnIWQ0ZwvxMQwI/HazWTYCu7wZIqus9TYgbldHT66e/ULYipSJmoHR3pYN2ylvM4RG1Dcn35AN08NE5FZMZsHNg4VeDka0jhTMZx65AxGEhZ5saGc2me04gduQWxvey/kytW1AvbeT6F2cG6I06h1D8ZLYxpraHC4ZrJZw7zHPEDnOvOZfeZiId1FSo8x+1sfiz+mP15fmYphM8ZEWj/3v9vbqczwdF/jT6zrJPsxA1f8Af32xm0e/Uinnn9j/xAAUEQEAAAAAAAAAAAAAAAAAAABw/9oACAEDAQE/AX//xAAUEQEAAAAAAAAAAAAAAAAAAABw/9oACAECAQE/AX//xAA+EAABAgMEBwYEBAUEAwAAAAABAAIDESESMUFRBBATIjJhcSAzQlKBoSMwYpFAcrHBFENTgtE0Y3OSsuHx/9oACAEBAAY/Avmvh7xsCbiE17wamXYmblMXdi1vYp8QB25xNN4QcLj+E2bO8d7DNNHiebR/ZCGPDveqY7MazDFzauQldrmmMbjv+6bpTe6jbsQIVnZ3fwZc4yARjROKLhk1Odgyg6qKfT2UO0QJCSo6fRY/ZPc7xnFOhzqwy1xXnBqDzlILStHPmtBRoLr2mf4Nmijh44nROfkmg349VFlT4hT2viGbXLjf91JWTgSFttGnMXtW/dcTl11Q4A8RqmtGATudE11zYgIUxd+BDTiJp+kO4oxn6YKFCzdM9Bq0jkXfqmvkJyv1l4qx1/JUIW3hCvjaMQgA+3BNxxbyKtXtbqecog/RMfkof5fwP1RzYHRBouFE93lbZ1aSz/cVg4KpVGy6reIkt0dSr5j3CL4cwXeXFF8p2nX6nOvJizkFalcmdPwBY14L3UkFBiG5qc2wZNvTn+dxOoxAbObl8OjfMp456tnDvxOSkFVHZOvwKbISkjZQncPcp45Jp5fNIBI5hbumOlzC+JF2vKZTGN0eyZz1Q4noeiDW3BTdwf8Akt6jB4VTVs2cZ9lIKn3W5XmtmTxCYXpqngvpcnNyPz7LQLRUEDI6ix1yk4zApTxIOd3ruEeUKQ1c8Ai5x3jeVWjcBmt6gyUzQBAuucwy5Kye+Zd9QQcNR/pu9iooN/ziSjEde72W0PQapTlmcgts8S8rcgnRjjRvTVMrbvoPCFQdFM1dnqbo0K7FQAPKVkRcRgqjfxHm5hTaVEbyTXHu4w9/nBmAqUGC9ysqam6rGmvNybCbxRTZCAFw1bLC9yssowYqQ1GBCqcUYruJ2KhjKeqTv/iq6y/B+Duqsxm2TngnMHEx26UJ8UvmTVs3uqnRMBQIoNZiZN/ygxtwU8ITPfUScFsxQu3ohy5Ky0U1bGDWIfZNhXuO9EcpC4Up+iL4wk7iDcgpAz7D8JqzzVPlyzorLbzuhMgsqcU5nndRNiHhLrLeic7IKLvFppUKbSIzcjQosILIpoGuUrzeTz1bGALcY+ysTtRn1e5EvMieI/sEIz27SJ/LhNub1UOPpBsQybLg3JSY0dgP5lOdgAp5/Lh/mRZDvYL8lK8yqc0+IPDIBSZ4RNqLxixRK+P9kXEgAYqy3hbjK9fDdah5G7/0hChCw83kpzsb3OzToz/QBCNpRsM8MMKllvMp0J0Zm8M1sIsQbRlJ5hAF4rdXUZXprRfcrOXF1+Zs4XeTvyTWN52jmU9NacXFQ3Sm0brjknQIdizEnKhPonAQnRTNWowewZBEwo5teVwmg3SG2WnxNuU2ylfNbLRm2obeJxuQJhve8eZEWxDAyvVszlm4qYj1wW2m2bPE0raaS4NlwzuJUSLmaK27G5F7cXWW/wCVZnPr8uTXWTmpkzKkolarvzIc04Pc09aqejvJF8rpFRoMRll53rKefFKigw4TROcyptaLJoWYINixHOYLmXBBrQABgqmSfDD2guEppmiOYGy4nzpJUc37rYCkId4f2Ti9g3W0TITYsQTq4ZBCCHOfOgnnkmnxNfX5znm4K0699dVnMS+2prgJPYZghDfIUy901eTq4lKY9VwN+y4GqdgKl5wCEK95dwjBV7x53nJ7ncMPdb1UWHIPbOXNCHFY8RBT5hKb5KuPNWJSiNrLzBTChRxwF0ndncaOpU4kR3QK73U7Co4yy1EWZqTYLoYPJQpAlwqVMBs8MVZdfeUfqr80QoYkH8Tsgm2aBokrTeNtQttB8YtFn6pzRiLsk3a7zbrWSo8aqa3RJnew7JJuUaLZFm5UCEP1PRO10hz9VWCfQqR3T9XalOZyC3WBo+pb8V3orp9VJWMnOkrbSYcTzNU7THh591tHbORGATWQ8DMlNZszS89mUpaxAh97Fp0GJW6KT+6mbgrTvHU9FEieEXKd/Yk4TXwXy+k3a5uK3vhsyxW63sw3/nKdSguTy6mXVAR7n8XI/wCE1gEm4yVE0N4nGQXfkjojN5+yNpzpjGamTOsp6nRH3BRIrqW6TyGSDRcFI8Pl8yi7U2XOYD6Kd0Odyp2N4GWa4tQa0TeblbjRAYmZXwoL3c7grobPfsHM0Cp3DafmUXIAJsJrt21ZH7oNe3CS2MSboYEw/JTBmhWRFQVJx+1FxO+6mSCeisi5WnEAc1Ph0VlxzQEMSbgp3uPCF/ExqzuQfNzXjxNW7pcYDLtboDh5Xat0bv8AUK+EzaO8/a2kenlZkgBcE6HB72M77BCCDvthztc0QaRG0e3JCM2rofG3NqMWDIQ5TDVKcn5HsFkAbWIMrgnRNKdblcBcF/D+TjKh/ULICbGiXPcWgZNCh9OxJotFbz/Rqow+qrqEPec7yN/dAxjP6RcO2Wow4LbTzfyVp29EN5Q+pi/iIBDYrb8nDmrVWGUnjFvNOhvPw6tDhmmvabLpXrZR69f8rcm5/lyU4z9lAyCLrNiCxswM0GNeGudVzvKidGhloF8V+PonAuJe7xm9RYETd0iBNss6prchruoqn0Cp2JD1Ofbtj1Qe28KerR9KwY6TkfqkEIho81tBPhl1ploFRG2twJ0xNRojrOQotvEpBa6kMi9bMGy17wxCywTzKidEOiEaDu2SG2vMdVltXKbzM/Pl4Xa3Qn3OCfomkUiw5WT5goe9gmQh/MkrBqHABEYm4eq22l1N4Zlqhh4+GXrYx5y8LyoUBhBmbTpZKyXSZkMU2kmMuCk37r9VK1M5Cq3YJ/uKqYLepXHB+6+IQOYqqRmqhX+olysr+XEH2W+xw6VXw2ly7v3VYZWXVTHZ+KLsclsYltwnOFS8Zrb6VuyE2tCFu++a4AXZnXYbXmrMSBbt4K3C0iyVso7mjIuF6tPZDlmHKUFs8zgFvF0Q5NuW6GQxyW+97vVd2Fwj7LhCO41o6Iye6WU1QLfM1QKcq5hbr7QycviNLVgVS5WM6jsOaHSgw+8dnyVuOJvdgcFD+ppCiMyOveeQwXoNaJQIWqlUWxJOGIAmvhTMOe7Dcb0HFwdPAiSrC/6qocPRcS4hrmaKYDn9O2JU1N/MnankGS0UTptrkypWifm/Zf2awn/m1SJmEZU6KD/x9i4K4awJmWWr/8QAKRABAAIBAwMCBwEBAQAAAAAAAQARITFBUWFxgRCRIDChscHR8PFA4f/aAAgBAQABPyH5oiErAo6d5UgnUqxZfq5ehqsB51p8FUAOQbNfWoVfnSMXS5oIFn/ILShc8WsYGuvO/VHXFRd8v0zpIvrou/e6RJ0sYr1Vi2JugS76Kj+5gn8HdSs5G27f8dBx2sBAi30eh51hf00uUa0H+veczoGpc14C5huvfjR0ro2iPxAbeu60V3mqinxQDtF5cx9MAXw/8b8GPHQ8sU5g4PtG1nL72ssTzW+lkBdM0DRzNL8s4ZNt5QMbAe8tPyrUg3vVY1fH7S7i6/v7IQKoKz/VDAa89fRshpLWj/w6madgbwk/oZ0Tpj6yfevTANQHezMwbsZ9QEdFN3MAtXZlVpswe1FUNY6sEWSbKNjBLxL6A5ek68eYK7L/AIEIuhrOwDo3zCAoAHBOgiHnL+PQGuT4QldddDyQHSvQ3nE3LhtsdBEWCxoEFkXbhgE2VUd0PFGu2DAQqsTcshqIYgHgWSg8H59zEMIlsFTElPaLcACh/EqJkBemh9o6cQ/LodIYXcd+0fplarV9EkE+qTmF0LiLpM/ilA9Ag3JtME3lX60oln5w4jqvgjxEOGLcfWCEG1IdiaN6zDWMv/PMwJXVnSNbUWjlQMOmoAAUG3pTd14cwj5nmBxr2QVgvnpFF6LY7wUl5yr0vgzuJpjegwXmdfPsGweNOs5rXsCioBNqapnlqewTRXQPSQhpHoNtW8cjMw2eWu6A1gdUcBjioUGghOkOsLznIm5w/T0Le5CWyJXztJoi1+jOIASwvYPQWOlch6YQze93n+BT+/QHSgysysDrbHMauzhsdWHkcil0XtFwu9vpNFoH7QYLavXKIqLZPQ/cmWbpuQNxuneMdwAePnP4v7R9xK8QqDQhWsugcsRNQF/WCJDXaxu+0HRRR6YpaOfpxHiFsVk/99F2FymvCYitv2+lRtMiarknjBD/AETKlMVyoNItJd7mC61OvzARaEa2p2/EX9Z6ykXukTDPYuYHyiqFQyyu59NEIWy1fRPZt7IHoD0UuCZqKhf8ajxK70vDrAXjOocTNM6eiBSCRBKTEq0yKV3iqXFyuJc8HPy23GrIqobY/CRzBBj61Mze6B0ftnXgZULaZ9N1f5n8by5jJMAKt7wUGzut3phUOmx5YQsbynpNc6z1/ZEwhjI6q5mxrKKWlwWQc7+rMhVk+sK/0aFstVfy8uKkOu6HBOrGpvUuqgW0jcHO8Ax0fFC3dv0gVpn8EygyU6TDAFQ8779obLN+4LPBAdo+G6WNVNRWd5bwT6TvELlHlje5Ri1RoDgJ80KRdJ1doGkjW550TX0dHKzF1GS54fMQGdU4P9zXloJrqXMuwEw/Yp9pqFgbnaMqesyJL1w0Z4R/AywtnGU+jLs5sLe8fstVV+cpO0f+se7yKm8dZrV7YKvoTmrlP9TXlm0HvWWWuh4U1Em9xl12SEXIxGRvAt7wTxtuccxXFHj94Awqb6vlu75wuGq3gxQTD+tpoeRol03ZDTX0jtHN4uvuwexut3ZUcBjqVbvUOzQdTaOFDIM+YIVn+UlMA6F93maTNgYIk4HMTfLLm+sswYK9hxKdKqLzuidXomOHU9E4lfd0XH7WcMd7MLGyFfmorMfNWrVtvYi8wOxLo5JlvK7r9elhmwKn3iQahvlgLsuQwajvGICqB1jsvjM1bdPRBJn2oKoVRJgpe4sEPHBofux1zYCte0m257zIElrqOBaCx6/MNzQLlTuQt5cRG9MbOhBaWmGabx6F4h8AUG3uaS8c9kgCrvdS7BvvDt63bPS2CQXXMDdYiZe8uJVz1MoGmI4Ssw6nlmHdR90r5miMUy8Wg/zGt6y5Ap2dUdET+7hWqhLenAZRskLv3MAg8y4tdY9RuJANsFfAl6kegDMumoBxvvNLDsQ7Lr8QwiBnHaDRHgLB6UP2ORC14hUES7+Fa3kjPfiWfab8dMIDf3IAq0lXs8ZPrbg78wYUBFKvh5lOOQ4oK+8X0AjlvwTTv8FkttS9Wx2Ei5oXgv1Rk9Bay/wqq42nmWKU0a8bbE2RO560YjqRyqvd9W5xoGrDKTwNX6gFAdd/gWhYDiLb0uVMpR3nMzjgWjXhXmdHQJVm/dDZVt6XiXQ10uEQOcbdYO6RnXmDVJo4zBQV54DVVBbnouFB7vEWBWUe2gn0NBAuqHA3fqW0iBx0THlR0enMNogdJXrSrTQFk0cdvReLVx1YW3IZT6BPqvH3oWjS4VULrPrhTUxwMAL9OviVrND+8wLGJu7vGnmBwQ9iPXCboOz+4RAHRJkE+nsyj1eTFNjYQCgoXKERwiwa3gPk7Jv5lagPLrOhj5WWEvo7RvYqJTNUJvKCgu63fgRQlk/DTOzARUA5iNGHDaY6S/LuLT3/AFNvgVrV1sbwteho6d0AqijtfhVs4v7ylug8LyuN/qE85xLdf3Lmn1rNQQ/itPW6M6TcmC3us7YqXiiza6Hc2PMSnI4OdovbULVe7B7H0dJQ1WBdjoRTsRb9VUtWFPoyzYuzX8CUoV0/qZVFHwOkI9dyCoKTPePE1C6DDFgVcJwShvS/vENSng+F+00tFv8A7j9y7SF0xw/EwJ/exohUKHPFdP2nn+B9TpA2pJeCxjLunD7LEARZfZ1ekBS1hpy23QUW3tHauIjVnuEdKA9LAsUV4Bx5ZgrF2CA0A7fBmKrlNV1+NHumjkh6vDqcRFYq/S4/2AwcDhWnCkLdvjGnTtUDpqUrUhptoDqWf+w4MM1Z1CZpQFVPYjW3pGDVlnDQ4JdWJzM7npMTdhBdiwrF345lgXlmMOlxHXtCAGD4i6zr8juRjo+pyaTtEzbZdDcJE6us6NJZunV6cy+NGNauIe9xBrF8rMPSAaCZOUrnpAbjT9uw/rlF0Ixl+uF8oBQAYuZdPUVg13cxTwLaVtLzR6TC6h+ylo7qUlBcvrA7B7TXp8j7zBai1xeGIn0U+kEvyFej0/ZNxalXwKl3eGZwG9HiBALbz6OkRh1o0sexZpGLfXLjrxBvC9DqMBsa1zr6bRxTbD+k0vW9h0uHLjqcdB4lwLdU55T6YETbJMmIUVdhU4zoJbPudoTSe6kD0i/wIFZXXWxuj24IBVyzPaPjaAUARy1ewZs/zHvC6ledSdI+8zrPRCR4PgB7iHK2PM2O94ewR39vZcx95zs59ckLYmLh6B1ozA4CA0PVoS7cn7ZMxzjnrIrVCxBAtLRyxKfqED7faCaSESz0sQA3Y1pLVnHv8WuIT6CxNGa/cEbVcdI7pUZGZnXythnRVz1jyb3g+v8AP1AYoK3ADVm2ZvcxAVZo5hETRwlGno6hGEt/VP8AK9fcusQAscT/2gAMAwEAAgADAAAAEPPPPPPCDPOPOLPPPPPPPPPIOKCJHCPPPPPPPPPOGGGKIGAIHPPPPPPCAOFMHCMEKFPPPPPPKIMFNDCELNGPPPPPPMPHHFGECFIANPPPPPGKHHPDAMPMMFPPPPKKNBEKNPGGDAPPPPPPDAHHPCEKOMPFPPPOJBPDLAOPOPHAGIMLHDPNCKGPBMFFCCJMEGHIMIDFBHJNMCBJPCNPKLGIABIFEIIGFMPAMLGKONDFDBOHDLPHPPHIIPPHHPPHIIPAP//EABQRAQAAAAAAAAAAAAAAAAAAAHD/2gAIAQMBAT8Qf//EABQRAQAAAAAAAAAAAAAAAAAAAHD/2gAIAQIBAT8Qf//EACkQAQACAgICAgICAgMBAQAAAAEAESExQVFhcYGRobEQwTDwINHhQPH/2gAIAQEAAT8Q/wAl4uHZc0MtF726r5lSL8UhRdprmAQTT/IgS3oBH4clVv8A4OL7IEVahTyVd+Ja+ABJsOD8x3VG3hL/APjdQVaA+SvRryke4jo20wF1tfTLhoE5cgwMX/yv44i7tGvmNn4wWwFGlV/IrKEX4hJgZB2PU8wghrzQrFrh39MsEIAd2o/Ff/E6hjlX6A3AMoC26/Hye4Agq1YsH4FHyy3uP9Xj7lCzgeI1zBlTO/8AQiTQhyh/Udk/tARgL1qVoL0c2yoI6b/hBDBDyig+2CC5E4Bn8/qHAwHpAK+b+4q6hNkKv8f/ABcREa0tXJn/ANKIVYS6NGB7cfMycXLlyL7ZRmXHloV/iLb1AC8RLHuCAsOFr6mYE6Wrl7oJr/8AG4SLOgr6/JCKqgIOGHA8aeoACNiWJzETsBnRo/N/UH4AK88/mVEYon4n6Z4xTgXI/EB+Ww0n/wADgYkjc0qjKrxGCCDe8b0Vb8wc/SuKLX7o+YFHmUqx/rgdQc1mgME73/C4iARvJfC6eYZEuRBhLehSyNvCzp34gxXa9dI66YaFgyp+hVWAVW+LlhzkPkP7g2ohQ9h/EIRVH6f/AIFPoFXRzNaoYG94dWCwEHAEBQfiZFn2umR1CoLxfLD+4RSXca3DcNZGgWvRuHIzVK/guFSiYHG/uBNtCVPB2xf2u6fByS8VETt4sGGty02BXk6DvVvuAX1i1XnjYC+NQ8sstiWk/wBtdf5VovMs7iAXiaaXeLwrWsRhAODI4CnEIGbjAbycjDLt+RC1n0IgaoAu3jzGrha21XweL5+oppGkfwf3HwO879zLrP6isFPSOvcF3IZU2ruUJ9F38MdQDX8Ptw/crgFW+aKRPeZeAEOWh4fUCpZA2+V+BWj5leizq+YHJ0H2Ff5QopjZlxMi2KcnyFxiXLWT+KCNt9+Ilq0vzLDBEZL58Q8DTwS6s+HD5ho5wNgLe+sx0NYHwA5ISF4tMCaF5fwQegqAYCcQFIhf7b/dw8NZfa5WIuyG20PXccgnDhD4IiLC1cSYYqvQ8/f8MaleLXmVxjPVvUE6oAdD/mdQWs1YMeVDXWmfau36H7hGDAVKoBoeR4SNvXfSV33KtyyLEZQ7DnuBdgrOVeW5omZza221AOsjd8B4IAvUe19+o6OG1ryvcYxAvErG0Q2Ag823MWy/iNLXsDHcuZFrlcj5GJYneGCwVLfrrwy1eblv/MqdHbF4Arp+EfuXpGWnofl/iqBP34eXR7mEK5qdzz2ssYw0XhMPyz9TUOYNRoDbOJCn+iLCuFyv/wCh4iixv/wdHiIRIDN6iasJa8n6gnYG+AhiGojsH9wzEGgNizjsYhGg0rC9JwxWBdHoFn6lfx68Bj8zn/I6ljsidC8Jc6q2uOT9QQFCBXFRjcQcptEfK34Rcfh9yqs+TKW/EH8QewEXQFBHTG1wgToa+TmdMmDC+P6g6kcvK7Yxx1QTcF+eodsblGU59F/qVdtFpvFP7lYqb8lpuAnDEUuMYR4Br2gbqIPt8S3ll4REPu6jNugjjgp8/wCRnaC1lD6XdwcPgif9RJsfMMexRrspmULHOVfjLDyynEQ89r53LHUDqUl+iD/pFapieDMNinYbtL3pXEDQWgP7igXxMtz+DyvUvYfdy1sD1zXdSv8Act4A7Vz1CaVcPAPN4FgUaXnIK/jxRBIpA0yJiWoUgsKI1MQCauBuyZG4Amv8ZlqA15c/i4vCqjt5+DMqIAFB17TxcX21LvAAt8ZgOoJ2h7v8nxNbYW+aFliEPBBZJKA7Ck9MP4lbRQyw9KOcy73eTdtLPcBlpg/KePUq3UjJ3gdC8S849pZ1/sq/E4bGs/gX52w0IPu1OS6ziELeq3Z3n+LiK9xM4WjsYNi1lPC9ytdXp0cf4yBe19MwYuvO8fNFB+pWQLNtDlY4g/LG5HohpLqnNL/JFjs9C7H3cd4YC2sFMBkFCAdqxpGl4tkgdUNu+O4sWF2quxc/p5lSSUq/Lr8vxHuEl79zcCxcSVx0dG3iVQgvMRd9X3uFCIqiL8sUOR1pcOLyOYpI8CCwFf8AyU4rqBvqnMcM2FuNRHmAcl5P3MF3Hzo/7lomxd90BXr/ABKBmEOEjf8AsAzRqpeEnzAi93LdMmaueWRaoa8axjUAiJdbhGdLKLoKbF5jlvS3QBmxeOyFgAK0G8ApTfh9QwLBhrpQN+d/EKkZYB5DvPmpUWBKmzeWgrqiBURaIegmnglZqNNe9g/Vw25TVAV3V/QDzA9q43uPZg9vxLlBWDI93/UBjlQzwMot837xHltxuwDoeuL6hGATPY0OfVC/EuXdGqyrb3b8RZJbmwY8S0hAUXIteV5/x6Nk6HP4lIXW4Hwdve5cBgFx7h1yLBeSir+2AusXH+KEsAu7QX0d8RaLE7A0NDxn1KIQpwC+wzfx4lEYOW4cXi653B07XfNhcrlu8Ylt5xFZGQGPhJqh84DVDP2qEUKigPBFIGKshX3EBrEVLlcx6sgopvkqFeLjiEAFFaJZKgt8p7uWCx7sUNAYfO2rXD1gx1LWIHudFKDAZfUGp9C9JB4LgAqx6/yOmDRcU4IMjxaabNfWZYZsMzMNLhrI/sMSx7eYveRGGqZ7hpQMqz20WxDUN0HzmOAT5p3QkqJiVHoP6SyCeSr8Mt5vhGg49YGVZDXULSgOdX+8xbbmN+Jfy6IWLtglFUeeCFykB5rf3+IobHqnebvTseNSgsnCdARrX+Rm6Ul8EoMpgYdx5BzE4PV+xbuuJosNdidzGwg8PZ6bIhLER0yv44lIZZUHwNzFSt1fxLQ9vf3ExUdNrPmKMG4ROI+cxw/EQczGhrKh/GZuXA5VgOt5Y5rcuJt9FXncV5hQuUbV83AY8jPwj9SijQ1qH/7Ll/4XjK/IA8uvmP5vhO75eY5+U2M16ZQt21jj7BzAMkUeqnGYPx0b2MRcHcDpDxt9bgAcaeZTczZO5zO4HlEPCIcf8BGB9lw0BFR6gfu3yjdX8YPiWnX4D9EM9BKTo79y0kPztmoA3iUD8JLuo81jwd2X4Qe24ut+5SAR5H/hcvSTRfg4gLItXvakMu93hzboqrVg4qJQeIurDHnah81E/ZlXwahtQAsRtBjA13L3FKGHJt8alfHoQxAvm148wW08MJzdubmpd3BxEmrL6lxSNl6T+HTAX2L9OU6AGKH4AyBo/BfmEcQRoCMsRlbP/wBkDGEh5o39S4sNBuiEVb6om+v4TI2EsiKxd2fFyfwoEDoFUa16DcypWnK/LF3TzS17XLDf8k5oLlgNN1gtQfVw7oCTz39LJWxBa6Mvyi9SnFC+gOlM6H3ERlVqIGMO7hp9eDp+FnSWEqZV4CPrlCCDwzrxDBNKQM9ZYbvcbC+T/qLkCBSGn+C76bngHawCQ/IKvbgfBA6CmNEHE1LKT76PfNcwhIDF4EacYxKvSbWFRbuByvACIdgwK/gUSW0HqDYT2sT4jgioFoVoBtOAifRAMJfwj9wBg3V8+a38RIL8uivoPzABYWstc/xxKiW3tZefAFsthLefQ5u88zBIUIwGMPGJt7AyAF+EI8wdVf0VV8ka5Ai1kO2k/CHmq0WMMubwfVyPJLpLd1z8ZmawGkjRmwYfdLPLIHa8sI21rUENxecFLYHvQ8bgaU+lL/aX+CMyn+oOWZdAtVIvdddEPo2l3T2S95JkUt2x00gHI+X+LljHxk2Jhmb6cH2DHpgRgtVggCFqsJyKovvXuAbvoZlzTwwDSzPNQK/lw2wps8CBaBRlh2+XxqGGqgDAQG8+I/8AqKh0x5dZHzX5tgZzib7fTsYLAbWZMsOwQihGzW2lmC6yn3BsWLWpXnyJZL+43GgNriATIuLVzo+C+oHkKnKXg5TGIEKBx1aRvqp6j0tRoeiviJGgw2lI+AuAVFGA8V/AtFp5ICX5ixTENmp7Y5RvqV+9sMpo9C/tuJlDoG4lmYanWmA8W7M/1LB0mcGaK2vL9QIAAcViB/KpIXUZpYGk2MoIOg8OyC0ChsnK9+rgQAUMFrrA+9zDIHE80LX3G7Qpo+/6uEZFLHY3pyijwgdkVbypDgo6sFXmGfpwLdVs7xsRlQImeMu/rxl5ixjBaEp9L0spf/e7TLts9RibbFKORzbnmK10CAOAHTVDvMtFdEbJUynOWoDlqe9hdA1gjGQS1IKk7FePDAPH9YEWpticAGVigJDWJ/Y9F+5ebQ0VfwSqN8KlSpVxVaNvfcXLAr/lR6wof9rJZGy/fKHDbUrnz5iQirRYNN/+/cLy9rhmvhYlbm1NWvIUKcVKbIBYFTHX/kBvceONJ4ik22qwGi13iE5YYKK5o5rEp5S6pQeX8RqhcGpQYPBmFJCPtqvUsRhA+bQCBxBA/UWXqaeEDoX5V4gAVAW1VwithdNeTL+k+B/vUBAANB/1D+BHT/OJgUzUuWS/+C4g9+fq+mFGAJxLBiPdw/DKECuaWo7DHxHmjEvNrrLWOvca6USl0BukEaH2qRfuiADTcEpU14zMoBtKXYvbCKIOgqXPufAVYF8Nm51j84nD6s0PMLYFgGXn20ET9hTw3p6ga+Ncti66DXtlRApF5p6PMFgWzZau1iWjuH0EzinwD9ZZbU5wqn6iWv2WPvMDhTpKfgfxHA3oWP3AAF1a4UubwBPnJluywyV+Nkr6Ttw3tiq29F9Lf4gpZX2L/UMiicnBDuV/tBZON5lKGhsNo0yt0APb+NlSso1BoVlHrxF49JNstc3igXm4iE98sKApqvzcRqgaRvD+JtbLMl3t8wKMa6ilniOJZRF14Xfma9oWglVY5sC8dx1wMV3njmDBC6JYyuBFUxsgrdsR2WRawrL6+l5fUTQ7YVeP9YwdR/8ATkclDpfoMTY16C/cHox0D/qLoqppTCblSQv30StkNDQneNQRwNeiHyuNH4ngwgSqvvH7CBsB0P6J7aYW/JqFulvUGxaabYepdABV0vIfuDcuLiPFUCmAz2Ti67gCO2hdV+NRsOYVPRz2gftl64sH439/X8OodyQ/lr1DLILpVPfdsx7QVFtAQJxG9D5YwDwwY7tgx5lkQDYizQdFOPEM7m70Xko6YcL5AfpiCs3zfj6gV1e0f1F6U+IKSx0/wq2ySggYCxtvbfxcOYa/4IUQI8MoKXc1y+o1Zba2zAOKF5MxikhVF+Js9SrxS0Ozkml1Niy1tOcxiLtG17pGzGw38piwwCtc1jD+46goQgNDjmGEDtBliUWqneYYbVHofDAVrRBkWdSoABTBrWpw9EwJkZzHYT2JQWG+sACgxNzfseX8IBAAcA9T/9k=",
+      "attributes": {
+        "strength": 15,
+        "dexterity": 14,
+        "constitution": 13,
+        "intelligence": 10,
+        "wisdom": 10,
+        "charisma": 10
+      },
+      "backstory": "",
+      "selectedLevelMode": "custom",
+      "selectedCustomLevel": 1,
+      "selectedSpawnPoint": "Tầng dưới Chợ Vách Cảng Hoàn Uyên · Bờ biển ngoài",
+      "class": "Đại Ca",
+      "selectedBaseClass": "Nghề tùy chỉnh",
+      "customClassName": "Đại Ca",
+      "customClassStyle": "",
+      "customClassWeapon": "Găng tay hổ chỉ",
+      "customClassCombatStyle": "Vật lý cận chiến",
+      "skillTree": {
+        "基础": [
+          {
+            "名称": "Uy thế khuất phục · Đấm thẳng trái",
+            "类型": "Chủ động",
+            "描述": "Kỹ năng này thuộc [đấm thẳng trái]; tay bạn ngứa ngáy khó nhịn, khát khao đánh nhau, nhanh chóng áp sát một kẻ địch và lập tức tung ra một cú đấm thẳng trái mạnh mẽ!",
+            "特殊效果": {
+              "1": "Sát thương đấm thẳng trái +20%, kiểm định trúng đòn +3.",
+              "2": "Sát thương đấm thẳng trái +25%, kiểm định trúng đòn +3.",
+              "3": "Sát thương đấm thẳng trái +30%, kiểm định trúng đòn +3.",
+              "4": "Sát thương đấm thẳng trái +35%, kiểm định trúng đòn +3.",
+              "5": "Sát thương đấm thẳng trái +40%, kiểm định trúng đòn +4.",
+              "6": "Sát thương đấm thẳng trái +45%, kiểm định trúng đòn +4.",
+              "7": "Sát thương đấm thẳng trái +50%, kiểm định trúng đòn +4.",
+              "8": "Sát thương đấm thẳng trái +55%, kiểm định trúng đòn +4.",
+              "9": "Sát thương đấm thẳng trái +60%, kiểm định trúng đòn +4.",
+              "10": "Sát thương đấm thẳng trái +65%, kiểm định trúng đòn +5.",
+              "11": "Sát thương đấm thẳng trái +70%, kiểm định trúng đòn +5.",
+              "12": "Sát thương đấm thẳng trái +75%, kiểm định trúng đòn +5.",
+              "13": "Sát thương đấm thẳng trái +80%, kiểm định trúng đòn +5.",
+              "14": "Sát thương đấm thẳng trái +85%, kiểm định trúng đòn +5.",
+              "15": "Sát thương đấm thẳng trái +90%, kiểm định trúng đòn +6."
+            },
+            "阶位": "Cơ bản"
+          },
+          {
+            "名称": "Uy thế khuất phục · Móc phải",
+            "类型": "Chủ động",
+            "描述": "Kỹ năng này thuộc [móc phải]; tay bạn lại ngứa ngáy khó nhịn, khát khao đánh nhau, nhanh chóng áp sát kẻ địch và lập tức tung ra một cú móc phải mạnh mẽ!",
+            "特殊效果": {
+              "1": "Sát thương móc phải +30%, kiểm định trúng đòn +3; nếu đòn tấn công trước là [Uy thế khuất phục · Đấm thẳng trái], sát thương lần này +100%.",
+              "2": "Sát thương móc phải +35%, kiểm định trúng đòn +3; nếu đòn tấn công trước là [Uy thế khuất phục · Đấm thẳng trái], sát thương lần này +110%.",
+              "3": "Sát thương móc phải +40%, kiểm định trúng đòn +3; nếu đòn tấn công trước là [Uy thế khuất phục · Đấm thẳng trái], sát thương lần này +120%.",
+              "4": "Sát thương móc phải +45%, kiểm định trúng đòn +3; nếu đòn tấn công trước là [Uy thế khuất phục · Đấm thẳng trái], sát thương lần này +130%.",
+              "5": "Sát thương móc phải +50%, kiểm định trúng đòn +4; nếu đòn tấn công trước là [Uy thế khuất phục · Đấm thẳng trái], sát thương lần này +140%.",
+              "6": "Sát thương móc phải +55%, kiểm định trúng đòn +4; nếu đòn tấn công trước là [Uy thế khuất phục · Đấm thẳng trái], sát thương lần này +150%.",
+              "7": "Sát thương móc phải +60%, kiểm định trúng đòn +4; nếu đòn tấn công trước là [Uy thế khuất phục · Đấm thẳng trái], sát thương lần này +160%.",
+              "8": "Sát thương móc phải +65%, kiểm định trúng đòn +4; nếu đòn tấn công trước là [Uy thế khuất phục · Đấm thẳng trái], sát thương lần này +170%.",
+              "9": "Sát thương móc phải +70%, kiểm định trúng đòn +4; nếu đòn tấn công trước là [Uy thế khuất phục · Đấm thẳng trái], sát thương lần này +180%.",
+              "10": "Sát thương móc phải +75%, kiểm định trúng đòn +5; nếu đòn tấn công trước là [Uy thế khuất phục · Đấm thẳng trái], sát thương lần này +190%.",
+              "11": "Sát thương móc phải +80%, kiểm định trúng đòn +5; nếu đòn tấn công trước là [Uy thế khuất phục · Đấm thẳng trái], sát thương lần này +200%.",
+              "12": "Sát thương móc phải +85%, kiểm định trúng đòn +5; nếu đòn tấn công trước là [Uy thế khuất phục · Đấm thẳng trái], sát thương lần này +210%.",
+              "13": "Sát thương móc phải +90%, kiểm định trúng đòn +5; nếu đòn tấn công trước là [Uy thế khuất phục · Đấm thẳng trái], sát thương lần này +220%.",
+              "14": "Sát thương móc phải +95%, kiểm định trúng đòn +5; nếu đòn tấn công trước là [Uy thế khuất phục · Đấm thẳng trái], sát thương lần này +230%.",
+              "15": "Sát thương móc phải +100%, kiểm định trúng đòn +6; nếu đòn tấn công trước là [Uy thế khuất phục · Đấm thẳng trái], sát thương lần này +240%."
+            },
+            "阶位": "Cơ bản"
+          },
+          {
+            "名称": "Hào khí sa trường",
+            "类型": "Đặc biệt nghề nghiệp",
+            "描述": "Luôn có hiệu lực; nhận [cổ tay cứng rắn], [trái tim bán thú] và [chuẩn tắc ẩu đả đường phố].",
+            "特殊效果": {
+              "1": "[Cổ tay cứng rắn]: sát thương cuối cùng +X%, X = cấp hiện tại x1%; [Trái tim bán thú]: sinh mệnh và giới hạn sinh mệnh bản thân +O%, O = cấp hiện tại + Thể chất x3%, trong chiến đấu mỗi hiệp hồi 8% sinh mệnh; [Chuẩn tắc ẩu đả đường phố]: sau khi kích hoạt chiến đấu, kẻ địch đầu tiên bị bạn tấn công sẽ bị đánh dấu là \"đối tượng ăn đòn\"; những kẻ địch còn lại ngoài hắn gây sát thương lên bạn -80%. Nếu hắn chết, kẻ địch kế tiếp bị bạn tấn công sẽ trở thành đối tượng ăn đòn mới; tóm lại cứ túm một đứa mà đánh là đúng!"
+            },
+            "阶位": "Cơ bản"
+          }
+        ],
+        "转职": [
+          {
+            "名称": "Huấn luyện chuyên nghiệp",
+            "类型": "Đặc biệt",
+            "描述": "Kỹ xảo cách đấu được huấn luyện chuyên biệt, sức sát thương của nắm đấm lại tăng thêm. Giờ là quyền trái đau, quyền phải càng đau!",
+            "特殊效果": {
+              "1": "Sát thương đấm thẳng trái +80%, sát thương móc phải +110%; AC +3, kiểm định trúng đòn +3.",
+              "2": "Sát thương đấm thẳng trái +95%, sát thương móc phải +120%; AC +3, kiểm định trúng đòn +3.",
+              "3": "Sát thương đấm thẳng trái +100%, sát thương móc phải +130%; AC +3, kiểm định trúng đòn +3.",
+              "4": "Sát thương đấm thẳng trái +105%, sát thương móc phải +140%; AC +3, kiểm định trúng đòn +3.",
+              "5": "Sát thương đấm thẳng trái +120%, sát thương móc phải +150%; AC +3, kiểm định trúng đòn +4.",
+              "6": "Sát thương đấm thẳng trái +125%, sát thương móc phải +160%; AC +3, kiểm định trúng đòn +4.",
+              "7": "Sát thương đấm thẳng trái +130%, sát thương móc phải +170%; AC +3, kiểm định trúng đòn +4.",
+              "8": "Sát thương đấm thẳng trái +135%, sát thương móc phải +180%; AC +3, kiểm định trúng đòn +4.",
+              "9": "Sát thương đấm thẳng trái +140%, sát thương móc phải +190%; AC +3, kiểm định trúng đòn +4.",
+              "10": "Sát thương đấm thẳng trái +145%, sát thương móc phải +200%; AC +3, kiểm định trúng đòn +5.",
+              "11": "Sát thương đấm thẳng trái +150%, sát thương móc phải +210%; AC +3, kiểm định trúng đòn +5.",
+              "12": "Sát thương đấm thẳng trái +155%, sát thương móc phải +220%; AC +3, kiểm định trúng đòn +5.",
+              "13": "Sát thương đấm thẳng trái +160%, sát thương móc phải +230%; AC +3, kiểm định trúng đòn +5.",
+              "14": "Sát thương đấm thẳng trái +165%, sát thương móc phải +240%; AC +3, kiểm định trúng đòn +5.",
+              "15": "Sát thương đấm thẳng trái +170%, sát thương móc phải +250%; AC +3, kiểm định trúng đòn +6."
+            },
+            "阶位": "Chuyển nghề"
+          },
+          {
+            "名称": "Cú Đấm Hào Ý",
+            "类型": "Chủ động",
+            "描述": "Ngưng tụ và giải phóng triệt để toàn bộ điểm hào ý, gây sát thương AOE phạm vi; kẻ địch bị bạo kích sẽ chịu sát thương chuẩn.",
+            "特殊效果": {
+              "1": "Tụ lực tung trọng quyền về một hướng, gây sát thương và cộng thêm sát thương vật lý tương đương 100% điểm hào ý; nếu bạo kích, sát thương chuyển thành sát thương chuẩn; đồng thời nhận sinh mệnh tạm thời/giá trị lá chắn tương đương điểm hào ý.",
+              "2": "Tụ lực tung trọng quyền về một hướng, gây sát thương và cộng thêm sát thương vật lý tương đương 120% điểm hào ý; nếu bạo kích, sát thương chuyển thành sát thương chuẩn; đồng thời nhận sinh mệnh tạm thời/giá trị lá chắn tương đương điểm hào ý.",
+              "3": "Tụ lực tung trọng quyền về một hướng, gây sát thương và cộng thêm sát thương vật lý tương đương 140% điểm hào ý; nếu bạo kích, sát thương chuyển thành sát thương chuẩn; đồng thời nhận sinh mệnh tạm thời/giá trị lá chắn tương đương điểm hào ý.",
+              "4": "Tụ lực tung trọng quyền về một hướng, gây sát thương và cộng thêm sát thương vật lý tương đương 160% điểm hào ý; nếu bạo kích, sát thương chuyển thành sát thương chuẩn; đồng thời nhận sinh mệnh tạm thời/giá trị lá chắn tương đương điểm hào ý.",
+              "5": "Tụ lực tung trọng quyền về một hướng, gây sát thương và cộng thêm sát thương vật lý tương đương 180% điểm hào ý; nếu bạo kích, sát thương chuyển thành sát thương chuẩn; đồng thời nhận sinh mệnh tạm thời/giá trị lá chắn tương đương điểm hào ý.",
+              "6": "Tụ lực tung trọng quyền về một hướng, gây sát thương và cộng thêm sát thương vật lý tương đương 200% điểm hào ý; nếu bạo kích, sát thương chuyển thành sát thương chuẩn; đồng thời nhận sinh mệnh tạm thời/giá trị lá chắn tương đương điểm hào ý.",
+              "7": "Tụ lực tung trọng quyền về một hướng, gây sát thương và cộng thêm sát thương vật lý tương đương 220% điểm hào ý; nếu bạo kích, sát thương chuyển thành sát thương chuẩn; đồng thời nhận sinh mệnh tạm thời/giá trị lá chắn tương đương điểm hào ý.",
+              "8": "Tụ lực tung trọng quyền về một hướng, gây sát thương và cộng thêm sát thương vật lý tương đương 240% điểm hào ý; nếu bạo kích, sát thương chuyển thành sát thương chuẩn; đồng thời nhận sinh mệnh tạm thời/giá trị lá chắn tương đương điểm hào ý.",
+              "9": "Tụ lực tung trọng quyền về một hướng, gây sát thương và cộng thêm sát thương vật lý tương đương 260% điểm hào ý; nếu bạo kích, sát thương chuyển thành sát thương chuẩn; đồng thời nhận sinh mệnh tạm thời/giá trị lá chắn tương đương điểm hào ý.",
+              "10": "Tụ lực tung trọng quyền về một hướng, gây sát thương và cộng thêm sát thương vật lý tương đương 280% điểm hào ý; nếu bạo kích, sát thương chuyển thành sát thương chuẩn; đồng thời nhận sinh mệnh tạm thời/giá trị lá chắn tương đương điểm hào ý.",
+              "11": "Tụ lực tung trọng quyền về một hướng, gây sát thương và cộng thêm sát thương vật lý tương đương 300% điểm hào ý; nếu bạo kích, sát thương chuyển thành sát thương chuẩn; đồng thời nhận sinh mệnh tạm thời/giá trị lá chắn tương đương điểm hào ý.",
+              "12": "Tụ lực tung trọng quyền về một hướng, gây sát thương và cộng thêm sát thương vật lý tương đương 320% điểm hào ý; nếu bạo kích, sát thương chuyển thành sát thương chuẩn; đồng thời nhận sinh mệnh tạm thời/giá trị lá chắn tương đương điểm hào ý.",
+              "13": "Tụ lực tung trọng quyền về một hướng, gây sát thương và cộng thêm sát thương vật lý tương đương 340% điểm hào ý; nếu bạo kích, sát thương chuyển thành sát thương chuẩn; đồng thời nhận sinh mệnh tạm thời/giá trị lá chắn tương đương điểm hào ý.",
+              "14": "Tụ lực tung trọng quyền về một hướng, gây sát thương và cộng thêm sát thương vật lý tương đương 360% điểm hào ý; nếu bạo kích, sát thương chuyển thành sát thương chuẩn; đồng thời nhận sinh mệnh tạm thời/giá trị lá chắn tương đương điểm hào ý.",
+              "15": "Tụ lực tung trọng quyền về một hướng, gây sát thương và cộng thêm sát thương vật lý tương đương 400% điểm hào ý; nếu bạo kích, sát thương chuyển thành sát thương chuẩn; đồng thời nhận sinh mệnh tạm thời/giá trị lá chắn tương đương điểm hào ý."
+            },
+            "阶位": "Chuyển nghề"
+          },
+          {
+            "名称": "Kích phát hào ý",
+            "类型": "Đặc biệt nghề nghiệp",
+            "描述": "Chuyển hóa sát thương phải chịu thành điểm hào ý, chuẩn bị sẵn sàng để bất cứ lúc nào cũng cho đối thủ một cú thật nặng!",
+            "特殊效果": {
+              "1": "Khi chịu sát thương, nhận điểm hào ý bằng giá trị sát thương x2 và dự trữ lại, kéo dài tới khi chiến đấu kết thúc hoặc phóng thích Cú Đấm Hào Ý."
+            },
+            "阶位": "Chuyển nghề"
+          }
+        ],
+        "进阶": [
+          {
+            "名称": "Tay mạnh nứt sọ · Tóm bằng tay trái",
+            "类型": "Chủ động",
+            "描述": "Dùng tay trái túm mục tiêu và kéo lại gần để gây sát thương; nếu trong hiệp này tay phải đã túm mục tiêu khác, kéo cả hai lại gần để trán va vào nhau, khiến họ [choáng váng hoa mắt].",
+            "特殊效果": {
+              "1": "Dùng tay trái tóm kẻ địch, sát thương của tóm bằng tay trái +100%; [choáng váng hoa mắt]: hiệp này không thể hành động, đòn tấn công phải chịu chắc chắn trúng và chắc chắn bạo kích.",
+              "2": "Dùng tay trái tóm kẻ địch, sát thương của tóm bằng tay trái +110%; [choáng váng hoa mắt]: hiệp này không thể hành động, đòn tấn công phải chịu chắc chắn trúng và chắc chắn bạo kích.",
+              "3": "Dùng tay trái tóm kẻ địch, sát thương của tóm bằng tay trái +120%; [choáng váng hoa mắt]: hiệp này không thể hành động, đòn tấn công phải chịu chắc chắn trúng và chắc chắn bạo kích.",
+              "4": "Dùng tay trái tóm kẻ địch, sát thương của tóm bằng tay trái +130%; [choáng váng hoa mắt]: hiệp này không thể hành động, đòn tấn công phải chịu chắc chắn trúng và chắc chắn bạo kích.",
+              "5": "Dùng tay trái tóm kẻ địch, sát thương của tóm bằng tay trái +140%; [choáng váng hoa mắt]: hiệp này không thể hành động, đòn tấn công phải chịu chắc chắn trúng và chắc chắn bạo kích.",
+              "6": "Dùng tay trái tóm kẻ địch, sát thương của tóm bằng tay trái +150%; [choáng váng hoa mắt]: hiệp này không thể hành động, đòn tấn công phải chịu chắc chắn trúng và chắc chắn bạo kích.",
+              "7": "Dùng tay trái tóm kẻ địch, sát thương của tóm bằng tay trái +160%; [choáng váng hoa mắt]: hiệp này không thể hành động, đòn tấn công phải chịu chắc chắn trúng và chắc chắn bạo kích.",
+              "8": "Dùng tay trái tóm kẻ địch, sát thương của tóm bằng tay trái +170%; [choáng váng hoa mắt]: hiệp này không thể hành động, đòn tấn công phải chịu chắc chắn trúng và chắc chắn bạo kích.",
+              "9": "Dùng tay trái tóm kẻ địch, sát thương của tóm bằng tay trái +180%; [choáng váng hoa mắt]: hiệp này không thể hành động, đòn tấn công phải chịu chắc chắn trúng và chắc chắn bạo kích.",
+              "10": "Dùng tay trái tóm kẻ địch, sát thương của tóm bằng tay trái +200%; [choáng váng hoa mắt]: hiệp này không thể hành động, đòn tấn công phải chịu chắc chắn trúng và chắc chắn bạo kích."
+            },
+            "阶位": "Nâng cao"
+          },
+          {
+            "名称": "Tay mạnh nứt sọ · Tóm bằng tay phải",
+            "类型": "Chủ động",
+            "描述": "Dùng tay phải túm mục tiêu và kéo lại gần để gây sát thương; nếu trong hiệp này tay trái đã túm mục tiêu khác, kéo cả hai lại gần để trán va vào nhau, khiến họ [choáng váng hoa mắt]. Nếu tay trái và tay phải cùng túm một mục tiêu đơn lẻ, thi triển [Tay mạnh nứt sọ], dùng hai tay bóp mạnh đầu mục tiêu để gây sát thương lớn.",
+            "特殊效果": {
+              "1": "Dùng tay phải tóm kẻ địch, sát thương của tóm bằng tay phải +120%; nếu tay trái và tay phải đồng thời tóm cùng một mục tiêu -> lập tức cộng thêm 800% sát thương vật lý và khiến mục tiêu [choáng váng hoa mắt]; mỗi kẻ địch mỗi trận chỉ có thể kích hoạt [Tay mạnh nứt sọ] một lần.",
+              "2": "Dùng tay phải tóm kẻ địch, sát thương của tóm bằng tay phải +130%; nếu tay trái và tay phải đồng thời tóm cùng một mục tiêu -> lập tức cộng thêm 800% sát thương vật lý và khiến mục tiêu [choáng váng hoa mắt]; mỗi kẻ địch mỗi trận chỉ có thể kích hoạt [Tay mạnh nứt sọ] một lần.",
+              "3": "Dùng tay phải tóm kẻ địch, sát thương của tóm bằng tay phải +140%; nếu tay trái và tay phải đồng thời tóm cùng một mục tiêu -> lập tức cộng thêm 800% sát thương vật lý và khiến mục tiêu [choáng váng hoa mắt]; mỗi kẻ địch mỗi trận chỉ có thể kích hoạt [Tay mạnh nứt sọ] một lần.",
+              "4": "Dùng tay phải tóm kẻ địch, sát thương của tóm bằng tay phải +150%; nếu tay trái và tay phải đồng thời tóm cùng một mục tiêu -> lập tức cộng thêm 800% sát thương vật lý và khiến mục tiêu [choáng váng hoa mắt]; mỗi kẻ địch mỗi trận chỉ có thể kích hoạt [Tay mạnh nứt sọ] một lần.",
+              "5": "Dùng tay phải tóm kẻ địch, sát thương của tóm bằng tay phải +160%; nếu tay trái và tay phải đồng thời tóm cùng một mục tiêu -> lập tức cộng thêm 1000% sát thương vật lý và khiến mục tiêu [choáng váng hoa mắt]; mỗi kẻ địch mỗi trận chỉ có thể kích hoạt [Tay mạnh nứt sọ] một lần.",
+              "6": "Dùng tay phải tóm kẻ địch, sát thương của tóm bằng tay phải +170%; nếu tay trái và tay phải đồng thời tóm cùng một mục tiêu -> lập tức cộng thêm 1000% sát thương vật lý và khiến mục tiêu [choáng váng hoa mắt]; mỗi kẻ địch mỗi trận chỉ có thể kích hoạt [Tay mạnh nứt sọ] một lần.",
+              "7": "Dùng tay phải tóm kẻ địch, sát thương của tóm bằng tay phải +180%; nếu tay trái và tay phải đồng thời tóm cùng một mục tiêu -> lập tức cộng thêm 1000% sát thương vật lý và khiến mục tiêu [choáng váng hoa mắt]; mỗi kẻ địch mỗi trận chỉ có thể kích hoạt [Tay mạnh nứt sọ] một lần.",
+              "8": "Dùng tay phải tóm kẻ địch, sát thương của tóm bằng tay phải +190%; nếu tay trái và tay phải đồng thời tóm cùng một mục tiêu -> lập tức cộng thêm 1000% sát thương vật lý và khiến mục tiêu [choáng váng hoa mắt]; mỗi kẻ địch mỗi trận chỉ có thể kích hoạt [Tay mạnh nứt sọ] một lần.",
+              "9": "Dùng tay phải tóm kẻ địch, sát thương của tóm bằng tay phải +200%; nếu tay trái và tay phải đồng thời tóm cùng một mục tiêu -> lập tức cộng thêm 1000% sát thương vật lý và khiến mục tiêu [choáng váng hoa mắt]; mỗi kẻ địch mỗi trận chỉ có thể kích hoạt [Tay mạnh nứt sọ] một lần.",
+              "10": "Dùng tay phải tóm kẻ địch, sát thương của tóm bằng tay phải +250%; nếu tay trái và tay phải đồng thời tóm cùng một mục tiêu -> lập tức cộng thêm 1200% sát thương vật lý và khiến mục tiêu [choáng váng hoa mắt]; mỗi kẻ địch mỗi trận chỉ có thể kích hoạt [Tay mạnh nứt sọ] một lần."
+            },
+            "阶位": "Nâng cao"
+          },
+          {
+            "名称": "Bá chủ võ đài",
+            "类型": "Đặc biệt",
+            "描述": "Thể hiện bá khí của vương giả, chấn nhiếp đám tiểu nhân xung quanh, đồng thời có thể được thực lực của kẻ địch kích phát chiến ý và sức chiến đấu của bản thân. Nếu đối phương là lính thường, khiến họ rơi vào trạng thái hoảng loạn, kiểm định trúng đòn -5, kéo dài tới khi chiến đấu kết thúc.",
+            "特殊效果": {
+              "1": "Sát thương cuối cùng tăng 5%; nếu đối phương là tinh nhuệ/thủ lĩnh/lãnh chúa/huyền thoại, sát thương cuối cùng lần lượt tăng thêm 5/10/15/20%.",
+              "2": "Sát thương cuối cùng tăng 10%; nếu đối phương là tinh nhuệ/thủ lĩnh/lãnh chúa/huyền thoại, sát thương cuối cùng lần lượt tăng thêm 5/10/15/20%.",
+              "3": "Sát thương cuối cùng tăng 15%; nếu đối phương là tinh nhuệ/thủ lĩnh/lãnh chúa/huyền thoại, sát thương cuối cùng lần lượt tăng thêm 5/10/15/20%.",
+              "4": "Sát thương cuối cùng tăng 20%; nếu đối phương là tinh nhuệ/thủ lĩnh/lãnh chúa/huyền thoại, sát thương cuối cùng lần lượt tăng thêm 5/10/15/20%.",
+              "5": "Sát thương cuối cùng tăng 25%; nếu đối phương là tinh nhuệ/thủ lĩnh/lãnh chúa/huyền thoại, sát thương cuối cùng lần lượt tăng thêm 10/15/20/25%.",
+              "6": "Sát thương cuối cùng tăng 30%; nếu đối phương là tinh nhuệ/thủ lĩnh/lãnh chúa/huyền thoại, sát thương cuối cùng lần lượt tăng thêm 10/15/20/25%.",
+              "7": "Sát thương cuối cùng tăng 35%; nếu đối phương là tinh nhuệ/thủ lĩnh/lãnh chúa/huyền thoại, sát thương cuối cùng lần lượt tăng thêm 10/15/20/25%.",
+              "8": "Sát thương cuối cùng tăng 40%; nếu đối phương là tinh nhuệ/thủ lĩnh/lãnh chúa/huyền thoại, sát thương cuối cùng lần lượt tăng thêm 10/15/20/25%.",
+              "9": "Sát thương cuối cùng tăng 45%; nếu đối phương là tinh nhuệ/thủ lĩnh/lãnh chúa/huyền thoại, sát thương cuối cùng lần lượt tăng thêm 10/15/20/25%.",
+              "10": "Sát thương cuối cùng tăng 50%; nếu đối phương là tinh nhuệ/thủ lĩnh/lãnh chúa/huyền thoại, sát thương cuối cùng lần lượt tăng thêm 20/30/40/50%."
+            },
+            "阶位": "Nâng cao"
+          }
+        ],
+        "必杀": [
+          {
+            "名称": "Quật qua vai gãy sống lưng",
+            "类型": "Chủ động",
+            "描述": "Xông tới và ôm chặt mục tiêu, cưỡng ép kéo mục tiêu vào trạng thái áp sát, sau đó hoàn thành một cú quật qua vai tiêu chuẩn, nện mạnh kẻ địch xuống đất, gây sát thương vật lý và trao cho mục tiêu trạng thái [đánh ngã].",
+            "特殊效果": {
+              "1": "[Đánh ngã]: AC -8, sát thương tấn công -50%, kéo dài một hiệp; mỗi kẻ địch trong toàn trận chỉ bị đánh ngã ba lần.",
+              "2": "[Đánh ngã]: AC -8, sát thương tấn công -50%, kéo dài một hiệp; mỗi kẻ địch trong toàn trận chỉ bị đánh ngã ba lần.",
+              "3": "[Đánh ngã]: AC -8, sát thương tấn công -50%, kéo dài một hiệp; mỗi kẻ địch trong toàn trận chỉ bị đánh ngã ba lần.",
+              "4": "[Đánh ngã]: AC -8, sát thương tấn công -50%, kéo dài một hiệp; mỗi kẻ địch trong toàn trận chỉ bị đánh ngã ba lần.",
+              "5": "[Đánh ngã]: AC -8, sát thương tấn công -50%, kéo dài một hiệp; mỗi kẻ địch trong toàn trận chỉ bị đánh ngã ba lần.",
+              "6": "[Đánh ngã]: AC -8, sát thương tấn công -50%, kéo dài một hiệp; mỗi kẻ địch trong toàn trận chỉ bị đánh ngã ba lần.",
+              "7": "[Đánh ngã]: AC -8, sát thương tấn công -50%, kéo dài một hiệp; mỗi kẻ địch trong toàn trận chỉ bị đánh ngã ba lần."
+            },
+            "阶位": "Tất sát"
+          },
+          {
+            "名称": "Khóa cổ áp chế",
+            "类型": "Chủ động",
+            "描述": "Chỉ có thể phóng thích khi kẻ địch đang ở trạng thái [đánh ngã]. Khóa cổ họng mục tiêu từ phía sau, chuyển trạng thái [đánh ngã] thành [áp chế], trong thời gian này gây sát thương nghẹt thở liên tục; khi thi triển áp chế, bản thân cũng không thể thực hiện tấn công ngoài áp chế.",
+            "特殊效果": {
+              "1": "[Áp chế]: không thể thực hiện bất kỳ hành động nào ngoài \"thử vùng thoát\"; cần tiến hành một lần đối kháng thuộc tính Sức mạnh và thành công mới có thể thoát khỏi áp chế; mỗi hiệp chịu sát thương nghẹt thở tương đương 20% sinh mệnh bản thân.",
+              "2": "[Áp chế]: không thể thực hiện bất kỳ hành động nào ngoài \"thử vùng thoát\"; cần tiến hành một lần đối kháng thuộc tính Sức mạnh và thành công mới có thể thoát khỏi áp chế; mỗi hiệp chịu sát thương nghẹt thở tương đương 21% sinh mệnh bản thân.",
+              "3": "[Áp chế]: không thể thực hiện bất kỳ hành động nào ngoài \"thử vùng thoát\"; cần tiến hành một lần đối kháng thuộc tính Sức mạnh và thành công mới có thể thoát khỏi áp chế; mỗi hiệp chịu sát thương nghẹt thở tương đương 22% sinh mệnh bản thân.",
+              "4": "[Áp chế]: không thể thực hiện bất kỳ hành động nào ngoài \"thử vùng thoát\"; cần tiến hành một lần đối kháng thuộc tính Sức mạnh và thành công mới có thể thoát khỏi áp chế; mỗi hiệp chịu sát thương nghẹt thở tương đương 23% sinh mệnh bản thân.",
+              "5": "[Áp chế]: không thể thực hiện bất kỳ hành động nào ngoài \"thử vùng thoát\"; cần tiến hành một lần đối kháng thuộc tính Sức mạnh và thành công mới có thể thoát khỏi áp chế; mỗi hiệp chịu sát thương nghẹt thở tương đương 24% sinh mệnh bản thân.",
+              "6": "[Áp chế]: không thể thực hiện bất kỳ hành động nào ngoài \"thử vùng thoát\"; cần tiến hành một lần đối kháng thuộc tính Sức mạnh và thành công mới có thể thoát khỏi áp chế; mỗi hiệp chịu sát thương nghẹt thở tương đương 25% sinh mệnh bản thân.",
+              "7": "[Áp chế]: không thể thực hiện bất kỳ hành động nào ngoài \"thử vùng thoát\"; cần tiến hành một lần đối kháng thuộc tính Sức mạnh và thành công mới có thể thoát khỏi áp chế; mỗi hiệp chịu sát thương nghẹt thở tương đương 30% sinh mệnh bản thân."
+            },
+            "阶位": "Tất sát"
+          },
+          {
+            "名称": "Thể phách chí tôn",
+            "类型": "Đặc biệt",
+            "描述": "Trải qua vô số trận đấu đẫm máu và ác chiến, thân thể của bản thân được rèn luyện như qua trăm nghìn búa lửa, sức mạnh và sức bộc phát tăng mạnh.",
+            "特殊效果": {
+              "1": "Kiểm định Sức mạnh +1; sát thương đấm thẳng trái +200%, sát thương móc phải +320%.",
+              "2": "Kiểm định Sức mạnh +2; sát thương đấm thẳng trái +220%, sát thương móc phải +340%.",
+              "3": "Kiểm định Sức mạnh +3; sát thương đấm thẳng trái +240%, sát thương móc phải +360%.",
+              "4": "Kiểm định Sức mạnh +4; sát thương đấm thẳng trái +260%, sát thương móc phải +380%.",
+              "5": "Kiểm định Sức mạnh +5; sát thương đấm thẳng trái +280%, sát thương móc phải +400%.",
+              "6": "Kiểm định Sức mạnh +6; sát thương đấm thẳng trái +300%, sát thương móc phải +450%.",
+              "7": "Kiểm định Sức mạnh +7; sát thương đấm thẳng trái +350%, sát thương móc phải +500%."
+            },
+            "阶位": "Tất sát"
+          }
+        ],
+        "奥义": [
+          {
+            "名称": "Uy thế khuất phục · Đấm thẳng trái của bá chủ",
+            "类型": "Chủ động",
+            "描述": "Kỹ năng này thuộc [đấm thẳng trái]; nay đã khác xưa, tung ra một cú đấm thẳng trái với sức mạnh chưa từng có, gây đả kích hủy diệt lên mục tiêu đơn thể.",
+            "特殊效果": {
+              "1": "Gây trọng kích lên mục tiêu, sát thương cuối cùng tăng 50% và bỏ qua 30% phòng ngự.",
+              "2": "Gây trọng kích lên mục tiêu, sát thương cuối cùng tăng 60% và bỏ qua 40% phòng ngự.",
+              "3": "Gây trọng kích lên mục tiêu, sát thương cuối cùng tăng 70% và bỏ qua 50% phòng ngự.",
+              "4": "Gây trọng kích lên mục tiêu, sát thương cuối cùng tăng 80% và bỏ qua 60% phòng ngự.",
+              "5": "Gây trọng kích lên mục tiêu, sát thương cuối cùng tăng 100% và bỏ qua 80% phòng ngự."
+            },
+            "阶位": "Áo nghĩa"
+          },
+          {
+            "名称": "Uy thế khuất phục · Móc phải của bá chủ",
+            "类型": "Chủ động",
+            "描述": "Kỹ năng này thuộc [móc phải]; nay đã khác xưa, tung ra một cú móc phải với sức mạnh chưa từng có, gây đả kích hủy diệt lên mục tiêu đơn thể.",
+            "特殊效果": {
+              "1": "Gây trọng kích lên mục tiêu, sát thương cuối cùng tăng 100% và bỏ qua 60% phòng ngự; nếu đòn trước là [Uy thế khuất phục · Đấm thẳng trái của bá chủ], sát thương bạo kích +100%.",
+              "2": "Gây trọng kích lên mục tiêu, sát thương cuối cùng tăng 140% và bỏ qua 70% phòng ngự; nếu đòn trước là [Uy thế khuất phục · Đấm thẳng trái của bá chủ], sát thương bạo kích +100%.",
+              "3": "Gây trọng kích lên mục tiêu, sát thương cuối cùng tăng 180% và bỏ qua 80% phòng ngự; nếu đòn trước là [Uy thế khuất phục · Đấm thẳng trái của bá chủ], sát thương bạo kích +100%.",
+              "4": "Gây trọng kích lên mục tiêu, sát thương cuối cùng tăng 240% và bỏ qua 90% phòng ngự; nếu đòn trước là [Uy thế khuất phục · Đấm thẳng trái của bá chủ], sát thương bạo kích +100%.",
+              "5": "Gây trọng kích lên mục tiêu, sát thương cuối cùng tăng 300% và bỏ qua 100% phòng ngự; nếu đòn trước là [Uy thế khuất phục · Đấm thẳng trái của bá chủ], sát thương bạo kích +100%."
+            },
+            "阶位": "Áo nghĩa"
+          },
+          {
+            "名称": "Truyền thuyết cách đấu",
+            "类型": "Đặc biệt nghề nghiệp",
+            "描述": "Càng bại càng chiến, càng chiến càng thắng; lý lịch đời người bất khuất, rực rỡ và huy hoàng khiến trái tim hào tình tráng chí của bạn leo tới đỉnh cao. Thế gian sẽ không còn thứ gì có thể đánh gục bạn.",
+            "特殊效果": {
+              "1": "Luôn có hiệu lực: sinh mệnh hiện tại và giới hạn sinh mệnh +600%; nhận 30% giảm sát thương."
+            },
+            "阶位": "Áo nghĩa"
+          }
+        ],
+        "觉醒一": [
+          {
+            "名称": "Võ đài ngầm: huyết chiến đến cùng",
+            "类型": "Chủ động",
+            "阶位": "Thức tỉnh một",
+            "描述": "Chuyển hóa khu vực xung quanh thành võ đài như địa ngục, kéo dài tới khi chiến đấu kết thúc. Trong thời gian này, mỗi lần chịu sát thương, sát thương cuối cùng của bản thân đều tăng lên, không có giới hạn.",
+            "特殊效果": {
+              "1": "Mỗi lần bị thương -> sát thương cuối cùng +20%, không giới hạn, kéo dài tới khi chiến đấu kết thúc."
+            }
+          }
+        ],
+        "觉醒二": [
+          {
+            "名称": "Chân · Cú Đấm Hào Ý",
+            "类型": "Chủ động",
+            "阶位": "Thức tỉnh hai",
+            "描述": "Một đòn hội tụ toàn bộ kình lực và điểm hào ý. Nếu mục tiêu bị đánh trúng có sinh mệnh thấp hơn 50%, sẽ trực tiếp kích hoạt hiệu quả [hành quyết].",
+            "特殊效果": {
+              "1": "Gây sát thương chuẩn phạm vi chắc chắn bạo kích, đồng thời cộng thêm sát thương chuẩn bổ sung bằng điểm hào ý hiện tại x800%."
+            }
+          }
+        ],
+        "觉醒三": [
+          {
+            "名称": "Đáng kinh ngạc!",
+            "类型": "Chủ động",
+            "阶位": "Thức tỉnh ba",
+            "描述": "Bay lên nào! Lao về phía trước với tốc độ không thể quan sát và bắt lấy mục tiêu, dựa vào sức mạnh và trọng lượng rung trời chuyển đất để rơi mạnh xuống đất, gây sát thương phạm vi cực lớn.",
+            "特殊效果": {
+              "1": "Sát thương lần này cộng thêm sát thương vật lý bằng 60% sinh mệnh tối đa của mục tiêu; kẻ địch trong phạm vi trăm mét quanh điểm rơi cũng chịu sát thương này."
+            }
+          }
+        ]
+      },
+      "skillTreeForClass": "Đại Ca",
+      "lockedSkillMap": {},
+      "skillFlavorInput": "",
+      "teammates": [],
+      "customTeammate": null,
+      "selectedTraits": [
+        "Khách đến từ dị giới",
+        "Giao tình phố chợ"
+      ],
+      "customTraits": [
+        {
+          "name": "Quyền vương ngầm tương lai",
+          "effect": "Sức mạnh/Nhanh nhẹn +8; kiểm định uy hiếp +4; sở hữu một cơ thể bền bỉ khỏe mạnh và một trái tim bất khuất, mọi hiệu quả tiêu cực ở tầng thân thể/tinh thần đều không ảnh hưởng tới kiểm định. Từ nhỏ đã lăn lộn ở tầng đáy xã hội, hiểu rất nhiều quy tắc nơi mặt tối của xã hội: chợ đen, khu ổ chuột, sàn quyền ngầm -- bạn luôn tìm được đường vào."
+        }
+      ],
+      "customExpertise": [],
+      "customIdentity": {
+        "enabled": true,
+        "name": "Quyền vương ngầm tương lai",
+        "desc": "Một nhân vật nhỏ đến từ thế giới ngầm Ionia, còn chưa kịp bước lên con đường vốn có của mình thì chỉ trong chớp mắt lại rời khỏi người mẹ yêu quý và giáng lâm tới Disboard.\nGiờ cô chỉ muốn sớm gom đủ mấy quân cờ chết tiệt đó, quay về bên mẹ để báo một tiếng bình an.",
+        "tierIndex": 3
+      },
+      "selectedOpening": "traverse",
+      "customOpeningText": "",
+      "selectedDifficulty": "normal",
+      "customRace": null
+    }
+  }
+}

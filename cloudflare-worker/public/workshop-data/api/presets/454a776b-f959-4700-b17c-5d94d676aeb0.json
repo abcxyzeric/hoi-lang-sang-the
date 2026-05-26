@@ -1,0 +1,39 @@
+{
+  "ok": true,
+  "preset": {
+    "id": "454a776b-f959-4700-b17c-5d94d676aeb0",
+    "ownerId": "1466649975227154432",
+    "ownerName": "lianka",
+    "author": "lianka",
+    "authorAvatar": "https://cdn.discordapp.com/avatars/1466649975227154432/353c96e5e420daa07dff605dae22ad29.png?size=128",
+    "name": "Nữ tu",
+    "title": "Nữ tu",
+    "intro": "Bên dưới vẻ ngoài thánh khiết là nội tâm dâm loạn khao khát sa đọa, thiên về CG chiến bại.\nCây kỹ năng đã cập nhật lớn!",
+    "coverUrl": "/api/presets/454a776b-f959-4700-b17c-5d94d676aeb0/cover",
+    "className": "Nữ Tu Đoạn Tội",
+    "race": "Nhân loại chủng",
+    "tags": [
+      "Dâm đãng",
+      "Ác đọa",
+      "Nữ tu"
+    ],
+    "likes": 34,
+    "liked": false,
+    "downloads": 507,
+    "status": "published",
+    "createdAt": "2026-03-15 15:29:41",
+    "updatedAt": "2026-05-25 11:49:53",
+    "lastLikedAt": "",
+    "presetData": {
+      "name": "Lilia",
+      "class": "Nữ Tu Đoạn Tội",
+      "customClassName": "Nữ Tu Đoạn Tội",
+      "race": "Nhân loại chủng",
+      "customRace": null,
+      "customClassStyle": "Đòn tấn công giữ lấy vẻ tao nhã của nữ tu.",
+      "backstory": "",
+      "selectedCustomLevel": 1
+    },
+    "downloadUrl": "/api/presets/454a776b-f959-4700-b17c-5d94d676aeb0/file"
+  }
+}

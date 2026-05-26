@@ -1,0 +1,40 @@
+{
+  "ok": true,
+  "preset": {
+    "id": "494166e9-f5bc-4010-b5df-835aad9a5164",
+    "ownerId": "1092094498256998453",
+    "ownerName": "Tiểu Mị",
+    "author": "Tiểu Mị",
+    "authorAvatar": "https://cdn.discordapp.com/avatars/1092094498256998453/d3d6e25bf0851ff1afc3dff7810b1756.png?size=128",
+    "name": "Samurai (ff14)",
+    "title": "Samurai (ff14)",
+    "intro": "Fan FF14 tới rồi.\nTôi thử tái hiện cơ chế samurai của FF14: lấy chuỗi combo cơ bản tích đủ ba Sen rồi dùng Cư Hợp làm lõi sát thương, đồng thời dùng cơ chế kiếm khí để chen một lần \"kỹ năng năng lực\" Tất Sát Kiếm không tốn lượt hành động ở vòng kế tiếp làm sát thương phụ. Thiết kế nhằm tạo cảm giác combo liên tiếp sảng khoái như gió cuốn sấm rền... đại khái vậy, tôi mới chỉ test sơ qua.\nVề chỉ số thì chắc thuộc kiểu \"hơi mạnh nhưng còn lâu mới quá chuẩn\", vì muốn dùng kỹ năng có trị số mạnh thì trước hết phải đánh thường tích tài nguyên, không thể mở đầu là giây sạch mọi thứ.\nTôi chỉ điền cây kỹ năng, những phần khác đều có thể đổi.\nGặp BUG thì cứ kiểm tra Hakimi trước, 99% là lỗi của nó; nếu có vấn đề về cơ chế hoặc cân bằng chỉ số, có thể tag tôi trong kênh DC, thấy thì tôi sẽ trả lời.\n—————— Nội dung cập nhật ——————\nNói thêm là thêm! Đã cập nhật tuyến nhiệm vụ cày vũ khí riêng và một nhân vật liên quan. Vào phần nhân vật và mở rộng tìm tên tác giả của tôi, hoặc tìm nội dung có tag \"Chuỗi nhiệm vụ cày vũ khí Samurai\" rồi subscribe là được. Nếu không muốn chơi nội dung phụ, nhớ xóa đặc chất tùy chỉnh Nữ Hoàng Thiên Hữu, còn hoàn lại cho bạn 30RP (cười).\n—————— Cập nhật cân bằng ——————\n2026.3.24 đã sửa một chút mô tả của Yến Hồi Phản và Cư Hợp · Bỉ Ngạn Hoa để tránh Hakimi hiểu nhầm; hiệu quả thực tế không đổi. Đã tăng sức mạnh Cư Hợp · Loạn Tuyết Nguyệt Hoa. Là kỹ năng sát thương ba Sen cốt lõi của samurai mà biểu hiện trong test hơi không như ý, nên trước mắt tăng mạnh một đợt.",
+    "coverUrl": "/api/presets/494166e9-f5bc-4010-b5df-835aad9a5164/cover",
+    "className": "Samurai",
+    "race": "Nhân loại chủng",
+    "tags": [
+      "Bộc phát",
+      "Cơ chế",
+      "Đồng nhân",
+      "Chuỗi nhiệm vụ cày vũ khí Samurai"
+    ],
+    "likes": 11,
+    "liked": false,
+    "downloads": 96,
+    "status": "published",
+    "createdAt": "2026-03-22 07:07:56",
+    "updatedAt": "2026-05-23 18:21:45",
+    "lastLikedAt": "",
+    "presetData": {
+      "name": "Samurai",
+      "class": "Samurai",
+      "customClassName": "Samurai",
+      "race": "Nhân loại chủng",
+      "customRace": null,
+      "customClassStyle": "(ff14) Dùng đao samurai tung ra các đòn công kích chuẩn xác, tích lũy kiếm khí, rồi tiêu hao [Sen] và kiếm khí để phát động Cư Hợp cùng Tất Sát Kiếm mạnh mẽ.",
+      "backstory": "",
+      "selectedCustomLevel": 1
+    },
+    "downloadUrl": "/api/presets/494166e9-f5bc-4010-b5df-835aad9a5164/file"
+  }
+}

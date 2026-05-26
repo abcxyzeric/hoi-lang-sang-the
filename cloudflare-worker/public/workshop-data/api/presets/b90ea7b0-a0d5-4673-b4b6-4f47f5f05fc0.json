@@ -1,0 +1,41 @@
+{
+  "ok": true,
+  "preset": {
+    "id": "b90ea7b0-a0d5-4673-b4b6-4f47f5f05fc0",
+    "ownerId": "1466649975227154432",
+    "ownerName": "lianka",
+    "author": "lianka",
+    "authorAvatar": "https://cdn.discordapp.com/avatars/1466649975227154432/353c96e5e420daa07dff605dae22ad29.png?size=128",
+    "name": "Ngự Ma Sứ",
+    "title": "Ngự Ma Sứ",
+    "intro": "Lối chơi kiểu Pokémon: bắt thú cưng + hợp thành + biến thân. Cần dùng kèm \"Hệ thống Ngự Ma Sứ\" trong khu mở rộng.",
+    "coverUrl": "/api/presets/b90ea7b0-a0d5-4673-b4b6-4f47f5f05fc0/cover",
+    "className": "Ngự Ma Sứ",
+    "race": "Bán tinh linh tóc bạc",
+    "tags": [
+      "Triệu hồi",
+      "Pokémon",
+      "Biến thân"
+    ],
+    "likes": 7,
+    "liked": false,
+    "downloads": 215,
+    "status": "published",
+    "createdAt": "2026-05-03 05:11:33",
+    "updatedAt": "2026-05-22 20:37:23",
+    "lastLikedAt": "",
+    "presetData": {
+      "name": "Vass",
+      "class": "Ngự Ma Sứ",
+      "customClassName": "Ngự Ma Sứ",
+      "race": "__custom__",
+      "customRace": {
+        "name": "Bán tinh linh tóc bạc"
+      },
+      "customClassStyle": "",
+      "backstory": "",
+      "selectedCustomLevel": 1
+    },
+    "downloadUrl": "/api/presets/b90ea7b0-a0d5-4673-b4b6-4f47f5f05fc0/file"
+  }
+}

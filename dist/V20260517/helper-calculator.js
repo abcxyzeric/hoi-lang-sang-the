@@ -650,8 +650,13 @@
         return String(variables?.Cấu_hình_hệ_thống?.Thế_giới_quan || '').trim();
     }
 
+    function normalizeWorldViewLabel(value) {
+        return String(value || '').trim().replace(/_/g, ' ').replace(/\s+/g, ' ').toLowerCase();
+    }
+
     function isAmberSwordWorldView(variables) {
-        return getCurrentWorldView(variables) === 'Thanh_kiếm_Hổ_Phách';
+        const worldview = normalizeWorldViewLabel(getCurrentWorldView(variables));
+        return worldview === 'thanh kiếm hổ phách' || worldview === 'kiếm hổ phách';
     }
 
     function getWeaponCalcLevel(weapon, player, variables) {

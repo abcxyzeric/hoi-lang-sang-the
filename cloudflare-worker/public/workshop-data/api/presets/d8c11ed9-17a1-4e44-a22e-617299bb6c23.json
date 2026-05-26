@@ -1,0 +1,40 @@
+{
+  "ok": true,
+  "preset": {
+    "id": "d8c11ed9-17a1-4e44-a22e-617299bb6c23",
+    "ownerId": "1466649975227154432",
+    "ownerName": "lianka",
+    "author": "lianka",
+    "authorAvatar": "https://cdn.discordapp.com/avatars/1466649975227154432/353c96e5e420daa07dff605dae22ad29.png?size=128",
+    "name": "Ma Nữ Dệt Dục · Fania",
+    "title": "Ma Nữ Dệt Dục · Fania",
+    "intro": "Bạn sẽ nhập vai chìm đắm thành một otaku nữ 2D xuyên tới thân xác cấm kỵ. Sẽ trong sáng phá đảo, hay sa đọa thành kẻ phóng đãng? Do bạn quyết định √ Đã cập nhật 24 minh họa SFW và 113 minh họa NSFW! Mở đầu có sẵn vũ khí truyền thuyết chuyên dụng. Làm đẹp trạng thái nhân vật + link preset:\nhttps://github.com/lianka12138-max/fania_plugin/archive/refs/tags/v.1.0.zip\nBắt buộc tải <plugin GalGame> ở khu mở rộng. Khu hồ sơ nhân vật có OC Fania; khuyến nghị dùng chung thẻ nhân vật + worldbook + hồ sơ nhân vật.",
+    "coverUrl": "/api/presets/d8c11ed9-17a1-4e44-a22e-617299bb6c23/cover",
+    "className": "Ma Nữ Dệt Dục",
+    "race": "Chủng Thực Dục",
+    "tags": [
+      "galgame",
+      "Nội dung gợi dục"
+    ],
+    "likes": 14,
+    "liked": false,
+    "downloads": 245,
+    "status": "published",
+    "createdAt": "2026-05-13 19:15:39",
+    "updatedAt": "2026-05-25 11:49:16",
+    "lastLikedAt": "",
+    "presetData": {
+      "name": "Fania",
+      "class": "Ma Nữ Dệt Dục",
+      "customClassName": "Ma Nữ Dệt Dục",
+      "race": "__custom__",
+      "customRace": {
+        "name": "Chủng Thực Dục"
+      },
+      "customClassStyle": "",
+      "backstory": "",
+      "selectedCustomLevel": 1
+    },
+    "downloadUrl": "/api/presets/d8c11ed9-17a1-4e44-a22e-617299bb6c23/file"
+  }
+}

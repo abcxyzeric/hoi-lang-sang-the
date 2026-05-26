@@ -1,0 +1,35 @@
+{
+  "ok": true,
+  "preset": {
+    "id": "da724c35-61d8-4779-ae43-71d6bf5ecb7c",
+    "ownerId": "1466442334601216217",
+    "ownerName": "YOLOZRH",
+    "author": "YOLOZRH",
+    "authorAvatar": "https://cdn.discordapp.com/avatars/1466442334601216217/157e517cdbf371a47aaead44675714a3.png?size=128",
+    "name": "Lilia",
+    "title": "Lilia",
+    "intro": "Đòn tấn công vẫn giữ vẻ thanh nhã của một nữ tu.",
+    "coverUrl": "/api/presets/da724c35-61d8-4779-ae43-71d6bf5ecb7c/cover",
+    "className": "Nữ tu phán tội",
+    "race": "Nhân loại chủng",
+    "tags": [],
+    "likes": 0,
+    "liked": false,
+    "downloads": 11,
+    "status": "published",
+    "createdAt": "2026-04-05 08:27:32",
+    "updatedAt": "2026-05-22 20:48:07",
+    "lastLikedAt": "",
+    "presetData": {
+      "name": "Lilia",
+      "class": "Nữ tu phán tội",
+      "customClassName": "Nữ tu phán tội",
+      "race": "Nhân loại chủng",
+      "customRace": null,
+      "customClassStyle": "Đòn tấn công vẫn giữ vẻ thanh nhã của một nữ tu.",
+      "backstory": "",
+      "selectedCustomLevel": 1
+    },
+    "downloadUrl": "/api/presets/da724c35-61d8-4779-ae43-71d6bf5ecb7c/file"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "ok": true,
+  "preset": {
+    "id": "d87bd9fd-fde6-430d-8c93-e9c50325c415",
+    "ownerId": "1461978984920387686",
+    "ownerName": "jietuozhe",
+    "author": "jietuozhe",
+    "authorAvatar": "",
+    "name": "Ninja Slayer - Fujikido Kenji",
+    "title": "Ninja Slayer - Fujikido Kenji",
+    "intro": "Preset tham khảo tiểu thuyết Ninja Slayer và TRPG, cố gắng tái hiện năng lực của Ninja Slayer nhiều nhất có thể.",
+    "coverUrl": "/api/presets/d87bd9fd-fde6-430d-8c93-e9c50325c415/cover",
+    "className": "Ninja Slayer",
+    "race": "Nhân loại chủng",
+    "tags": [
+      "Duy trì",
+      "Xa gần đều đủ",
+      "Quái vật Karate khó chịu"
+    ],
+    "likes": 2,
+    "liked": false,
+    "downloads": 23,
+    "status": "published",
+    "createdAt": "2026-04-10 08:49:53",
+    "updatedAt": "2026-05-23 10:51:51",
+    "lastLikedAt": "",
+    "presetData": {
+      "name": "Fujikido Kenji",
+      "class": "Ninja Slayer",
+      "customClassName": "Ninja Slayer",
+      "race": "Nhân loại chủng",
+      "customRace": null,
+      "customClassStyle": "Chiến đấu bằng Karate vững chắc, công thủ đều đủ, có thể quấn hắc viêm quanh thân để công kích. Đồng thời có thể dùng máu của bản thân tạo thành shuriken để tấn công.",
+      "backstory": "",
+      "selectedCustomLevel": 1
+    },
+    "downloadUrl": "/api/presets/d87bd9fd-fde6-430d-8c93-e9c50325c415/file"
+  }
+}

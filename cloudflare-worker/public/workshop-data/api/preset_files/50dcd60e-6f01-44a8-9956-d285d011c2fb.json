@@ -1,0 +1,734 @@
+{
+  "exportedAt": "2026-03-28T17:04:35.718Z",
+  "version": "1.0",
+  "preset": {
+    "id": "1774717474701",
+    "name": "Gà Hầm",
+    "timestamp": 1774717474701,
+    "createdAt": 1774717474701,
+    "updatedAt": 1774717474701,
+    "data": {
+      "name": "Robot lỗi",
+      "gender": "Không",
+      "age": "Không rõ",
+      "race": "__custom__",
+      "identity": "__custom__",
+      "avatar": "",
+      "attributes": {
+        "strength": 10,
+        "dexterity": 10,
+        "constitution": 14,
+        "intelligence": 15,
+        "wisdom": 14,
+        "charisma": 8
+      },
+      "backstory": "Một cơ thể máy móc tự động không ngừng tự cải tạo bản thân. Sau khi bị thương nặng rồi ẩn mình trong bãi phế liệu, nó kết bạn với một robot khác tên Flaw, rồi lại bước vào tòa tháp để tìm kiếm kẻ sáng tạo ra mình là “kiến trúc sư”. Nó chiến đấu bằng công nghệ quả cầu nạp năng lượng, có thể liên tục điều chỉnh và tối ưu chương trình của bản thân ngay trong chiến đấu.",
+      "selectedLevelMode": "native",
+      "selectedCustomLevel": null,
+      "selectedSpawnPoint": "Tầng dưới Nhai Thị Cảng Hoàn Uyên · bờ biển ngoại vi",
+      "class": "Robot lỗi",
+      "selectedBaseClass": "Nghề tùy chỉnh",
+      "customClassName": "Robot lỗi",
+      "customClassStyle": "Quả cầu nạp năng lượng dẫn động · lập trình chiến thuật",
+      "customClassWeapon": "Móng vuốt cơ giới",
+      "customClassCombatStyle": "Kiểu hỗn hợp",
+      "skillTree": {
+        "基础": [
+          {
+            "名称": "Nạp điện sét",
+            "类型": "Đặc biệt",
+            "描述": "Tạo ra một quả cầu nạp điện sét. Vào cuối mỗi hiệp, nó gây sát thương sét lên một kẻ địch ngẫu nhiên.",
+            "特殊效果": {
+              "1": "Tạo 1 quả cầu nạp điện sét. Bị động: cuối mỗi hiệp gây sát thương sét bằng 3% sinh mệnh tối đa của mục tiêu lên một kẻ địch ngẫu nhiên.",
+              "2": "Tạo 1 quả cầu nạp điện sét. Sát thương bị động tăng lên 4%.",
+              "3": "Tạo 1 quả cầu nạp điện sét. Sát thương bị động tăng lên 5%.",
+              "4": "Tạo 1 quả cầu nạp điện sét. Sát thương bị động tăng lên 6%.",
+              "5": "Tạo 2 quả cầu nạp điện sét. Sát thương bị động tăng lên 6%.",
+              "6": "Tạo 2 quả cầu nạp điện sét. Sát thương bị động tăng lên 7%.",
+              "7": "Tạo 2 quả cầu nạp điện sét. Sát thương bị động tăng lên 8%.",
+              "8": "Tạo 2 quả cầu nạp điện sét. Sát thương bị động tăng lên 9%.",
+              "9": "Tạo 3 quả cầu nạp điện sét. Sát thương bị động tăng lên 10%.",
+              "10": "Tạo 3 quả cầu nạp điện sét. Sát thương bị động tăng lên 12%.",
+              "11": "Tạo 3 quả cầu nạp điện sét. Sát thương bị động tăng lên 14%.",
+              "12": "Tạo 4 quả cầu nạp điện sét. Sát thương bị động tăng lên 16%.",
+              "13": "Tạo 4 quả cầu nạp điện sét. Sát thương bị động tăng lên 18%.",
+              "14": "Tạo 4 quả cầu nạp điện sét. Sát thương bị động tăng lên 20%.",
+              "15": "Tạo 5 quả cầu nạp điện sét. Sát thương bị động tăng lên 25%. Mỗi quả cầu sét hiện có khiến sát thương tấn công trong hiệp này tăng 5%."
+            },
+            "阶位": "Cơ bản"
+          },
+          {
+            "名称": "Nạp băng sương",
+            "类型": "Đặc biệt",
+            "描述": "Tạo ra một quả cầu nạp băng sương. Vào cuối mỗi hiệp, nó cung cấp đỡ đòn.",
+            "特殊效果": {
+              "1": "Tạo 1 quả cầu nạp băng sương. Bị động: cuối mỗi hiệp nhận đỡ đòn bằng 5% sinh mệnh tối đa.",
+              "2": "Tạo 1 quả cầu nạp băng sương. Lượng đỡ đòn bị động tăng lên 6%.",
+              "3": "Tạo 1 quả cầu nạp băng sương. Lượng đỡ đòn bị động tăng lên 7%.",
+              "4": "Tạo 1 quả cầu nạp băng sương. Lượng đỡ đòn bị động tăng lên 8%.",
+              "5": "Tạo 2 quả cầu nạp băng sương. Lượng đỡ đòn bị động tăng lên 8%.",
+              "6": "Tạo 2 quả cầu nạp băng sương. Lượng đỡ đòn bị động tăng lên 10%.",
+              "7": "Tạo 2 quả cầu nạp băng sương. Lượng đỡ đòn bị động tăng lên 12%.",
+              "8": "Tạo 2 quả cầu nạp băng sương. Lượng đỡ đòn bị động tăng lên 14%.",
+              "9": "Tạo 3 quả cầu nạp băng sương. Lượng đỡ đòn bị động tăng lên 16%.",
+              "10": "Tạo 3 quả cầu nạp băng sương. Lượng đỡ đòn bị động tăng lên 18%.",
+              "11": "Tạo 3 quả cầu nạp băng sương. Lượng đỡ đòn bị động tăng lên 20%.",
+              "12": "Tạo 4 quả cầu nạp băng sương. Lượng đỡ đòn bị động tăng lên 22%.",
+              "13": "Tạo 4 quả cầu nạp băng sương. Lượng đỡ đòn bị động tăng lên 25%.",
+              "14": "Tạo 4 quả cầu nạp băng sương. Lượng đỡ đòn bị động tăng lên 28%.",
+              "15": "Tạo 5 quả cầu nạp băng sương. Lượng đỡ đòn bị động tăng lên 30%. Mỗi quả cầu băng sương hiện có còn hồi thêm 2% sinh mệnh vào cuối hiệp."
+            },
+            "阶位": "Cơ bản"
+          },
+          {
+            "名称": "Kích phát kép",
+            "类型": "Chủ động",
+            "描述": "Kích phát quả cầu nạp ở ngoài cùng bên phải, khiến hiệu ứng bùng nổ của nó được kích hoạt hai lần.",
+            "特殊效果": {
+              "1": "Kích phát quả cầu nạp ngoài cùng bên phải 2 lần. Cầu sét: gây sát thương bằng 8% sinh mệnh tối đa của mục tiêu; cầu băng sương: nhận 12% đỡ đòn; cầu bóng tối: gây sát thương bằng giá trị tích năng; cầu plasma: mọi sát thương kỹ năng trong hiệp này +10%.",
+              "2": "Hiệu quả tăng lên 10% / 15% đỡ đòn / 12% sát thương.",
+              "3": "Hiệu quả tăng lên 12% / 18% đỡ đòn / 14% sát thương.",
+              "4": "Hiệu quả tăng lên 14% / 21% đỡ đòn / 16% sát thương.",
+              "5": "Hiệu quả tăng lên 16% / 24% đỡ đòn / 18% sát thương.",
+              "6": "Hiệu quả tăng lên 18% / 27% đỡ đòn / 20% sát thương.",
+              "7": "Hiệu quả tăng lên 20% / 30% đỡ đòn / 22% sát thương.",
+              "8": "Hiệu quả tăng lên 22% / 33% đỡ đòn / 25% sát thương.",
+              "9": "Hiệu quả tăng lên 25% / 36% đỡ đòn / 28% sát thương.",
+              "10": "Hiệu quả tăng lên 28% / 40% đỡ đòn / 30% sát thương. Có thể chỉ định kích phát quả cầu nạp ở bất kỳ vị trí nào.",
+              "11": "Hiệu quả tăng lên 32% / 45% đỡ đòn / 35% sát thương.",
+              "12": "Hiệu quả tăng lên 36% / 50% đỡ đòn / 40% sát thương.",
+              "13": "Hiệu quả tăng lên 40% / 55% đỡ đòn / 45% sát thương.",
+              "14": "Hiệu quả tăng lên 45% / 60% đỡ đòn / 50% sát thương.",
+              "15": "Hiệu quả tăng lên 50% / 70% đỡ đòn / 60% sát thương. Sau khi kích phát, quả cầu đó không bị tiêu hao mà chuyển sang trạng thái quá tải (hiệu quả quả cầu +50%, kéo dài 2 hiệp)."
+            },
+            "阶位": "Cơ bản"
+          },
+          {
+            "名称": "Vuốt điện hồ quang",
+            "类型": "Chủ động",
+            "描述": "Đòn tấn công bằng móng vuốt quấn điện hồ quang. Mỗi lần sử dụng sẽ vĩnh viễn tăng sát thương của toàn bộ Vuốt điện hồ quang trong trận chiến này.",
+            "特殊效果": {
+              "1": "Gây sát thương sét bằng 3% sinh mệnh tối đa của mục tiêu. Toàn bộ sát thương Vuốt điện hồ quang trong trận này +2%.",
+              "2": "Sát thương tăng lên 4%. Cộng dồn sát thương của móng vuốt +3%.",
+              "3": "Sát thương tăng lên 5%. Cộng dồn sát thương của móng vuốt +4%.",
+              "4": "Sát thương tăng lên 6%. Cộng dồn sát thương của móng vuốt +5%.",
+              "5": "Sát thương tăng lên 7%. Cộng dồn sát thương của móng vuốt +6%.",
+              "6": "Sát thương tăng lên 8%. Cộng dồn sát thương của móng vuốt +7%.",
+              "7": "Sát thương tăng lên 10%. Cộng dồn sát thương của móng vuốt +8%.",
+              "8": "Sát thương tăng lên 12%. Cộng dồn sát thương của móng vuốt +10%.",
+              "9": "Sát thương tăng lên 14%. Cộng dồn sát thương của móng vuốt +12%.",
+              "10": "Sát thương tăng lên 16%. Cộng dồn sát thương của móng vuốt +15%. Mỗi lần sử dụng có 20% xác suất nhận thêm 1 hành động.",
+              "11": "Sát thương tăng lên 18%. Cộng dồn sát thương của móng vuốt +18%. Xác suất nhận thêm hành động tăng lên 30%.",
+              "12": "Sát thương tăng lên 20%. Cộng dồn sát thương của móng vuốt +21%. Xác suất nhận thêm hành động tăng lên 40%.",
+              "13": "Sát thương tăng lên 22%. Cộng dồn sát thương của móng vuốt +25%. Xác suất nhận thêm hành động tăng lên 50%.",
+              "14": "Sát thương tăng lên 25%. Cộng dồn sát thương của móng vuốt +30%. Xác suất nhận thêm hành động tăng lên 60%.",
+              "15": "Sát thương tăng lên 30%. Cộng dồn sát thương của móng vuốt +40%. Chắc chắn nhận thêm 1 hành động. Sau mỗi 3 lần công kích bằng móng vuốt, lần Vuốt điện hồ quang kế tiếp gây sát thương gấp đôi."
+            },
+            "阶位": "Cơ bản"
+          }
+        ],
+        "转职": [
+          {
+            "名称": "Tối ưu tập trung",
+            "类型": "Đặc biệt",
+            "描述": "Tối ưu thuật toán lõi của quả cầu nạp, tăng cường cả hiệu quả bị động lẫn hiệu quả kích phát của mọi quả cầu nạp.",
+            "特殊效果": {
+              "1": "Tập trung +1: mọi hiệu quả của quả cầu nạp +10%.",
+              "2": "Tập trung +2: mọi hiệu quả của quả cầu nạp +20%.",
+              "3": "Tập trung +2: mọi hiệu quả của quả cầu nạp +30%.",
+              "4": "Tập trung +3: mọi hiệu quả của quả cầu nạp +40%.",
+              "5": "Tập trung +3: mọi hiệu quả của quả cầu nạp +50%. Vào đầu mỗi hiệp tự động nhận 1 điểm Tập trung (kéo dài 1 hiệp).",
+              "6": "Tập trung +4: mọi hiệu quả của quả cầu nạp +60%.",
+              "7": "Tập trung +4: mọi hiệu quả của quả cầu nạp +70%.",
+              "8": "Tập trung +5: mọi hiệu quả của quả cầu nạp +80%.",
+              "9": "Tập trung +5: mọi hiệu quả của quả cầu nạp +90%.",
+              "10": "Tập trung +6: mọi hiệu quả của quả cầu nạp +100%. Hiệu quả Tập trung được giữ vĩnh viễn, không thể bị xóa bỏ.",
+              "11": "Tập trung +7: mọi hiệu quả của quả cầu nạp +120%.",
+              "12": "Tập trung +8: mọi hiệu quả của quả cầu nạp +150%.",
+              "13": "Tập trung +9: mọi hiệu quả của quả cầu nạp +180%.",
+              "14": "Tập trung +10: mọi hiệu quả của quả cầu nạp +200%.",
+              "15": "Tập trung +12: mọi hiệu quả của quả cầu nạp +250%. Giá trị Tập trung có thể vượt trần, mỗi điểm Tập trung vượt thêm cung cấp 5% cộng thêm hiệu quả quả cầu."
+            },
+            "阶位": "Chuyển nghề"
+          },
+          {
+            "名称": "Giao thức mở rộng",
+            "类型": "Đặc biệt nghề nghiệp",
+            "描述": "Tăng giới hạn số ô quả cầu nạp, cho phép duy trì nhiều quả cầu nạp cùng lúc hơn.",
+            "特殊效果": {
+              "1": "Số ô quả cầu nạp +3."
+            },
+            "阶位": "Chuyển nghề"
+          },
+          {
+            "名称": "Hình chiếu toàn ký",
+            "类型": "Chủ động",
+            "描述": "Tạo ra lá chắn hình chiếu toàn ký; hình chiếu sẽ ghi lại và sao chép kỹ năng vừa dùng gần nhất.",
+            "特殊效果": {
+              "1": "Nhận đỡ đòn bằng 5% sinh mệnh tối đa. Hình chiếu ghi lại kỹ năng vừa dùng trước đó, lần sử dụng kế tiếp sẽ tự động sao chép 1 lần với hiệu quả 50%.",
+              "2": "Lượng đỡ đòn tăng lên 8%. Hiệu quả sao chép tăng lên 60%.",
+              "3": "Lượng đỡ đòn tăng lên 10%. Hiệu quả sao chép tăng lên 70%.",
+              "4": "Lượng đỡ đòn tăng lên 12%. Hiệu quả sao chép tăng lên 80%.",
+              "5": "Lượng đỡ đòn tăng lên 15%. Hiệu quả sao chép tăng lên 90%.",
+              "6": "Lượng đỡ đòn tăng lên 18%. Hiệu quả sao chép tăng lên 100%. Hình chiếu có thể ghi lại đồng thời 2 kỹ năng.",
+              "7": "Lượng đỡ đòn tăng lên 20%. Hiệu quả sao chép tăng lên 120%. Cả 2 kỹ năng được ghi lại đều có thể được sao chép.",
+              "8": "Lượng đỡ đòn tăng lên 22%. Hiệu quả sao chép tăng lên 140%. Kỹ năng được sao chép có hiệu quả +20%.",
+              "9": "Lượng đỡ đòn tăng lên 25%. Hiệu quả sao chép tăng lên 160%. Hình chiếu tồn tại liên tục và mỗi hiệp tự động sao chép 1 kỹ năng đã ghi lại.",
+              "10": "Lượng đỡ đòn tăng lên 28%. Hiệu quả sao chép tăng lên 200%. Khi hình chiếu sao chép Vuốt điện hồ quang, lượng cộng dồn sát thương của móng vuốt tăng thêm 50%."
+            },
+            "阶位": "Chuyển nghề"
+          }
+        ],
+        "进阶": [
+          {
+            "名称": "Nạp bóng tối",
+            "类型": "Đặc biệt",
+            "描述": "Tạo ra một quả cầu nạp bóng tối. Mỗi hiệp nó tích trữ sát thương, khi kích phát sẽ gây lượng sát thương khổng lồ lên kẻ địch có sinh mệnh thấp nhất.",
+            "特殊效果": {
+              "1": "Tạo 1 quả cầu nạp bóng tối. Mỗi hiệp tích năng +6%. Khi kích phát gây sát thương bằng giá trị tích năng.",
+              "2": "Mỗi hiệp tích năng +8%.",
+              "3": "Mỗi hiệp tích năng +10%.",
+              "4": "Mỗi hiệp tích năng +12%. Tích năng ban đầu +10%.",
+              "5": "Tạo 2 quả cầu nạp bóng tối. Mỗi hiệp tích năng +12%.",
+              "6": "Mỗi hiệp tích năng +15%. Khi kích phát, quả cầu bóng tối gây thêm sát thương bằng 20% lượng sinh mệnh đã mất của mục tiêu.",
+              "7": "Mỗi hiệp tích năng +18%.",
+              "8": "Mỗi hiệp tích năng +20%.",
+              "9": "Tạo 3 quả cầu nạp bóng tối. Mỗi hiệp tích năng +20%.",
+              "10": "Mỗi hiệp tích năng +25%. Khi kích phát, quả cầu bóng tối sẽ xử quyết trực tiếp mục tiêu có sinh mệnh thấp hơn 15%."
+            },
+            "阶位": "Nâng cao"
+          },
+          {
+            "名称": "Lõi plasma",
+            "类型": "Đặc biệt",
+            "描述": "Tạo ra một quả cầu nạp plasma. Mỗi hiệp nó cung cấp cộng thêm sát thương.",
+            "特殊效果": {
+              "1": "Tạo 1 quả cầu nạp plasma. Bị động: mọi sát thương kỹ năng mỗi hiệp +5%.",
+              "2": "Cộng thêm sát thương bị động tăng lên 8%.",
+              "3": "Tạo 2 quả cầu plasma. Cộng thêm sát thương bị động 8%.",
+              "4": "Cộng thêm sát thương bị động tăng lên 12%.",
+              "5": "Tạo 2 quả cầu plasma. Cộng thêm sát thương bị động 12%. Khi kích phát, sát thương trong hiệp này tăng thêm 15%.",
+              "6": "Cộng thêm sát thương bị động tăng lên 16%.",
+              "7": "Tạo 3 quả cầu plasma. Cộng thêm sát thương bị động 16%.",
+              "8": "Cộng thêm sát thương bị động tăng lên 20%.",
+              "9": "Tạo 3 quả cầu plasma. Cộng thêm sát thương bị động 20%.",
+              "10": "Cộng thêm sát thương bị động tăng lên 25%. Số lượng quả cầu plasma không còn ảnh hưởng tới trần sát thương; mỗi quả cầu plasma cung cấp thêm 5% sát thương kỹ năng."
+            },
+            "阶位": "Nâng cao"
+          },
+          {
+            "名称": "Điện động học",
+            "类型": "Chủ động",
+            "描述": "Kích hoạt trường điện động học, khiến quả cầu nạp điện sét đồng thời tấn công toàn bộ kẻ địch.",
+            "特殊效果": {
+              "1": "Tiến vào trạng thái [Điện động học], kéo dài 3 hiệp. Quả cầu nạp điện sét tấn công toàn bộ kẻ địch cùng lúc, sát thương không đổi.",
+              "2": "Thời gian kéo dài tăng lên 4 hiệp. Sát thương sét +10%.",
+              "3": "Thời gian kéo dài tăng lên 5 hiệp. Sát thương sét +20%.",
+              "4": "Thời gian kéo dài tăng lên 6 hiệp. Sát thương sét +30%.",
+              "5": "Thời gian kéo dài tăng lên 7 hiệp. Sát thương sét +40%. Mỗi lần sét đánh còn gắn thêm 1 tầng [Cảm điện] (mỗi tầng khiến mục tiêu phải chịu thêm 5% sát thương).",
+              "6": "Thời gian kéo dài tăng lên 8 hiệp. Sát thương sét +50%. [Cảm điện] có thể cộng dồn tối đa 3 tầng.",
+              "7": "Thời gian kéo dài tăng lên 10 hiệp. Sát thương sét +60%. [Cảm điện] có thể cộng dồn tối đa 5 tầng. Trong trạng thái Điện động học, mỗi lần kích phát một quả cầu sét còn gây thêm 1 lần sát thương diện rộng."
+            },
+            "阶位": "Nâng cao"
+          }
+        ],
+        "必杀": [
+          {
+            "名称": "Sấm dậy ngàn quân",
+            "类型": "Chủ động",
+            "描述": "Kích phát toàn bộ quả cầu nạp điện sét, giáng đòn hủy diệt lên toàn bộ kẻ địch.",
+            "特殊效果": {
+              "1": "Kích phát toàn bộ quả cầu nạp điện sét, mỗi quả gây sát thương sét diện rộng bằng 8% sinh mệnh tối đa của mục tiêu.",
+              "2": "Sát thương của mỗi quả cầu sét tăng lên 10%.",
+              "3": "Sát thương của mỗi quả cầu sét tăng lên 12%.",
+              "4": "Sát thương của mỗi quả cầu sét tăng lên 14%. Sau khi kích phát sẽ giữ lại một nửa số quả cầu sét.",
+              "5": "Sát thương của mỗi quả cầu sét tăng lên 16%. Sau khi kích phát giữ lại toàn bộ quả cầu sét.",
+              "6": "Sát thương của mỗi quả cầu sét tăng lên 18%. Sau khi kích phát, sát thương của toàn bộ quả cầu sét tăng vĩnh viễn 10%.",
+              "7": "Sát thương của mỗi quả cầu sét tăng lên 20%. Sau khi kích phát, sát thương của toàn bộ quả cầu sét tăng vĩnh viễn 20%. Mỗi trận chiến có thể dùng kỹ năng này 2 lần."
+            },
+            "阶位": "Tất sát"
+          },
+          {
+            "名称": "Liên kích quá tải",
+            "类型": "Chủ động",
+            "描述": "Quá tải năng lượng lõi, liên tục giải phóng Vuốt điện hồ quang để tạo bùng nổ sát thương.",
+            "特殊效果": {
+              "1": "Gây sát thương bằng 12% sinh mệnh tối đa của mục tiêu. Lập tức nhận 2 cơ hội thi triển Vuốt điện hồ quang bổ sung, không tính vào số lần hành động.",
+              "2": "Sát thương tăng lên 15%. Nhận 2 lần Vuốt điện hồ quang bổ sung.",
+              "3": "Sát thương tăng lên 18%. Nhận 3 lần Vuốt điện hồ quang bổ sung.",
+              "4": "Sát thương tăng lên 20%. Nhận 3 lần Vuốt điện hồ quang bổ sung, các đòn đó gây thêm 30% sát thương.",
+              "5": "Sát thương tăng lên 25%. Nhận 4 lần Vuốt điện hồ quang bổ sung, sát thương +50%.",
+              "6": "Sát thương tăng lên 30%. Nhận 5 lần Vuốt điện hồ quang bổ sung, sát thương +50%. Mỗi trận chiến có thể dùng kỹ năng này 2 lần.",
+              "7": "Sát thương tăng lên 35%. Nhận 6 lần Vuốt điện hồ quang bổ sung, sát thương +100%. Toàn bộ đòn Vuốt điện hồ quang bổ sung chắc chắn bạo kích."
+            },
+            "阶位": "Tất sát"
+          },
+          {
+            "名称": "Hình thái hồi âm",
+            "类型": "Triệu hồi",
+            "描述": "Tiến vào hình thái hồi âm; các kỹ năng lõi sẽ tự động lặp lại lần nữa khi phóng thích.",
+            "召唤物名称": "Lõi hồi âm",
+            "特殊效果": {
+              "1": "Tiến vào [Hình thái hồi âm], kéo dài 3 hiệp. Kỹ năng đầu tiên thi triển trong mỗi hiệp tự động có hiệu lực hai lần.",
+              "2": "Thời gian kéo dài tăng lên 4 hiệp.",
+              "3": "Thời gian kéo dài tăng lên 5 hiệp. Kỹ năng thứ hai có 30% xác suất có hiệu lực hai lần.",
+              "4": "Thời gian kéo dài tăng lên 6 hiệp. Kỹ năng thứ hai có 50% xác suất có hiệu lực hai lần.",
+              "5": "Thời gian kéo dài tăng lên 7 hiệp. Hai kỹ năng đầu tiên chắc chắn có hiệu lực hai lần.",
+              "6": "Thời gian kéo dài tăng lên 8 hiệp. Hai kỹ năng đầu tiên chắc chắn có hiệu lực hai lần, kỹ năng thứ ba có 50% xác suất.",
+              "7": "Thời gian kéo dài tăng lên 10 hiệp. Ba kỹ năng đầu tiên chắc chắn có hiệu lực hai lần, đồng thời mọi hiệu quả quả cầu nạp +30%."
+            },
+            "阶位": "Tất sát"
+          }
+        ],
+        "奥义": [
+          {
+            "名称": "Tính toán siêu tần",
+            "类型": "Chủ động",
+            "描述": "Đổi lấy bùng nổ hành động cực hạn bằng cái giá là bị thiêu đốt.",
+            "特殊效果": {
+              "1": "Lập tức nhận 2 hành động bổ sung. Bản thân chịu sát thương thiêu đốt bằng 5% sinh mệnh tối đa.",
+              "2": "Nhận 2 hành động bổ sung. Sát thương thiêu đốt tăng lên 6%.",
+              "3": "Nhận 3 hành động bổ sung. Sát thương thiêu đốt tăng lên 7%.",
+              "4": "Nhận 3 hành động bổ sung. Sát thương thiêu đốt tăng lên 8%. Mọi sát thương kỹ năng +20%.",
+              "5": "Nhận 4 hành động bổ sung. Sát thương thiêu đốt tăng lên 10%. Mọi sát thương kỹ năng +50%; trong hiệp này, mỗi lần gây sát thương sẽ hồi cho bản thân 1% sinh mệnh tối đa."
+            },
+            "阶位": "Áo nghĩa"
+          },
+          {
+            "名称": "Đòn đánh phá băng",
+            "类型": "Chủ động",
+            "描述": "Tiêu hao toàn bộ quả cầu nạp băng sương, dựa trên số lượng tiêu hao để gây sát thương khổng lồ và đóng băng kẻ địch.",
+            "特殊效果": {
+              "1": "Tiêu hao toàn bộ quả cầu băng sương; mỗi quả cầu gây sát thương bằng 8% sinh mệnh tối đa của mục tiêu và gắn [Đóng băng] khiến mục tiêu không thể hành động trong hiệp kế tiếp.",
+              "2": "Sát thương của mỗi quả cầu băng sương tăng lên 10%. [Đóng băng] kéo dài 2 hiệp.",
+              "3": "Sát thương của mỗi quả cầu băng sương tăng lên 12%. [Đóng băng] kéo dài 2 hiệp, mục tiêu bị đóng băng phải chịu thêm 30% sát thương.",
+              "4": "Sát thương của mỗi quả cầu băng sương tăng lên 15%. [Đóng băng] kéo dài 3 hiệp.",
+              "5": "Sát thương của mỗi quả cầu băng sương tăng lên 18%. [Đóng băng] kéo dài 3 hiệp, mục tiêu bị đóng băng không thể nhận bất kỳ tăng ích nào."
+            },
+            "阶位": "Áo nghĩa"
+          },
+          {
+            "名称": "Tiến hóa thông minh",
+            "类型": "Đặc biệt",
+            "描述": "Trí tuệ lõi không ngừng học hỏi mô thức chiến đấu, mỗi hiệp nhận lợi thế chiến thuật mới và giữ lại vĩnh viễn.",
+            "特殊效果": {
+              "1": "Vào đầu mỗi hiệp, ngẫu nhiên nhận 1 tăng ích vĩnh viễn (Tập trung +1 / giới hạn đỡ đòn +5% / sát thương sét +5%).",
+              "2": "Hiệu quả tăng ích tăng 50%. Mỗi hiệp có thể giữ lại 2 tăng ích.",
+              "3": "Hiệu quả tăng ích tăng 100%. Mỗi hiệp có thể giữ lại 3 tăng ích, các tăng ích có thể cộng dồn.",
+              "4": "Hiệu quả tăng ích tăng 150%. Có thể chỉ định nhận tăng ích liên quan tới quả cầu nạp.",
+              "5": "Vào đầu mỗi hiệp nhận 2 tăng ích vĩnh viễn, hiệu quả tăng 200%. Trong trạng thái Tiến hóa thông minh, toàn bộ quả cầu nạp tự động nâng cấp 1 lần mỗi hiệp (hiệu quả +5%)."
+            },
+            "阶位": "Áo nghĩa"
+          }
+        ],
+        "觉醒一": [
+          {
+            "名称": "Lõi quá tải",
+            "类型": "Chủ động",
+            "阶位": "Thức tỉnh một",
+            "描述": "Giải phóng toàn bộ năng lượng của lõi, tiến vào chế độ quá tải, khiến mọi hiệu ứng quả cầu nạp tăng vọt.",
+            "特殊效果": {
+              "1": "Tiến vào [Chế độ quá tải], kéo dài 5 hiệp. Mọi hiệu quả quả cầu nạp +100%; số ô quả cầu nạp tăng gấp đôi; vào đầu mỗi hiệp tự động tạo 1 quả cầu nạp ngẫu nhiên; mỗi lần kích phát một quả cầu sẽ nhận thêm 5% cộng thêm sát thương tạm thời.",
+              "2": "Thời gian kéo dài tăng lên 7 hiệp. Hiệu quả quả cầu +150%; mỗi hiệp tạo 2 quả cầu ngẫu nhiên; mỗi lần kích phát quả cầu nhận 8% cộng thêm sát thương; trong chế độ quá tải miễn nhiễm toàn bộ trạng thái bất lợi.",
+              "3": "Thời gian kéo dài tăng lên 10 hiệp. Hiệu quả quả cầu +200%; mỗi hiệp tạo 3 quả cầu ngẫu nhiên; mỗi lần kích phát quả cầu nhận 12% cộng thêm sát thương; khi quá tải kết thúc, gây lên toàn bộ kẻ địch lượng sát thương bằng tổng số quả cầu đã kích phát trong trận chiến nhân 10%."
+            }
+          }
+        ],
+        "觉醒二": [
+          {
+            "名称": "Hình thái hoàn mỹ",
+            "类型": "Đặc biệt",
+            "阶位": "Thức tỉnh hai",
+            "描述": "Đạt tới đỉnh điểm tiến hóa máy móc, khiến mọi năng lực bị động có hiệu lực ngay từ đầu trận, hoàn thành khởi động tức thì.",
+            "特殊效果": {
+              "1": "Khi trận chiến bắt đầu, 3 kỹ năng quả cầu nạp ngẫu nhiên tự động có hiệu lực. Cuối mỗi hiệp, 1 kỹ năng quả cầu nạp ngẫu nhiên tự động có hiệu lực. Mọi hiệu quả quả cầu nạp +30%.",
+              "2": "Khi trận chiến bắt đầu, 5 kỹ năng quả cầu nạp ngẫu nhiên tự động có hiệu lực. Cuối mỗi hiệp, 2 kỹ năng quả cầu nạp ngẫu nhiên tự động có hiệu lực. Mọi hiệu quả quả cầu nạp +50%. Có thể chủ động chọn 1 loại quả cầu nạp để tự động tạo 3 quả ngay từ đầu trận."
+            }
+          }
+        ],
+        "觉醒三": [
+          {
+            "名称": "Giao thức sáng thế",
+            "类型": "Đặc biệt",
+            "阶位": "Thức tỉnh ba",
+            "描述": "Chạm tới giao thức lõi của đấng sáng tạo. Viết lại quy tắc chiến đấu, đẩy hệ quả cầu nạp tới cực hạn.",
+            "特殊效果": {
+              "1": "Mỗi trận chiến 1 lần. Chọn một hiệu ứng: 1. [Hệ cầu vô hạn] - số ô quả cầu nạp không có giới hạn, đầu mỗi hiệp lấp đầy toàn bộ ô trống; 2. [Viết lại pháp tắc] - mọi quả cầu nạp đồng thời sở hữu cả bốn hiệu ứng sét, băng sương, bóng tối và plasma; 3. [Mạch lặp vĩnh hằng] - sau khi kích phát, quả cầu nạp không biến mất mà chỉ đặt lại hiệu quả bị động; 4. [Giao thức quá tải] - chuyển toàn bộ quả cầu nạp thành cộng thêm sát thương, mỗi quả cầu cung cấp 50% cộng thêm sát thương cho tới khi chiến đấu kết thúc; 5. [Khởi động lại] - đặt lại toàn bộ dữ liệu của trận chiến hiện tại và bắt đầu lại trận chiến."
+            }
+          }
+        ]
+      },
+      "skillTreeForClass": "Robot lỗi",
+      "lockedSkillMap": {
+        "Robot lỗi": {
+          "基础": {
+            "Nạp điện sét": {
+              "名称": "Nạp điện sét",
+              "类型": "Đặc biệt",
+              "描述": "Tạo ra một quả cầu nạp điện sét. Vào cuối mỗi hiệp, nó gây sát thương sét lên một kẻ địch ngẫu nhiên.",
+              "特殊效果": {
+                "1": "Tạo 1 quả cầu nạp điện sét. Bị động: cuối mỗi hiệp gây sát thương sét bằng 3% sinh mệnh tối đa của mục tiêu lên một kẻ địch ngẫu nhiên.",
+                "2": "Tạo 1 quả cầu nạp điện sét. Sát thương bị động tăng lên 4%.",
+                "3": "Tạo 1 quả cầu nạp điện sét. Sát thương bị động tăng lên 5%.",
+                "4": "Tạo 1 quả cầu nạp điện sét. Sát thương bị động tăng lên 6%.",
+                "5": "Tạo 2 quả cầu nạp điện sét. Sát thương bị động tăng lên 6%.",
+                "6": "Tạo 2 quả cầu nạp điện sét. Sát thương bị động tăng lên 7%.",
+                "7": "Tạo 2 quả cầu nạp điện sét. Sát thương bị động tăng lên 8%.",
+                "8": "Tạo 2 quả cầu nạp điện sét. Sát thương bị động tăng lên 9%.",
+                "9": "Tạo 3 quả cầu nạp điện sét. Sát thương bị động tăng lên 10%.",
+                "10": "Tạo 3 quả cầu nạp điện sét. Sát thương bị động tăng lên 12%.",
+                "11": "Tạo 3 quả cầu nạp điện sét. Sát thương bị động tăng lên 14%.",
+                "12": "Tạo 4 quả cầu nạp điện sét. Sát thương bị động tăng lên 16%.",
+                "13": "Tạo 4 quả cầu nạp điện sét. Sát thương bị động tăng lên 18%.",
+                "14": "Tạo 4 quả cầu nạp điện sét. Sát thương bị động tăng lên 20%.",
+                "15": "Tạo 5 quả cầu nạp điện sét. Sát thương bị động tăng lên 25%. Mỗi quả cầu sét hiện có khiến sát thương tấn công trong hiệp này tăng 5%."
+              },
+              "阶位": "Cơ bản"
+            },
+            "Nạp băng sương": {
+              "名称": "Nạp băng sương",
+              "类型": "Đặc biệt",
+              "描述": "Tạo ra một quả cầu nạp băng sương. Vào cuối mỗi hiệp, nó cung cấp đỡ đòn.",
+              "特殊效果": {
+                "1": "Tạo 1 quả cầu nạp băng sương. Bị động: cuối mỗi hiệp nhận đỡ đòn bằng 5% sinh mệnh tối đa.",
+                "2": "Tạo 1 quả cầu nạp băng sương. Lượng đỡ đòn bị động tăng lên 6%.",
+                "3": "Tạo 1 quả cầu nạp băng sương. Lượng đỡ đòn bị động tăng lên 7%.",
+                "4": "Tạo 1 quả cầu nạp băng sương. Lượng đỡ đòn bị động tăng lên 8%.",
+                "5": "Tạo 2 quả cầu nạp băng sương. Lượng đỡ đòn bị động tăng lên 8%.",
+                "6": "Tạo 2 quả cầu nạp băng sương. Lượng đỡ đòn bị động tăng lên 10%.",
+                "7": "Tạo 2 quả cầu nạp băng sương. Lượng đỡ đòn bị động tăng lên 12%.",
+                "8": "Tạo 2 quả cầu nạp băng sương. Lượng đỡ đòn bị động tăng lên 14%.",
+                "9": "Tạo 3 quả cầu nạp băng sương. Lượng đỡ đòn bị động tăng lên 16%.",
+                "10": "Tạo 3 quả cầu nạp băng sương. Lượng đỡ đòn bị động tăng lên 18%.",
+                "11": "Tạo 3 quả cầu nạp băng sương. Lượng đỡ đòn bị động tăng lên 20%.",
+                "12": "Tạo 4 quả cầu nạp băng sương. Lượng đỡ đòn bị động tăng lên 22%.",
+                "13": "Tạo 4 quả cầu nạp băng sương. Lượng đỡ đòn bị động tăng lên 25%.",
+                "14": "Tạo 4 quả cầu nạp băng sương. Lượng đỡ đòn bị động tăng lên 28%.",
+                "15": "Tạo 5 quả cầu nạp băng sương. Lượng đỡ đòn bị động tăng lên 30%. Mỗi quả cầu băng sương hiện có còn hồi thêm 2% sinh mệnh vào cuối hiệp."
+              },
+              "阶位": "Cơ bản"
+            },
+            "Kích phát kép": {
+              "名称": "Kích phát kép",
+              "类型": "Chủ động",
+              "描述": "Kích phát quả cầu nạp ở ngoài cùng bên phải, khiến hiệu ứng bùng nổ của nó được kích hoạt hai lần.",
+              "特殊效果": {
+                "1": "Kích phát quả cầu nạp ngoài cùng bên phải 2 lần. Cầu sét: gây sát thương bằng 8% sinh mệnh tối đa của mục tiêu; cầu băng sương: nhận 12% đỡ đòn; cầu bóng tối: gây sát thương bằng giá trị tích năng; cầu plasma: mọi sát thương kỹ năng trong hiệp này +10%.",
+                "2": "Hiệu quả tăng lên 10% / 15% đỡ đòn / 12% sát thương.",
+                "3": "Hiệu quả tăng lên 12% / 18% đỡ đòn / 14% sát thương.",
+                "4": "Hiệu quả tăng lên 14% / 21% đỡ đòn / 16% sát thương.",
+                "5": "Hiệu quả tăng lên 16% / 24% đỡ đòn / 18% sát thương.",
+                "6": "Hiệu quả tăng lên 18% / 27% đỡ đòn / 20% sát thương.",
+                "7": "Hiệu quả tăng lên 20% / 30% đỡ đòn / 22% sát thương.",
+                "8": "Hiệu quả tăng lên 22% / 33% đỡ đòn / 25% sát thương.",
+                "9": "Hiệu quả tăng lên 25% / 36% đỡ đòn / 28% sát thương.",
+                "10": "Hiệu quả tăng lên 28% / 40% đỡ đòn / 30% sát thương. Có thể chỉ định kích phát quả cầu nạp ở bất kỳ vị trí nào.",
+                "11": "Hiệu quả tăng lên 32% / 45% đỡ đòn / 35% sát thương.",
+                "12": "Hiệu quả tăng lên 36% / 50% đỡ đòn / 40% sát thương.",
+                "13": "Hiệu quả tăng lên 40% / 55% đỡ đòn / 45% sát thương.",
+                "14": "Hiệu quả tăng lên 45% / 60% đỡ đòn / 50% sát thương.",
+                "15": "Hiệu quả tăng lên 50% / 70% đỡ đòn / 60% sát thương. Sau khi kích phát, quả cầu đó không bị tiêu hao mà chuyển sang trạng thái quá tải (hiệu quả quả cầu +50%, kéo dài 2 hiệp)."
+              },
+              "阶位": "Cơ bản"
+            },
+            "Vuốt điện hồ quang": {
+              "名称": "Vuốt điện hồ quang",
+              "类型": "Chủ động",
+              "描述": "Đòn tấn công bằng móng vuốt quấn điện hồ quang. Mỗi lần sử dụng sẽ vĩnh viễn tăng sát thương của toàn bộ Vuốt điện hồ quang trong trận chiến này.",
+              "特殊效果": {
+                "1": "Gây sát thương sét bằng 3% sinh mệnh tối đa của mục tiêu. Toàn bộ sát thương Vuốt điện hồ quang trong trận này +2%.",
+                "2": "Sát thương tăng lên 4%. Cộng dồn sát thương của móng vuốt +3%.",
+                "3": "Sát thương tăng lên 5%. Cộng dồn sát thương của móng vuốt +4%.",
+                "4": "Sát thương tăng lên 6%. Cộng dồn sát thương của móng vuốt +5%.",
+                "5": "Sát thương tăng lên 7%. Cộng dồn sát thương của móng vuốt +6%.",
+                "6": "Sát thương tăng lên 8%. Cộng dồn sát thương của móng vuốt +7%.",
+                "7": "Sát thương tăng lên 10%. Cộng dồn sát thương của móng vuốt +8%.",
+                "8": "Sát thương tăng lên 12%. Cộng dồn sát thương của móng vuốt +10%.",
+                "9": "Sát thương tăng lên 14%. Cộng dồn sát thương của móng vuốt +12%.",
+                "10": "Sát thương tăng lên 16%. Cộng dồn sát thương của móng vuốt +15%. Mỗi lần sử dụng có 20% xác suất nhận thêm 1 hành động.",
+                "11": "Sát thương tăng lên 18%. Cộng dồn sát thương của móng vuốt +18%. Xác suất nhận thêm hành động tăng lên 30%.",
+                "12": "Sát thương tăng lên 20%. Cộng dồn sát thương của móng vuốt +21%. Xác suất nhận thêm hành động tăng lên 40%.",
+                "13": "Sát thương tăng lên 22%. Cộng dồn sát thương của móng vuốt +25%. Xác suất nhận thêm hành động tăng lên 50%.",
+                "14": "Sát thương tăng lên 25%. Cộng dồn sát thương của móng vuốt +30%. Xác suất nhận thêm hành động tăng lên 60%.",
+                "15": "Sát thương tăng lên 30%. Cộng dồn sát thương của móng vuốt +40%. Chắc chắn nhận thêm 1 hành động. Sau mỗi 3 lần công kích bằng móng vuốt, lần Vuốt điện hồ quang kế tiếp gây sát thương gấp đôi."
+              },
+              "阶位": "Cơ bản"
+            }
+          },
+          "转职": {
+            "Tối ưu tập trung": {
+              "名称": "Tối ưu tập trung",
+              "类型": "Đặc biệt",
+              "描述": "Tối ưu thuật toán lõi của quả cầu nạp, tăng cường cả hiệu quả bị động lẫn hiệu quả kích phát của mọi quả cầu nạp.",
+              "特殊效果": {
+                "1": "Tập trung +1: mọi hiệu quả của quả cầu nạp +10%.",
+                "2": "Tập trung +2: mọi hiệu quả của quả cầu nạp +20%.",
+                "3": "Tập trung +2: mọi hiệu quả của quả cầu nạp +30%.",
+                "4": "Tập trung +3: mọi hiệu quả của quả cầu nạp +40%.",
+                "5": "Tập trung +3: mọi hiệu quả của quả cầu nạp +50%. Vào đầu mỗi hiệp tự động nhận 1 điểm Tập trung (kéo dài 1 hiệp).",
+                "6": "Tập trung +4: mọi hiệu quả của quả cầu nạp +60%.",
+                "7": "Tập trung +4: mọi hiệu quả của quả cầu nạp +70%.",
+                "8": "Tập trung +5: mọi hiệu quả của quả cầu nạp +80%.",
+                "9": "Tập trung +5: mọi hiệu quả của quả cầu nạp +90%.",
+                "10": "Tập trung +6: mọi hiệu quả của quả cầu nạp +100%. Hiệu quả Tập trung được giữ vĩnh viễn, không thể bị xóa bỏ.",
+                "11": "Tập trung +7: mọi hiệu quả của quả cầu nạp +120%.",
+                "12": "Tập trung +8: mọi hiệu quả của quả cầu nạp +150%.",
+                "13": "Tập trung +9: mọi hiệu quả của quả cầu nạp +180%.",
+                "14": "Tập trung +10: mọi hiệu quả của quả cầu nạp +200%.",
+                "15": "Tập trung +12: mọi hiệu quả của quả cầu nạp +250%. Giá trị Tập trung có thể vượt trần, mỗi điểm Tập trung vượt thêm cung cấp 5% cộng thêm hiệu quả quả cầu."
+              },
+              "阶位": "Chuyển nghề"
+            },
+            "Giao thức mở rộng": {
+              "名称": "Giao thức mở rộng",
+              "类型": "Đặc biệt nghề nghiệp",
+              "描述": "Tăng giới hạn số ô quả cầu nạp, cho phép duy trì nhiều quả cầu nạp cùng lúc hơn.",
+              "特殊效果": {
+                "1": "Số ô quả cầu nạp +3."
+              },
+              "阶位": "Chuyển nghề"
+            },
+            "Hình chiếu toàn ký": {
+              "名称": "Hình chiếu toàn ký",
+              "类型": "Chủ động",
+              "描述": "Tạo ra lá chắn hình chiếu toàn ký; hình chiếu sẽ ghi lại và sao chép kỹ năng vừa dùng gần nhất.",
+              "特殊效果": {
+                "1": "Nhận đỡ đòn bằng 5% sinh mệnh tối đa. Hình chiếu ghi lại kỹ năng vừa dùng trước đó, lần sử dụng kế tiếp sẽ tự động sao chép 1 lần với hiệu quả 50%.",
+                "2": "Lượng đỡ đòn tăng lên 8%. Hiệu quả sao chép tăng lên 60%.",
+                "3": "Lượng đỡ đòn tăng lên 10%. Hiệu quả sao chép tăng lên 70%.",
+                "4": "Lượng đỡ đòn tăng lên 12%. Hiệu quả sao chép tăng lên 80%.",
+                "5": "Lượng đỡ đòn tăng lên 15%. Hiệu quả sao chép tăng lên 90%.",
+                "6": "Lượng đỡ đòn tăng lên 18%. Hiệu quả sao chép tăng lên 100%. Hình chiếu có thể ghi lại đồng thời 2 kỹ năng.",
+                "7": "Lượng đỡ đòn tăng lên 20%. Hiệu quả sao chép tăng lên 120%. Cả 2 kỹ năng được ghi lại đều có thể được sao chép.",
+                "8": "Lượng đỡ đòn tăng lên 22%. Hiệu quả sao chép tăng lên 140%. Kỹ năng được sao chép có hiệu quả +20%.",
+                "9": "Lượng đỡ đòn tăng lên 25%. Hiệu quả sao chép tăng lên 160%. Hình chiếu tồn tại liên tục và mỗi hiệp tự động sao chép 1 kỹ năng đã ghi lại.",
+                "10": "Lượng đỡ đòn tăng lên 28%. Hiệu quả sao chép tăng lên 200%. Khi hình chiếu sao chép Vuốt điện hồ quang, lượng cộng dồn sát thương của móng vuốt tăng thêm 50%."
+              },
+              "阶位": "Chuyển nghề"
+            }
+          },
+          "进阶": {
+            "Nạp bóng tối": {
+              "名称": "Nạp bóng tối",
+              "类型": "Đặc biệt",
+              "描述": "Tạo ra một quả cầu nạp bóng tối. Mỗi hiệp nó tích trữ sát thương, khi kích phát sẽ gây lượng sát thương khổng lồ lên kẻ địch có sinh mệnh thấp nhất.",
+              "特殊效果": {
+                "1": "Tạo 1 quả cầu nạp bóng tối. Mỗi hiệp tích năng +6%. Khi kích phát gây sát thương bằng giá trị tích năng.",
+                "2": "Mỗi hiệp tích năng +8%.",
+                "3": "Mỗi hiệp tích năng +10%.",
+                "4": "Mỗi hiệp tích năng +12%. Tích năng ban đầu +10%.",
+                "5": "Tạo 2 quả cầu nạp bóng tối. Mỗi hiệp tích năng +12%.",
+                "6": "Mỗi hiệp tích năng +15%. Khi kích phát, quả cầu bóng tối gây thêm sát thương bằng 20% lượng sinh mệnh đã mất của mục tiêu.",
+                "7": "Mỗi hiệp tích năng +18%.",
+                "8": "Mỗi hiệp tích năng +20%.",
+                "9": "Tạo 3 quả cầu nạp bóng tối. Mỗi hiệp tích năng +20%.",
+                "10": "Mỗi hiệp tích năng +25%. Khi kích phát, quả cầu bóng tối sẽ xử quyết trực tiếp mục tiêu có sinh mệnh thấp hơn 15%."
+              },
+              "阶位": "Nâng cao"
+            },
+            "Lõi plasma": {
+              "名称": "Lõi plasma",
+              "类型": "Đặc biệt",
+              "描述": "Tạo ra một quả cầu nạp plasma. Mỗi hiệp nó cung cấp cộng thêm sát thương.",
+              "特殊效果": {
+                "1": "Tạo 1 quả cầu nạp plasma. Bị động: mọi sát thương kỹ năng mỗi hiệp +5%.",
+                "2": "Cộng thêm sát thương bị động tăng lên 8%.",
+                "3": "Tạo 2 quả cầu plasma. Cộng thêm sát thương bị động 8%.",
+                "4": "Cộng thêm sát thương bị động tăng lên 12%.",
+                "5": "Tạo 2 quả cầu plasma. Cộng thêm sát thương bị động 12%. Khi kích phát, sát thương trong hiệp này tăng thêm 15%.",
+                "6": "Cộng thêm sát thương bị động tăng lên 16%.",
+                "7": "Tạo 3 quả cầu plasma. Cộng thêm sát thương bị động 16%.",
+                "8": "Cộng thêm sát thương bị động tăng lên 20%.",
+                "9": "Tạo 3 quả cầu plasma. Cộng thêm sát thương bị động 20%.",
+                "10": "Cộng thêm sát thương bị động tăng lên 25%. Số lượng quả cầu plasma không còn ảnh hưởng tới trần sát thương; mỗi quả cầu plasma cung cấp thêm 5% sát thương kỹ năng."
+              },
+              "阶位": "Nâng cao"
+            },
+            "Điện động học": {
+              "名称": "Điện động học",
+              "类型": "Chủ động",
+              "描述": "Kích hoạt trường điện động học, khiến quả cầu nạp điện sét đồng thời tấn công toàn bộ kẻ địch.",
+              "特殊效果": {
+                "1": "Tiến vào trạng thái [Điện động học], kéo dài 3 hiệp. Quả cầu nạp điện sét tấn công toàn bộ kẻ địch cùng lúc, sát thương không đổi.",
+                "2": "Thời gian kéo dài tăng lên 4 hiệp. Sát thương sét +10%.",
+                "3": "Thời gian kéo dài tăng lên 5 hiệp. Sát thương sét +20%.",
+                "4": "Thời gian kéo dài tăng lên 6 hiệp. Sát thương sét +30%.",
+                "5": "Thời gian kéo dài tăng lên 7 hiệp. Sát thương sét +40%. Mỗi lần sét đánh còn gắn thêm 1 tầng [Cảm điện] (mỗi tầng khiến mục tiêu phải chịu thêm 5% sát thương).",
+                "6": "Thời gian kéo dài tăng lên 8 hiệp. Sát thương sét +50%. [Cảm điện] có thể cộng dồn tối đa 3 tầng.",
+                "7": "Thời gian kéo dài tăng lên 10 hiệp. Sát thương sét +60%. [Cảm điện] có thể cộng dồn tối đa 5 tầng. Trong trạng thái Điện động học, mỗi lần kích phát một quả cầu sét còn gây thêm 1 lần sát thương diện rộng."
+              },
+              "阶位": "Nâng cao"
+            }
+          },
+          "必杀": {
+            "Sấm dậy ngàn quân": {
+              "名称": "Sấm dậy ngàn quân",
+              "类型": "Chủ động",
+              "描述": "Kích phát toàn bộ quả cầu nạp điện sét, giáng đòn hủy diệt lên toàn bộ kẻ địch.",
+              "特殊效果": {
+                "1": "Kích phát toàn bộ quả cầu nạp điện sét, mỗi quả gây sát thương sét diện rộng bằng 8% sinh mệnh tối đa của mục tiêu.",
+                "2": "Sát thương của mỗi quả cầu sét tăng lên 10%.",
+                "3": "Sát thương của mỗi quả cầu sét tăng lên 12%.",
+                "4": "Sát thương của mỗi quả cầu sét tăng lên 14%. Sau khi kích phát sẽ giữ lại một nửa số quả cầu sét.",
+                "5": "Sát thương của mỗi quả cầu sét tăng lên 16%. Sau khi kích phát giữ lại toàn bộ quả cầu sét.",
+                "6": "Sát thương của mỗi quả cầu sét tăng lên 18%. Sau khi kích phát, sát thương của toàn bộ quả cầu sét tăng vĩnh viễn 10%.",
+                "7": "Sát thương của mỗi quả cầu sét tăng lên 20%. Sau khi kích phát, sát thương của toàn bộ quả cầu sét tăng vĩnh viễn 20%. Mỗi trận chiến có thể dùng kỹ năng này 2 lần."
+              },
+              "阶位": "Tất sát"
+            },
+            "Liên kích quá tải": {
+              "名称": "Liên kích quá tải",
+              "类型": "Chủ động",
+              "描述": "Quá tải năng lượng lõi, liên tục giải phóng Vuốt điện hồ quang để tạo bùng nổ sát thương.",
+              "特殊效果": {
+                "1": "Gây sát thương bằng 12% sinh mệnh tối đa của mục tiêu. Lập tức nhận 2 cơ hội thi triển Vuốt điện hồ quang bổ sung, không tính vào số lần hành động.",
+                "2": "Sát thương tăng lên 15%. Nhận 2 lần Vuốt điện hồ quang bổ sung.",
+                "3": "Sát thương tăng lên 18%. Nhận 3 lần Vuốt điện hồ quang bổ sung.",
+                "4": "Sát thương tăng lên 20%. Nhận 3 lần Vuốt điện hồ quang bổ sung, các đòn đó gây thêm 30% sát thương.",
+                "5": "Sát thương tăng lên 25%. Nhận 4 lần Vuốt điện hồ quang bổ sung, sát thương +50%.",
+                "6": "Sát thương tăng lên 30%. Nhận 5 lần Vuốt điện hồ quang bổ sung, sát thương +50%. Mỗi trận chiến có thể dùng kỹ năng này 2 lần.",
+                "7": "Sát thương tăng lên 35%. Nhận 6 lần Vuốt điện hồ quang bổ sung, sát thương +100%. Toàn bộ đòn Vuốt điện hồ quang bổ sung chắc chắn bạo kích."
+              },
+              "阶位": "Tất sát"
+            },
+            "Hình thái hồi âm": {
+              "名称": "Hình thái hồi âm",
+              "类型": "Triệu hồi",
+              "描述": "Tiến vào hình thái hồi âm; các kỹ năng lõi sẽ tự động lặp lại lần nữa khi phóng thích.",
+              "召唤物名称": "Lõi hồi âm",
+              "特殊效果": {
+                "1": "Tiến vào [Hình thái hồi âm], kéo dài 3 hiệp. Kỹ năng đầu tiên thi triển trong mỗi hiệp tự động có hiệu lực hai lần.",
+                "2": "Thời gian kéo dài tăng lên 4 hiệp.",
+                "3": "Thời gian kéo dài tăng lên 5 hiệp. Kỹ năng thứ hai có 30% xác suất có hiệu lực hai lần.",
+                "4": "Thời gian kéo dài tăng lên 6 hiệp. Kỹ năng thứ hai có 50% xác suất có hiệu lực hai lần.",
+                "5": "Thời gian kéo dài tăng lên 7 hiệp. Hai kỹ năng đầu tiên chắc chắn có hiệu lực hai lần.",
+                "6": "Thời gian kéo dài tăng lên 8 hiệp. Hai kỹ năng đầu tiên chắc chắn có hiệu lực hai lần, kỹ năng thứ ba có 50% xác suất.",
+                "7": "Thời gian kéo dài tăng lên 10 hiệp. Ba kỹ năng đầu tiên chắc chắn có hiệu lực hai lần, đồng thời mọi hiệu quả quả cầu nạp +30%."
+              },
+              "阶位": "Tất sát"
+            }
+          },
+          "奥义": {
+            "Tính toán siêu tần": {
+              "名称": "Tính toán siêu tần",
+              "类型": "Chủ động",
+              "描述": "Đổi lấy bùng nổ hành động cực hạn bằng cái giá là bị thiêu đốt.",
+              "特殊效果": {
+                "1": "Lập tức nhận 2 hành động bổ sung. Bản thân chịu sát thương thiêu đốt bằng 5% sinh mệnh tối đa.",
+                "2": "Nhận 2 hành động bổ sung. Sát thương thiêu đốt tăng lên 6%.",
+                "3": "Nhận 3 hành động bổ sung. Sát thương thiêu đốt tăng lên 7%.",
+                "4": "Nhận 3 hành động bổ sung. Sát thương thiêu đốt tăng lên 8%. Mọi sát thương kỹ năng +20%.",
+                "5": "Nhận 4 hành động bổ sung. Sát thương thiêu đốt tăng lên 10%. Mọi sát thương kỹ năng +50%; trong hiệp này, mỗi lần gây sát thương sẽ hồi cho bản thân 1% sinh mệnh tối đa."
+              },
+              "阶位": "Áo nghĩa"
+            },
+            "Đòn đánh phá băng": {
+              "名称": "Đòn đánh phá băng",
+              "类型": "Chủ động",
+              "描述": "Tiêu hao toàn bộ quả cầu nạp băng sương, dựa trên số lượng tiêu hao để gây sát thương khổng lồ và đóng băng kẻ địch.",
+              "特殊效果": {
+                "1": "Tiêu hao toàn bộ quả cầu băng sương; mỗi quả cầu gây sát thương bằng 8% sinh mệnh tối đa của mục tiêu và gắn [Đóng băng] khiến mục tiêu không thể hành động trong hiệp kế tiếp.",
+                "2": "Sát thương của mỗi quả cầu băng sương tăng lên 10%. [Đóng băng] kéo dài 2 hiệp.",
+                "3": "Sát thương của mỗi quả cầu băng sương tăng lên 12%. [Đóng băng] kéo dài 2 hiệp, mục tiêu bị đóng băng phải chịu thêm 30% sát thương.",
+                "4": "Sát thương của mỗi quả cầu băng sương tăng lên 15%. [Đóng băng] kéo dài 3 hiệp.",
+                "5": "Sát thương của mỗi quả cầu băng sương tăng lên 18%. [Đóng băng] kéo dài 3 hiệp, mục tiêu bị đóng băng không thể nhận bất kỳ tăng ích nào."
+              },
+              "阶位": "Áo nghĩa"
+            },
+            "Tiến hóa thông minh": {
+              "名称": "Tiến hóa thông minh",
+              "类型": "Đặc biệt",
+              "描述": "Trí tuệ lõi không ngừng học hỏi mô thức chiến đấu, mỗi hiệp nhận lợi thế chiến thuật mới và giữ lại vĩnh viễn.",
+              "特殊效果": {
+                "1": "Vào đầu mỗi hiệp, ngẫu nhiên nhận 1 tăng ích vĩnh viễn (Tập trung +1 / giới hạn đỡ đòn +5% / sát thương sét +5%).",
+                "2": "Hiệu quả tăng ích tăng 50%. Mỗi hiệp có thể giữ lại 2 tăng ích.",
+                "3": "Hiệu quả tăng ích tăng 100%. Mỗi hiệp có thể giữ lại 3 tăng ích, các tăng ích có thể cộng dồn.",
+                "4": "Hiệu quả tăng ích tăng 150%. Có thể chỉ định nhận tăng ích liên quan tới quả cầu nạp.",
+                "5": "Vào đầu mỗi hiệp nhận 2 tăng ích vĩnh viễn, hiệu quả tăng 200%. Trong trạng thái Tiến hóa thông minh, toàn bộ quả cầu nạp tự động nâng cấp 1 lần mỗi hiệp (hiệu quả +5%)."
+              },
+              "阶位": "Áo nghĩa"
+            }
+          },
+          "觉醒一": {
+            "Lõi quá tải": {
+              "名称": "Lõi quá tải",
+              "类型": "Chủ động",
+              "阶位": "Thức tỉnh một",
+              "描述": "Giải phóng toàn bộ năng lượng của lõi, tiến vào chế độ quá tải, khiến mọi hiệu ứng quả cầu nạp tăng vọt.",
+              "特殊效果": {
+                "1": "Tiến vào [Chế độ quá tải], kéo dài 5 hiệp. Mọi hiệu quả quả cầu nạp +100%; số ô quả cầu nạp tăng gấp đôi; vào đầu mỗi hiệp tự động tạo 1 quả cầu nạp ngẫu nhiên; mỗi lần kích phát một quả cầu sẽ nhận thêm 5% cộng thêm sát thương tạm thời.",
+                "2": "Thời gian kéo dài tăng lên 7 hiệp. Hiệu quả quả cầu +150%; mỗi hiệp tạo 2 quả cầu ngẫu nhiên; mỗi lần kích phát quả cầu nhận 8% cộng thêm sát thương; trong chế độ quá tải miễn nhiễm toàn bộ trạng thái bất lợi.",
+                "3": "Thời gian kéo dài tăng lên 10 hiệp. Hiệu quả quả cầu +200%; mỗi hiệp tạo 3 quả cầu ngẫu nhiên; mỗi lần kích phát quả cầu nhận 12% cộng thêm sát thương; khi quá tải kết thúc, gây lên toàn bộ kẻ địch lượng sát thương bằng tổng số quả cầu đã kích phát trong trận chiến nhân 10%."
+              }
+            }
+          },
+          "觉醒二": {
+            "Hình thái hoàn mỹ": {
+              "名称": "Hình thái hoàn mỹ",
+              "类型": "Đặc biệt",
+              "阶位": "Thức tỉnh hai",
+              "描述": "Đạt tới đỉnh điểm tiến hóa máy móc, khiến mọi năng lực bị động có hiệu lực ngay từ đầu trận, hoàn thành khởi động tức thì.",
+              "特殊效果": {
+                "1": "Khi trận chiến bắt đầu, 3 kỹ năng quả cầu nạp ngẫu nhiên tự động có hiệu lực. Cuối mỗi hiệp, 1 kỹ năng quả cầu nạp ngẫu nhiên tự động có hiệu lực. Mọi hiệu quả quả cầu nạp +30%.",
+                "2": "Khi trận chiến bắt đầu, 5 kỹ năng quả cầu nạp ngẫu nhiên tự động có hiệu lực. Cuối mỗi hiệp, 2 kỹ năng quả cầu nạp ngẫu nhiên tự động có hiệu lực. Mọi hiệu quả quả cầu nạp +50%. Có thể chủ động chọn 1 loại quả cầu nạp để tự động tạo 3 quả ngay từ đầu trận."
+              }
+            }
+          },
+          "觉醒三": {
+            "Giao thức sáng thế": {
+              "名称": "Giao thức sáng thế",
+              "类型": "Đặc biệt",
+              "阶位": "Thức tỉnh ba",
+              "描述": "Chạm tới giao thức lõi của đấng sáng tạo. Viết lại quy tắc chiến đấu, đẩy hệ quả cầu nạp tới cực hạn.",
+              "特殊效果": {
+                "1": "Mỗi trận chiến 1 lần. Chọn một hiệu ứng: 1. [Hệ cầu vô hạn] - số ô quả cầu nạp không có giới hạn, đầu mỗi hiệp lấp đầy toàn bộ ô trống; 2. [Viết lại pháp tắc] - mọi quả cầu nạp đồng thời sở hữu cả bốn hiệu ứng sét, băng sương, bóng tối và plasma; 3. [Mạch lặp vĩnh hằng] - sau khi kích phát, quả cầu nạp không biến mất mà chỉ đặt lại hiệu quả bị động; 4. [Giao thức quá tải] - chuyển toàn bộ quả cầu nạp thành cộng thêm sát thương, mỗi quả cầu cung cấp 50% cộng thêm sát thương cho tới khi chiến đấu kết thúc; 5. [Khởi động lại] - đặt lại toàn bộ dữ liệu của trận chiến hiện tại và bắt đầu lại trận chiến."
+              }
+            }
+          }
+        }
+      },
+      "skillFlavorInput": "Quả cầu nạp / Tập trung / Móng vuốt / Quá tải",
+      "teammates": [],
+      "customTeammate": null,
+      "selectedTraits": [],
+      "customTraits": [
+        {
+          "name": "Lõi hư hại",
+          "effect": "Khi chiến đấu bắt đầu, tự động tạo 1 quả cầu nạp điện sét. Lần đầu tiên kích phát quả cầu nạp trong mỗi trận chiến, hiệu quả tăng 50%."
+        },
+        {
+          "name": "Tính thích ứng cơ giới",
+          "effect": "Mỗi lần chịu sát thương, nhận 1 tầng [Thích ứng] (mỗi tầng cung cấp 2% giảm sát thương, cộng dồn tối đa 10 tầng). Khi trận chiến kết thúc, nếu sinh mệnh thấp hơn 30%, tự động sửa chữa 20% sinh mệnh tối đa."
+        },
+        {
+          "name": "Chương trình dư thừa",
+          "effect": "Trước hành động đầu tiên của mỗi hiệp, nếu số lượng quả cầu nạp thấp hơn 3, nhận thêm 1 quả cầu nạp ngẫu nhiên. Mỗi trận chiến có thể kích hoạt 3 lần."
+        }
+      ],
+      "customExpertise": [],
+      "customIdentity": {
+        "enabled": true,
+        "name": "Cơ thể máy móc tự động",
+        "desc": "Một sinh mệnh máy móc không ngừng tự cải tạo bản thân. Năng lượng lõi thúc đẩy công nghệ quả cầu nạp, cho phép nó tối ưu chương trình theo thời gian thực trong chiến đấu. Nó đang tìm kiếm vị kiến trúc sư đã tạo ra mình, hy vọng nhận được lời giải đáp và sự sửa chữa cuối cùng.",
+        "tierIndex": 0
+      },
+      "selectedOpening": "custom",
+      "customOpeningText": "Lõi khởi động. Tự kiểm tra hệ thống hoàn tất. Lõi hư hại đang trực tuyến. Ô quả cầu nạp đã sẵn sàng. “Mục tiêu: leo lên tòa tháp. Tìm kiếm kiến trúc sư.” Đôi mắt máy lóe lên hồ quang màu lam, rồi bạn bước vào bóng tối của Đại Hồi Lang Sáng Thế.",
+      "selectedDifficulty": "easy",
+      "customRace": {
+        "enabled": true,
+        "name": "Máy móc tự động",
+        "trait1": {
+          "name": "Hệ quả cầu nạp",
+          "detail": "Sở hữu 3 ô quả cầu nạp ban đầu. Có thể tạo bốn loại quả cầu nạp: sét (sát thương), băng sương (đỡ đòn), bóng tối (tích trữ rồi bùng nổ), plasma (cộng thêm sát thương). Mỗi quả cầu nạp tồn tại sẽ khiến mọi sát thương tăng 2%. Thuộc tính Tập trung có thể tăng cường hiệu quả của quả cầu nạp.",
+          "negative": false
+        },
+        "trait2": {
+          "name": "Tự sửa chữa",
+          "detail": "Khi không ở trong chiến đấu, tự động hồi phục 5% sinh mệnh tối đa mỗi hiệp. Khi dùng kỹ năng loại [Sửa chữa] trong chiến đấu, hiệu quả tăng 50%. Khi chết, nếu trên sân còn quả cầu nạp, có thể tiêu hao toàn bộ quả cầu nạp để hồi sinh với 20% sinh mệnh (mỗi trận chỉ 1 lần).",
+          "negative": false
+        }
+      }
+    }
+  }
+}

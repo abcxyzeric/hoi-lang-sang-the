@@ -1,0 +1,39 @@
+{
+  "ok": true,
+  "preset": {
+    "id": "72308d87-5b8e-4b79-b738-91cb8b8f77f9",
+    "ownerId": "1364165618160373814",
+    "ownerName": "diedoro",
+    "author": "diedoro",
+    "authorAvatar": "https://cdn.discordapp.com/avatars/1364165618160373814/03f4528e6d28090d930f7dde4951220a.png?size=128",
+    "name": "Amon",
+    "title": "Amon",
+    "intro": "Vẫn chưa thử nghiệm qua.",
+    "coverUrl": "/api/presets/72308d87-5b8e-4b79-b738-91cb8b8f77f9/cover",
+    "className": "Lữ giả quỷ bí · Amon",
+    "race": "Trùng của thời gian",
+    "tags": [
+      "Diễn trò"
+    ],
+    "likes": 2,
+    "liked": false,
+    "downloads": 61,
+    "status": "published",
+    "createdAt": "2026-03-26 17:19:16",
+    "updatedAt": "2026-05-21 10:34:24",
+    "lastLikedAt": "",
+    "presetData": {
+      "name": "Amon",
+      "class": "Lữ giả quỷ bí · Amon",
+      "customClassName": "Lữ giả quỷ bí · Amon",
+      "race": "__custom__",
+      "customRace": {
+        "name": "Trùng của thời gian"
+      },
+      "customClassStyle": "Trộm cắp vận mệnh, lừa dối quy tắc, đùa bỡn nhân quả",
+      "backstory": "Con trai của Thái Dương Thần cổ xưa, kẻ báng bổ thần linh, hiện thân của lừa dối và trò đùa ác ý. Là tập hợp của \"Trùng của thời gian\", Amon nắm giữ quyền bính của sai lầm và quỷ bí. Trong bóng tối của Nguyên Bảo, hắn dõi theo mọi tồn tại muốn nhìn trộm vận mệnh. Hắn là tồn tại vượt trên các trình tự của con đường \"Kẻ trộm\", nắm giữ tính duy nhất của \"Sai lầm\". Hắn thích đeo kính một tròng, thích thì thầm bên tai con mồi, thích ngắm vẻ mặt kinh hoàng của chúng. Giữa cơn hỗn loạn khi Disbode và Arad hòa làm một, Amon đã ngửi thấy niềm vui mới - quy tắc của thế giới này, minh ước của thế giới này, và cả \"trò chơi\" nơi đây, tất cả đều trở thành món đồ chơi mới của hắn.",
+      "selectedCustomLevel": null
+    },
+    "downloadUrl": "/api/presets/72308d87-5b8e-4b79-b738-91cb8b8f77f9/file"
+  }
+}

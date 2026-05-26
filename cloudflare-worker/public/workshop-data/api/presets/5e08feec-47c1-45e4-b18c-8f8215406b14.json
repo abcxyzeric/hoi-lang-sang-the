@@ -1,0 +1,43 @@
+{
+  "ok": true,
+  "preset": {
+    "id": "5e08feec-47c1-45e4-b18c-8f8215406b14",
+    "ownerId": "960788675661279233",
+    "ownerName": "suhaichensi",
+    "author": "suhaichensi",
+    "authorAvatar": "https://cdn.discordapp.com/avatars/960788675661279233/ca1fe8aea343657f63d1bd9d2cffc2c2.png?size=128",
+    "name": "【Con Đường Bình Phàm】",
+    "title": "【Con Đường Bình Phàm】",
+    "intro": "——\nKhông phải người của thế giới này, mà là lữ khách đi qua vạn giới.\nĐã mất ký ức, chỉ còn những mảnh vụn mơ hồ rời rạc; không biết mình từ đâu đến, cũng không biết sẽ đi về đâu.\nĐược mời tham gia trò chơi của Tetto.\nHãy kết nên những ràng buộc chỉ thuộc về bạn và tìm ra ý nghĩa tồn tại của chính mình.\n——\nNhãn: tu chân, võ hiệp\n\n\n3.28\n4.29",
+    "coverUrl": "/api/presets/5e08feec-47c1-45e4-b18c-8f8215406b14/cover",
+    "className": "“Con Đường Bình Phàm”",
+    "race": "Chủng nghịch lý",
+    "tags": [
+      "Chỉ số",
+      "Bộc phát",
+      "Triệu hồi",
+      "Dọn quái",
+      "Sinh tồn"
+    ],
+    "likes": 26,
+    "liked": false,
+    "downloads": 330,
+    "status": "published",
+    "createdAt": "2026-03-16 17:00:16",
+    "updatedAt": "2026-05-24 18:35:00",
+    "lastLikedAt": "",
+    "presetData": {
+      "name": "Nguyên Thấm",
+      "class": "“Con Đường Bình Phàm”",
+      "customClassName": "“Con Đường Bình Phàm”",
+      "race": "__custom__",
+      "customRace": {
+        "name": "Chủng nghịch lý"
+      },
+      "customClassStyle": "",
+      "backstory": "",
+      "selectedCustomLevel": null
+    },
+    "downloadUrl": "/api/presets/5e08feec-47c1-45e4-b18c-8f8215406b14/file"
+  }
+}

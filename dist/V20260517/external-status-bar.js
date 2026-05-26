@@ -3129,7 +3129,12 @@ ${lockedSkillsJson}
   };
 
   const getCurrentWorldView = (data) => String(data?.Cấu_hình_hệ_thống?.Thế_giới_quan || '').trim();
-  const isAmberSwordWorldView = (data) => getCurrentWorldView(data) === 'Thanh_kiếm_Hổ_Phách';
+  const normalizeWorldViewLabel = (value) =>
+    String(value || '').trim().replace(/_/g, ' ').replace(/\s+/g, ' ').toLowerCase();
+  const isAmberSwordWorldView = (data) => {
+    const worldview = normalizeWorldViewLabel(getCurrentWorldView(data));
+    return worldview === 'thanh kiếm hổ phách' || worldview === 'kiếm hổ phách';
+  };
 
   // Dựng nội dung vũ khí theo phong cách Fusion: hiển thị xúc xắc sát thương và bảng cơ bản.
   const buildFusionWeaponContent = (data, options = {}) => {

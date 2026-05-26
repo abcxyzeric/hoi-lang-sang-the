@@ -1,0 +1,40 @@
+{
+  "ok": true,
+  "preset": {
+    "id": "4e3e1776-8706-48a2-b3f5-03aa334f9dad",
+    "ownerId": "1477313807620640912",
+    "ownerName": "ALU01",
+    "author": "ALU01",
+    "authorAvatar": "",
+    "name": "Lính Đổ Bộ Địa Ngục",
+    "title": "Lính Đổ Bộ Địa Ngục",
+    "intro": "Vì Siêu Trái Đất! Khoan đã, đây là đâu?",
+    "coverUrl": "/api/presets/4e3e1776-8706-48a2-b3f5-03aa334f9dad/cover",
+    "className": "Lính Đổ Bộ Địa Ngục",
+    "race": "Nhân loại Siêu Trái Đất",
+    "tags": [
+      "Trò lạ",
+      "Dọn quái"
+    ],
+    "likes": 4,
+    "liked": false,
+    "downloads": 22,
+    "status": "published",
+    "createdAt": "2026-03-31 02:24:39",
+    "updatedAt": "2026-05-17 06:02:04",
+    "lastLikedAt": "",
+    "presetData": {
+      "name": "Sweet Liberty",
+      "class": "Lính Đổ Bộ Địa Ngục",
+      "customClassName": "Lính Đổ Bộ Địa Ngục",
+      "race": "__custom__",
+      "customRace": {
+        "name": "Nhân loại Siêu Trái Đất"
+      },
+      "customClassStyle": "Giỏi phá hoại sau tuyến địch và tác chiến đặc nhiệm. Ở Siêu Trái Đất, họ là lực lượng đổ bộ quỹ đạo chuyên thực hiện nhiệm vụ xung kích; nhưng tại dị giới, vì không có siêu khu trục hạm của hải quân Siêu Trái Đất nên không có năng lực thả dù. Với những “dị tộc” có ngoại hình không giống nhân loại, họ giữ cảnh giác rất cao, thậm chí có thái độ thù địch.",
+      "backstory": "",
+      "selectedCustomLevel": null
+    },
+    "downloadUrl": "/api/presets/4e3e1776-8706-48a2-b3f5-03aa334f9dad/file"
+  }
+}

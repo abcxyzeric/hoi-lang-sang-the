@@ -1,0 +1,39 @@
+{
+  "ok": true,
+  "preset": {
+    "id": "6162782d-2110-43d2-abae-48538a3399cd",
+    "ownerId": "1365397335689134110",
+    "ownerName": "icebergalone",
+    "author": "icebergalone",
+    "authorAvatar": "https://cdn.discordapp.com/avatars/1365397335689134110/192704b14386b47995b731bda5c33043.png?size=128",
+    "name": "「Bậc Thầy Rối」",
+    "title": "「Bậc Thầy Rối」",
+    "intro": "Triệu hồi rối, chỉ huy rối chiến đấu, đồng thời cũng có thể hỗ trợ các đồng đội khác trong đội. Đây là dạng nửa triệu hồi sư, nửa hỗ trợ.",
+    "coverUrl": "/api/presets/6162782d-2110-43d2-abae-48538a3399cd/cover",
+    "className": "Bậc Thầy Rối",
+    "race": "Nhân loại chủng",
+    "tags": [
+      "Triệu hồi",
+      "Đơn mục tiêu",
+      "Hỗ trợ"
+    ],
+    "likes": 4,
+    "liked": false,
+    "downloads": 38,
+    "status": "published",
+    "createdAt": "2026-03-30 22:10:53",
+    "updatedAt": "2026-05-25 07:11:10",
+    "lastLikedAt": "",
+    "presetData": {
+      "name": "「Bậc Thầy Rối」",
+      "class": "Bậc Thầy Rối",
+      "customClassName": "Bậc Thầy Rối",
+      "race": "Nhân loại chủng",
+      "customRace": null,
+      "customClassStyle": "Dùng tơ sợi để dệt rối chiến đấu, đồng thời thông qua chỉ lệnh để tăng cường thực lực cho đồng đội.",
+      "backstory": "",
+      "selectedCustomLevel": 1
+    },
+    "downloadUrl": "/api/presets/6162782d-2110-43d2-abae-48538a3399cd/file"
+  }
+}

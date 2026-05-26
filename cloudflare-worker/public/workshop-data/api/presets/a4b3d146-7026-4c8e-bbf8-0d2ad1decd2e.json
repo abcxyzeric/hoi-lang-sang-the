@@ -1,0 +1,35 @@
+{
+  "ok": true,
+  "preset": {
+    "id": "a4b3d146-7026-4c8e-bbf8-0d2ad1decd2e",
+    "ownerId": "896366791150952499",
+    "ownerName": "bllmmomo",
+    "author": "bllmmomo",
+    "authorAvatar": "https://cdn.discordapp.com/avatars/896366791150952499/494535aaf709e7a651a771a89f570d40.png?size=128",
+    "name": "Thái Đao Hiệp",
+    "title": "Thái Đao Hiệp",
+    "intro": "Thợ săn sử dụng thanh thái đao khổng lồ để săn đủ loại quái vật. Sở trường là lấy thanh khí nhận làm cơ chế cốt lõi để triển khai thế công liên miên không dứt, giỏi truy kích và phản kích trong cận chiến.",
+    "coverUrl": "/api/presets/a4b3d146-7026-4c8e-bbf8-0d2ad1decd2e/cover",
+    "className": "Thợ Săn Quái Vật - Thái Đao",
+    "race": "Nhân loại chủng",
+    "tags": [],
+    "likes": 0,
+    "liked": false,
+    "downloads": 7,
+    "status": "published",
+    "createdAt": "2026-05-03 19:51:22",
+    "updatedAt": "2026-05-25 02:11:04",
+    "lastLikedAt": "",
+    "presetData": {
+      "name": "Thái Đao Hiệp",
+      "class": "Thợ Săn Quái Vật - Thái Đao",
+      "customClassName": "Thợ Săn Quái Vật - Thái Đao",
+      "race": "Nhân loại chủng",
+      "customRace": null,
+      "customClassStyle": "Thợ săn sử dụng thanh thái đao khổng lồ để săn đủ loại quái vật. Sở trường là lấy thanh khí nhận làm cơ chế cốt lõi để triển khai thế công liên miên không dứt, giỏi truy kích và phản kích trong cận chiến.\n",
+      "backstory": "",
+      "selectedCustomLevel": null
+    },
+    "downloadUrl": "/api/presets/a4b3d146-7026-4c8e-bbf8-0d2ad1decd2e/file"
+  }
+}

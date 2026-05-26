@@ -1,0 +1,39 @@
+{
+  "ok": true,
+  "preset": {
+    "id": "111a8df2-37fa-437c-89f4-1422e6567681",
+    "ownerId": "1466649975227154432",
+    "ownerName": "lianka",
+    "author": "lianka",
+    "authorAvatar": "https://cdn.discordapp.com/avatars/1466649975227154432/353c96e5e420daa07dff605dae22ad29.png?size=128",
+    "name": "Rút Đao",
+    "title": "Rút Đao",
+    "intro": "Lưu phái rút đao thuần chính, không có cơ chế quá phức tạp; chỉ số đã cân bằng, phù hợp với người muốn trải nghiệm trò chơi bình thường.",
+    "coverUrl": "/api/presets/111a8df2-37fa-437c-89f4-1422e6567681/cover",
+    "className": "Kiếm khách rút đao",
+    "race": "Nhân loại chủng",
+    "tags": [
+      "Bộc phát",
+      "Đơn mục tiêu",
+      "Cơ chế"
+    ],
+    "likes": 7,
+    "liked": false,
+    "downloads": 206,
+    "status": "published",
+    "createdAt": "2026-03-15 15:41:30",
+    "updatedAt": "2026-05-25 01:58:49",
+    "lastLikedAt": "",
+    "presetData": {
+      "name": "Vas",
+      "class": "Kiếm khách rút đao",
+      "customClassName": "Kiếm khách rút đao",
+      "race": "Nhân loại chủng",
+      "customRace": null,
+      "customClassStyle": "",
+      "backstory": "",
+      "selectedCustomLevel": 1
+    },
+    "downloadUrl": "/api/presets/111a8df2-37fa-437c-89f4-1422e6567681/file"
+  }
+}

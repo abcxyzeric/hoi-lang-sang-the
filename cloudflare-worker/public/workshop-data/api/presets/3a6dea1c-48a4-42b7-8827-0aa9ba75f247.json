@@ -1,0 +1,41 @@
+{
+  "ok": true,
+  "preset": {
+    "id": "3a6dea1c-48a4-42b7-8827-0aa9ba75f247",
+    "ownerId": "1364165618160373814",
+    "ownerName": "diedoro",
+    "author": "diedoro",
+    "authorAvatar": "https://cdn.discordapp.com/avatars/1364165618160373814/03f4528e6d28090d930f7dde4951220a.png?size=128",
+    "name": "Yogg-Saron",
+    "title": "Yogg-Saron",
+    "intro": "Cần phối hợp sử dụng cùng bể pháp thuật mở rộng của Yogg-Saron.",
+    "coverUrl": "/api/presets/3a6dea1c-48a4-42b7-8827-0aa9ba75f247/cover",
+    "className": "Ác Ma Ngàn Miệng · Yogg-Saron",
+    "race": "Cựu Thần",
+    "tags": [
+      "Dọn quái",
+      "Tấu hài cơ chế",
+      "Bộc phát"
+    ],
+    "likes": 2,
+    "liked": false,
+    "downloads": 7,
+    "status": "published",
+    "createdAt": "2026-03-30 06:13:03",
+    "updatedAt": "2026-05-24 05:57:01",
+    "lastLikedAt": "",
+    "presetData": {
+      "name": "Yogg-Saron",
+      "class": "Ác Ma Ngàn Miệng · Yogg-Saron",
+      "customClassName": "Ác Ma Ngàn Miệng · Yogg-Saron",
+      "race": "__custom__",
+      "customRace": {
+        "name": "Cựu Thần"
+      },
+      "customClassStyle": "Pháp thuật ngẫu nhiên, thao túng số mệnh, dệt sự điên loạn",
+      "backstory": "Ác Ma Ngàn Miệng, kẻ dệt số mệnh và điên loạn. Sinh ra trong hư không, cùng Y'Shaarj, N'Zoth và C'Thun được gọi là Cựu Thần. Yogg-Saron bị Titan phong ấn trong nhà tù dưới lòng Northrend, nhưng tiếng thì thầm của hắn chưa bao giờ dừng lại. Hắn không cần mắt, vì hắn có vô số cái miệng đang rì rầm; hắn không cần tay, vì hắn có vô số xúc tu đang dệt nên những sợi chỉ số mệnh. Mỗi ý nghĩ điên loạn đều là con nối dõi của hắn, mỗi viên xúc xắc được tung ra đều là lời thì thầm của hắn. Trong hỗn mang nơi Disboard và Arad hòa nhập, Yogg-Saron ngửi thấy món đồ chơi mới: những chủng tộc tự cho rằng mình có thể quyết định số mệnh bằng \"trò chơi\", thực ra chỉ là con rối nhảy múa trong lòng bàn tay hắn.",
+      "selectedCustomLevel": null
+    },
+    "downloadUrl": "/api/presets/3a6dea1c-48a4-42b7-8827-0aa9ba75f247/file"
+  }
+}

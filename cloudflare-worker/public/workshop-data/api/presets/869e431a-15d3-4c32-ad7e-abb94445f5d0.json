@@ -1,0 +1,41 @@
+{
+  "ok": true,
+  "preset": {
+    "id": "869e431a-15d3-4c32-ad7e-abb94445f5d0",
+    "ownerId": "1485647689151414377",
+    "ownerName": "Tôi Không Muốn Đi Làm",
+    "author": "Tôi Không Muốn Đi Làm",
+    "authorAvatar": "https://cdn.discordapp.com/avatars/1485647689151414377/3a1e2ad03822b82463aaeeb6d91cd5fe.png?size=128",
+    "name": "Drakania",
+    "title": "Drakania",
+    "intro": "Dùng trường thương và trọng kỵ thương làm vũ khí, hoàn toàn thích phối với Vũ Trang Song Cực. Các nhóm kỹ năng liên kết qua lại với nhau, càng đánh càng mạnh.\nNguyên mẫu tham khảo Drakania - Thức tỉnh trong Black Desert.",
+    "coverUrl": "/api/presets/869e431a-15d3-4c32-ad7e-abb94445f5d0/cover",
+    "className": "Phá Quang",
+    "race": "Nhân loại chủng",
+    "tags": [
+      "Bộc phát",
+      "Duy trì",
+      "Dọn quái",
+      "Đơn mục tiêu",
+      "Drakania"
+    ],
+    "likes": 1,
+    "liked": false,
+    "downloads": 23,
+    "status": "published",
+    "createdAt": "2026-05-14 02:30:55",
+    "updatedAt": "2026-05-23 14:10:43",
+    "lastLikedAt": "",
+    "presetData": {
+      "name": "Mộc Hâm",
+      "class": "Phá Quang",
+      "customClassName": "Phá Quang",
+      "race": "Nhân loại chủng",
+      "customRace": null,
+      "customClassStyle": "Dùng một cây trường thương và một cây trọng kỵ thương làm phương thức chiến đấu chính. Có thể thi triển nhiều loại ma pháp cường hóa thuộc tính ánh sáng lên bản thân.",
+      "backstory": "",
+      "selectedCustomLevel": null
+    },
+    "downloadUrl": "/api/presets/869e431a-15d3-4c32-ad7e-abb94445f5d0/file"
+  }
+}

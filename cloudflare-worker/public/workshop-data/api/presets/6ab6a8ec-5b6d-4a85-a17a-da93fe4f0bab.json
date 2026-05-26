@@ -1,0 +1,35 @@
+{
+  "ok": true,
+  "preset": {
+    "id": "6ab6a8ec-5b6d-4a85-a17a-da93fe4f0bab",
+    "ownerId": "1482180182348529687",
+    "ownerName": "zhai",
+    "author": "zhai",
+    "authorAvatar": "https://cdn.discordapp.com/avatars/1482180182348529687/c82b3fa769ed6e6ffdea579381ed5f5c.png?size=128",
+    "name": "Lilia",
+    "title": "Lilia",
+    "intro": "Dưới vẻ ngoài rạng rỡ thánh khiết là nội tâm sa đọa dâm loạn; dựa vào ưu thế cảm tri ma pháp của chủng tinh linh rừng, cô dùng thập tự giá để thi triển các kỹ năng đại diện cho hai đặc tính thánh khiết và dục vọng.",
+    "coverUrl": "/api/presets/6ab6a8ec-5b6d-4a85-a17a-da93fe4f0bab/cover",
+    "className": "Nữ tu",
+    "race": "Chủng tinh linh rừng",
+    "tags": [],
+    "likes": 1,
+    "liked": false,
+    "downloads": 18,
+    "status": "published",
+    "createdAt": "2026-04-13 05:19:48",
+    "updatedAt": "2026-05-23 10:44:55",
+    "lastLikedAt": "",
+    "presetData": {
+      "name": "Lilia",
+      "class": "Nữ tu",
+      "customClassName": "Nữ tu",
+      "race": "Chủng tinh linh rừng",
+      "customRace": null,
+      "customClassStyle": "Dưới vẻ ngoài rạng rỡ thánh khiết là nội tâm sa đọa dâm loạn; dựa vào ưu thế cảm tri ma pháp của chủng tinh linh rừng, cô dùng thập tự giá để thi triển các kỹ năng đại diện cho hai đặc tính thánh khiết và dục vọng.",
+      "backstory": "",
+      "selectedCustomLevel": 1
+    },
+    "downloadUrl": "/api/presets/6ab6a8ec-5b6d-4a85-a17a-da93fe4f0bab/file"
+  }
+}

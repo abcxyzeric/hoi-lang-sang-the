@@ -1,0 +1,41 @@
+{
+  "ok": true,
+  "preset": {
+    "id": "e267f9c0-8410-4cd5-9aa5-ac8ef4ed6d9d",
+    "ownerId": "1485647689151414377",
+    "ownerName": "Tôi Không Muốn Đi Làm",
+    "author": "Tôi Không Muốn Đi Làm",
+    "authorAvatar": "https://cdn.discordapp.com/avatars/1485647689151414377/3a1e2ad03822b82463aaeeb6d91cd5fe.png?size=128",
+    "name": "Hậu Cần Sư",
+    "title": "Hậu Cần Sư",
+    "intro": "Thiên về lối chơi sinh hoạt, kỹ năng nghiêng hỗ trợ; chơi thú vị hơn nhiều so với chỉ làm một damage dealer. Hoan nghênh thử nghiệm, giới tính cứ đổi theo nhu cầu của bạn.",
+    "coverUrl": "/api/presets/e267f9c0-8410-4cd5-9aa5-ac8ef4ed6d9d/cover",
+    "className": "Trận Địa Cấu Trúc Sư",
+    "race": "Nhân loại chủng",
+    "tags": [
+      "Sinh tồn",
+      "Khống chế",
+      "Hỗ trợ",
+      "Não động quyết định trần sức mạnh",
+      "Lối chơi sinh hoạt"
+    ],
+    "likes": 0,
+    "liked": false,
+    "downloads": 14,
+    "status": "published",
+    "createdAt": "2026-05-05 13:44:14",
+    "updatedAt": "2026-05-24 09:10:18",
+    "lastLikedAt": "",
+    "presetData": {
+      "name": "Mộc Hâm",
+      "class": "Trận Địa Cấu Trúc Sư",
+      "customClassName": "Trận Địa Cấu Trúc Sư",
+      "race": "Nhân loại chủng",
+      "customRace": null,
+      "customClassStyle": "Năng lực chiến đấu chính diện yếu, nhưng có thể kích phát búa rèn, trong nháy mắt dựng đủ loại công trình chiến tranh trên chiến trường, thay đổi địa hình hoặc ban nhiều hiệu quả cường lực cho quân đồng minh.",
+      "backstory": "",
+      "selectedCustomLevel": null
+    },
+    "downloadUrl": "/api/presets/e267f9c0-8410-4cd5-9aa5-ac8ef4ed6d9d/file"
+  }
+}

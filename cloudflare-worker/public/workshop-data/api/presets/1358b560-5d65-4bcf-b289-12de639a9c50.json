@@ -1,0 +1,42 @@
+{
+  "ok": true,
+  "preset": {
+    "id": "1358b560-5d65-4bcf-b289-12de639a9c50",
+    "ownerId": "960788675661279233",
+    "ownerName": "suhaichensi",
+    "author": "suhaichensi",
+    "authorAvatar": "https://cdn.discordapp.com/avatars/960788675661279233/ca1fe8aea343657f63d1bd9d2cffc2c2.png?size=128",
+    "name": "【Hiệp】",
+    "title": "【Hiệp】",
+    "intro": "Cây kỹ năng gõ tay hoàn toàn; ai mà không từng có một giấc mộng võ hiệp? (tri ân Kim lão tiên sinh, cũng mong Hà Lạc 2 mau ra mắt)\n\nĐặc tính có thể tự do chuyển giới tính, có thể chơi nội dung người lớn; mở đầu tùy chỉnh mặc định có Tetto bản giận dữ nhỏ.\n\nKhông kèm thiết lập bối cảnh nhân vật tùy chỉnh, có thể dùng thiết lập nhân vật của chính bạn.\n\n\n4.4\n4.28",
+    "coverUrl": "/api/presets/1358b560-5d65-4bcf-b289-12de639a9c50/cover",
+    "className": "“Hiệp”",
+    "race": "Nhân loại",
+    "tags": [
+      "Duy trì",
+      "Đơn mục tiêu",
+      "Sinh tồn",
+      "Võ hiệp"
+    ],
+    "likes": 15,
+    "liked": false,
+    "downloads": 182,
+    "status": "published",
+    "createdAt": "2026-04-02 15:16:47",
+    "updatedAt": "2026-05-23 19:59:50",
+    "lastLikedAt": "",
+    "presetData": {
+      "name": "Mộ Dung Biện",
+      "class": "“Hiệp”",
+      "customClassName": "“Hiệp”",
+      "race": "__custom__",
+      "customRace": {
+        "name": "Nhân loại"
+      },
+      "customClassStyle": "",
+      "backstory": "",
+      "selectedCustomLevel": null
+    },
+    "downloadUrl": "/api/presets/1358b560-5d65-4bcf-b289-12de639a9c50/file"
+  }
+}

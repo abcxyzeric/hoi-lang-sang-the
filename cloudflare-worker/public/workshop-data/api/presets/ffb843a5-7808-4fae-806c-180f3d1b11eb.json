@@ -1,0 +1,41 @@
+{
+  "ok": true,
+  "preset": {
+    "id": "ffb843a5-7808-4fae-806c-180f3d1b11eb",
+    "ownerId": "1463439454080467131",
+    "ownerName": "Bọ Rùa Bảy Sao",
+    "author": "Bọ Rùa Bảy Sao",
+    "authorAvatar": "https://cdn.discordapp.com/avatars/1463439454080467131/3b0fa57f9a76fd88e399c0bfbab93ee9.png?size=128",
+    "name": "Siêu gợi dục · Thiên sứ sa ngã",
+    "title": "Siêu gợi dục · Thiên sứ sa ngã",
+    "intro": "Có thể chiến đấu thật sướng, cũng có thể nhanh chóng làm chuyện gợi dục. Dâm văn và thiên phú hái hoa được thiết kế kỹ để bạn tùy ý làm điều mình muốn. Gì cơ? Bạn muốn chiến đấu? Không vấn đề, Giáo hoàng Sulyvahn đang chờ bạn cos!",
+    "coverUrl": "/api/presets/ffb843a5-7808-4fae-806c-180f3d1b11eb/cover",
+    "className": "Thẩm Phán Hắc Ám",
+    "race": "Thiên sứ sa ngã",
+    "tags": [
+      "Tấu hài",
+      "Dọn quái",
+      "Bộc phát"
+    ],
+    "likes": 27,
+    "liked": false,
+    "downloads": 883,
+    "status": "published",
+    "createdAt": "2026-03-26 18:47:48",
+    "updatedAt": "2026-05-25 10:56:27",
+    "lastLikedAt": "",
+    "presetData": {
+      "name": "Lucifer Phineas",
+      "class": "Thẩm Phán Hắc Ám",
+      "customClassName": "Thẩm Phán Hắc Ám",
+      "race": "__custom__",
+      "customRace": {
+        "name": "Thiên sứ sa ngã"
+      },
+      "customClassStyle": "Thẩm Phán Hắc Ám do thiên sứ sa ngã hóa thân thành. Thanh kiếm tay trái là sức mạnh hắc ám lạnh lẽo, thanh kiếm tay phải là lửa phán xét rực cháy; hai tay dùng ma kiếm chém bổ và tạo ra các đòn công kích ma pháp khổng lồ. Sau khi đôi cánh sau lưng mở ra, có thể bay tốc độ cao và xuyên qua chiến trường. Sức mạnh thiên sứ còn sót lại còn cho phép anh nhìn thấy mảnh vụn tương lai, dự đoán đòn tấn công của kẻ địch.",
+      "backstory": "",
+      "selectedCustomLevel": null
+    },
+    "downloadUrl": "/api/presets/ffb843a5-7808-4fae-806c-180f3d1b11eb/file"
+  }
+}

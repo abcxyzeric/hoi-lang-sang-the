@@ -1,0 +1,505 @@
+{
+  "exportedAt": "2026-03-24T17:10:19.865Z",
+  "version": "1.0",
+  "preset": {
+    "id": "1774362034170",
+    "name": "Ác Ma Song Sinh",
+    "timestamp": 1774362034170,
+    "createdAt": 1774362034170,
+    "updatedAt": 1774364395942,
+    "data": {
+      "name": "",
+      "gender": "Nam",
+      "age": 18,
+      "race": "__custom__",
+      "identity": "__custom__",
+      "avatar": "data:image/jpeg;base64,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",
+      "attributes": {
+        "strength": 13,
+        "dexterity": 13,
+        "constitution": 12,
+        "intelligence": 12,
+        "wisdom": 13,
+        "charisma": 12
+      },
+      "backstory": "",
+      "selectedLevelMode": "native",
+      "selectedCustomLevel": null,
+      "selectedSpawnPoint": "Tầng dưới chợ vách Cảng Hoàn Uyên · bờ biển ngoại vi",
+      "class": "Hề Ác Ma",
+      "selectedBaseClass": "Nghề tùy chỉnh",
+      "customClassName": "Hề Ác Ma",
+      "customClassStyle": "",
+      "customClassWeapon": "Song Nhận Kịch Độc",
+      "customClassCombatStyle": "Sát thương ma pháp",
+      "skillTree": {
+        "基础": [
+          {
+            "名称": "Ma Thuật Lừa Gạt",
+            "类型": "Chủ động",
+            "描述": "Lập tức tiến vào trạng thái [Lừa Gạt Vô Hình]: {hoàn toàn trong suốt; không thể bị phát hiện phương vị; đòn tấn công của địch phải thực hiện miễn trừ Cảm nhận, nếu thất bại thì xem như chắc chắn bị né tránh; AC+3}.",
+            "特殊效果": {
+              "1": "[Lừa Gạt Vô Hình]: {ẩn vào vô hình (kéo dài 1 vòng); không thể bị khóa mục tiêu; đòn đánh thường hoặc phi nhận đầu tiên trước khi lộ diện -> kèm sát thương bổ sung và bắt buộc lộ diện; ngoại lệ duy nhất: kỹ năng nhóm [Ối! Hộp!] không phá ẩn thân}.",
+              "2": "[Lừa Gạt Vô Hình]: {ẩn vào vô hình (kéo dài 1 vòng); không thể bị khóa mục tiêu; đòn đánh thường hoặc phi nhận đầu tiên trước khi lộ diện -> kèm sát thương bổ sung và bắt buộc lộ diện; ngoại lệ duy nhất: kỹ năng nhóm [Ối! Hộp!] không phá ẩn thân}.",
+              "3": "[Lừa Gạt Vô Hình]: {ẩn vào vô hình (kéo dài 1 vòng); không thể bị khóa mục tiêu; đòn đánh thường hoặc phi nhận đầu tiên trước khi lộ diện -> kèm sát thương bổ sung và bắt buộc lộ diện; ngoại lệ duy nhất: kỹ năng nhóm [Ối! Hộp!] không phá ẩn thân}.",
+              "4": "[Lừa Gạt Vô Hình]: {ẩn vào vô hình (kéo dài 1 vòng); không thể bị khóa mục tiêu; đòn đánh thường hoặc phi nhận đầu tiên trước khi lộ diện -> kèm sát thương bổ sung và bắt buộc lộ diện; ngoại lệ duy nhất: kỹ năng nhóm [Ối! Hộp!] không phá ẩn thân}.",
+              "5": "[Lừa Gạt Vô Hình]: {ẩn vào vô hình (kéo dài 1 vòng); không thể bị khóa mục tiêu; đòn đánh thường hoặc phi nhận đầu tiên trước khi lộ diện -> kèm sát thương bổ sung và bắt buộc lộ diện; ngoại lệ duy nhất: kỹ năng nhóm [Ối! Hộp!] không phá ẩn thân}.",
+              "6": "[Lừa Gạt Vô Hình]: {ẩn vào vô hình (kéo dài 1 vòng); không thể bị khóa mục tiêu; đòn đánh thường hoặc phi nhận đầu tiên trước khi lộ diện -> kèm sát thương bổ sung và bắt buộc lộ diện; ngoại lệ duy nhất: kỹ năng nhóm [Ối! Hộp!] không phá ẩn thân}.",
+              "7": "[Lừa Gạt Vô Hình]: {ẩn vào vô hình (kéo dài 1 vòng); không thể bị khóa mục tiêu; đòn đánh thường hoặc phi nhận đầu tiên trước khi lộ diện -> kèm sát thương bổ sung và bắt buộc lộ diện; ngoại lệ duy nhất: kỹ năng nhóm [Ối! Hộp!] không phá ẩn thân}.",
+              "8": "[Lừa Gạt Vô Hình]: {ẩn vào vô hình (kéo dài 1 vòng); không thể bị khóa mục tiêu; đòn đánh thường hoặc phi nhận đầu tiên trước khi lộ diện -> kèm sát thương bổ sung và bắt buộc lộ diện; ngoại lệ duy nhất: kỹ năng nhóm [Ối! Hộp!] không phá ẩn thân}.",
+              "9": "[Lừa Gạt Vô Hình]: {ẩn vào vô hình (kéo dài 1 vòng); không thể bị khóa mục tiêu; đòn đánh thường hoặc phi nhận đầu tiên trước khi lộ diện -> kèm sát thương bổ sung và bắt buộc lộ diện; ngoại lệ duy nhất: kỹ năng nhóm [Ối! Hộp!] không phá ẩn thân}.",
+              "10": "[Lừa Gạt Vô Hình]: {ẩn vào vô hình (kéo dài 1 vòng); không thể bị khóa mục tiêu; đòn đánh thường hoặc phi nhận đầu tiên trước khi lộ diện -> kèm sát thương bổ sung và bắt buộc lộ diện; ngoại lệ duy nhất: kỹ năng nhóm [Ối! Hộp!] không phá ẩn thân}.",
+              "11": "[Lừa Gạt Vô Hình]: {ẩn vào vô hình (kéo dài 2 vòng); không thể bị khóa mục tiêu; đòn đánh thường hoặc phi nhận đầu tiên trước khi lộ diện -> kèm sát thương bổ sung và bắt buộc lộ diện; ngoại lệ duy nhất: kỹ năng nhóm [Ối! Hộp!] không phá ẩn thân}.",
+              "12": "[Lừa Gạt Vô Hình]: {ẩn vào vô hình (kéo dài 2 vòng); không thể bị khóa mục tiêu; đòn đánh thường hoặc phi nhận đầu tiên trước khi lộ diện -> kèm sát thương bổ sung và bắt buộc lộ diện; ngoại lệ duy nhất: kỹ năng nhóm [Ối! Hộp!] không phá ẩn thân}.",
+              "13": "[Lừa Gạt Vô Hình]: {ẩn vào vô hình (kéo dài 2 vòng); không thể bị khóa mục tiêu; đòn đánh thường hoặc phi nhận đầu tiên trước khi lộ diện -> kèm sát thương bổ sung và bắt buộc lộ diện; ngoại lệ duy nhất: kỹ năng nhóm [Ối! Hộp!] không phá ẩn thân}.",
+              "14": "[Lừa Gạt Vô Hình]: {ẩn vào vô hình (kéo dài 2 vòng); không thể bị khóa mục tiêu; đòn đánh thường hoặc phi nhận đầu tiên trước khi lộ diện -> kèm sát thương bổ sung và bắt buộc lộ diện; ngoại lệ duy nhất: kỹ năng nhóm [Ối! Hộp!] không phá ẩn thân}.",
+              "15": "[Lừa Gạt Vô Hình]: {ẩn vào vô hình (kéo dài 2 vòng); không thể bị khóa mục tiêu; đòn đánh thường hoặc phi nhận đầu tiên trước khi lộ diện -> kèm sát thương bổ sung và bắt buộc lộ diện; ngoại lệ duy nhất: kỹ năng nhóm [Ối! Hộp!] không phá ẩn thân}."
+            },
+            "阶位": "Cơ bản"
+          },
+          {
+            "名称": "Phi Nhận Hàn Độc",
+            "类型": "Chủ động",
+            "描述": "Ném phi nhận tẩm độc tầm xa vào mục tiêu -> trúng đích -> gây sát thương ma pháp -> áp đặt trạng thái [Hàn Độc].",
+            "特殊效果": {
+              "2": "[Hàn Độc]: {AC-1; kiểm định trúng đích -1; kéo dài 1 vòng; không thể cộng dồn}.",
+              "3": "[Hàn Độc]: {AC-1; kiểm định trúng đích -1; kéo dài 1 vòng; không thể cộng dồn}.",
+              "4": "[Hàn Độc]: {AC-1; kiểm định trúng đích -1; kéo dài 1 vòng; không thể cộng dồn}.",
+              "5": "[Hàn Độc]: {AC-1; kiểm định trúng đích -1; kéo dài 1 vòng; không thể cộng dồn}.",
+              "6": "[Hàn Độc]: {AC-2; kiểm định trúng đích -2; kéo dài 2 vòng; không thể cộng dồn}.",
+              "7": "[Hàn Độc]: {AC-2; kiểm định trúng đích -2; kéo dài 2 vòng; không thể cộng dồn}.",
+              "8": "[Hàn Độc]: {AC-2; kiểm định trúng đích -2; kéo dài 2 vòng; không thể cộng dồn}.",
+              "9": "[Hàn Độc]: {AC-2; kiểm định trúng đích -2; kéo dài 2 vòng; không thể cộng dồn}.",
+              "10": "[Hàn Độc]: {AC-2; kiểm định trúng đích -2; kéo dài 2 vòng; không thể cộng dồn}.",
+              "11": "[Hàn Độc]: {AC-3; kiểm định trúng đích -3; kéo dài 3 vòng; không thể cộng dồn}.",
+              "12": "[Hàn Độc]: {AC-3; kiểm định trúng đích -3; kéo dài 3 vòng; không thể cộng dồn}.",
+              "13": "[Hàn Độc]: {AC-3; kiểm định trúng đích -3; kéo dài 3 vòng; không thể cộng dồn}.",
+              "14": "[Hàn Độc]: {AC-3; kiểm định trúng đích -3; kéo dài 3 vòng; không thể cộng dồn}.",
+              "15": "[Hàn Độc]: {AC-3; kiểm định trúng đích -3; kéo dài 3 vòng; không thể cộng dồn}."
+            },
+            "阶位": "Cơ bản"
+          },
+          {
+            "名称": "Hộp Ma Hù Dọa",
+            "类型": "Triệu hồi",
+            "描述": "Vật triệu hồi của kỹ năng này được phân vào nhóm [Ối! Hộp!]; triệu hồi [Hộp Ma Hù Dọa] ngay tại chỗ (kích hoạt trễ 1 vòng).",
+            "召唤物名称": "Hộp Ma Hù Dọa",
+            "特殊效果": {
+              "1": "[Hộp Ma Hù Dọa]: {kích hoạt -> áp đặt [Sợ hãi] (1 vòng) lên kẻ địch xung quanh và lập tức phát động một lần tấn công ma pháp; đòn tấn công của hộp ma có thể phủ toàn bộ kẻ địch, nhưng nếu số mục tiêu tấn công ≥ 2 -> sát thương lần này -50%.}",
+              "2": "[Hộp Ma Hù Dọa]: {kích hoạt -> áp đặt [Sợ hãi] (1 vòng) lên kẻ địch xung quanh và lập tức phát động một lần tấn công ma pháp; đòn tấn công của hộp ma có thể phủ toàn bộ kẻ địch, nhưng nếu số mục tiêu tấn công ≥ 2 -> sát thương lần này -49%.}",
+              "3": "[Hộp Ma Hù Dọa]: {kích hoạt -> áp đặt [Sợ hãi] (1 vòng) lên kẻ địch xung quanh và lập tức phát động một lần tấn công ma pháp; đòn tấn công của hộp ma có thể phủ toàn bộ kẻ địch, nhưng nếu số mục tiêu tấn công ≥ 2 -> sát thương lần này -48%.}",
+              "4": "[Hộp Ma Hù Dọa]: {kích hoạt -> áp đặt [Sợ hãi] (1 vòng) lên kẻ địch xung quanh và lập tức phát động một lần tấn công ma pháp; đòn tấn công của hộp ma có thể phủ toàn bộ kẻ địch, nhưng nếu số mục tiêu tấn công ≥ 2 -> sát thương lần này -47%.}",
+              "5": "[Hộp Ma Hù Dọa]: {kích hoạt -> áp đặt [Sợ hãi] (1 vòng) lên kẻ địch xung quanh và lập tức phát động một lần tấn công ma pháp; đòn tấn công của hộp ma có thể phủ toàn bộ kẻ địch, nhưng nếu số mục tiêu tấn công ≥ 2 -> sát thương lần này -46%.}",
+              "6": "[Hộp Ma Hù Dọa]: {kích hoạt -> áp đặt [Sợ hãi] (1 vòng) lên kẻ địch xung quanh và lập tức phát động một lần tấn công ma pháp; đòn tấn công của hộp ma có thể phủ toàn bộ kẻ địch, nhưng nếu số mục tiêu tấn công ≥ 2 -> sát thương lần này -45%.}",
+              "7": "[Hộp Ma Hù Dọa]: {kích hoạt -> áp đặt [Sợ hãi] (1 vòng) lên kẻ địch xung quanh và lập tức phát động một lần tấn công ma pháp; đòn tấn công của hộp ma có thể phủ toàn bộ kẻ địch, nhưng nếu số mục tiêu tấn công ≥ 2 -> sát thương lần này -44%.}",
+              "8": "[Hộp Ma Hù Dọa]: {kích hoạt -> áp đặt [Sợ hãi] (1 vòng) lên kẻ địch xung quanh và lập tức phát động một lần tấn công ma pháp; đòn tấn công của hộp ma có thể phủ toàn bộ kẻ địch, nhưng nếu số mục tiêu tấn công ≥ 2 -> sát thương lần này -43%.}",
+              "9": "[Hộp Ma Hù Dọa]: {kích hoạt -> áp đặt [Sợ hãi] (1 vòng) lên kẻ địch xung quanh và lập tức phát động một lần tấn công ma pháp; đòn tấn công của hộp ma có thể phủ toàn bộ kẻ địch, nhưng nếu số mục tiêu tấn công ≥ 2 -> sát thương lần này -42%.}",
+              "10": "[Hộp Ma Hù Dọa]: {kích hoạt -> áp đặt [Sợ hãi] (1 vòng) lên kẻ địch xung quanh và lập tức phát động một lần tấn công ma pháp; đòn tấn công của hộp ma có thể phủ toàn bộ kẻ địch, nhưng nếu số mục tiêu tấn công ≥ 2 -> sát thương lần này -41%.}",
+              "11": "[Hộp Ma Hù Dọa]: {kích hoạt -> áp đặt [Sợ hãi] (1 vòng) lên kẻ địch xung quanh và lập tức phát động một lần tấn công ma pháp; đòn tấn công của hộp ma có thể phủ toàn bộ kẻ địch, nhưng nếu số mục tiêu tấn công ≥ 2 -> sát thương lần này -40%.}",
+              "12": "[Hộp Ma Hù Dọa]: {kích hoạt -> áp đặt [Sợ hãi] (1 vòng) lên kẻ địch xung quanh và lập tức phát động một lần tấn công ma pháp; đòn tấn công của hộp ma có thể phủ toàn bộ kẻ địch, nhưng nếu số mục tiêu tấn công ≥ 2 -> sát thương lần này -39%.}",
+              "13": "[Hộp Ma Hù Dọa]: {kích hoạt -> áp đặt [Sợ hãi] (1 vòng) lên kẻ địch xung quanh và lập tức phát động một lần tấn công ma pháp; đòn tấn công của hộp ma có thể phủ toàn bộ kẻ địch, nhưng nếu số mục tiêu tấn công ≥ 2 -> sát thương lần này -38%.}",
+              "14": "[Hộp Ma Hù Dọa]: {kích hoạt -> áp đặt [Sợ hãi] (1 vòng) lên kẻ địch xung quanh và lập tức phát động một lần tấn công ma pháp; đòn tấn công của hộp ma có thể phủ toàn bộ kẻ địch, nhưng nếu số mục tiêu tấn công ≥ 2 -> sát thương lần này -37%.}",
+              "15": "[Hộp Ma Hù Dọa]: {kích hoạt -> áp đặt [Sợ hãi] (1 vòng) lên kẻ địch xung quanh và lập tức phát động một lần tấn công ma pháp; đòn tấn công của hộp ma có thể phủ toàn bộ kẻ địch, nhưng nếu số mục tiêu tấn công ≥ 2 -> sát thương lần này -36%.}"
+            },
+            "阶位": "Cơ bản"
+          },
+          {
+            "名称": "Bỉ Ngạn Cộng Sinh · Em Gái Cùng Sinh",
+            "类型": "Triệu hồi",
+            "描述": "Nhận được ràng buộc với em gái hề cộng sinh Bu Ruo: {một cô bé ngốc đáng yêu, hoạt bát, nghịch ngợm, siêu ham chơi và hơi mê anh trai; sẽ dốc toàn lực hỗ trợ chiến đấu; thường trực tồn tại và có tính duy nhất; không thể chủ động triệu hồi; sau chiến đấu sẽ làm mới trạng thái hoặc quay lại}.",
+            "召唤物名称": "Bu Ruo",
+            "特殊效果": {
+              "1": "",
+              "2": "Hiệu lực thường trực: \"Bu Ruo\": {luôn ở bên cạnh; toàn bộ thuộc tính bằng bạn; khi bạn phóng thích kỹ năng -> cô ấy bắt chước hoàn hảo và phóng thích đồng thời; khi sinh mệnh của cô ấy về 0 -> cuống cuồng tạo một vụ nổ (toàn bộ phe địch chịu 300% sát thương ma pháp + [Sợ hãi] (1 vòng) + tạo 3 vật triệu hồi nhóm [Ối! Hộp!] (cùng kích hoạt ở vòng kế tiếp)) rồi bỏ chạy khỏi chiến trường; sau khi rời khỏi chiến trường -> khi bạn thoát chiến/chiến đấu kết thúc, cô ấy lập tức quay lại}.",
+              "3": "Hiệu lực thường trực: \"Bu Ruo\": {luôn ở bên cạnh; toàn bộ thuộc tính bằng bạn; khi bạn phóng thích kỹ năng -> cô ấy bắt chước hoàn hảo và phóng thích đồng thời; khi sinh mệnh của cô ấy về 0 -> cuống cuồng tạo một vụ nổ (toàn bộ phe địch chịu 320% sát thương ma pháp + [Sợ hãi] (1 vòng) + tạo 3 vật triệu hồi nhóm [Ối! Hộp!] (cùng kích hoạt ở vòng kế tiếp)) rồi bỏ chạy khỏi chiến trường; sau khi rời khỏi chiến trường -> khi bạn thoát chiến/chiến đấu kết thúc, cô ấy lập tức quay lại}.",
+              "4": "Hiệu lực thường trực: \"Bu Ruo\": {luôn ở bên cạnh; toàn bộ thuộc tính bằng bạn; khi bạn phóng thích kỹ năng -> cô ấy bắt chước hoàn hảo và phóng thích đồng thời; khi sinh mệnh của cô ấy về 0 -> cuống cuồng tạo một vụ nổ (toàn bộ phe địch chịu 330% sát thương ma pháp + [Sợ hãi] (1 vòng) + tạo 3 vật triệu hồi nhóm [Ối! Hộp!] (cùng kích hoạt ở vòng kế tiếp)) rồi bỏ chạy khỏi chiến trường; sau khi rời khỏi chiến trường -> khi bạn thoát chiến/chiến đấu kết thúc, cô ấy lập tức quay lại}.",
+              "5": "Hiệu lực thường trực: \"Bu Ruo\": {luôn ở bên cạnh; toàn bộ thuộc tính bằng bạn; khi bạn phóng thích kỹ năng -> cô ấy bắt chước hoàn hảo và phóng thích đồng thời; khi sinh mệnh của cô ấy về 0 -> cuống cuồng tạo một vụ nổ (toàn bộ phe địch chịu 340% sát thương ma pháp + [Sợ hãi] (1 vòng) + tạo 3 vật triệu hồi nhóm [Ối! Hộp!] (cùng kích hoạt ở vòng kế tiếp)) rồi bỏ chạy khỏi chiến trường; sau khi rời khỏi chiến trường -> khi bạn thoát chiến/chiến đấu kết thúc, cô ấy lập tức quay lại}.",
+              "6": "Hiệu lực thường trực: \"Bu Ruo\": {luôn ở bên cạnh; toàn bộ thuộc tính bằng bạn; khi bạn phóng thích kỹ năng -> cô ấy bắt chước hoàn hảo và phóng thích đồng thời; khi sinh mệnh của cô ấy về 0 -> cuống cuồng tạo một vụ nổ (toàn bộ phe địch chịu 350% sát thương ma pháp + [Sợ hãi] (1 vòng) + tạo 3 vật triệu hồi nhóm [Ối! Hộp!] (cùng kích hoạt ở vòng kế tiếp)) rồi bỏ chạy khỏi chiến trường; sau khi rời khỏi chiến trường -> khi bạn thoát chiến/chiến đấu kết thúc, cô ấy lập tức quay lại}.",
+              "7": "Hiệu lực thường trực: \"Bu Ruo\": {luôn ở bên cạnh; toàn bộ thuộc tính bằng bạn; khi bạn phóng thích kỹ năng -> cô ấy bắt chước hoàn hảo và phóng thích đồng thời; khi sinh mệnh của cô ấy về 0 -> cuống cuồng tạo một vụ nổ (toàn bộ phe địch chịu 360% sát thương ma pháp + [Sợ hãi] (1 vòng) + tạo 3 vật triệu hồi nhóm [Ối! Hộp!] (cùng kích hoạt ở vòng kế tiếp)) rồi bỏ chạy khỏi chiến trường; sau khi rời khỏi chiến trường -> khi bạn thoát chiến/chiến đấu kết thúc, cô ấy lập tức quay lại}.",
+              "8": "Hiệu lực thường trực: \"Bu Ruo\": {luôn ở bên cạnh; toàn bộ thuộc tính bằng bạn; khi bạn phóng thích kỹ năng -> cô ấy bắt chước hoàn hảo và phóng thích đồng thời; khi sinh mệnh của cô ấy về 0 -> cuống cuồng tạo một vụ nổ (toàn bộ phe địch chịu 370% sát thương ma pháp + [Sợ hãi] (1 vòng) + tạo 3 vật triệu hồi nhóm [Ối! Hộp!] (cùng kích hoạt ở vòng kế tiếp)) rồi bỏ chạy khỏi chiến trường; sau khi rời khỏi chiến trường -> khi bạn thoát chiến/chiến đấu kết thúc, cô ấy lập tức quay lại}.",
+              "9": "Hiệu lực thường trực: \"Bu Ruo\": {luôn ở bên cạnh; toàn bộ thuộc tính bằng bạn; khi bạn phóng thích kỹ năng -> cô ấy bắt chước hoàn hảo và phóng thích đồng thời; khi sinh mệnh của cô ấy về 0 -> cuống cuồng tạo một vụ nổ (toàn bộ phe địch chịu 380% sát thương ma pháp + [Sợ hãi] (1 vòng) + tạo 3 vật triệu hồi nhóm [Ối! Hộp!] (cùng kích hoạt ở vòng kế tiếp)) rồi bỏ chạy khỏi chiến trường; sau khi rời khỏi chiến trường -> khi bạn thoát chiến/chiến đấu kết thúc, cô ấy lập tức quay lại}.",
+              "10": "Hiệu lực thường trực: \"Bu Ruo\": {luôn ở bên cạnh; toàn bộ thuộc tính bằng bạn; khi bạn phóng thích kỹ năng -> cô ấy bắt chước hoàn hảo và phóng thích đồng thời; khi sinh mệnh của cô ấy về 0 -> cuống cuồng tạo một vụ nổ (toàn bộ phe địch chịu 390% sát thương ma pháp + [Sợ hãi] (1 vòng) + tạo 3 vật triệu hồi nhóm [Ối! Hộp!] (cùng kích hoạt ở vòng kế tiếp)) rồi bỏ chạy khỏi chiến trường; sau khi rời khỏi chiến trường -> khi bạn thoát chiến/chiến đấu kết thúc, cô ấy lập tức quay lại}.",
+              "11": "Hiệu lực thường trực: \"Bu Ruo\": {luôn ở bên cạnh; toàn bộ thuộc tính bằng bạn; khi bạn phóng thích kỹ năng -> cô ấy bắt chước hoàn hảo và phóng thích đồng thời; khi sinh mệnh của cô ấy về 0 -> cuống cuồng tạo một vụ nổ (toàn bộ phe địch chịu 400% sát thương ma pháp + [Sợ hãi] (1 vòng) + tạo 3 vật triệu hồi nhóm [Ối! Hộp!] (cùng kích hoạt ở vòng kế tiếp)) rồi bỏ chạy khỏi chiến trường; sau khi rời khỏi chiến trường -> khi bạn thoát chiến/chiến đấu kết thúc, cô ấy lập tức quay lại}.",
+              "12": "Hiệu lực thường trực: \"Bu Ruo\": {luôn ở bên cạnh; toàn bộ thuộc tính bằng bạn; khi bạn phóng thích kỹ năng -> cô ấy bắt chước hoàn hảo và phóng thích đồng thời; khi sinh mệnh của cô ấy về 0 -> cuống cuồng tạo một vụ nổ (toàn bộ phe địch chịu 410% sát thương ma pháp + [Sợ hãi] (1 vòng) + tạo 3 vật triệu hồi nhóm [Ối! Hộp!] (cùng kích hoạt ở vòng kế tiếp)) rồi bỏ chạy khỏi chiến trường; sau khi rời khỏi chiến trường -> khi bạn thoát chiến/chiến đấu kết thúc, cô ấy lập tức quay lại}.",
+              "13": "Hiệu lực thường trực: \"Bu Ruo\": {luôn ở bên cạnh; toàn bộ thuộc tính bằng bạn; khi bạn phóng thích kỹ năng -> cô ấy bắt chước hoàn hảo và phóng thích đồng thời; khi sinh mệnh của cô ấy về 0 -> cuống cuồng tạo một vụ nổ (toàn bộ phe địch chịu 420% sát thương ma pháp + [Sợ hãi] (1 vòng) + tạo 3 vật triệu hồi nhóm [Ối! Hộp!] (cùng kích hoạt ở vòng kế tiếp)) rồi bỏ chạy khỏi chiến trường; sau khi rời khỏi chiến trường -> khi bạn thoát chiến/chiến đấu kết thúc, cô ấy lập tức quay lại}.",
+              "14": "Hiệu lực thường trực: \"Bu Ruo\": {luôn ở bên cạnh; toàn bộ thuộc tính bằng bạn; khi bạn phóng thích kỹ năng -> cô ấy bắt chước hoàn hảo và phóng thích đồng thời; khi sinh mệnh của cô ấy về 0 -> cuống cuồng tạo một vụ nổ (toàn bộ phe địch chịu 430% sát thương ma pháp + [Sợ hãi] (1 vòng) + tạo 3 vật triệu hồi nhóm [Ối! Hộp!] (cùng kích hoạt ở vòng kế tiếp)) rồi bỏ chạy khỏi chiến trường; sau khi rời khỏi chiến trường -> khi bạn thoát chiến/chiến đấu kết thúc, cô ấy lập tức quay lại}.",
+              "15": "Hiệu lực thường trực: \"Bu Ruo\": {luôn ở bên cạnh; toàn bộ thuộc tính bằng bạn; khi bạn phóng thích kỹ năng -> cô ấy bắt chước hoàn hảo và phóng thích đồng thời; khi sinh mệnh của cô ấy về 0 -> cuống cuồng tạo một vụ nổ (toàn bộ phe địch chịu 450% sát thương ma pháp + [Sợ hãi] (1 vòng) + tạo 3 vật triệu hồi nhóm [Ối! Hộp!] (cùng kích hoạt ở vòng kế tiếp)) rồi bỏ chạy khỏi chiến trường; sau khi rời khỏi chiến trường -> khi bạn thoát chiến/chiến đấu kết thúc, cô ấy lập tức quay lại}."
+            },
+            "阶位": "Cơ bản"
+          },
+          {
+            "名称": "Đâm Lén Sau Lưng",
+            "类型": "Đặc thù nghề nghiệp",
+            "描述": "Không cần phát động, hiệu lực thường trực; hiệu quả sát thương từ sau lưng được tăng mạnh. [Sợ hãi]: {kiểm định trúng đích -3; trong thời gian duy trì, bắt buộc tiến vào [Quay Lưng]}; [Quay Lưng]: {mục tiêu quay lưng về phía bạn}.",
+            "特殊效果": {
+              "1": "Khi kẻ địch đang trong trạng thái [Sợ hãi] hoặc [Quay Lưng] -> sát thương cuối cùng do bạn và đơn vị triệu hồi của bạn ([Bu Ruo], vật triệu hồi nhóm [Ối! Hộp!] v.v.) gây ra tăng X%; X = cấp của bạn + cấp của kẻ địch."
+            },
+            "阶位": "Cơ bản"
+          }
+        ],
+        "转职": [
+          {
+            "名称": "Ma Thuật Quang Ảnh",
+            "类型": "Chủ động",
+            "描述": "Lập tức tiến vào trạng thái [Lừa Gạt Vô Hình]: trong thời gian đó {ẩn hình; đòn công kích của địch phải thực hiện miễn trừ Cảm nhận, nếu thất bại thì chắc chắn đánh hụt; đòn đánh thường hoặc phi nhận kế tiếp gây thêm sát thương rồi lộ diện; AC+4; kỹ năng nhóm [Ối! Hộp!] không phá ẩn thân}; đồng thời kích hoạt [Bom Bụi Lân Quang] tại chỗ: {làm mù kẻ địch xung quanh -> áp đặt [Bụi Sáng Gây Mù]}; [Bụi Sáng Gây Mù]: {kiểm định trúng đích -2; kéo dài 1 vòng}.",
+            "特殊效果": {
+              "1": "[Bom Bụi Lân Quang]: {áp đặt [Bụi Sáng Gây Mù] lên mục tiêu; nếu đang ở ban đêm hoặc môi trường tối mờ -> áp đặt [Ánh Mạnh Gây Mù]: {kiểm định trúng đích -3; kéo dài 2 vòng}.}",
+              "2": "[Bom Bụi Lân Quang]: {áp đặt [Bụi Sáng Gây Mù] lên mục tiêu; nếu đang ở ban đêm hoặc môi trường tối mờ -> áp đặt [Ánh Mạnh Gây Mù]: {kiểm định trúng đích -3; kéo dài 2 vòng}.}",
+              "3": "[Bom Bụi Lân Quang]: {áp đặt [Bụi Sáng Gây Mù] lên mục tiêu; nếu đang ở ban đêm hoặc môi trường tối mờ -> áp đặt [Ánh Mạnh Gây Mù]: {kiểm định trúng đích -3; kéo dài 2 vòng}.}",
+              "4": "[Bom Bụi Lân Quang]: {áp đặt [Bụi Sáng Gây Mù] lên mục tiêu; nếu đang ở ban đêm hoặc môi trường tối mờ -> áp đặt [Ánh Mạnh Gây Mù]: {kiểm định trúng đích -3; kéo dài 2 vòng}.}",
+              "5": "[Bom Bụi Lân Quang]: {áp đặt [Bụi Sáng Gây Mù] lên mục tiêu; nếu đang ở ban đêm hoặc môi trường tối mờ -> áp đặt [Ánh Mạnh Gây Mù]: {kiểm định trúng đích -3; kéo dài 2 vòng}.}",
+              "6": "[Bom Bụi Lân Quang]: {áp đặt [Bụi Sáng Gây Mù] lên mục tiêu; nếu đang ở ban đêm hoặc môi trường tối mờ -> áp đặt [Ánh Mạnh Gây Mù]: {kiểm định trúng đích -3; kéo dài 2 vòng}.}",
+              "7": "[Bom Bụi Lân Quang]: {áp đặt [Bụi Sáng Gây Mù] lên mục tiêu; nếu đang ở ban đêm hoặc môi trường tối mờ -> áp đặt [Ánh Mạnh Gây Mù]: {kiểm định trúng đích -3; kéo dài 2 vòng}.}",
+              "8": "[Bom Bụi Lân Quang]: {áp đặt [Bụi Sáng Gây Mù] lên mục tiêu; nếu đang ở ban đêm hoặc môi trường tối mờ -> áp đặt [Ánh Mạnh Gây Mù]: {kiểm định trúng đích -3; kéo dài 2 vòng}.}",
+              "9": "[Bom Bụi Lân Quang]: {áp đặt [Bụi Sáng Gây Mù] lên mục tiêu; nếu đang ở ban đêm hoặc môi trường tối mờ -> áp đặt [Ánh Mạnh Gây Mù]: {kiểm định trúng đích -3; kéo dài 2 vòng}.}",
+              "10": "[Bom Bụi Lân Quang]: {áp đặt [Bụi Sáng Gây Mù] lên mục tiêu; nếu đang ở ban đêm hoặc môi trường tối mờ -> áp đặt [Ánh Mạnh Gây Mù]: {kiểm định trúng đích -3; kéo dài 2 vòng}.}",
+              "11": "[Bom Bụi Lân Quang]: {áp đặt [Bụi Sáng Gây Mù] lên mục tiêu; nếu đang ở ban đêm hoặc môi trường tối mờ -> áp đặt [Ánh Mạnh Gây Mù]: {kiểm định trúng đích -3; kéo dài 2 vòng}.}",
+              "12": "[Bom Bụi Lân Quang]: {áp đặt [Bụi Sáng Gây Mù] lên mục tiêu; nếu đang ở ban đêm hoặc môi trường tối mờ -> áp đặt [Ánh Mạnh Gây Mù]: {kiểm định trúng đích -3; kéo dài 2 vòng}.}",
+              "13": "[Bom Bụi Lân Quang]: {áp đặt [Bụi Sáng Gây Mù] lên mục tiêu; nếu đang ở ban đêm hoặc môi trường tối mờ -> áp đặt [Ánh Mạnh Gây Mù]: {kiểm định trúng đích -3; kéo dài 2 vòng}.}",
+              "14": "[Bom Bụi Lân Quang]: {áp đặt [Bụi Sáng Gây Mù] lên mục tiêu; nếu đang ở ban đêm hoặc môi trường tối mờ -> áp đặt [Ánh Mạnh Gây Mù]: {kiểm định trúng đích -3; kéo dài 2 vòng}.}",
+              "15": "[Bom Bụi Lân Quang]: {áp đặt [Bụi Sáng Gây Mù] lên mục tiêu; nếu đang ở ban đêm hoặc môi trường tối mờ -> áp đặt [Ánh Mạnh Gây Mù]: {kiểm định trúng đích -3; kéo dài 2 vòng}.}"
+            },
+            "阶位": "Chuyển nghề"
+          },
+          {
+            "名称": "Phi Nhận Liệt Độc",
+            "类型": "Chủ động",
+            "描述": "Ném phi nhận tẩm độc tầm xa vào mục tiêu -> gây sát thương ma pháp và áp đặt [Liệt Độc]; nếu mục tiêu đã có [Hàn Độc] -> kích hoạt bộc phát kịch độc: gây thêm một lần sát thương ma pháp ngang bằng.",
+            "特殊效果": {
+              "1": "[Liệt Độc]: {mỗi vòng mất 5% sinh mệnh; kéo dài 1 vòng; không thể cộng dồn}.",
+              "2": "[Liệt Độc]: {mỗi vòng mất 5% sinh mệnh; kéo dài 1 vòng; không thể cộng dồn}.",
+              "3": "[Liệt Độc]: {mỗi vòng mất 5% sinh mệnh; kéo dài 1 vòng; không thể cộng dồn}.",
+              "4": "[Liệt Độc]: {mỗi vòng mất 5% sinh mệnh; kéo dài 1 vòng; không thể cộng dồn}.",
+              "5": "[Liệt Độc]: {mỗi vòng mất 5% sinh mệnh; kéo dài 1 vòng; không thể cộng dồn}.",
+              "6": "[Liệt Độc]: {mỗi vòng mất 8% sinh mệnh; kéo dài 1 vòng; không thể cộng dồn}.",
+              "7": "[Liệt Độc]: {mỗi vòng mất 8% sinh mệnh; kéo dài 1 vòng; không thể cộng dồn}.",
+              "8": "[Liệt Độc]: {mỗi vòng mất 8% sinh mệnh; kéo dài 1 vòng; không thể cộng dồn}.",
+              "9": "[Liệt Độc]: {mỗi vòng mất 8% sinh mệnh; kéo dài 1 vòng; không thể cộng dồn}.",
+              "10": "[Liệt Độc]: {mỗi vòng mất 8% sinh mệnh; kéo dài 1 vòng; không thể cộng dồn}.",
+              "11": "[Liệt Độc]: {mỗi vòng mất 12% sinh mệnh; kéo dài 2 vòng; không thể cộng dồn}.",
+              "12": "[Liệt Độc]: {mỗi vòng mất 12% sinh mệnh; kéo dài 2 vòng; không thể cộng dồn}.",
+              "13": "[Liệt Độc]: {mỗi vòng mất 12% sinh mệnh; kéo dài 2 vòng; không thể cộng dồn}.",
+              "14": "[Liệt Độc]: {mỗi vòng mất 12% sinh mệnh; kéo dài 2 vòng; không thể cộng dồn}.",
+              "15": "[Liệt Độc]: {mỗi vòng mất 12% sinh mệnh; kéo dài 2 vòng; không thể cộng dồn}."
+            },
+            "阶位": "Chuyển nghề"
+          },
+          {
+            "名称": "Hộp Quà Tinh Xảo của Bu Ruo",
+            "类型": "Triệu hồi",
+            "描述": "Vật triệu hồi của kỹ năng này được phân vào nhóm [Ối! Hộp!]; phiên bản cải tiến do Bu Ruo dày công chuẩn bị; triệu hồi [Hộp Ma Hù Dọa · Gói Tinh Xảo] ngay tại chỗ (kích hoạt trễ 1 vòng): {lớp vỏ ngoài được xem như 150 sinh mệnh tạm thời; sát thương diện rộng phải chịu -25%}.",
+            "召唤物名称": "Hộp Ma Hù Dọa · Gói Tinh Xảo",
+            "特殊效果": {
+              "1": "[Hộp Ma Hù Dọa · Gói Tinh Xảo]: {kích hoạt -> áp đặt [Sợ hãi] (1 vòng) lên kẻ địch xung quanh và lập tức phát động một lần tấn công ma pháp; đòn tấn công của hộp ma có thể phủ toàn bộ kẻ địch, nhưng nếu số mục tiêu tấn công ≥ 2 -> sát thương lần này -50%.}",
+              "2": "[Hộp Ma Hù Dọa · Gói Tinh Xảo]: {kích hoạt -> áp đặt [Sợ hãi] (1 vòng) lên kẻ địch xung quanh và lập tức phát động một lần tấn công ma pháp; đòn tấn công của hộp ma có thể phủ toàn bộ kẻ địch, nhưng nếu số mục tiêu tấn công ≥ 2 -> sát thương lần này -49%.}",
+              "3": "[Hộp Ma Hù Dọa · Gói Tinh Xảo]: {kích hoạt -> áp đặt [Sợ hãi] (1 vòng) lên kẻ địch xung quanh và lập tức phát động một lần tấn công ma pháp; đòn tấn công của hộp ma có thể phủ toàn bộ kẻ địch, nhưng nếu số mục tiêu tấn công ≥ 2 -> sát thương lần này -48%.}",
+              "4": "[Hộp Ma Hù Dọa · Gói Tinh Xảo]: {kích hoạt -> áp đặt [Sợ hãi] (1 vòng) lên kẻ địch xung quanh và lập tức phát động một lần tấn công ma pháp; đòn tấn công của hộp ma có thể phủ toàn bộ kẻ địch, nhưng nếu số mục tiêu tấn công ≥ 2 -> sát thương lần này -47%.}",
+              "5": "[Hộp Ma Hù Dọa · Gói Tinh Xảo]: {kích hoạt -> áp đặt [Sợ hãi] (1 vòng) lên kẻ địch xung quanh và lập tức phát động một lần tấn công ma pháp; đòn tấn công của hộp ma có thể phủ toàn bộ kẻ địch, nhưng nếu số mục tiêu tấn công ≥ 2 -> sát thương lần này -46%.}",
+              "6": "[Hộp Ma Hù Dọa · Gói Tinh Xảo]: {kích hoạt -> áp đặt [Sợ hãi] (1 vòng) lên kẻ địch xung quanh và lập tức phát động một lần tấn công ma pháp; đòn tấn công của hộp ma có thể phủ toàn bộ kẻ địch, nhưng nếu số mục tiêu tấn công ≥ 2 -> sát thương lần này -45%.}",
+              "7": "[Hộp Ma Hù Dọa · Gói Tinh Xảo]: {kích hoạt -> áp đặt [Sợ hãi] (1 vòng) lên kẻ địch xung quanh và lập tức phát động một lần tấn công ma pháp; đòn tấn công của hộp ma có thể phủ toàn bộ kẻ địch, nhưng nếu số mục tiêu tấn công ≥ 2 -> sát thương lần này -44%.}",
+              "8": "[Hộp Ma Hù Dọa · Gói Tinh Xảo]: {kích hoạt -> áp đặt [Sợ hãi] (1 vòng) lên kẻ địch xung quanh và lập tức phát động một lần tấn công ma pháp; đòn tấn công của hộp ma có thể phủ toàn bộ kẻ địch, nhưng nếu số mục tiêu tấn công ≥ 2 -> sát thương lần này -43%.}",
+              "9": "[Hộp Ma Hù Dọa · Gói Tinh Xảo]: {kích hoạt -> áp đặt [Sợ hãi] (1 vòng) lên kẻ địch xung quanh và lập tức phát động một lần tấn công ma pháp; đòn tấn công của hộp ma có thể phủ toàn bộ kẻ địch, nhưng nếu số mục tiêu tấn công ≥ 2 -> sát thương lần này -42%.}",
+              "10": "[Hộp Ma Hù Dọa · Gói Tinh Xảo]: {kích hoạt -> áp đặt [Sợ hãi] (1 vòng) lên kẻ địch xung quanh và lập tức phát động một lần tấn công ma pháp; đòn tấn công của hộp ma có thể phủ toàn bộ kẻ địch, nhưng nếu số mục tiêu tấn công ≥ 2 -> sát thương lần này -41%.}",
+              "11": "[Hộp Ma Hù Dọa · Gói Tinh Xảo]: {kích hoạt -> áp đặt [Sợ hãi] (1 vòng) lên kẻ địch xung quanh và lập tức phát động một lần tấn công ma pháp; đòn tấn công của hộp ma có thể phủ toàn bộ kẻ địch, nhưng nếu số mục tiêu tấn công ≥ 2 -> sát thương lần này -40%.}",
+              "12": "[Hộp Ma Hù Dọa · Gói Tinh Xảo]: {kích hoạt -> áp đặt [Sợ hãi] (1 vòng) lên kẻ địch xung quanh và lập tức phát động một lần tấn công ma pháp; đòn tấn công của hộp ma có thể phủ toàn bộ kẻ địch, nhưng nếu số mục tiêu tấn công ≥ 2 -> sát thương lần này -39%.}",
+              "13": "[Hộp Ma Hù Dọa · Gói Tinh Xảo]: {kích hoạt -> áp đặt [Sợ hãi] (1 vòng) lên kẻ địch xung quanh và lập tức phát động một lần tấn công ma pháp; đòn tấn công của hộp ma có thể phủ toàn bộ kẻ địch, nhưng nếu số mục tiêu tấn công ≥ 2 -> sát thương lần này -38%.}",
+              "14": "[Hộp Ma Hù Dọa · Gói Tinh Xảo]: {kích hoạt -> áp đặt [Sợ hãi] (1 vòng) lên kẻ địch xung quanh và lập tức phát động một lần tấn công ma pháp; đòn tấn công của hộp ma có thể phủ toàn bộ kẻ địch, nhưng nếu số mục tiêu tấn công ≥ 2 -> sát thương lần này -37%.}",
+              "15": "[Hộp Ma Hù Dọa · Gói Tinh Xảo]: {kích hoạt -> áp đặt [Sợ hãi] (1 vòng) lên kẻ địch xung quanh và lập tức phát động một lần tấn công ma pháp; đòn tấn công của hộp ma có thể phủ toàn bộ kẻ địch, nhưng nếu số mục tiêu tấn công ≥ 2 -> sát thương lần này -36%.}"
+            },
+            "阶位": "Chuyển nghề"
+          },
+          {
+            "名称": "Bỉ Ngạn Cộng Sinh · Em Gái Cùng Theo",
+            "类型": "Triệu hồi",
+            "描述": "Ràng buộc với em gái hề cộng sinh Bu Ruo đã sâu hơn: {một cô bé ngốc đáng yêu, hoạt bát, nghịch ngợm, siêu ham chơi và nhẹ độ mê anh trai; sẽ dốc toàn lực hỗ trợ chiến đấu; thường trực tồn tại và có tính duy nhất; không thể chủ động triệu hồi; sau chiến đấu sẽ làm mới trạng thái hoặc quay lại}.",
+            "召唤物名称": "Bu Ruo",
+            "特殊效果": {
+              "1": "Hiệu lực thường trực: \"Bu Ruo\": {luôn ở bên cạnh; toàn bộ thuộc tính bằng bạn; khi bạn phóng thích kỹ năng -> cô ấy bắt chước hoàn hảo và phóng thích đồng thời; khi sinh mệnh của cô ấy về 0 -> cuống cuồng tạo một vụ nổ (toàn bộ phe địch chịu 400% sát thương ma pháp + [Sợ hãi] (1 vòng) + tạo 3 vật triệu hồi nhóm [Ối! Hộp!] (cùng kích hoạt ở vòng kế tiếp)) rồi bỏ chạy khỏi chiến trường; sau khi rời khỏi chiến trường -> khi bạn thoát chiến/chiến đấu kết thúc, cô ấy lập tức quay lại}.",
+              "2": "Hiệu lực thường trực: \"Bu Ruo\": {luôn ở bên cạnh; toàn bộ thuộc tính bằng bạn; khi bạn phóng thích kỹ năng -> cô ấy bắt chước hoàn hảo và phóng thích đồng thời; khi sinh mệnh của cô ấy về 0 -> cuống cuồng tạo một vụ nổ (toàn bộ phe địch chịu 420% sát thương ma pháp + [Sợ hãi] (1 vòng) + tạo 3 vật triệu hồi nhóm [Ối! Hộp!] (cùng kích hoạt ở vòng kế tiếp)) rồi bỏ chạy khỏi chiến trường; sau khi rời khỏi chiến trường -> khi bạn thoát chiến/chiến đấu kết thúc, cô ấy lập tức quay lại}.",
+              "3": "Hiệu lực thường trực: \"Bu Ruo\": {luôn ở bên cạnh; toàn bộ thuộc tính bằng bạn; khi bạn phóng thích kỹ năng -> cô ấy bắt chước hoàn hảo và phóng thích đồng thời; khi sinh mệnh của cô ấy về 0 -> cuống cuồng tạo một vụ nổ (toàn bộ phe địch chịu 430% sát thương ma pháp + [Sợ hãi] (1 vòng) + tạo 3 vật triệu hồi nhóm [Ối! Hộp!] (cùng kích hoạt ở vòng kế tiếp)) rồi bỏ chạy khỏi chiến trường; sau khi rời khỏi chiến trường -> khi bạn thoát chiến/chiến đấu kết thúc, cô ấy lập tức quay lại}.",
+              "4": "Hiệu lực thường trực: \"Bu Ruo\": {luôn ở bên cạnh; toàn bộ thuộc tính bằng bạn; khi bạn phóng thích kỹ năng -> cô ấy bắt chước hoàn hảo và phóng thích đồng thời; khi sinh mệnh của cô ấy về 0 -> cuống cuồng tạo một vụ nổ (toàn bộ phe địch chịu 440% sát thương ma pháp + [Sợ hãi] (1 vòng) + tạo 3 vật triệu hồi nhóm [Ối! Hộp!] (cùng kích hoạt ở vòng kế tiếp)) rồi bỏ chạy khỏi chiến trường; sau khi rời khỏi chiến trường -> khi bạn thoát chiến/chiến đấu kết thúc, cô ấy lập tức quay lại}.",
+              "5": "Hiệu lực thường trực: \"Bu Ruo\": {luôn ở bên cạnh; toàn bộ thuộc tính bằng bạn; khi bạn phóng thích kỹ năng -> cô ấy bắt chước hoàn hảo và phóng thích đồng thời; khi sinh mệnh của cô ấy về 0 -> cuống cuồng tạo một vụ nổ (toàn bộ phe địch chịu 450% sát thương ma pháp + [Sợ hãi] (1 vòng) + tạo 3 vật triệu hồi nhóm [Ối! Hộp!] (cùng kích hoạt ở vòng kế tiếp)) rồi bỏ chạy khỏi chiến trường; sau khi rời khỏi chiến trường -> khi bạn thoát chiến/chiến đấu kết thúc, cô ấy lập tức quay lại}.",
+              "6": "Hiệu lực thường trực: \"Bu Ruo\": {luôn ở bên cạnh; toàn bộ thuộc tính bằng bạn; khi bạn phóng thích kỹ năng -> cô ấy bắt chước hoàn hảo và phóng thích đồng thời; khi sinh mệnh của cô ấy về 0 -> cuống cuồng tạo một vụ nổ (toàn bộ phe địch chịu 460% sát thương ma pháp + [Sợ hãi] (1 vòng) + tạo 3 vật triệu hồi nhóm [Ối! Hộp!] (cùng kích hoạt ở vòng kế tiếp)) rồi bỏ chạy khỏi chiến trường; sau khi rời khỏi chiến trường -> khi bạn thoát chiến/chiến đấu kết thúc, cô ấy lập tức quay lại}.",
+              "7": "Hiệu lực thường trực: \"Bu Ruo\": {luôn ở bên cạnh; toàn bộ thuộc tính bằng bạn; khi bạn phóng thích kỹ năng -> cô ấy bắt chước hoàn hảo và phóng thích đồng thời; khi sinh mệnh của cô ấy về 0 -> cuống cuồng tạo một vụ nổ (toàn bộ phe địch chịu 470% sát thương ma pháp + [Sợ hãi] (1 vòng) + tạo 3 vật triệu hồi nhóm [Ối! Hộp!] (cùng kích hoạt ở vòng kế tiếp)) rồi bỏ chạy khỏi chiến trường; sau khi rời khỏi chiến trường -> khi bạn thoát chiến/chiến đấu kết thúc, cô ấy lập tức quay lại}.",
+              "8": "Hiệu lực thường trực: \"Bu Ruo\": {luôn ở bên cạnh; toàn bộ thuộc tính bằng bạn; khi bạn phóng thích kỹ năng -> cô ấy bắt chước hoàn hảo và phóng thích đồng thời; khi sinh mệnh của cô ấy về 0 -> cuống cuồng tạo một vụ nổ (toàn bộ phe địch chịu 480% sát thương ma pháp + [Sợ hãi] (1 vòng) + tạo 3 vật triệu hồi nhóm [Ối! Hộp!] (cùng kích hoạt ở vòng kế tiếp)) rồi bỏ chạy khỏi chiến trường; sau khi rời khỏi chiến trường -> khi bạn thoát chiến/chiến đấu kết thúc, cô ấy lập tức quay lại}.",
+              "9": "Hiệu lực thường trực: \"Bu Ruo\": {luôn ở bên cạnh; toàn bộ thuộc tính bằng bạn; khi bạn phóng thích kỹ năng -> cô ấy bắt chước hoàn hảo và phóng thích đồng thời; khi sinh mệnh của cô ấy về 0 -> cuống cuồng tạo một vụ nổ (toàn bộ phe địch chịu 490% sát thương ma pháp + [Sợ hãi] (1 vòng) + tạo 3 vật triệu hồi nhóm [Ối! Hộp!] (cùng kích hoạt ở vòng kế tiếp)) rồi bỏ chạy khỏi chiến trường; sau khi rời khỏi chiến trường -> khi bạn thoát chiến/chiến đấu kết thúc, cô ấy lập tức quay lại}.",
+              "10": "Hiệu lực thường trực: \"Bu Ruo\": {luôn ở bên cạnh; toàn bộ thuộc tính bằng bạn; khi bạn phóng thích kỹ năng -> cô ấy bắt chước hoàn hảo và phóng thích đồng thời; khi sinh mệnh của cô ấy về 0 -> cuống cuồng tạo một vụ nổ (toàn bộ phe địch chịu 500% sát thương ma pháp + [Sợ hãi] (1 vòng) + tạo 3 vật triệu hồi nhóm [Ối! Hộp!] (cùng kích hoạt ở vòng kế tiếp)) rồi bỏ chạy khỏi chiến trường; sau khi rời khỏi chiến trường -> khi bạn thoát chiến/chiến đấu kết thúc, cô ấy lập tức quay lại}.",
+              "11": "Hiệu lực thường trực: \"Bu Ruo\": {luôn ở bên cạnh; toàn bộ thuộc tính bằng bạn; khi bạn phóng thích kỹ năng -> cô ấy bắt chước hoàn hảo và phóng thích đồng thời; khi sinh mệnh của cô ấy về 0 -> cuống cuồng tạo một vụ nổ (toàn bộ phe địch chịu 510% sát thương ma pháp + [Sợ hãi] (1 vòng) + tạo 3 vật triệu hồi nhóm [Ối! Hộp!] (cùng kích hoạt ở vòng kế tiếp)) rồi bỏ chạy khỏi chiến trường; sau khi rời khỏi chiến trường -> khi bạn thoát chiến/chiến đấu kết thúc, cô ấy lập tức quay lại}.",
+              "12": "Hiệu lực thường trực: \"Bu Ruo\": {luôn ở bên cạnh; toàn bộ thuộc tính bằng bạn; khi bạn phóng thích kỹ năng -> cô ấy bắt chước hoàn hảo và phóng thích đồng thời; khi sinh mệnh của cô ấy về 0 -> cuống cuồng tạo một vụ nổ (toàn bộ phe địch chịu 520% sát thương ma pháp + [Sợ hãi] (1 vòng) + tạo 3 vật triệu hồi nhóm [Ối! Hộp!] (cùng kích hoạt ở vòng kế tiếp)) rồi bỏ chạy khỏi chiến trường; sau khi rời khỏi chiến trường -> khi bạn thoát chiến/chiến đấu kết thúc, cô ấy lập tức quay lại}.",
+              "13": "Hiệu lực thường trực: \"Bu Ruo\": {luôn ở bên cạnh; toàn bộ thuộc tính bằng bạn; khi bạn phóng thích kỹ năng -> cô ấy bắt chước hoàn hảo và phóng thích đồng thời; khi sinh mệnh của cô ấy về 0 -> cuống cuồng tạo một vụ nổ (toàn bộ phe địch chịu 530% sát thương ma pháp + [Sợ hãi] (1 vòng) + tạo 3 vật triệu hồi nhóm [Ối! Hộp!] (cùng kích hoạt ở vòng kế tiếp)) rồi bỏ chạy khỏi chiến trường; sau khi rời khỏi chiến trường -> khi bạn thoát chiến/chiến đấu kết thúc, cô ấy lập tức quay lại}.",
+              "14": "Hiệu lực thường trực: \"Bu Ruo\": {luôn ở bên cạnh; toàn bộ thuộc tính bằng bạn; khi bạn phóng thích kỹ năng -> cô ấy bắt chước hoàn hảo và phóng thích đồng thời; khi sinh mệnh của cô ấy về 0 -> cuống cuồng tạo một vụ nổ (toàn bộ phe địch chịu 540% sát thương ma pháp + [Sợ hãi] (1 vòng) + tạo 3 vật triệu hồi nhóm [Ối! Hộp!] (cùng kích hoạt ở vòng kế tiếp)) rồi bỏ chạy khỏi chiến trường; sau khi rời khỏi chiến trường -> khi bạn thoát chiến/chiến đấu kết thúc, cô ấy lập tức quay lại}.",
+              "15": "Hiệu lực thường trực: \"Bu Ruo\": {luôn ở bên cạnh; toàn bộ thuộc tính bằng bạn; khi bạn phóng thích kỹ năng -> cô ấy bắt chước hoàn hảo và phóng thích đồng thời; khi sinh mệnh của cô ấy về 0 -> cuống cuồng tạo một vụ nổ (toàn bộ phe địch chịu 550% sát thương ma pháp + [Sợ hãi] (1 vòng) + tạo 3 vật triệu hồi nhóm [Ối! Hộp!] (cùng kích hoạt ở vòng kế tiếp)) rồi bỏ chạy khỏi chiến trường; sau khi rời khỏi chiến trường -> khi bạn thoát chiến/chiến đấu kết thúc, cô ấy lập tức quay lại}."
+            },
+            "阶位": "Chuyển nghề"
+          }
+        ],
+        "进阶": [
+          {
+            "名称": "Ma Thuật Tia Lửa",
+            "类型": "Chủ động",
+            "描述": "Lập tức tiến vào [Lừa Gạt Vô Hình] rồi lộ diện: trong thời gian đó {ẩn hình; đòn công kích của địch phải thực hiện miễn trừ Cảm nhận, nếu thất bại thì chắc chắn đánh hụt; đòn đánh thường hoặc phi nhận kế tiếp gây thêm sát thương rồi lộ diện; AC+5; kỹ năng nhóm [Ối! Hộp!] không phá ẩn thân}; đồng thời kích hoạt [Bom Tia Lửa] tại chỗ, gây sát thương ma pháp lên toàn bộ phe địch.",
+            "特殊效果": {
+              "1": "[Bom Tia Lửa]: {gây sát thương ma pháp lên toàn bộ phe địch; nếu tồn tại kẻ địch đang trong trạng thái [Bụi Sáng Gây Mù]/[Ánh Mạnh Gây Mù] -> kích hoạt nổ bụi: lập tức gây 1 lần sát thương ma pháp bổ sung bằng 55% sát thương của đòn tấn công lần này}.",
+              "2": "[Bom Tia Lửa]: {gây sát thương ma pháp lên toàn bộ phe địch; nếu tồn tại kẻ địch đang trong trạng thái [Bụi Sáng Gây Mù]/[Ánh Mạnh Gây Mù] -> kích hoạt nổ bụi: lập tức gây 1 lần sát thương ma pháp bổ sung bằng 60% sát thương của đòn tấn công lần này}.",
+              "3": "[Bom Tia Lửa]: {gây sát thương ma pháp lên toàn bộ phe địch; nếu tồn tại kẻ địch đang trong trạng thái [Bụi Sáng Gây Mù]/[Ánh Mạnh Gây Mù] -> kích hoạt nổ bụi: lập tức gây 1 lần sát thương ma pháp bổ sung bằng 65% sát thương của đòn tấn công lần này}.",
+              "4": "[Bom Tia Lửa]: {gây sát thương ma pháp lên toàn bộ phe địch; nếu tồn tại kẻ địch đang trong trạng thái [Bụi Sáng Gây Mù]/[Ánh Mạnh Gây Mù] -> kích hoạt nổ bụi: lập tức gây 1 lần sát thương ma pháp bổ sung bằng 70% sát thương của đòn tấn công lần này}.",
+              "5": "[Bom Tia Lửa]: {gây sát thương ma pháp lên toàn bộ phe địch; nếu tồn tại kẻ địch đang trong trạng thái [Bụi Sáng Gây Mù]/[Ánh Mạnh Gây Mù] -> kích hoạt nổ bụi: lập tức gây 1 lần sát thương ma pháp bổ sung bằng 75% sát thương của đòn tấn công lần này}.",
+              "6": "[Bom Tia Lửa]: {gây sát thương ma pháp lên toàn bộ phe địch; nếu tồn tại kẻ địch đang trong trạng thái [Bụi Sáng Gây Mù]/[Ánh Mạnh Gây Mù] -> kích hoạt nổ bụi: lập tức gây 1 lần sát thương ma pháp bổ sung bằng 80% sát thương của đòn tấn công lần này}.",
+              "7": "[Bom Tia Lửa]: {gây sát thương ma pháp lên toàn bộ phe địch; nếu tồn tại kẻ địch đang trong trạng thái [Bụi Sáng Gây Mù]/[Ánh Mạnh Gây Mù] -> kích hoạt nổ bụi: lập tức gây 1 lần sát thương ma pháp bổ sung bằng 85% sát thương của đòn tấn công lần này}.",
+              "8": "[Bom Tia Lửa]: {gây sát thương ma pháp lên toàn bộ phe địch; nếu tồn tại kẻ địch đang trong trạng thái [Bụi Sáng Gây Mù]/[Ánh Mạnh Gây Mù] -> kích hoạt nổ bụi: lập tức gây 1 lần sát thương ma pháp bổ sung bằng 90% sát thương của đòn tấn công lần này}.",
+              "9": "[Bom Tia Lửa]: {gây sát thương ma pháp lên toàn bộ phe địch; nếu tồn tại kẻ địch đang trong trạng thái [Bụi Sáng Gây Mù]/[Ánh Mạnh Gây Mù] -> kích hoạt nổ bụi: lập tức gây 1 lần sát thương ma pháp bổ sung bằng 95% sát thương của đòn tấn công lần này}.",
+              "10": "[Bom Tia Lửa]: {gây sát thương ma pháp lên toàn bộ phe địch; nếu tồn tại kẻ địch đang trong trạng thái [Bụi Sáng Gây Mù]/[Ánh Mạnh Gây Mù] -> kích hoạt nổ bụi: lập tức gây 1 lần sát thương ma pháp bổ sung bằng 100% sát thương của đòn tấn công lần này}."
+            },
+            "阶位": "Nâng cao"
+          },
+          {
+            "名称": "Song Nhận Kịch Độc",
+            "类型": "Chủ động",
+            "描述": "Ném hai phi nhận tẩm độc vào mục tiêu -> trúng đích -> xem như liên tiếp đánh trúng kẻ địch hai lần, gây sát thương ma pháp gấp 1,5 lần -> áp đặt [Độc Phát Kép].",
+            "特殊效果": {
+              "1": "[Độc Phát Kép]: {mỗi vòng mất 15% sinh mệnh; AC-4; kiểm định trúng đích -4; kéo dài 1 vòng}.",
+              "2": "[Độc Phát Kép]: {mỗi vòng mất 15% sinh mệnh; AC-4; kiểm định trúng đích -4; kéo dài 1 vòng}.",
+              "3": "[Độc Phát Kép]: {mỗi vòng mất 15% sinh mệnh; AC-4; kiểm định trúng đích -4; kéo dài 1 vòng}.",
+              "4": "[Độc Phát Kép]: {mỗi vòng mất 15% sinh mệnh; AC-4; kiểm định trúng đích -4; kéo dài 1 vòng}.",
+              "5": "[Độc Phát Kép]: {mỗi vòng mất 15% sinh mệnh; AC-4; kiểm định trúng đích -4; kéo dài 1 vòng}.",
+              "6": "[Độc Phát Kép]: {mỗi vòng mất 16% sinh mệnh; AC-5; kiểm định trúng đích -5; kéo dài 1 vòng}.",
+              "7": "[Độc Phát Kép]: {mỗi vòng mất 16% sinh mệnh; AC-5; kiểm định trúng đích -5; kéo dài 1 vòng}.",
+              "8": "[Độc Phát Kép]: {mỗi vòng mất 16% sinh mệnh; AC-5; kiểm định trúng đích -5; kéo dài 1 vòng}.",
+              "9": "[Độc Phát Kép]: {mỗi vòng mất 18% sinh mệnh; AC-5; kiểm định trúng đích -5; kéo dài 1 vòng}.",
+              "10": "[Độc Phát Kép]: {mỗi vòng mất 18% sinh mệnh; AC-6; kiểm định trúng đích -6; kéo dài 2 vòng}."
+            },
+            "阶位": "Nâng cao"
+          },
+          {
+            "名称": "Hộp Nhạc của Bu Ruo",
+            "类型": "Triệu hồi",
+            "描述": "Vật triệu hồi của kỹ năng này được phân vào nhóm [Ối! Hộp!]; sản phẩm Bu Ruo nảy ý tưởng sau khi chơi OO Corporation; triệu hồi [Hộp Nhạc Hù Dọa · Kiểu Đi Bộ] ngay tại chỗ (kích hoạt trễ 1 vòng): {dưới hộp có một đôi chân thon dài, có thể chủ động né tránh hoặc truy kích kẻ địch; AC+3; kiểm định trúng đích +3}.",
+            "召唤物名称": "Hộp Nhạc Hù Dọa · Kiểu Đi Bộ",
+            "特殊效果": {
+              "1": "[Hộp Nhạc Hù Dọa · Kiểu Đi Bộ]: {kích hoạt -> áp đặt [Sợ hãi] (1 vòng) lên kẻ địch xung quanh và lập tức phát động một lần tấn công ma pháp; đòn tấn công của hộp nhạc có thể phủ toàn bộ kẻ địch, nhưng nếu số mục tiêu tấn công ≥ 2 -> sát thương lần này -50%.}",
+              "2": "[Hộp Nhạc Hù Dọa · Kiểu Đi Bộ]: {kích hoạt -> áp đặt [Sợ hãi] (1 vòng) lên kẻ địch xung quanh và lập tức phát động một lần tấn công ma pháp; đòn tấn công của hộp nhạc có thể phủ toàn bộ kẻ địch, nhưng nếu số mục tiêu tấn công ≥ 2 -> sát thương lần này -48%.}",
+              "3": "[Hộp Nhạc Hù Dọa · Kiểu Đi Bộ]: {kích hoạt -> áp đặt [Sợ hãi] (1 vòng) lên kẻ địch xung quanh và lập tức phát động một lần tấn công ma pháp; đòn tấn công của hộp nhạc có thể phủ toàn bộ kẻ địch, nhưng nếu số mục tiêu tấn công ≥ 2 -> sát thương lần này -46%.}",
+              "4": "[Hộp Nhạc Hù Dọa · Kiểu Đi Bộ]: {kích hoạt -> áp đặt [Sợ hãi] (1 vòng) lên kẻ địch xung quanh và lập tức phát động một lần tấn công ma pháp; đòn tấn công của hộp nhạc có thể phủ toàn bộ kẻ địch, nhưng nếu số mục tiêu tấn công ≥ 2 -> sát thương lần này -44%.}",
+              "5": "[Hộp Nhạc Hù Dọa · Kiểu Đi Bộ]: {kích hoạt -> áp đặt [Sợ hãi] (1 vòng) lên kẻ địch xung quanh và lập tức phát động một lần tấn công ma pháp; đòn tấn công của hộp nhạc có thể phủ toàn bộ kẻ địch, nhưng nếu số mục tiêu tấn công ≥ 2 -> sát thương lần này -42%.}",
+              "6": "[Hộp Nhạc Hù Dọa · Kiểu Đi Bộ]: {kích hoạt -> áp đặt [Sợ hãi] (1 vòng) lên kẻ địch xung quanh và lập tức phát động một lần tấn công ma pháp; đòn tấn công của hộp nhạc có thể phủ toàn bộ kẻ địch, nhưng nếu số mục tiêu tấn công ≥ 2 -> sát thương lần này -40%.}",
+              "7": "[Hộp Nhạc Hù Dọa · Kiểu Đi Bộ]: {kích hoạt -> áp đặt [Sợ hãi] (1 vòng) lên kẻ địch xung quanh và lập tức phát động một lần tấn công ma pháp; đòn tấn công của hộp nhạc có thể phủ toàn bộ kẻ địch, nhưng nếu số mục tiêu tấn công ≥ 2 -> sát thương lần này -38%.}",
+              "8": "[Hộp Nhạc Hù Dọa · Kiểu Đi Bộ]: {kích hoạt -> áp đặt [Sợ hãi] (1 vòng) lên kẻ địch xung quanh và lập tức phát động một lần tấn công ma pháp; đòn tấn công của hộp nhạc có thể phủ toàn bộ kẻ địch, nhưng nếu số mục tiêu tấn công ≥ 2 -> sát thương lần này -36%.}",
+              "9": "[Hộp Nhạc Hù Dọa · Kiểu Đi Bộ]: {kích hoạt -> áp đặt [Sợ hãi] (1 vòng) lên kẻ địch xung quanh và lập tức phát động một lần tấn công ma pháp; đòn tấn công của hộp nhạc có thể phủ toàn bộ kẻ địch, nhưng nếu số mục tiêu tấn công ≥ 2 -> sát thương lần này -34%.}",
+              "10": "[Hộp Nhạc Hù Dọa · Kiểu Đi Bộ]: {kích hoạt -> áp đặt [Sợ hãi] (1 vòng) lên kẻ địch xung quanh và lập tức phát động một lần tấn công ma pháp; đòn tấn công của hộp nhạc có thể phủ toàn bộ kẻ địch, nhưng nếu số mục tiêu tấn công ≥ 2 -> sát thương lần này -32%.}"
+            },
+            "阶位": "Nâng cao"
+          },
+          {
+            "名称": "Bỉ Ngạn Cộng Sinh · Em Gái Bầu Bạn",
+            "类型": "Triệu hồi",
+            "描述": "Ràng buộc với em gái hề cộng sinh Bu Ruo đã sâu thêm lần thứ hai: {một cô bé ngốc đáng yêu, hoạt bát, nghịch ngợm, siêu ham chơi và trung độ mê anh trai; sẽ dốc toàn lực hỗ trợ chiến đấu; thường trực tồn tại và có tính duy nhất; không thể chủ động triệu hồi; sau chiến đấu sẽ làm mới trạng thái hoặc quay lại}.",
+            "召唤物名称": "Bu Ruo",
+            "特殊效果": {
+              "1": "Hiệu lực thường trực: \"Bu Ruo\": {luôn ở bên cạnh; toàn bộ thuộc tính bằng bạn; khi bạn phóng thích kỹ năng -> cô ấy bắt chước hoàn hảo và phóng thích đồng thời; khi sinh mệnh của cô ấy về 0 -> cuống cuồng tạo một vụ nổ (toàn bộ phe địch chịu 600% sát thương ma pháp + [Sợ hãi] (1 vòng) + tạo 3 vật triệu hồi nhóm [Ối! Hộp!] (cùng kích hoạt ở vòng kế tiếp)) rồi bỏ chạy khỏi chiến trường; sau khi rời khỏi chiến trường -> khi bạn thoát chiến/chiến đấu kết thúc, cô ấy lập tức quay lại}.",
+              "2": "Hiệu lực thường trực: \"Bu Ruo\": {luôn ở bên cạnh; toàn bộ thuộc tính bằng bạn; khi bạn phóng thích kỹ năng -> cô ấy bắt chước hoàn hảo và phóng thích đồng thời; khi sinh mệnh của cô ấy về 0 -> cuống cuồng tạo một vụ nổ (toàn bộ phe địch chịu 660% sát thương ma pháp + [Sợ hãi] (1 vòng) + tạo 3 vật triệu hồi nhóm [Ối! Hộp!] (cùng kích hoạt ở vòng kế tiếp)) rồi bỏ chạy khỏi chiến trường; sau khi rời khỏi chiến trường -> khi bạn thoát chiến/chiến đấu kết thúc, cô ấy lập tức quay lại}.",
+              "3": "Hiệu lực thường trực: \"Bu Ruo\": {luôn ở bên cạnh; toàn bộ thuộc tính bằng bạn; khi bạn phóng thích kỹ năng -> cô ấy bắt chước hoàn hảo và phóng thích đồng thời; khi sinh mệnh của cô ấy về 0 -> cuống cuồng tạo một vụ nổ (toàn bộ phe địch chịu 670% sát thương ma pháp + [Sợ hãi] (1 vòng) + tạo 3 vật triệu hồi nhóm [Ối! Hộp!] (cùng kích hoạt ở vòng kế tiếp)) rồi bỏ chạy khỏi chiến trường; sau khi rời khỏi chiến trường -> khi bạn thoát chiến/chiến đấu kết thúc, cô ấy lập tức quay lại}.",
+              "4": "Hiệu lực thường trực: \"Bu Ruo\": {luôn ở bên cạnh; toàn bộ thuộc tính bằng bạn; khi bạn phóng thích kỹ năng -> cô ấy bắt chước hoàn hảo và phóng thích đồng thời; khi sinh mệnh của cô ấy về 0 -> cuống cuồng tạo một vụ nổ (toàn bộ phe địch chịu 680% sát thương ma pháp + [Sợ hãi] (1 vòng) + tạo 3 vật triệu hồi nhóm [Ối! Hộp!] (cùng kích hoạt ở vòng kế tiếp)) rồi bỏ chạy khỏi chiến trường; sau khi rời khỏi chiến trường -> khi bạn thoát chiến/chiến đấu kết thúc, cô ấy lập tức quay lại}.",
+              "5": "Hiệu lực thường trực: \"Bu Ruo\": {luôn ở bên cạnh; toàn bộ thuộc tính bằng bạn; khi bạn phóng thích kỹ năng -> cô ấy bắt chước hoàn hảo và phóng thích đồng thời; khi sinh mệnh của cô ấy về 0 -> cuống cuồng tạo một vụ nổ (toàn bộ phe địch chịu 690% sát thương ma pháp + [Sợ hãi] (1 vòng) + tạo 3 vật triệu hồi nhóm [Ối! Hộp!] (cùng kích hoạt ở vòng kế tiếp)) rồi bỏ chạy khỏi chiến trường; sau khi rời khỏi chiến trường -> khi bạn thoát chiến/chiến đấu kết thúc, cô ấy lập tức quay lại}.",
+              "6": "Hiệu lực thường trực: \"Bu Ruo\": {luôn ở bên cạnh; toàn bộ thuộc tính bằng bạn; khi bạn phóng thích kỹ năng -> cô ấy bắt chước hoàn hảo và phóng thích đồng thời; khi sinh mệnh của cô ấy về 0 -> cuống cuồng tạo một vụ nổ (toàn bộ phe địch chịu 700% sát thương ma pháp + [Sợ hãi] (1 vòng) + tạo 3 vật triệu hồi nhóm [Ối! Hộp!] (cùng kích hoạt ở vòng kế tiếp)) rồi bỏ chạy khỏi chiến trường; sau khi rời khỏi chiến trường -> khi bạn thoát chiến/chiến đấu kết thúc, cô ấy lập tức quay lại}.",
+              "7": "Hiệu lực thường trực: \"Bu Ruo\": {luôn ở bên cạnh; toàn bộ thuộc tính bằng bạn; khi bạn phóng thích kỹ năng -> cô ấy bắt chước hoàn hảo và phóng thích đồng thời; khi sinh mệnh của cô ấy về 0 -> cuống cuồng tạo một vụ nổ (toàn bộ phe địch chịu 710% sát thương ma pháp + [Sợ hãi] (1 vòng) + tạo 3 vật triệu hồi nhóm [Ối! Hộp!] (cùng kích hoạt ở vòng kế tiếp)) rồi bỏ chạy khỏi chiến trường; sau khi rời khỏi chiến trường -> khi bạn thoát chiến/chiến đấu kết thúc, cô ấy lập tức quay lại}.",
+              "8": "Hiệu lực thường trực: \"Bu Ruo\": {luôn ở bên cạnh; toàn bộ thuộc tính bằng bạn; khi bạn phóng thích kỹ năng -> cô ấy bắt chước hoàn hảo và phóng thích đồng thời; khi sinh mệnh của cô ấy về 0 -> cuống cuồng tạo một vụ nổ (toàn bộ phe địch chịu 720% sát thương ma pháp + [Sợ hãi] (1 vòng) + tạo 3 vật triệu hồi nhóm [Ối! Hộp!] (cùng kích hoạt ở vòng kế tiếp)) rồi bỏ chạy khỏi chiến trường; sau khi rời khỏi chiến trường -> khi bạn thoát chiến/chiến đấu kết thúc, cô ấy lập tức quay lại}.",
+              "9": "Hiệu lực thường trực: \"Bu Ruo\": {luôn ở bên cạnh; toàn bộ thuộc tính bằng bạn; khi bạn phóng thích kỹ năng -> cô ấy bắt chước hoàn hảo và phóng thích đồng thời; khi sinh mệnh của cô ấy về 0 -> cuống cuồng tạo một vụ nổ (toàn bộ phe địch chịu 730% sát thương ma pháp + [Sợ hãi] (1 vòng) + tạo 3 vật triệu hồi nhóm [Ối! Hộp!] (cùng kích hoạt ở vòng kế tiếp)) rồi bỏ chạy khỏi chiến trường; sau khi rời khỏi chiến trường -> khi bạn thoát chiến/chiến đấu kết thúc, cô ấy lập tức quay lại}.",
+              "10": "Hiệu lực thường trực: \"Bu Ruo\": {luôn ở bên cạnh; toàn bộ thuộc tính bằng bạn; khi bạn phóng thích kỹ năng -> cô ấy bắt chước hoàn hảo và phóng thích đồng thời; khi sinh mệnh của cô ấy về 0 -> cuống cuồng tạo một vụ nổ (toàn bộ phe địch chịu 740% sát thương ma pháp + [Sợ hãi] (1 vòng) + tạo 3 vật triệu hồi nhóm [Ối! Hộp!] (cùng kích hoạt ở vòng kế tiếp)) rồi bỏ chạy khỏi chiến trường; sau khi rời khỏi chiến trường -> khi bạn thoát chiến/chiến đấu kết thúc, cô ấy lập tức quay lại}."
+            },
+            "阶位": "Nâng cao"
+          }
+        ],
+        "必杀": [
+          {
+            "名称": "Ma Thuật Hư Vô",
+            "类型": "Chủ động",
+            "描述": "Lập tức tiến vào trạng thái [Lừa Gạt Hư Vô]: {trong thời gian đó miễn dịch sát thương vật lý; đòn công kích của địch phải thực hiện miễn trừ Cảm nhận, nếu thất bại thì chắc chắn đánh hụt; đòn đánh thường hoặc phi nhận kế tiếp gây thêm sát thương rồi lộ diện; AC+6}.",
+            "特殊效果": {
+              "1": "[Lừa Gạt Hư Vô]: {ẩn vào hư vô (kéo dài 1 vòng); đòn đánh thường hoặc phi nhận đầu tiên trước khi lộ diện -> kèm sát thương bổ sung và bắt buộc lộ diện; ngoại lệ duy nhất: kỹ năng nhóm [Ối! Hộp!] không phá ẩn thân}.",
+              "2": "[Lừa Gạt Hư Vô]: {ẩn vào hư vô (kéo dài 1 vòng); đòn đánh thường hoặc phi nhận đầu tiên trước khi lộ diện -> kèm sát thương bổ sung và bắt buộc lộ diện; ngoại lệ duy nhất: kỹ năng nhóm [Ối! Hộp!] không phá ẩn thân}.",
+              "3": "[Lừa Gạt Hư Vô]: {ẩn vào hư vô (kéo dài 1 vòng); đòn đánh thường hoặc phi nhận đầu tiên trước khi lộ diện -> kèm sát thương bổ sung và bắt buộc lộ diện; ngoại lệ duy nhất: kỹ năng nhóm [Ối! Hộp!] không phá ẩn thân}.",
+              "4": "[Lừa Gạt Hư Vô]: {ẩn vào hư vô (kéo dài 2 vòng); đòn đánh thường hoặc phi nhận đầu tiên trước khi lộ diện -> kèm sát thương bổ sung và bắt buộc lộ diện; ngoại lệ duy nhất: kỹ năng nhóm [Ối! Hộp!] không phá ẩn thân}.",
+              "5": "[Lừa Gạt Hư Vô]: {ẩn vào hư vô (kéo dài 2 vòng); đòn đánh thường hoặc phi nhận đầu tiên trước khi lộ diện -> kèm sát thương bổ sung và bắt buộc lộ diện; ngoại lệ duy nhất: kỹ năng nhóm [Ối! Hộp!] không phá ẩn thân}.",
+              "6": "[Lừa Gạt Hư Vô]: {ẩn vào hư vô (kéo dài 2 vòng); đòn đánh thường hoặc phi nhận đầu tiên trước khi lộ diện -> kèm sát thương bổ sung và bắt buộc lộ diện; ngoại lệ duy nhất: kỹ năng nhóm [Ối! Hộp!] không phá ẩn thân}.",
+              "7": "[Lừa Gạt Hư Vô]: {ẩn vào hư vô (kéo dài 2 vòng); đòn đánh thường hoặc phi nhận đầu tiên trước khi lộ diện -> kèm sát thương bổ sung và bắt buộc lộ diện; ngoại lệ duy nhất: kỹ năng nhóm [Ối! Hộp!] không phá ẩn thân}."
+            },
+            "阶位": "Tất sát"
+          },
+          {
+            "名称": "Phi Nhận Lực Mạnh",
+            "类型": "Chủ động",
+            "描述": "Ném một phi nhận cỡ lớn, gây sát thương vật lý; không có hiệu quả bổ sung. Không biết Bu Ruo kiếm thứ này từ đâu, dùng nó đúng là thuần sức mạnh!",
+            "特殊效果": {
+              "1": "Phi nhận lần này: {sát thương +80%; ngưỡng bạo kích -3; sát thương bạo kích +50%}.",
+              "2": "Phi nhận lần này: {sát thương +80%; ngưỡng bạo kích -3; sát thương bạo kích +50%}.",
+              "3": "Phi nhận lần này: {sát thương +90%; ngưỡng bạo kích -4; sát thương bạo kích +60%}.",
+              "4": "Phi nhận lần này: {sát thương +90%; ngưỡng bạo kích -4; sát thương bạo kích +60%}.",
+              "5": "Phi nhận lần này: {sát thương +100%; ngưỡng bạo kích -5; sát thương bạo kích +70%}.",
+              "6": "Phi nhận lần này: {sát thương +100%; ngưỡng bạo kích -5; sát thương bạo kích +70%}.",
+              "7": "Phi nhận lần này: {sát thương +120%; ngưỡng bạo kích -6; sát thương bạo kích +70%}."
+            },
+            "阶位": "Tất sát"
+          },
+          {
+            "名称": "Hộp Cơm Giao Tận Nơi của Bu Ruo",
+            "类型": "Triệu hồi",
+            "描述": "Vật triệu hồi của kỹ năng này được phân vào nhóm [Ối! Hộp!]; sản phẩm Bu Ruo nảy ý tưởng sau ba lần liên tiếp bị trộm mất đồ giao tận nơi; triệu hồi [Hộp Cơm Giao Tận Nơi · Kiểu Ẩn] ngay tại chỗ (kích hoạt trễ 1 vòng): {một chiếc hộp trông như có đồ ngon bên trong; mỗi trận chiến chỉ dùng một lần; khi hộp này ra sân -> toàn bộ phe địch miễn trừ Trí lực; thất bại -> vòng này bỏ công kích + mở hộp -> kích hoạt nắm đấm lò xo (sát thương vật lý chắc chắn bạo kích)}.",
+            "召唤物名称": "Hộp Cơm Giao Tận Nơi · Kiểu Ẩn",
+            "特殊效果": {
+              "1": "[Hộp Cơm Giao Tận Nơi · Kiểu Ẩn]: {kích hoạt -> áp đặt [Sợ hãi] (1 vòng) lên kẻ địch xung quanh và lập tức phát động một lần tấn công ma pháp; đòn tấn công của hộp ma có thể phủ toàn bộ kẻ địch, nhưng nếu số mục tiêu tấn công ≥ 2 -> sát thương lần này -50%.}",
+              "2": "[Hộp Cơm Giao Tận Nơi · Kiểu Ẩn]: {kích hoạt -> áp đặt [Sợ hãi] (1 vòng) lên kẻ địch xung quanh và lập tức phát động một lần tấn công ma pháp; đòn tấn công của hộp ma có thể phủ toàn bộ kẻ địch, nhưng nếu số mục tiêu tấn công ≥ 2 -> sát thương lần này -46%.}",
+              "3": "[Hộp Cơm Giao Tận Nơi · Kiểu Ẩn]: {kích hoạt -> áp đặt [Sợ hãi] (1 vòng) lên kẻ địch xung quanh và lập tức phát động một lần tấn công ma pháp; đòn tấn công của hộp ma có thể phủ toàn bộ kẻ địch, nhưng nếu số mục tiêu tấn công ≥ 2 -> sát thương lần này -42%.}",
+              "4": "[Hộp Cơm Giao Tận Nơi · Kiểu Ẩn]: {kích hoạt -> áp đặt [Sợ hãi] (1 vòng) lên kẻ địch xung quanh và lập tức phát động một lần tấn công ma pháp; đòn tấn công của hộp ma có thể phủ toàn bộ kẻ địch, nhưng nếu số mục tiêu tấn công ≥ 2 -> sát thương lần này -38%.}",
+              "5": "[Hộp Cơm Giao Tận Nơi · Kiểu Ẩn]: {kích hoạt -> áp đặt [Sợ hãi] (1 vòng) lên kẻ địch xung quanh và lập tức phát động một lần tấn công ma pháp; đòn tấn công của hộp ma có thể phủ toàn bộ kẻ địch, nhưng nếu số mục tiêu tấn công ≥ 2 -> sát thương lần này -34%.}",
+              "6": "[Hộp Cơm Giao Tận Nơi · Kiểu Ẩn]: {kích hoạt -> áp đặt [Sợ hãi] (1 vòng) lên kẻ địch xung quanh và lập tức phát động một lần tấn công ma pháp; đòn tấn công của hộp ma có thể phủ toàn bộ kẻ địch, nhưng nếu số mục tiêu tấn công ≥ 2 -> sát thương lần này -30%.}",
+              "7": "[Hộp Cơm Giao Tận Nơi · Kiểu Ẩn]: {kích hoạt -> áp đặt [Sợ hãi] (1 vòng) lên kẻ địch xung quanh và lập tức phát động một lần tấn công ma pháp; đòn tấn công của hộp ma có thể phủ toàn bộ kẻ địch, nhưng nếu số mục tiêu tấn công ≥ 2 -> sát thương lần này -26%.}"
+            },
+            "阶位": "Tất sát"
+          },
+          {
+            "名称": "Bỉ Ngạn Cộng Sinh · Em Gái Nương Tựa",
+            "类型": "Triệu hồi",
+            "描述": "Ràng buộc với em gái hề cộng sinh Bu Ruo đã rất sâu: {một cô bé ngốc đáng yêu, hoạt bát, nghịch ngợm, siêu ham chơi và nặng độ mê anh trai; sẽ dốc toàn lực hỗ trợ chiến đấu; thường trực tồn tại và có tính duy nhất; không thể chủ động triệu hồi; sau chiến đấu sẽ làm mới trạng thái hoặc quay lại}.",
+            "召唤物名称": "Bu Ruo",
+            "特殊效果": {
+              "1": "Hiệu lực thường trực: \"Bu Ruo\": {luôn ở bên cạnh; toàn bộ thuộc tính bằng bạn; khi bạn phóng thích kỹ năng -> cô ấy bắt chước hoàn hảo và phóng thích đồng thời; khi sinh mệnh của cô ấy về 0 -> cuống cuồng tạo một vụ nổ (toàn bộ phe địch chịu 600% sát thương ma pháp + [Sợ hãi] (1 vòng) + tạo 3 vật triệu hồi nhóm [Ối! Hộp!] (cùng kích hoạt ở vòng kế tiếp)) rồi bỏ chạy khỏi chiến trường; sau khi rời khỏi chiến trường -> khi bạn thoát chiến/chiến đấu kết thúc, cô ấy lập tức quay lại}.",
+              "2": "Hiệu lực thường trực: \"Bu Ruo\": {luôn ở bên cạnh; toàn bộ thuộc tính bằng bạn; khi bạn phóng thích kỹ năng -> cô ấy bắt chước hoàn hảo và phóng thích đồng thời; khi sinh mệnh của cô ấy về 0 -> cuống cuồng tạo một vụ nổ (toàn bộ phe địch chịu 650% sát thương ma pháp + [Sợ hãi] (1 vòng) + tạo 3 vật triệu hồi nhóm [Ối! Hộp!] (cùng kích hoạt ở vòng kế tiếp)) rồi bỏ chạy khỏi chiến trường; sau khi rời khỏi chiến trường -> khi bạn thoát chiến/chiến đấu kết thúc, cô ấy lập tức quay lại}.",
+              "3": "Hiệu lực thường trực: \"Bu Ruo\": {luôn ở bên cạnh; toàn bộ thuộc tính bằng bạn; khi bạn phóng thích kỹ năng -> cô ấy bắt chước hoàn hảo và phóng thích đồng thời; khi sinh mệnh của cô ấy về 0 -> cuống cuồng tạo một vụ nổ (toàn bộ phe địch chịu 700% sát thương ma pháp + [Sợ hãi] (1 vòng) + tạo 3 vật triệu hồi nhóm [Ối! Hộp!] (cùng kích hoạt ở vòng kế tiếp)) rồi bỏ chạy khỏi chiến trường; sau khi rời khỏi chiến trường -> khi bạn thoát chiến/chiến đấu kết thúc, cô ấy lập tức quay lại}.",
+              "4": "Hiệu lực thường trực: \"Bu Ruo\": {luôn ở bên cạnh; toàn bộ thuộc tính bằng bạn; khi bạn phóng thích kỹ năng -> cô ấy bắt chước hoàn hảo và phóng thích đồng thời; khi sinh mệnh của cô ấy về 0 -> cuống cuồng tạo một vụ nổ (toàn bộ phe địch chịu 750% sát thương ma pháp + [Sợ hãi] (1 vòng) + tạo 3 vật triệu hồi nhóm [Ối! Hộp!] (cùng kích hoạt ở vòng kế tiếp)) rồi bỏ chạy khỏi chiến trường; sau khi rời khỏi chiến trường -> khi bạn thoát chiến/chiến đấu kết thúc, cô ấy lập tức quay lại}.",
+              "5": "Hiệu lực thường trực: \"Bu Ruo\": {luôn ở bên cạnh; toàn bộ thuộc tính bằng bạn; khi bạn phóng thích kỹ năng -> cô ấy bắt chước hoàn hảo và phóng thích đồng thời; khi sinh mệnh của cô ấy về 0 -> cuống cuồng tạo một vụ nổ (toàn bộ phe địch chịu 800% sát thương ma pháp + [Sợ hãi] (1 vòng) + tạo 3 vật triệu hồi nhóm [Ối! Hộp!] (cùng kích hoạt ở vòng kế tiếp)) rồi bỏ chạy khỏi chiến trường; sau khi rời khỏi chiến trường -> khi bạn thoát chiến/chiến đấu kết thúc, cô ấy lập tức quay lại}.",
+              "6": "Hiệu lực thường trực: \"Bu Ruo\": {luôn ở bên cạnh; toàn bộ thuộc tính bằng bạn; khi bạn phóng thích kỹ năng -> cô ấy bắt chước hoàn hảo và phóng thích đồng thời; khi sinh mệnh của cô ấy về 0 -> cuống cuồng tạo một vụ nổ (toàn bộ phe địch chịu 850% sát thương ma pháp + [Sợ hãi] (1 vòng) + tạo 3 vật triệu hồi nhóm [Ối! Hộp!] (cùng kích hoạt ở vòng kế tiếp)) rồi bỏ chạy khỏi chiến trường; sau khi rời khỏi chiến trường -> khi bạn thoát chiến/chiến đấu kết thúc, cô ấy lập tức quay lại}.",
+              "7": "Hiệu lực thường trực: \"Bu Ruo\": {luôn ở bên cạnh; toàn bộ thuộc tính bằng bạn; khi bạn phóng thích kỹ năng -> cô ấy bắt chước hoàn hảo và phóng thích đồng thời; khi sinh mệnh của cô ấy về 0 -> cuống cuồng tạo một vụ nổ (toàn bộ phe địch chịu 900% sát thương ma pháp + [Sợ hãi] (1 vòng) + tạo 3 vật triệu hồi nhóm [Ối! Hộp!] (cùng kích hoạt ở vòng kế tiếp)) rồi bỏ chạy khỏi chiến trường; sau khi rời khỏi chiến trường -> khi bạn thoát chiến/chiến đấu kết thúc, cô ấy lập tức quay lại}."
+            },
+            "阶位": "Tất sát"
+          }
+        ],
+        "奥义": [
+          {
+            "名称": "Ma Thuật Hoàn Mỹ",
+            "类型": "Chủ động",
+            "描述": "Lập tức tiến vào trạng thái [Lừa Gạt Hoàn Mỹ]: {vô hình; vô địch; đòn đánh thường và phi nhận sẽ không khiến bản thân lộ diện, đồng thời đều có thể kèm sát thương bổ sung}.",
+            "特殊效果": {
+              "1": "[Lừa Gạt Hoàn Mỹ]: {ẩn vào lĩnh vực không thể nhìn thấy (kéo dài 1 vòng); đòn đánh thường hoặc phi nhận đầu tiên -> kèm sát thương bổ sung; trong thời gian duy trì sẽ vô địch; vô hình; không chịu ảnh hưởng của hiệu quả bất lợi}.",
+              "2": "[Lừa Gạt Hoàn Mỹ]: {ẩn vào lĩnh vực không thể nhìn thấy (kéo dài 1 vòng); đòn đánh thường hoặc phi nhận đầu tiên -> kèm sát thương bổ sung; trong thời gian duy trì sẽ vô địch; vô hình; không chịu ảnh hưởng của hiệu quả bất lợi}.",
+              "3": "[Lừa Gạt Hoàn Mỹ]: {ẩn vào lĩnh vực không thể nhìn thấy (kéo dài 2 vòng); đòn đánh thường hoặc phi nhận đầu tiên -> kèm sát thương bổ sung; trong thời gian duy trì sẽ vô địch; vô hình; không chịu ảnh hưởng của hiệu quả bất lợi}.",
+              "4": "[Lừa Gạt Hoàn Mỹ]: {ẩn vào lĩnh vực không thể nhìn thấy (kéo dài 2 vòng); đòn đánh thường hoặc phi nhận đầu tiên -> kèm sát thương bổ sung; trong thời gian duy trì sẽ vô địch; vô hình; không chịu ảnh hưởng của hiệu quả bất lợi}.",
+              "5": "[Lừa Gạt Hoàn Mỹ]: {ẩn vào lĩnh vực không thể nhìn thấy (kéo dài 2 vòng); đòn đánh thường hoặc phi nhận đầu tiên -> kèm sát thương bổ sung; trong thời gian duy trì sẽ vô địch; vô hình; không chịu ảnh hưởng của hiệu quả bất lợi}."
+            },
+            "阶位": "Áo nghĩa"
+          },
+          {
+            "名称": "Mưa Dao Găm",
+            "类型": "Chủ động",
+            "描述": "Ném phi nhận như mưa xối -> trúng đích -> gây sát thương hỗn hợp vật lý/ma pháp bỏ qua kháng tính lên toàn bộ phe địch; áp đặt [Trăm Độc Cùng Phát]; sau đó -> lập tức gây thêm một lần sát thương ma pháp.",
+            "特殊效果": {
+              "1": "[Trăm Độc Cùng Phát]: {chảy máu không dứt; đau đớn không dứt; ngứa ngáy khó chịu; tinh thần rối loạn; toàn bộ kiểm định hành động -5; sát thương cuối cùng phải chịu +20%; kéo dài tới khi chiến đấu kết thúc}.",
+              "2": "[Trăm Độc Cùng Phát]: {chảy máu không dứt; đau đớn không dứt; ngứa ngáy khó chịu; tinh thần rối loạn; toàn bộ kiểm định hành động -5; sát thương cuối cùng phải chịu +40%; kéo dài tới khi chiến đấu kết thúc}.",
+              "3": "[Trăm Độc Cùng Phát]: {chảy máu không dứt; đau đớn không dứt; ngứa ngáy khó chịu; tinh thần rối loạn; toàn bộ kiểm định hành động -6; sát thương cuối cùng phải chịu +60%; kéo dài tới khi chiến đấu kết thúc}.",
+              "4": "[Trăm Độc Cùng Phát]: {chảy máu không dứt; đau đớn không dứt; ngứa ngáy khó chịu; tinh thần rối loạn; toàn bộ kiểm định hành động -6; sát thương cuối cùng phải chịu +80%; kéo dài tới khi chiến đấu kết thúc}.",
+              "5": "[Trăm Độc Cùng Phát]: {chảy máu không dứt; đau đớn không dứt; ngứa ngáy khó chịu; tinh thần rối loạn; toàn bộ kiểm định hành động -7; sát thương cuối cùng phải chịu +100%; kéo dài tới khi chiến đấu kết thúc}."
+            },
+            "阶位": "Áo nghĩa"
+          },
+          {
+            "名称": "Hộp Búp Bê Lồng Nhau của Bu Ruo",
+            "类型": "Triệu hồi",
+            "描述": "Vật triệu hồi của kỹ năng này được phân vào nhóm [Ối! Hộp!]; Bu Ruo lấy ra món đồ chơi tuổi thơ rất có ý nghĩa kỷ niệm; triệu hồi [Hộp Ma Búp Bê Lồng Nhau · Bản Tuổi Thơ] ngay tại chỗ (kích hoạt trễ 1 vòng): {trong hộp vẫn còn hộp; khi chịu sát thương chí tử -> miễn dịch lần sát thương đó và lập tức hồi sinh đầy máu (mỗi Hộp Ma Búp Bê Lồng Nhau chỉ giới hạn 1 lần)}.",
+            "召唤物名称": "Hộp Ma Búp Bê Lồng Nhau · Bản Tuổi Thơ",
+            "特殊效果": {
+              "1": "[Hộp Ma Búp Bê Lồng Nhau · Bản Tuổi Thơ]: {kích hoạt -> áp đặt [Sợ hãi] (1 vòng) lên kẻ địch xung quanh và lập tức phát động một lần tấn công ma pháp; đòn tấn công của hộp ma có thể phủ toàn bộ kẻ địch, nhưng nếu số mục tiêu tấn công ≥ 2 -> sát thương lần này -50%.}",
+              "2": "[Hộp Ma Búp Bê Lồng Nhau · Bản Tuổi Thơ]: {kích hoạt -> áp đặt [Sợ hãi] (1 vòng) lên kẻ địch xung quanh và lập tức phát động một lần tấn công ma pháp; đòn tấn công của hộp ma có thể phủ toàn bộ kẻ địch, nhưng nếu số mục tiêu tấn công ≥ 2 -> sát thương lần này -44%.}",
+              "3": "[Hộp Ma Búp Bê Lồng Nhau · Bản Tuổi Thơ]: {kích hoạt -> áp đặt [Sợ hãi] (1 vòng) lên kẻ địch xung quanh và lập tức phát động một lần tấn công ma pháp; đòn tấn công của hộp ma có thể phủ toàn bộ kẻ địch, nhưng nếu số mục tiêu tấn công ≥ 2 -> sát thương lần này -38%.}",
+              "4": "[Hộp Ma Búp Bê Lồng Nhau · Bản Tuổi Thơ]: {kích hoạt -> áp đặt [Sợ hãi] (1 vòng) lên kẻ địch xung quanh và lập tức phát động một lần tấn công ma pháp; đòn tấn công của hộp ma có thể phủ toàn bộ kẻ địch, nhưng nếu số mục tiêu tấn công ≥ 2 -> sát thương lần này -32%.}",
+              "5": "[Hộp Ma Búp Bê Lồng Nhau · Bản Tuổi Thơ]: {kích hoạt -> áp đặt [Sợ hãi] (1 vòng) lên kẻ địch xung quanh và lập tức phát động một lần tấn công ma pháp; đòn tấn công của hộp ma có thể phủ toàn bộ kẻ địch, nhưng nếu số mục tiêu tấn công ≥ 2 -> sát thương lần này -26%.}"
+            },
+            "阶位": "Áo nghĩa"
+          },
+          {
+            "名称": "Bỉ Ngạn Cộng Sinh · Em Gái Yêu Nhau",
+            "类型": "Triệu hồi",
+            "描述": "Ràng buộc với em gái hề cộng sinh Bu Ruo đã kéo đầy: {một cô dâu mới ngốc đáng yêu, hoạt bát, nghịch ngợm, siêu ham chơi và không gả cho ai ngoài anh trai; sẽ dốc toàn lực hỗ trợ chiến đấu; thường trực tồn tại và có tính duy nhất; không thể chủ động triệu hồi; sau chiến đấu sẽ làm mới trạng thái hoặc quay lại}.",
+            "召唤物名称": "Bu Ruo",
+            "特殊效果": {
+              "1": "Hiệu lực thường trực: \"Bu Ruo\": {luôn ở bên cạnh; toàn bộ thuộc tính bằng bạn; khi bạn phóng thích kỹ năng -> cô ấy bắt chước hoàn hảo và phóng thích đồng thời; khi sinh mệnh của cô ấy về 0 -> ung dung tạo một vụ nổ (toàn bộ phe địch chịu 1200% sát thương ma pháp + [Sợ hãi] (1 vòng) + tạo 3 vật triệu hồi nhóm [Ối! Hộp!] (cùng kích hoạt ở vòng kế tiếp)) rồi hôn anh trai một cái trước khi rời khỏi chiến trường; sau khi rời khỏi chiến trường -> khi bạn thoát chiến/chiến đấu kết thúc, cô ấy lập tức quay lại}.",
+              "2": "Hiệu lực thường trực: \"Bu Ruo\": {luôn ở bên cạnh; toàn bộ thuộc tính bằng bạn; khi bạn phóng thích kỹ năng -> cô ấy bắt chước hoàn hảo và phóng thích đồng thời; khi sinh mệnh của cô ấy về 0 -> ung dung tạo một vụ nổ (toàn bộ phe địch chịu 1800% sát thương ma pháp + [Sợ hãi] (1 vòng) + tạo 3 vật triệu hồi nhóm [Ối! Hộp!] (cùng kích hoạt ở vòng kế tiếp)) rồi hôn anh trai một cái trước khi rời khỏi chiến trường; sau khi rời khỏi chiến trường -> khi bạn thoát chiến/chiến đấu kết thúc, cô ấy lập tức quay lại}.",
+              "3": "Hiệu lực thường trực: \"Bu Ruo\": {luôn ở bên cạnh; toàn bộ thuộc tính bằng bạn; khi bạn phóng thích kỹ năng -> cô ấy bắt chước hoàn hảo và phóng thích đồng thời; khi sinh mệnh của cô ấy về 0 -> ung dung tạo một vụ nổ (toàn bộ phe địch chịu 2400% sát thương ma pháp + [Sợ hãi] (1 vòng) + tạo 3 vật triệu hồi nhóm [Ối! Hộp!] (cùng kích hoạt ở vòng kế tiếp)) rồi hôn anh trai một cái trước khi rời khỏi chiến trường; sau khi rời khỏi chiến trường -> khi bạn thoát chiến/chiến đấu kết thúc, cô ấy lập tức quay lại}.",
+              "4": "Hiệu lực thường trực: \"Bu Ruo\": {luôn ở bên cạnh; toàn bộ thuộc tính bằng bạn; khi bạn phóng thích kỹ năng -> cô ấy bắt chước hoàn hảo và phóng thích đồng thời; khi sinh mệnh của cô ấy về 0 -> ung dung tạo một vụ nổ (toàn bộ phe địch chịu 3000% sát thương ma pháp + [Sợ hãi] (1 vòng) + tạo 3 vật triệu hồi nhóm [Ối! Hộp!] (cùng kích hoạt ở vòng kế tiếp)) rồi hôn anh trai một cái trước khi rời khỏi chiến trường; sau khi rời khỏi chiến trường -> khi bạn thoát chiến/chiến đấu kết thúc, cô ấy lập tức quay lại}.",
+              "5": "Hiệu lực thường trực: \"Bu Ruo\": {luôn ở bên cạnh; toàn bộ thuộc tính bằng bạn; khi bạn phóng thích kỹ năng -> cô ấy bắt chước hoàn hảo và phóng thích đồng thời; khi sinh mệnh của cô ấy về 0 -> ung dung tạo một vụ nổ (toàn bộ phe địch chịu 4000% sát thương ma pháp + [Sợ hãi] (1 vòng) + tạo 3 vật triệu hồi nhóm [Ối! Hộp!] (cùng kích hoạt ở vòng kế tiếp)) rồi hôn anh trai một cái trước khi rời khỏi chiến trường; sau khi rời khỏi chiến trường -> khi bạn thoát chiến/chiến đấu kết thúc, cô ấy lập tức quay lại}."
+            },
+            "阶位": "Áo nghĩa"
+          }
+        ],
+        "觉醒一": [
+          {
+            "名称": "Ma Thuật Chân Lý",
+            "类型": "Chủ động",
+            "阶位": "Thức tỉnh một",
+            "描述": "Đưa chân lý vào phạm trù ma thuật -> tiến vào trạng thái [Diễn Giải Chân Lý].",
+            "特殊效果": {
+              "1": "[Diễn Giải Chân Lý]: {ẩn vào thế giới tinh thần của phe địch (1 vòng); trong thời gian đó vô địch và bỏ qua mọi kháng tính; mỗi lần toàn bộ đơn vị phe ta tấn công -> khiến sáu thuộc tính của mục tiêu -5 (tối đa cộng dồn 5 lần)}.",
+              "2": "[Diễn Giải Chân Lý]: {ẩn vào thế giới tinh thần của phe địch (2 vòng); trong thời gian đó vô địch và bỏ qua mọi kháng tính; mỗi lần toàn bộ đơn vị phe ta tấn công -> khiến sáu thuộc tính của mục tiêu -10 (tối đa cộng dồn 5 lần)}.",
+              "3": "[Diễn Giải Chân Lý]: {ẩn vào thế giới tinh thần của phe địch (3 vòng); trong thời gian đó vô địch và bỏ qua mọi kháng tính; mỗi lần toàn bộ đơn vị phe ta tấn công -> khiến sáu thuộc tính của mục tiêu -15 (tối đa cộng dồn 5 lần)}."
+            }
+          }
+        ],
+        "觉醒二": [
+          {
+            "名称": "Bỉ Ngạn Cộng Sinh · Họa Phúc Nương Nhau",
+            "类型": "Chủ động",
+            "阶位": "Thức tỉnh hai",
+            "描述": "Khiến bản thân và Bu Ruo tiến vào trạng thái [Họa Phúc Nương Nhau].",
+            "特殊效果": {
+              "1": "[Họa Phúc Nương Nhau]: {sau khi có hiệu lực -> sinh mệnh của Bu Ruo về 0 chỉ kích hoạt vụ nổ và không còn rời khỏi chiến trường; sau vụ nổ -> bạn trừ 30% sinh mệnh để khiến cô ấy lập tức hồi phục tới 100% sinh mệnh (phần trừ này không tính vào kích hoạt vụ nổ); mỗi khi bạn mất 30% sinh mệnh -> Bu Ruo lập tức kích hoạt một vụ nổ}.",
+              "2": "[Họa Phúc Nương Nhau]: {sau khi có hiệu lực -> sinh mệnh của Bu Ruo về 0 chỉ kích hoạt vụ nổ và không còn rời khỏi chiến trường; sau vụ nổ -> bạn trừ 20% sinh mệnh để khiến cô ấy lập tức hồi phục tới 100% sinh mệnh (phần trừ này không tính vào kích hoạt vụ nổ); mỗi khi bạn mất 20% sinh mệnh -> Bu Ruo lập tức kích hoạt một vụ nổ}."
+            }
+          }
+        ],
+        "觉醒三": [
+          {
+            "名称": "Nhà Hát Chung Mạt",
+            "类型": "Chủ động",
+            "阶位": "Thức tỉnh ba",
+            "描述": "Thế giới này chỉ là sân khấu biểu diễn của một cặp anh em; chúng sinh đều là đồ chơi, và sắp phải rời sân khấu.",
+            "特殊效果": {
+              "1": "Sau khi mở ra -> triển khai [Nhà Hát Chung Mạt] phong tỏa toàn chiến trường; phong ấn mọi kỹ năng/đặc chất/vật phẩm của phe địch (không thể kháng cự); bước vào đếm ngược 3 vòng (không thể gián đoạn); khi đếm ngược kết thúc -> toàn bộ kẻ địch bắt buộc chiến bại."
+            }
+          }
+        ]
+      },
+      "skillTreeForClass": "Hề Ác Ma",
+      "lockedSkillMap": {},
+      "skillFlavorInput": "",
+      "teammates": [],
+      "customTeammate": null,
+      "selectedTraits": [
+        "Hề cung đình",
+        "Nghiện cờ bạc"
+      ],
+      "customTraits": [],
+      "customExpertise": [],
+      "customIdentity": {
+        "enabled": true,
+        "name": "Ác Ma Song Sinh",
+        "desc": "Cặp anh em ác ma sống trong lĩnh vực tinh thần. Sau khi được Tetto gọi tới Disboard, họ bước lên chuyến hành trình yêu thương lẫn nhau.",
+        "tierIndex": 3
+      },
+      "selectedOpening": "traverse",
+      "customOpeningText": "",
+      "selectedDifficulty": "normal",
+      "customRace": {
+        "enabled": true,
+        "name": "Ác Ma Song Sinh",
+        "trait1": {
+          "name": "Bỉ Ngạn Cộng Sinh · Liên Kết Linh Hồn",
+          "detail": "Luôn đi cùng em gái; khi cùng hành động với Bu Ruo -> {kiểm định sáu thuộc tính +6; kiểm định chiến lợi phẩm +6}; khi tách khỏi cô ấy và ở một mình -> {kiểm định sáu thuộc tính -6; kiểm định chiến lợi phẩm -6}.",
+          "negative": false
+        },
+        "trait2": {
+          "name": "Bỉ Ngạn Cộng Sinh · Chia Sẻ Sinh Mệnh",
+          "detail": "Sinh mệnh liên kết với em gái Bu Ruo; chỉ cần một trong hai anh em còn sống -> người còn lại không thể chết (sinh mệnh về 0 vẫn có thể hành động; sau khi về 0 mà lại chịu sát thương, sát thương đó sẽ chuyển toàn bộ sang người có sinh mệnh chưa về 0); cả hai không chịu ảnh hưởng của [tường thuật HP] (bất kể lượng máu nào cũng xem là trạng thái nguyên vẹn).",
+          "negative": false
+        }
+      }
+    }
+  }
+}

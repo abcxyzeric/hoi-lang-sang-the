@@ -1,0 +1,40 @@
+{
+  "ok": true,
+  "preset": {
+    "id": "f2849751-4c8b-4899-9f8c-b7561ee2ff2e",
+    "ownerId": "1203731113076596796",
+    "ownerName": "🐱TO🦅",
+    "author": "🐱TO🦅",
+    "authorAvatar": "https://cdn.discordapp.com/avatars/1203731113076596796/b87e966f1e634e97ba2576645d9c9040.png?size=128",
+    "name": "Quý cô Sett",
+    "title": "Quý cô Sett",
+    "intro": "Phiên bản nữ hóa của Sett. Vẫn giữ vẻ đẹp số liệu kiểu Sett trong Liên Minh: sinh tồn + bộc phát đơn mục tiêu + Cú Đấm Hào Ý ai cũng thích thấy. Có thể tự điều chỉnh độ khó, giới tính hoặc sửa cây kỹ năng theo nhu cầu.",
+    "coverUrl": "/api/presets/f2849751-4c8b-4899-9f8c-b7561ee2ff2e/cover",
+    "className": "Đại Ca",
+    "race": "Thú nhân chủng",
+    "tags": [
+      "Bộc phát",
+      "Đơn mục tiêu",
+      "Sinh tồn",
+      "Duy trì"
+    ],
+    "likes": 3,
+    "liked": false,
+    "downloads": 43,
+    "status": "published",
+    "createdAt": "2026-03-18 11:15:56",
+    "updatedAt": "2026-05-25 02:56:28",
+    "lastLikedAt": "",
+    "presetData": {
+      "name": "Setti",
+      "class": "Đại Ca",
+      "customClassName": "Đại Ca",
+      "race": "Thú nhân chủng",
+      "customRace": null,
+      "customClassStyle": "",
+      "backstory": "",
+      "selectedCustomLevel": 1
+    },
+    "downloadUrl": "/api/presets/f2849751-4c8b-4899-9f8c-b7561ee2ff2e/file"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "ok": true,
+  "preset": {
+    "id": "45fcbe71-3c4b-4efc-a659-f28e5e69508f",
+    "ownerId": "326341461169799178",
+    "ownerName": "Erochika",
+    "author": "Erochika",
+    "authorAvatar": "https://cdn.discordapp.com/avatars/326341461169799178/11e510d57315edb6f0f8d32b70fc4e2b.png?size=128",
+    "name": "Lính đánh thuê PMC",
+    "title": "Lính đánh thuê PMC",
+    "intro": "Sách kỹ năng lính đánh thuê PMC của Escape from Tarkov (đã chỉnh sửa một phần kỹ năng).\nChủng tộc là tự tạo, dùng để biểu thị nhân vật xuyên việt (có thể tự đổi thành nhân loại chủng).\nCốt lõi là “Chợ trời”, dùng tiền thông dụng để mua vật tư hiện đại trong game (cần tự diễn giải hợp lý).\nKỹ năng chính là các động tác chiến thuật hiện đại, đồng thời cũng có triệu hồi đàn em.\nCũng dung hợp Dead Eye của Red Dead Redemption 2 để hỗ trợ.",
+    "coverUrl": "/api/presets/45fcbe71-3c4b-4efc-a659-f28e5e69508f/cover",
+    "className": "Lính đánh thuê đặc nhiệm",
+    "race": "Dị nhân chủng",
+    "tags": [
+      "Bộc phát",
+      "Trò lạ",
+      "Duy trì"
+    ],
+    "likes": 4,
+    "liked": false,
+    "downloads": 32,
+    "status": "published",
+    "createdAt": "2026-03-18 18:58:16",
+    "updatedAt": "2026-05-19 03:06:19",
+    "lastLikedAt": "",
+    "presetData": {
+      "name": "Nakakura Tomoya",
+      "class": "Lính đánh thuê đặc nhiệm",
+      "customClassName": "Lính đánh thuê đặc nhiệm",
+      "race": "__custom__",
+      "customRace": {
+        "name": "Dị nhân chủng"
+      },
+      "customClassStyle": "Một lính đánh thuê sống sót trong Đặc khu kinh tế Norvinsk bị phong tỏa, thành thạo nhiều loại súng, nắm vững nhiều kỹ năng quân sự và kỹ năng sinh tồn.",
+      "backstory": "",
+      "selectedCustomLevel": null
+    },
+    "downloadUrl": "/api/presets/45fcbe71-3c4b-4efc-a659-f28e5e69508f/file"
+  }
+}

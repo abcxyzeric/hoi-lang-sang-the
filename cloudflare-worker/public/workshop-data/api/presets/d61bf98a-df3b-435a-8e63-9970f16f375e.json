@@ -1,0 +1,41 @@
+{
+  "ok": true,
+  "preset": {
+    "id": "d61bf98a-df3b-435a-8e63-9970f16f375e",
+    "ownerId": "1271574516115439686",
+    "ownerName": "Kurokura",
+    "author": "Kurokura",
+    "authorAvatar": "https://cdn.discordapp.com/avatars/1271574516115439686/024230e62639ee437b2653b5ea7b3443.png?size=128",
+    "name": "Thợ Săn Quái Vật - Thái Đao Hiệp",
+    "title": "Thợ Săn Quái Vật - Thái Đao Hiệp",
+    "intro": "Ngoài cơ chế cốt lõi là thanh khí nhận, còn có ba loại tư thế và thái đao dũng khí. Nói chung, đây là nghề cận chiến giỏi hóa giải đòn tấn công của địch rồi dùng phản kích và truy kích để gây sát thương, kiêm cả khả năng sống sót lẫn đầu ra sát thương. Tôi tự thấy liên động giữa các kỹ năng khá mạnh.\n- Đã thêm câu chuyện nền và mở đầu; về sau có lẽ sẽ làm một bản nữ hóa của Fatalis.",
+    "coverUrl": "/api/presets/d61bf98a-df3b-435a-8e63-9970f16f375e/cover",
+    "className": "Thợ Săn Quái Vật - Thái Đao",
+    "race": "Nhân loại chủng",
+    "tags": [
+      "Phản kích",
+      "Truy kích",
+      "Bộc phát",
+      "Duy trì",
+      "Tụt hứng"
+    ],
+    "likes": 14,
+    "liked": false,
+    "downloads": 209,
+    "status": "published",
+    "createdAt": "2026-03-19 15:59:12",
+    "updatedAt": "2026-05-25 05:59:44",
+    "lastLikedAt": "",
+    "presetData": {
+      "name": "Thái Đao Hiệp",
+      "class": "Thợ Săn Quái Vật - Thái Đao",
+      "customClassName": "Thợ Săn Quái Vật - Thái Đao",
+      "race": "Nhân loại chủng",
+      "customRace": null,
+      "customClassStyle": "Thợ săn sử dụng thanh thái đao khổng lồ để săn đủ loại quái vật. Sở trường là lấy thanh khí nhận làm cơ chế cốt lõi để triển khai thế công liên miên không dứt, giỏi truy kích và phản kích trong cận chiến.\n",
+      "backstory": "",
+      "selectedCustomLevel": null
+    },
+    "downloadUrl": "/api/presets/d61bf98a-df3b-435a-8e63-9970f16f375e/file"
+  }
+}

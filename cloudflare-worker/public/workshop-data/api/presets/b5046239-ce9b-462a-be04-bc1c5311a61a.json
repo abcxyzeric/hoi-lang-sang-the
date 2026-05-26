@@ -1,0 +1,35 @@
+{
+  "ok": true,
+  "preset": {
+    "id": "b5046239-ce9b-462a-be04-bc1c5311a61a",
+    "ownerId": "1428761449169158309",
+    "ownerName": "khan",
+    "author": "khan",
+    "authorAvatar": "https://cdn.discordapp.com/avatars/1428761449169158309/a467c649a9ca042bb12fd184024dcef2.png?size=128",
+    "name": "Hakumen / Susano'o",
+    "title": "Hakumen / Susano'o",
+    "intro": "Biến thân và mặc Đơn vị Susano'o.",
+    "coverUrl": "/api/presets/b5046239-ce9b-462a-be04-bc1c5311a61a/cover",
+    "className": "Susano'o",
+    "race": "Yêu ma chủng",
+    "tags": [],
+    "likes": 0,
+    "liked": false,
+    "downloads": 13,
+    "status": "published",
+    "createdAt": "2026-04-22 12:12:31",
+    "updatedAt": "2026-05-14 05:22:21",
+    "lastLikedAt": "",
+    "presetData": {
+      "name": "Taichi Yagami",
+      "class": "Susano'o",
+      "customClassName": "Susano'o",
+      "race": "Yêu ma chủng",
+      "customRace": null,
+      "customClassStyle": "Biến thân và mặc Đơn vị Susano'o.",
+      "backstory": "",
+      "selectedCustomLevel": 1
+    },
+    "downloadUrl": "/api/presets/b5046239-ce9b-462a-be04-bc1c5311a61a/file"
+  }
+}

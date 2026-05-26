@@ -1,0 +1,42 @@
+{
+  "ok": true,
+  "preset": {
+    "id": "61f73c53-0716-4667-97b0-6e34ee80bcb0",
+    "ownerId": "1076866323931480164",
+    "ownerName": "Yiskana",
+    "author": "Yiskana",
+    "authorAvatar": "https://cdn.discordapp.com/avatars/1076866323931480164/def9cb2290e93146aff6a0d5e70ed4c2.png?size=128",
+    "name": "Vũ Giả Hoa Anh Đào",
+    "title": "Vũ Giả Hoa Anh Đào",
+    "intro": "Né tránh (đánh mãi không trúng à), liên kích, kiếm thánh Thập Lý Pha (ý nói chủng tộc có thể cộng dồn tấn công cơ bản vô hạn).",
+    "coverUrl": "/api/presets/61f73c53-0716-4667-97b0-6e34ee80bcb0/cover",
+    "className": "Vũ Giả Hoa Anh Đào",
+    "race": "Anh linh",
+    "tags": [
+      "Bộc phát",
+      "Duy trì",
+      "Sinh tồn",
+      "Vượt chuẩn"
+    ],
+    "likes": 1,
+    "liked": false,
+    "downloads": 40,
+    "status": "published",
+    "createdAt": "2026-05-18 21:36:59",
+    "updatedAt": "2026-05-25 11:50:02",
+    "lastLikedAt": "",
+    "presetData": {
+      "name": "",
+      "class": "Vũ Giả Hoa Anh Đào",
+      "customClassName": "Vũ Giả Hoa Anh Đào",
+      "race": "__custom__",
+      "customRace": {
+        "name": "Anh linh"
+      },
+      "customClassStyle": "Ở tư thái thái đao, sở hữu tốc độ di chuyển cực nhanh và khả năng truy kích liên tục rất nhiều đoạn. Ở tư thái đại thái đao, sở hữu năng lực một đòn sát thương cao và chém giết. Có thể nhanh chóng đổi chế độ trong chiến đấu.",
+      "backstory": "",
+      "selectedCustomLevel": 1
+    },
+    "downloadUrl": "/api/presets/61f73c53-0716-4667-97b0-6e34ee80bcb0/file"
+  }
+}

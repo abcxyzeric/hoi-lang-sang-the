@@ -1,0 +1,40 @@
+{
+  "ok": true,
+  "preset": {
+    "id": "f9e0a79e-d6d1-4524-a8f6-28bf2de3b3fa",
+    "ownerId": "1077119483640037406",
+    "ownerName": "Danny",
+    "author": "Danny",
+    "authorAvatar": "https://cdn.discordapp.com/avatars/1077119483640037406/46a4136ff7087b2097a89726e678958f.png?size=128",
+    "name": "Atum",
+    "title": "Atum",
+    "intro": "Yu-Gi-Oh!",
+    "coverUrl": "/api/presets/f9e0a79e-d6d1-4524-a8f6-28bf2de3b3fa/cover",
+    "className": "Duelist",
+    "race": "Pharaoh",
+    "tags": [
+      "Triệu hồi",
+      "Yu-Gi-Oh!, thẻ bài, triệu hồi"
+    ],
+    "likes": 2,
+    "liked": false,
+    "downloads": 25,
+    "status": "published",
+    "createdAt": "2026-03-20 03:25:44",
+    "updatedAt": "2026-05-22 18:29:56",
+    "lastLikedAt": "",
+    "presetData": {
+      "name": "Atum",
+      "class": "Duelist",
+      "customClassName": "Duelist",
+      "race": "__custom__",
+      "customRace": {
+        "name": "Pharaoh"
+      },
+      "customClassStyle": "Tạo một cây kỹ năng chỉ giới hạn trong Yu-Gi-Oh! Duel Monsters.\nCố gắng tăng tối đa tính biến hóa, số lượng thẻ quái thú, thẻ ma pháp, thẻ bẫy, v.v.\nĐừng chỉ định thẻ cụ thể cho thẻ ma pháp / thẻ quái thú / thẻ bẫy; hãy ghi là rút ngẫu nhiên, mỗi lần đều không xác định.\nHiệu quả nhất định phải đa dạng hóa và có tính ngẫu nhiên cao!!\n**Hiệu quả đặc biệt càng cao cấp thì càng dài và có tính cộng dồn; hiệu quả cấp thấp không được biến mất ở cấp cao.**",
+      "backstory": "",
+      "selectedCustomLevel": null
+    },
+    "downloadUrl": "/api/presets/f9e0a79e-d6d1-4524-a8f6-28bf2de3b3fa/file"
+  }
+}

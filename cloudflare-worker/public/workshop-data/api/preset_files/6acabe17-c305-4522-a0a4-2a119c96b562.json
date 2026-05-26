@@ -1,0 +1,372 @@
+{
+  "exportedAt": "2026-04-06T14:05:01.579Z",
+  "version": "1.0",
+  "preset": {
+    "id": "1775484299906",
+    "name": "Giáp Xingtian",
+    "timestamp": 1775484299906,
+    "createdAt": 1775484299906,
+    "updatedAt": 1775484299906,
+    "data": {
+      "name": "Giáp Xingtian",
+      "gender": "Nam",
+      "age": 18,
+      "race": "Nhân loại chủng",
+      "identity": "Kẻ bại trận vô danh",
+      "avatar": "",
+      "attributes": {
+        "strength": 15,
+        "dexterity": 13,
+        "constitution": 15,
+        "intelligence": 8,
+        "wisdom": 12,
+        "charisma": 8
+      },
+      "backstory": "",
+      "selectedLevelMode": "native",
+      "selectedCustomLevel": 1,
+      "selectedSpawnPoint": "Khu khay tán cây · hành lang lá xanh",
+      "class": "Người Triệu Hồi Giáp",
+      "selectedBaseClass": "Nghề tùy chỉnh",
+      "customClassName": "Người Triệu Hồi Giáp",
+      "customClassStyle": "Cơ chế vận hành cốt lõi: ý năng khu động. Chuyển hóa môi giới: người triệu hồi dùng triệu hồi khí đặc định (như thắt lưng) làm môi giới, hợp thể với giáp để khuếch đại toàn diện năng lực tác chiến. Độ mạnh ý năng: giới hạn trên của sức chiến đấu do ý năng (ý chí và khí trường) quyết định. Ý năng càng mạnh, bội suất khuếch đại của giáp càng cao, thậm chí có thể kích hoạt tiến hóa hình thái \"trạng thái kịch đấu\" hoặc \"trạng thái Chiến Thần\". Khi ý năng cạn kiệt, trạng thái hợp thể giáp bị cưỡng chế giải trừ. Dung nhập võ học: các bộ giáp khác nhau thường mang phong cách cách đấu riêng; Xingtian có phong cách chặn đỡ phản kích kiểu phát sau mà đến trước. Cơ chế sát thương: sát thương phải chịu trong thời gian hợp thể giáp được ý năng triệt tiêu, phản ánh thành đau ảo ở tứ chi và trạng thái tinh thần của người triệu hồi (tinh thần sung mãn - hơi sa sút - uể oải rã rời).",
+      "customClassWeapon": "Triệu hồi khí",
+      "customClassCombatStyle": "Hỗn hợp",
+      "skillTree": {
+        "基础": [
+          {
+            "名称": "Ý Năng",
+            "类型": "Đặc biệt",
+            "描述": "Nguồn sức mạnh của giáp. Trong chiến đấu, ngưng tụ ý chí và khí trường của bản thân, hóa thành tài nguyên hành động và màn chắn bảo hộ của giáp. Sau khi chiến đấu kết thúc tự động hồi đầy tầng.",
+            "特殊效果": {
+              "1": "Nhận trạng thái [Ý Năng], giới hạn cơ bản 5 tầng, mỗi tầng cung cấp sát thương cuối cùng +1% và giảm mọi sát thương 1%.",
+              "2": "Giới hạn tăng lên 6 tầng, mỗi tầng cung cấp sát thương cuối cùng +1% và giảm mọi sát thương 1%.",
+              "3": "Giới hạn tăng lên 6 tầng, mỗi tầng cung cấp sát thương cuối cùng +1% và giảm mọi sát thương 1.5%.",
+              "4": "Giới hạn tăng lên 8 tầng, mỗi tầng cung cấp sát thương cuối cùng +1% và giảm mọi sát thương 1.5%.",
+              "5": "Giới hạn tăng lên 8 tầng, mỗi tầng cung cấp sát thương cuối cùng +1.5% và giảm mọi sát thương 1.5%.",
+              "6": "Giới hạn tăng lên 8 tầng, mỗi tầng cung cấp sát thương cuối cùng +1.5% và giảm mọi sát thương 2%.",
+              "7": "Giới hạn tăng lên 12 tầng, mỗi tầng cung cấp sát thương cuối cùng +1.5% và giảm mọi sát thương 2%.",
+              "8": "Giới hạn tăng lên 12 tầng, mỗi tầng cung cấp sát thương cuối cùng +2% và giảm mọi sát thương 2%.",
+              "9": "Giới hạn tăng lên 12 tầng, mỗi tầng cung cấp sát thương cuối cùng +2% và giảm mọi sát thương 2%; khoảnh khắc mở ra phóng khí lãng khí trường vô hình uy áp chấn nhiếp toàn sân, tiến hành một lần phán định Thể chất, nếu thất bại thì tiến vào trạng thái chấn nhiếp và chắc chắn đi sau.",
+              "10": "Giới hạn tăng lên 16 tầng, mỗi tầng cung cấp sát thương cuối cùng +2% và giảm mọi sát thương 2%; khoảnh khắc mở ra phóng khí lãng khí trường vô hình uy áp chấn nhiếp toàn sân, tiến hành một lần phán định Thể chất, nếu thất bại thì tiến vào trạng thái chấn nhiếp và chắc chắn đi sau.",
+              "11": "Giới hạn tăng lên 16 tầng, mỗi tầng cung cấp sát thương cuối cùng +2% và giảm mọi sát thương 2.5%; khoảnh khắc mở ra phóng khí lãng khí trường vô hình uy áp chấn nhiếp toàn sân, tiến hành một lần phán định Thể chất, nếu thất bại thì tiến vào trạng thái chấn nhiếp và chắc chắn đi sau.",
+              "12": "Giới hạn tăng lên 16 tầng, mỗi tầng cung cấp sát thương cuối cùng +2.5% và giảm mọi sát thương 2.5%; khoảnh khắc mở ra phóng khí lãng khí trường vô hình uy áp chấn nhiếp toàn sân, tiến hành một lần phán định Thể chất, nếu thất bại thì tiến vào trạng thái chấn nhiếp và chắc chắn đi sau.",
+              "13": "Giới hạn tăng lên 20 tầng, mỗi tầng cung cấp sát thương cuối cùng +2.5% và giảm mọi sát thương 2.5%; khoảnh khắc mở ra phóng khí lãng khí trường vô hình uy áp chấn nhiếp toàn sân, tiến hành một lần phán định Thể chất, nếu thất bại thì tiến vào trạng thái chấn nhiếp và chắc chắn đi sau.",
+              "14": "Giới hạn tăng lên 20 tầng, mỗi tầng cung cấp sát thương cuối cùng +2.5% và giảm mọi sát thương 2.5%; khoảnh khắc mở ra phóng khí lãng khí trường vô hình uy áp chấn nhiếp toàn sân, áp trạng thái uy hiếp, chắc chắn đi sau và có xác suất bỏ qua hiệp đầu tiên.",
+              "15": "Giới hạn tăng lên 20 tầng, mỗi tầng cung cấp sát thương cuối cùng +3% và giảm mọi sát thương 3%; khoảnh khắc mở ra phóng khí lãng khí trường vô hình uy áp chấn nhiếp toàn sân, áp trạng thái uy hiếp, chắc chắn đi sau và có xác suất bỏ qua hiệp đầu tiên."
+            },
+            "阶位": "Cơ bản"
+          },
+          {
+            "名称": "Hợp Thể Giáp Xingtian",
+            "类型": "Đặc biệt",
+            "描述": "Chuyển ý năng thành thẻ ý năng và nạp vào triệu hồi khí dạng thắt lưng; tư thế hợp thể/giải thể tiêu chuẩn là tay trái nắm quyền đặt ở hộp thẻ bên hông, tay phải xòe chưởng đưa ngang vai, hoàn thành bao phủ võ trang hình thái cơ bản của Giáp Xingtian. Khuếch đại toàn diện tố chất chiến đấu. Động tác cần thiết là cắm thẻ vào khe triệu hồi khí ở thắt lưng.",
+            "特殊效果": {
+              "1": "Tiêu hao 2 tầng ý năng, tiến vào trạng thái [Giáp Xingtian]: kiểm định Sức mạnh +1, AC+1, kiểm định trúng đòn +1, sát thương cuối cùng +0%, kéo dài 8 hiệp.",
+              "2": "Tiêu hao 2 tầng ý năng, tiến vào trạng thái [Giáp Xingtian]: kiểm định Sức mạnh +2, AC+1, kiểm định trúng đòn +1, sát thương cuối cùng +2%, kéo dài 8 hiệp.",
+              "3": "Tiêu hao 2 tầng ý năng, tiến vào trạng thái [Giáp Xingtian]: kiểm định Sức mạnh +2, AC+2, kiểm định trúng đòn +1, sát thương cuối cùng +4%, kéo dài 8 hiệp.",
+              "4": "Tiêu hao 2 tầng ý năng, tiến vào trạng thái [Giáp Xingtian]: kiểm định Sức mạnh +2, AC+2, kiểm định trúng đòn +2, sát thương cuối cùng +6%, kéo dài 10 hiệp.",
+              "5": "Tiêu hao 2 tầng ý năng, tiến vào trạng thái [Giáp Xingtian]: kiểm định Sức mạnh +3, AC+2, kiểm định trúng đòn +2, sát thương cuối cùng +8%, kéo dài 10 hiệp; kèm hiệu quả chiếu sáng mờ môi trường.",
+              "6": "Tiêu hao 2 tầng ý năng, tiến vào trạng thái [Giáp Xingtian]: kiểm định Sức mạnh +3, AC+3, kiểm định trúng đòn +2, sát thương cuối cùng +10%, kéo dài 10 hiệp; kèm hiệu quả chiếu sáng mờ môi trường.",
+              "7": "Tiêu hao 2 tầng ý năng, tiến vào trạng thái [Giáp Xingtian]: kiểm định Sức mạnh +3, AC+3, kiểm định trúng đòn +3, sát thương cuối cùng +12%, kéo dài 15 hiệp; kèm hiệu quả chiếu sáng mờ môi trường.",
+              "8": "Tiêu hao 2 tầng ý năng, tiến vào trạng thái [Giáp Xingtian]: kiểm định Sức mạnh +4, AC+3, kiểm định trúng đòn +3, sát thương cuối cùng +14%, kéo dài 15 hiệp; kèm hiệu quả chiếu sáng mờ môi trường.",
+              "9": "Tiêu hao 2 tầng ý năng, tiến vào trạng thái [Giáp Xingtian]: kiểm định Sức mạnh +4, AC+4, kiểm định trúng đòn +3, sát thương cuối cùng +16%, kéo dài 15 hiệp; kèm hiệu quả chiếu sáng mờ môi trường.",
+              "10": "Tiêu hao 2 tầng ý năng, tiến vào trạng thái [Giáp Xingtian]: kiểm định Sức mạnh +4, AC+4, kiểm định trúng đòn +4, sát thương cuối cùng +18%, kéo dài 15 hiệp; kèm hiệu quả chiếu sáng mờ môi trường, hiệp đầu ở trạng thái không thể bị chọn.",
+              "11": "Tiêu hao 2 tầng ý năng, tiến vào trạng thái [Giáp Xingtian]: kiểm định Sức mạnh +5, AC+4, kiểm định trúng đòn +4, sát thương cuối cùng +20%, kéo dài 15 hiệp; kèm hiệu quả chiếu sáng mờ môi trường, hiệp đầu ở trạng thái không thể bị chọn.",
+              "12": "Tiêu hao 2 tầng ý năng, tiến vào trạng thái [Giáp Xingtian]: kiểm định Sức mạnh +5, AC+5, kiểm định trúng đòn +4, sát thương cuối cùng +22%, kéo dài 15 hiệp; kèm hiệu quả chiếu sáng mờ môi trường, hiệp đầu ở trạng thái không thể bị chọn.",
+              "13": "Tiêu hao 2 tầng ý năng, tiến vào trạng thái [Giáp Xingtian]: kiểm định Sức mạnh +5, AC+5, kiểm định trúng đòn +5, sát thương cuối cùng +24%, kéo dài 15 hiệp; kèm hiệu quả chiếu sáng mờ môi trường, hiệp đầu ở trạng thái không thể bị chọn.",
+              "14": "Tiêu hao 2 tầng ý năng, tiến vào trạng thái [Giáp Xingtian]: kiểm định Sức mạnh +6, AC+6, kiểm định trúng đòn +6, sát thương cuối cùng +26%, kéo dài 18 hiệp; kèm hiệu quả chiếu sáng mờ môi trường, hiệp đầu ở trạng thái không thể bị chọn.",
+              "15": "Tiêu hao 2 tầng ý năng, tiến vào trạng thái [Giáp Xingtian]: kiểm định Sức mạnh +6, AC+6, kiểm định trúng đòn +6, sát thương cuối cùng +30%, kéo dài 20 hiệp; kèm hiệu quả chiếu sáng mờ môi trường, hiệp đầu ở trạng thái không thể bị chọn, khoảnh khắc hợp thể phóng khí lãng đẩy lùi kẻ địch quanh 1 ô thêm 1 ô."
+            },
+            "阶位": "Cơ bản"
+          },
+          {
+            "名称": "Tế Thiên Chưởng",
+            "类型": "Chủ động",
+            "描述": "Thể hiện võ thuật cổ của Giáp Xingtian, thực hiện một đòn uy hiếp quanh người rồi tiến vào tư thế đỡ phản kích. Dùng để tiếp nhận thế công của địch và áp chế ngược lại.",
+            "特殊效果": {
+              "1": "Gây 1 lần đả kích cận chiến lên kẻ địch quanh 1 ô, sau đó tiến vào trạng thái [Đỡ] 2 hiệp: khi chịu công kích, giảm 10% sát thương và có thể tiêu hao 1 tầng ý năng để phản kích.",
+              "2": "Gây 1 lần đả kích cận chiến lên kẻ địch quanh 1 ô, sau đó tiến vào trạng thái [Đỡ] 2 hiệp: khi chịu công kích, giảm 12% sát thương và có thể tiêu hao 1 tầng ý năng để phản kích.",
+              "3": "Gây 1 lần đả kích cận chiến lên kẻ địch quanh 1 ô, sau đó tiến vào trạng thái [Đỡ] 2 hiệp: khi chịu công kích, giảm 14% sát thương và có thể tiêu hao 1 tầng ý năng để phản kích.",
+              "4": "Gây 1 lần đả kích cận chiến lên kẻ địch quanh 1 ô, sau đó tiến vào trạng thái [Đỡ] 2 hiệp: khi chịu công kích, giảm 16% sát thương và có thể tiêu hao 1 tầng ý năng để phản kích.",
+              "5": "Gây 1 lần đả kích cận chiến lên kẻ địch quanh 2 ô (nếu mục tiêu mang [Chính Pháp], sát thương cuối cùng lần này +5%), sau đó tiến vào trạng thái [Đỡ] 3 hiệp: khi chịu công kích, giảm 18% sát thương và có thể tiêu hao 1 tầng ý năng để phản kích.",
+              "6": "Gây 1 lần đả kích cận chiến lên kẻ địch quanh 2 ô (nếu mục tiêu mang [Chính Pháp], sát thương cuối cùng lần này +8%), sau đó tiến vào trạng thái [Đỡ] 3 hiệp: khi chịu công kích, giảm 20% sát thương và có thể tiêu hao 1 tầng ý năng để phản kích.",
+              "7": "Gây 1 lần đả kích cận chiến lên kẻ địch quanh 2 ô (nếu mục tiêu mang [Chính Pháp], sát thương cuối cùng lần này +11%), sau đó tiến vào trạng thái [Đỡ] 3 hiệp: khi chịu công kích, giảm 22% sát thương và có thể tiêu hao 1 tầng ý năng để phản kích.",
+              "8": "Gây 1 lần đả kích cận chiến lên kẻ địch quanh 2 ô (nếu mục tiêu mang [Chính Pháp], sát thương cuối cùng lần này +14%), sau đó tiến vào trạng thái [Đỡ] 3 hiệp: khi chịu công kích, giảm 24% sát thương và có thể tiêu hao 1 tầng ý năng để phản kích.",
+              "9": "Gây 1 lần đả kích cận chiến lên kẻ địch quanh 2 ô (nếu mục tiêu mang [Chính Pháp], sát thương cuối cùng lần này +17%), sau đó tiến vào trạng thái [Đỡ] 3 hiệp: khi chịu công kích, giảm 26% sát thương và có thể tiêu hao 1 tầng ý năng để phản kích.",
+              "10": "Gây 2 lần đả kích cận chiến lên kẻ địch quanh 2 ô (nếu mục tiêu mang [Chính Pháp], sát thương cuối cùng lần này +20%), sau đó tiến vào trạng thái [Đỡ] 4 hiệp: khi chịu công kích, giảm 28% sát thương và có thể tiêu hao 1 tầng ý năng để phát động phản kích cắt ngang thế công của địch.",
+              "11": "Gây 2 lần đả kích cận chiến lên kẻ địch quanh 2 ô (nếu mục tiêu mang [Chính Pháp], sát thương cuối cùng lần này +22%), sau đó tiến vào trạng thái [Đỡ] 4 hiệp: khi chịu công kích, giảm 30% sát thương và có thể tiêu hao 1 tầng ý năng để phát động phản kích cắt ngang thế công của địch.",
+              "12": "Gây 2 lần đả kích cận chiến lên kẻ địch quanh 2 ô (nếu mục tiêu mang [Chính Pháp], sát thương cuối cùng lần này +24%), sau đó tiến vào trạng thái [Đỡ] 4 hiệp: khi chịu công kích, giảm 32% sát thương và có thể tiêu hao 1 tầng ý năng để phát động phản kích cắt ngang thế công của địch.",
+              "13": "Gây 2 lần đả kích cận chiến lên kẻ địch quanh 2 ô (nếu mục tiêu mang [Chính Pháp], sát thương cuối cùng lần này +26%), sau đó tiến vào trạng thái [Đỡ] 4 hiệp: khi chịu công kích, giảm 34% sát thương và có thể tiêu hao 1 tầng ý năng để phát động phản kích cắt ngang thế công của địch.",
+              "14": "Gây 2 lần đả kích cận chiến lên kẻ địch quanh 2 ô (nếu mục tiêu mang [Chính Pháp], sát thương cuối cùng lần này +28%), sau đó tiến vào trạng thái [Đỡ] 4 hiệp: khi chịu công kích, giảm 36% sát thương và có thể tiêu hao 1 tầng ý năng để phát động phản kích cắt ngang thế công của địch.",
+              "15": "Gây 2 lần đả kích cận chiến lên kẻ địch quanh 2 ô (nếu mục tiêu mang [Chính Pháp], sát thương cuối cùng lần này +30%), sau đó tiến vào trạng thái [Đỡ] 4 hiệp: khi chịu công kích, giảm 40% sát thương và có thể tiêu hao 1 tầng ý năng để phát động phản kích cắt ngang thế công của địch; phản kích gây sát thương cuối cùng thêm +50%, đồng thời có xác suất khiến kẻ tấn công [Choáng] 1 hiệp."
+            },
+            "阶位": "Cơ bản"
+          }
+        ],
+        "转职": [
+          {
+            "名称": "Hỏa Hình Chưởng",
+            "类型": "Chủ động",
+            "描述": "Tiêu hao 2 tầng ý năng, hình thành võ trang đả kích mạnh ở tay, đánh ra chưởng mở màn của lối chặn đỡ phản kích, chuyển trừng phạt liên kích thành tăng ích. Sinh ra vũ khí thích ứng với cấp hiện tại.",
+            "特殊效果": {
+              "1": "Tiến vào trạng thái võ trang [Hỏa Hình Chưởng], có thể tự chủ chọn giải trừ; sát thương cuối cùng của quyền chưởng +2%; phán định liên kích +1.",
+              "2": "Sát thương cuối cùng của quyền chưởng +5%; phán định liên kích +2.",
+              "3": "Sát thương cuối cùng của quyền chưởng +5%; phán định liên kích +3.",
+              "4": "Sát thương cuối cùng của quyền chưởng +6%; phán định liên kích +4.",
+              "5": "Sát thương cuối cùng của quyền chưởng +6%; phán định liên kích +5.",
+              "6": "Sát thương cuối cùng của quyền chưởng +8%; phán định liên kích +6.",
+              "7": "Phá giới hạn mỗi hiệp chỉ có 3 động tác, liên kích có thể bị phản kích cắt ngang; sát thương cuối cùng của quyền chưởng +8%; phán định liên kích +6; nếu số liên kích trong một hiệp đạt 6 lần trở lên, không tiêu hao tài nguyên để phóng thích 1 lần Tế Thiên Chưởng và cắt ngang liên kích.",
+              "8": "Phá giới hạn mỗi hiệp chỉ có 3 động tác, liên kích có thể bị phản kích cắt ngang; sát thương cuối cùng của quyền chưởng +10%; phán định liên kích +6; nếu số liên kích trong một hiệp đạt 5 lần trở lên, không tiêu hao tài nguyên để phóng thích 1 lần Tế Thiên Chưởng và cắt ngang liên kích.",
+              "9": "Phá giới hạn mỗi hiệp chỉ có 3 động tác, liên kích có thể bị phản kích cắt ngang; sát thương cuối cùng của quyền chưởng +10%; phán định liên kích +8; nếu số liên kích trong một hiệp đạt 4 lần trở lên, không tiêu hao tài nguyên để phóng thích 1 lần Tế Thiên Chưởng và cắt ngang liên kích.",
+              "10": "Phá giới hạn mỗi hiệp chỉ có 3 động tác, liên kích có thể bị phản kích cắt ngang; sát thương cuối cùng của quyền chưởng +12%; phán định liên kích +8; nếu số liên kích trong một hiệp đạt 3 lần trở lên, không tiêu hao tài nguyên để phóng thích 1 lần Tế Thiên Chưởng và cắt ngang liên kích.",
+              "11": "Phá giới hạn mỗi hiệp chỉ có 3 động tác, liên kích có thể bị phản kích cắt ngang; sát thương cuối cùng của quyền chưởng +12%; phán định liên kích +10; nếu số liên kích trong một hiệp đạt 2 lần trở lên, không tiêu hao tài nguyên để phóng thích 1 lần Tế Thiên Chưởng và cắt ngang liên kích.",
+              "12": "Phá giới hạn mỗi hiệp chỉ có 3 động tác, liên kích có thể bị phản kích cắt ngang; sát thương cuối cùng của quyền chưởng +12%; bỏ qua trừng phạt liên kích; nếu số liên kích trong một hiệp đạt 2 lần trở lên, không tiêu hao tài nguyên để phóng thích 1 lần Tế Thiên Chưởng và cắt ngang liên kích.",
+              "13": "Phá giới hạn mỗi hiệp chỉ có 3 động tác, liên kích có thể bị phản kích cắt ngang; sát thương cuối cùng của quyền chưởng +15%; bỏ qua trừng phạt liên kích; trong một hiệp, mỗi khi liên kích 3 lần thì không tiêu hao tài nguyên để phóng thích 1 lần Tế Thiên Chưởng.",
+              "14": "Phá giới hạn mỗi hiệp chỉ có 3 động tác, liên kích có thể bị phản kích cắt ngang; sát thương cuối cùng của quyền chưởng +15%; bỏ qua trừng phạt liên kích; trong một hiệp, mỗi khi liên kích 2 lần thì không tiêu hao tài nguyên để phóng thích 1 lần Tế Thiên Chưởng.",
+              "15": "Phá giới hạn mỗi hiệp chỉ có 3 động tác, liên kích có thể bị phản kích cắt ngang; sát thương cuối cùng của quyền chưởng +20%; trừng phạt liên kích đổi thành tăng ích liên kích; trong một hiệp, mỗi khi liên kích 2 lần thì không tiêu hao tài nguyên để phóng thích 1 lần Tế Thiên Chưởng; nếu số liên kích đạt 2 lần trở lên và mục tiêu thất bại miễn trừ Thể chất, mục tiêu sẽ rơi vào [Tàn tật] kéo dài 1 hiệp, sát thương gây ra giảm 15%."
+            },
+            "阶位": "Chuyển nghề"
+          },
+          {
+            "名称": "Hỏa Hình Kiếm",
+            "类型": "Chủ động",
+            "描述": "Tiêu hao 2 tầng ý năng; ý năng tụ thành thẻ cắm vào thắt lưng, hiện ra võ trang chém mạnh trong tay, sinh ra vũ khí thích ứng với cấp hiện tại. Khuếch đại sát thương chém thường. Động tác cần thiết là cắm thẻ ý năng vào triệu hồi khí bên hông.",
+            "特殊效果": {
+              "1": "Tiêu hao 2 tầng ý năng, tiến vào trạng thái [Hỏa Hình Kiếm], có thể tự chủ chọn giải trừ trạng thái. Mỗi khi thực hiện 3 lần trảm kích, lần thứ 3 chắc chắn gây sát thương chuẩn điện giải hỏa tỷ lệ 100%.",
+              "2": "Mỗi 3 lần trảm kích kích hoạt 1 lần sát thương chuẩn; sát thương cuối cùng của trảm kích +3%.",
+              "3": "Mỗi 3 lần trảm kích kích hoạt 1 lần sát thương chuẩn; sát thương cuối cùng của trảm kích +6%.",
+              "4": "Mỗi 3 lần trảm kích kích hoạt 1 lần sát thương chuẩn; sát thương cuối cùng của trảm kích +9%.",
+              "5": "Mỗi 3 lần trảm kích kích hoạt 1 lần sát thương chuẩn; sát thương cuối cùng của trảm kích +12%.",
+              "6": "Mỗi 2 lần trảm kích kích hoạt 1 lần sát thương chuẩn; sát thương cuối cùng của trảm kích +12%.",
+              "7": "Mỗi 2 lần trảm kích kích hoạt 1 lần sát thương chuẩn; sát thương cuối cùng của trảm kích +21%.",
+              "8": "Mỗi 2 lần trảm kích kích hoạt 1 lần sát thương chuẩn; sát thương cuối cùng của trảm kích +24%.",
+              "9": "Mỗi 2 lần trảm kích kích hoạt 1 lần sát thương chuẩn; sát thương cuối cùng của trảm kích +27%.",
+              "10": "Mỗi 2 lần trảm kích kích hoạt 1 lần sát thương chuẩn; sát thương cuối cùng của trảm kích +30%.",
+              "11": "Mọi đòn chém thường trực tiếp chuyển hóa thành sát thương chuẩn điện giải hỏa toàn phần; sát thương cuối cùng của trảm kích +40%.",
+              "12": "Mọi đòn chém thường trực tiếp chuyển hóa thành sát thương chuẩn điện giải hỏa toàn phần; sát thương cuối cùng của trảm kích +50%; trảm kích kèm trạng thái điện giật, tiến hành một lần phán định Thể chất, nếu thất bại thì nhận trạng thái tê liệt.",
+              "13": "Mọi đòn chém thường trực tiếp chuyển hóa thành sát thương chuẩn điện giải hỏa toàn phần; sát thương cuối cùng của trảm kích +60%; trảm kích kèm trạng thái điện giật hoặc thiêu đốt, tiến hành hai lần phán định Thể chất, mỗi lần thất bại ngẫu nhiên nhận trạng thái thiêu đốt hoặc tê liệt.",
+              "14": "Mọi đòn chém thường trực tiếp chuyển hóa thành sát thương chuẩn điện giải hỏa toàn phần; sát thương cuối cùng của trảm kích +70%; trảm kích kèm trạng thái điện giật/thiêu đốt, tiến hành hai lần phán định Thể chất, mỗi lần thất bại ngẫu nhiên nhận trạng thái thiêu đốt hoặc tê liệt; nếu đồng thời dính debuff thiêu đốt và tê liệt thì kích hoạt lượng lớn sát thương chuẩn điện giải hỏa rồi xóa debuff thiêu đốt/tê liệt.",
+              "15": "Mọi đòn chém thường trực tiếp chuyển hóa thành sát thương chuẩn điện giải hỏa toàn phần; sát thương cuối cùng của trảm kích +80%; trảm kích kèm trạng thái điện giật/thiêu đốt, tiến hành ba lần phán định Thể chất, mỗi lần thất bại ngẫu nhiên nhận trạng thái thiêu đốt hoặc tê liệt; nếu đồng thời dính debuff thiêu đốt và tê liệt thì kích hoạt sát thương chuẩn điện giải hỏa cực lớn rồi xóa debuff thiêu đốt/tê liệt."
+            },
+            "阶位": "Chuyển nghề"
+          },
+          {
+            "名称": "Xingtian Chưởng / Hỏa Hình Trảm",
+            "类型": "Chủ động",
+            "描述": "Kỹ thuật xử quyết đánh ra sau khi nén ý năng ở mức cao; dấu ấn Chính Pháp trên người mục tiêu càng nhiều, hình phạt mục tiêu phải chịu càng nặng.",
+            "特殊效果": {
+              "1": "Tiêu hao 2 tầng ý năng, gây 1 lần trọng kích lên đơn mục tiêu. Mỗi 1 tầng [Chính Pháp] trên người mục tiêu gây thêm sát thương tương đương 1% sinh mệnh tối đa của mục tiêu (đối với Boss tối đa gây 30 điểm sát thương tương đương). Sau khi đánh giết hồi phục 1 tầng ý năng.",
+              "2": "Tiêu hao 2 tầng ý năng, gây 1 lần trọng kích lên đơn mục tiêu. Mỗi 1 tầng [Chính Pháp] trên người mục tiêu gây thêm sát thương tương đương 1.2% sinh mệnh tối đa của mục tiêu (đối với Boss tối đa gây 35 điểm sát thương tương đương). Sau khi đánh giết hồi phục 1 tầng ý năng.",
+              "3": "Tiêu hao 2 tầng ý năng, gây 1 lần trọng kích lên đơn mục tiêu. Mỗi 1 tầng [Chính Pháp] trên người mục tiêu gây thêm sát thương tương đương 1.4% sinh mệnh tối đa của mục tiêu (đối với Boss tối đa gây 40 điểm sát thương tương đương). Sau khi đánh giết hồi phục 1 tầng ý năng.",
+              "4": "Tiêu hao 2 tầng ý năng, gây 1 lần trọng kích lên đơn mục tiêu. Mỗi 1 tầng [Chính Pháp] trên người mục tiêu gây thêm sát thương tương đương 1.6% sinh mệnh tối đa của mục tiêu (đối với Boss tối đa gây 45 điểm sát thương tương đương). Sau khi đánh giết hồi phục 1 tầng ý năng.",
+              "5": "Tiêu hao 2 tầng ý năng, gây 1 lần trọng kích lên đơn mục tiêu. Mỗi 1 tầng [Chính Pháp] trên người mục tiêu gây thêm sát thương tương đương 1.8% sinh mệnh tối đa của mục tiêu (đối với Boss tối đa gây 50 điểm sát thương tương đương); nếu sinh mệnh mục tiêu thấp hơn 30%, sát thương cuối cùng lần này +10%. Sau khi đánh giết hồi phục 1 tầng ý năng.",
+              "6": "Tiêu hao 2 tầng ý năng, gây 1 lần trọng kích lên đơn mục tiêu. Mỗi 1 tầng [Chính Pháp] trên người mục tiêu gây thêm sát thương tương đương 2% sinh mệnh tối đa của mục tiêu (đối với Boss tối đa gây 55 điểm sát thương tương đương); nếu sinh mệnh mục tiêu thấp hơn 30%, sát thương cuối cùng lần này +12%. Sau khi đánh giết hồi phục 1 tầng ý năng.",
+              "7": "Tiêu hao 2 tầng ý năng, gây 1 lần trọng kích lên đơn mục tiêu. Mỗi 1 tầng [Chính Pháp] trên người mục tiêu gây thêm sát thương tương đương 2.2% sinh mệnh tối đa của mục tiêu (đối với Boss tối đa gây 60 điểm sát thương tương đương); nếu sinh mệnh mục tiêu thấp hơn 50%, sát thương cuối cùng lần này +14%. Sau khi đánh giết hồi phục 1 tầng ý năng.",
+              "8": "Tiêu hao 2 tầng ý năng, gây 1 lần trọng kích lên đơn mục tiêu. Mỗi 1 tầng [Chính Pháp] trên người mục tiêu gây thêm sát thương tương đương 2.4% sinh mệnh tối đa của mục tiêu (đối với Boss tối đa gây 65 điểm sát thương tương đương); nếu sinh mệnh mục tiêu thấp hơn 50%, sát thương cuối cùng lần này +16%. Sau khi đánh giết hồi phục 1 tầng ý năng.",
+              "9": "Tiêu hao 2 tầng ý năng, gây 1 lần trọng kích lên đơn mục tiêu. Mỗi 1 tầng [Chính Pháp] trên người mục tiêu gây thêm sát thương tương đương 2.6% sinh mệnh tối đa của mục tiêu (đối với Boss tối đa gây 70 điểm sát thương tương đương); nếu sinh mệnh mục tiêu thấp hơn 50%, sát thương cuối cùng lần này +18%. Sau khi đánh giết hồi phục 1 tầng ý năng.",
+              "10": "Tiêu hao 2 tầng ý năng, gây 1 lần trọng kích lên đơn mục tiêu. Mỗi 1 tầng [Chính Pháp] trên người mục tiêu gây thêm sát thương tương đương 2.8% sinh mệnh tối đa của mục tiêu (đối với Boss tối đa gây 80 điểm sát thương tương đương); nếu sinh mệnh mục tiêu thấp hơn 50%, sát thương cuối cùng lần này +25%. Sau khi đánh giết hồi phục 1 tầng ý năng."
+            },
+            "阶位": "Chuyển nghề"
+          },
+          {
+            "名称": "Thiên Địa Chính Pháp",
+            "类型": "Đặc biệt nghề nghiệp",
+            "描述": "Nắm giữ năng lực Thiên Địa Chính Pháp của giáp, phán xét bảy tội không thể tha thứ. Đây là cơ chế cốt lõi của người triệu hồi Giáp Xingtian.",
+            "特殊效果": {
+              "1": "Mở khóa cơ chế bị động không thể nâng cấp: mọi công kích của bạn mỗi lần trúng đòn đều áp 1 tầng [Chính Pháp] lên mục tiêu; mỗi tầng Chính Pháp khiến sát thương cuối cùng kẻ địch phải chịu tăng 2%."
+            },
+            "阶位": "Chuyển nghề"
+          }
+        ],
+        "进阶": [
+          {
+            "名称": "Di Hình Hoán Ảnh",
+            "类型": "Chủ động",
+            "描述": "Nhanh như bóng, chậm như gió; dùng ý năng bẻ cong không gian để di chuyển tốc độ cao, cung cấp cơ động cực cao và cửa sổ sinh tồn phản kích.",
+            "特殊效果": {
+              "1": "Tiêu hao 3 tầng ý năng, dịch chuyển tức thời tối đa 3 ô tới vị trí chỉ định và gây sát thương nhẹ lên kẻ địch trên đường, sau đó tiến vào trạng thái [Di Hình Hoán Ảnh] 2 hiệp: miễn trừ Nhanh nhẹn nhận lợi thế.",
+              "2": "Tiêu hao 3 tầng ý năng, dịch chuyển tức thời tối đa 3 ô tới vị trí chỉ định và gây sát thương nhẹ lên kẻ địch trên đường, sau đó tiến vào trạng thái [Di Hình Hoán Ảnh] 2 hiệp: miễn trừ Nhanh nhẹn nhận lợi thế, tỷ lệ né tránh tăng nhẹ.",
+              "3": "Tiêu hao 3 tầng ý năng, dịch chuyển tức thời tối đa 3 ô tới vị trí chỉ định và gây sát thương nhẹ lên kẻ địch trên đường, sau đó tiến vào trạng thái [Di Hình Hoán Ảnh] 2 hiệp: miễn trừ Nhanh nhẹn nhận lợi thế, tỷ lệ né tránh tăng.",
+              "4": "Tiêu hao 3 tầng ý năng, dịch chuyển tức thời tối đa 4 ô tới vị trí chỉ định và gây sát thương nhẹ lên kẻ địch trên đường, sau đó tiến vào trạng thái [Di Hình Hoán Ảnh] 3 hiệp: miễn trừ Nhanh nhẹn nhận lợi thế, tỷ lệ né tránh tăng.",
+              "5": "Tiêu hao 3 tầng ý năng, dịch chuyển tức thời tối đa 4 ô tới vị trí chỉ định và gây sát thương vừa lên kẻ địch trên đường, sau đó tiến vào trạng thái [Di Hình Hoán Ảnh] 3 hiệp: miễn trừ Nhanh nhẹn nhận lợi thế, khi chịu công kích cận chiến có 20% xác suất hoàn toàn né tránh và phản kích.",
+              "6": "Tiêu hao 3 tầng ý năng, dịch chuyển tức thời tối đa 4 ô tới vị trí chỉ định và gây sát thương vừa lên kẻ địch trên đường, sau đó tiến vào trạng thái [Di Hình Hoán Ảnh] 3 hiệp: miễn trừ Nhanh nhẹn nhận lợi thế, khi chịu công kích cận chiến có 25% xác suất hoàn toàn né tránh và phản kích.",
+              "7": "Tiêu hao 3 tầng ý năng, dịch chuyển tức thời tối đa 4 ô tới vị trí chỉ định và gây sát thương vừa lên kẻ địch trên đường, sau đó tiến vào trạng thái [Di Hình Hoán Ảnh] 3 hiệp: miễn trừ Nhanh nhẹn nhận lợi thế, khi chịu công kích cận chiến có 30% xác suất hoàn toàn né tránh và phản kích.",
+              "8": "Tiêu hao 3 tầng ý năng, dịch chuyển tức thời tối đa 4 ô tới vị trí chỉ định và gây sát thương vừa lên kẻ địch trên đường, sau đó tiến vào trạng thái [Di Hình Hoán Ảnh] 4 hiệp: miễn trừ Nhanh nhẹn nhận lợi thế, khi chịu công kích cận chiến có 35% xác suất hoàn toàn né tránh và phản kích. Phản kích thành công hồi phục 1 tầng ý năng.",
+              "9": "Tiêu hao 3 tầng ý năng, dịch chuyển tức thời tối đa 4 ô tới vị trí chỉ định và gây sát thương vừa lên kẻ địch trên đường, sau đó tiến vào trạng thái [Di Hình Hoán Ảnh] 4 hiệp: miễn trừ Nhanh nhẹn nhận lợi thế, khi chịu công kích cận chiến có 40% xác suất hoàn toàn né tránh và phản kích. Phản kích thành công hồi phục 1 tầng ý năng.",
+              "10": "Tiêu hao 3 tầng ý năng, dịch chuyển tức thời tối đa 5 ô tới vị trí chỉ định và gây sát thương khá cao lên kẻ địch trên đường, sau đó tiến vào trạng thái [Di Hình Hoán Ảnh] 4 hiệp: miễn trừ Nhanh nhẹn nhận lợi thế, khi chịu công kích cận chiến có 50% xác suất hoàn toàn né tránh và phản kích. Phản kích thành công hồi phục 1 tầng ý năng."
+            },
+            "阶位": "Nâng cao"
+          },
+          {
+            "名称": "Điện Quang Kích",
+            "类型": "Chủ động",
+            "描述": "Yêu cầu đang ở trạng thái Hỏa Hình Chưởng. Tụ ý năng vào lòng bàn tay, bắn laser hủy diệt siêu xa; khoảng cách càng xa uy lực càng mạnh. Động tác cần thiết là cắm thẻ ý năng vào triệu hồi khí bên hông.",
+            "特殊效果": {
+              "1": "Tiêu hao 3 tầng ý năng, bắn laser đường thẳng; mỗi khi khoảng cách tới mục tiêu tăng thêm 1 ô, sát thương cuối cùng lần này +2%.",
+              "2": "Tiêu hao 3 tầng ý năng, bắn laser đường thẳng; mỗi khi khoảng cách tới mục tiêu tăng thêm 1 ô, sát thương cuối cùng lần này +2%; sát thương cuối cùng cơ bản +3%.",
+              "3": "Tiêu hao 3 tầng ý năng, bắn laser đường thẳng; mỗi khi khoảng cách tới mục tiêu tăng thêm 1 ô, sát thương cuối cùng lần này +2%; sát thương cuối cùng cơ bản +6%.",
+              "4": "Tiêu hao 3 tầng ý năng, bắn laser đường thẳng; mỗi khi khoảng cách tới mục tiêu tăng thêm 1 ô, sát thương cuối cùng lần này +2%; sát thương cuối cùng cơ bản +9%.",
+              "5": "Tiêu hao 3 tầng ý năng, bắn laser đường thẳng; mỗi khi khoảng cách tới mục tiêu tăng thêm 1 ô, sát thương cuối cùng lần này +3%; mỗi 1 tầng [Chính Pháp] trên người mục tiêu khiến sát thương cuối cùng thêm +3%.",
+              "6": "Tiêu hao 3 tầng ý năng, bắn laser đường thẳng; mỗi khi khoảng cách tới mục tiêu tăng thêm 1 ô, sát thương cuối cùng lần này +3%; mỗi 1 tầng [Chính Pháp] trên người mục tiêu khiến sát thương cuối cùng thêm +4%.",
+              "7": "Tiêu hao 3 tầng ý năng, bắn laser đường thẳng; mỗi khi khoảng cách tới mục tiêu tăng thêm 1 ô, sát thương cuối cùng lần này +3%; mỗi 1 tầng [Chính Pháp] trên người mục tiêu khiến sát thương cuối cùng thêm +5%."
+            },
+            "阶位": "Nâng cao"
+          },
+          {
+            "名称": "Điện Quang Phân Ma Trảm",
+            "类型": "Chủ động",
+            "描述": "Yêu cầu đang ở trạng thái Hỏa Hình Kiếm. Dùng thế sấm sét vạn quân liên tục chém kẻ địch; ấn Chính Pháp trên người địch sẽ dẫn dắt lưỡi kiếm truy kích. Động tác cần thiết là cắm thẻ ý năng vào triệu hồi khí bên hông.",
+            "特殊效果": {
+              "1": "Tiêu hao 3 tầng ý năng, phát động liên trảm lên khu vực hình quạt 3 ô phía trước, số lần chém bằng số tầng [Chính Pháp] trên người mục tiêu (tối đa 2 lần); sát thương mỗi nhát chém tăng dần 2%.",
+              "2": "Tiêu hao 3 tầng ý năng, phát động liên trảm lên khu vực hình quạt 3 ô phía trước, số lần chém bằng số tầng [Chính Pháp] trên người mục tiêu (tối đa 2 lần); sát thương mỗi nhát chém tăng dần 4%.",
+              "3": "Tiêu hao 3 tầng ý năng, phát động liên trảm lên khu vực hình quạt 3 ô phía trước, số lần chém bằng số tầng [Chính Pháp] trên người mục tiêu (tối đa 3 lần); sát thương mỗi nhát chém tăng dần 6%.",
+              "4": "Tiêu hao 3 tầng ý năng, phát động liên trảm lên khu vực hình quạt 3 ô phía trước, số lần chém bằng số tầng [Chính Pháp] trên người mục tiêu (tối đa 3 lần); sát thương mỗi nhát chém tăng dần 8%.",
+              "5": "Tiêu hao 3 tầng ý năng, phát động liên trảm lên khu vực hình quạt 3 ô phía trước, số lần chém bằng số tầng [Chính Pháp] trên người mục tiêu (tối đa 4 lần); sát thương mỗi nhát chém tăng dần 10%.",
+              "6": "Tiêu hao 3 tầng ý năng, phát động liên trảm lên khu vực hình quạt 3 ô phía trước, số lần chém bằng số tầng [Chính Pháp] trên người mục tiêu (tối đa 4 lần); sát thương mỗi nhát chém tăng dần 12%.",
+              "7": "Tiêu hao 3 tầng ý năng, phát động liên trảm lên khu vực hình quạt 3 ô phía trước, số lần chém bằng số tầng [Chính Pháp] trên người mục tiêu (tối đa 4 lần); sát thương mỗi nhát chém tăng dần 14%.",
+              "8": "Tiêu hao 3 tầng ý năng, phát động liên trảm lên khu vực hình quạt 3 ô phía trước, số lần chém bằng số tầng [Chính Pháp] trên người mục tiêu (tối đa 5 lần); sát thương mỗi nhát chém tăng dần 16%.",
+              "9": "Tiêu hao 3 tầng ý năng, phát động liên trảm lên khu vực hình quạt 3 ô phía trước, số lần chém bằng số tầng [Chính Pháp] trên người mục tiêu (tối đa 5 lần); sát thương mỗi nhát chém tăng dần 18%.",
+              "10": "Tiêu hao 3 tầng ý năng, phát động liên trảm lên khu vực hình quạt 3 ô phía trước, số lần chém bằng số tầng [Chính Pháp] trên người mục tiêu (tối đa 5 lần); sát thương mỗi nhát chém tăng dần 20%."
+            },
+            "阶位": "Nâng cao"
+          }
+        ],
+        "必杀": [
+          {
+            "名称": "Chiến Thần Xingtian",
+            "类型": "Đặc biệt",
+            "描述": "Đột phá giới hạn ý năng, hoàn thành tiến hóa hình thái giáp. Tiến vào trạng thái Chiến Thần, nhận vĩ lực vô song thống trị chiến trường. Động tác cần thiết là ngưng tụ ý năng trong tay thành thẻ ý năng, cắm vào triệu hồi khí bên hông và hô: Chiến Thần Xingtian, nâng cấp!",
+            "特殊效果": {
+              "1": "Tiêu hao 8 tầng ý năng, phát động trong trạng thái hợp thể Giáp Xingtian, tiến hóa thành trạng thái [Chiến Thần Xingtian], kéo dài 6 hiệp. Trên nền trạng thái hợp thể ban đầu, AC thêm +2, kiểm định Sức mạnh thêm +3, kiểm định trúng đòn thêm +3, mọi công kích sẽ áp thêm 1 tầng [Chính Pháp].",
+              "2": "Tiêu hao 8 tầng ý năng, phát động trong trạng thái hợp thể Giáp Xingtian, tiến hóa thành trạng thái [Chiến Thần Xingtian], kéo dài 6 hiệp. Trên nền trạng thái hợp thể ban đầu, AC thêm +3, kiểm định Sức mạnh thêm +4, kiểm định trúng đòn thêm +4, mọi công kích sẽ áp thêm 1 tầng [Chính Pháp].",
+              "3": "Tiêu hao 8 tầng ý năng, phát động trong trạng thái hợp thể Giáp Xingtian, tiến hóa thành trạng thái [Chiến Thần Xingtian], kéo dài 6 hiệp. Trên nền trạng thái hợp thể ban đầu, AC thêm +4, kiểm định Sức mạnh thêm +5, kiểm định trúng đòn thêm +5, mọi công kích sẽ áp thêm 1 tầng [Chính Pháp].",
+              "4": "Tiêu hao 8 tầng ý năng, phát động trong trạng thái hợp thể Giáp Xingtian, tiến hóa thành trạng thái [Chiến Thần Xingtian], kéo dài 8 hiệp. Trên nền trạng thái hợp thể ban đầu, AC thêm +5, kiểm định Sức mạnh thêm +6, kiểm định trúng đòn thêm +6, mọi công kích sẽ áp thêm 1 tầng [Chính Pháp].",
+              "5": "Tiêu hao 8 tầng ý năng, phát động trong trạng thái hợp thể Giáp Xingtian, tiến hóa thành trạng thái [Chiến Thần Xingtian], kéo dài 8 hiệp. Trên nền trạng thái hợp thể ban đầu, AC thêm +6, kiểm định Sức mạnh thêm +7, kiểm định trúng đòn thêm +7, mọi công kích sẽ áp thêm 2 tầng [Chính Pháp].",
+              "6": "Tiêu hao 8 tầng ý năng, phát động trong trạng thái hợp thể Giáp Xingtian, tiến hóa thành trạng thái [Chiến Thần Xingtian], kéo dài 8 hiệp. Trên nền trạng thái hợp thể ban đầu, AC thêm +7, kiểm định Sức mạnh thêm +8, kiểm định trúng đòn thêm +8, mọi công kích sẽ áp thêm 2 tầng [Chính Pháp].",
+              "7": "Tiêu hao 8 tầng ý năng, phát động trong trạng thái hợp thể Giáp Xingtian, tiến hóa thành trạng thái [Chiến Thần Xingtian], kéo dài 10 hiệp. Trên nền trạng thái hợp thể ban đầu, AC thêm +8, kiểm định Sức mạnh thêm +10, kiểm định trúng đòn thêm +10, mọi công kích sẽ áp thêm 2 tầng [Chính Pháp]; mỗi khi phán xét một kẻ địch có cấp hiện tại cao hơn bản thân 10 cấp, ngẫu nhiên vĩnh viễn +1 thuộc tính."
+            },
+            "阶位": "Tất sát"
+          },
+          {
+            "名称": "Thiên Liệt Trảm",
+            "类型": "Chủ động",
+            "描述": "Yêu cầu trạng thái Hỏa Hình Thiên Liệt Kiếm. Tụ Thiên Địa Chính Pháp vào một kiếm, vung ra kiếm khí khổng lồ chém đứt tà ác, kích nổ mọi dấu ấn Chính Pháp. Động tác cần thiết là cắm thẻ ý năng vào triệu hồi khí bên hông.",
+            "特殊效果": {
+              "1": "Tiêu hao 5 tầng ý năng, vung kiếm khí khổng lồ. Mỗi tầng [Chính Pháp] và [Ý Năng] khiến sát thương cuối cùng lần này +2%; sau khi trúng đòn, kích nổ toàn bộ [Chính Pháp] trên người mục tiêu, gây sát thương nhỏ bổ sung bằng số tầng tương ứng.",
+              "2": "Tiêu hao 5 tầng ý năng, vung kiếm khí khổng lồ. Mỗi tầng [Chính Pháp] và [Ý Năng] khiến sát thương cuối cùng lần này +4%; sau khi trúng đòn, kích nổ toàn bộ [Chính Pháp] trên người mục tiêu, gây sát thương bổ sung.",
+              "3": "Tiêu hao 5 tầng ý năng, vung kiếm khí khổng lồ. Mỗi tầng [Chính Pháp] và [Ý Năng] khiến sát thương cuối cùng lần này +8%; sau khi trúng đòn, kích nổ toàn bộ [Chính Pháp] trên người mục tiêu, gây sát thương bổ sung.",
+              "4": "Tiêu hao 5 tầng ý năng, vung kiếm khí khổng lồ. Mỗi tầng [Chính Pháp] và [Ý Năng] khiến sát thương cuối cùng lần này +16%; sau khi trúng đòn, kích nổ toàn bộ [Chính Pháp] trên người mục tiêu, gây sát thương bổ sung.",
+              "5": "Tiêu hao 5 tầng ý năng, vung kiếm khí khổng lồ. Mỗi tầng [Chính Pháp] và [Ý Năng] khiến sát thương cuối cùng lần này +32%; sau khi trúng đòn, kích nổ toàn bộ [Chính Pháp] trên người mục tiêu, gây sát thương điện giải hỏa phạm vi lớn."
+            },
+            "阶位": "Tất sát"
+          },
+          {
+            "名称": "Hỏa Hình Thiên Liệt Kiếm",
+            "类型": "Chủ động",
+            "描述": "Triệu hồi võ trang hạng nặng Thiên Liệt Kiếm, bổ mở mặt đất tạo luyện ngục sấm lửa, đồng thời ban cho bản thân hai đặc tính của Hỏa Hình Kiếm và Hỏa Hình Chưởng. Sinh ra vũ khí cao hơn bản thân một bậc. Động tác cần thiết là cắm thẻ ý năng vào triệu hồi khí bên hông.",
+            "特殊效果": {
+              "1": "Tiêu hao 5 tầng ý năng, gây trọng kích quanh 2 ô, kèm 5 tầng [Chính Pháp]; đòn đánh thường đồng thời có hai đặc tính của Hỏa Hình Kiếm và Hỏa Hình Chưởng.",
+              "2": "Tiêu hao 5 tầng ý năng, gây trọng kích quanh 2 ô, kèm 5 tầng [Chính Pháp]; đòn đánh thường đồng thời có hai đặc tính của Hỏa Hình Kiếm và Hỏa Hình Chưởng, mọi sát thương trảm kích +100%.",
+              "3": "Tiêu hao 5 tầng ý năng, gây trọng kích quanh 2 ô, kèm 5 tầng [Chính Pháp]; đòn đánh thường đồng thời có hai đặc tính của Hỏa Hình Kiếm và Hỏa Hình Chưởng, mọi sát thương trảm kích +110%.",
+              "4": "Tiêu hao 5 tầng ý năng, gây trọng kích quanh 2 ô, kèm 5 tầng [Chính Pháp]; đòn đánh thường đồng thời có hai đặc tính của Hỏa Hình Kiếm và Hỏa Hình Chưởng, mọi sát thương trảm kích +120%.",
+              "5": "Tiêu hao 5 tầng ý năng, gây trọng kích quanh 3 ô, kèm 8 tầng [Chính Pháp], đồng thời để lại địa hình [Điện giải hỏa] kéo dài 2 hiệp trên mặt đất (bước vào sẽ chịu sát thương); đòn đánh thường đồng thời có hai đặc tính của Hỏa Hình Kiếm và Hỏa Hình Chưởng, mọi sát thương trảm kích +130%.",
+              "6": "Tiêu hao 5 tầng ý năng, gây trọng kích quanh 3 ô, kèm 8 tầng [Chính Pháp], đồng thời để lại địa hình [Điện giải hỏa] kéo dài 2 hiệp trên mặt đất; đòn đánh thường đồng thời có hai đặc tính của Hỏa Hình Kiếm và Hỏa Hình Chưởng, mọi sát thương trảm kích +140%.",
+              "7": "Tiêu hao 5 tầng ý năng, gây trọng kích quanh 3 ô, kèm 8 tầng [Chính Pháp], đồng thời để lại địa hình [Điện giải hỏa] kéo dài 2 hiệp trên mặt đất; đòn đánh thường đồng thời có hai đặc tính của Hỏa Hình Kiếm và Hỏa Hình Chưởng, mọi sát thương trảm kích +150%."
+            },
+            "阶位": "Tất sát"
+          }
+        ],
+        "奥义": [
+          {
+            "名称": "Bát Vị Di Hành",
+            "类型": "Chủ động",
+            "描述": "Áo nghĩa phát huy Di Hình Hoán Ảnh đến cực hạn; để lại tàn ảnh ở tám phương vị, xuyên toa chiến trường không góc chết để tấn công.",
+            "特殊效果": {
+              "1": "Tiêu hao 6 tầng ý năng, tiến vào trạng thái [Không thể bị chọn] 2 hiệp (chỉ chịu ảnh hưởng bởi công kích toàn màn/khóa mục tiêu), trong thời gian đó phát động 3 lần đả kích lên kẻ địch ngẫu nhiên xung quanh. Mỗi lần đả kích kèm 1 tầng [Chính Pháp].",
+              "2": "Tiêu hao 6 tầng ý năng, tiến vào trạng thái [Không thể bị chọn] 2 hiệp, trong thời gian đó phát động 6 lần đả kích lên kẻ địch ngẫu nhiên xung quanh. Mỗi lần đả kích kèm 1 tầng [Chính Pháp].",
+              "3": "Tiêu hao 6 tầng ý năng, tiến vào trạng thái [Không thể bị chọn] 2 hiệp, trong thời gian đó phát động 8 lần đả kích lên kẻ địch ngẫu nhiên xung quanh. Mỗi lần đả kích kèm 1 tầng [Chính Pháp].",
+              "4": "Tiêu hao 6 tầng ý năng, tiến vào trạng thái [Không thể bị chọn] 3 hiệp, trong thời gian đó phát động 12 lần đả kích lên kẻ địch ngẫu nhiên xung quanh. Mỗi lần đả kích kèm 1 tầng [Chính Pháp].",
+              "5": "Tiêu hao 6 tầng ý năng, tiến vào trạng thái [Không thể bị chọn] 3 hiệp, trong thời gian đó phát động 16 lần đả kích lên kẻ địch ngẫu nhiên xung quanh. Mỗi lần đả kích kèm 1 tầng [Chính Pháp]."
+            },
+            "阶位": "Áo nghĩa"
+          },
+          {
+            "名称": "Thiên Địa Vô Cực - Tất Sát Thuật Xingtian",
+            "类型": "Chủ động",
+            "描述": "Triển khai trường ý niệm tất sát cấu thành bởi Thiên Địa Chính Pháp, cưỡng chế kéo kẻ địch vào sân nhà của bạn để tiến hành phán xét cuối cùng. Động tác cần thiết là cắm thẻ ý năng vào triệu hồi khí bên hông.",
+            "特殊效果": {
+              "1": "Triển khai không gian tất sát phạm vi 4 ô, kéo dài 2 hiệp. Kẻ địch trong không gian giảm 50% tốc độ, công kích của bạn lên mọi kẻ địch có sát thương cuối cùng +10%.",
+              "2": "Triển khai không gian tất sát phạm vi 4 ô, kéo dài 2 hiệp. Kẻ địch trong không gian giảm 60% tốc độ, công kích của bạn lên mọi kẻ địch có sát thương cuối cùng +15%.",
+              "3": "Triển khai không gian tất sát phạm vi 4 ô, kéo dài 2 hiệp. Kẻ địch trong không gian giảm 70% tốc độ, công kích của bạn lên mọi kẻ địch có sát thương cuối cùng +20%.",
+              "4": "Triển khai không gian tất sát phạm vi 4 ô, kéo dài 2 hiệp. Kẻ địch trong không gian giảm 80% tốc độ, công kích của bạn lên mọi kẻ địch có sát thương cuối cùng +25%.",
+              "5": "Triển khai không gian tất sát phạm vi 5 ô, kéo dài 3 hiệp. Kẻ địch trong không gian giảm 90% tốc độ, công kích của bạn lên kẻ địch có sát thương cuối cùng +30%, đồng thời tiêu hao ý năng giảm một nửa."
+            },
+            "阶位": "Áo nghĩa"
+          },
+          {
+            "名称": "Triệu Hồi Phụ Tướng",
+            "类型": "Chủ động",
+            "描述": "Triệu hồi giáp phụ tướng cùng cấp với bản thân. Phối hợp tác chiến với giáp Feiying và King Kong. Động tác cần thiết là cắm thẻ ý năng vào triệu hồi khí bên hông.",
+            "特殊效果": {
+              "1": "Tiêu hao 8 tầng ý năng, hiện ra tàn ảnh giáp Feiying và King Kong hỗ trợ tác chiến, kéo dài 8 hiệp. Trong thời gian phụ tướng tồn tại, kỹ năng của bạn sẽ kích hoạt [Liên kết phụ tướng]: Feiying bù vị dùng Điện Quang Thiết Phong Thối, King Kong đồng bộ dùng Kim Cương Oanh Lôi Kích."
+            },
+            "阶位": "Áo nghĩa"
+          }
+        ],
+        "觉醒一": [
+          {
+            "名称": "Shura Giáng Thế",
+            "类型": "Chủ động",
+            "阶位": "Thức tỉnh một",
+            "描述": "Khí mạnh nhất ngưng tụ, mở khóa và khoác Giáp Shura, nắm quyền sinh sát vạn vật, tái định hình quy tắc chiến đấu.",
+            "特殊效果": {
+              "1": "Sau khi thức tỉnh, trong trận chiến này, căn cứ bản tâm người triệu hồi để tiến vào trạng thái [Chính khí] hoặc [Tà khí]; [Chính khí]: mọi kỹ năng đều có thể dùng [Chính Pháp] để phóng thích không tiêu hao, số tầng ý năng của bản thân có thể được xem như số tầng [Chính Pháp] của phe địch; [Tà khí]: mỗi lần công kích đều kèm [Khí Shura], tạm thời giảm toàn thuộc tính của phe địch 1 điểm và ngăn hồi phục sinh mệnh."
+            }
+          }
+        ],
+        "觉醒二": [
+          {
+            "名称": "Chiến Thần Liệt Hỏa Kiếm",
+            "类型": "Chủ động",
+            "阶位": "Thức tỉnh hai",
+            "描述": "Đánh thức binh khí tối cực đang ngủ trong ngân hà, vung kiếm quang phán xét mọi thứ. Động tác cần thiết là cắm thẻ ý năng vào triệu hồi khí bên hông.",
+            "特殊效果": {
+              "1": "Sau khi thức tỉnh, trong trận chiến này, mở khóa một lần đả kích tối cực dùng một lần: vung Chiến Thần Liệt Hỏa Kiếm, gây sát thương chuẩn tương đương 25% sinh mệnh tối đa của chúng lên toàn bộ kẻ địch; nếu mục tiêu mang hơn 5 tầng [Chính Pháp], sát thương này tăng gấp đôi, đồng thời trong 5 hiệp kế tiếp, phạm vi mọi công kích cận chiến của bạn mở rộng thành kiếm khí toàn màn.",
+              "2": "Sau khi thức tỉnh, trong trận chiến này, mở khóa một lần đả kích tối cực dùng một lần: vung Chiến Thần Liệt Hỏa Kiếm, gây sát thương chuẩn tương đương 35% sinh mệnh tối đa của chúng lên toàn bộ kẻ địch; nếu mục tiêu mang hơn 5 tầng [Chính Pháp], sát thương này tăng gấp đôi, đồng thời trong 8 hiệp kế tiếp, phạm vi mọi công kích cận chiến của bạn mở rộng thành kiếm khí toàn màn."
+            }
+          }
+        ],
+        "觉醒三": [
+          {
+            "名称": "Phán Xét Chính Pháp",
+            "类型": "Chủ động",
+            "阶位": "Thức tỉnh ba",
+            "描述": "Hóa bản thân thành hiện thân của Chính Pháp vũ trụ, dùng năng lực lĩnh vực cấp khái niệm để phán quyết mọi tà ác trên đời. Động tác cần thiết là cắm thẻ ý năng vào triệu hồi khí bên hông.",
+            "特殊效果": {
+              "1": "Sau khi thức tỉnh, lập tức chồng số tầng [Chính Pháp] của mọi kẻ địch lên 9 tầng. Trong trận chiến này, sự tồn tại của bạn chính là lĩnh vực [Thiên Địa Chính Pháp]: kẻ địch ở trong phạm vi 5 ô quanh bạn, khi bắt đầu mỗi hiệp bắt buộc phải tiến hành phán định miễn trừ ba tầng cực khó gồm Thể chất, Nhanh nhẹn và Cảm nhận; bất kỳ lần nào thất bại đều trực tiếp mất quyền hành động của hiệp này."
+            }
+          }
+        ]
+      },
+      "skillTreeForClass": "Người Triệu Hồi Giáp",
+      "lockedSkillMap": {},
+      "skillFlavorInput": "Kỹ năng cơ bản:\n1. (Kỹ năng đặc biệt, kỹ năng bị động) Ý năng. Nguồn sức mạnh của giáp, sau khi chiến đấu kết thúc tự động hồi đầy tầng. Cấp 1 ban buff ý năng thường trú 5 tầng làm tài nguyên tiêu hao để giáp phóng thích kỹ năng. Có thể nâng cấp, mỗi lần lên một cấp tăng thêm một tầng ý năng. Mỗi tầng ý năng khuếch đại sát thương và giảm sát thương.\n2. (Kỹ năng đặc biệt) Hợp thể Giáp Xingtian. Lần đầu mở khóa hình thái cơ bản của Giáp Xingtian, khuếch đại toàn diện các trị số sức mạnh, phòng ngự, sát thương và trúng đòn. Tiêu hao 2 tầng ý năng.\n3. Phát sau đến trước. Tiêu hao 1 tầng ý năng, tiến vào trạng thái đỡ phản kích 5 hiệp; đỡ giúp giảm sát thương, sát thương phản kích được ý năng gia trì.\nKỹ năng chuyển nghề:\n1. (Kỹ năng đặc biệt) Hỏa Hình Chưởng. Tiêu hao 2 tầng ý năng, ý năng của người triệu hồi tụ thành thẻ cắm vào thắt lưng, hình thành võ trang đả kích mạnh ở tay. Tăng xác suất liên kích, giảm trừng phạt liên kích. Mỗi lần công kích áp debuff Chính Pháp lên kẻ địch.\n2. (Kỹ năng đặc biệt) Hỏa Hình Kiếm. Tiêu hao 2 tầng ý năng, ý năng của người triệu hồi tụ thành thẻ cắm vào thắt lưng, hình thành võ trang chém mạnh. Kèm lượng lớn sát thương điện giải hỏa, sát thương này là sát thương chuẩn. Mỗi lần công kích áp debuff Chính Pháp lên kẻ địch.\n3. Xingtian Chưởng / Hỏa Hình Trảm. Tiêu hao 2 tầng ý năng, kỹ năng sát thương cao; căn cứ số tầng Chính Pháp để gây thêm sát thương theo sinh mệnh tối đa của kẻ địch. Kỹ năng kiểu chém giết.\nKỹ năng nâng cao:\n1. Di Hình Hoán Ảnh. Tiêu hao 3 tầng ý năng, tiến vào trạng thái Di Hình Hoán Ảnh 5 hiệp; trong thời gian đó tăng cực lớn xác suất né tránh và phản kích kẻ địch, phản kích thành công hồi ý năng.\n2. Điện Quang Phân Ma Trảm (yêu cầu Hỏa Hình Kiếm). Tiêu hao 3 tầng ý năng, số lần chém bằng số tầng Chính Pháp trên người kẻ địch.\n3. Điện Quang Kích (yêu cầu Hỏa Hình Chưởng). Tiêu hao 3 tầng ý năng, đòn laser siêu xa, căn cứ khoảng cách và số tầng Chính Pháp để kèm sát thương.\nKỹ năng tất sát:\n1. Nâng cấp ý năng. Tiêu hao 8 tầng ý năng, tiến cấp thành Chiến Thần Xingtian. Khuếch đại thêm các trị số do Giáp Xingtian mang lại.\n2. Hỏa Hình Thiên Liệt Kiếm. Tiêu hao 5 tầng ý năng để triệu hồi; mỗi lần công kích kèm 5 tầng Chính Pháp, đồng thời có cả sát thương điện giải hỏa và tăng ích liên kích của Hỏa Hình Kiếm lẫn Hỏa Hình Chưởng.\n3. Thiên Liệt Trảm (yêu cầu Hỏa Hình Thiên Liệt Kiếm). Tiêu hao 5 tầng ý năng, trảm kích cực lớn; mỗi tầng Chính Pháp và ý năng đều cung cấp gia trì sát thương.\nKỹ năng áo nghĩa:\n1. Bát Vị Di Hành. Tiêu hao 6 tầng ý năng, tiến vào trạng thái né tránh không thể bị công kích thông thường chọn làm mục tiêu trong 6 hiệp, chỉ có thể bị sát thương bởi công kích phạm vi lớn và công kích khóa mục tiêu.\n2. Thiên Địa Vô Cực - Tất Sát Thuật Xingtian. Mở không gian tất sát, nhốt kẻ địch trong trường ý niệm và bản thân nhận khuếch đại thêm. Khóa điểm yếu của kẻ địch.\n3. Phán Xét Chính Pháp. Nắm giữ năng lực Chính Pháp trời đất của giáp. Số tầng Chính Pháp và số tầng ý năng có thể tùy ý thay thế lẫn nhau để sử dụng.\nThức tỉnh một: mở khóa Giáp Shura, vũ khí và nhóm kỹ năng.\nThức tỉnh hai: Chiến Thần Liệt Hỏa Kiếm: binh khí tối cực, sức mạnh phán xét mọi thứ.\nThức tỉnh ba: Thiên Địa Chính Pháp: sở hữu năng lực lĩnh vực phán xét mọi khái niệm.",
+      "teammates": [],
+      "customTeammate": null,
+      "selectedTraits": [],
+      "customTraits": [
+        {
+          "name": "Người triệu hồi chắc chắn hướng ngoại",
+          "effect": "Mỗi người triệu hồi trưởng thành đạt chuẩn đều có thể phớt lờ lúng túng, bày ra vài tư thế đẹp trai và hô vài tên kỹ năng."
+        }
+      ],
+      "customExpertise": [],
+      "customIdentity": null,
+      "selectedOpening": "traverse",
+      "customOpeningText": "",
+      "selectedDifficulty": "easy",
+      "customRace": null
+    }
+  }
+}

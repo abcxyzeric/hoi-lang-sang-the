@@ -1,0 +1,42 @@
+{
+  "ok": true,
+  "preset": {
+    "id": "7641dc76-89fb-4f42-a1e2-d1c89158e853",
+    "ownerId": "1429093155424309248",
+    "ownerName": "Cảnh",
+    "author": "Cảnh",
+    "authorAvatar": "https://cdn.discordapp.com/avatars/1429093155424309248/c2ee46fc25af9df7c158c318e0cded34.png?size=128",
+    "name": "Kamen Rider Faiz",
+    "title": "Kamen Rider Faiz",
+    "intro": "Kamen Rider chiến đấu bằng nhiều loại trang bị hỗ trợ.",
+    "coverUrl": "/api/presets/7641dc76-89fb-4f42-a1e2-d1c89158e853/cover",
+    "className": "Kamen Rider Faiz",
+    "race": "Orphnoch",
+    "tags": [
+      "Chế vui",
+      "Kamen Rider",
+      "Khống chế",
+      "Triệu hồi"
+    ],
+    "likes": 0,
+    "liked": false,
+    "downloads": 31,
+    "status": "published",
+    "createdAt": "2026-03-31 09:42:59",
+    "updatedAt": "2026-05-22 11:31:31",
+    "lastLikedAt": "",
+    "presetData": {
+      "name": "",
+      "class": "Kamen Rider Faiz",
+      "customClassName": "Kamen Rider Faiz",
+      "race": "__custom__",
+      "customRace": {
+        "name": "Orphnoch"
+      },
+      "customClassStyle": "Kamen Rider sử dụng nhiều loại trang bị hỗ trợ để chiến đấu.",
+      "backstory": "",
+      "selectedCustomLevel": null
+    },
+    "downloadUrl": "/api/presets/7641dc76-89fb-4f42-a1e2-d1c89158e853/file"
+  }
+}

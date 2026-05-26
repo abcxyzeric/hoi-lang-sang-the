@@ -1,0 +1,40 @@
+{
+  "ok": true,
+  "preset": {
+    "id": "44a19da9-85b8-4a14-bb38-512bf0713e6f",
+    "ownerId": "1463439454080467131",
+    "ownerName": "Bọ Rùa Bảy Sao",
+    "author": "Bọ Rùa Bảy Sao",
+    "authorAvatar": "https://cdn.discordapp.com/avatars/1463439454080467131/3b0fa57f9a76fd88e399c0bfbab93ee9.png?size=128",
+    "name": "Võ sĩ Jedi cuối cùng",
+    "title": "Võ sĩ Jedi cuối cùng",
+    "intro": "Không biết có ai là người yêu thích Star Wars không; kỹ năng là do tôi tự viết, tôi thấy cũng ổn, có thể thử thách độ khó cao.",
+    "coverUrl": "/api/presets/44a19da9-85b8-4a14-bb38-512bf0713e6f/cover",
+    "className": "Võ sĩ Jedi",
+    "race": "Người Mandalore",
+    "tags": [
+      "Bộc phát",
+      "Đơn mục tiêu"
+    ],
+    "likes": 3,
+    "liked": false,
+    "downloads": 31,
+    "status": "published",
+    "createdAt": "2026-03-26 19:25:04",
+    "updatedAt": "2026-05-23 19:04:10",
+    "lastLikedAt": "",
+    "presetData": {
+      "name": "Peter Witzel",
+      "class": "Võ sĩ Jedi",
+      "customClassName": "Võ sĩ Jedi",
+      "race": "__custom__",
+      "customRace": {
+        "name": "Người Mandalore"
+      },
+      "customClassStyle": "Võ sĩ Jedi cuối cùng, dùng Thần lực điều khiển vật thể, đẩy lùi hoặc kéo kẻ địch, tiên đoán tương lai, dựa vào kiếm thuật tinh xảo để dùng kiếm ánh sáng giết địch và thu hoạch chiến trường.",
+      "backstory": "",
+      "selectedCustomLevel": null
+    },
+    "downloadUrl": "/api/presets/44a19da9-85b8-4a14-bb38-512bf0713e6f/file"
+  }
+}

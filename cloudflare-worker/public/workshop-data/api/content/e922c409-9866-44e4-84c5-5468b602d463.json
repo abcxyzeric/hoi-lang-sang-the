@@ -1,0 +1,38 @@
+{
+  "ok": true,
+  "item": {
+    "id": "e922c409-9866-44e4-84c5-5468b602d463",
+    "type": "character",
+    "ownerId": "1193821811805270117",
+    "ownerName": "000 Lin Yinling",
+    "author": "000 Lin Yinling",
+    "authorAvatar": "https://cdn.discordapp.com/avatars/1193821811805270117/8db9656895a1edcd75ab6dca1c1570c0.png?size=128",
+    "name": "Kẻ Chi Phối Tiền Vàng",
+    "title": "Kẻ Chi Phối Tiền Vàng",
+    "intro": "Bị động - hệ tài phú\nSố tiền vàng nhân vật nhận được trong chiến đấu, nhiệm vụ, giao dịch hoặc thăm dò tăng gấp 100 lần.\nBất kể đến từ nguồn nào, chỉ cần phần thưởng được kết toán dưới dạng tiền vàng, kỹ năng này sẽ khuếch đại lợi ích lên một trăm lần so với ban đầu.",
+    "overviewText": "",
+    "coverUrl": "/api/content/e922c409-9866-44e4-84c5-5468b602d463/cover",
+    "tags": [
+      "Nguyên bản"
+    ],
+    "triggerWords": [],
+    "contentSections": [
+      {
+        "id": "cw-section-1776790608933-4",
+        "kind": "content",
+        "content": "Một trạch nam bình thường xuyên không vào thế giới này. Tính cách thân thể gốc ôn hòa, đối xử tử tế với người khác, thích giúp đỡ mọi người.\nNgũ quan đoan chính, thường mang nụ cười dịu dàng. Ấn tượng đầu tiên tạo cho người khác là dễ gần, dễ ở chung, không có cảm giác áp bức.\nThói quen sinh hoạt: thích sạch sẽ, ngày nào cũng tắm; giỏi nấu ăn.",
+        "triggerWords": []
+      }
+    ],
+    "worldbookPositionType": "after_character_definition",
+    "worldbookDepth": 0,
+    "worldbookOrder": 401,
+    "likes": 2,
+    "liked": false,
+    "contentText": "Một trạch nam bình thường xuyên không vào thế giới này. Tính cách thân thể gốc ôn hòa, đối xử tử tế với người khác, thích giúp đỡ mọi người.\nNgũ quan đoan chính, thường mang nụ cười dịu dàng. Ấn tượng đầu tiên tạo cho người khác là dễ gần, dễ ở chung, không có cảm giác áp bức.\nThói quen sinh hoạt: thích sạch sẽ, ngày nào cũng tắm; giỏi nấu ăn.",
+    "status": "published",
+    "createdAt": "2026-04-21 17:00:40",
+    "updatedAt": "2026-05-10 15:42:26",
+    "lastLikedAt": ""
+  }
+}

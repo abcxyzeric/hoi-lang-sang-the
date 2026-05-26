@@ -1,0 +1,41 @@
+{
+  "ok": true,
+  "preset": {
+    "id": "a6bd1e61-05e7-4022-93e1-eb195ab241c5",
+    "ownerId": "1466649975227154432",
+    "ownerName": "lianka",
+    "author": "lianka",
+    "authorAvatar": "https://cdn.discordapp.com/avatars/1466649975227154432/353c96e5e420daa07dff605dae22ad29.png?size=128",
+    "name": "Công Chúa Mặt Trăng · Ranni",
+    "title": "Công Chúa Mặt Trăng · Ranni",
+    "intro": "⭐Hiểu cơ chế quyết định trần sát thương! Phù hợp với người muốn động não một chút⭐\n⚠️Trước khi chơi, hãy lắp worldbook 【Công Chúa Mặt Trăng - Ma thuật sứ】 trong khu 【Mở rộng】.\nNếu thanh trạng thái mở đầu không có hai buff 【Sức mạnh sao trời】 và 【Cộng hưởng】 thì phiền bạn reroll lại nhé~",
+    "coverUrl": "/api/presets/a6bd1e61-05e7-4022-93e1-eb195ab241c5/cover",
+    "className": "Ma thuật sứ",
+    "race": "Công Chúa Mặt Trăng",
+    "tags": [
+      "Bộc phát",
+      "Pháp sư",
+      "Dọn quái"
+    ],
+    "likes": 6,
+    "liked": false,
+    "downloads": 100,
+    "status": "published",
+    "createdAt": "2026-03-20 04:50:39",
+    "updatedAt": "2026-05-24 16:24:13",
+    "lastLikedAt": "",
+    "presetData": {
+      "name": "Ranni",
+      "class": "Ma thuật sứ",
+      "customClassName": "Ma thuật sứ",
+      "race": "__custom__",
+      "customRace": {
+        "name": "Công Chúa Mặt Trăng"
+      },
+      "customClassStyle": "",
+      "backstory": "",
+      "selectedCustomLevel": null
+    },
+    "downloadUrl": "/api/presets/a6bd1e61-05e7-4022-93e1-eb195ab241c5/file"
+  }
+}

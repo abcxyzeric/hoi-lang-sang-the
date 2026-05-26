@@ -1,0 +1,39 @@
+{
+  "ok": true,
+  "preset": {
+    "id": "180d255a-ee2f-478c-b4d2-93dc45156289",
+    "ownerId": "1203731113076596796",
+    "ownerName": "🐱TO🦅",
+    "author": "🐱TO🦅",
+    "authorAvatar": "https://cdn.discordapp.com/avatars/1203731113076596796/b87e966f1e634e97ba2576645d9c9040.png?size=128",
+    "name": "Đại Hán Kỳ Thánh",
+    "title": "Đại Hán Kỳ Thánh",
+    "intro": "Đã là thế kỷ 21 rồi, làm gì có ai đánh cờ mà không đội mũ bảo hộ chứ? (PS: Ban đầu chỉ định nặn một Kỳ Thánh cho vui, tự test một lúc xong phát hiện chơi lên lại ngầu bất ngờ? Có mùi như triển khai lãnh vực vậy.JPG)",
+    "coverUrl": "/api/presets/180d255a-ee2f-478c-b4d2-93dc45156289/cover",
+    "className": "Đại Hán Kỳ Thánh",
+    "race": "Nhân loại chủng",
+    "tags": [
+      "Bộc phát",
+      "Đơn mục tiêu",
+      "Chế vui"
+    ],
+    "likes": 3,
+    "liked": false,
+    "downloads": 11,
+    "status": "published",
+    "createdAt": "2026-03-18 04:39:44",
+    "updatedAt": "2026-04-28 05:09:26",
+    "lastLikedAt": "",
+    "presetData": {
+      "name": "",
+      "class": "Đại Hán Kỳ Thánh",
+      "customClassName": "Đại Hán Kỳ Thánh",
+      "race": "Nhân loại chủng",
+      "customRace": null,
+      "customClassStyle": "Có người lấy văn kết bạn, có người lấy võ kết bạn; còn bệ hạ Kỳ Thánh của chúng ta văn võ song toàn, đúng là Thái Tuế thần giữa nhân gian, đáng mừng, đáng mừng.",
+      "backstory": "",
+      "selectedCustomLevel": null
+    },
+    "downloadUrl": "/api/presets/180d255a-ee2f-478c-b4d2-93dc45156289/file"
+  }
+}

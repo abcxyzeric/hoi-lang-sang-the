@@ -1,0 +1,43 @@
+{
+  "ok": true,
+  "preset": {
+    "id": "1c61cc00-d211-4607-b5ae-9450b7711fcb",
+    "ownerId": "1458118603235790922",
+    "ownerName": "Loran Vito",
+    "author": "Loran Vito",
+    "authorAvatar": "https://cdn.discordapp.com/avatars/1458118603235790922/43749e91b5f70ae44152ad8c7ca6dc08.png?size=128",
+    "name": "Quân Vương Bóng Tối",
+    "title": "Quân Vương Bóng Tối",
+    "intro": "Mới thêm đồng đội tự chế, lừa nhỏ phát tài; cách chơi kỹ năng tự xem. Một số vấn đề cũng đã được giải quyết, còn có thiên phú của Thần Hơi Nước và Máy Móc. Tôi tự test rồi, ác mộng không áp lực.",
+    "coverUrl": "/api/presets/1c61cc00-d211-4607-b5ae-9450b7711fcb/cover",
+    "className": "Quân Vương Bóng Tối",
+    "race": "Nhân loại dị giới",
+    "tags": [
+      "Triệu hồi",
+      "Bộc phát",
+      "Khống chế",
+      "Duy trì",
+      "Khuếch đại"
+    ],
+    "likes": 23,
+    "liked": false,
+    "downloads": 412,
+    "status": "published",
+    "createdAt": "2026-03-18 19:27:10",
+    "updatedAt": "2026-05-24 17:59:25",
+    "lastLikedAt": "",
+    "presetData": {
+      "name": "Sung Jin-Woo",
+      "class": "Quân Vương Bóng Tối",
+      "customClassName": "Quân Vương Bóng Tối",
+      "race": "__custom__",
+      "customRace": {
+        "name": "Nhân loại dị giới"
+      },
+      "customClassStyle": "",
+      "backstory": "",
+      "selectedCustomLevel": null
+    },
+    "downloadUrl": "/api/presets/1c61cc00-d211-4607-b5ae-9450b7711fcb/file"
+  }
+}

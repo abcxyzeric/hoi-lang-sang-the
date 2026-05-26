@@ -1,0 +1,40 @@
+{
+  "ok": true,
+  "preset": {
+    "id": "7f0c8964-3d12-4b5c-af1a-c00f77da70f1",
+    "ownerId": "1271574516115439686",
+    "ownerName": "Kurokura",
+    "author": "Kurokura",
+    "authorAvatar": "https://cdn.discordapp.com/avatars/1271574516115439686/024230e62639ee437b2653b5ea7b3443.png?size=128",
+    "name": "Kamen Rider Zeztz",
+    "title": "Kamen Rider Zeztz",
+    "intro": "\"Tôi là Vạn Tân Mạc, một đặc vụ thuộc cơ quan phòng vệ tuyệt mật, chuyên tiêu diệt cái ác trên đời... Tôi mơ thấy mình như vậy, còn ngoài đời chỉ là một thanh niên tốt bình thường thôi... Lẽ ra phải là như thế.\" Kamen Rider Zeztz lạc vào giấc mơ của Tetto và được mời tới thế giới này. Các hình thái có cơ chế thì không có chỉ số, hình thái có chỉ số thì không có cơ chế (đùa đấy, cả hai đều có). Tận dụng sức mạnh của các viên nang giấc mơ để kích hoạt [kích phát] và [tất sát] có thể dễ dàng gây lượng sát thương khổng lồ.\n\"Tôi bảo tôi là đặc vụ vô địch, cậu hiểu không hả!?\"\nTrong phần mở rộng có tải lên một DLC âm thanh biến thân, ai cần có thể tải.\nBản 1.1 đã chỉnh mô tả kỹ năng.\nBản 1.2 đã chỉnh hiệu quả kỹ năng Sáng Thế và Siêu Mộng; Siêu Mộng giống nguyên tác hơn một chút.",
+    "coverUrl": "/api/presets/7f0c8964-3d12-4b5c-af1a-c00f77da70f1/cover",
+    "className": "Kamen Rider Zeztz",
+    "race": "Đứa con ác mộng",
+    "tags": [
+      "Bộc phát",
+      "Vượt chuẩn"
+    ],
+    "likes": 4,
+    "liked": false,
+    "downloads": 42,
+    "status": "published",
+    "createdAt": "2026-05-10 21:36:24",
+    "updatedAt": "2026-05-24 13:59:50",
+    "lastLikedAt": "",
+    "presetData": {
+      "name": "Vạn Tân Mạc",
+      "class": "Kamen Rider Zeztz",
+      "customClassName": "Kamen Rider Zeztz",
+      "race": "__custom__",
+      "customRace": {
+        "name": "Đứa con ác mộng"
+      },
+      "customClassStyle": "Biến thân thành đặc vụ giấc mơ vô địch Kamen Rider zzz, sử dụng năng lực độc đáo của các viên nang giấc mơ để đánh bại kẻ địch.",
+      "backstory": "",
+      "selectedCustomLevel": 1
+    },
+    "downloadUrl": "/api/presets/7f0c8964-3d12-4b5c-af1a-c00f77da70f1/file"
+  }
+}

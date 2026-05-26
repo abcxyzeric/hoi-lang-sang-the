@@ -11010,9 +11010,17 @@ ${CHARACTER_PROFILE_FORMAT_SAMPLE.trim()}
         hydrateDefaultMapEmbed(targetUrl);
       };
 
+      const normalizeWorldviewLabel = (value) =>
+        String(value || '').trim().replace(/_/g, ' ').replace(/\s+/g, ' ').toLowerCase();
+
+      const isAmberWorldviewLabel = (value) => {
+        const normalized = normalizeWorldviewLabel(value);
+        return normalized === 'thanh kiếm hổ phách' || normalized === 'kiếm hổ phách';
+      };
+
       const resolveWorldviewMapSrc = (worldviewLabel) => {
         const worldview = String(worldviewLabel || '').trim();
-        if (worldview === 'Thanh_kiếm_Hổ_Phách') {
+        if (isAmberWorldviewLabel(worldview)) {
           return buildAmberMapEmbedUrl(resolveAmberMapBaseUrl());
         }
         return 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/map.html';
@@ -11037,7 +11045,7 @@ ${CHARACTER_PROFILE_FORMAT_SAMPLE.trim()}
         const Niên_lịch = Thông_tin_thế_giới.Niên_lịch || '';
         const Thế_giới_quan = Cấu_hình_hệ_thống.Thế_giới_quan || '';
         const isSaoWorldview = Thế_giới_quan === 'Sword Art Online';
-        const isAmberWorldview = Thế_giới_quan === 'Thanh_kiếm_Hổ_Phách';
+        const isAmberWorldview = isAmberWorldviewLabel(Thế_giới_quan);
         const mapIframeSrc = resolveWorldviewMapSrc(Thế_giới_quan);
         if (isAmberWorldview) {
           ensureAmberMapEmbedReady(mapIframeSrc);

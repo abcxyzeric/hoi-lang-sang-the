@@ -1,0 +1,42 @@
+{
+  "ok": true,
+  "preset": {
+    "id": "51040fe8-3261-4707-b16a-5f862d57de91",
+    "ownerId": "773433891021127692",
+    "ownerName": "Necrosa",
+    "author": "Necrosa",
+    "authorAvatar": "https://cdn.discordapp.com/avatars/773433891021127692/d5f0638cf4ae175c7424fabb1d2cd25f.png?size=128",
+    "name": "Lao Đại Khai Cục",
+    "title": "Lao Đại Khai Cục",
+    "intro": "Man！What can I say？",
+    "coverUrl": "/api/presets/51040fe8-3261-4707-b16a-5f862d57de91/cover",
+    "className": "Black Mamba",
+    "race": "Chủng Mamba",
+    "tags": [
+      "Gây cười",
+      "Lao Đại",
+      "Trà Đá",
+      "Mamba"
+    ],
+    "likes": 4,
+    "liked": false,
+    "downloads": 5,
+    "status": "published",
+    "createdAt": "2026-04-20 04:00:25",
+    "updatedAt": "2026-05-09 08:43:42",
+    "lastLikedAt": "",
+    "presetData": {
+      "name": "Lao Đại",
+      "class": "Black Mamba",
+      "customClassName": "Black Mamba",
+      "race": "__custom__",
+      "customRace": {
+        "name": "Chủng Mamba"
+      },
+      "customClassStyle": "Giỏi dùng đòn khuỷu, thân thủ nhanh nhẹn, bước chân như bóng ma, sức mạnh khổng lồ.",
+      "backstory": "",
+      "selectedCustomLevel": null
+    },
+    "downloadUrl": "/api/presets/51040fe8-3261-4707-b16a-5f862d57de91/file"
+  }
+}

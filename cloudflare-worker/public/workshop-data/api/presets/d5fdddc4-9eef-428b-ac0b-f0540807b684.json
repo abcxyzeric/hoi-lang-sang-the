@@ -1,0 +1,42 @@
+{
+  "ok": true,
+  "preset": {
+    "id": "d5fdddc4-9eef-428b-ac0b-f0540807b684",
+    "ownerId": "960788675661279233",
+    "ownerName": "suhaichensi",
+    "author": "suhaichensi",
+    "authorAvatar": "https://cdn.discordapp.com/avatars/960788675661279233/ca1fe8aea343657f63d1bd9d2cffc2c2.png?size=128",
+    "name": "【Kẻ Nhiễu Động Meme】",
+    "title": "【Kẻ Nhiễu Động Meme】",
+    "intro": "——\n\"Lại gặp nhau rồi, 'lỗ hổng hệ thống' thân yêu, không thể định nghĩa của ta.\"\n\nTrên đỉnh hư không nơi vạn tượng giao thoa, Tetto ngồi xếp bằng trên một viên xúc xắc hai mươi mặt bằng ánh sao đang chậm rãi xoay tròn, đung đưa hai chân như một đứa trẻ vừa nghịch ngợm thành công. Cậu cúi đầu nhìn xuống tồn tại được gọi là \"Vô Danh\".\n\n\"Trong ván cờ dài đằng đẵng này, ngươi là đoạn mã loạn duy nhất mà ngay cả ta cũng không định sửa. Dù sao, nếu thế giới vận hành hoàn toàn theo công thức đã định, nó khác gì bánh lương khô đã quá hạn ba nghìn năm? Nhạt nhẽo lắm, đúng không?\"\n\n\"Vậy lần này, ngươi lại định ném điều 'luật tuyệt đối' nào vào thùng rác?\" Tetto cúi người xuống, trong mắt lóe lên vẻ mong chờ. \"Là đi trêu chọc đám thần linh cố chấp kia, hay viết lại meme của thế giới thành một vở kịch phi lý hoành tráng? Đừng quên, ngươi chính là đoạn 'tự do' mà ta tiện tay cắt ra khi dệt nên thế giới.\"\n\n——\nNhãn: bày trò, chơi meme, hình ảnh chỉ để tham khảo (nín cười)\n\n3.28",
+    "coverUrl": "/api/presets/d5fdddc4-9eef-428b-ac0b-f0540807b684/cover",
+    "className": "Kẻ Nhiễu Động Meme",
+    "race": "Điểm Kỳ Dị Logic",
+    "tags": [
+      "Bày trò",
+      "Khống chế",
+      "Dọn quái",
+      "Sinh tồn"
+    ],
+    "likes": 6,
+    "liked": false,
+    "downloads": 35,
+    "status": "published",
+    "createdAt": "2026-03-20 09:21:30",
+    "updatedAt": "2026-05-22 09:39:50",
+    "lastLikedAt": "",
+    "presetData": {
+      "name": "Vô Danh",
+      "class": "Kẻ Nhiễu Động Meme",
+      "customClassName": "Kẻ Nhiễu Động Meme",
+      "race": "__custom__",
+      "customRace": {
+        "name": "Điểm Kỳ Dị Logic"
+      },
+      "customClassStyle": "",
+      "backstory": "",
+      "selectedCustomLevel": null
+    },
+    "downloadUrl": "/api/presets/d5fdddc4-9eef-428b-ac0b-f0540807b684/file"
+  }
+}

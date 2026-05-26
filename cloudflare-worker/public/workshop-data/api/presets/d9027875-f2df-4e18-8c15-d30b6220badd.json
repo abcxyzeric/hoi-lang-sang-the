@@ -1,0 +1,40 @@
+{
+  "ok": true,
+  "preset": {
+    "id": "d9027875-f2df-4e18-8c15-d30b6220badd",
+    "ownerId": "1349069598590500886",
+    "ownerName": "Tiểu Tị Tử Miêu",
+    "author": "Tiểu Tị Tử Miêu",
+    "authorAvatar": "https://cdn.discordapp.com/avatars/1349069598590500886/24b46b775722f72aa742674e83571224.png?size=128",
+    "name": "Thương Hành Giả",
+    "title": "Thương Hành Giả",
+    "intro": "Một biến thể của thương kiếm sĩ, cây kỹ năng khá bình thường.\nĐã thêm một đặc chất tương tự thể chất mị ma; ngay cả nữ thần sáng thế mỹ thiếu nữ Tetto cũng có thể bị chinh phục!",
+    "coverUrl": "/api/presets/d9027875-f2df-4e18-8c15-d30b6220badd/cover",
+    "className": "Thương Hành Giả",
+    "race": "Nhân loại chủng",
+    "tags": [
+      "Tấu hài",
+      "Hỗn hợp",
+      "Thương đấu thuật",
+      "Bộc phát"
+    ],
+    "likes": 25,
+    "liked": false,
+    "downloads": 699,
+    "status": "published",
+    "createdAt": "2026-03-20 09:43:57",
+    "updatedAt": "2026-05-25 11:51:57",
+    "lastLikedAt": "",
+    "presetData": {
+      "name": "Lý Soái Tây",
+      "class": "Thương Hành Giả",
+      "customClassName": "Thương Hành Giả",
+      "race": "Nhân loại chủng",
+      "customRace": null,
+      "customClassStyle": "\n\nNghề nghiệp: Thương Hành Giả, nghề sát thương hỗn hợp tay trái cầm súng lục ổ xoay, tay phải cầm katana. Súng và đao hợp thành một món trang bị (tương tự thương kiếm sĩ trong DNF).\nKatana có đỡ đòn phản kích, iai chém phạm vi, lóe đột tiến, chém cận chiến, v.v.\nSúng lục ổ xoay theo đuổi bộc phát liên xạ cự ly gần-trung, đánh điểm yếu, Mắt Tử Vong (tương tự chiêu cuối của McCree hoặc kỹ năng của Arthur Morgan), phụ ma đạn dược, v.v.\nKỹ năng tổ hợp đao súng đánh ra thương đấu thuật hoa lệ.\nNăng lực cơ động không tệ, nghề giáp da.",
+      "backstory": "",
+      "selectedCustomLevel": 1
+    },
+    "downloadUrl": "/api/presets/d9027875-f2df-4e18-8c15-d30b6220badd/file"
+  }
+}

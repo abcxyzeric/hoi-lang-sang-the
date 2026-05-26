@@ -1,0 +1,43 @@
+{
+  "ok": true,
+  "item": {
+    "id": "f1bc68f4-a3bf-4e04-b348-f710cc633eb2",
+    "type": "extension",
+    "ownerId": "1466649975227154432",
+    "ownerName": "lianka",
+    "author": "lianka",
+    "authorAvatar": "https://cdn.discordapp.com/avatars/1466649975227154432/353c96e5e420daa07dff605dae22ad29.png?size=128",
+    "name": "Công Chúa Mặt Trăng - Ma thuật sứ: Hướng dẫn chuỗi tính toán",
+    "title": "Công Chúa Mặt Trăng - Ma thuật sứ: Hướng dẫn chuỗi tính toán",
+    "intro": "Thích phối với card nhân vật 【Công Chúa Mặt Trăng - Ranni】, hướng dẫn Hakimi cách tính cơ chế kỹ năng.",
+    "overviewText": "<hướng_dẫn_chuỗi_tính_toán_ma_thuật_sứ_của_công_chúa_mặt_trăng>\n\n## Trước khi vào cốt truyện chiến đấu, hãy hiểu các nội dung dưới đây.\n\n### Phân tích chuỗi tính toán trong thực chiến\n\n- Giả sử hiện có kỹ năng A (sát thương, 3MP), kỹ năng B (sát thương, 2MP), kỹ năng C (sát thương, 1MP), kỹ năng D (tăng ích, 2MP), kỹ năng E (triệu hồi, 3MP); thanh mana ban đầu có 20 ô, nhân vật đã trang bị [Cộng hưởng ma lực] và [Sức mạnh trăng tối].\n\n- Lượt này thi triển theo thứ tự sau: kỹ năng E [bù chỗ], kỹ năng C, kỹ năng D, kỹ năng A [khuếch đại], kỹ năng B [bù chỗ].\n\n  1. Trước khi tính toán, kiểm tra ô kỹ năng của nhân vật. Nếu chưa trang bị [Cộng hưởng ma lực] thì không cần tính [cộng hưởng]; nếu chưa trang bị [Sức mạnh trăng tối] thì không cần tính hiệu quả của [khuếch đại] và [bù chỗ].\n\n  2. Kỹ năng E: bù chỗ làm giảm 80% sát thương, nhưng không ảnh hưởng hiệu quả kỹ năng triệu hồi. [Bể MP tạm thời] = 0 + 3 = 3. Nền kỹ năng E là 3MP, thanh mana thật tiêu hao 0MP, abs|chênh lệch| = 3, [cộng hưởng] = 0 + 3 = 3 tầng.\n\n  3. Kỹ năng C: bù chỗ làm giảm 60% sát thương, ưu tiên trừ [Bể MP tạm thời] = 3 - 2 = 1 điểm. Nền kỹ năng B là 2MP, thanh mana thật tiêu hao 0MP, abs|chênh lệch| = 2, [cộng hưởng] = 3 + 2 = 5 tầng.\n\n  4. Kỹ năng D: bù chỗ làm giảm 40% sát thương, nhưng không ảnh hưởng hiệu quả kỹ năng buff. Kỹ năng tiêu hao 2MP, [Bể MP tạm thời] = 1 - 1 = 0, thanh mana = 20 - 1 = 19 ô. Vì nền kỹ năng D là 2MP, thanh mana thật tiêu hao 1MP, abs|chênh lệch| = 1, [cộng hưởng] = 5 + 1 = 6 tầng.\n\n  5. Kỹ năng A: hiệu ứng bất lợi của bù chỗ đã kết thúc. Kỹ năng A có hiệu ứng khuếch đại, tiêu hao MP và hệ số kỹ năng đều nhân đôi. Thanh mana = 19 - 6 = 13 ô. Nền kỹ năng A là 3MP, thanh mana thật tiêu hao 6MP, abs|chênh lệch| = 3, [cộng hưởng] = 6 + 3 = 9 tầng.\n\n  6. Kỹ năng B: bù chỗ làm giảm 80% sát thương, [Bể MP tạm thời] = 0 + 2 = 2. Nền kỹ năng B là 2MP, thanh mana thật tiêu hao 0MP, abs|chênh lệch| = 2, [cộng hưởng] = 9 + 2 = 11 tầng.\n\n  7. Kết thúc lượt, vì [Bể MP tạm thời] còn dư 2 điểm nên chuyển thành tiêu hao MP thật. Thanh mana = 13 - 2 = 11 ô.\n\n  8. Dựa theo MP còn lại để cập nhật [Sức mạnh sao trời] trong thanh trạng thái, đồng thời cập nhật số tầng [cộng hưởng] trong thanh trạng thái.\n\n### Điểm dễ sai và lưu ý\n\n1. Cuối mỗi lượt bắt buộc cập nhật [Sức mạnh sao trời] và [cộng hưởng] trong thanh trạng thái, bảo đảm MP còn lại và số tầng cộng hưởng chính xác.\n\n2. 【MP nền của kỹ năng】: tức MP của kỹ năng khi không xét bất kỳ hiệu ứng nào.\n\n3. Nếu khi đang tính hiệu ứng giảm thương của bù chỗ lại xuất hiện bù chỗ mới, hãy trực tiếp ghi đè hiệu ứng cũ. Hiệu ứng giảm thương có thể được chia cho kỹ năng thuộc bất kỳ loại nào.\n\n4. Tăng thương và giảm thương của kỹ năng đều tính cộng dồn theo phép cộng.\n\n5. [Cộng hưởng] được cộng tầng và có hiệu lực trước động tác thi pháp.\n\n6. Nếu tiêu hao MP của kỹ năng chịu ảnh hưởng bởi hiệu ứng khác, ưu tiên tính các hiệu ứng ấy trước, rồi mới tính bù chỗ và khuếch đại.\n\n</hướng_dẫn_chuỗi_tính_toán_ma_thuật_sứ_của_công_chúa_mặt_trăng>",
+    "coverUrl": "/api/content/f1bc68f4-a3bf-4e04-b348-f710cc633eb2/cover",
+    "tags": [
+      "Chiến đấu",
+      "Quy tắc",
+      "Công Chúa Mặt Trăng"
+    ],
+    "triggerWords": [
+      "无",
+      "không có"
+    ],
+    "contentSections": [
+      {
+        "id": "legacy-overview-1",
+        "kind": "overview",
+        "content": "<hướng_dẫn_chuỗi_tính_toán_ma_thuật_sứ_của_công_chúa_mặt_trăng>\n\n## Trước khi vào cốt truyện chiến đấu, hãy hiểu các nội dung dưới đây.\n\n### Phân tích chuỗi tính toán trong thực chiến\n\n- Giả sử hiện có kỹ năng A (sát thương, 3MP), kỹ năng B (sát thương, 2MP), kỹ năng C (sát thương, 1MP), kỹ năng D (tăng ích, 2MP), kỹ năng E (triệu hồi, 3MP); thanh mana ban đầu có 20 ô, nhân vật đã trang bị [Cộng hưởng ma lực] và [Sức mạnh trăng tối].\n\n- Lượt này thi triển theo thứ tự sau: kỹ năng E [bù chỗ], kỹ năng C, kỹ năng D, kỹ năng A [khuếch đại], kỹ năng B [bù chỗ].\n\n  1. Trước khi tính toán, kiểm tra ô kỹ năng của nhân vật. Nếu chưa trang bị [Cộng hưởng ma lực] thì không cần tính [cộng hưởng]; nếu chưa trang bị [Sức mạnh trăng tối] thì không cần tính hiệu quả của [khuếch đại] và [bù chỗ].\n\n  2. Kỹ năng E: bù chỗ làm giảm 80% sát thương, nhưng không ảnh hưởng hiệu quả kỹ năng triệu hồi. [Bể MP tạm thời] = 0 + 3 = 3. Nền kỹ năng E là 3MP, thanh mana thật tiêu hao 0MP, abs|chênh lệch| = 3, [cộng hưởng] = 0 + 3 = 3 tầng.\n\n  3. Kỹ năng C: bù chỗ làm giảm 60% sát thương, ưu tiên trừ [Bể MP tạm thời] = 3 - 2 = 1 điểm. Nền kỹ năng B là 2MP, thanh mana thật tiêu hao 0MP, abs|chênh lệch| = 2, [cộng hưởng] = 3 + 2 = 5 tầng.\n\n  4. Kỹ năng D: bù chỗ làm giảm 40% sát thương, nhưng không ảnh hưởng hiệu quả kỹ năng buff. Kỹ năng tiêu hao 2MP, [Bể MP tạm thời] = 1 - 1 = 0, thanh mana = 20 - 1 = 19 ô. Vì nền kỹ năng D là 2MP, thanh mana thật tiêu hao 1MP, abs|chênh lệch| = 1, [cộng hưởng] = 5 + 1 = 6 tầng.\n\n  5. Kỹ năng A: hiệu ứng bất lợi của bù chỗ đã kết thúc. Kỹ năng A có hiệu ứng khuếch đại, tiêu hao MP và hệ số kỹ năng đều nhân đôi. Thanh mana = 19 - 6 = 13 ô. Nền kỹ năng A là 3MP, thanh mana thật tiêu hao 6MP, abs|chênh lệch| = 3, [cộng hưởng] = 6 + 3 = 9 tầng.\n\n  6. Kỹ năng B: bù chỗ làm giảm 80% sát thương, [Bể MP tạm thời] = 0 + 2 = 2. Nền kỹ năng B là 2MP, thanh mana thật tiêu hao 0MP, abs|chênh lệch| = 2, [cộng hưởng] = 9 + 2 = 11 tầng.\n\n  7. Kết thúc lượt, vì [Bể MP tạm thời] còn dư 2 điểm nên chuyển thành tiêu hao MP thật. Thanh mana = 13 - 2 = 11 ô.\n\n  8. Dựa theo MP còn lại để cập nhật [Sức mạnh sao trời] trong thanh trạng thái, đồng thời cập nhật số tầng [cộng hưởng] trong thanh trạng thái.\n\n### Điểm dễ sai và lưu ý\n\n1. Cuối mỗi lượt bắt buộc cập nhật [Sức mạnh sao trời] và [cộng hưởng] trong thanh trạng thái, bảo đảm MP còn lại và số tầng cộng hưởng chính xác.\n\n2. 【MP nền của kỹ năng】: tức MP của kỹ năng khi không xét bất kỳ hiệu ứng nào.\n\n3. Nếu khi đang tính hiệu ứng giảm thương của bù chỗ lại xuất hiện bù chỗ mới, hãy trực tiếp ghi đè hiệu ứng cũ. Hiệu ứng giảm thương có thể được chia cho kỹ năng thuộc bất kỳ loại nào.\n\n4. Tăng thương và giảm thương của kỹ năng đều tính cộng dồn theo phép cộng.\n\n5. [Cộng hưởng] được cộng tầng và có hiệu lực trước động tác thi pháp.\n\n6. Nếu tiêu hao MP của kỹ năng chịu ảnh hưởng bởi hiệu ứng khác, ưu tiên tính các hiệu ứng ấy trước, rồi mới tính bù chỗ và khuếch đại.\n\n</hướng_dẫn_chuỗi_tính_toán_ma_thuật_sứ_của_công_chúa_mặt_trăng>",
+        "triggerWords": []
+      }
+    ],
+    "worldbookPositionType": "before_character_definition",
+    "worldbookDepth": 1,
+    "worldbookOrder": 19,
+    "likes": 13,
+    "liked": false,
+    "contentText": "",
+    "status": "published",
+    "createdAt": "2026-03-20 14:55:01",
+    "updatedAt": "2026-05-13 16:02:01",
+    "lastLikedAt": ""
+  }
+}

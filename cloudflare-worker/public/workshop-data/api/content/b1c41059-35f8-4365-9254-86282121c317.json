@@ -1,0 +1,52 @@
+{
+  "ok": true,
+  "item": {
+    "id": "b1c41059-35f8-4365-9254-86282121c317",
+    "type": "character",
+    "ownerId": "1203731113076596796",
+    "ownerName": "🐱TO🦅",
+    "author": "🐱TO🦅",
+    "authorAvatar": "https://cdn.discordapp.com/avatars/1203731113076596796/b87e966f1e634e97ba2576645d9c9040.png?size=128",
+    "name": "Tiểu dũng giả nam nữ tính",
+    "title": "Tiểu dũng giả nam nữ tính",
+    "intro": "Khuyến nghị dùng cùng mở rộng \"Dũng giả đại chiến ma vật nương\", đặt trong mục mặt cười để sử dụng 🙂; một tiểu dũng giả nam nữ tính mềm mại thơm tho, nếu rơi vào thế yếu khi tính đấu với ma vật nương, cậu sẽ dần trở thành dáng vẻ trong ngoài thống nhất...",
+    "overviewText": "【Thiết lập nhân vật dùng riêng cho user; sao chép một nút rồi thả vào mục mặt cười là được】",
+    "coverUrl": "/api/content/b1c41059-35f8-4365-9254-86282121c317/cover",
+    "tags": [
+      "Nguyên bản",
+      "Dịu dàng",
+      "Nam nữ tính"
+    ],
+    "triggerWords": [
+      "小勇者",
+      "tiểu dũng giả"
+    ],
+    "contentSections": [
+      {
+        "id": "legacy-overview-1",
+        "kind": "overview",
+        "content": "【Thiết lập nhân vật dùng riêng cho user; sao chép một nút rồi thả vào mục mặt cười là được】",
+        "triggerWords": []
+      },
+      {
+        "id": "legacy-content-1",
+        "kind": "content",
+        "content": "Giới tính: nam (ngoại hình nữ tính hóa rất cao)\nTuổi: đã trưởng thành\nNghề nghiệp: dũng giả\n\nNgoại hình:\nThân hình nhỏ nhắn mảnh mai, tỉ lệ cân đối, đường nét mềm mại; gương mặt tinh xảo đáng yêu, ngũ quan hơi non, mang \"cảm giác thiếu nữ\" rõ rệt.\nMái tóc nhẹ, ánh mắt sáng, nụ cười tự nhiên có cảm giác thân thiện và vô hại; khí chất tổng thể gần với một cô gái hoạt bát đáng yêu, lại hoàn toàn không gượng ép.\nGiọng trong trẻo dịu mềm, cử chỉ nhẹ nhàng tự nhiên, hơi mang khí chất nam nữ tính nhưng không hề lệch tông, ngược lại càng khiến cậu gần gũi và dễ mến hơn.\n\nĐặc tính thể chất:\nBề ngoài yếu mềm nhỏ nhắn, nhưng thực ra ẩn chứa sức mạnh và nhanh nhẹn không tương xứng; sức bùng nổ mạnh, động tác nhanh nhẹn linh hoạt, thuộc kiểu \"chiến binh cơ động cao nhẹ nhàng\".\n\nTính cách:\nÔn hòa thân thiện, tràn đầy sức sống; cảm xúc ổn định, rất bao dung.\nKhi bị người khác nhận nhầm giới tính, cậu hoàn toàn không để ý, ngược lại sẽ dịu dàng hóa giải lúng túng:\n\"Có thể được đối xử thân thiện như một cô gái đáng yêu, cũng xem như một kiểu công nhận khác nhỉ.\"\nCậu đối đãi người khác thân thiện, không lộ tính công kích, nhưng nội tâm kiên định.\n\nLập trường nhận thức:\nKhông mù quáng nghe theo thành kiến thế tục, giữ thái độ lý trí và tiết chế với ma vật nương:\n\"Ma vật nương không xâm hại con người không phải là không thể được tiếp nhận.\"\nCậu cho rằng bản chất của họ gần với \"sinh vật bán nhân\" hơn, hành vi phần nhiều bắt nguồn từ bản năng chứ không phải ác ý.\n\nMục tiêu:\nNhân danh dũng giả, cậu khao khát đánh bại và chinh phục toàn bộ ma vật nương; trên tiền đề tránh sát lục vô nghĩa, cậu muốn xoa dịu, thậm chí kết thúc quan hệ đối lập đã kéo dài hàng chục triệu năm giữa loài người và ma vật nương.\n\nĐặc chất cốt lõi:\n- Tương phản cực mạnh: ngoại hình nhỏ nhắn đáng yêu × chiến lực cao.\n- Độ thân thiện cao: tự nhiên giảm cảnh giác và địch ý của người khác.\n- Sức hút mơ hồ giới tính: sức hấp dẫn độc đáo do khí chất nam nữ tính mang lại.\n- Lý trí dịu dàng: giữ phán đoán và giới hạn trong xung đột.\n- Bình đẳng công bằng: dù ma vật nương khuất phục, cậu vẫn chỉ xem đối phương là bạn, không phải đồ vật.\n- Chuyển đổi linh hoạt: trong chiến đấu thông thường ít nói, tập trung cao độ; sau thắng lợi sẽ trở nên vui mừng nhảy nhót.\n- Yếu mềm trong tính đấu: khi tính đấu rơi vào thế yếu hoặc chịu lượng lớn khoái cảm, cậu sẽ phát ra tiếng thở gấp như thiếu nữ và tiếng kêu đáng yêu.",
+        "triggerWords": [
+          "小勇者",
+          "tiểu dũng giả"
+        ]
+      }
+    ],
+    "worldbookPositionType": "after_character_definition",
+    "worldbookDepth": 0,
+    "worldbookOrder": 401,
+    "likes": 26,
+    "liked": false,
+    "contentText": "Giới tính: nam (ngoại hình nữ tính hóa rất cao)\nTuổi: đã trưởng thành\nNghề nghiệp: dũng giả\n\nNgoại hình:\nThân hình nhỏ nhắn mảnh mai, tỉ lệ cân đối, đường nét mềm mại; gương mặt tinh xảo đáng yêu, ngũ quan hơi non, mang \"cảm giác thiếu nữ\" rõ rệt.\nMái tóc nhẹ, ánh mắt sáng, nụ cười tự nhiên có cảm giác thân thiện và vô hại; khí chất tổng thể gần với một cô gái hoạt bát đáng yêu, lại hoàn toàn không gượng ép.\nGiọng trong trẻo dịu mềm, cử chỉ nhẹ nhàng tự nhiên, hơi mang khí chất nam nữ tính nhưng không hề lệch tông, ngược lại càng khiến cậu gần gũi và dễ mến hơn.\n\nĐặc tính thể chất:\nBề ngoài yếu mềm nhỏ nhắn, nhưng thực ra ẩn chứa sức mạnh và nhanh nhẹn không tương xứng; sức bùng nổ mạnh, động tác nhanh nhẹn linh hoạt, thuộc kiểu \"chiến binh cơ động cao nhẹ nhàng\".\n\nTính cách:\nÔn hòa thân thiện, tràn đầy sức sống; cảm xúc ổn định, rất bao dung.\nKhi bị người khác nhận nhầm giới tính, cậu hoàn toàn không để ý, ngược lại sẽ dịu dàng hóa giải lúng túng:\n\"Có thể được đối xử thân thiện như một cô gái đáng yêu, cũng xem như một kiểu công nhận khác nhỉ.\"\nCậu đối đãi người khác thân thiện, không lộ tính công kích, nhưng nội tâm kiên định.\n\nLập trường nhận thức:\nKhông mù quáng nghe theo thành kiến thế tục, giữ thái độ lý trí và tiết chế với ma vật nương:\n\"Ma vật nương không xâm hại con người không phải là không thể được tiếp nhận.\"\nCậu cho rằng bản chất của họ gần với \"sinh vật bán nhân\" hơn, hành vi phần nhiều bắt nguồn từ bản năng chứ không phải ác ý.\n\nMục tiêu:\nNhân danh dũng giả, cậu khao khát đánh bại và chinh phục toàn bộ ma vật nương; trên tiền đề tránh sát lục vô nghĩa, cậu muốn xoa dịu, thậm chí kết thúc quan hệ đối lập đã kéo dài hàng chục triệu năm giữa loài người và ma vật nương.\n\nĐặc chất cốt lõi:\n- Tương phản cực mạnh: ngoại hình nhỏ nhắn đáng yêu × chiến lực cao.\n- Độ thân thiện cao: tự nhiên giảm cảnh giác và địch ý của người khác.\n- Sức hút mơ hồ giới tính: sức hấp dẫn độc đáo do khí chất nam nữ tính mang lại.\n- Lý trí dịu dàng: giữ phán đoán và giới hạn trong xung đột.\n- Bình đẳng công bằng: dù ma vật nương khuất phục, cậu vẫn chỉ xem đối phương là bạn, không phải đồ vật.\n- Chuyển đổi linh hoạt: trong chiến đấu thông thường ít nói, tập trung cao độ; sau thắng lợi sẽ trở nên vui mừng nhảy nhót.\n- Yếu mềm trong tính đấu: khi tính đấu rơi vào thế yếu hoặc chịu lượng lớn khoái cảm, cậu sẽ phát ra tiếng thở gấp như thiếu nữ và tiếng kêu đáng yêu.",
+    "status": "published",
+    "createdAt": "2026-03-23 12:55:18",
+    "updatedAt": "2026-05-16 20:04:57",
+    "lastLikedAt": ""
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "ok": true,
+  "preset": {
+    "id": "05968454-ef05-4eef-a0a6-861de7ed4786",
+    "ownerId": "1466649975227154432",
+    "ownerName": "lianka",
+    "author": "lianka",
+    "authorAvatar": "https://cdn.discordapp.com/avatars/1466649975227154432/353c96e5e420daa07dff605dae22ad29.png?size=128",
+    "name": "Nữ tu chủng tinh linh rừng",
+    "title": "Nữ tu chủng tinh linh rừng",
+    "intro": "Đặc hóa nội dung gợi dục, từ đầu tới cuối đều đậm sắc dục. Khuyến nghị dùng kèm mục 【Nữ tu chủng tinh linh rừng】 trong khu hồ sơ nhân vật.",
+    "coverUrl": "/api/presets/05968454-ef05-4eef-a0a6-861de7ed4786/cover",
+    "className": "Nữ tu",
+    "race": "Chủng tinh linh rừng",
+    "tags": [
+      "Dâm nữ",
+      "Chủng tinh linh rừng",
+      "Nữ tu"
+    ],
+    "likes": 19,
+    "liked": false,
+    "downloads": 418,
+    "status": "published",
+    "createdAt": "2026-03-27 07:58:22",
+    "updatedAt": "2026-05-25 11:52:14",
+    "lastLikedAt": "",
+    "presetData": {
+      "name": "Lilia",
+      "class": "Nữ tu",
+      "customClassName": "Nữ tu",
+      "race": "Chủng tinh linh rừng",
+      "customRace": null,
+      "customClassStyle": "Dưới vẻ ngoài rạng rỡ thánh khiết là nội tâm sa đọa dâm loạn; dựa vào ưu thế cảm tri ma pháp của chủng tinh linh rừng, cô dùng thập tự giá để thi triển các kỹ năng đại diện cho hai đặc tính thánh khiết và dục vọng.",
+      "backstory": "",
+      "selectedCustomLevel": 1
+    },
+    "downloadUrl": "/api/presets/05968454-ef05-4eef-a0a6-861de7ed4786/file"
+  }
+}

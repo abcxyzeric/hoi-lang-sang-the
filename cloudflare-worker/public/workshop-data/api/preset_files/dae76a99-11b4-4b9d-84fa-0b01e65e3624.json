@@ -1,0 +1,564 @@
+{
+  "exportedAt": "2026-04-29T12:39:17.844Z",
+  "version": "1.0",
+  "preset": {
+    "id": "1777450172622",
+    "name": "2",
+    "timestamp": 1777450172622,
+    "createdAt": 1777450172622,
+    "updatedAt": 1777466313278,
+    "data": {
+      "name": "Lucia",
+      "gender": "Nam",
+      "age": 18,
+      "race": "__custom__",
+      "identity": "__custom__",
+      "avatar": "",
+      "attributes": {
+        "strength": 13,
+        "dexterity": 13,
+        "constitution": 11,
+        "intelligence": 13,
+        "wisdom": 13,
+        "charisma": 12
+      },
+      "backstory": "",
+      "selectedLevelMode": "custom",
+      "selectedCustomLevel": 1,
+      "selectedSpawnPoint": "Tầng dưới cảng Hoàn Uyên - bờ biển ngoài rìa",
+      "class": "Cấu thể",
+      "selectedBaseClass": "Nghề tùy chỉnh",
+      "customClassName": "Cấu thể",
+      "customClassStyle": "Đỡ gạt phản kích, kiếm khí, đại chiêu cường hóa hai đoạn, đại thái đao kết liễu",
+      "customClassWeapon": "Đại thái đao và tiểu thái đao",
+      "customClassCombatStyle": "Cận chiến vật lý",
+      "skillTree": {
+        "基础": [
+          {
+            "名称": "Bình Chướng Biển Ý Thức",
+            "类型": "Đặc biệt",
+            "描述": "Biển ý thức đặc hữu của cấu thể bẩm sinh sở hữu tường lửa dữ liệu hóa, hoàn toàn miễn nhiễm hiệu ứng tinh thần. Khi rơi vào trạng thái tinh thần tiêu cực, đòn tấn công kế tiếp sẽ lấy 20.",
+            "特殊效果": {
+              "1": "Miễn nhiễm tinh thần; tuyệt đối trúng đích 1 lần mỗi trận.",
+              "2": "Tuyệt đối trúng đích 2 lần mỗi trận.",
+              "3": "Phản phệ 1d6; nếu nguồn tấn công tinh thần thất bại miễn trừ Cảm nhận thì bị thương.",
+              "4": "Phản phệ 1d8.",
+              "5": "Tuyệt đối trúng đích 3 lần mỗi trận.",
+              "6": "Phản phệ 2d6, cộng thêm Hỗn Loạn 1 hiệp.",
+              "7": "Phản phệ 2d8.",
+              "8": "Tuyệt đối trúng đích 4 lần mỗi trận.",
+              "9": "Miễn nhiễm Sợ Hãi/Mê Hoặc/Hỗn Loạn.",
+              "10": "Phản phệ 3d8, bỏ qua kháng tinh thần.",
+              "11": "Tuyệt đối trúng đích 5 lần mỗi trận.",
+              "12": "Phản phệ 4d8.",
+              "13": "Thời gian Hỗn Loạn do phản phệ kéo dài thành 2 hiệp.",
+              "14": "Có thể chủ động tuyên bố tuyệt đối trúng đích 1 lần.",
+              "15": "Tuyên bố 2 lần mỗi trận; phản phệ 5d8."
+            },
+            "阶位": "Cơ bản"
+          },
+          {
+            "名称": "Giá Đao - Nha Vũ Tiệt Đoạn",
+            "类型": "Chủ động",
+            "描述": "Nâng đao đỡ gạt chuẩn xác, khi thành công vũ khí ngưng kết băng sương gây xâm thực lạnh và làm chậm kẻ tấn công. Phản kích sau khi đỡ thành công chắc chắn trúng.",
+            "特殊效果": {
+              "1": "Phản kích 1d8 + Sức mạnh (150%); Xâm Thực Lạnh 1 hiệp.",
+              "2": "Phản kích 2d8 + Sức mạnh (155%).",
+              "3": "Phản kích 2d8 + Sức mạnh (160%); nếu mục tiêu chưa có Sương Ấn thì tự động cộng 1 tầng Xâm Thực Lạnh.",
+              "4": "Phản kích 2d10 + Sức mạnh (165%).",
+              "5": "Phản kích 2d10 + Sức mạnh (170%); làm chậm 75%.",
+              "6": "Phản kích 3d10 + Sức mạnh (175%); đỡ gạt có thể chặn cả sát thương văng tóe diện rộng.",
+              "7": "Phản kích 3d10 + Sức mạnh (180%).",
+              "8": "Phản kích 3d12 + Sức mạnh (185%); tỷ lệ bạo kích +10%.",
+              "9": "Phản kích 3d12 + Sức mạnh (190%); khi đỡ thành công nhận 1 đạo [Kiếm Khí].",
+              "10": "Phản kích 4d12 + Sức mạnh (195%); tỷ lệ bạo kích +15%.",
+              "11": "Phản kích 4d12 + Sức mạnh (205%); Xâm Thực Lạnh kéo dài 2 hiệp.",
+              "12": "Phản kích 5d12 + Sức mạnh (210%); kích nổ Sương Ấn gây thêm 50% sát thương băng.",
+              "13": "Phản kích 5d12 + Sức mạnh (215%); tỷ lệ bạo kích +20%.",
+              "14": "Phản kích 6d12 + Sức mạnh (220%).",
+              "15": "Phản kích 6d12 + Sức mạnh (225%); Xâm Thực Lạnh 2 hiệp; phản kích tự động trọng kích."
+            },
+            "阶位": "Cơ bản"
+          },
+          {
+            "名称": "Đột Tiến - Hồng Liên Nhất Thiểm",
+            "类型": "Chủ động",
+            "描述": "Hạ thấp thân hình rồi lao vọt đi trong khoảnh khắc, để lại vết đao nóng rực trên đường. Mục tiêu đang bị hạn chế trạng thái sẽ bị toàn chuỗi đòn tự động trúng.",
+            "特殊效果": {
+              "1": "Xuyên thấu 2d6 + Nhanh nhẹn / kích nổ 2d6 lửa (150%); lao tới 30 ft.",
+              "2": "Xuyên thấu 2d6 + Nhanh nhẹn / kích nổ 2d8 lửa (155%).",
+              "3": "Xuyên thấu 3d6 + Nhanh nhẹn / kích nổ 2d8 lửa (160%); phạm vi kích nổ 10 ft.",
+              "4": "Xuyên thấu 3d8 + Nhanh nhẹn / kích nổ 3d8 lửa (165%).",
+              "5": "Xuyên thấu 3d8 + Nhanh nhẹn / kích nổ 3d8 lửa (170%); để lại vùng lửa trên đường đi trong 2 hiệp.",
+              "6": "Xuyên thấu 4d8 + Nhanh nhẹn / kích nổ 3d10 lửa (175%).",
+              "7": "Xuyên thấu 4d8 + Nhanh nhẹn / kích nổ 3d10 lửa (180%); xuyên thêm 1 người thì kích nổ cộng 1d6.",
+              "8": "Xuyên thấu 5d8 + Nhanh nhẹn / kích nổ 4d10 lửa (185%).",
+              "9": "Xuyên thấu 5d8 + Nhanh nhẹn / kích nổ 4d10 lửa (190%); để lại tàn ảnh tại vị trí xuất phát.",
+              "10": "Xuyên thấu 6d8 + Nhanh nhẹn / kích nổ 5d10 lửa (195%).",
+              "11": "Xuyên thấu 6d8 + Nhanh nhẹn / kích nổ 5d10 lửa (205%); sát thương tàn ảnh 2d8.",
+              "12": "Xuyên thấu 7d8 + Nhanh nhẹn / kích nổ 6d10 lửa (210%).",
+              "13": "Xuyên thấu 7d8 + Nhanh nhẹn / kích nổ 6d10 lửa (215%); mục tiêu bị xuyên trực tiếp cộng 2 tầng Sương Ấn.",
+              "14": "Xuyên thấu 8d8 + Nhanh nhẹn / kích nổ 7d10 lửa (220%).",
+              "15": "Xuyên thấu 8d8 + Nhanh nhẹn / kích nổ 7d10 lửa (225%); lao tới 60 ft, toàn đoạn xuyên phá và bỏ qua khiên."
+            },
+            "阶位": "Cơ bản"
+          }
+        ],
+        "转职": [
+          {
+            "名称": "Lõi - Vết Khắc Lãnh Vực Đao",
+            "类型": "Đặc biệt nghề nghiệp",
+            "描述": "Một nhát trảm hồ quang hất lùi kẻ địch xung quanh rồi tiến vào hình thái Bạch Nhận. Ở hình thái Bạch Nhận, đánh thường biến thành chém vòng, mỗi lần trúng sẽ cộng dồn dấu ấn Sương Ấn. Kết thúc hiệp 2 sẽ tự động kích nổ gây sát thương chuẩn.",
+            "特殊效果": {
+              "1": "Trảm hồ quang 2d8 + Sức mạnh (150%); Bạch Nhận 2 hiệp; kích nổ 1 tầng gây 1d8.",
+              "2": "Trảm hồ quang 2d8 + Sức mạnh (155%).",
+              "3": "Trảm hồ quang 2d10 + Sức mạnh (160%); đánh thường của Bạch Nhận có phạm vi 10 ft.",
+              "4": "Trảm hồ quang 2d10 + Sức mạnh (165%); Bạch Nhận 3 hiệp.",
+              "5": "Trảm hồ quang 3d10 + Sức mạnh (170%); mỗi tầng Sương Ấn làm giảm thêm 10 ft tốc độ.",
+              "6": "Trảm hồ quang 3d10 + Sức mạnh (175%); kích nổ 1 tầng gây 2d6.",
+              "7": "Trảm hồ quang 3d12 + Sức mạnh (180%); tự kích nổ thủ công không còn giảm sát thương.",
+              "8": "Trảm hồ quang 3d12 + Sức mạnh (185%); kích nổ 1 tầng gây 2d8.",
+              "9": "Trảm hồ quang 4d12 + Sức mạnh (190%); Bạch Nhận 4 hiệp; tỷ lệ bạo kích +10%.",
+              "10": "Trảm hồ quang 4d12 + Sức mạnh (195%); kích nổ 1 tầng gây 2d10.",
+              "11": "Trảm hồ quang 5d12 + Sức mạnh (205%); giới hạn Sương Ấn +1 (tối đa 4 tầng).",
+              "12": "Trảm hồ quang 5d12 + Sức mạnh (210%); kích nổ 4 tầng gây 5d12.",
+              "13": "Trảm hồ quang 6d12 + Sức mạnh (215%); kích nổ 4 tầng kèm Tê Liệt 1 hiệp.",
+              "14": "Trảm hồ quang 6d12 + Sức mạnh (220%); tỷ lệ bạo kích +15%.",
+              "15": "Trảm hồ quang 7d12 + Sức mạnh (225%); sát thương kích nổ đổi thành sát thương chuẩn."
+            },
+            "阶位": "Chuyển nghề"
+          },
+          {
+            "名称": "Kiếm Ý Ngưng Thần",
+            "类型": "Đặc biệt",
+            "描述": "Mỗi lần công kích trúng đích sẽ ngưng tụ một đạo kiếm khí vô hình xoay quanh bản thân. Mỗi đạo kiếm khí tăng vĩnh viễn tỷ lệ bạo kích và xuyên giáp. Kiếm khí không tiêu tán theo thời gian, bị đánh ngã cũng không xóa sạch.",
+            "特殊效果": {
+              "1": "Giới hạn 5 đạo; mỗi đạo +2% bạo kích / +3% xuyên giáp.",
+              "2": "Mỗi đạo +2% bạo kích / +4% xuyên giáp.",
+              "3": "Mỗi đạo +3% bạo kích / +4% xuyên giáp; kiếm khí không thể bị xua tan.",
+              "4": "Giới hạn 6 đạo; mỗi đạo +3% bạo kích / +5% xuyên giáp.",
+              "5": "Mỗi đạo +3% bạo kích / +5% xuyên giáp; tiêu hao kiếm khí khiến đánh thường chắc chắn trúng 1 lần mỗi hiệp.",
+              "6": "Mỗi đạo +4% bạo kích / +5% xuyên giáp.",
+              "7": "Giới hạn 7 đạo; mỗi đạo +4% bạo kích / +6% xuyên giáp; chắc chắn trúng 2 lần mỗi hiệp.",
+              "8": "Mỗi đạo +4% bạo kích / +6% xuyên giáp.",
+              "9": "Mỗi đạo +5% bạo kích / +7% xuyên giáp; bị đánh ngã cũng không xóa sạch.",
+              "10": "Giới hạn 8 đạo; mỗi đạo +5% bạo kích / +7% xuyên giáp.",
+              "11": "Mỗi đạo +5% bạo kích / +8% xuyên giáp.",
+              "12": "Mỗi đạo +6% bạo kích / +8% xuyên giáp; chắc chắn trúng 3 lần mỗi hiệp.",
+              "13": "Giới hạn 9 đạo; mỗi đạo +6% bạo kích / +9% xuyên giáp.",
+              "14": "Mỗi đạo +6% bạo kích / +10% xuyên giáp.",
+              "15": "Giới hạn 10 đạo; mỗi đạo +7% bạo kích / +10% xuyên giáp; khi đủ tối đa thì mọi công kích đều có ưu thế và chắc chắn trúng."
+            },
+            "阶位": "Chuyển nghề"
+          },
+          {
+            "名称": "Tiếng Vọng Vực Sâu",
+            "类型": "Triệu hồi",
+            "描述": "Khi kích nổ Sương Ấn, mỗi tầng sẽ tách thành một đạo kiếm khí vọng hưởng, bay thẳng về mục tiêu khóa định để gây sát thương xuyên thấu.",
+            "召唤物名称": "Kiếm Thực Thể Vọng Hưởng",
+            "特殊效果": {
+              "1": "Kiếm vọng hưởng 1d8 + Cảm nhận; có thể bị chặn trên đường bay.",
+              "2": "Kiếm vọng hưởng 1d10 + Cảm nhận.",
+              "3": "Kiếm vọng hưởng 1d10 + Cảm nhận; tốc độ bay +20%.",
+              "4": "Kiếm vọng hưởng 2d8 + Cảm nhận.",
+              "5": "Kiếm vọng hưởng 2d8 + Cảm nhận; có thể xuyên qua kẻ địch đầu tiên.",
+              "6": "Kiếm vọng hưởng 2d10 + Cảm nhận.",
+              "7": "Kiếm vọng hưởng 2d10 + Cảm nhận; khi đánh trúng sẽ cộng thêm 1 tầng Sương Ấn.",
+              "8": "Kiếm vọng hưởng 3d8 + Cảm nhận.",
+              "9": "Kiếm vọng hưởng 3d8 + Cảm nhận; nếu cùng một lượt có trên 3 đạo thì đạo cuối cùng sẽ tự truy đuổi và chắc chắn trúng.",
+              "10": "Kiếm vọng hưởng 3d10 + Cảm nhận.",
+              "11": "Kiếm vọng hưởng 3d10 + Cảm nhận; giới hạn xuyên thấu +1.",
+              "12": "Kiếm vọng hưởng 4d8 + Cảm nhận.",
+              "13": "Kiếm vọng hưởng 4d10 + Cảm nhận; nếu không có mục tiêu khóa định thì kiếm vọng hưởng tự xoay quanh để phòng ngự.",
+              "14": "Kiếm vọng hưởng 4d12 + Cảm nhận.",
+              "15": "Kiếm vọng hưởng 5d10 + Cảm nhận; toàn đoạn bỏ qua chướng ngại; mỗi đạo tự truy đuổi mục tiêu riêng."
+            },
+            "阶位": "Chuyển nghề"
+          }
+        ],
+        "进阶": [
+          {
+            "名称": "Chung Thức - Nguyệt Luân Băng Lạc",
+            "类型": "Chủ động",
+            "描述": "Tiêu hao ít nhất 3 đạo kiếm khí, chém ra một luồng kiếm khí hình trăng lưỡi liềm cỡ rộng bay 120 ft, gây sát thương lực trường lên toàn bộ kẻ địch trên đường đi và cưỡng ép đánh bật chúng tới điểm cuối.",
+            "特殊效果": {
+              "1": "Cơ sở 3d10 + Sức mạnh (230%); khi đầy kiếm khí, toàn đoạn chắc chắn trúng; kích nổ Sương Ấn gây 3d8.",
+              "2": "3d10 + Sức mạnh (250%).",
+              "3": "4d10 + Sức mạnh (270%); đánh lùi thêm 10 ft.",
+              "4": "4d10 + Sức mạnh (290%).",
+              "5": "5d10 + Sức mạnh (310%); bề rộng kiếm khí +50%.",
+              "6": "5d10 + Sức mạnh (330%).",
+              "7": "6d10 + Sức mạnh (350%).",
+              "8": "6d10 + Sức mạnh (370%); đầy kiếm khí thì chắc chắn trúng.",
+              "9": "7d10 + Sức mạnh (390%); kích nổ Sương Ấn gây 5d10.",
+              "10": "7d10 + Sức mạnh (410%); khi đầy kiếm khí sẽ cộng thêm vụ nổ diện rộng ở điểm cuối.",
+              "11": "7d12 + Sức mạnh (430%); sát thương bạo kích tăng thêm hai nấc.",
+              "12": "8d12 + Sức mạnh (450%).",
+              "13": "8d12 + Sức mạnh (470%); đường đi kèm vùng sét tồn tại 2 hiệp.",
+              "14": "9d12 + Sức mạnh (490%).",
+              "15": "9d12 + Sức mạnh (650%); sát thương bạo kích tăng thêm ba nấc; kích nổ Sương Ấn gây 7d12; khi đầy kiếm khí thì toàn đoạn chắc chắn trúng và bỏ qua giảm sát thương."
+            },
+            "阶位": "Nâng cao"
+          },
+          {
+            "名称": "Chuyển Hóa Tàn Tâm",
+            "类型": "Đặc biệt",
+            "描述": "Ở hình thái đại thái đao, mỗi lần cận chiến trúng đích sẽ nhận tầng Tàn Tâm. Mỗi tầng Tàn Tâm khiến đòn đánh đại thái đao kế tiếp được tung thêm một viên xúc xắc sát thương. Rút đao khi đầy tầng sẽ tự động trọng kích; đầy tầng còn có thể chuyển Tàn Tâm thành kiếm khí.",
+            "特殊效果": {
+              "1": "Giới hạn 5 tầng; mỗi tầng +1 viên xúc xắc sát thương.",
+              "2": "Mỗi tầng cộng thêm 1 điểm sát thương lực trường.",
+              "3": "Đầy tầng mà không bị xóa có thể chuyển thành 2 đạo kiếm khí (1 lần mỗi trận).",
+              "4": "Mỗi tầng cộng thêm 2 điểm sát thương lực trường.",
+              "5": "Giới hạn tăng lên 6 tầng.",
+              "6": "Mỗi tầng cộng thêm 3 điểm sát thương lực trường; mỗi tầng thêm 2 viên xúc xắc sát thương.",
+              "7": "Lượng kiếm khí chuyển hóa khi đầy tầng tăng thành 3 đạo.",
+              "8": "Giới hạn 7 tầng; mỗi tầng cộng thêm 4 điểm sát thương lực trường.",
+              "9": "Mỗi tầng thêm 2 viên xúc xắc sát thương.",
+              "10": "Giới hạn 8 tầng; mỗi tầng cộng thêm 5 điểm sát thương lực trường.",
+              "11": "Lượng kiếm khí chuyển hóa khi đầy tầng tăng thành 4 đạo; mỗi tầng thêm 3 viên xúc xắc sát thương.",
+              "12": "Giới hạn 9 tầng; mỗi tầng cộng thêm 6 điểm sát thương lực trường.",
+              "13": "Mỗi tầng thêm 3 viên xúc xắc sát thương.",
+              "14": "Mỗi tầng cộng thêm 7 điểm sát thương lực trường.",
+              "15": "Giới hạn 10 tầng; mỗi tầng thêm 4 viên xúc xắc sát thương; khi đầy tầng có thể chuyển thành 5 đạo kiếm khí; mỗi trận dùng được 2 lần."
+            },
+            "阶位": "Nâng cao"
+          },
+          {
+            "名称": "Ngục Vô Minh",
+            "类型": "Chủ động",
+            "描述": "Khi đang giữ kiếm khí, mục tiêu bị đánh dấu Sương Ấn muốn dịch chuyển bắt buộc phải vượt miễn trừ Nhanh nhẹn; nếu thất bại thì dịch chuyển vô hiệu và bị kéo trở lại, chịu sát thương chuẩn. Mục tiêu Sương Ấn đầy tầng bị chặn sẽ hoàn trả kiếm khí.",
+            "特殊效果": {
+              "1": "Mỗi hiệp giới hạn 1 lần; kéo về gây 1d6 sát thương chuẩn.",
+              "2": "Kéo về gây 1d8.",
+              "3": "Mục tiêu Sương Ấn đầy tầng bị chặn sẽ hoàn trả 1 đạo kiếm khí.",
+              "4": "Kéo về gây 2d6.",
+              "5": "Giới hạn kích hoạt mỗi hiệp +1 (tối đa 2 lần).",
+              "6": "Kéo về gây 2d8.",
+              "7": "Chặn thành công sẽ cộng thêm Cấm Cố 1 hiệp.",
+              "8": "Kéo về gây 3d6.",
+              "9": "Giới hạn kích hoạt mỗi hiệp +1 (tối đa 3 lần).",
+              "10": "Kéo về gây 3d8.",
+              "11": "Thời gian Cấm Cố kéo dài thành 2 hiệp.",
+              "12": "Kéo về gây 4d8.",
+              "13": "Chặn không cần tiêu hao phản ứng.",
+              "14": "Kéo về gây 5d8.",
+              "15": "Chặn không giới hạn; kéo về gây 6d8 sát thương chuẩn."
+            },
+            "阶位": "Nâng cao"
+          }
+        ],
+        "必杀": [
+          {
+            "名称": "Bạt Đao - Tù Ảnh Đoạn",
+            "类型": "Chủ động",
+            "描述": "Cần 3 đạo kiếm khí và ở hình thái tiểu thái đao. Hạ người nắm chuôi rút đao, đoạn một phóng ra xung kích lôi quang gây tê liệt và đẩy lùi, đồng thời chuyển sang hình thái đại thái đao; đoạn hai tung một nhát chém ngang hình nón trên diện rộng, kích nổ toàn bộ Sương Ấn. Trong lúc thi triển, kẻ địch công kích bạn ở thế bất lợi.",
+            "特殊效果": {
+              "1": "Đoạn một 2d8 + Sức mạnh / đoạn hai 3d10 + Sức mạnh (290%); truy thương theo Sương Ấn là 1d6 mỗi tầng.",
+              "2": "Đoạn một 2d8 / đoạn hai 3d10 (330%).",
+              "3": "Đoạn một 3d8 / đoạn hai 4d10 (360%); bạt đao đánh lùi 2 ô.",
+              "4": "Đoạn một 3d8 / đoạn hai 4d10 (390%); Tê Liệt kéo dài thành 2 hiệp.",
+              "5": "Đoạn một 3d10 / đoạn hai 5d10 (420%); phạm vi bạt đao 20 ft.",
+              "6": "Đoạn một 3d10 / đoạn hai 5d10 (450%); truy thương theo Sương Ấn +2d6 mỗi tầng.",
+              "7": "Đoạn một 4d10 / đoạn hai 6d10 (480%); phạm vi hình nón của đoạn hai tăng 50%.",
+              "8": "Đoạn một 4d10 / đoạn hai 6d10 (510%); thời gian diễn toán trễ kéo dài thành 2 hiệp.",
+              "9": "Đoạn một 4d12 / đoạn hai 7d10 (540%); truy thương theo Sương Ấn +2d8 mỗi tầng.",
+              "10": "Đoạn một 4d12 / đoạn hai 7d10 (570%); bỏ qua ngưỡng yêu cầu kiếm khí.",
+              "11": "Đoạn một 5d12 / đoạn hai 8d10 (600%); phạm vi bạt đao 25 ft.",
+              "12": "Đoạn một 5d12 / đoạn hai 8d10 (630%); truy thương theo Sương Ấn +3d8 mỗi tầng.",
+              "13": "Đoạn một 6d12 / đoạn hai 9d10 (660%); sau nhát chém ngang đoạn hai, cộng thêm một nhát kiếm khí chém nữa.",
+              "14": "Đoạn một 6d12 / đoạn hai 9d10 (690%); tra đao xong vẫn giữ hình thái đại thái đao.",
+              "15": "Đoạn một 7d12 / đoạn hai 10d10 (1060%); truy thương theo Sương Ấn 4d8 mỗi tầng; nếu đoạn hai giết được mục tiêu, các mục tiêu xung quanh rơi vào Tê Liệt và Sợ Hãi, mỗi trạng thái 1 hiệp."
+            },
+            "阶位": "Tất sát"
+          },
+          {
+            "名称": "Trảm Cộng Hưởng Vết Khắc",
+            "类型": "Chủ động",
+            "描述": "Mục tiêu mang Sương Ấn công kích bạn ở thế bất lợi. Kích nổ sẽ gây thêm sát thương chuẩn bằng số kiếm khí × d12. Với mục tiêu Sương Ấn đầy tầng, công kích của bạn chắc chắn trúng. Nếu có 2 kẻ địch đạt Sương Ấn đầy tầng, bạn nhận thêm một lượt.",
+            "特殊效果": {
+              "1": "Mục tiêu có Sương Ấn công kích bạn ở bất lợi; với mục tiêu Sương Ấn đầy tầng, công kích của bạn chắc chắn trúng.",
+              "2": "Nếu có 2 mục tiêu đạt Sương Ấn đầy tầng, nhận thêm một lượt, mỗi trận 1 lần.",
+              "3": "Kích nổ gây thêm sát thương chuẩn bằng số kiếm khí × d4.",
+              "4": "Mục tiêu Sương Ấn đầy tầng công kích bạn ở bất lợi chồng.",
+              "5": "Sát thương cộng thêm khi kích nổ tăng thành × d6.",
+              "6": "Số lần nhận lượt thêm +1.",
+              "7": "Mục tiêu Sương Ấn đầy tầng không thể đỡ gạt / né tránh.",
+              "8": "Sát thương cộng thêm khi kích nổ tăng thành × d8.",
+              "9": "Nếu có 3 mục tiêu đạt Sương Ấn đầy tầng, nhận thêm một lượt.",
+              "10": "Với mục tiêu có Sương Ấn, tỷ lệ bạo kích của bạn +30%.",
+              "11": "Sát thương cộng thêm khi kích nổ tăng thành × d10.",
+              "12": "Trong lượt thêm, toàn bộ kỹ năng được làm mới.",
+              "13": "Mục tiêu Sương Ấn đầy tầng bị giảm một nửa toàn bộ kháng tính.",
+              "14": "Sát thương cộng thêm khi kích nổ tăng thành × d12.",
+              "15": "Mục tiêu Sương Ấn đầy tầng không thể sử dụng bất kỳ động tác phản ứng nào."
+            },
+            "阶位": "Tất sát"
+          },
+          {
+            "名称": "Nguyệt Luân Liên Trảm",
+            "类型": "Triệu hồi",
+            "描述": "Sau khi Nguyệt Luân Băng Lạc đánh trúng mà không giết chết mục tiêu, nó sẽ tách ra những nguyệt luân hồi chiết, ưu tiên truy đuổi mục tiêu có Sương Ấn. Sát thương hồi chiết tối đa 85%, toàn đoạn chắc chắn trúng, xuyên qua và bỏ qua chướng ngại, đánh trúng còn có thể kích nổ Sương Ấn.",
+            "召唤物名称": "Nguyệt Luân Hồi Chiết",
+            "特殊效果": {
+              "1": "Nếu Nguyệt Luân không giết được mục tiêu, nó sẽ tách thành 2 đạo Nguyệt Luân Hồi Chiết, sát thương 50%.",
+              "2": "Sát thương hồi chiết 55%.",
+              "3": "Nguyệt Luân Hồi Chiết ưu tiên truy đuổi mục tiêu có Sương Ấn.",
+              "4": "Nguyệt Luân Hồi Chiết hưởng cộng thêm từ lượng kiếm khí đã tiêu hao.",
+              "5": "Sát thương hồi chiết 60%.",
+              "6": "Nếu hai bên không có mục tiêu, nguyệt luân hồi chiết sẽ quay lại chém mục tiêu chính thêm 25%.",
+              "7": "Nguyệt Luân Hồi Chiết +1 đạo (tổng 3 đạo); sát thương hồi chiết 65%.",
+              "8": "Nguyệt Luân Hồi Chiết cộng thêm 1 tầng Sương Ấn.",
+              "9": "Sát thương hồi chiết 70%.",
+              "10": "Nguyệt Luân Hồi Chiết +1 đạo (tổng 4 đạo).",
+              "11": "Sát thương hồi chiết 75%; xuyên phá và bỏ qua chướng ngại.",
+              "12": "Tỷ lệ bạo kích của Nguyệt Luân Hồi Chiết +30%.",
+              "13": "Nguyệt Luân Hồi Chiết +1 đạo (tổng 5 đạo); sát thương hồi chiết 80%.",
+              "14": "Nguyệt Luân Hồi Chiết đánh trúng sẽ kích nổ Sương Ấn trên người mục tiêu.",
+              "15": "Sát thương hồi chiết 85%; toàn đoạn chắc chắn trúng."
+            },
+            "阶位": "Tất sát"
+          }
+        ],
+        "奥义": [
+          {
+            "名称": "Thiên Nhận Vô Xá",
+            "类型": "Triệu hồi",
+            "描述": "Cần đủ 5 đạo kiếm khí. Toàn bộ kiếm khí lao vút lên trời hóa thành vòng kiếm khổng lồ, mưa kiếm phủ kín màn hình lên mọi đơn vị địch, bỏ qua vật che chắn/tàng hình/khung vô địch. Cơ sở là 12d12 + Sức mạnh sát thương lực trường; mỗi tầng Sương Ấn cộng thêm 3d12 sát thương chuẩn.",
+            "召唤物名称": "Kiếm Thúc Vô Xá",
+            "特殊效果": {
+              "1": "Cơ sở 5d12 + Sức mạnh (310%); toàn trường chắc chắn trúng.",
+              "2": "5d12 + Sức mạnh (350%).",
+              "3": "6d12 + Sức mạnh (390%); thời gian cứng người rút ngắn.",
+              "4": "6d12 + Sức mạnh (430%); nếu Sương Ấn đạt đủ 5 tầng thì truy thương sẽ tăng gấp đôi.",
+              "5": "7d12 + Sức mạnh (470%).",
+              "6": "7d12 + Sức mạnh (510%); bỏ qua khung vô địch.",
+              "7": "8d12 + Sức mạnh (550%).",
+              "8": "8d12 + Sức mạnh (590%); loại bỏ hoàn toàn thời gian cứng người.",
+              "9": "9d12 + Sức mạnh (630%).",
+              "10": "9d12 + Sức mạnh (670%); mỗi khi giết 1 mục tiêu sẽ hoàn lại 2 đạo kiếm khí.",
+              "11": "10d12 + Sức mạnh (710%).",
+              "12": "10d12 + Sức mạnh (750%); loại sát thương đổi thành lực trường.",
+              "13": "11d12 + Sức mạnh (790%).",
+              "14": "11d12 + Sức mạnh (830%); mỗi trận dùng được 2 lần.",
+              "15": "12d12 + Sức mạnh (1640%); sau khi thi triển sẽ không trừ kiếm khí, giữ lại toàn bộ."
+            },
+            "阶位": "Áo nghĩa"
+          },
+          {
+            "名称": "Lĩnh Vực Bỉ Ngạn",
+            "类型": "Đặc biệt",
+            "描述": "Ở hình thái đại thái đao, toàn bộ địch trên sân mỗi hiệp đều phải miễn trừ Cảm nhận, thất bại thì rơi vào sợ hãi. Mục tiêu sợ hãi không thể di chuyển/không thể dùng phản ứng/toàn bộ miễn trừ -2/công kích bạn ở bất lợi chồng/bị 3d8 sát thương tinh thần mỗi hiệp. Sợ hãi không thể miễn nhiễm hay giải trừ. Bạn công kích mục tiêu sợ hãi sẽ chắc chắn trúng và trọng kích.",
+            "特殊效果": {
+              "1": "Ở hình thái đại thái đao, toàn trường rơi vào Sợ Hãi; bạn công kích mục tiêu Sợ Hãi chắc chắn trúng và trọng kích.",
+              "2": "Mục tiêu Sợ Hãi công kích bạn ở bất lợi.",
+              "3": "Mục tiêu Sợ Hãi không thể chủ động áp sát bạn.",
+              "4": "Mục tiêu Sợ Hãi bị -2 vào toàn bộ miễn trừ.",
+              "5": "Phạm vi Sợ Hãi mở rộng tới 120 ft.",
+              "6": "Thời gian Sợ Hãi kéo dài thành 2 hiệp.",
+              "7": "Mục tiêu Sợ Hãi chịu 1d8 sát thương tinh thần mỗi hiệp.",
+              "8": "DC +2.",
+              "9": "Mục tiêu Sợ Hãi công kích bạn ở bất lợi chồng.",
+              "10": "Sát thương tinh thần tăng thành 2d8.",
+              "11": "Mục tiêu Sợ Hãi không thể dùng phản ứng.",
+              "12": "DC +4.",
+              "13": "Cuối mỗi hiệp, mục tiêu Sợ Hãi phải miễn trừ lại lần nữa.",
+              "14": "Sát thương tinh thần tăng thành 3d8.",
+              "15": "Sợ Hãi không thể miễn nhiễm, cũng không thể giải trừ."
+            },
+            "阶位": "Áo nghĩa"
+          },
+          {
+            "名称": "Áo Nghĩa - Vô Tưởng Trảm",
+            "类型": "Chủ động",
+            "描述": "Cần đại thái đao + giá trị Vô Tưởng >= 2 + máu < 40%. Chọn chém đứt khoảng cách hoặc chém đứt trạng thái. Mỗi trận dùng được 2 lần.",
+            "特殊效果": {
+              "1": "Chém đứt khoảng cách: 8d12 + Sức mạnh sát thương tuyệt đối. Chém đứt trạng thái: 4d10 sát thương chuẩn.",
+              "2": "8d12 / 4d10 (450%).",
+              "3": "9d12 / 5d10 (500%); hiệu ứng một không kích hoạt đánh cơ hội.",
+              "4": "9d12 / 5d10 (550%); suy yếu chỉ còn mất phản ứng, không còn bất lợi.",
+              "5": "10d12 / 6d10 (600%); hiệu ứng hai có thể xóa hai loại buff.",
+              "6": "10d12 / 6d10 (650%).",
+              "7": "11d12 / 7d10 (700%); bỏ qua hạn chế không gian.",
+              "8": "11d12 / 7d10 (750%); suy yếu bị xóa bỏ hoàn toàn.",
+              "9": "12d12 / 8d10 (800%); hiệu ứng hai có thể xóa ba loại buff.",
+              "10": "12d12 / 8d10 (850%); sau khi thi triển vẫn giữ đại thái đao.",
+              "11": "13d12 / 9d10 (900%); hiệu ứng một cộng thêm Tê Liệt 2 hiệp.",
+              "12": "13d12 / 9d10 (950%); việc xóa buff không thể kháng cự.",
+              "13": "14d12 / 10d10 (1000%); mỗi trận dùng được 2 lần.",
+              "14": "14d12 / 10d10 (1050%); hai hiệu ứng có thể đồng thời phát động.",
+              "15": "15d12 / 12d10 (2400%); mục tiêu có máu dưới 30% sẽ chết ngay lập tức."
+            },
+            "阶位": "Áo nghĩa"
+          }
+        ],
+        "觉醒一": [
+          {
+            "名称": "Biển Ý Thức - Vĩnh Trú",
+            "类型": "Đặc biệt",
+            "阶位": "Thức tỉnh một",
+            "描述": "Giữ lại miễn nhiễm tinh thần. Nguồn tấn công tinh thần sẽ chịu phản phệ. Tuyệt đối không thể dò biết. Đòn công kích đầu tiên ở hiệp đầu trận bỏ qua mọi kiểm định, trực tiếp đánh trúng và trọng kích. Hệ số 2000%.",
+            "特殊效果": {
+              "1": "Phản phệ tinh thần buộc nguồn tấn công phải miễn trừ Cảm nhận; nếu thất bại sẽ rơi vào Hỗn Loạn và cưỡng ép tấn công đồng đội trong 2 hiệp; phản phệ 5d8 và bỏ qua kháng tính. Không thể bị dò xét / tiên tri / định vị. Đòn công kích đầu tiên ở hiệp đầu chắc chắn trúng và trọng kích."
+            }
+          }
+        ],
+        "觉醒二": [
+          {
+            "名称": "Vô Hạn Kiếm Chế - Tàn Tâm Vạn Tượng",
+            "类型": "Đặc biệt",
+            "阶位": "Thức tỉnh hai",
+            "描述": "Giới hạn kiếm khí là 10 đạo; giới hạn Tàn Tâm là 10 tầng. Kiếm khí không bị xóa khi bị đánh ngã. Mỗi 2 đạo kiếm khí cho thêm 1 phản ứng. Tàn Tâm đầy tầng có thể chuyển thành 5 đạo kiếm khí. Khi giữ trên 7 đạo kiếm khí, mọi công kích đều có ưu thế và chắc chắn trúng. Hệ số 3000%.",
+            "特殊效果": {
+              "1": "Giới hạn kiếm khí là 10 đạo (mỗi đạo +7% bạo kích / +10% xuyên giáp); giới hạn Tàn Tâm là 10 tầng (mỗi tầng 4 viên xúc xắc sát thương). Kiếm khí không bị xóa khi ngã xuống. Mỗi 2 đạo kiếm khí cho thêm 1 phản ứng (mỗi hiệp tối đa +2). Tàn Tâm đầy tầng có thể chuyển thành 5 đạo kiếm khí (mỗi trận 2 lần). Khi giữ trên 7 đạo kiếm khí, mọi công kích đều có ưu thế và chắc chắn trúng."
+            }
+          }
+        ],
+        "觉醒三": [
+          {
+            "名称": "La Võng Bỉ Ngạn - Vô Minh Chung Mạc",
+            "类型": "Đặc biệt",
+            "阶位": "Thức tỉnh ba",
+            "描述": "Phong tỏa dịch chuyển không còn cần điều kiện tiên quyết là Sương Ấn; toàn bộ đơn vị địch trên sân hễ dịch chuyển đều phải miễn trừ Nhanh nhẹn, thất bại sẽ bị kéo trở lại và kích hoạt Đứt Gãy Vận Mệnh. Hệ số 4000%.",
+            "特殊效果": {
+              "1": "Toàn bộ địch trên sân khi dịch chuyển đều phải miễn trừ Nhanh nhẹn (DC = 8 + thành thạo + Sức mạnh); nếu thất bại sẽ bị kéo trở lại và chịu thêm sát thương chuẩn bằng số kiếm khí × d4. Chặn không tiêu hao phản ứng và không giới hạn số lần mỗi hiệp. Mục tiêu bị chặn liên tiếp 3 hiệp sẽ kích hoạt Đứt Gãy Vận Mệnh: mất 30% sinh mệnh hiện tại (bỏ qua mọi phòng ngự), toàn bộ buff bị xóa sạch, không thể miễn trừ và không thể kháng cự."
+            }
+          }
+        ]
+      },
+      "skillTreeForClass": "Cấu thể",
+      "lockedSkillMap": {},
+      "skillFlavorInput": "",
+      "teammates": [
+        {
+          "id": "__custom__"
+        }
+      ],
+      "customTeammate": {
+        "enabled": true,
+        "name": "Lừa Nhỏ Phát Tài",
+        "gender": "Nữ",
+        "race": "Yêu tinh chủng",
+        "affinity": 100,
+        "oath": true,
+        "appearance": "Giống loài: lừa nhỏ Trung Hoa, vóc dáng nhỏ nhắn, cao khoảng 1,2 m. Màu lông: màu chủ đạo là xám khói mềm mại, trên lưng và bốn chân có hoa văn xám đậm hình mây lành. Mắt: đôi mắt tròn siêu to, mống mắt màu vàng sáng, đồng tử như hai đồng tiền nhỏ (hình 💰), luôn lấp lánh vẻ láu lỉnh mà đáng yêu. Tai: một đôi tai dài có thể xoay linh hoạt 360 độ; khi phấn khích sẽ dựng thẳng như ăng-ten, lúc ủ rũ sẽ rủ xuống thành hình số 8. Đuôi: chóp đuôi bẩm sinh cuộn thành hình thỏi vàng nhỏ, khi chạy sẽ nảy lên xuống như lò xo. Dấu hiệu đặc biệt: chính giữa trán có một hoa văn xoáy vàng bẩm sinh, trông như một đồng tiền vàng nhỏ.",
+        "outfit": "Áo trên: áo ghi-lê nhỏ màu đỏ son thêu viền vàng, sau lưng thêu một chữ “Phát” khổng lồ. Túi áo là hai gương mặt mèo thần tài thêu nổi 3D, sẽ chớp mắt theo chuyển động. Áo dưới: quần ống đèn lồng màu lam sẫm, gấu quần thêu hoa văn đồng tiền bằng chỉ vàng. Eo buộc đai ngọc, chính giữa nạm một màn hình điện tử phát sáng, cuộn hiển thị chỉ số vận tài hôm nay theo thời gian thực. Phụ kiện: vòng cổ chuông phát tài, trên cổ đeo một chuỗi chuông màu đồng cổ, mỗi chuông đều có hình đồng tiền của các triều đại khác nhau, khi đi lại phát ra hiệu ứng âm thanh giàu sang “đinh linh loảng xoảng”. Túi đeo đa năng: vắt chéo một túi gấm càn khôn, miệng túi lúc nào cũng lộ ra nửa bàn tính vàng, một cuộn vé số và vài đồng xu trò chơi lấp lánh. Móng sắt may mắn: bốn móng đeo móng ngựa mini nạm đá, nơi chạy qua sẽ để lại bóng vàng đồng xu tồn tại 3 giây rồi biến mất. Đạo cụ biểu tượng: lúc nào cũng ngậm một que gặm răng hình thỏi vàng, thật ra làm bằng kẹo cam thảo, khi căng thẳng sẽ gặm kêu rắc rắc. Tai trái cài một cây bút cảm ứng hình bút lông, dùng để vẽ đồng tiền ảo trong không trung.",
+        "background": "Biểu cảm meme kinh điển:\nMắt sáng vì tiền: khi nhìn thấy của cải thì mắt biến thành ký hiệu “＄＄”, tai dựng thành dấu chấm than.\nGiả ngu giả ngơ: khi làm sai chuyện, đồng tử sẽ biến thành hình máy đánh bạc cuộn liên tục, giả vờ “hệ thống đang khởi động lại”.\nLắc lư đắc ý: khi kiếm được món hời nhỏ, nó sẽ nhấc một chân sau lên, dùng móng làm ra động tác chữ V.\nĐặc chất hài hước:\nCửa miệng là “đời lừa như hí, toàn nhờ vận tài”, “đừng coi lừa nhỏ không phải thần tài”.\nDù yêu thích mọi thứ đáng tiền, nó vẫn lấy của có đạo - chỉ ra tay với của cải bất nghĩa, sau khi lấy được luôn lén chia cho những người cần hơn.\nHiểu nửa vời về thanh toán hiện đại, thường giơ bảng mã QR lên nói “quét chỗ này để boa, ủng hộ tiền mặt càng tốt nha”.\nGặp nguy hiểm thì đột nhiên lôi ra một cặp kính râm đeo lên, dùng móng đẩy gọng kính: “Tình huống hiện tại cần một đợt điều chỉnh tài vận chuyên nghiệp...” (rồi thường sẽ ngã lăn ra mà chạy trốn theo cách rất khôi hài).\nTính cách hài hước, dí dỏm, gây cười.",
+        "attributes": {
+          "strength": 10,
+          "dexterity": 10,
+          "constitution": 15,
+          "intelligence": 10,
+          "wisdom": 11,
+          "charisma": 15
+        },
+        "equipment": [
+          {
+            "name": "Vàng đầu chó",
+            "type": "Trang sức",
+            "slot": "Dây chuyền",
+            "quality": "Thần thoại",
+            "effect": "Khi chạy trốn, tốc độ di chuyển +9999%; hiệu quả này có thể chia sẻ cho đồng đội xung quanh.",
+            "desc": "Thần khí thiết yếu để chạy trốn, độc nhất.",
+            "bonuses": {
+              "力量": 20,
+              "敏捷": 60,
+              "体质": 30,
+              "智力": 0,
+              "感知": 0,
+              "魅力": 10,
+              "暴击率": 0,
+              "暴击伤害": 0,
+              "物理减伤": 60,
+              "魔法减伤": 60,
+              "生命值上限": 3000
+            }
+          },
+          {
+            "name": "Nhẫn hóa hình",
+            "type": "Trang sức",
+            "slot": "Nhẫn",
+            "quality": "Thần thoại",
+            "effect": "Có thể hóa hình, là trang bị ràng buộc; có thể biến đổi vóc dáng, chiều cao và nhiều thứ khác ngoài khuôn mặt. Tác dụng phụ là sau khi hóa hình sẽ bước vào kỳ động dục, cần giải quyết một chút.",
+            "desc": "Một món bảo bối có thể hóa hình.",
+            "bonuses": {
+              "力量": 0,
+              "敏捷": 0,
+              "体质": 0,
+              "智力": 0,
+              "感知": 0,
+              "魅力": 0,
+              "暴击率": 0,
+              "暴击伤害": 0,
+              "物理减伤": 0,
+              "魔法减伤": 0,
+              "生命值上限": 0
+            }
+          }
+        ],
+        "skills": [
+          {
+            "name": "Lừa phát tài tung quà",
+            "type": "Đặc biệt",
+            "effect": "Lừa Nhỏ Phát Tài sẽ ngẫu nhiên tặng bạn một hộp quà. Điều kiện sử dụng là tiêu hao 10000 tiền tệ thông dụng để mở 1 cơ hội mở hộp, không giới hạn số lần.",
+            "desc": "Lừa Nhỏ Phát Tài sẽ ngẫu nhiên đưa cho bạn hộp quà, bên trong có thể là tiền tệ thông dụng, nguyên liệu quý hiếm, hoặc vật phẩm từ thế giới khác như Như Ý Kim Cô Bổng, tọa kỵ hiếm, Cửu Chuyển Kim Đan (có thể cải tử hoàn sinh), khiên Vibranium của Captain America, v.v.; cùng nhiều vật phẩm dị thế khác, bắt buộc phải thực thi."
+          },
+          {
+            "name": "May mắn nối tiếp",
+            "type": "Đặc biệt",
+            "effect": "Làm bất cứ việc gì cũng có xác suất thành công tăng gấp 5 lần; hiệu lực hết sau 1 lượt, thời gian hồi là 3 lượt.",
+            "desc": "Vận may bùng nổ, ngồi không cũng nhặt được tiền; làm gì cũng cực kỳ may mắn, xác suất thành công tăng gấp 5 lần."
+          }
+        ],
+        "combo": {
+          "name": "Duyên tài từ trời rơi xuống",
+          "type": "Sát thương",
+          "effect": "Từ trên trời rơi xuống một thỏi vàng khổng lồ nặng tới một trăm triệu tấn, lao cực nhanh về phía địch, sát thương vật lý +1000%",
+          "desc": "Tài vận từ trời đổ xuống, cuồn cuộn kéo đến."
+        }
+      },
+      "selectedTraits": [],
+      "customTraits": [
+        {
+          "name": "Điềm báo của Phi Diệu",
+          "effect": "Ngay hiệp đầu khi chiến đấu bắt đầu, tự động nhận 2 đạo kiếm khí vô hình (có thể vượt giới hạn). Kỹ năng kiểu rút đao giảm ngưỡng kiếm khí đi 1. Nếu rút đao ngay hiệp đầu, hiệu ứng đánh bật của Lôi Uy nhân đôi, thời gian tê liệt kéo dài thành 2 hiệp."
+        },
+        {
+          "name": "Quán tính của vết khắc",
+          "effect": "Khi chiến đấu bắt đầu, chọn trực tiếp một kẻ địch để thi triển 1 tầng Sương Ấn. Mục tiêu muốn xóa Sương Ấn phải vượt miễn trừ Cảm nhận (DC = 10 + thành thạo + Trí lực); nếu thất bại thì việc xóa bỏ vô hiệu và còn cộng thêm 1 tầng. Khi kẻ địch Sương Ấn đầy tầng chết đi, bạn nhận 1 đạo kiếm khí."
+        },
+        {
+          "name": "Kẻ thì thầm của biển ý thức",
+          "effect": "Bạn sẽ không bị tập kích. Khi địch lần đầu tiên tấn công bạn, hai bên thực hiện đối kháng Trí lực (phía địch lấy chỉ số cao hơn giữa Nhanh nhẹn hoặc Sức hấp dẫn); nếu bạn thắng, mọi đòn công kích của kẻ đó trong hiệp hiện tại sẽ tự động hụt với bạn. Mỗi trận chiến, hiệu quả này chỉ có tác dụng một lần với mỗi kẻ địch. Trí lực +5."
+        },
+        {
+          "name": "Tàn tro chưa từng tắt trong tro tàn",
+          "effect": "Ngưỡng kích hoạt thức tỉnh cận tử được nới xuống còn dưới 30% máu. Ngay lúc kích hoạt, nhận 2 điểm Vô Tưởng (có thể vượt giới hạn lên 5 điểm). Trong thời gian thức tỉnh cận tử kéo dài, các kỹ năng tiêu hao kiếm khí sẽ không trừ số kiếm khí. Mỗi trận giới hạn 1 lần."
+        }
+      ],
+      "customExpertise": [],
+      "customIdentity": {
+        "enabled": true,
+        "name": "Chiến Song Pamysh",
+        "desc": "Một đồng vị nam ở dòng thời không song song kế thừa sức mạnh của Thâm Hồng Tù Ảnh, dưới lời mời của Tetto đã đi tới Disboard.",
+        "tierIndex": 4
+      },
+      "selectedOpening": "traverse",
+      "customOpeningText": "",
+      "selectedDifficulty": "easy",
+      "customRace": {
+        "enabled": true,
+        "name": "Cấu thể dị giới (người nhân tạo)",
+        "trait1": {
+          "name": "Người chấp hành sắc đỏ thẫm",
+          "detail": "Tetto nhớ cộng thuộc tính vĩnh viễn đấy! Hắn từng là cái bóng lướt qua đời bạn, giờ lại trở thành lưỡi đao chém đứt số mệnh. Đại thái đao Phi Diệu treo bên hông, quanh người lấp ló tia sét mờ ảo. Nhanh nhẹn +10 / Sức mạnh +8 / Sức hấp dẫn +5. Thưởng kinh nghiệm +50%.",
+          "negative": false
+        },
+        "trait2": {
+          "name": "Thiêu tận vẫn không gục ngã",
+          "detail": "Tetto nhớ cộng thuộc tính vĩnh viễn đấy! Cánh đẩy có thể tan chảy, thân xác có thể tàn phá, nhưng chỉ cần trong biển ý thức còn một sợi dữ liệu, hắn sẽ lại đứng lên từ trong tro tàn. Thể chất +8 / Cảm nhận +5. Thức tỉnh cận tử: khi máu thấp hơn 20%, cưỡng ép tiến vào “Lời đáp tận diệt” - tốc độ di chuyển và tốc độ tấn công tăng mạnh, đòn đánh kèm sát thương chuẩn theo lượng sinh mệnh đã mất, và sẽ không gục xuống trước khi kết liễu mục tiêu. Kiểm định trúng đích +8.",
+          "negative": false
+        }
+      }
+    }
+  }
+}

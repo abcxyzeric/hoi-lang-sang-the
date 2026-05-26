@@ -1,0 +1,39 @@
+{
+  "ok": true,
+  "preset": {
+    "id": "54454bbe-5fa7-4fb9-be8b-6768ed023ed1",
+    "ownerId": "1429093155424309248",
+    "ownerName": "Jing",
+    "author": "Jing",
+    "authorAvatar": "https://cdn.discordapp.com/avatars/1429093155424309248/c2ee46fc25af9df7c158c318e0cded34.png?size=128",
+    "name": "Nanoha Takamachi",
+    "title": "Nanoha Takamachi",
+    "intro": "Nhật ký cập nhật:\nĐã thêm đồng đội khởi đầu Fate. Thiết lập nhân vật của Nanoha và Fate có thể tìm trong khu hồ sơ nhân vật.\n\nĐã chỉnh một phần trị số và mô tả kỹ năng.\nKỹ năng điều chỉnh: Tìm kiếm diện rộng, Cung cấp ma lực, Khiên tròn.\n\nĐã thêm xuất thân tùy chỉnh của Nanoha Takamachi, cùng đặc chất tùy chỉnh mới \"Raising Heart\". Đặc chất này tặng sẵn trang bị chuyên dụng [Raising Heart] phẩm chất thần khí ở đầu game; nó có tính trưởng thành, có thể tự phát triển bằng cách phân tích nguyên liệu.\n\nThiết lập nhân vật lấy Nanoha Takamachi 16 tuổi, sau phần AS và trước khi tuyến chính SS bắt đầu.\nDĩ nhiên, nếu không muốn nhập vai nhân vật, bạn có thể chỉnh trực tiếp lúc mở đầu và chỉ chơi nghề cũng hoàn toàn được.\n\nGiới thiệu nghề:\nChuyên tinh kiểu pháo kích không chiến, lấy sát thương ma pháp uy lực cao ở tầm trung xa làm chiến thuật cốt lõi, giỏi phối hợp \"khống chế sân -> tập hỏa\".",
+    "coverUrl": "/api/presets/54454bbe-5fa7-4fb9-be8b-6768ed023ed1/cover",
+    "className": "Ma đạo sư không chiến",
+    "race": "Nhân loại chủng",
+    "tags": [
+      "Bộc phát",
+      "Tấu hài cơ chế",
+      "Thiếu nữ ma pháp"
+    ],
+    "likes": 4,
+    "liked": false,
+    "downloads": 57,
+    "status": "published",
+    "createdAt": "2026-03-20 16:55:02",
+    "updatedAt": "2026-05-24 06:43:34",
+    "lastLikedAt": "",
+    "presetData": {
+      "name": "Nanoha Takamachi",
+      "class": "Ma đạo sư không chiến",
+      "customClassName": "Ma đạo sư không chiến",
+      "race": "Nhân loại chủng",
+      "customRace": null,
+      "customClassStyle": "Chuyên tinh kiểu pháo kích không chiến, lấy sát thương ma pháp uy lực cao ở tầm trung xa làm chiến thuật cốt lõi, giỏi phối hợp \"khống chế sân -> tập hỏa\".",
+      "backstory": "",
+      "selectedCustomLevel": 1
+    },
+    "downloadUrl": "/api/presets/54454bbe-5fa7-4fb9-be8b-6768ed023ed1/file"
+  }
+}

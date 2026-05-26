@@ -1,0 +1,681 @@
+{
+  "exportedAt": "2026-03-19T17:28:48.088Z",
+  "version": "1.0",
+  "preset": {
+    "id": "1773941271725",
+    "name": "Thái Đao Hiệp",
+    "timestamp": 1773941271725,
+    "createdAt": 1773941271725,
+    "updatedAt": 1773941271725,
+    "data": {
+      "name": "Thái Đao Hiệp",
+      "gender": "Nam",
+      "age": 18,
+      "race": "Nhân loại chủng",
+      "identity": "__custom__",
+      "avatar": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+CjwhLS0gQ3JlYXRlZCB3aXRoIElua3NjYXBlIChodHRwOi8vd3d3Lmlua3NjYXBlLm9yZy8pIC0tPgoKPHN2ZwogICB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iCiAgIHhtbG5zOmNjPSJodHRwOi8vY3JlYXRpdmVjb21tb25zLm9yZy9ucyMiCiAgIHhtbG5zOnJkZj0iaHR0cDovL3d3dy53My5vcmcvMTk5OS8wMi8yMi1yZGYtc3ludGF4LW5zIyIKICAgeG1sbnM6c3ZnPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIKICAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICB4bWxuczpzb2RpcG9kaT0iaHR0cDovL3NvZGlwb2RpLnNvdXJjZWZvcmdlLm5ldC9EVEQvc29kaXBvZGktMC5kdGQiCiAgIHhtbG5zOmlua3NjYXBlPSJodHRwOi8vd3d3Lmlua3NjYXBlLm9yZy9uYW1lc3BhY2VzL2lua3NjYXBlIgogICB3aWR0aD0iNjQiCiAgIGhlaWdodD0iNjQiCiAgIHZpZXdCb3g9IjAgMCAxNi45MzMzMzMgMTYuOTMzMzM0IgogICB2ZXJzaW9uPSIxLjEiCiAgIGlkPSJzdmc0ODQ2IgogICBpbmtzY2FwZTp2ZXJzaW9uPSIwLjkyLjQgKDVkYTY4OWMzMTMsIDIwMTktMDEtMTQpIgogICBzb2RpcG9kaTpkb2NuYW1lPSI1dGhHZW4gSXRlbSBJY29uLUxvbmcgU3dvcmQgWWVsbG93LnN2ZyI+CiAgPGRlZnMKICAgICBpZD0iZGVmczQ4NDAiIC8+CiAgPHNvZGlwb2RpOm5hbWVkdmlldwogICAgIGlkPSJiYXNlIgogICAgIHBhZ2Vjb2xvcj0iI2ZmZmZmZiIKICAgICBib3JkZXJjb2xvcj0iIzY2NjY2NiIKICAgICBib3JkZXJvcGFjaXR5PSIxLjAiCiAgICAgaW5rc2NhcGU6cGFnZW9wYWNpdHk9IjAuMCIKICAgICBpbmtzY2FwZTpwYWdlc2hhZG93PSIyIgogICAgIGlua3NjYXBlOnpvb209IjUuNiIKICAgICBpbmtzY2FwZTpjeD0iMTUuNDMyMDMiCiAgICAgaW5rc2NhcGU6Y3k9IjI2LjQ0NjQ2NSIKICAgICBpbmtzY2FwZTpkb2N1bWVudC11bml0cz0icHgiCiAgICAgaW5rc2NhcGU6Y3VycmVudC1sYXllcj0ibGF5ZXIxIgogICAgIHNob3dncmlkPSJmYWxzZSIKICAgICB1bml0cz0icHgiCiAgICAgaW5rc2NhcGU6d2luZG93LXdpZHRoPSIxMzA0IgogICAgIGlua3NjYXBlOndpbmRvdy1oZWlnaHQ9Ijc0NSIKICAgICBpbmtzY2FwZTp3aW5kb3cteD0iLTgiCiAgICAgaW5rc2NhcGU6d2luZG93LXk9Ii04IgogICAgIGlua3NjYXBlOndpbmRvdy1tYXhpbWl6ZWQ9IjEiCiAgICAgc2hvd2d1aWRlcz0idHJ1ZSIKICAgICBpbmtzY2FwZTpndWlkZS1iYm94PSJ0cnVlIiAvPgogIDxtZXRhZGF0YQogICAgIGlkPSJtZXRhZGF0YTQ4NDMiPgogICAgPHJkZjpSREY+CiAgICAgIDxjYzpXb3JrCiAgICAgICAgIHJkZjphYm91dD0iIj4KICAgICAgICA8ZGM6Zm9ybWF0PmltYWdlL3N2Zyt4bWw8L2RjOmZvcm1hdD4KICAgICAgICA8ZGM6dHlwZQogICAgICAgICAgIHJkZjpyZXNvdXJjZT0iaHR0cDovL3B1cmwub3JnL2RjL2RjbWl0eXBlL1N0aWxsSW1hZ2UiIC8+CiAgICAgICAgPGRjOnRpdGxlIC8+CiAgICAgIDwvY2M6V29yaz4KICAgIDwvcmRmOlJERj4KICA8L21ldGFkYXRhPgogIDxnCiAgICAgaW5rc2NhcGU6bGFiZWw9IkxheWVyIDEiCiAgICAgaW5rc2NhcGU6Z3JvdXBtb2RlPSJsYXllciIKICAgICBpZD0ibGF5ZXIxIgogICAgIHRyYW5zZm9ybT0idHJhbnNsYXRlKDAsLTI4MC4wNjY2NSkiPgogICAgPHBhdGgKICAgICAgIHN0eWxlPSJkaXNwbGF5OmlubGluZTtvcGFjaXR5OjE7dmVjdG9yLWVmZmVjdDpub25lO2ZpbGw6Izk5OTk5QjtmaWxsLW9wYWNpdHk6MTtmaWxsLXJ1bGU6ZXZlbm9kZDtzdHJva2U6bm9uZTtzdHJva2Utd2lkdGg6MC4yNjQ1ODMzMjtzdHJva2UtbGluZWNhcDpidXR0O3N0cm9rZS1saW5lam9pbjptaXRlcjtzdHJva2UtbWl0ZXJsaW1pdDo0O3N0cm9rZS1kYXNoYXJyYXk6bm9uZTtzdHJva2UtZGFzaG9mZnNldDowO3N0cm9rZS1vcGFjaXR5OjEiCiAgICAgICBkPSJtIDE0LjE1NTIxMiwyODEuNzg2NDUgMS41ODc1LDEuMzIyOTEgdiAwLjc5Mzc1IGwgLTIuMTE2NjcsMi45MTA0MiAtMi4xMTY2NywtMS41ODc1IHoiCiAgICAgICBpZD0icGF0aDQ0NzYiCiAgICAgICBpbmtzY2FwZTpjb25uZWN0b3ItY3VydmF0dXJlPSIwIiAvPgogICAgPHBhdGgKICAgICAgIHN0eWxlPSJjb2xvcjojMDAwMDAwO2ZvbnQtc3R5bGU6bm9ybWFsO2ZvbnQtdmFyaWFudDpub3JtYWw7Zm9udC13ZWlnaHQ6bm9ybWFsO2ZvbnQtc3RyZXRjaDpub3JtYWw7Zm9udC1zaXplOm1lZGl1bTtsaW5lLWhlaWdodDpub3JtYWw7Zm9udC1mYW1pbHk6c2Fucy1zZXJpZjtmb250LXZhcmlhbnQtbGlnYXR1cmVzOm5vcm1hbDtmb250LXZhcmlhbnQtcG9zaXRpb246bm9ybWFsO2ZvbnQtdmFyaWFudC1jYXBzOm5vcm1hbDtmb250LXZhcmlhbnQtbnVtZXJpYzpub3JtYWw7Zm9udC12YXJpYW50LWFsdGVybmF0ZXM6bm9ybWFsO2ZvbnQtZmVhdHVyZS1zZXR0aW5nczpub3JtYWw7dGV4dC1pbmRlbnQ6MDt0ZXh0LWFsaWduOnN0YXJ0O3RleHQtZGVjb3JhdGlvbjpub25lO3RleHQtZGVjb3JhdGlvbi1saW5lOm5vbmU7dGV4dC1kZWNvcmF0aW9uLXN0eWxlOnNvbGlkO3RleHQtZGVjb3JhdGlvbi1jb2xvcjojMDAwMDAwO2xldHRlci1zcGFjaW5nOm5vcm1hbDt3b3JkLXNwYWNpbmc6bm9ybWFsO3RleHQtdHJhbnNmb3JtOm5vbmU7d3JpdGluZy1tb2RlOmxyLXRiO2RpcmVjdGlvbjpsdHI7dGV4dC1vcmllbnRhdGlvbjptaXhlZDtkb21pbmFudC1iYXNlbGluZTphdXRvO2Jhc2VsaW5lLXNoaWZ0OmJhc2VsaW5lO3RleHQtYW5jaG9yOnN0YXJ0O3doaXRlLXNwYWNlOm5vcm1hbDtzaGFwZS1wYWRkaW5nOjA7Y2xpcC1ydWxlOm5vbnplcm87ZGlzcGxheTppbmxpbmU7b3ZlcmZsb3c6dmlzaWJsZTt2aXNpYmlsaXR5OnZpc2libGU7b3BhY2l0eToxO2lzb2xhdGlvbjphdXRvO21peC1ibGVuZC1tb2RlOm5vcm1hbDtjb2xvci1pbnRlcnBvbGF0aW9uOnNSR0I7Y29sb3ItaW50ZXJwb2xhdGlvbi1maWx0ZXJzOmxpbmVhclJHQjtzb2xpZC1jb2xvcjojMDAwMDAwO3NvbGlkLW9wYWNpdHk6MTt2ZWN0b3ItZWZmZWN0Om5vbmU7ZmlsbDojNDQ0NDQ0O2ZpbGwtb3BhY2l0eToxO2ZpbGwtcnVsZTpldmVub2RkO3N0cm9rZTpub25lO3N0cm9rZS13aWR0aDoyO3N0cm9rZS1saW5lY2FwOmJ1dHQ7c3Ryb2tlLWxpbmVqb2luOnJvdW5kO3N0cm9rZS1taXRlcmxpbWl0OjQ7c3Ryb2tlLWRhc2hhcnJheTpub25lO3N0cm9rZS1kYXNob2Zmc2V0OjA7c3Ryb2tlLW9wYWNpdHk6MTtjb2xvci1yZW5kZXJpbmc6YXV0bztpbWFnZS1yZW5kZXJpbmc6YXV0bztzaGFwZS1yZW5kZXJpbmc6YXV0bzt0ZXh0LXJlbmRlcmluZzphdXRvO2VuYWJsZS1iYWNrZ3JvdW5kOmFjY3VtdWxhdGUiCiAgICAgICBkPSJNIDU2LjcyMjY1NiA4Ljg3MzA0NjkgTCA1My4zMjYxNzIgMTMuMTE5MTQxIEwgNTAuMTAxNTYyIDEwLjcwMzEyNSBMIDQ4Ljg5ODQzOCAxMi4yOTY4NzUgTCA1Ni45MDAzOTEgMTguMjk4ODI4IEwgNTguMTAzNTE2IDE2LjY5NzI2NiBMIDU0LjkyNTc4MSAxNC4zMTY0MDYgTCA1OC4yNzkyOTcgMTAuMTI2OTUzIEwgNTYuNzIyNjU2IDguODczMDQ2OSB6IE0gNDcuMDk1NzAzIDE0LjY5NzI2NiBMIDQ1LjkwMDM5MSAxNi4yOTg4MjggTCA1My45MDIzNDQgMjIuMjk4ODI4IEwgNTUuMDk3NjU2IDIwLjY5NzI2NiBMIDQ3LjA5NTcwMyAxNC42OTcyNjYgeiAiCiAgICAgICB0cmFuc2Zvcm09Im1hdHJpeCgwLjI2NDU4MzM0LDAsMCwwLjI2NDU4MzM0LDAsMjgwLjA2NjY1KSIKICAgICAgIGlkPSJwYXRoNDQ3MCIgLz4KICAgIDxwYXRoCiAgICAgICBzdHlsZT0iZGlzcGxheTppbmxpbmU7b3BhY2l0eToxO3ZlY3Rvci1lZmZlY3Q6bm9uZTtmaWxsOiM5OTk5OUI7ZmlsbC1vcGFjaXR5OjE7ZmlsbC1ydWxlOmV2ZW5vZGQ7c3Ryb2tlOm5vbmU7c3Ryb2tlLXdpZHRoOjAuMjY0NTgzMzI7c3Ryb2tlLWxpbmVjYXA6YnV0dDtzdHJva2UtbGluZWpvaW46bWl0ZXI7c3Ryb2tlLW1pdGVybGltaXQ6NDtzdHJva2UtZGFzaGFycmF5Om5vbmU7c3Ryb2tlLWRhc2hvZmZzZXQ6MDtzdHJva2Utb3BhY2l0eToxIgogICAgICAgZD0ibSAxLjE5MDYyMTYsMjk1LjAxNTYxIHYgLTEuMzIyOTEgaCAyLjM4MTI1IGwgMS41ODc1LC0wLjc5Mzc1IDIuMzgxMjUsLTIuMTE2NjcgMi45MTA0MjA0LC0zLjcwNDE3IDEuMDU4MzMsMC43OTM3NSAtMC4yNjQ1OCwxLjU4NzUgLTYuMzUwMDAwNSw1LjU1NjI1IHoiCiAgICAgICBpZD0icGF0aDQ0NjIiCiAgICAgICBpbmtzY2FwZTpjb25uZWN0b3ItY3VydmF0dXJlPSIwIiAvPgogICAgPHBhdGgKICAgICAgIHN0eWxlPSJkaXNwbGF5OmlubGluZTtvcGFjaXR5OjE7dmVjdG9yLWVmZmVjdDpub25lO2ZpbGw6I0Y0RjRGNDtmaWxsLW9wYWNpdHk6MTtmaWxsLXJ1bGU6ZXZlbm9kZDtzdHJva2U6bm9uZTtzdHJva2Utd2lkdGg6MC4yNjQ1ODMzMjtzdHJva2UtbGluZWNhcDpidXR0O3N0cm9rZS1saW5lam9pbjptaXRlcjtzdHJva2UtbWl0ZXJsaW1pdDo0O3N0cm9rZS1kYXNoYXJyYXk6bm9uZTtzdHJva2UtZGFzaG9mZnNldDowO3N0cm9rZS1vcGFjaXR5OjEiCiAgICAgICBkPSJtIDEuMTkwNjIxNiwyOTQuNzUxMDMgaCAyLjY0NTg0IGMgMy4xNzUsMCA3LjY3MjkxMDQsLTYuODc5MTcgNy42NzI5MTA0LC02Ljg3OTE3IGwgMS4wNTgzNCwwLjc5Mzc1IC0wLjI2NDU5LDAuNTI5MTcgLTQuNDk3OTEwNCw1LjAyNzA4IC0xLjg1MjA5LDEuMzIyOTIgLTAuNzkzNzUsMC4yNjQ1OCBoIC0yLjY0NTgzIGwgLTEuMDU4MzMsLTAuNTI5MTYgeiIKICAgICAgIGlkPSJwYXRoNDQ1OSIKICAgICAgIGlua3NjYXBlOmNvbm5lY3Rvci1jdXJ2YXR1cmU9IjAiCiAgICAgICBzb2RpcG9kaTpub2RldHlwZXM9ImNzY2NjY2NjY2NjIiAvPgogICAgPHBhdGgKICAgICAgIHN0eWxlPSJkaXNwbGF5OmlubGluZTtvcGFjaXR5OjE7dmVjdG9yLWVmZmVjdDpub25lO2ZpbGw6bm9uZTtmaWxsLW9wYWNpdHk6MTtmaWxsLXJ1bGU6ZXZlbm9kZDtzdHJva2U6IzAwMDAwMDtzdHJva2Utd2lkdGg6MC41MjkxNjY3O3N0cm9rZS1saW5lY2FwOmJ1dHQ7c3Ryb2tlLWxpbmVqb2luOnJvdW5kO3N0cm9rZS1taXRlcmxpbWl0OjQ7c3Ryb2tlLWRhc2hhcnJheTpub25lO3N0cm9rZS1kYXNob2Zmc2V0OjA7c3Ryb2tlLW9wYWNpdHk6MSIKICAgICAgIGQ9Im0gMTIuNTY3NzEyLDI4OC42NjU2MSAtMi4xMTY2NywtMS41ODc1IGMgMCwwIC00LjQ5NzkxMDQsNi42MTQ1OCAtNy40MDgzMjA0LDYuNjE0NTggaCAtMS44NTIwOSBsIC0xMGUtNiwxLjA1ODM0IGMgMCwwIDAsMS4wNTgzMyAxLjg1MjA5LDEuMDU4MzMgaCAxLjg1MjA3OTkgYyAyLjM4MTI1MDEsMCA3LjY3MjkyMDUsLTcuMTQzNzUgNy42NzI5MjA1LC03LjE0Mzc1IHoiCiAgICAgICBpZD0icGF0aDQ0NTciCiAgICAgICBpbmtzY2FwZTpjb25uZWN0b3ItY3VydmF0dXJlPSIwIgogICAgICAgc29kaXBvZGk6bm9kZXR5cGVzPSJjY2NjY3NjYyIgLz4KICAgIDxwYXRoCiAgICAgICBzdHlsZT0iZGlzcGxheTppbmxpbmU7b3BhY2l0eToxO3ZlY3Rvci1lZmZlY3Q6bm9uZTtmaWxsOiNGNEY0RjQ7ZmlsbC1vcGFjaXR5OjE7ZmlsbC1ydWxlOmV2ZW5vZGQ7c3Ryb2tlOiMwMDAwMDA7c3Ryb2tlLXdpZHRoOjAuNTI5MTY2NztzdHJva2UtbGluZWNhcDpidXR0O3N0cm9rZS1saW5lam9pbjpyb3VuZDtzdHJva2UtbWl0ZXJsaW1pdDo0O3N0cm9rZS1kYXNoYXJyYXk6bm9uZTtzdHJva2UtZGFzaG9mZnNldDowO3N0cm9rZS1vcGFjaXR5OjEiCiAgICAgICBkPSJtIDEzLjg5MDYzMiwyODguNjY1NjEgLTAuMjY0NTksMC4yNjQ1OCAtMy45Njg3NTA0LC0yLjkxMDQxIDEuMDU4MzMwNCwtMS4zMjI5MiAzLjk2ODc1LDIuOTEwNDIgeiIKICAgICAgIGlkPSJwYXRoNDQ2NiIKICAgICAgIGlua3NjYXBlOmNvbm5lY3Rvci1jdXJ2YXR1cmU9IjAiCiAgICAgICBzb2RpcG9kaTpub2RldHlwZXM9ImNjY2NjYyIgLz4KICAgIDxwYXRoCiAgICAgICBzdHlsZT0iZGlzcGxheTppbmxpbmU7b3BhY2l0eToxO3ZlY3Rvci1lZmZlY3Q6bm9uZTtmaWxsOm5vbmU7ZmlsbC1vcGFjaXR5OjE7ZmlsbC1ydWxlOmV2ZW5vZGQ7c3Ryb2tlOiMwMDAwMDA7c3Ryb2tlLXdpZHRoOjAuNTI5MTY2NztzdHJva2UtbGluZWNhcDpidXR0O3N0cm9rZS1saW5lam9pbjpyb3VuZDtzdHJva2UtbWl0ZXJsaW1pdDo0O3N0cm9rZS1kYXNoYXJyYXk6bm9uZTtzdHJva2UtZGFzaG9mZnNldDowO3N0cm9rZS1vcGFjaXR5OjEiCiAgICAgICBkPSJtIDExLjUwOTM3MiwyODUuMjI2MDMgMi42NDU4NCwtMy40Mzk1OCAxLjU4NzUsMS4zMjI5MSB2IDAuNzkzNzUgbCAtMi4xMTY2NywyLjkxMDQyIHoiCiAgICAgICBpZD0icGF0aDQ0NjgiCiAgICAgICBpbmtzY2FwZTpjb25uZWN0b3ItY3VydmF0dXJlPSIwIiAvPgogICAgPHBhdGgKICAgICAgIHN0eWxlPSJkaXNwbGF5OmlubGluZTtvcGFjaXR5OjE7dmVjdG9yLWVmZmVjdDpub25lO2ZpbGw6Izk5OTk5QjtmaWxsLW9wYWNpdHk6MTtmaWxsLXJ1bGU6ZXZlbm9kZDtzdHJva2U6IzAwMDAwMDtzdHJva2Utd2lkdGg6MC41MjkxNjY3O3N0cm9rZS1saW5lY2FwOmJ1dHQ7c3Ryb2tlLWxpbmVqb2luOnJvdW5kO3N0cm9rZS1taXRlcmxpbWl0OjQ7c3Ryb2tlLWRhc2hhcnJheTpub25lO3N0cm9rZS1kYXNob2Zmc2V0OjA7c3Ryb2tlLW9wYWNpdHk6MSIKICAgICAgIGQ9Im0gMTIuNTY3NzEyLDI4My4zNzM5NSBjIDAsMCAtMC43OTM3NSwtMC4yNjQ1OSAtMS44NTIwOSwtMC4yNjQ1OSAtMS4wNTgzMzA0LDAgLTEuMzIyOTEwNCwwLjI2NDU5IC0yLjY0NTgzMDQsMC4yNjQ1OSB2IDEuNTg3NDkgYyAwLDAgMC43OTM3NSwtMC4yNjQ1OCAxLjg1MjA5LC0wLjI2NDU4IGggMS41ODc1MDA0IHoiCiAgICAgICBpZD0icGF0aDQ0NzkiCiAgICAgICBpbmtzY2FwZTpjb25uZWN0b3ItY3VydmF0dXJlPSIwIgogICAgICAgc29kaXBvZGk6bm9kZXR5cGVzPSJjc2Njc2NjIiAvPgogICAgPHBhdGgKICAgICAgIHN0eWxlPSJkaXNwbGF5OmlubGluZTtvcGFjaXR5OjE7dmVjdG9yLWVmZmVjdDpub25lO2ZpbGw6Izk5OTk5QjtmaWxsLW9wYWNpdHk6MTtmaWxsLXJ1bGU6ZXZlbm9kZDtzdHJva2U6IzAwMDAwMDtzdHJva2Utd2lkdGg6MC41MjkxNjY3O3N0cm9rZS1saW5lY2FwOmJ1dHQ7c3Ryb2tlLWxpbmVqb2luOnJvdW5kO3N0cm9rZS1taXRlcmxpbWl0OjQ7c3Ryb2tlLWRhc2hhcnJheTpub25lO3N0cm9rZS1kYXNob2Zmc2V0OjA7c3Ryb2tlLW9wYWNpdHk6MSIKICAgICAgIGQ9Im0gOC4wNjk3OTE2LDI4My4zNzM5NSBjIDAsMCAtMC43OTM3NSwtMC41MjkxNyAtMS44NTIwOCwtMC41MjkxNyB2IDIuNjQ1ODMgYyAxLjA1ODMzLDAgMS44NTIwOCwtMC41MjkxNyAxLjg1MjA4LC0wLjUyOTE3IHoiCiAgICAgICBpZD0icGF0aDQ0ODEiCiAgICAgICBpbmtzY2FwZTpjb25uZWN0b3ItY3VydmF0dXJlPSIwIiAvPgogICAgPHBhdGgKICAgICAgIHN0eWxlPSJkaXNwbGF5OmlubGluZTtvcGFjaXR5OjE7dmVjdG9yLWVmZmVjdDpub25lO2ZpbGw6Izk5OTk5QjtmaWxsLW9wYWNpdHk6MTtmaWxsLXJ1bGU6ZXZlbm9kZDtzdHJva2U6IzAwMDAwMDtzdHJva2Utd2lkdGg6MC41MjkxNjY3O3N0cm9rZS1saW5lY2FwOmJ1dHQ7c3Ryb2tlLWxpbmVqb2luOnJvdW5kO3N0cm9rZS1taXRlcmxpbWl0OjQ7c3Ryb2tlLWRhc2hhcnJheTpub25lO3N0cm9rZS1kYXNob2Zmc2V0OjA7c3Ryb2tlLW9wYWNpdHk6MSIKICAgICAgIGQ9Im0gNi4yMTc3MTE2LDI4Mi44NDQ3OCB2IC0wLjUyOTE3IEwgNC44OTQ3OTE1LDI4MS4yNTcyOCBIIDMuODM2NDYxNiB2IDEuMDU4MzMgbCAyLjM4MTI1LDEuMzIyOTIgLTIuMzgxMjUsLTEuMDU4MzMgaCAtMS4zMjI5MiB2IDAuNzkzNzUgbCAxLjA1ODMzLDAuNzkzNzUgMi42NDU4NCwwLjUyOTE2IC0yLjkxMDQyLC0wLjI2NDU4IC0wLjc5Mzc1LDAuNzkzNzUgdiAwLjUyOTE3IGggMy40Mzk1OCBsIDAuMjY0NTksLTAuMjY0NTkgeiIKICAgICAgIGlkPSJwYXRoNDQ4NSIKICAgICAgIGlua3NjYXBlOmNvbm5lY3Rvci1jdXJ2YXR1cmU9IjAiIC8+CiAgPC9nPgo8L3N2Zz4K",
+      "attributes": {
+        "strength": 12,
+        "dexterity": 15,
+        "constitution": 13,
+        "intelligence": 10,
+        "wisdom": 12,
+        "charisma": 11
+      },
+      "backstory": "",
+      "selectedLevelMode": "native",
+      "selectedCustomLevel": null,
+      "selectedSpawnPoint": "Đảo nổi trung tâm · hẻm sau Thành Bang Bạch Thạch",
+      "class": "Thợ Săn Quái Vật - Thái Đao",
+      "selectedBaseClass": "Nghề tùy chỉnh",
+      "customClassName": "Thợ Săn Quái Vật - Thái Đao",
+      "customClassStyle": "Thợ săn sử dụng thanh thái đao khổng lồ để săn đủ loại quái vật. Sở trường là lấy thanh khí nhận làm cơ chế cốt lõi để triển khai thế công liên miên không dứt, giỏi truy kích và phản kích trong cận chiến.\n",
+      "customClassWeapon": "Thái đao Monster Hunter",
+      "customClassCombatStyle": "Cận chiến vật lý",
+      "skillTree": {
+        "基础": [
+          {
+            "名称": "Khí nhận lưu chuyển",
+            "类型": "Đặc biệt",
+            "描述": "Dẫn dắt luyện khí trong cơ thể để mở hệ thống cấp khí nhận. Thanh khí nhận chia thành bốn bậc: không, trắng, vàng và đỏ; liên tục dùng các chiêu thức đặc định để nâng cấp, từ đó nhận tăng ích thường trực mạnh mẽ.",
+            "特殊效果": {
+              "1": "Bị động duy trì hệ thống khí nhận. Lưỡi trắng: trúng đòn +1; lưỡi vàng: trúng đòn +1, sát thương +5%; lưỡi đỏ: trúng đòn +2, sát thương +10%, ngưỡng bạo kích -1.",
+              "2": "Bị động duy trì hệ thống khí nhận. Lưỡi trắng: trúng đòn +1; lưỡi vàng: trúng đòn +2, sát thương +5%; lưỡi đỏ: trúng đòn +2, sát thương +10%, ngưỡng bạo kích -1.",
+              "3": "Bị động duy trì hệ thống khí nhận. Lưỡi trắng: trúng đòn +1; lưỡi vàng: trúng đòn +2, sát thương +5%; lưỡi đỏ: trúng đòn +2, sát thương +12%, ngưỡng bạo kích -1.",
+              "4": "Bị động duy trì hệ thống khí nhận. Lưỡi trắng: trúng đòn +1, sát thương +2%; lưỡi vàng: trúng đòn +2, sát thương +8%; lưỡi đỏ: trúng đòn +3, sát thương +15%, ngưỡng bạo kích -1.",
+              "5": "Bị động duy trì hệ thống khí nhận. Lưỡi trắng: trúng đòn +1, sát thương +2%; lưỡi vàng: trúng đòn +2, sát thương +8%; lưỡi đỏ: trúng đòn +3, sát thương +15%, ngưỡng bạo kích -1, miễn trừ Nhanh nhẹn có lợi thế.",
+              "6": "Bị động duy trì hệ thống khí nhận. Lưỡi trắng: trúng đòn +1, sát thương +4%; lưỡi vàng: trúng đòn +2, sát thương +10%; lưỡi đỏ: trúng đòn +3, sát thương +18%, ngưỡng bạo kích -1, miễn trừ Nhanh nhẹn có lợi thế.",
+              "7": "Bị động duy trì hệ thống khí nhận. Lưỡi trắng: trúng đòn +2, sát thương +4%; lưỡi vàng: trúng đòn +2, sát thương +10%; lưỡi đỏ: trúng đòn +3, sát thương +18%, ngưỡng bạo kích -2, miễn trừ Nhanh nhẹn có lợi thế.",
+              "8": "Bị động duy trì hệ thống khí nhận. Lưỡi trắng: trúng đòn +2, sát thương +5%; lưỡi vàng: trúng đòn +2, sát thương +12%; lưỡi đỏ: trúng đòn +3, sát thương +20%, ngưỡng bạo kích -2, miễn trừ Nhanh nhẹn có lợi thế.",
+              "9": "Bị động duy trì hệ thống khí nhận. Lưỡi trắng: trúng đòn +2, sát thương +5%; lưỡi vàng: trúng đòn +3, sát thương +12%; lưỡi đỏ: trúng đòn +4, sát thương +22%, ngưỡng bạo kích -2, miễn trừ Nhanh nhẹn có lợi thế.",
+              "10": "Bị động duy trì hệ thống khí nhận. Lưỡi trắng: trúng đòn +2, sát thương +6%, ngưỡng bạo kích -1; lưỡi vàng: trúng đòn +3, sát thương +15%, ngưỡng bạo kích -1; lưỡi đỏ: trúng đòn +4, sát thương +25%, ngưỡng bạo kích -2, miễn trừ Nhanh nhẹn có lợi thế.",
+              "11": "Bị động duy trì hệ thống khí nhận. Lưỡi trắng: trúng đòn +2, sát thương +6%, ngưỡng bạo kích -1; lưỡi vàng: trúng đòn +3, sát thương +15%, ngưỡng bạo kích -1; lưỡi đỏ: trúng đòn +4, sát thương +25%, ngưỡng bạo kích -2, miễn trừ Nhanh nhẹn có lợi thế.",
+              "12": "Bị động duy trì hệ thống khí nhận. Lưỡi trắng: trúng đòn +2, sát thương +6%, ngưỡng bạo kích -1; lưỡi vàng: trúng đòn +3, sát thương +15%, ngưỡng bạo kích -1; lưỡi đỏ: trúng đòn +4, sát thương +25%, ngưỡng bạo kích -2, miễn trừ Nhanh nhẹn có lợi thế.",
+              "13": "Bị động duy trì hệ thống khí nhận. Lưỡi trắng: trúng đòn +2, sát thương +6%, ngưỡng bạo kích -1; lưỡi vàng: trúng đòn +3, sát thương +15%, ngưỡng bạo kích -1; lưỡi đỏ: trúng đòn +4, sát thương +25%, ngưỡng bạo kích -2, miễn trừ Nhanh nhẹn có lợi thế.",
+              "14": "Bị động duy trì hệ thống khí nhận. Lưỡi trắng: trúng đòn +2, sát thương +6%, ngưỡng bạo kích -1; lưỡi vàng: trúng đòn +3, sát thương +15%, ngưỡng bạo kích -1; lưỡi đỏ: trúng đòn +4, sát thương +25%, ngưỡng bạo kích -2, miễn trừ Nhanh nhẹn có lợi thế.",
+              "15": "Bị động duy trì hệ thống khí nhận. Lưỡi trắng: trúng đòn +2, sát thương +6%, ngưỡng bạo kích -1; lưỡi vàng: trúng đòn +3, sát thương +15%, ngưỡng bạo kích -1; lưỡi đỏ: trúng đòn +4, sát thương +25%, ngưỡng bạo kích -2, miễn trừ Nhanh nhẹn có lợi thế."
+            },
+            "阶位": "Cơ bản"
+          },
+          {
+            "名称": "Khí nhận trảm",
+            "类型": "Chủ động",
+            "描述": "Nhát chém rót đầy luyện khí. Dù sát thương cơ bản bình thường, chiêu này có thể tích lũy thanh khí nhận hiệu quả và rất dễ đánh trúng điểm yếu của kẻ địch.",
+            "特殊效果": {
+              "1": "Sau khi trúng đòn, số tầng thanh khí nhận +1, ngưỡng bạo kích của đòn tấn công này giảm 1.",
+              "2": "Sau khi trúng đòn, số tầng thanh khí nhận +1, ngưỡng bạo kích của đòn tấn công này giảm 1, sát thương cuối cùng tăng 2%.",
+              "3": "Sau khi trúng đòn, số tầng thanh khí nhận +1, ngưỡng bạo kích của đòn tấn công này giảm 1, sát thương cuối cùng tăng 4%.",
+              "4": "Sau khi trúng đòn, số tầng thanh khí nhận +1, ngưỡng bạo kích của đòn tấn công này giảm 1, sát thương cuối cùng tăng 6%.",
+              "5": "Sau khi trúng đòn, số tầng thanh khí nhận +1, ngưỡng bạo kích của đòn tấn công này giảm 2, sát thương cuối cùng tăng 8%.",
+              "6": "Sau khi trúng đòn, số tầng thanh khí nhận +1, ngưỡng bạo kích của đòn tấn công này giảm 2, sát thương cuối cùng tăng 10%.",
+              "7": "Sau khi trúng đòn, số tầng thanh khí nhận +1, ngưỡng bạo kích của đòn tấn công này giảm 2, sát thương cuối cùng tăng 12%.",
+              "8": "Sau khi trúng đòn, số tầng thanh khí nhận +1, ngưỡng bạo kích của đòn tấn công này giảm 2, sát thương cuối cùng tăng 14%; nếu đòn này kích hoạt bạo kích, hồi thêm 1 điểm thanh khí nhận (mỗi vòng giới hạn 1 lần).",
+              "9": "Sau khi trúng đòn, số tầng thanh khí nhận +1, ngưỡng bạo kích của đòn tấn công này giảm 2, sát thương cuối cùng tăng 16%; nếu đòn này kích hoạt bạo kích, hồi thêm 1 điểm thanh khí nhận.",
+              "10": "Sau khi trúng đòn, số tầng thanh khí nhận +1, ngưỡng bạo kích của đòn tấn công này giảm 3, sát thương cuối cùng tăng 18%; nếu đòn này kích hoạt bạo kích, hồi thêm 1 điểm thanh khí nhận.",
+              "11": "Sau khi trúng đòn, số tầng thanh khí nhận +1, ngưỡng bạo kích của đòn tấn công này giảm 3, sát thương cuối cùng tăng 20%; nếu đòn này kích hoạt bạo kích, hồi thêm 1 điểm thanh khí nhận.",
+              "12": "Sau khi trúng đòn, số tầng thanh khí nhận +1, ngưỡng bạo kích của đòn tấn công này giảm 3, sát thương cuối cùng tăng 22%; nếu đòn này kích hoạt bạo kích, hồi thêm 1 điểm thanh khí nhận.",
+              "13": "Sau khi trúng đòn, số tầng thanh khí nhận +1, ngưỡng bạo kích của đòn tấn công này giảm 3, sát thương cuối cùng tăng 25%; nếu đòn này kích hoạt bạo kích, hồi thêm 1 điểm thanh khí nhận.",
+              "14": "Sau khi trúng đòn, số tầng thanh khí nhận +1, ngưỡng bạo kích của đòn tấn công này giảm 3, sát thương cuối cùng tăng 28%; nếu đòn này kích hoạt bạo kích, hồi thêm 1 điểm thanh khí nhận.",
+              "15": "Sau khi trúng đòn, số tầng thanh khí nhận +1, ngưỡng bạo kích của đòn tấn công này giảm 4, sát thương cuối cùng tăng 30%; nếu đòn này kích hoạt bạo kích, hồi thêm 1 điểm thanh khí nhận và giảm AC của mục tiêu 1 điểm, kéo dài 3 hiệp."
+            },
+            "阶位": "Cơ bản"
+          },
+          {
+            "名称": "Bạt đao nhị liên trảm",
+            "类型": "Chủ động",
+            "描述": "Vừa rút đao vừa bước tới trước, liên tục chém kẻ địch hai lần. Là kỹ mở đầu, chiêu này đặt nền mạnh cho các chuỗi liên kích phía sau.",
+            "特殊效果": {
+              "1": "Sau khi trúng đòn, sát thương cuối cùng của đòn tấn công hệ khí nhận kế tiếp tăng 10%.",
+              "2": "Sau khi trúng đòn, sát thương cuối cùng của đòn tấn công hệ khí nhận kế tiếp tăng 12%.",
+              "3": "Sau khi trúng đòn, sát thương cuối cùng của đòn tấn công hệ khí nhận kế tiếp tăng 15%.",
+              "4": "Sau khi trúng đòn, sát thương cuối cùng của đòn tấn công hệ khí nhận kế tiếp tăng 15%.",
+              "5": "Sau khi trúng đòn, sát thương cuối cùng của đòn tấn công hệ khí nhận kế tiếp tăng 20%.",
+              "6": "Sau khi trúng đòn, sát thương cuối cùng của đòn tấn công hệ khí nhận kế tiếp tăng 20%.",
+              "7": "Sau khi trúng đòn, sát thương cuối cùng của đòn tấn công hệ khí nhận kế tiếp tăng 25%.",
+              "8": "Sau khi trúng đòn, sát thương cuối cùng của đòn tấn công hệ khí nhận kế tiếp tăng 25%.",
+              "9": "Sau khi trúng đòn, sát thương cuối cùng của đòn tấn công hệ khí nhận kế tiếp tăng 30%.",
+              "10": "Sau khi trúng đòn, sát thương cuối cùng của đòn tấn công hệ khí nhận kế tiếp tăng 35%.",
+              "11": "Sau khi trúng đòn, sát thương cuối cùng của đòn tấn công hệ khí nhận kế tiếp tăng 35%, đồng thời nhận lợi thế kiểm định trúng đòn trong khoảnh khắc rút đao.",
+              "12": "Sau khi trúng đòn, sát thương cuối cùng của đòn tấn công hệ khí nhận kế tiếp tăng 40%, đồng thời nhận lợi thế kiểm định trúng đòn trong khoảnh khắc rút đao.",
+              "13": "Sau khi trúng đòn, sát thương cuối cùng của đòn tấn công hệ khí nhận kế tiếp tăng 45%, đồng thời nhận lợi thế kiểm định trúng đòn trong khoảnh khắc rút đao.",
+              "14": "Sau khi trúng đòn, sát thương cuối cùng của đòn tấn công hệ khí nhận kế tiếp tăng 45%, đồng thời nhận lợi thế kiểm định trúng đòn trong khoảnh khắc rút đao.",
+              "15": "Sau khi trúng đòn, sát thương cuối cùng của đòn tấn công hệ khí nhận kế tiếp tăng 50%, đồng thời nhận lợi thế kiểm định trúng đòn trong khoảnh khắc rút đao."
+            },
+            "阶位": "Cơ bản"
+          }
+        ],
+        "转职": [
+          {
+            "名称": "Đại hồi toàn khí nhận",
+            "类型": "Chủ động",
+            "描述": "Vung thái đao thực hiện nhát chém xoay phạm vi lớn. Không tiêu hao thanh khí nhận; sau khi trúng đòn sẽ nâng cấp khí nhận.",
+            "特殊效果": {
+              "1": "Không tiêu hao thanh khí nhận. Gây sát thương lên toàn bộ kẻ địch xung quanh; sau khi trúng đòn, cấp khí nhận +1 (mỗi vòng giới hạn 1 lần), ngưỡng bạo kích của đòn này giảm 1.",
+              "2": "Không tiêu hao thanh khí nhận. Gây sát thương lên toàn bộ kẻ địch xung quanh; sau khi trúng đòn, cấp khí nhận +1 (mỗi vòng giới hạn 1 lần), ngưỡng bạo kích của đòn này giảm 1, sát thương cuối cùng +5%.",
+              "3": "Không tiêu hao thanh khí nhận. Gây sát thương lên toàn bộ kẻ địch xung quanh; sau khi trúng đòn, cấp khí nhận +1 (mỗi vòng giới hạn 1 lần), ngưỡng bạo kích của đòn này giảm 1, sát thương cuối cùng +10%.",
+              "4": "Không tiêu hao thanh khí nhận. Gây sát thương lên toàn bộ kẻ địch xung quanh; sau khi trúng đòn, cấp khí nhận +1 (mỗi vòng giới hạn 1 lần), ngưỡng bạo kích của đòn này giảm 2, sát thương cuối cùng +10%.",
+              "5": "Không tiêu hao thanh khí nhận. Gây sát thương lên toàn bộ kẻ địch xung quanh; sau khi trúng đòn, cấp khí nhận +1 (mỗi vòng giới hạn 1 lần), ngưỡng bạo kích của đòn này giảm 2, sát thương cuối cùng +15%.",
+              "6": "Không tiêu hao thanh khí nhận. Gây sát thương lên toàn bộ kẻ địch xung quanh; sau khi trúng đòn, cấp khí nhận +1 (mỗi vòng giới hạn 1 lần), ngưỡng bạo kích của đòn này giảm 2, sát thương cuối cùng +15%; mỗi khi trúng một kẻ địch, thanh khí nhận +1.",
+              "7": "Không tiêu hao thanh khí nhận. Gây sát thương lên toàn bộ kẻ địch xung quanh; sau khi trúng đòn, cấp khí nhận +1 (mỗi vòng giới hạn 1 lần), ngưỡng bạo kích của đòn này giảm 2, sát thương cuối cùng +20%; mỗi khi trúng một kẻ địch, thanh khí nhận +1.",
+              "8": "Không tiêu hao thanh khí nhận. Gây sát thương lên toàn bộ kẻ địch xung quanh; sau khi trúng đòn, cấp khí nhận +1 (mỗi vòng giới hạn 1 lần), ngưỡng bạo kích của đòn này giảm 3, sát thương cuối cùng +20%; mỗi khi trúng một kẻ địch, thanh khí nhận +1.",
+              "9": "Không tiêu hao thanh khí nhận. Gây sát thương lên toàn bộ kẻ địch xung quanh; sau khi trúng đòn, cấp khí nhận +1 (mỗi vòng giới hạn 1 lần), ngưỡng bạo kích của đòn này giảm 3, sát thương cuối cùng +25%; mỗi khi trúng một kẻ địch, thanh khí nhận +1.",
+              "10": "Không tiêu hao thanh khí nhận. Gây sát thương lên toàn bộ kẻ địch xung quanh; sau khi trúng đòn, cấp khí nhận +1 (mỗi vòng giới hạn 1 lần), ngưỡng bạo kích của đòn này giảm 3, sát thương cuối cùng +25%; mỗi khi trúng một kẻ địch, thanh khí nhận +2, đồng thời bản thân AC+1 kéo dài 1 hiệp.",
+              "11": "Không tiêu hao thanh khí nhận. Gây sát thương lên toàn bộ kẻ địch xung quanh; sau khi trúng đòn, cấp khí nhận +1 (mỗi vòng giới hạn 1 lần), ngưỡng bạo kích của đòn này giảm 4, sát thương cuối cùng +30%; mỗi khi trúng một kẻ địch, thanh khí nhận +2, đồng thời bản thân AC+1 kéo dài 1 hiệp.",
+              "12": "Không tiêu hao thanh khí nhận. Gây sát thương lên toàn bộ kẻ địch xung quanh; sau khi trúng đòn, cấp khí nhận +1 (mỗi vòng giới hạn 1 lần), ngưỡng bạo kích của đòn này giảm 4, sát thương cuối cùng +30%; mỗi khi trúng một kẻ địch, thanh khí nhận +2, đồng thời bản thân AC+2 kéo dài 1 hiệp.",
+              "13": "Không tiêu hao thanh khí nhận. Gây sát thương lên toàn bộ kẻ địch xung quanh; sau khi trúng đòn, cấp khí nhận +1 (mỗi vòng giới hạn 1 lần), ngưỡng bạo kích của đòn này giảm 4, sát thương cuối cùng +35%; mỗi khi trúng một kẻ địch, thanh khí nhận +2, đồng thời bản thân AC+2 kéo dài 1 hiệp.",
+              "14": "Không tiêu hao thanh khí nhận. Gây sát thương lên toàn bộ kẻ địch xung quanh; sau khi trúng đòn, cấp khí nhận +1 (mỗi vòng giới hạn 1 lần), ngưỡng bạo kích của đòn này giảm 5, sát thương cuối cùng +35%; mỗi khi trúng một kẻ địch, thanh khí nhận +2, đồng thời bản thân AC+2 kéo dài 1 hiệp.",
+              "15": "Không tiêu hao thanh khí nhận. Gây sát thương lên toàn bộ kẻ địch xung quanh; sau khi trúng đòn, cấp khí nhận +1 (mỗi vòng giới hạn 1 lần), ngưỡng bạo kích của đòn này giảm 5, sát thương cuối cùng +40%; mỗi khi trúng một kẻ địch, thanh khí nhận +2, đồng thời bản thân AC+3 kéo dài 1 hiệp."
+            },
+            "阶位": "Chuyển nghề"
+          },
+          {
+            "名称": "Tư thế truy kích",
+            "类型": "Đặc biệt nghề nghiệp",
+            "描述": "Tiến vào tư thế truy kích đặc biệt, phối hợp tấn công cùng đồng đội. Trong trạng thái này không thể di chuyển nhưng phản ứng cực nhanh.",
+            "特殊效果": {
+              "1": "Chủ động mở. Thời lượng vô hạn, không thể di chuyển, AC+2. Khi đồng đội tấn công, có thể lập tức phát động một lần truy kích (không xét giới hạn khoảng cách); truy kích lần này có ngưỡng bạo kích -2 và bỏ qua 2 điểm AC của mục tiêu. Mỗi hiệp tiêu hao 1 điểm thanh khí nhận; sau khi dùng bất kỳ kỹ năng hệ bạt đao nào, trạng thái này được giải trừ."
+            },
+            "阶位": "Chuyển nghề"
+          },
+          {
+            "名称": "Nhìn thấu",
+            "类型": "Đặc biệt",
+            "描述": "Bị động. Nhát chém nhìn thấu. Nhìn xuyên đòn tấn công của kẻ địch, lùi bước né tránh rồi lập tức phản kích. Tuyệt kỹ công thủ nhất thể; sau khi phán định thành công có thể trực tiếp nối sang kỹ kết thúc.",
+            "特殊效果": {
+              "1": "Bị động, động tác phản ứng. Mỗi hiệp một lần tiến hành đối kháng Nhanh nhẹn trước đòn tấn công đang lao tới: nếu thành công, phản kích kẻ địch và có thể lập tức nối sang [Đại hồi toàn khí nhận] hoặc [Khí nhận vô song trảm]; nếu thất bại, sát thương phải chịu từ đòn này tăng 20%.",
+              "2": "Bị động, động tác phản ứng. Mỗi hiệp một lần tiến hành đối kháng Nhanh nhẹn trước đòn tấn công đang lao tới: nếu thành công, phản kích kẻ địch và có thể lập tức nối sang [Đại hồi toàn khí nhận] hoặc [Khí nhận vô song trảm], sát thương phản kích +5%; nếu thất bại, sát thương phải chịu từ đòn này tăng 20%.",
+              "3": "Bị động, động tác phản ứng. Mỗi hiệp một lần tiến hành đối kháng Nhanh nhẹn trước đòn tấn công đang lao tới: nếu thành công, phản kích kẻ địch và có thể lập tức nối sang [Đại hồi toàn khí nhận] hoặc [Khí nhận vô song trảm], sát thương phản kích +10%; nếu thất bại, sát thương phải chịu từ đòn này tăng 20%.",
+              "4": "Bị động, động tác phản ứng. Mỗi hiệp một lần tiến hành đối kháng Nhanh nhẹn trước đòn tấn công đang lao tới: nếu thành công, phản kích kẻ địch và có thể lập tức nối sang [Đại hồi toàn khí nhận] hoặc [Khí nhận vô song trảm], sát thương phản kích +15%; nếu thất bại, sát thương phải chịu từ đòn này tăng 20%.",
+              "5": "Bị động, động tác phản ứng. Mỗi hiệp một lần tiến hành đối kháng Nhanh nhẹn trước đòn tấn công đang lao tới: nếu thành công, phản kích kẻ địch và có thể lập tức nối sang [Đại hồi toàn khí nhận] hoặc [Khí nhận vô song trảm], sát thương phản kích +20%; nếu thất bại, sát thương phải chịu từ đòn này tăng 20%.",
+              "6": "Bị động, động tác phản ứng. Mỗi hiệp một lần tiến hành đối kháng Nhanh nhẹn trước đòn tấn công đang lao tới: nếu thành công, phản kích kẻ địch và có thể lập tức nối sang [Đại hồi toàn khí nhận] hoặc [Khí nhận vô song trảm], sát thương phản kích +20%, thanh khí nhận +1; nếu thất bại, sát thương phải chịu từ đòn này tăng 20%.",
+              "7": "Bị động, động tác phản ứng. Mỗi hiệp một lần tiến hành đối kháng Nhanh nhẹn trước đòn tấn công đang lao tới: nếu thành công, phản kích kẻ địch và có thể lập tức nối sang [Đại hồi toàn khí nhận] hoặc [Khí nhận vô song trảm], sát thương phản kích +25%, thanh khí nhận +1; nếu thất bại, sát thương phải chịu từ đòn này tăng 20%.",
+              "8": "Bị động, động tác phản ứng. Mỗi hiệp một lần tiến hành đối kháng Nhanh nhẹn trước đòn tấn công đang lao tới: nếu thành công, phản kích kẻ địch và có thể lập tức nối sang [Đại hồi toàn khí nhận] hoặc [Khí nhận vô song trảm], sát thương phản kích +25%, thanh khí nhận +2; nếu thất bại, sát thương phải chịu từ đòn này tăng 20%.",
+              "9": "Bị động, động tác phản ứng. Mỗi hiệp một lần tiến hành đối kháng Nhanh nhẹn trước đòn tấn công đang lao tới: nếu thành công, phản kích kẻ địch và có thể lập tức nối sang [Đại hồi toàn khí nhận] hoặc [Khí nhận vô song trảm], sát thương phản kích +30%, thanh khí nhận +2; nếu thất bại, sát thương phải chịu từ đòn này tăng 20%.",
+              "10": "Bị động, động tác phản ứng. Mỗi hiệp một lần tiến hành đối kháng Nhanh nhẹn trước đòn tấn công đang lao tới: nếu thành công, phản kích kẻ địch và có thể lập tức nối sang [Đại hồi toàn khí nhận] hoặc [Khí nhận vô song trảm], sát thương phản kích +30%, thanh khí nhận +2, khi phản kích ngưỡng bạo kích -1; nếu thất bại, sát thương phải chịu từ đòn này tăng 15%.",
+              "11": "Bị động, động tác phản ứng. Mỗi hiệp một lần tiến hành đối kháng Nhanh nhẹn trước đòn tấn công đang lao tới: nếu thành công, phản kích kẻ địch và có thể lập tức nối sang [Đại hồi toàn khí nhận] hoặc [Khí nhận vô song trảm], sát thương phản kích +30%, thanh khí nhận +2, khi phản kích ngưỡng bạo kích -1; nếu thất bại, sát thương phải chịu từ đòn này tăng 15%.",
+              "12": "Bị động, động tác phản ứng. Mỗi hiệp một lần tiến hành đối kháng Nhanh nhẹn trước đòn tấn công đang lao tới: nếu thành công, phản kích kẻ địch và có thể lập tức nối sang [Đại hồi toàn khí nhận] hoặc [Khí nhận vô song trảm], sát thương phản kích +30%, thanh khí nhận +2, khi phản kích ngưỡng bạo kích -1; nếu thất bại, sát thương phải chịu từ đòn này tăng 15%.",
+              "13": "Bị động, động tác phản ứng. Mỗi hiệp một lần tiến hành đối kháng Nhanh nhẹn trước đòn tấn công đang lao tới: nếu thành công, phản kích kẻ địch và có thể lập tức nối sang [Đại hồi toàn khí nhận] hoặc [Khí nhận vô song trảm], sát thương phản kích +30%, thanh khí nhận +2, khi phản kích ngưỡng bạo kích -1; nếu thất bại, sát thương phải chịu từ đòn này tăng 15%.",
+              "14": "Bị động, động tác phản ứng. Mỗi hiệp một lần tiến hành đối kháng Nhanh nhẹn trước đòn tấn công đang lao tới: nếu thành công, phản kích kẻ địch và có thể lập tức nối sang [Đại hồi toàn khí nhận] hoặc [Khí nhận vô song trảm], sát thương phản kích +30%, thanh khí nhận +2, khi phản kích ngưỡng bạo kích -1; nếu thất bại, sát thương phải chịu từ đòn này tăng 15%.",
+              "15": "Bị động, động tác phản ứng. Mỗi hiệp một lần tiến hành đối kháng Nhanh nhẹn trước đòn tấn công đang lao tới: nếu thành công, phản kích kẻ địch và có thể lập tức nối sang [Đại hồi toàn khí nhận] hoặc [Khí nhận vô song trảm], sát thương phản kích +30%, thanh khí nhận +2, khi phản kích ngưỡng bạo kích -1; nếu thất bại, sát thương phải chịu từ đòn này tăng 15%."
+            },
+            "阶位": "Chuyển nghề"
+          }
+        ],
+        "进阶": [
+          {
+            "名称": "Yêu đao La Sát",
+            "类型": "Đặc biệt",
+            "描述": "Dùng máu của chính mình nuôi lưỡi đao, bước vào con đường Tu La. Lấy sinh mệnh đổi lấy sức tấn công cực hạn và năng lực hút máu.",
+            "特殊效果": {
+              "1": "Chủ động mở, tiêu hao 30% sinh mệnh tối đa. Kéo dài 3 hiệp, sát thương cuối cùng +10%, mỗi lần gây sát thương hồi phục sinh mệnh bằng 10% sát thương lần đó.",
+              "2": "Chủ động mở, tiêu hao 30% sinh mệnh tối đa. Kéo dài 3 hiệp, sát thương cuối cùng +12%, mỗi lần gây sát thương hồi phục sinh mệnh bằng 10% sát thương lần đó.",
+              "3": "Chủ động mở, tiêu hao 30% sinh mệnh tối đa. Kéo dài 3 hiệp, sát thương cuối cùng +15%, mỗi lần gây sát thương hồi phục sinh mệnh bằng 12% sát thương lần đó.",
+              "4": "Chủ động mở, tiêu hao 30% sinh mệnh tối đa. Kéo dài 4 hiệp, sát thương cuối cùng +15%, mỗi lần gây sát thương hồi phục sinh mệnh bằng 12% sát thương lần đó.",
+              "5": "Chủ động mở, tiêu hao 30% sinh mệnh tối đa. Kéo dài 4 hiệp, sát thương cuối cùng +18%, mỗi lần gây sát thương hồi phục sinh mệnh bằng 15% sát thương lần đó.",
+              "6": "Chủ động mở, tiêu hao 30% sinh mệnh tối đa. Kéo dài 4 hiệp, sát thương cuối cùng +20%, mỗi lần gây sát thương hồi phục sinh mệnh bằng 15% sát thương lần đó. Kiểm định trúng đòn +1.",
+              "7": "Chủ động mở, tiêu hao 30% sinh mệnh tối đa. Kéo dài 5 hiệp, sát thương cuối cùng +22%, mỗi lần gây sát thương hồi phục sinh mệnh bằng 18% sát thương lần đó. Kiểm định trúng đòn +1.",
+              "8": "Chủ động mở, tiêu hao 30% sinh mệnh tối đa. Kéo dài 5 hiệp, sát thương cuối cùng +25%, mỗi lần gây sát thương hồi phục sinh mệnh bằng 18% sát thương lần đó. Kiểm định trúng đòn +1.",
+              "9": "Chủ động mở, tiêu hao 30% sinh mệnh tối đa. Kéo dài 5 hiệp, sát thương cuối cùng +28%, mỗi lần gây sát thương hồi phục sinh mệnh bằng 20% sát thương lần đó. Kiểm định trúng đòn +2.",
+              "10": "Chủ động mở, tiêu hao 30% sinh mệnh tối đa. Kéo dài 5 hiệp, sát thương cuối cùng +30%, mỗi lần gây sát thương hồi phục sinh mệnh bằng 20% sát thương lần đó. Kiểm định trúng đòn +2, ngưỡng bạo kích -1."
+            },
+            "阶位": "Nâng cao"
+          },
+          {
+            "名称": "Cư hợp bạt đao khí nhận trảm",
+            "类型": "Đặc biệt",
+            "描述": "Bị động. Đại cư hợp. Khi đang ở bất kỳ trạng thái tư thế nào, dùng chiêu này để thay thế [Nhìn thấu]. Lấy rủi ro cực cao đổi lấy hồi báo cực lớn: không chỉ phản kích mà còn có thể nâng cấp khí nhận.",
+            "特殊效果": {
+              "1": "Thay thế [Nhìn thấu]. Sau khi dùng, giải trừ tư thế. Mỗi hiệp một lần tiến hành đối kháng Nhanh nhẹn trước đòn tấn công đang lao tới: nếu thành công, miễn dịch sát thương lần này và phản kích; phản kích bỏ qua 2 điểm phòng ngự của mục tiêu, ngưỡng bạo kích -2; nếu bạo kích thì cấp khí nhận +1. Nếu thất bại, cấp khí nhận -1, sát thương phải chịu tăng 20%.",
+              "2": "Thay thế [Nhìn thấu]. Sau khi dùng, giải trừ tư thế. Mỗi hiệp một lần tiến hành đối kháng Nhanh nhẹn trước đòn tấn công đang lao tới: nếu thành công, miễn dịch sát thương lần này và phản kích; phản kích bỏ qua 3 điểm phòng ngự của mục tiêu, ngưỡng bạo kích -2; nếu bạo kích thì cấp khí nhận +1. Nếu thất bại, cấp khí nhận -1, sát thương phải chịu tăng 20%.",
+              "3": "Thay thế [Nhìn thấu]. Sau khi dùng, giải trừ tư thế. Mỗi hiệp một lần tiến hành đối kháng Nhanh nhẹn trước đòn tấn công đang lao tới: nếu thành công, miễn dịch sát thương lần này và phản kích; phản kích bỏ qua 4 điểm phòng ngự của mục tiêu, ngưỡng bạo kích -3; nếu bạo kích thì cấp khí nhận +1. Nếu thất bại, cấp khí nhận -1, sát thương phải chịu tăng 20%.",
+              "4": "Thay thế [Nhìn thấu]. Sau khi dùng, giải trừ tư thế. Mỗi hiệp một lần tiến hành đối kháng Nhanh nhẹn trước đòn tấn công đang lao tới: nếu thành công, miễn dịch sát thương lần này và phản kích; phản kích bỏ qua 10% phòng ngự của mục tiêu, ngưỡng bạo kích -3; nếu bạo kích thì cấp khí nhận +1. Nếu thất bại, cấp khí nhận -1, sát thương phải chịu tăng 20%.",
+              "5": "Thay thế [Nhìn thấu]. Sau khi dùng, giải trừ tư thế. Mỗi hiệp một lần tiến hành đối kháng Nhanh nhẹn trước đòn tấn công đang lao tới: nếu thành công, miễn dịch sát thương lần này và phản kích; phản kích bỏ qua 15% phòng ngự của mục tiêu, ngưỡng bạo kích -3; nếu bạo kích thì cấp khí nhận +1. Nếu thất bại, cấp khí nhận -1, sát thương phải chịu tăng 20%.",
+              "6": "Thay thế [Nhìn thấu]. Sau khi dùng, giải trừ tư thế. Mỗi hiệp một lần tiến hành đối kháng Nhanh nhẹn trước đòn tấn công đang lao tới: nếu thành công, miễn dịch sát thương lần này và phản kích; phản kích bỏ qua 20% phòng ngự của mục tiêu, ngưỡng bạo kích -3; nếu bạo kích thì cấp khí nhận +1. Nếu thất bại, cấp khí nhận -1, sát thương phải chịu tăng 20%.",
+              "7": "Thay thế [Nhìn thấu]. Sau khi dùng, giải trừ tư thế. Mỗi hiệp một lần tiến hành đối kháng Nhanh nhẹn trước đòn tấn công đang lao tới: nếu thành công, miễn dịch sát thương lần này và phản kích; phản kích bỏ qua 25% phòng ngự của mục tiêu, ngưỡng bạo kích -4; nếu bạo kích thì cấp khí nhận +1. Nếu thất bại, cấp khí nhận -1, sát thương phải chịu tăng 20%.",
+              "8": "Thay thế [Nhìn thấu]. Sau khi dùng, giải trừ tư thế. Mỗi hiệp một lần tiến hành đối kháng Nhanh nhẹn trước đòn tấn công đang lao tới: nếu thành công, miễn dịch sát thương lần này và phản kích; phản kích bỏ qua 30% phòng ngự của mục tiêu, ngưỡng bạo kích -4; nếu bạo kích thì cấp khí nhận +1. Nếu thất bại, cấp khí nhận -1, sát thương phải chịu tăng 20%.",
+              "9": "Thay thế [Nhìn thấu]. Sau khi dùng, giải trừ tư thế. Mỗi hiệp một lần tiến hành đối kháng Nhanh nhẹn trước đòn tấn công đang lao tới: nếu thành công, miễn dịch sát thương lần này và phản kích; phản kích bỏ qua 35% phòng ngự của mục tiêu, ngưỡng bạo kích -4; nếu bạo kích thì cấp khí nhận +1. Nếu thất bại, cấp khí nhận -1, sát thương phải chịu tăng 15%.",
+              "10": "Thay thế [Nhìn thấu]. Sau khi dùng, giải trừ tư thế. Mỗi hiệp một lần tiến hành đối kháng Nhanh nhẹn trước đòn tấn công đang lao tới: nếu thành công, miễn dịch sát thương lần này và phản kích; phản kích bỏ qua 40% phòng ngự của mục tiêu, ngưỡng bạo kích -5; nếu bạo kích thì cấp khí nhận +1. Nếu thất bại, cấp khí nhận -1, sát thương phải chịu tăng 15%."
+            },
+            "阶位": "Nâng cao"
+          },
+          {
+            "名称": "Khí nhận Đăng Long trảm",
+            "类型": "Chủ động",
+            "描述": "Tiêu hao thanh khí nhận để thực hiện một nhát chém nhảy xuống cực mạnh. Kiếm đăng long. Cấp khí nhận càng cao, uy lực càng lớn.",
+            "特殊效果": {
+              "1": "Tiêu hao 1 cấp khí nhận. Tiến hành một lần nhảy chém nhiều đoạn; đòn tấn công này bỏ qua 2 điểm phòng ngự của mục tiêu, ngưỡng bạo kích -1. Nếu đang ở trạng thái lưỡi đỏ, sát thương cuối cùng tăng thêm 10%.",
+              "2": "Tiêu hao 1 cấp khí nhận. Tiến hành một lần nhảy chém nhiều đoạn; đòn tấn công này bỏ qua 2 điểm phòng ngự của mục tiêu, ngưỡng bạo kích -1. Nếu đang ở trạng thái lưỡi đỏ, sát thương cuối cùng tăng thêm 15%.",
+              "3": "Tiêu hao 1 cấp khí nhận. Tiến hành một lần nhảy chém nhiều đoạn; đòn tấn công này bỏ qua 3 điểm phòng ngự của mục tiêu, ngưỡng bạo kích -2. Nếu đang ở trạng thái lưỡi đỏ, sát thương cuối cùng tăng thêm 20%.",
+              "4": "Tiêu hao 1 cấp khí nhận. Tiến hành một lần nhảy chém nhiều đoạn; đòn tấn công này bỏ qua 10% phòng ngự của mục tiêu, ngưỡng bạo kích -2. Nếu đang ở trạng thái lưỡi đỏ, sát thương cuối cùng tăng thêm 25%.",
+              "5": "Tiêu hao 1 cấp khí nhận. Tiến hành một lần nhảy chém nhiều đoạn; đòn tấn công này bỏ qua 10% phòng ngự của mục tiêu, ngưỡng bạo kích -2. Nếu đang ở trạng thái lưỡi đỏ, sát thương cuối cùng tăng thêm 30%, đồng thời hồi phục 10% sinh mệnh.",
+              "6": "Tiêu hao 1 cấp khí nhận. Tiến hành một lần nhảy chém nhiều đoạn; đòn tấn công này bỏ qua 15% phòng ngự của mục tiêu, ngưỡng bạo kích -3. Nếu đang ở trạng thái lưỡi đỏ, sát thương cuối cùng tăng thêm 35%, đồng thời hồi phục 10% sinh mệnh.",
+              "7": "Tiêu hao 1 cấp khí nhận. Tiến hành một lần nhảy chém nhiều đoạn; đòn tấn công này bỏ qua 15% phòng ngự của mục tiêu, ngưỡng bạo kích -3. Nếu đang ở trạng thái lưỡi đỏ, sát thương cuối cùng tăng thêm 40%, đồng thời hồi phục 15% sinh mệnh, thanh khí nhận tự động hồi phục chậm kéo dài 2 hiệp.",
+              "8": "Tiêu hao 1 cấp khí nhận. Tiến hành một lần nhảy chém nhiều đoạn; đòn tấn công này bỏ qua 20% phòng ngự của mục tiêu, ngưỡng bạo kích -3. Nếu đang ở trạng thái lưỡi đỏ, sát thương cuối cùng tăng thêm 45%, đồng thời hồi phục 15% sinh mệnh, thanh khí nhận tự động hồi phục chậm kéo dài 2 hiệp.",
+              "9": "Tiêu hao 1 cấp khí nhận. Tiến hành một lần nhảy chém nhiều đoạn; đòn tấn công này bỏ qua 20% phòng ngự của mục tiêu, ngưỡng bạo kích -4. Nếu đang ở trạng thái lưỡi đỏ, sát thương cuối cùng tăng thêm 50%, đồng thời hồi phục 15% sinh mệnh, thanh khí nhận tự động hồi phục chậm kéo dài 3 hiệp.",
+              "10": "Tiêu hao 1 cấp khí nhận. Tiến hành một lần nhảy chém nhiều đoạn; đòn tấn công này bỏ qua 25% phòng ngự của mục tiêu, ngưỡng bạo kích -4. Nếu đang ở trạng thái lưỡi đỏ, sát thương cuối cùng tăng thêm 55%, đồng thời hồi phục 20% sinh mệnh, thanh khí nhận tự động hồi phục chậm kéo dài 3 hiệp; nếu đòn này hạ sát kẻ địch, hoàn trả cấp khí nhận đã tiêu hao."
+            },
+            "阶位": "Nâng cao"
+          }
+        ],
+        "必杀": [
+          {
+            "名称": "Phong cách dũng khí",
+            "类型": "Đặc biệt",
+            "描述": "Tiến vào cảnh giới tâm như nước lặng. Thông qua nạp đao và thế công liên tục để tích lũy dũng khí; một khi bộc phát thì không gì cản nổi. Trong hình thái dũng khí, sở hữu khí nhận xanh đặc biệt.",
+            "特殊效果": {
+              "1": "Bị động. Sau mỗi lần phản kích hoặc truy kích, thanh dũng khí tăng 1 điểm; khi đạt 5 điểm sẽ tự động mở hình thái dũng khí, kéo dài 2 hiệp: thanh khí nhận cố định ở cấp đặc biệt lưỡi xanh (xem như lưỡi đỏ), trúng đòn +5, cộng thêm sát thương 30%, ngưỡng bạo kích -3. Trong hình thái dũng khí, lần đầu tiên mỗi hiệp chịu tấn công có thể phóng thích một lần [Cương khí nhận trảm] để đối kháng trúng đòn; nếu thành công thì miễn dịch sát thương đó và nối thêm [Khí nhận vô song trảm].",
+              "2": "Bị động. Sau mỗi lần phản kích hoặc truy kích, thanh dũng khí tăng 1 điểm; khi đạt 5 điểm sẽ tự động mở hình thái dũng khí, kéo dài 2 hiệp: thanh khí nhận cố định ở cấp đặc biệt lưỡi xanh (xem như lưỡi đỏ), trúng đòn +5, cộng thêm sát thương 35%, ngưỡng bạo kích -3. Trong hình thái dũng khí, lần đầu tiên mỗi hiệp chịu tấn công có thể phóng thích một lần [Cương khí nhận trảm] để đối kháng trúng đòn; nếu thành công thì miễn dịch sát thương đó và nối thêm [Khí nhận vô song trảm].",
+              "3": "Bị động. Sau mỗi lần phản kích hoặc truy kích, thanh dũng khí tăng 1 điểm; khi đạt 5 điểm sẽ tự động mở hình thái dũng khí, kéo dài 3 hiệp: thanh khí nhận cố định ở cấp đặc biệt lưỡi xanh (xem như lưỡi đỏ), trúng đòn +6, cộng thêm sát thương 40%, ngưỡng bạo kích -4. Trong hình thái dũng khí, lần đầu tiên mỗi hiệp chịu tấn công có thể phóng thích một lần [Cương khí nhận trảm] để đối kháng trúng đòn; nếu thành công thì miễn dịch sát thương đó và nối thêm [Khí nhận vô song trảm].",
+              "4": "Bị động. Sau mỗi lần phản kích hoặc truy kích, thanh dũng khí tăng 1 điểm; khi đạt 5 điểm sẽ tự động mở hình thái dũng khí, kéo dài 3 hiệp: thanh khí nhận cố định ở cấp đặc biệt lưỡi xanh (xem như lưỡi đỏ), trúng đòn +6, cộng thêm sát thương 45%, ngưỡng bạo kích -4. Trong hình thái dũng khí, lần đầu tiên mỗi hiệp chịu tấn công có thể phóng thích một lần [Cương khí nhận trảm] để đối kháng trúng đòn; nếu thành công thì miễn dịch sát thương đó và nối thêm [Khí nhận vô song trảm], đồng thời nhận miễn dịch tấn công mượn cơ hội trong 1 hiệp.",
+              "5": "Bị động. Sau mỗi lần phản kích hoặc truy kích, thanh dũng khí tăng 1 điểm; khi đạt 5 điểm sẽ tự động mở hình thái dũng khí, kéo dài 4 hiệp: thanh khí nhận cố định ở cấp đặc biệt lưỡi xanh (xem như lưỡi đỏ), trúng đòn +7, cộng thêm sát thương 50%, ngưỡng bạo kích -5. Trong hình thái dũng khí, lần đầu tiên mỗi hiệp chịu tấn công có thể phóng thích một lần [Cương khí nhận trảm] để đối kháng trúng đòn; nếu thành công thì miễn dịch sát thương đó và nối thêm [Khí nhận vô song trảm], đồng thời nhận miễn dịch tấn công mượn cơ hội trong 1 hiệp; sau khi hình thái dũng khí kết thúc, giữ lại 2 điểm thanh dũng khí.",
+              "6": "Bị động. Sau mỗi lần phản kích hoặc truy kích, thanh dũng khí tăng 1 điểm; khi đạt 5 điểm sẽ tự động mở hình thái dũng khí, kéo dài 4 hiệp: thanh khí nhận cố định ở cấp đặc biệt lưỡi xanh (xem như lưỡi đỏ), trúng đòn +7, cộng thêm sát thương 55%, ngưỡng bạo kích -5. Trong hình thái dũng khí, lần đầu tiên mỗi hiệp chịu tấn công có thể phóng thích một lần [Cương khí nhận trảm] để đối kháng trúng đòn; nếu thành công thì miễn dịch sát thương đó và nối thêm [Khí nhận vô song trảm], đồng thời nhận miễn dịch tấn công mượn cơ hội trong 1 hiệp; sau khi hình thái dũng khí kết thúc, giữ lại 3 điểm thanh dũng khí.",
+              "7": "Bị động. Sau mỗi lần phản kích hoặc truy kích, thanh dũng khí tăng 1 điểm; khi đạt 5 điểm sẽ tự động mở hình thái dũng khí, kéo dài 5 hiệp: thanh khí nhận cố định ở cấp đặc biệt lưỡi xanh (xem như lưỡi đỏ), trúng đòn +8, cộng thêm sát thương 60%, ngưỡng bạo kích -6. Trong hình thái dũng khí, lần đầu tiên mỗi hiệp chịu tấn công có thể phóng thích một lần [Cương khí nhận trảm] để đối kháng trúng đòn; nếu thành công thì miễn dịch sát thương đó và nối thêm [Khí nhận vô song trảm], đồng thời nhận miễn dịch tấn công mượn cơ hội trong 1 hiệp; sau khi hình thái dũng khí kết thúc, giữ lại 3 điểm thanh dũng khí."
+            },
+            "阶位": "Tất sát"
+          },
+          {
+            "名称": "Khí nhận vô song trảm",
+            "类型": "Chủ động",
+            "描述": "Chuỗi khí nhận trảm uy lực cao. Động tác mở rộng mạnh mẽ, có sức phá hoại và áp chế cực lớn.",
+            "特殊效果": {
+              "1": "Gây một đòn trọng kích. Sau khi trúng đòn, cấp thanh khí nhận +1, sát thương cuối cùng của đòn tấn công này +20%. Trong hiệp này miễn dịch ngã, chấn động và choáng.",
+              "2": "Gây một đòn trọng kích. Sau khi trúng đòn, cấp thanh khí nhận +1, sát thương cuối cùng của đòn tấn công này +25%. Trong hiệp này miễn dịch ngã, chấn động và choáng.",
+              "3": "Gây một đòn trọng kích. Sau khi trúng đòn, cấp thanh khí nhận +1, sát thương cuối cùng của đòn tấn công này +30%. Trong hiệp này miễn dịch ngã, chấn động và choáng. Nếu liên chiêu trước là [Cương khí nhận trảm], bỏ qua thêm 2 điểm AC.",
+              "4": "Gây một đòn trọng kích. Sau khi trúng đòn, cấp thanh khí nhận +1, sát thương cuối cùng của đòn tấn công này +35%. Trong hiệp này miễn dịch ngã, chấn động và choáng. Nếu liên chiêu trước là [Cương khí nhận trảm], bỏ qua thêm 3 điểm AC.",
+              "5": "Gây một đòn trọng kích. Sau khi trúng đòn, cấp thanh khí nhận +1, sát thương cuối cùng của đòn tấn công này +40%. Trong hiệp này miễn dịch ngã, chấn động và choáng. Nếu liên chiêu trước là [Cương khí nhận trảm], bỏ qua thêm 10% phòng ngự và khiến kiểm định Sức mạnh của mục tiêu bất lợi.",
+              "6": "Gây một đòn trọng kích. Sau khi trúng đòn, cấp thanh khí nhận +1, sát thương cuối cùng của đòn tấn công này +45%. Trong hiệp này miễn dịch ngã, chấn động và choáng. Nếu liên chiêu trước là [Cương khí nhận trảm], bỏ qua thêm 15% phòng ngự và khiến kiểm định Sức mạnh của mục tiêu bất lợi.",
+              "7": "Gây một đòn trọng kích. Sau khi trúng đòn, cấp thanh khí nhận +1, sát thương cuối cùng của đòn tấn công này +50%. Trong hiệp này miễn dịch ngã, chấn động và choáng. Nếu liên chiêu trước là [Cương khí nhận trảm], bỏ qua thêm 20% phòng ngự và khiến mục tiêu bị chấn nhiếp 1 hiệp."
+            },
+            "阶位": "Tất sát"
+          },
+          {
+            "名称": "Cương khí nhận trảm",
+            "类型": "Chủ động",
+            "描述": "Chỉ có thể dùng trong hình thái dũng khí. Phản kích đỡ đòn trong khoảnh khắc, lấy công làm thủ.",
+            "特殊效果": {
+              "1": "Chỉ giới hạn trong hình thái dũng khí. Lập tức phản kích đòn tấn công của địch; sau khi trúng đòn, số tầng thanh khí nhận +1, ngưỡng bạo kích của đòn này giảm 2. Nếu đỡ sát thương thành công, sát thương cuối cùng +20%.",
+              "2": "Chỉ giới hạn trong hình thái dũng khí. Lập tức phản kích đòn tấn công của địch; sau khi trúng đòn, số tầng thanh khí nhận +1, ngưỡng bạo kích của đòn này giảm 2. Nếu đỡ sát thương thành công, sát thương cuối cùng +25%.",
+              "3": "Chỉ giới hạn trong hình thái dũng khí. Lập tức phản kích đòn tấn công của địch; sau khi trúng đòn, số tầng thanh khí nhận +1, ngưỡng bạo kích của đòn này giảm 3. Nếu đỡ sát thương thành công, sát thương cuối cùng +30%, đồng thời khiến [Khí nhận vô song trảm] kế tiếp chắc chắn trúng.",
+              "4": "Chỉ giới hạn trong hình thái dũng khí. Lập tức phản kích đòn tấn công của địch; sau khi trúng đòn, số tầng thanh khí nhận +1, ngưỡng bạo kích của đòn này giảm 3. Nếu đỡ sát thương thành công, sát thương cuối cùng +35%, đồng thời khiến [Khí nhận vô song trảm] kế tiếp chắc chắn trúng và ngưỡng bạo kích giảm thêm 2.",
+              "5": "Chỉ giới hạn trong hình thái dũng khí. Lập tức phản kích đòn tấn công của địch; sau khi trúng đòn, số tầng thanh khí nhận +1, ngưỡng bạo kích của đòn này giảm 4. Nếu đỡ sát thương thành công, sát thương cuối cùng +40%, đồng thời khiến [Khí nhận vô song trảm] kế tiếp chắc chắn trúng, ngưỡng bạo kích giảm thêm 2 và hoàn trả hành động đã tiêu hao lần này.",
+              "6": "Chỉ giới hạn trong hình thái dũng khí. Lập tức phản kích đòn tấn công của địch; sau khi trúng đòn, số tầng thanh khí nhận +1, ngưỡng bạo kích của đòn này giảm 4. Nếu đỡ sát thương thành công, sát thương cuối cùng +45%, đồng thời khiến [Khí nhận vô song trảm] kế tiếp chắc chắn trúng, ngưỡng bạo kích giảm thêm 3 và hoàn trả hành động đã tiêu hao lần này.",
+              "7": "Chỉ giới hạn trong hình thái dũng khí. Lập tức phản kích đòn tấn công của địch; sau khi trúng đòn, số tầng thanh khí nhận +1, ngưỡng bạo kích của đòn này giảm 5. Nếu đỡ sát thương thành công, sát thương cuối cùng +50%, đồng thời khiến [Khí nhận vô song trảm] kế tiếp chắc chắn trúng, ngưỡng bạo kích giảm thêm 3, bỏ qua 20% phòng ngự của mục tiêu và hoàn trả hành động đã tiêu hao lần này."
+            },
+            "阶位": "Tất sát"
+          }
+        ],
+        "奥义": [
+          {
+            "名称": "Tư thế Kiếm Quỷ",
+            "类型": "Đặc biệt",
+            "描述": "Nạp đao tiến vào tư thế Kiếm Quỷ, chờ thời như ác quỷ. Đây là tư thế cực hạn chuyên chú vào phản kích.",
+            "特殊效果": {
+              "1": "Nạp đao tiến vào tư thế, thời lượng vô hạn, AC+2. Khi kẻ địch tấn công, tiêu hao 10% sinh mệnh tối đa để lập tức phát động một lần phản kích uy lực lớn (không xét giới hạn khoảng cách); phản kích lần này có ngưỡng bạo kích giảm 2, bỏ qua 2 điểm AC của mục tiêu. Mỗi hiệp tiêu hao 1 điểm thanh khí nhận; sau khi dùng bất kỳ kỹ năng hệ bạt đao nào, trạng thái này được giải trừ.",
+              "2": "Nạp đao tiến vào tư thế, thời lượng vô hạn, AC+2. Khi kẻ địch tấn công, tiêu hao 10% sinh mệnh tối đa để lập tức phát động một lần phản kích uy lực lớn (không xét giới hạn khoảng cách); phản kích lần này có ngưỡng bạo kích giảm 2, bỏ qua 3 điểm AC của mục tiêu. Mỗi hiệp tiêu hao 1 điểm thanh khí nhận; sau khi dùng bất kỳ kỹ năng hệ bạt đao nào, trạng thái này được giải trừ.",
+              "3": "Nạp đao tiến vào tư thế, thời lượng vô hạn, AC+3. Khi kẻ địch tấn công, tiêu hao 10% sinh mệnh tối đa để lập tức phát động một lần phản kích uy lực lớn (không xét giới hạn khoảng cách); phản kích lần này có ngưỡng bạo kích giảm 3, bỏ qua 4 điểm AC của mục tiêu. Mỗi hiệp tiêu hao 1 điểm thanh khí nhận; sau khi dùng bất kỳ kỹ năng hệ bạt đao nào, trạng thái này được giải trừ.",
+              "4": "Nạp đao tiến vào tư thế, thời lượng vô hạn, AC+3. Khi kẻ địch tấn công, tiêu hao 10% sinh mệnh tối đa để lập tức phát động một lần phản kích uy lực lớn (không xét giới hạn khoảng cách); phản kích lần này có ngưỡng bạo kích giảm 3, bỏ qua 5 điểm AC của mục tiêu. Mỗi hiệp tiêu hao 1 điểm thanh khí nhận; sau khi dùng bất kỳ kỹ năng hệ bạt đao nào, trạng thái này được giải trừ.",
+              "5": "Nạp đao tiến vào tư thế, thời lượng vô hạn, AC+4. Khi kẻ địch tấn công, tiêu hao 10% sinh mệnh tối đa để lập tức phát động một lần phản kích uy lực lớn (không xét giới hạn khoảng cách); phản kích lần này có ngưỡng bạo kích giảm 4, bỏ qua 10% phòng ngự của mục tiêu. Mỗi hiệp tiêu hao 1 điểm thanh khí nhận; sau khi dùng bất kỳ kỹ năng hệ bạt đao nào, trạng thái này được giải trừ; sau khi phản kích trúng, hồi phục 5% sinh mệnh."
+            },
+            "阶位": "Áo nghĩa"
+          },
+          {
+            "名称": "Tư thế Thủy Nguyệt",
+            "类型": "Đặc biệt",
+            "描述": "Tiêu hao toàn bộ thanh khí nhận để tiến vào tư thế Thủy Nguyệt. Tâm như gương sáng, soi chiếu vạn vật, hóa đòn tấn công của địch thành vô hình rồi đáp trả bằng một đòn hủy diệt.",
+            "特殊效果": {
+              "1": "Tiêu hao toàn bộ thanh khí nhận để tiến vào tư thế Thủy Nguyệt; trong hiệp này, các hành động khác tự động vô hiệu. Đòn tấn công đầu tiên phải chịu trong hiệp này bị vô hiệu hóa và bạn tiến hành một lần phản kích siêu uy lực. Lần phản kích này bỏ qua AC địch, giảm ngưỡng bạo kích 2; nếu trong hiệp này không chịu tấn công thì bị choáng một hiệp.",
+              "2": "Tiêu hao toàn bộ thanh khí nhận để tiến vào tư thế Thủy Nguyệt; trong hiệp này, các hành động khác tự động vô hiệu. Đòn tấn công đầu tiên phải chịu trong hiệp này bị vô hiệu hóa và bạn tiến hành một lần phản kích siêu uy lực. Lần phản kích này bỏ qua AC địch, giảm ngưỡng bạo kích 3, sát thương cuối cùng +20%; nếu trong hiệp này không chịu tấn công thì bị choáng một hiệp.",
+              "3": "Tiêu hao toàn bộ thanh khí nhận để tiến vào tư thế Thủy Nguyệt; trong hiệp này, các hành động khác tự động vô hiệu. Đòn tấn công đầu tiên phải chịu trong hiệp này bị vô hiệu hóa và bạn tiến hành một lần phản kích siêu uy lực. Lần phản kích này bỏ qua AC địch, giảm ngưỡng bạo kích 4, sát thương cuối cùng +40%; nếu trong hiệp này không chịu tấn công thì bị choáng một hiệp.",
+              "4": "Tiêu hao toàn bộ thanh khí nhận để tiến vào tư thế Thủy Nguyệt; trong hiệp này, các hành động khác tự động vô hiệu. Đòn tấn công đầu tiên phải chịu trong hiệp này bị vô hiệu hóa và bạn tiến hành một lần phản kích siêu uy lực. Lần phản kích này bỏ qua AC địch, giảm ngưỡng bạo kích 5, sát thương cuối cùng +60%; nếu trong hiệp này không chịu tấn công thì bị choáng một hiệp.",
+              "5": "Tiêu hao toàn bộ thanh khí nhận để tiến vào tư thế Thủy Nguyệt; trong hiệp này, các hành động khác tự động vô hiệu. Đòn tấn công đầu tiên phải chịu trong hiệp này bị vô hiệu hóa và bạn tiến hành một lần phản kích siêu uy lực. Lần phản kích này bỏ qua AC địch, giảm ngưỡng bạo kích 5, sát thương cuối cùng +80% và chắc chắn bạo kích; nếu trong hiệp này không chịu tấn công thì cấp khí nhận của bản thân trực tiếp lên tối đa, không bị choáng."
+            },
+            "阶位": "Áo nghĩa"
+          },
+          {
+            "名称": "Anh Hoa Khí Nhận Trảm - Cực",
+            "类型": "Chủ động",
+            "描述": "Vừa rút đao vừa trượt bước tới trước, thi triển hai đoạn chém xoay. Sau nhát chém, kiếm khí rực rỡ như hoa anh đào bung nở. Thường dùng để kết liễu hoa mỹ khi đang ở trạng thái lưỡi đỏ.",
+            "特殊效果": {
+              "1": "Tiêu hao toàn bộ thanh khí nhận để gây một lần sát thương uy lực lớn lên toàn bộ phe địch. Đòn tấn công này bỏ qua 2 điểm AC, ngưỡng bạo kích -2. Nếu kích hoạt bạo kích, kiếm khí nở tung thêm tại vết thương của địch để tiến hành 1 lần truy kích gây 50% sát thương, đồng thời nâng cấp khí nhận 1 cấp. Nếu truy kích bạo kích, có thể truy kích thêm lần nữa, tối đa 2 lần.",
+              "2": "Tiêu hao toàn bộ thanh khí nhận để gây một lần sát thương uy lực lớn lên toàn bộ phe địch. Đòn tấn công này bỏ qua 3 điểm AC, ngưỡng bạo kích -3. Nếu kích hoạt bạo kích, kiếm khí nở tung thêm tại vết thương của địch để tiến hành 1 lần truy kích gây 60% sát thương, đồng thời nâng cấp khí nhận 1 cấp. Nếu truy kích bạo kích, có thể truy kích thêm lần nữa, tối đa 3 lần.",
+              "3": "Tiêu hao toàn bộ thanh khí nhận để gây một lần sát thương uy lực lớn lên toàn bộ phe địch. Đòn tấn công này bỏ qua 4 điểm AC, ngưỡng bạo kích -3. Nếu kích hoạt bạo kích, kiếm khí nở tung thêm tại vết thương của địch để tiến hành 1 lần truy kích gây 70% sát thương, đồng thời nâng cấp khí nhận 1 cấp. Nếu truy kích bạo kích, có thể truy kích thêm lần nữa, tối đa 4 lần.",
+              "4": "Tiêu hao toàn bộ thanh khí nhận để gây một lần sát thương uy lực lớn lên toàn bộ phe địch. Đòn tấn công này bỏ qua 10% phòng ngự, ngưỡng bạo kích -4. Nếu kích hoạt bạo kích, kiếm khí nở tung thêm tại vết thương của địch để tiến hành 1 lần truy kích gây 80% sát thương, đồng thời nâng cấp khí nhận 1 cấp. Nếu truy kích bạo kích, có thể truy kích thêm lần nữa, tối đa 5 lần.",
+              "5": "Tiêu hao toàn bộ thanh khí nhận để gây một lần sát thương uy lực lớn lên toàn bộ phe địch. Đòn tấn công này bỏ qua 20% phòng ngự, ngưỡng bạo kích -5. Nếu kích hoạt bạo kích, kiếm khí nở tung thêm tại vết thương của địch để tiến hành 1 lần truy kích gây 100% sát thương, đồng thời nâng cấp khí nhận 1 cấp. Nếu truy kích bạo kích, có thể truy kích thêm lần nữa, tối đa 5 lần, đồng thời mỗi lần truy kích trúng sẽ gây thêm sát thương chân thực bằng 2% sinh mệnh tối đa của kẻ địch."
+            },
+            "阶位": "Áo nghĩa"
+          }
+        ],
+        "觉醒一": [
+          {
+            "名称": "Hồn săn bùng cháy - Thái đao",
+            "类型": "Chủ động",
+            "阶位": "Thức tỉnh một",
+            "描述": "Giải phóng bản năng của thợ săn, rót linh hồn săn bắn vào thân đao. Mỗi tiếng ngân của khí nhận đều là một bậc thang tiến tới đỉnh cao.",
+            "特殊效果": {
+              "1": "Chủ động mở. Sau khi thức tỉnh, trong trận chiến này, mỗi lần nhận thanh khí nhận thì đồng thời nhận 1 tầng hiệu ứng [Hồn săn] (giới hạn trên 30 tầng). Mỗi tầng [Hồn săn] khiến sát thương cuối cùng của bạn +2%; sau khi mở trạng thái này, mọi đòn tấn công bạn phát động đều bỏ qua trị giảm trúng đòn do liên kích gây ra.",
+              "2": "Chủ động mở. Sau khi thức tỉnh, trong trận chiến này, mỗi lần nhận thanh khí nhận thì đồng thời nhận 1 tầng hiệu ứng [Hồn săn] (giới hạn trên 40 tầng). Mỗi tầng [Hồn săn] khiến sát thương cuối cùng của bạn +2%; sau khi mở trạng thái này, mọi đòn tấn công bạn phát động đều bỏ qua trị giảm trúng đòn do liên kích gây ra.",
+              "3": "Chủ động mở. Sau khi thức tỉnh, trong trận chiến này, mỗi lần nhận thanh khí nhận thì đồng thời nhận 1 tầng hiệu ứng [Hồn săn] (giới hạn trên 40 tầng). Mỗi tầng [Hồn săn] khiến sát thương cuối cùng của bạn +3%; sau khi mở trạng thái này, mọi đòn tấn công bạn phát động đều bỏ qua trị giảm trúng đòn do liên kích gây ra."
+            }
+          }
+        ],
+        "觉醒二": [
+          {
+            "名称": "Viên Nguyệt",
+            "类型": "Đặc biệt",
+            "阶位": "Thức tỉnh hai",
+            "描述": "Triển khai lĩnh vực không tì vết. Dưới ánh trăng sáng, quỹ tích lưỡi đao hóa thành thủy ngân chí mạng, chém mọi kẻ xúc phạm trong vô hình.",
+            "特殊效果": {
+              "1": "Chủ động mở. Triển khai lĩnh vực [Viên Nguyệt] kéo dài toàn trận quanh bản thân. Trong lĩnh vực, mọi kỹ năng truy kích và phản kích của bạn (như cư hợp, Nhìn thấu, tư thế Thủy Nguyệt, Cương khí nhận trảm...) có sát thương cuối cùng tăng 100%, đồng thời ngưỡng bạo kích cố định hạ xuống 10 (cực dễ bạo kích). Kẻ địch trong lĩnh vực bị giảm một nửa tốc độ di chuyển và không thể dùng bất kỳ hình thức nhảy không gian hay truyền tống nào để thoát ra. Khi bạn hoàn thành hạ sát trong lĩnh vực Viên Nguyệt, lập tức dẫn phát một ánh kiếm trăng lưỡi liềm quanh bản thân, uy lực tương đương 300% đánh thường.",
+              "2": "Chủ động mở. Triển khai lĩnh vực [Viên Nguyệt] kéo dài toàn trận quanh bản thân. Trong lĩnh vực, mọi kỹ năng truy kích và phản kích của bạn (như cư hợp, Nhìn thấu, tư thế Thủy Nguyệt, Cương khí nhận trảm...) có sát thương cuối cùng tăng 100%, đồng thời ngưỡng bạo kích cố định hạ xuống 10 (cực dễ bạo kích). Kẻ địch trong lĩnh vực bị giảm một nửa tốc độ di chuyển và không thể dùng bất kỳ hình thức nhảy không gian hay truyền tống nào để thoát ra. Khi bạn hoàn thành hạ sát trong lĩnh vực Viên Nguyệt, lập tức làm mới hồi chiêu của toàn bộ kỹ năng chủ động và dẫn phát một ánh kiếm trăng lưỡi liềm quanh bản thân, uy lực tương đương 300% đánh thường."
+            }
+          }
+        ],
+        "觉醒三": [
+          {
+            "名称": "Thiên thượng thiên hạ, thiên địa vô song",
+            "类型": "Chủ động",
+            "阶位": "Thức tỉnh ba",
+            "描述": "Đạt tới cực ý của thái đao, chém nứt trời đất. Lúc này khí nhận đã tới hóa cảnh; lưỡi đao lướt qua đâu, vạn vật đều đứt đoạn.",
+            "特殊效果": {
+              "1": "Chủ động mở. Sau khi thức tỉnh, trong trận chiến này, mọi cộng thêm trúng đòn, sát thương và ngưỡng bạo kích do cấp khí nhận mang lại đều nhân đôi. Mọi đòn tấn công bạn phát động chắc chắn bạo kích, đồng thời hệ số sát thương bạo kích cơ bản cưỡng chế tăng lên 300%. Mỗi lần kích hoạt thành công truy kích hoặc phản kích, sẽ tự động đánh thêm một nhát chém phụ với hệ số 200%, bỏ qua phòng ngự."
+            }
+          }
+        ]
+      },
+      "skillTreeForClass": "Thợ Săn Quái Vật - Thái Đao",
+      "lockedSkillMap": {
+        "Thợ Săn Quái Vật - Thái Đao": {
+          "基础": {
+            "Khí nhận lưu chuyển": {
+              "名称": "Khí nhận lưu chuyển",
+              "类型": "Đặc biệt",
+              "描述": "Dẫn dắt luyện khí trong cơ thể để mở hệ thống cấp khí nhận. Thanh khí nhận chia thành bốn bậc: không, trắng, vàng và đỏ; liên tục dùng các chiêu thức đặc định để nâng cấp, từ đó nhận tăng ích thường trực mạnh mẽ.",
+              "特殊效果": {
+                "1": "Bị động duy trì hệ thống khí nhận. Lưỡi trắng: trúng đòn +1; lưỡi vàng: trúng đòn +1, sát thương +5%; lưỡi đỏ: trúng đòn +2, sát thương +10%, ngưỡng bạo kích -1.",
+                "2": "Bị động duy trì hệ thống khí nhận. Lưỡi trắng: trúng đòn +1; lưỡi vàng: trúng đòn +2, sát thương +5%; lưỡi đỏ: trúng đòn +2, sát thương +10%, ngưỡng bạo kích -1.",
+                "3": "Bị động duy trì hệ thống khí nhận. Lưỡi trắng: trúng đòn +1; lưỡi vàng: trúng đòn +2, sát thương +5%; lưỡi đỏ: trúng đòn +2, sát thương +12%, ngưỡng bạo kích -1.",
+                "4": "Bị động duy trì hệ thống khí nhận. Lưỡi trắng: trúng đòn +1, sát thương +2%; lưỡi vàng: trúng đòn +2, sát thương +8%; lưỡi đỏ: trúng đòn +3, sát thương +15%, ngưỡng bạo kích -1.",
+                "5": "Bị động duy trì hệ thống khí nhận. Lưỡi trắng: trúng đòn +1, sát thương +2%; lưỡi vàng: trúng đòn +2, sát thương +8%; lưỡi đỏ: trúng đòn +3, sát thương +15%, ngưỡng bạo kích -1, miễn trừ Nhanh nhẹn có lợi thế.",
+                "6": "Bị động duy trì hệ thống khí nhận. Lưỡi trắng: trúng đòn +1, sát thương +4%; lưỡi vàng: trúng đòn +2, sát thương +10%; lưỡi đỏ: trúng đòn +3, sát thương +18%, ngưỡng bạo kích -1, miễn trừ Nhanh nhẹn có lợi thế.",
+                "7": "Bị động duy trì hệ thống khí nhận. Lưỡi trắng: trúng đòn +2, sát thương +4%; lưỡi vàng: trúng đòn +2, sát thương +10%; lưỡi đỏ: trúng đòn +3, sát thương +18%, ngưỡng bạo kích -2, miễn trừ Nhanh nhẹn có lợi thế.",
+                "8": "Bị động duy trì hệ thống khí nhận. Lưỡi trắng: trúng đòn +2, sát thương +5%; lưỡi vàng: trúng đòn +2, sát thương +12%; lưỡi đỏ: trúng đòn +3, sát thương +20%, ngưỡng bạo kích -2, miễn trừ Nhanh nhẹn có lợi thế.",
+                "9": "Bị động duy trì hệ thống khí nhận. Lưỡi trắng: trúng đòn +2, sát thương +5%; lưỡi vàng: trúng đòn +3, sát thương +12%; lưỡi đỏ: trúng đòn +4, sát thương +22%, ngưỡng bạo kích -2, miễn trừ Nhanh nhẹn có lợi thế.",
+                "10": "Bị động duy trì hệ thống khí nhận. Lưỡi trắng: trúng đòn +2, sát thương +6%, ngưỡng bạo kích -1; lưỡi vàng: trúng đòn +3, sát thương +15%, ngưỡng bạo kích -1; lưỡi đỏ: trúng đòn +4, sát thương +25%, ngưỡng bạo kích -2, miễn trừ Nhanh nhẹn có lợi thế.",
+                "11": "Bị động duy trì hệ thống khí nhận. Lưỡi trắng: trúng đòn +2, sát thương +6%, ngưỡng bạo kích -1; lưỡi vàng: trúng đòn +3, sát thương +15%, ngưỡng bạo kích -1; lưỡi đỏ: trúng đòn +4, sát thương +25%, ngưỡng bạo kích -2, miễn trừ Nhanh nhẹn có lợi thế.",
+                "12": "Bị động duy trì hệ thống khí nhận. Lưỡi trắng: trúng đòn +2, sát thương +6%, ngưỡng bạo kích -1; lưỡi vàng: trúng đòn +3, sát thương +15%, ngưỡng bạo kích -1; lưỡi đỏ: trúng đòn +4, sát thương +25%, ngưỡng bạo kích -2, miễn trừ Nhanh nhẹn có lợi thế.",
+                "13": "Bị động duy trì hệ thống khí nhận. Lưỡi trắng: trúng đòn +2, sát thương +6%, ngưỡng bạo kích -1; lưỡi vàng: trúng đòn +3, sát thương +15%, ngưỡng bạo kích -1; lưỡi đỏ: trúng đòn +4, sát thương +25%, ngưỡng bạo kích -2, miễn trừ Nhanh nhẹn có lợi thế.",
+                "14": "Bị động duy trì hệ thống khí nhận. Lưỡi trắng: trúng đòn +2, sát thương +6%, ngưỡng bạo kích -1; lưỡi vàng: trúng đòn +3, sát thương +15%, ngưỡng bạo kích -1; lưỡi đỏ: trúng đòn +4, sát thương +25%, ngưỡng bạo kích -2, miễn trừ Nhanh nhẹn có lợi thế.",
+                "15": "Bị động duy trì hệ thống khí nhận. Lưỡi trắng: trúng đòn +2, sát thương +6%, ngưỡng bạo kích -1; lưỡi vàng: trúng đòn +3, sát thương +15%, ngưỡng bạo kích -1; lưỡi đỏ: trúng đòn +4, sát thương +25%, ngưỡng bạo kích -2, miễn trừ Nhanh nhẹn có lợi thế."
+              },
+              "阶位": "Cơ bản"
+            },
+            "Khí nhận trảm": {
+              "名称": "Khí nhận trảm",
+              "类型": "Chủ động",
+              "描述": "Nhát chém rót đầy luyện khí. Dù sát thương cơ bản bình thường, chiêu này có thể tích lũy thanh khí nhận hiệu quả và rất dễ đánh trúng điểm yếu của kẻ địch.",
+              "特殊效果": {
+                "1": "Sau khi trúng đòn, số tầng thanh khí nhận +1, ngưỡng bạo kích của đòn tấn công này giảm 1.",
+                "2": "Sau khi trúng đòn, số tầng thanh khí nhận +1, ngưỡng bạo kích của đòn tấn công này giảm 1, sát thương cuối cùng tăng 2%.",
+                "3": "Sau khi trúng đòn, số tầng thanh khí nhận +1, ngưỡng bạo kích của đòn tấn công này giảm 1, sát thương cuối cùng tăng 4%.",
+                "4": "Sau khi trúng đòn, số tầng thanh khí nhận +1, ngưỡng bạo kích của đòn tấn công này giảm 1, sát thương cuối cùng tăng 6%.",
+                "5": "Sau khi trúng đòn, số tầng thanh khí nhận +1, ngưỡng bạo kích của đòn tấn công này giảm 2, sát thương cuối cùng tăng 8%.",
+                "6": "Sau khi trúng đòn, số tầng thanh khí nhận +1, ngưỡng bạo kích của đòn tấn công này giảm 2, sát thương cuối cùng tăng 10%.",
+                "7": "Sau khi trúng đòn, số tầng thanh khí nhận +1, ngưỡng bạo kích của đòn tấn công này giảm 2, sát thương cuối cùng tăng 12%.",
+                "8": "Sau khi trúng đòn, số tầng thanh khí nhận +1, ngưỡng bạo kích của đòn tấn công này giảm 2, sát thương cuối cùng tăng 14%; nếu đòn này kích hoạt bạo kích, hồi thêm 1 điểm thanh khí nhận (mỗi vòng giới hạn 1 lần).",
+                "9": "Sau khi trúng đòn, số tầng thanh khí nhận +1, ngưỡng bạo kích của đòn tấn công này giảm 2, sát thương cuối cùng tăng 16%; nếu đòn này kích hoạt bạo kích, hồi thêm 1 điểm thanh khí nhận.",
+                "10": "Sau khi trúng đòn, số tầng thanh khí nhận +1, ngưỡng bạo kích của đòn tấn công này giảm 3, sát thương cuối cùng tăng 18%; nếu đòn này kích hoạt bạo kích, hồi thêm 1 điểm thanh khí nhận.",
+                "11": "Sau khi trúng đòn, số tầng thanh khí nhận +1, ngưỡng bạo kích của đòn tấn công này giảm 3, sát thương cuối cùng tăng 20%; nếu đòn này kích hoạt bạo kích, hồi thêm 1 điểm thanh khí nhận.",
+                "12": "Sau khi trúng đòn, số tầng thanh khí nhận +1, ngưỡng bạo kích của đòn tấn công này giảm 3, sát thương cuối cùng tăng 22%; nếu đòn này kích hoạt bạo kích, hồi thêm 1 điểm thanh khí nhận.",
+                "13": "Sau khi trúng đòn, số tầng thanh khí nhận +1, ngưỡng bạo kích của đòn tấn công này giảm 3, sát thương cuối cùng tăng 25%; nếu đòn này kích hoạt bạo kích, hồi thêm 1 điểm thanh khí nhận.",
+                "14": "Sau khi trúng đòn, số tầng thanh khí nhận +1, ngưỡng bạo kích của đòn tấn công này giảm 3, sát thương cuối cùng tăng 28%; nếu đòn này kích hoạt bạo kích, hồi thêm 1 điểm thanh khí nhận.",
+                "15": "Sau khi trúng đòn, số tầng thanh khí nhận +1, ngưỡng bạo kích của đòn tấn công này giảm 4, sát thương cuối cùng tăng 30%; nếu đòn này kích hoạt bạo kích, hồi thêm 1 điểm thanh khí nhận và giảm AC của mục tiêu 1 điểm, kéo dài 3 hiệp."
+              },
+              "阶位": "Cơ bản"
+            },
+            "Bạt đao nhị liên trảm": {
+              "名称": "Bạt đao nhị liên trảm",
+              "类型": "Chủ động",
+              "描述": "Vừa rút đao vừa bước tới trước, liên tục chém kẻ địch hai lần. Là kỹ mở đầu, chiêu này đặt nền mạnh cho các chuỗi liên kích phía sau.",
+              "特殊效果": {
+                "1": "Sau khi trúng đòn, sát thương cuối cùng của đòn tấn công hệ khí nhận kế tiếp tăng 10%.",
+                "2": "Sau khi trúng đòn, sát thương cuối cùng của đòn tấn công hệ khí nhận kế tiếp tăng 12%.",
+                "3": "Sau khi trúng đòn, sát thương cuối cùng của đòn tấn công hệ khí nhận kế tiếp tăng 15%.",
+                "4": "Sau khi trúng đòn, sát thương cuối cùng của đòn tấn công hệ khí nhận kế tiếp tăng 15%.",
+                "5": "Sau khi trúng đòn, sát thương cuối cùng của đòn tấn công hệ khí nhận kế tiếp tăng 20%.",
+                "6": "Sau khi trúng đòn, sát thương cuối cùng của đòn tấn công hệ khí nhận kế tiếp tăng 20%.",
+                "7": "Sau khi trúng đòn, sát thương cuối cùng của đòn tấn công hệ khí nhận kế tiếp tăng 25%.",
+                "8": "Sau khi trúng đòn, sát thương cuối cùng của đòn tấn công hệ khí nhận kế tiếp tăng 25%.",
+                "9": "Sau khi trúng đòn, sát thương cuối cùng của đòn tấn công hệ khí nhận kế tiếp tăng 30%.",
+                "10": "Sau khi trúng đòn, sát thương cuối cùng của đòn tấn công hệ khí nhận kế tiếp tăng 35%.",
+                "11": "Sau khi trúng đòn, sát thương cuối cùng của đòn tấn công hệ khí nhận kế tiếp tăng 35%, đồng thời nhận lợi thế kiểm định trúng đòn trong khoảnh khắc rút đao.",
+                "12": "Sau khi trúng đòn, sát thương cuối cùng của đòn tấn công hệ khí nhận kế tiếp tăng 40%, đồng thời nhận lợi thế kiểm định trúng đòn trong khoảnh khắc rút đao.",
+                "13": "Sau khi trúng đòn, sát thương cuối cùng của đòn tấn công hệ khí nhận kế tiếp tăng 45%, đồng thời nhận lợi thế kiểm định trúng đòn trong khoảnh khắc rút đao.",
+                "14": "Sau khi trúng đòn, sát thương cuối cùng của đòn tấn công hệ khí nhận kế tiếp tăng 45%, đồng thời nhận lợi thế kiểm định trúng đòn trong khoảnh khắc rút đao.",
+                "15": "Sau khi trúng đòn, sát thương cuối cùng của đòn tấn công hệ khí nhận kế tiếp tăng 50%, đồng thời nhận lợi thế kiểm định trúng đòn trong khoảnh khắc rút đao."
+              },
+              "阶位": "Cơ bản"
+            }
+          },
+          "转职": {
+            "Đại hồi toàn khí nhận": {
+              "名称": "Đại hồi toàn khí nhận",
+              "类型": "Chủ động",
+              "描述": "Vung thái đao thực hiện nhát chém xoay phạm vi lớn. Không tiêu hao thanh khí nhận; sau khi trúng đòn sẽ nâng cấp khí nhận.",
+              "特殊效果": {
+                "1": "Không tiêu hao thanh khí nhận. Gây sát thương lên toàn bộ kẻ địch xung quanh; sau khi trúng đòn, cấp khí nhận +1 (mỗi vòng giới hạn 1 lần), ngưỡng bạo kích của đòn này giảm 1.",
+                "2": "Không tiêu hao thanh khí nhận. Gây sát thương lên toàn bộ kẻ địch xung quanh; sau khi trúng đòn, cấp khí nhận +1 (mỗi vòng giới hạn 1 lần), ngưỡng bạo kích của đòn này giảm 1, sát thương cuối cùng +5%.",
+                "3": "Không tiêu hao thanh khí nhận. Gây sát thương lên toàn bộ kẻ địch xung quanh; sau khi trúng đòn, cấp khí nhận +1 (mỗi vòng giới hạn 1 lần), ngưỡng bạo kích của đòn này giảm 1, sát thương cuối cùng +10%.",
+                "4": "Không tiêu hao thanh khí nhận. Gây sát thương lên toàn bộ kẻ địch xung quanh; sau khi trúng đòn, cấp khí nhận +1 (mỗi vòng giới hạn 1 lần), ngưỡng bạo kích của đòn này giảm 2, sát thương cuối cùng +10%.",
+                "5": "Không tiêu hao thanh khí nhận. Gây sát thương lên toàn bộ kẻ địch xung quanh; sau khi trúng đòn, cấp khí nhận +1 (mỗi vòng giới hạn 1 lần), ngưỡng bạo kích của đòn này giảm 2, sát thương cuối cùng +15%.",
+                "6": "Không tiêu hao thanh khí nhận. Gây sát thương lên toàn bộ kẻ địch xung quanh; sau khi trúng đòn, cấp khí nhận +1 (mỗi vòng giới hạn 1 lần), ngưỡng bạo kích của đòn này giảm 2, sát thương cuối cùng +15%; mỗi khi trúng một kẻ địch, thanh khí nhận +1.",
+                "7": "Không tiêu hao thanh khí nhận. Gây sát thương lên toàn bộ kẻ địch xung quanh; sau khi trúng đòn, cấp khí nhận +1 (mỗi vòng giới hạn 1 lần), ngưỡng bạo kích của đòn này giảm 2, sát thương cuối cùng +20%; mỗi khi trúng một kẻ địch, thanh khí nhận +1.",
+                "8": "Không tiêu hao thanh khí nhận. Gây sát thương lên toàn bộ kẻ địch xung quanh; sau khi trúng đòn, cấp khí nhận +1 (mỗi vòng giới hạn 1 lần), ngưỡng bạo kích của đòn này giảm 3, sát thương cuối cùng +20%; mỗi khi trúng một kẻ địch, thanh khí nhận +1.",
+                "9": "Không tiêu hao thanh khí nhận. Gây sát thương lên toàn bộ kẻ địch xung quanh; sau khi trúng đòn, cấp khí nhận +1 (mỗi vòng giới hạn 1 lần), ngưỡng bạo kích của đòn này giảm 3, sát thương cuối cùng +25%; mỗi khi trúng một kẻ địch, thanh khí nhận +1.",
+                "10": "Không tiêu hao thanh khí nhận. Gây sát thương lên toàn bộ kẻ địch xung quanh; sau khi trúng đòn, cấp khí nhận +1 (mỗi vòng giới hạn 1 lần), ngưỡng bạo kích của đòn này giảm 3, sát thương cuối cùng +25%; mỗi khi trúng một kẻ địch, thanh khí nhận +2, đồng thời bản thân AC+1 kéo dài 1 hiệp.",
+                "11": "Không tiêu hao thanh khí nhận. Gây sát thương lên toàn bộ kẻ địch xung quanh; sau khi trúng đòn, cấp khí nhận +1 (mỗi vòng giới hạn 1 lần), ngưỡng bạo kích của đòn này giảm 4, sát thương cuối cùng +30%; mỗi khi trúng một kẻ địch, thanh khí nhận +2, đồng thời bản thân AC+1 kéo dài 1 hiệp.",
+                "12": "Không tiêu hao thanh khí nhận. Gây sát thương lên toàn bộ kẻ địch xung quanh; sau khi trúng đòn, cấp khí nhận +1 (mỗi vòng giới hạn 1 lần), ngưỡng bạo kích của đòn này giảm 4, sát thương cuối cùng +30%; mỗi khi trúng một kẻ địch, thanh khí nhận +2, đồng thời bản thân AC+2 kéo dài 1 hiệp.",
+                "13": "Không tiêu hao thanh khí nhận. Gây sát thương lên toàn bộ kẻ địch xung quanh; sau khi trúng đòn, cấp khí nhận +1 (mỗi vòng giới hạn 1 lần), ngưỡng bạo kích của đòn này giảm 4, sát thương cuối cùng +35%; mỗi khi trúng một kẻ địch, thanh khí nhận +2, đồng thời bản thân AC+2 kéo dài 1 hiệp.",
+                "14": "Không tiêu hao thanh khí nhận. Gây sát thương lên toàn bộ kẻ địch xung quanh; sau khi trúng đòn, cấp khí nhận +1 (mỗi vòng giới hạn 1 lần), ngưỡng bạo kích của đòn này giảm 5, sát thương cuối cùng +35%; mỗi khi trúng một kẻ địch, thanh khí nhận +2, đồng thời bản thân AC+2 kéo dài 1 hiệp.",
+                "15": "Không tiêu hao thanh khí nhận. Gây sát thương lên toàn bộ kẻ địch xung quanh; sau khi trúng đòn, cấp khí nhận +1 (mỗi vòng giới hạn 1 lần), ngưỡng bạo kích của đòn này giảm 5, sát thương cuối cùng +40%; mỗi khi trúng một kẻ địch, thanh khí nhận +2, đồng thời bản thân AC+3 kéo dài 1 hiệp."
+              },
+              "阶位": "Chuyển nghề"
+            },
+            "Tư thế truy kích": {
+              "名称": "Tư thế truy kích",
+              "类型": "Đặc biệt nghề nghiệp",
+              "描述": "Tiến vào tư thế truy kích đặc biệt, phối hợp tấn công cùng đồng đội. Trong trạng thái này không thể di chuyển nhưng phản ứng cực nhanh.",
+              "特殊效果": {
+                "1": "Chủ động mở. Thời lượng vô hạn, không thể di chuyển, AC+2. Khi đồng đội tấn công, có thể lập tức phát động một lần truy kích (không xét giới hạn khoảng cách); truy kích lần này có ngưỡng bạo kích -2 và bỏ qua 2 điểm AC của mục tiêu. Mỗi hiệp tiêu hao 1 điểm thanh khí nhận; sau khi dùng bất kỳ kỹ năng hệ bạt đao nào, trạng thái này được giải trừ."
+              },
+              "阶位": "Chuyển nghề"
+            },
+            "Nhìn thấu": {
+              "名称": "Nhìn thấu",
+              "类型": "Đặc biệt",
+              "描述": "Bị động. Nhát chém nhìn thấu. Nhìn xuyên đòn tấn công của kẻ địch, lùi bước né tránh rồi lập tức phản kích. Tuyệt kỹ công thủ nhất thể; sau khi phán định thành công có thể trực tiếp nối sang kỹ kết thúc.",
+              "特殊效果": {
+                "1": "Bị động, động tác phản ứng. Mỗi hiệp một lần tiến hành đối kháng Nhanh nhẹn trước đòn tấn công đang lao tới: nếu thành công, phản kích kẻ địch và có thể lập tức nối sang [Đại hồi toàn khí nhận] hoặc [Khí nhận vô song trảm]; nếu thất bại, sát thương phải chịu từ đòn này tăng 20%.",
+                "2": "Bị động, động tác phản ứng. Mỗi hiệp một lần tiến hành đối kháng Nhanh nhẹn trước đòn tấn công đang lao tới: nếu thành công, phản kích kẻ địch và có thể lập tức nối sang [Đại hồi toàn khí nhận] hoặc [Khí nhận vô song trảm], sát thương phản kích +5%; nếu thất bại, sát thương phải chịu từ đòn này tăng 20%.",
+                "3": "Bị động, động tác phản ứng. Mỗi hiệp một lần tiến hành đối kháng Nhanh nhẹn trước đòn tấn công đang lao tới: nếu thành công, phản kích kẻ địch và có thể lập tức nối sang [Đại hồi toàn khí nhận] hoặc [Khí nhận vô song trảm], sát thương phản kích +10%; nếu thất bại, sát thương phải chịu từ đòn này tăng 20%.",
+                "4": "Bị động, động tác phản ứng. Mỗi hiệp một lần tiến hành đối kháng Nhanh nhẹn trước đòn tấn công đang lao tới: nếu thành công, phản kích kẻ địch và có thể lập tức nối sang [Đại hồi toàn khí nhận] hoặc [Khí nhận vô song trảm], sát thương phản kích +15%; nếu thất bại, sát thương phải chịu từ đòn này tăng 20%.",
+                "5": "Bị động, động tác phản ứng. Mỗi hiệp một lần tiến hành đối kháng Nhanh nhẹn trước đòn tấn công đang lao tới: nếu thành công, phản kích kẻ địch và có thể lập tức nối sang [Đại hồi toàn khí nhận] hoặc [Khí nhận vô song trảm], sát thương phản kích +20%; nếu thất bại, sát thương phải chịu từ đòn này tăng 20%.",
+                "6": "Bị động, động tác phản ứng. Mỗi hiệp một lần tiến hành đối kháng Nhanh nhẹn trước đòn tấn công đang lao tới: nếu thành công, phản kích kẻ địch và có thể lập tức nối sang [Đại hồi toàn khí nhận] hoặc [Khí nhận vô song trảm], sát thương phản kích +20%, thanh khí nhận +1; nếu thất bại, sát thương phải chịu từ đòn này tăng 20%.",
+                "7": "Bị động, động tác phản ứng. Mỗi hiệp một lần tiến hành đối kháng Nhanh nhẹn trước đòn tấn công đang lao tới: nếu thành công, phản kích kẻ địch và có thể lập tức nối sang [Đại hồi toàn khí nhận] hoặc [Khí nhận vô song trảm], sát thương phản kích +25%, thanh khí nhận +1; nếu thất bại, sát thương phải chịu từ đòn này tăng 20%.",
+                "8": "Bị động, động tác phản ứng. Mỗi hiệp một lần tiến hành đối kháng Nhanh nhẹn trước đòn tấn công đang lao tới: nếu thành công, phản kích kẻ địch và có thể lập tức nối sang [Đại hồi toàn khí nhận] hoặc [Khí nhận vô song trảm], sát thương phản kích +25%, thanh khí nhận +2; nếu thất bại, sát thương phải chịu từ đòn này tăng 20%.",
+                "9": "Bị động, động tác phản ứng. Mỗi hiệp một lần tiến hành đối kháng Nhanh nhẹn trước đòn tấn công đang lao tới: nếu thành công, phản kích kẻ địch và có thể lập tức nối sang [Đại hồi toàn khí nhận] hoặc [Khí nhận vô song trảm], sát thương phản kích +30%, thanh khí nhận +2; nếu thất bại, sát thương phải chịu từ đòn này tăng 20%.",
+                "10": "Bị động, động tác phản ứng. Mỗi hiệp một lần tiến hành đối kháng Nhanh nhẹn trước đòn tấn công đang lao tới: nếu thành công, phản kích kẻ địch và có thể lập tức nối sang [Đại hồi toàn khí nhận] hoặc [Khí nhận vô song trảm], sát thương phản kích +30%, thanh khí nhận +2, khi phản kích ngưỡng bạo kích -1; nếu thất bại, sát thương phải chịu từ đòn này tăng 15%.",
+                "11": "Bị động, động tác phản ứng. Mỗi hiệp một lần tiến hành đối kháng Nhanh nhẹn trước đòn tấn công đang lao tới: nếu thành công, phản kích kẻ địch và có thể lập tức nối sang [Đại hồi toàn khí nhận] hoặc [Khí nhận vô song trảm], sát thương phản kích +30%, thanh khí nhận +2, khi phản kích ngưỡng bạo kích -1; nếu thất bại, sát thương phải chịu từ đòn này tăng 15%.",
+                "12": "Bị động, động tác phản ứng. Mỗi hiệp một lần tiến hành đối kháng Nhanh nhẹn trước đòn tấn công đang lao tới: nếu thành công, phản kích kẻ địch và có thể lập tức nối sang [Đại hồi toàn khí nhận] hoặc [Khí nhận vô song trảm], sát thương phản kích +30%, thanh khí nhận +2, khi phản kích ngưỡng bạo kích -1; nếu thất bại, sát thương phải chịu từ đòn này tăng 15%.",
+                "13": "Bị động, động tác phản ứng. Mỗi hiệp một lần tiến hành đối kháng Nhanh nhẹn trước đòn tấn công đang lao tới: nếu thành công, phản kích kẻ địch và có thể lập tức nối sang [Đại hồi toàn khí nhận] hoặc [Khí nhận vô song trảm], sát thương phản kích +30%, thanh khí nhận +2, khi phản kích ngưỡng bạo kích -1; nếu thất bại, sát thương phải chịu từ đòn này tăng 15%.",
+                "14": "Bị động, động tác phản ứng. Mỗi hiệp một lần tiến hành đối kháng Nhanh nhẹn trước đòn tấn công đang lao tới: nếu thành công, phản kích kẻ địch và có thể lập tức nối sang [Đại hồi toàn khí nhận] hoặc [Khí nhận vô song trảm], sát thương phản kích +30%, thanh khí nhận +2, khi phản kích ngưỡng bạo kích -1; nếu thất bại, sát thương phải chịu từ đòn này tăng 15%.",
+                "15": "Bị động, động tác phản ứng. Mỗi hiệp một lần tiến hành đối kháng Nhanh nhẹn trước đòn tấn công đang lao tới: nếu thành công, phản kích kẻ địch và có thể lập tức nối sang [Đại hồi toàn khí nhận] hoặc [Khí nhận vô song trảm], sát thương phản kích +30%, thanh khí nhận +2, khi phản kích ngưỡng bạo kích -1; nếu thất bại, sát thương phải chịu từ đòn này tăng 15%."
+              },
+              "阶位": "Chuyển nghề"
+            }
+          },
+          "进阶": {
+            "Yêu đao La Sát": {
+              "名称": "Yêu đao La Sát",
+              "类型": "Đặc biệt",
+              "描述": "Dùng máu của chính mình nuôi lưỡi đao, bước vào con đường Tu La. Lấy sinh mệnh đổi lấy sức tấn công cực hạn và năng lực hút máu.",
+              "特殊效果": {
+                "1": "Chủ động mở, tiêu hao 30% sinh mệnh tối đa. Kéo dài 3 hiệp, sát thương cuối cùng +10%, mỗi lần gây sát thương hồi phục sinh mệnh bằng 10% sát thương lần đó.",
+                "2": "Chủ động mở, tiêu hao 30% sinh mệnh tối đa. Kéo dài 3 hiệp, sát thương cuối cùng +12%, mỗi lần gây sát thương hồi phục sinh mệnh bằng 10% sát thương lần đó.",
+                "3": "Chủ động mở, tiêu hao 30% sinh mệnh tối đa. Kéo dài 3 hiệp, sát thương cuối cùng +15%, mỗi lần gây sát thương hồi phục sinh mệnh bằng 12% sát thương lần đó.",
+                "4": "Chủ động mở, tiêu hao 30% sinh mệnh tối đa. Kéo dài 4 hiệp, sát thương cuối cùng +15%, mỗi lần gây sát thương hồi phục sinh mệnh bằng 12% sát thương lần đó.",
+                "5": "Chủ động mở, tiêu hao 30% sinh mệnh tối đa. Kéo dài 4 hiệp, sát thương cuối cùng +18%, mỗi lần gây sát thương hồi phục sinh mệnh bằng 15% sát thương lần đó.",
+                "6": "Chủ động mở, tiêu hao 30% sinh mệnh tối đa. Kéo dài 4 hiệp, sát thương cuối cùng +20%, mỗi lần gây sát thương hồi phục sinh mệnh bằng 15% sát thương lần đó. Kiểm định trúng đòn +1.",
+                "7": "Chủ động mở, tiêu hao 30% sinh mệnh tối đa. Kéo dài 5 hiệp, sát thương cuối cùng +22%, mỗi lần gây sát thương hồi phục sinh mệnh bằng 18% sát thương lần đó. Kiểm định trúng đòn +1.",
+                "8": "Chủ động mở, tiêu hao 30% sinh mệnh tối đa. Kéo dài 5 hiệp, sát thương cuối cùng +25%, mỗi lần gây sát thương hồi phục sinh mệnh bằng 18% sát thương lần đó. Kiểm định trúng đòn +1.",
+                "9": "Chủ động mở, tiêu hao 30% sinh mệnh tối đa. Kéo dài 5 hiệp, sát thương cuối cùng +28%, mỗi lần gây sát thương hồi phục sinh mệnh bằng 20% sát thương lần đó. Kiểm định trúng đòn +2.",
+                "10": "Chủ động mở, tiêu hao 30% sinh mệnh tối đa. Kéo dài 5 hiệp, sát thương cuối cùng +30%, mỗi lần gây sát thương hồi phục sinh mệnh bằng 20% sát thương lần đó. Kiểm định trúng đòn +2, ngưỡng bạo kích -1."
+              },
+              "阶位": "Nâng cao"
+            },
+            "Cư hợp bạt đao khí nhận trảm": {
+              "名称": "Cư hợp bạt đao khí nhận trảm",
+              "类型": "Đặc biệt",
+              "描述": "Bị động. Đại cư hợp. Khi đang ở bất kỳ trạng thái tư thế nào, dùng chiêu này để thay thế [Nhìn thấu]. Lấy rủi ro cực cao đổi lấy hồi báo cực lớn: không chỉ phản kích mà còn có thể nâng cấp khí nhận.",
+              "特殊效果": {
+                "1": "Thay thế [Nhìn thấu]. Sau khi dùng, giải trừ tư thế. Mỗi hiệp một lần tiến hành đối kháng Nhanh nhẹn trước đòn tấn công đang lao tới: nếu thành công, miễn dịch sát thương lần này và phản kích; phản kích bỏ qua 2 điểm phòng ngự của mục tiêu, ngưỡng bạo kích -2; nếu bạo kích thì cấp khí nhận +1. Nếu thất bại, cấp khí nhận -1, sát thương phải chịu tăng 20%.",
+                "2": "Thay thế [Nhìn thấu]. Sau khi dùng, giải trừ tư thế. Mỗi hiệp một lần tiến hành đối kháng Nhanh nhẹn trước đòn tấn công đang lao tới: nếu thành công, miễn dịch sát thương lần này và phản kích; phản kích bỏ qua 3 điểm phòng ngự của mục tiêu, ngưỡng bạo kích -2; nếu bạo kích thì cấp khí nhận +1. Nếu thất bại, cấp khí nhận -1, sát thương phải chịu tăng 20%.",
+                "3": "Thay thế [Nhìn thấu]. Sau khi dùng, giải trừ tư thế. Mỗi hiệp một lần tiến hành đối kháng Nhanh nhẹn trước đòn tấn công đang lao tới: nếu thành công, miễn dịch sát thương lần này và phản kích; phản kích bỏ qua 4 điểm phòng ngự của mục tiêu, ngưỡng bạo kích -3; nếu bạo kích thì cấp khí nhận +1. Nếu thất bại, cấp khí nhận -1, sát thương phải chịu tăng 20%.",
+                "4": "Thay thế [Nhìn thấu]. Sau khi dùng, giải trừ tư thế. Mỗi hiệp một lần tiến hành đối kháng Nhanh nhẹn trước đòn tấn công đang lao tới: nếu thành công, miễn dịch sát thương lần này và phản kích; phản kích bỏ qua 10% phòng ngự của mục tiêu, ngưỡng bạo kích -3; nếu bạo kích thì cấp khí nhận +1. Nếu thất bại, cấp khí nhận -1, sát thương phải chịu tăng 20%.",
+                "5": "Thay thế [Nhìn thấu]. Sau khi dùng, giải trừ tư thế. Mỗi hiệp một lần tiến hành đối kháng Nhanh nhẹn trước đòn tấn công đang lao tới: nếu thành công, miễn dịch sát thương lần này và phản kích; phản kích bỏ qua 15% phòng ngự của mục tiêu, ngưỡng bạo kích -3; nếu bạo kích thì cấp khí nhận +1. Nếu thất bại, cấp khí nhận -1, sát thương phải chịu tăng 20%.",
+                "6": "Thay thế [Nhìn thấu]. Sau khi dùng, giải trừ tư thế. Mỗi hiệp một lần tiến hành đối kháng Nhanh nhẹn trước đòn tấn công đang lao tới: nếu thành công, miễn dịch sát thương lần này và phản kích; phản kích bỏ qua 20% phòng ngự của mục tiêu, ngưỡng bạo kích -3; nếu bạo kích thì cấp khí nhận +1. Nếu thất bại, cấp khí nhận -1, sát thương phải chịu tăng 20%.",
+                "7": "Thay thế [Nhìn thấu]. Sau khi dùng, giải trừ tư thế. Mỗi hiệp một lần tiến hành đối kháng Nhanh nhẹn trước đòn tấn công đang lao tới: nếu thành công, miễn dịch sát thương lần này và phản kích; phản kích bỏ qua 25% phòng ngự của mục tiêu, ngưỡng bạo kích -4; nếu bạo kích thì cấp khí nhận +1. Nếu thất bại, cấp khí nhận -1, sát thương phải chịu tăng 20%.",
+                "8": "Thay thế [Nhìn thấu]. Sau khi dùng, giải trừ tư thế. Mỗi hiệp một lần tiến hành đối kháng Nhanh nhẹn trước đòn tấn công đang lao tới: nếu thành công, miễn dịch sát thương lần này và phản kích; phản kích bỏ qua 30% phòng ngự của mục tiêu, ngưỡng bạo kích -4; nếu bạo kích thì cấp khí nhận +1. Nếu thất bại, cấp khí nhận -1, sát thương phải chịu tăng 20%.",
+                "9": "Thay thế [Nhìn thấu]. Sau khi dùng, giải trừ tư thế. Mỗi hiệp một lần tiến hành đối kháng Nhanh nhẹn trước đòn tấn công đang lao tới: nếu thành công, miễn dịch sát thương lần này và phản kích; phản kích bỏ qua 35% phòng ngự của mục tiêu, ngưỡng bạo kích -4; nếu bạo kích thì cấp khí nhận +1. Nếu thất bại, cấp khí nhận -1, sát thương phải chịu tăng 15%.",
+                "10": "Thay thế [Nhìn thấu]. Sau khi dùng, giải trừ tư thế. Mỗi hiệp một lần tiến hành đối kháng Nhanh nhẹn trước đòn tấn công đang lao tới: nếu thành công, miễn dịch sát thương lần này và phản kích; phản kích bỏ qua 40% phòng ngự của mục tiêu, ngưỡng bạo kích -5; nếu bạo kích thì cấp khí nhận +1. Nếu thất bại, cấp khí nhận -1, sát thương phải chịu tăng 15%."
+              },
+              "阶位": "Nâng cao"
+            },
+            "Khí nhận Đăng Long trảm": {
+              "名称": "Khí nhận Đăng Long trảm",
+              "类型": "Chủ động",
+              "描述": "Tiêu hao thanh khí nhận để thực hiện một nhát chém nhảy xuống cực mạnh. Kiếm đăng long. Cấp khí nhận càng cao, uy lực càng lớn.",
+              "特殊效果": {
+                "1": "Tiêu hao 1 cấp khí nhận. Tiến hành một lần nhảy chém nhiều đoạn; đòn tấn công này bỏ qua 2 điểm phòng ngự của mục tiêu, ngưỡng bạo kích -1. Nếu đang ở trạng thái lưỡi đỏ, sát thương cuối cùng tăng thêm 10%.",
+                "2": "Tiêu hao 1 cấp khí nhận. Tiến hành một lần nhảy chém nhiều đoạn; đòn tấn công này bỏ qua 2 điểm phòng ngự của mục tiêu, ngưỡng bạo kích -1. Nếu đang ở trạng thái lưỡi đỏ, sát thương cuối cùng tăng thêm 15%.",
+                "3": "Tiêu hao 1 cấp khí nhận. Tiến hành một lần nhảy chém nhiều đoạn; đòn tấn công này bỏ qua 3 điểm phòng ngự của mục tiêu, ngưỡng bạo kích -2. Nếu đang ở trạng thái lưỡi đỏ, sát thương cuối cùng tăng thêm 20%.",
+                "4": "Tiêu hao 1 cấp khí nhận. Tiến hành một lần nhảy chém nhiều đoạn; đòn tấn công này bỏ qua 10% phòng ngự của mục tiêu, ngưỡng bạo kích -2. Nếu đang ở trạng thái lưỡi đỏ, sát thương cuối cùng tăng thêm 25%.",
+                "5": "Tiêu hao 1 cấp khí nhận. Tiến hành một lần nhảy chém nhiều đoạn; đòn tấn công này bỏ qua 10% phòng ngự của mục tiêu, ngưỡng bạo kích -2. Nếu đang ở trạng thái lưỡi đỏ, sát thương cuối cùng tăng thêm 30%, đồng thời hồi phục 10% sinh mệnh.",
+                "6": "Tiêu hao 1 cấp khí nhận. Tiến hành một lần nhảy chém nhiều đoạn; đòn tấn công này bỏ qua 15% phòng ngự của mục tiêu, ngưỡng bạo kích -3. Nếu đang ở trạng thái lưỡi đỏ, sát thương cuối cùng tăng thêm 35%, đồng thời hồi phục 10% sinh mệnh.",
+                "7": "Tiêu hao 1 cấp khí nhận. Tiến hành một lần nhảy chém nhiều đoạn; đòn tấn công này bỏ qua 15% phòng ngự của mục tiêu, ngưỡng bạo kích -3. Nếu đang ở trạng thái lưỡi đỏ, sát thương cuối cùng tăng thêm 40%, đồng thời hồi phục 15% sinh mệnh, thanh khí nhận tự động hồi phục chậm kéo dài 2 hiệp.",
+                "8": "Tiêu hao 1 cấp khí nhận. Tiến hành một lần nhảy chém nhiều đoạn; đòn tấn công này bỏ qua 20% phòng ngự của mục tiêu, ngưỡng bạo kích -3. Nếu đang ở trạng thái lưỡi đỏ, sát thương cuối cùng tăng thêm 45%, đồng thời hồi phục 15% sinh mệnh, thanh khí nhận tự động hồi phục chậm kéo dài 2 hiệp.",
+                "9": "Tiêu hao 1 cấp khí nhận. Tiến hành một lần nhảy chém nhiều đoạn; đòn tấn công này bỏ qua 20% phòng ngự của mục tiêu, ngưỡng bạo kích -4. Nếu đang ở trạng thái lưỡi đỏ, sát thương cuối cùng tăng thêm 50%, đồng thời hồi phục 15% sinh mệnh, thanh khí nhận tự động hồi phục chậm kéo dài 3 hiệp.",
+                "10": "Tiêu hao 1 cấp khí nhận. Tiến hành một lần nhảy chém nhiều đoạn; đòn tấn công này bỏ qua 25% phòng ngự của mục tiêu, ngưỡng bạo kích -4. Nếu đang ở trạng thái lưỡi đỏ, sát thương cuối cùng tăng thêm 55%, đồng thời hồi phục 20% sinh mệnh, thanh khí nhận tự động hồi phục chậm kéo dài 3 hiệp; nếu đòn này hạ sát kẻ địch, hoàn trả cấp khí nhận đã tiêu hao."
+              },
+              "阶位": "Nâng cao"
+            }
+          },
+          "必杀": {
+            "Phong cách dũng khí": {
+              "名称": "Phong cách dũng khí",
+              "类型": "Đặc biệt",
+              "描述": "Tiến vào cảnh giới tâm như nước lặng. Thông qua nạp đao và thế công liên tục để tích lũy dũng khí; một khi bộc phát thì không gì cản nổi. Trong hình thái dũng khí, sở hữu khí nhận xanh đặc biệt.",
+              "特殊效果": {
+                "1": "Bị động. Sau mỗi lần phản kích hoặc truy kích, thanh dũng khí tăng 1 điểm; khi đạt 5 điểm sẽ tự động mở hình thái dũng khí, kéo dài 2 hiệp: thanh khí nhận cố định ở cấp đặc biệt lưỡi xanh (xem như lưỡi đỏ), trúng đòn +5, cộng thêm sát thương 30%, ngưỡng bạo kích -3. Trong hình thái dũng khí, lần đầu tiên mỗi hiệp chịu tấn công có thể phóng thích một lần [Cương khí nhận trảm] để đối kháng trúng đòn; nếu thành công thì miễn dịch sát thương đó và nối thêm [Khí nhận vô song trảm].",
+                "2": "Bị động. Sau mỗi lần phản kích hoặc truy kích, thanh dũng khí tăng 1 điểm; khi đạt 5 điểm sẽ tự động mở hình thái dũng khí, kéo dài 2 hiệp: thanh khí nhận cố định ở cấp đặc biệt lưỡi xanh (xem như lưỡi đỏ), trúng đòn +5, cộng thêm sát thương 35%, ngưỡng bạo kích -3. Trong hình thái dũng khí, lần đầu tiên mỗi hiệp chịu tấn công có thể phóng thích một lần [Cương khí nhận trảm] để đối kháng trúng đòn; nếu thành công thì miễn dịch sát thương đó và nối thêm [Khí nhận vô song trảm].",
+                "3": "Bị động. Sau mỗi lần phản kích hoặc truy kích, thanh dũng khí tăng 1 điểm; khi đạt 5 điểm sẽ tự động mở hình thái dũng khí, kéo dài 3 hiệp: thanh khí nhận cố định ở cấp đặc biệt lưỡi xanh (xem như lưỡi đỏ), trúng đòn +6, cộng thêm sát thương 40%, ngưỡng bạo kích -4. Trong hình thái dũng khí, lần đầu tiên mỗi hiệp chịu tấn công có thể phóng thích một lần [Cương khí nhận trảm] để đối kháng trúng đòn; nếu thành công thì miễn dịch sát thương đó và nối thêm [Khí nhận vô song trảm].",
+                "4": "Bị động. Sau mỗi lần phản kích hoặc truy kích, thanh dũng khí tăng 1 điểm; khi đạt 5 điểm sẽ tự động mở hình thái dũng khí, kéo dài 3 hiệp: thanh khí nhận cố định ở cấp đặc biệt lưỡi xanh (xem như lưỡi đỏ), trúng đòn +6, cộng thêm sát thương 45%, ngưỡng bạo kích -4. Trong hình thái dũng khí, lần đầu tiên mỗi hiệp chịu tấn công có thể phóng thích một lần [Cương khí nhận trảm] để đối kháng trúng đòn; nếu thành công thì miễn dịch sát thương đó và nối thêm [Khí nhận vô song trảm], đồng thời nhận miễn dịch tấn công mượn cơ hội trong 1 hiệp.",
+                "5": "Bị động. Sau mỗi lần phản kích hoặc truy kích, thanh dũng khí tăng 1 điểm; khi đạt 5 điểm sẽ tự động mở hình thái dũng khí, kéo dài 4 hiệp: thanh khí nhận cố định ở cấp đặc biệt lưỡi xanh (xem như lưỡi đỏ), trúng đòn +7, cộng thêm sát thương 50%, ngưỡng bạo kích -5. Trong hình thái dũng khí, lần đầu tiên mỗi hiệp chịu tấn công có thể phóng thích một lần [Cương khí nhận trảm] để đối kháng trúng đòn; nếu thành công thì miễn dịch sát thương đó và nối thêm [Khí nhận vô song trảm], đồng thời nhận miễn dịch tấn công mượn cơ hội trong 1 hiệp; sau khi hình thái dũng khí kết thúc, giữ lại 2 điểm thanh dũng khí.",
+                "6": "Bị động. Sau mỗi lần phản kích hoặc truy kích, thanh dũng khí tăng 1 điểm; khi đạt 5 điểm sẽ tự động mở hình thái dũng khí, kéo dài 4 hiệp: thanh khí nhận cố định ở cấp đặc biệt lưỡi xanh (xem như lưỡi đỏ), trúng đòn +7, cộng thêm sát thương 55%, ngưỡng bạo kích -5. Trong hình thái dũng khí, lần đầu tiên mỗi hiệp chịu tấn công có thể phóng thích một lần [Cương khí nhận trảm] để đối kháng trúng đòn; nếu thành công thì miễn dịch sát thương đó và nối thêm [Khí nhận vô song trảm], đồng thời nhận miễn dịch tấn công mượn cơ hội trong 1 hiệp; sau khi hình thái dũng khí kết thúc, giữ lại 3 điểm thanh dũng khí.",
+                "7": "Bị động. Sau mỗi lần phản kích hoặc truy kích, thanh dũng khí tăng 1 điểm; khi đạt 5 điểm sẽ tự động mở hình thái dũng khí, kéo dài 5 hiệp: thanh khí nhận cố định ở cấp đặc biệt lưỡi xanh (xem như lưỡi đỏ), trúng đòn +8, cộng thêm sát thương 60%, ngưỡng bạo kích -6. Trong hình thái dũng khí, lần đầu tiên mỗi hiệp chịu tấn công có thể phóng thích một lần [Cương khí nhận trảm] để đối kháng trúng đòn; nếu thành công thì miễn dịch sát thương đó và nối thêm [Khí nhận vô song trảm], đồng thời nhận miễn dịch tấn công mượn cơ hội trong 1 hiệp; sau khi hình thái dũng khí kết thúc, giữ lại 3 điểm thanh dũng khí."
+              },
+              "阶位": "Tất sát"
+            },
+            "Khí nhận vô song trảm": {
+              "名称": "Khí nhận vô song trảm",
+              "类型": "Chủ động",
+              "描述": "Chuỗi khí nhận trảm uy lực cao. Động tác mở rộng mạnh mẽ, có sức phá hoại và áp chế cực lớn.",
+              "特殊效果": {
+                "1": "Gây một đòn trọng kích. Sau khi trúng đòn, cấp thanh khí nhận +1, sát thương cuối cùng của đòn tấn công này +20%. Trong hiệp này miễn dịch ngã, chấn động và choáng.",
+                "2": "Gây một đòn trọng kích. Sau khi trúng đòn, cấp thanh khí nhận +1, sát thương cuối cùng của đòn tấn công này +25%. Trong hiệp này miễn dịch ngã, chấn động và choáng.",
+                "3": "Gây một đòn trọng kích. Sau khi trúng đòn, cấp thanh khí nhận +1, sát thương cuối cùng của đòn tấn công này +30%. Trong hiệp này miễn dịch ngã, chấn động và choáng. Nếu liên chiêu trước là [Cương khí nhận trảm], bỏ qua thêm 2 điểm AC.",
+                "4": "Gây một đòn trọng kích. Sau khi trúng đòn, cấp thanh khí nhận +1, sát thương cuối cùng của đòn tấn công này +35%. Trong hiệp này miễn dịch ngã, chấn động và choáng. Nếu liên chiêu trước là [Cương khí nhận trảm], bỏ qua thêm 3 điểm AC.",
+                "5": "Gây một đòn trọng kích. Sau khi trúng đòn, cấp thanh khí nhận +1, sát thương cuối cùng của đòn tấn công này +40%. Trong hiệp này miễn dịch ngã, chấn động và choáng. Nếu liên chiêu trước là [Cương khí nhận trảm], bỏ qua thêm 10% phòng ngự và khiến kiểm định Sức mạnh của mục tiêu bất lợi.",
+                "6": "Gây một đòn trọng kích. Sau khi trúng đòn, cấp thanh khí nhận +1, sát thương cuối cùng của đòn tấn công này +45%. Trong hiệp này miễn dịch ngã, chấn động và choáng. Nếu liên chiêu trước là [Cương khí nhận trảm], bỏ qua thêm 15% phòng ngự và khiến kiểm định Sức mạnh của mục tiêu bất lợi.",
+                "7": "Gây một đòn trọng kích. Sau khi trúng đòn, cấp thanh khí nhận +1, sát thương cuối cùng của đòn tấn công này +50%. Trong hiệp này miễn dịch ngã, chấn động và choáng. Nếu liên chiêu trước là [Cương khí nhận trảm], bỏ qua thêm 20% phòng ngự và khiến mục tiêu bị chấn nhiếp 1 hiệp."
+              },
+              "阶位": "Tất sát"
+            },
+            "Cương khí nhận trảm": {
+              "名称": "Cương khí nhận trảm",
+              "类型": "Chủ động",
+              "描述": "Chỉ có thể dùng trong hình thái dũng khí. Phản kích đỡ đòn trong khoảnh khắc, lấy công làm thủ.",
+              "特殊效果": {
+                "1": "Chỉ giới hạn trong hình thái dũng khí. Lập tức phản kích đòn tấn công của địch; sau khi trúng đòn, số tầng thanh khí nhận +1, ngưỡng bạo kích của đòn này giảm 2. Nếu đỡ sát thương thành công, sát thương cuối cùng +20%.",
+                "2": "Chỉ giới hạn trong hình thái dũng khí. Lập tức phản kích đòn tấn công của địch; sau khi trúng đòn, số tầng thanh khí nhận +1, ngưỡng bạo kích của đòn này giảm 2. Nếu đỡ sát thương thành công, sát thương cuối cùng +25%.",
+                "3": "Chỉ giới hạn trong hình thái dũng khí. Lập tức phản kích đòn tấn công của địch; sau khi trúng đòn, số tầng thanh khí nhận +1, ngưỡng bạo kích của đòn này giảm 3. Nếu đỡ sát thương thành công, sát thương cuối cùng +30%, đồng thời khiến [Khí nhận vô song trảm] kế tiếp chắc chắn trúng.",
+                "4": "Chỉ giới hạn trong hình thái dũng khí. Lập tức phản kích đòn tấn công của địch; sau khi trúng đòn, số tầng thanh khí nhận +1, ngưỡng bạo kích của đòn này giảm 3. Nếu đỡ sát thương thành công, sát thương cuối cùng +35%, đồng thời khiến [Khí nhận vô song trảm] kế tiếp chắc chắn trúng và ngưỡng bạo kích giảm thêm 2.",
+                "5": "Chỉ giới hạn trong hình thái dũng khí. Lập tức phản kích đòn tấn công của địch; sau khi trúng đòn, số tầng thanh khí nhận +1, ngưỡng bạo kích của đòn này giảm 4. Nếu đỡ sát thương thành công, sát thương cuối cùng +40%, đồng thời khiến [Khí nhận vô song trảm] kế tiếp chắc chắn trúng, ngưỡng bạo kích giảm thêm 2 và hoàn trả hành động đã tiêu hao lần này.",
+                "6": "Chỉ giới hạn trong hình thái dũng khí. Lập tức phản kích đòn tấn công của địch; sau khi trúng đòn, số tầng thanh khí nhận +1, ngưỡng bạo kích của đòn này giảm 4. Nếu đỡ sát thương thành công, sát thương cuối cùng +45%, đồng thời khiến [Khí nhận vô song trảm] kế tiếp chắc chắn trúng, ngưỡng bạo kích giảm thêm 3 và hoàn trả hành động đã tiêu hao lần này.",
+                "7": "Chỉ giới hạn trong hình thái dũng khí. Lập tức phản kích đòn tấn công của địch; sau khi trúng đòn, số tầng thanh khí nhận +1, ngưỡng bạo kích của đòn này giảm 5. Nếu đỡ sát thương thành công, sát thương cuối cùng +50%, đồng thời khiến [Khí nhận vô song trảm] kế tiếp chắc chắn trúng, ngưỡng bạo kích giảm thêm 3, bỏ qua 20% phòng ngự của mục tiêu và hoàn trả hành động đã tiêu hao lần này."
+              },
+              "阶位": "Tất sát"
+            }
+          },
+          "奥义": {
+            "Tư thế Kiếm Quỷ": {
+              "名称": "Tư thế Kiếm Quỷ",
+              "类型": "Đặc biệt",
+              "描述": "Nạp đao tiến vào tư thế Kiếm Quỷ, chờ thời như ác quỷ. Đây là tư thế cực hạn chuyên chú vào phản kích.",
+              "特殊效果": {
+                "1": "Nạp đao tiến vào tư thế, thời lượng vô hạn, AC+2. Khi kẻ địch tấn công, tiêu hao 10% sinh mệnh tối đa để lập tức phát động một lần phản kích uy lực lớn (không xét giới hạn khoảng cách); phản kích lần này có ngưỡng bạo kích giảm 2, bỏ qua 2 điểm AC của mục tiêu. Mỗi hiệp tiêu hao 1 điểm thanh khí nhận; sau khi dùng bất kỳ kỹ năng hệ bạt đao nào, trạng thái này được giải trừ.",
+                "2": "Nạp đao tiến vào tư thế, thời lượng vô hạn, AC+2. Khi kẻ địch tấn công, tiêu hao 10% sinh mệnh tối đa để lập tức phát động một lần phản kích uy lực lớn (không xét giới hạn khoảng cách); phản kích lần này có ngưỡng bạo kích giảm 2, bỏ qua 3 điểm AC của mục tiêu. Mỗi hiệp tiêu hao 1 điểm thanh khí nhận; sau khi dùng bất kỳ kỹ năng hệ bạt đao nào, trạng thái này được giải trừ.",
+                "3": "Nạp đao tiến vào tư thế, thời lượng vô hạn, AC+3. Khi kẻ địch tấn công, tiêu hao 10% sinh mệnh tối đa để lập tức phát động một lần phản kích uy lực lớn (không xét giới hạn khoảng cách); phản kích lần này có ngưỡng bạo kích giảm 3, bỏ qua 4 điểm AC của mục tiêu. Mỗi hiệp tiêu hao 1 điểm thanh khí nhận; sau khi dùng bất kỳ kỹ năng hệ bạt đao nào, trạng thái này được giải trừ.",
+                "4": "Nạp đao tiến vào tư thế, thời lượng vô hạn, AC+3. Khi kẻ địch tấn công, tiêu hao 10% sinh mệnh tối đa để lập tức phát động một lần phản kích uy lực lớn (không xét giới hạn khoảng cách); phản kích lần này có ngưỡng bạo kích giảm 3, bỏ qua 5 điểm AC của mục tiêu. Mỗi hiệp tiêu hao 1 điểm thanh khí nhận; sau khi dùng bất kỳ kỹ năng hệ bạt đao nào, trạng thái này được giải trừ.",
+                "5": "Nạp đao tiến vào tư thế, thời lượng vô hạn, AC+4. Khi kẻ địch tấn công, tiêu hao 10% sinh mệnh tối đa để lập tức phát động một lần phản kích uy lực lớn (không xét giới hạn khoảng cách); phản kích lần này có ngưỡng bạo kích giảm 4, bỏ qua 10% phòng ngự của mục tiêu. Mỗi hiệp tiêu hao 1 điểm thanh khí nhận; sau khi dùng bất kỳ kỹ năng hệ bạt đao nào, trạng thái này được giải trừ; sau khi phản kích trúng, hồi phục 5% sinh mệnh."
+              },
+              "阶位": "Áo nghĩa"
+            },
+            "Tư thế Thủy Nguyệt": {
+              "名称": "Tư thế Thủy Nguyệt",
+              "类型": "Đặc biệt",
+              "描述": "Tiêu hao toàn bộ thanh khí nhận để tiến vào tư thế Thủy Nguyệt. Tâm như gương sáng, soi chiếu vạn vật, hóa đòn tấn công của địch thành vô hình rồi đáp trả bằng một đòn hủy diệt.",
+              "特殊效果": {
+                "1": "Tiêu hao toàn bộ thanh khí nhận để tiến vào tư thế Thủy Nguyệt; trong hiệp này, các hành động khác tự động vô hiệu. Đòn tấn công đầu tiên phải chịu trong hiệp này bị vô hiệu hóa và bạn tiến hành một lần phản kích siêu uy lực. Lần phản kích này bỏ qua AC địch, giảm ngưỡng bạo kích 2; nếu trong hiệp này không chịu tấn công thì bị choáng một hiệp.",
+                "2": "Tiêu hao toàn bộ thanh khí nhận để tiến vào tư thế Thủy Nguyệt; trong hiệp này, các hành động khác tự động vô hiệu. Đòn tấn công đầu tiên phải chịu trong hiệp này bị vô hiệu hóa và bạn tiến hành một lần phản kích siêu uy lực. Lần phản kích này bỏ qua AC địch, giảm ngưỡng bạo kích 3, sát thương cuối cùng +20%; nếu trong hiệp này không chịu tấn công thì bị choáng một hiệp.",
+                "3": "Tiêu hao toàn bộ thanh khí nhận để tiến vào tư thế Thủy Nguyệt; trong hiệp này, các hành động khác tự động vô hiệu. Đòn tấn công đầu tiên phải chịu trong hiệp này bị vô hiệu hóa và bạn tiến hành một lần phản kích siêu uy lực. Lần phản kích này bỏ qua AC địch, giảm ngưỡng bạo kích 4, sát thương cuối cùng +40%; nếu trong hiệp này không chịu tấn công thì bị choáng một hiệp.",
+                "4": "Tiêu hao toàn bộ thanh khí nhận để tiến vào tư thế Thủy Nguyệt; trong hiệp này, các hành động khác tự động vô hiệu. Đòn tấn công đầu tiên phải chịu trong hiệp này bị vô hiệu hóa và bạn tiến hành một lần phản kích siêu uy lực. Lần phản kích này bỏ qua AC địch, giảm ngưỡng bạo kích 5, sát thương cuối cùng +60%; nếu trong hiệp này không chịu tấn công thì bị choáng một hiệp.",
+                "5": "Tiêu hao toàn bộ thanh khí nhận để tiến vào tư thế Thủy Nguyệt; trong hiệp này, các hành động khác tự động vô hiệu. Đòn tấn công đầu tiên phải chịu trong hiệp này bị vô hiệu hóa và bạn tiến hành một lần phản kích siêu uy lực. Lần phản kích này bỏ qua AC địch, giảm ngưỡng bạo kích 5, sát thương cuối cùng +80% và chắc chắn bạo kích; nếu trong hiệp này không chịu tấn công thì cấp khí nhận của bản thân trực tiếp lên tối đa, không bị choáng."
+              },
+              "阶位": "Áo nghĩa"
+            },
+            "Anh Hoa Khí Nhận Trảm - Cực": {
+              "名称": "Anh Hoa Khí Nhận Trảm - Cực",
+              "类型": "Chủ động",
+              "描述": "Vừa rút đao vừa trượt bước tới trước, thi triển hai đoạn chém xoay. Sau nhát chém, kiếm khí rực rỡ như hoa anh đào bung nở. Thường dùng để kết liễu hoa mỹ khi đang ở trạng thái lưỡi đỏ.",
+              "特殊效果": {
+                "1": "Tiêu hao toàn bộ thanh khí nhận để gây một lần sát thương uy lực lớn lên toàn bộ phe địch. Đòn tấn công này bỏ qua 2 điểm AC, ngưỡng bạo kích -2. Nếu kích hoạt bạo kích, kiếm khí nở tung thêm tại vết thương của địch để tiến hành 1 lần truy kích gây 50% sát thương, đồng thời nâng cấp khí nhận 1 cấp. Nếu truy kích bạo kích, có thể truy kích thêm lần nữa, tối đa 2 lần.",
+                "2": "Tiêu hao toàn bộ thanh khí nhận để gây một lần sát thương uy lực lớn lên toàn bộ phe địch. Đòn tấn công này bỏ qua 3 điểm AC, ngưỡng bạo kích -3. Nếu kích hoạt bạo kích, kiếm khí nở tung thêm tại vết thương của địch để tiến hành 1 lần truy kích gây 60% sát thương, đồng thời nâng cấp khí nhận 1 cấp. Nếu truy kích bạo kích, có thể truy kích thêm lần nữa, tối đa 3 lần.",
+                "3": "Tiêu hao toàn bộ thanh khí nhận để gây một lần sát thương uy lực lớn lên toàn bộ phe địch. Đòn tấn công này bỏ qua 4 điểm AC, ngưỡng bạo kích -3. Nếu kích hoạt bạo kích, kiếm khí nở tung thêm tại vết thương của địch để tiến hành 1 lần truy kích gây 70% sát thương, đồng thời nâng cấp khí nhận 1 cấp. Nếu truy kích bạo kích, có thể truy kích thêm lần nữa, tối đa 4 lần.",
+                "4": "Tiêu hao toàn bộ thanh khí nhận để gây một lần sát thương uy lực lớn lên toàn bộ phe địch. Đòn tấn công này bỏ qua 10% phòng ngự, ngưỡng bạo kích -4. Nếu kích hoạt bạo kích, kiếm khí nở tung thêm tại vết thương của địch để tiến hành 1 lần truy kích gây 80% sát thương, đồng thời nâng cấp khí nhận 1 cấp. Nếu truy kích bạo kích, có thể truy kích thêm lần nữa, tối đa 5 lần.",
+                "5": "Tiêu hao toàn bộ thanh khí nhận để gây một lần sát thương uy lực lớn lên toàn bộ phe địch. Đòn tấn công này bỏ qua 20% phòng ngự, ngưỡng bạo kích -5. Nếu kích hoạt bạo kích, kiếm khí nở tung thêm tại vết thương của địch để tiến hành 1 lần truy kích gây 100% sát thương, đồng thời nâng cấp khí nhận 1 cấp. Nếu truy kích bạo kích, có thể truy kích thêm lần nữa, tối đa 5 lần, đồng thời mỗi lần truy kích trúng sẽ gây thêm sát thương chân thực bằng 2% sinh mệnh tối đa của kẻ địch."
+              },
+              "阶位": "Áo nghĩa"
+            }
+          },
+          "觉醒一": {
+            "Hồn săn bùng cháy - Thái đao": {
+              "名称": "Hồn săn bùng cháy - Thái đao",
+              "类型": "Chủ động",
+              "阶位": "Thức tỉnh một",
+              "描述": "Giải phóng bản năng của thợ săn, rót linh hồn săn bắn vào thân đao. Mỗi tiếng ngân của khí nhận đều là một bậc thang tiến tới đỉnh cao.",
+              "特殊效果": {
+                "1": "Chủ động mở. Sau khi thức tỉnh, trong trận chiến này, mỗi lần nhận thanh khí nhận thì đồng thời nhận 1 tầng hiệu ứng [Hồn săn] (giới hạn trên 30 tầng). Mỗi tầng [Hồn săn] khiến sát thương cuối cùng của bạn +2%; sau khi mở trạng thái này, mọi đòn tấn công bạn phát động đều bỏ qua trị giảm trúng đòn do liên kích gây ra.",
+                "2": "Chủ động mở. Sau khi thức tỉnh, trong trận chiến này, mỗi lần nhận thanh khí nhận thì đồng thời nhận 1 tầng hiệu ứng [Hồn săn] (giới hạn trên 40 tầng). Mỗi tầng [Hồn săn] khiến sát thương cuối cùng của bạn +2%; sau khi mở trạng thái này, mọi đòn tấn công bạn phát động đều bỏ qua trị giảm trúng đòn do liên kích gây ra.",
+                "3": "Chủ động mở. Sau khi thức tỉnh, trong trận chiến này, mỗi lần nhận thanh khí nhận thì đồng thời nhận 1 tầng hiệu ứng [Hồn săn] (giới hạn trên 40 tầng). Mỗi tầng [Hồn săn] khiến sát thương cuối cùng của bạn +3%; sau khi mở trạng thái này, mọi đòn tấn công bạn phát động đều bỏ qua trị giảm trúng đòn do liên kích gây ra."
+              }
+            }
+          },
+          "觉醒二": {
+            "Viên Nguyệt": {
+              "名称": "Viên Nguyệt",
+              "类型": "Đặc biệt",
+              "阶位": "Thức tỉnh hai",
+              "描述": "Triển khai lĩnh vực không tì vết. Dưới ánh trăng sáng, quỹ tích lưỡi đao hóa thành thủy ngân chí mạng, chém mọi kẻ xúc phạm trong vô hình.",
+              "特殊效果": {
+                "1": "Chủ động mở. Triển khai lĩnh vực [Viên Nguyệt] kéo dài toàn trận quanh bản thân. Trong lĩnh vực, mọi kỹ năng truy kích và phản kích của bạn (như cư hợp, Nhìn thấu, tư thế Thủy Nguyệt, Cương khí nhận trảm...) có sát thương cuối cùng tăng 100%, đồng thời ngưỡng bạo kích cố định hạ xuống 10 (cực dễ bạo kích). Kẻ địch trong lĩnh vực bị giảm một nửa tốc độ di chuyển và không thể dùng bất kỳ hình thức nhảy không gian hay truyền tống nào để thoát ra. Khi bạn hoàn thành hạ sát trong lĩnh vực Viên Nguyệt, lập tức dẫn phát một ánh kiếm trăng lưỡi liềm quanh bản thân, uy lực tương đương 300% đánh thường.",
+                "2": "Chủ động mở. Triển khai lĩnh vực [Viên Nguyệt] kéo dài toàn trận quanh bản thân. Trong lĩnh vực, mọi kỹ năng truy kích và phản kích của bạn (như cư hợp, Nhìn thấu, tư thế Thủy Nguyệt, Cương khí nhận trảm...) có sát thương cuối cùng tăng 100%, đồng thời ngưỡng bạo kích cố định hạ xuống 10 (cực dễ bạo kích). Kẻ địch trong lĩnh vực bị giảm một nửa tốc độ di chuyển và không thể dùng bất kỳ hình thức nhảy không gian hay truyền tống nào để thoát ra. Khi bạn hoàn thành hạ sát trong lĩnh vực Viên Nguyệt, lập tức làm mới hồi chiêu của toàn bộ kỹ năng chủ động và dẫn phát một ánh kiếm trăng lưỡi liềm quanh bản thân, uy lực tương đương 300% đánh thường."
+              }
+            }
+          },
+          "觉醒三": {
+            "Thiên thượng thiên hạ, thiên địa vô song": {
+              "名称": "Thiên thượng thiên hạ, thiên địa vô song",
+              "类型": "Chủ động",
+              "阶位": "Thức tỉnh ba",
+              "描述": "Đạt tới cực ý của thái đao, chém nứt trời đất. Lúc này khí nhận đã tới hóa cảnh; lưỡi đao lướt qua đâu, vạn vật đều đứt đoạn.",
+              "特殊效果": {
+                "1": "Chủ động mở. Sau khi thức tỉnh, trong trận chiến này, mọi cộng thêm trúng đòn, sát thương và ngưỡng bạo kích do cấp khí nhận mang lại đều nhân đôi. Mọi đòn tấn công bạn phát động chắc chắn bạo kích, đồng thời hệ số sát thương bạo kích cơ bản cưỡng chế tăng lên 300%. Mỗi lần kích hoạt thành công truy kích hoặc phản kích, sẽ tự động đánh thêm một nhát chém phụ với hệ số 200%, bỏ qua phòng ngự."
+              }
+            }
+          }
+        }
+      },
+      "skillFlavorInput": "\n",
+      "teammates": [],
+      "customTeammate": null,
+      "selectedTraits": [],
+      "customTraits": [
+        {
+          "name": "Thợ Săn Quái Vật",
+          "effect": "Bạn miễn dịch sát thương rơi ngã. Khi đối mặt với kẻ địch không phải hình người, mọi kiểm định thuộc tính +1."
+        }
+      ],
+      "customExpertise": [],
+      "customIdentity": {
+        "enabled": true,
+        "name": "Ngôi Sao Xanh",
+        "desc": "Bạn là thợ săn huyền thoại đến từ thế giới Monster Hunter, được gọi là Ngôi Sao Xanh dẫn đường. Để truy đuổi cổ long bí ẩn “Fatalis”, bạn đã tới nơi này, nhưng trong quá trình dịch chuyển đã mất toàn bộ trang bị và sức mạnh của mình; mọi thứ đều phải bắt đầu lại từ đầu.",
+        "tierIndex": 2
+      },
+      "selectedOpening": "custom",
+      "customOpeningText": "Lưỡi đao chém vào lớp vảy cứng, tia lửa bắn tung tóe. Thân hình khổng lồ của hắc long cuộn lăn giữa đống đổ nát. Nó không gầm lên, mà đột nhiên khựng lại, lùi ra sau để kéo giãn khoảng cách. Không khí phía sau nó bắt đầu vặn xoắn; bầu trời xám trắng vốn có bị xé mở một vết rách, và một xoáy đen dần thành hình giữa không trung.\nHắc long quay đầu lại. Đôi đồng tử vàng dựng đứng nhìn bạn lần cuối. Đó không phải cơn giận của một kẻ bị thương, mà là một vẻ bình lặng không thể lý giải. Nó dang đôi cánh tàn khuyết, xoay mình lao thẳng vào xoáy đen ấy.\nBạn còn chưa kịp siết chặt vũ khí để đuổi theo, một lực hút khổng lồ đã bùng ra từ trong xoáy. Đá vụn xung quanh, xà gỗ gãy và cả không khí đều bị kéo giật về phía sau. Hai chân bạn rời khỏi mặt đất, cơ thể hoàn toàn mất thăng bằng.\nTiếng ầm vang bên tai bị thay thế bằng một sự tĩnh lặng tuyệt đối. Sau khoảnh khắc ngắn ngủi rơi vào trạng thái không trọng lượng, hai chân bạn lại chạm xuống một mặt phẳng chắc chắn. Cảm giác đó kỳ lạ đến khó tả: dưới chân chỉ có hư không mênh mông vô tận. Màu sắc nơi này chảy trôi như nước.\n“Lần đầu gặp mặt.”\nMột giọng nói vang lên ngay phía trước. Cách bạn chưa tới năm bước có một người đang đứng. Đó là một cô gái có ngoại hình giống thiếu niên, đội chiếc mũ bê-rê phóng đại; dưới mái tóc ngắn nhiều màu, đôi đồng tử hình sao bốn cánh đang nhìn thẳng vào bạn.\n{Tetto}「Đây là bàn cờ của tôi. Trong thế giới này, sự tồn tại mà anh vẫn luôn truy đuổi, Hắc Long Fatalis, cũng đã tới đây. Thế nào? Có muốn tham gia ván cờ vĩ đại nhằm tranh đoạt thần tọa này, tiện thể... tiếp tục cuộc chém giết giữa hai bên trong thế giới mới không?」\nBạn gật đầu đồng ý. Khi mở mắt ra lần nữa, bạn đã đặt chân tới thế giới mới.",
+      "selectedDifficulty": "normal",
+      "customRace": null
+    }
+  }
+}

@@ -1,0 +1,983 @@
+{
+  "exportedAt": "2026-04-10T17:04:02.370Z",
+  "version": "1.0",
+  "preset": {
+    "id": "1775840640919",
+    "name": "Học giả Chiếu Minh Thuật",
+    "timestamp": 1775840640919,
+    "createdAt": 1775840640919,
+    "updatedAt": 1775840640919,
+    "data": {
+      "name": "Kẻ Tái Sinh Lần Hai",
+      "gender": "Nam",
+      "age": 18,
+      "race": "Chủng người",
+      "identity": "Kẻ bại trận vô danh",
+      "avatar": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAYAAABw4pVUAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAMMklEQVR4nO2dvZYURRiGOyBFvAA8rCkGYiYRkCiZSwApswdyd7kBZm9AMIfDkrKBYyZEaySZa6DxcOQCUC9A++mej66praquv+4utd9z+uzOb3fX+/3XVzXnqm18WB/L+titj0vVjKHxvGrHey1PqIRcqY+T+rhQzRgLd6tW+Bf1seIJIWQmYzow5t/Vx636WEEIZmpVzWRMjaP6uA4h+9XsL0oACvFYCJlRBq5ByGyqCsI514uPHtbe/hPza+/+rKOAn2rD96Kq/vire/7Ty3XY8GX1nwL3+u3T7ecunK/j1Qf28VHBOB0+8juXkxBOdv2q/XUGfnG7fs/tjpRffqtJ+sbvQv9NUAmBjJNjv3s8/bV2DE+6xwj5waH9/U5CfMBFcXEqKfx/+qqqdi5WgwLJRUOPjltBAAzW7s1WenOdf/Vy+/H+fT8yuL7Fg25cvvqi/eyghAAublVL0I077WMuYPdeS9SHH1SDAMnjZoUIAed+ftweDw9aYlKhSjiEM6g+WBx013epFo4jD7OVhRCAaXtWm6q9zQBwIVzQ6mmVHZChaqQNYrdTSMH+//i6e8x3+QjZsh6L7191j1dP/D6XjRCAP+EGkE7ABe0vawlb5jsHZmD3fj8ZAkhBWFy+0AVVOwhYfLQDE6c6cVdwpMNJSCOJgTeCQ+dzoqo4Q74jV+TFAL15G/YZpPXkOO58IuWYKu6tD40pPegei9/whZMQboTBDI2YMFNXvuikmEHMRciRYWDxFSI467ed2RRgctCsFH/2+LB/HHQn3pDoGe4KnITwxZ/dDHeORDdIxWHgxfjApB26SdozXGuMtgMGFTIwx31QnThAMEOFwMuHMLBNEvjIP5SEEDTD19b7ggHSv1MdbP43IVY71q/9Psu9qk5c1VoVtusTOAlRbx61xwxBio/54SbIRda/500SF3fOZs3E9a7YnpAz9hp8yGCQ1fPjN2wW5XFP1OkkhMEnYpCoCXJu3W9PyGt9F4s25U4OuVG0Vc8/XPBxxinYVZw2kZjNb0Dc857gwkkIA360cez7DzttQTWvfNm9Nia4JqkM+JBiMx25QJAhfg1NtCXDOPzrHn7Iy4fg0K5cbiVBTs5fMvNc2XAIfElBWiGDyGuoMs7qh/Yv5t2W/AkZPv7UOzHEBp++bCMJ1XkdbsxaroKirSQiQAoZ5EZIPnETwmtSzgHXPu/+l+xbQtPYsByyIZ6IykY6ZSRfExuUqcM+JyaiUJ0YJ0MCfCugLrjIAGim1KpCoZZABOIXf/4h7tplTGz+lPtRyceaZC8uEtI22bdiwrgxTn76skpCiLPOCZLgmLqbqwLAd4rgSMke8+VCdC1LTBgnlTB06HL7kCByywmcvSTG6vxJ33mSiouoKYVDtCU2Ey4FiztVNuBT1WqBT9lFkKXai0PMUavKLaUhYBClBJNS89KLi82EWcDYZC2/p4Ay/bcDzJ34Al+Ic2cA3yX4MX1qwCeBVlEMIUzFlgAGEymPibj0qQEm7EItRzGE5C5CpqAvErJhuSnRhFSIdRRDSEmI9SE7H226bhISzWIIITFDMvEltlwkZCpUx42eKIoKABLNQMaeIzUHA8UQIoNAcvbxVft7cobWlDwaEm6Wk0MVQ4hgzIFx1Z+mQnGEjAWq1DsFVhb+t4SU2upaJCE42NBWn1Dk7ITJiSIJYTLMRAhhZS6YSvEloEhCKPSpk2ACm80ns6YWxUHIbErMTFpHRTYmeRsSRRJiSszU2T4BRJC36NJO1k8PgDrYJq0js54JcaCZCn5h1g7d3iPdauOFDp6neix5C7mG/r0QBClj9wS44CREvaGhsd5UW03ABKnzFZCxFziIaAJk69rEJBK+qRRNcRLCxRKNNNO1N1spHXK9hw1qCTuGDAGJoKlThe/DpJUQCveaLFQfVefYq7o1hCkt/jqkhmWCWsJufMbDs+8R/9IXOb3vMzO05ORq0khFsA9BujjQHkyJb++rDdKzZApznylO19bb9PW9dhoZsmgM74NpCR6QJo0hV335wEnI3U2DHP2opgGTyZxYTcFv2HqWfMigpVUWA4VINu81teNwHbIUbyo4CZFlBRxN9/tx26mnDkysNLmWpT3TwlH8mE6az9oLF0lyT3rkhdlDU4buB7bB22S99xmbFVJILdFJTIEuhAzOY1pn4rPWr6/zHkLpUda1n14q6Y4cG1F5SIrjc5GBidQHwTTXrofBNqABrmsVJ2+avCJ4gJQYgUPDnkeavdETQ3XJl4qmjd9gJkxL2AjBfVfC9i3J43UCA73jRbL9mG5GNDMWoxJi8gUCExmYK9P79+/5nY9BRRvRpp2L9hlHAgPTmhP8S0xyDIm2vEpf3KNjXEIs0nb3tlmKTY1zoauhIEWVfjTRNPeNQJjC5pgVvGhvbOTZm6m7Fm42g3PZbxMW6lS2OQ5bLclEiGsOw2ceBS0w9V3xmFlE/X6JuoZcX6IjSUO4eQ4Grq/bz9YmisTabtb0GRfxEOsqOApsfVd8Xl0RJSDUD1lrnoJkk4VU+lRLbTbVFloilSb/4ZLUxSZKk7BccCOgkZp70WtlaHcRhPT1QeWoZQ1RO0r5zpilzJCvvofzxybMSftl5YBtWhZNMK1JD23z7BtM03l1uEygvpoMNDv/RC6InXyCymWCuCG9tIFfCWlOiO3T1WFrwG42SNBqfbIgVq2M+2rNaITEqLBplg97HrK70CpDeydwEYs2UJTUNUmtjANXACMYjRCTtANX4mV6XqI6X3NgIiSme6XPlxJlEqGRt9hCbyHIhdEIQdpNGerakTcgTabcgsksn8ZmUwjrI6Um+Gi4RHl98/0ujEYIg8Bg6BKCtLuqqrymJ2vNbnU9JXLb7GJM+HopkEDposfhm4TChVGdOoNxJsZnGcLSLoF8xnRTVFN3LDmQraIsSw5cMEVlMdES98O1cfCdCJ5p/kXHqIQgNfvnz06dYndtjrpZmP/EXGeSbaNk3Tw3fuTYVKAvgRUidaSG/vgfDtmyqpjiIoNr2tisbxtAbkbdYFMFtSaftlAaIVzasdpsG6JrVTP3knGiyuZLBaPnIbaNzRgM11IwBgUTZQovfeCa7nW1FuUumRQT9grEtupSInuOuHYXanb2eb29e4QP0C7TQJBbuL7r0sXxaliCSTJ1bhITYTI1mLMmnn9gbsyT3SMaZ/+ia7A2gXkW2w7XTcFw6Y6AfPfazYnJSie2LkLwZrOz6P75rmNSN2USYXHoxT1gc8SQbWop1fFsov3rJyNEGgxc2zGp24bLnu47F7cHW2pENgKIwtab7F5vYTKh2Yjs6XT7tkxaXJQuQn1TNBOEHDDE9rOASCxk59UhMHm1VzYA87HpQ0F2ny5hN6PJCRGIn3CtEckJ2cd9yI7+GBRDiECIwe5j8219xTGQBjuIKHFJNIgmhAGTH1NZKL1PuaD2FRNB6T//EIPYDWHGRDAh67fbewkCWdiTss9UH3JsbibZeMmkeBPCgECELX4fKqN1VW6Xm5VPptk8nlN35RbsbZq0S1yjDpyESDsN0m8jImVCvw82MujF9el+b6rL97Z3TwWE2SWsljLBSYirKgl8ByYG+m9xAOpcaGLI+WT3VLUqID2/qau/pMs9Z9gc5dRdNaJc0H+LQ84ZA9mafOfzjuCmu32ZtjBHthmXNZj0saWa7iBCxiAC6L/FAVLXkjdFycPtMnszoAmE6GsVsSjSFRNrDnsJGTt2l5K4CkoarLlIWXcBdPPEQEJ+rFQ35vDV9jpJfG3MrxIJnIQM6SNsME1ecZMh/bkhODhM69BESJsfKXhwNhWI+ZECJyFTlBXUn6kbCwzmOjHPOdpMgqmFT7QGbdHXTbpQVOmErH+K7WIJiWP36lXR+NePzk4HqwnpuqcMVBQhU2413rdA1BeiCSZSfO6vKEJCO9Wznjtj2UdI0bsXfVbmFkXIVL8dAlIjOB3yM1G+P3UkKIqQKTHEln+YQKoBhMW+3z8TooAwNXfRUaoEvg3YRRHyd2azURIwYc32JLfdE25FEfJfB3kKZZVbjspAb/l9Rl70JdpJ5fcZ+QEhf9THhWpGEYCQVX3crWaUgDcQsqyP3WrWkhKwgJA1/9THd9WMKcGmryfi1FebJx5Xs6ZMAcb+iH/UKIsnTquWlGvVjDHwS33s18eJPPEP+IM6q1z8prcAAAAASUVORK5CYII=",
+      "attributes": {
+        "strength": 10,
+        "dexterity": 10,
+        "constitution": 10,
+        "intelligence": 10,
+        "wisdom": 10,
+        "charisma": 10
+      },
+      "backstory": "",
+      "selectedLevelMode": "native",
+      "selectedCustomLevel": 1,
+      "selectedSpawnPoint": "Hạ tầng chợ vách Cảng Hoàn Uyên · Bờ biển ngoại vi",
+      "class": "Học giả Chiếu Minh Thuật",
+      "selectedBaseClass": "Nghề tùy chỉnh",
+      "customClassName": "Học giả Chiếu Minh Thuật",
+      "customClassStyle": "Pháp sư, thuộc tính cốt lõi là Trí lực, yếu tố lõi của nghề là chuẩn tắc Đăng, Chiếu Minh thuật và ánh sáng.\nKỹ năng có rất nhiều năng lực buff và debuff, cơ chế khá nhiều, sát thương đầu trận tương đối thấp.",
+      "customClassWeapon": "Vũ khí môi giới phép thuật",
+      "customClassCombatStyle": "Đầu ra ma pháp",
+      "skillTree": {
+        "基础": [
+          {
+            "名称": "Lưu Ly và Quang Rèn",
+            "类型": "Chủ động",
+            "描述": "Nghệ kỹ của chuẩn tắc Đăng. Ánh sáng vạch trần, ánh sáng gây mù. Phóng ra một ngọn thương sáng chứa đầy ma lực lưu ly, gây sát thương và làm mù kẻ địch. Lấy điểm rơi của thương sáng làm tâm điểm để dựng nên một kết giới lưu ly đầy tinh thể thủy tinh sắc bén bao trùm chiến trường, hạn chế hành động của kẻ địch.",
+            "特殊效果": {
+              "1": "Mục tiêu thực hiện 【miễn trừ Thể chất】, nếu thất bại thì rơi vào [Mù] 1 lượt. Tại điểm rơi triển khai kết giới lưu ly, mọi kẻ địch thực hiện 【miễn trừ Thể chất】, nếu thất bại thì rơi vào [Tàn phế] (không thể di chuyển) 1 lượt.",
+              "2": "Mục tiêu thực hiện 【miễn trừ Thể chất】, nếu thất bại thì rơi vào [Mù] 1 lượt. Tại điểm rơi triển khai kết giới lưu ly, mọi kẻ địch thực hiện 【miễn trừ Thể chất】, nếu thất bại thì rơi vào [Tàn phế] (không thể di chuyển) 1 lượt.",
+              "3": "Mục tiêu thực hiện 【miễn trừ Thể chất】, nếu thất bại thì rơi vào [Mù] 2 lượt. Tại điểm rơi triển khai kết giới lưu ly, mọi kẻ địch thực hiện 【miễn trừ Thể chất】, nếu thất bại thì rơi vào [Tàn phế] (không thể di chuyển) 1 lượt.",
+              "4": "Mục tiêu thực hiện 【miễn trừ Thể chất】, nếu thất bại thì rơi vào [Mù] 2 lượt. Tại điểm rơi triển khai kết giới lưu ly, mọi kẻ địch thực hiện 【miễn trừ Thể chất】, nếu thất bại thì rơi vào [Tàn phế] (không thể di chuyển) 1 lượt.",
+              "5": "Mục tiêu rơi vào [Mù] 1 lượt. Tại điểm rơi triển khai kết giới lưu ly, mọi kẻ địch thực hiện 【miễn trừ Thể chất】, nếu thất bại thì rơi vào [Tàn phế] (không thể di chuyển) 1 lượt.",
+              "6": "Mục tiêu rơi vào [Mù] 1 lượt. Tại điểm rơi triển khai kết giới lưu ly, mọi kẻ địch thực hiện 【miễn trừ Thể chất】, nếu thất bại thì rơi vào [Tàn phế] (không thể di chuyển) 1 lượt.",
+              "7": "Mục tiêu rơi vào [Mù] 2 lượt. Tại điểm rơi triển khai kết giới lưu ly, mọi kẻ địch thực hiện 【miễn trừ Thể chất】, nếu thất bại thì rơi vào [Tàn phế] (không thể di chuyển) 2 lượt.",
+              "8": "Mục tiêu rơi vào [Mù] 2 lượt. Tại điểm rơi triển khai kết giới lưu ly, mọi kẻ địch thực hiện 【miễn trừ Thể chất】, nếu thất bại thì rơi vào [Tàn phế] (không thể di chuyển) 2 lượt.",
+              "9": "Mục tiêu rơi vào [Mù] 3 lượt. Tại điểm rơi triển khai kết giới lưu ly, mọi kẻ địch thực hiện 【miễn trừ Thể chất】, nếu thất bại thì rơi vào [Tàn phế] (không thể di chuyển) 3 lượt.",
+              "10": "Mục tiêu rơi vào [Mù] 3 lượt. Tại điểm rơi triển khai kết giới lưu ly, mọi kẻ địch thực hiện 【miễn trừ Thể chất】, nếu thất bại thì rơi vào [Tàn phế] (không thể di chuyển) 3 lượt.",
+              "11": "Mục tiêu rơi vào [Mù] 3 lượt. Tại điểm rơi triển khai kết giới lưu ly, mọi kẻ địch thực hiện 【miễn trừ Thể chất】, nếu thất bại thì rơi vào [Tàn phế] (không thể di chuyển) 3 lượt.",
+              "12": "Mục tiêu rơi vào [Mù] 3 lượt. Tại điểm rơi triển khai kết giới lưu ly, mọi kẻ địch thực hiện 【miễn trừ Thể chất】, nếu thất bại thì rơi vào [Tàn phế] (không thể di chuyển) 3 lượt.",
+              "13": "Mục tiêu rơi vào [Mù] 3 lượt. Tại điểm rơi triển khai kết giới lưu ly, mọi kẻ địch thực hiện 【miễn trừ Thể chất】, nếu thất bại thì rơi vào [Tàn phế] (không thể di chuyển) 3 lượt.",
+              "14": "Mục tiêu rơi vào [Mù] 3 lượt. Tại điểm rơi triển khai kết giới lưu ly, mọi kẻ địch thực hiện 【miễn trừ Thể chất】, nếu thất bại thì rơi vào [Tàn phế] (không thể di chuyển) 3 lượt.",
+              "15": "Mục tiêu rơi vào [Mù] 3 lượt. Tại điểm rơi triển khai kết giới lưu ly, mọi kẻ địch thực hiện 【miễn trừ Thể chất】, nếu thất bại thì rơi vào [Tàn phế] (không thể di chuyển) 3 lượt."
+            },
+            "阶位": "Cơ bản"
+          },
+          {
+            "名称": "Tĩnh Quán Cực Quang",
+            "类型": "Đặc biệt",
+            "描述": "Nghệ kỹ bói toán của chuẩn tắc Đăng. Thấy tương lai trong quá khứ. Quan sát hành động và quỹ tích tương lai của kẻ địch, tăng khả năng trúng đích và né tránh, giành lấy tầm nhìn cùng ưu thế trong chiến đấu.",
+            "特殊效果": {
+              "1": "Kiểm định trúng đích được và có lợi thế, kéo dài 2 lượt.",
+              "2": "Kiểm định trúng đích +1 và có lợi thế, kéo dài 2 lượt.",
+              "3": "Kiểm định trúng đích +2 và có lợi thế, kéo dài 2 lượt.",
+              "4": "Kiểm định trúng đích +3 và có lợi thế, kéo dài 2 lượt.",
+              "5": "Kiểm định trúng đích +3 và có lợi thế, kéo dài 3 lượt.",
+              "6": "Kiểm định trúng đích +4 và có lợi thế , ngưỡng bạo kích -1, kéo dài 3 lượt.",
+              "7": "Kiểm định trúng đích +4 và có lợi thế , AC+1, ngưỡng bạo kích -1, kéo dài 3 lượt.",
+              "8": "Kiểm định trúng đích +4 và có lợi thế , AC+2, ngưỡng bạo kích -1, kéo dài 3 lượt.",
+              "9": "Kiểm định trúng đích +4 và có lợi thế , AC+3, ngưỡng bạo kích -1, kéo dài 3 lượt.",
+              "10": "Kiểm định trúng đích +5 và có lợi thế , AC+3, ngưỡng bạo kích -1, kéo dài 3 lượt.",
+              "11": "Kiểm định trúng đích +5 và có lợi thế , AC+4, ngưỡng bạo kích -1, kéo dài 3 lượt.",
+              "12": "Kiểm định trúng đích +5 và có lợi thế , AC+4, ngưỡng bạo kích -1, chắc chắn nhìn thấu ảo thuật, kéo dài 3 lượt.",
+              "13": "Kiểm định trúng đích +5 và có lợi thế , AC+4, ngưỡng bạo kích -1, chắc chắn nhìn thấu ảo thuật và ẩn nấp, kéo dài 3 lượt.",
+              "14": "Kiểm định trúng đích +5 và có lợi thế , AC+4, ngưỡng bạo kích -1, chắc chắn nhìn thấu ảo thuật, ẩn nấp và tàng hình, kéo dài 3 lượt.",
+              "15": "Kiểm định trúng đích +5 và có lợi thế , AC+4, ngưỡng bạo kích -2, chắc chắn nhìn thấu ảo thuật, ẩn nấp và tàng hình, kéo dài 3 lượt."
+            },
+            "阶位": "Cơ bản"
+          },
+          {
+            "名称": "Nhịp Luật Khai Môn",
+            "类型": "Đặc biệt",
+            "描述": "Nghệ kỹ của chuẩn tắc Khải. Nhịp điệu vi diệu mở ra muôn đường. Xé toạc không gian hiện tại để tự mình dịch chuyển không gian, lặng lẽ không tiếng động, không phá vỡ trạng thái ẩn nấp.",
+            "特殊效果": {
+              "1": "Dịch chuyển tới vị trí chỉ định trong bán kính 100 mét。",
+              "2": "Dịch chuyển tới vị trí chỉ định trong bán kính 100 mét và tiến vào trạng thái tàng hình。",
+              "3": "Dịch chuyển tới vị trí chỉ định trong bán kính 300 mét và tiến vào trạng thái tàng hình。",
+              "4": "Dịch chuyển tới vị trí chỉ định trong bán kính 500 mét và tiến vào trạng thái tàng hình。",
+              "5": "Dịch chuyển tới vị trí chỉ định trong bán kính 800 mét và tiến vào trạng thái tàng hình。",
+              "6": "Dịch chuyển tới vị trí chỉ định trong bán kính 1 kilômét và tiến vào trạng thái tàng hình。",
+              "7": "Dịch chuyển tới vị trí chỉ định trong bán kính 1 kilômét và tiến vào trạng thái tàng hình Có thể mang theo 1 đơn vị đồng minh cùng dịch chuyển.",
+              "8": "Dịch chuyển tới vị trí chỉ định trong bán kính 2 kilômét và tiến vào trạng thái tàng hình Có thể mang theo 1 đơn vị đồng minh cùng dịch chuyển.",
+              "9": "Dịch chuyển tới vị trí chỉ định trong bán kính 3 kilômét và tiến vào trạng thái tàng hình Có thể mang theo 1 đơn vị đồng minh cùng dịch chuyển.",
+              "10": "Dịch chuyển tới vị trí chỉ định trong bán kính 3 kilômét và tiến vào trạng thái tàng hình Có thể mang theo 1 đơn vị (đồng minh hoặc kẻ địch miễn trừ Thể chất thất bại) cùng dịch chuyển.",
+              "11": "Dịch chuyển tới vị trí chỉ định trong bán kính 4 kilômét và tiến vào trạng thái tàng hình Có thể mang theo 1 đơn vị (đồng minh hoặc kẻ địch miễn trừ Thể chất thất bại) cùng dịch chuyển.",
+              "12": "Dịch chuyển tới vị trí chỉ định trong bán kính 4 kilômét và tiến vào trạng thái tàng hình Có thể mang theo 2 đơn vị (đồng minh hoặc kẻ địch miễn trừ Thể chất thất bại) cùng dịch chuyển.",
+              "13": "Dịch chuyển tới vị trí chỉ định trong bán kính 4 kilômét và tiến vào trạng thái tàng hình Có thể mang theo 3 đơn vị (đồng minh hoặc kẻ địch miễn trừ Thể chất thất bại) cùng dịch chuyển.",
+              "14": "Dịch chuyển tới vị trí chỉ định trong bán kính 5 kilômét và tiến vào trạng thái tàng hình Có thể mang theo 3 đơn vị (đồng minh hoặc kẻ địch miễn trừ Thể chất thất bại) cùng dịch chuyển.",
+              "15": "Dịch chuyển tới vị trí chỉ định trong bán kính 5 kilômét và tiến vào trạng thái tàng hình Có thể mang theo 5 đơn vị (đồng minh hoặc kẻ địch miễn trừ Thể chất thất bại) cùng dịch chuyển. Việc dịch chuyển sẽ không bị cắt ngang hay quấy nhiễu."
+            },
+            "阶位": "Cơ bản"
+          },
+          {
+            "名称": "Bí Mật Chiếu Minh",
+            "类型": "Đặc biệt",
+            "描述": "Mật truyền của chuẩn tắc Đăng. Bí mật của huy quang và chuẩn tắc Đăng. Xâm nhập, sửa đổi và thao túng tâm trí cùng linh hồn của mục tiêu. Khi khống chế tinh thần thành công sẽ không phá vỡ trạng thái ẩn nấp.",
+            "特殊效果": {
+              "1": "Tiến hành kiểm định đối kháng Trí lực với mục tiêu. Nếu thành công thì [Khống chế tinh thần] mục tiêu 1 lượt; nếu thất bại thì khiến mục tiêu rơi vào [Hỗn loạn] (không phân địch ta) 1 lượt.",
+              "2": "Tiến hành kiểm định đối kháng Trí lực với mục tiêu. Nếu thành công thì [Khống chế tinh thần] mục tiêu 1 lượt; nếu thất bại thì khiến mục tiêu rơi vào [Hỗn loạn] (không phân địch ta) 1 lượt.",
+              "3": "Tiến hành kiểm định đối kháng Trí lực với mục tiêu. Nếu thành công thì [Khống chế tinh thần] mục tiêu 1 lượt; nếu thất bại thì khiến mục tiêu rơi vào [Hỗn loạn] (không phân địch ta) 1 lượt. Khi đối kháng, kiểm định Trí lực của bản thân nhận thêm +1.",
+              "4": "Tiến hành kiểm định đối kháng Trí lực với mục tiêu. Nếu thành công thì [Khống chế tinh thần] mục tiêu 2 lượt; nếu thất bại thì khiến mục tiêu rơi vào [Hỗn loạn] (không phân địch ta) 1 lượt. Khi đối kháng, kiểm định Trí lực của bản thân nhận thêm +1.",
+              "5": "Tiến hành kiểm định đối kháng Trí lực với mục tiêu. Nếu thành công thì [Khống chế tinh thần] mục tiêu 2 lượt; nếu thất bại thì khiến mục tiêu rơi vào [Hỗn loạn] (không phân địch ta) 1 lượt. Khi đối kháng, kiểm định Trí lực của bản thân nhận thêm +2.",
+              "6": "Tiến hành kiểm định đối kháng Trí lực với mục tiêu. Nếu thành công thì [Khống chế tinh thần] mục tiêu 3 lượt; nếu thất bại thì khiến mục tiêu rơi vào [Hỗn loạn] (không phân địch ta) 1 lượt. Khi đối kháng, kiểm định Trí lực của bản thân nhận thêm +2.",
+              "7": "Tiến hành kiểm định đối kháng Trí lực với mục tiêu. Nếu thành công thì [Khống chế tinh thần] mục tiêu 3 lượt; nếu thất bại thì khiến mục tiêu rơi vào [Hỗn loạn] (không phân địch ta) 1 lượt. Khi đối kháng, kiểm định Trí lực của bản thân nhận thêm +3.",
+              "8": "Tiến hành kiểm định đối kháng Trí lực với mục tiêu. Nếu thành công thì [Khống chế tinh thần] mục tiêu 4 lượt; nếu thất bại thì khiến mục tiêu rơi vào [Hỗn loạn] (không phân địch ta) 1 lượt. Khi đối kháng, kiểm định Trí lực của bản thân nhận thêm +3.",
+              "9": "Tiến hành kiểm định đối kháng Trí lực với mục tiêu. Nếu thành công thì [Khống chế tinh thần] mục tiêu 5 lượt; nếu thất bại thì khiến mục tiêu rơi vào [Hỗn loạn] (không phân địch ta) 1 lượt. Khi đối kháng, kiểm định Trí lực của bản thân nhận thêm +3.",
+              "10": "Tiến hành kiểm định đối kháng Trí lực với mục tiêu. Nếu thành công thì [Khống chế tinh thần] mục tiêu 5 lượt; nếu thất bại thì khiến mục tiêu rơi vào [Hỗn loạn] (không phân địch ta) 1 lượt. Khi đối kháng, kiểm định Trí lực của bản thân nhận thêm +4.",
+              "11": "Tiến hành kiểm định đối kháng Trí lực với mục tiêu. Nếu thành công thì [Khống chế tinh thần] mục tiêu 5 lượt; nếu thất bại thì khiến mục tiêu rơi vào [Hỗn loạn] (không phân địch ta) 1 lượt. Khi đối kháng, kiểm định Trí lực của bản thân nhận thêm +4. Nếu cùng một mục tiêu bị khống chế thành công liên tiếp hai lần thì sẽ bị [Khống chế tinh thần] vĩnh viễn.",
+              "12": "Tiến hành kiểm định đối kháng Trí lực với mục tiêu. Nếu thành công thì [Khống chế tinh thần] mục tiêu 5 lượt; nếu thất bại thì khiến mục tiêu rơi vào [Hỗn loạn] (không phân địch ta) 1 lượt. Khi đối kháng, kiểm định Trí lực của bản thân nhận thêm +5. Nếu cùng một mục tiêu bị khống chế thành công liên tiếp hai lần thì sẽ bị [Khống chế tinh thần] vĩnh viễn.",
+              "13": "Tiến hành kiểm định đối kháng Trí lực với mục tiêu. Nếu thành công thì [Khống chế tinh thần] mục tiêu 5 lượt; nếu thất bại thì khiến mục tiêu rơi vào [Hỗn loạn] (không phân địch ta) 1 lượt. Khi đối kháng, kiểm định Trí lực của bản thân nhận thêm +5. Nếu cùng một mục tiêu bị khống chế thành công liên tiếp hai lần thì sẽ bị [Khống chế tinh thần] vĩnh viễn và không thể giải trừ.",
+              "14": "Tiến hành kiểm định đối kháng Trí lực với mục tiêu. Nếu thành công thì [Khống chế tinh thần] mục tiêu 6 lượt; nếu thất bại thì khiến mục tiêu rơi vào [Hỗn loạn] (không phân địch ta) 1 lượt. Khi đối kháng, kiểm định Trí lực của bản thân nhận thêm +5. Nếu cùng một mục tiêu bị khống chế thành công liên tiếp hai lần thì sẽ bị [Khống chế tinh thần] vĩnh viễn và không thể giải trừ.",
+              "15": "Tiến hành kiểm định đối kháng Trí lực với mục tiêu. Nếu thành công thì [Khống chế tinh thần] mục tiêu 6 lượt; nếu thất bại thì khiến mục tiêu rơi vào [Hỗn loạn] (không phân địch ta) 1 lượt. Khi đối kháng, kiểm định Trí lực của bản thân nhận thêm +5. Nếu cùng một mục tiêu bị khống chế thành công liên tiếp hai lần thì sẽ bị [Khống chế tinh thần] vĩnh viễn và không thể giải trừ. Có thể thử khống chế cả mục tiêu miễn nhiễm khống chế tinh thần."
+            },
+            "阶位": "Cơ bản"
+          }
+        ],
+        "转职": [
+          {
+            "名称": "Tinh Luyện và Thăng Cử",
+            "类型": "Đặc biệt nghề nghiệp",
+            "描述": "Nghệ kỹ của chuẩn tắc Đăng. Ánh sáng tinh luyện; ánh sáng thăng cử. Sau khi thấu hiểu sâu hơn nguồn gốc ma lực, dùng ánh sáng để tinh lọc sức phá hoại, lột bỏ lớp vỏ vật chất để đánh thẳng vào linh hồn và đặt lên đó dấu ấn huy quang. Kỹ năng bị động.",
+            "特殊效果": {
+              "1": "Trong toàn bộ sát thương gây ra có 15% được chuyển thành sát thương chuẩn nhắm thẳng vào linh hồn. Mọi đòn tấn công khi đánh trúng đều sẽ gắn cho mục tiêu 1 tầng [Dấu ấn huy quang], tối đa 5 tầng và kéo dài suốt trận chiến. Hiệu ứng tiêu cực được áp đặt sẽ bỏ qua miễn nhiễm và kháng tính."
+            },
+            "阶位": "Chuyển nghề"
+          },
+          {
+            "名称": "Thể Phù Hỏa Ấn",
+            "类型": "Chủ động",
+            "描述": "Nghệ kỹ của chuẩn tắc Rèn. Nguồn sáng, màu sắc, cùng vụ nổ như luyện ngục. Pháp thuật công kích diện rộng, cấu tạo phù văn bùng nổ bằng Thể Phù Hỏa Ấn rồi trút mưa sao băng lửa xuống kẻ địch. Gây thêm sát thương lên kẻ địch đã bị đánh dấu.",
+            "特殊效果": {
+              "1": "Gây 1 lần sát thương kỹ năng lên toàn bộ kẻ địch. Mỗi 1 tầng [Dấu ấn huy quang] trên kẻ địch khiến chúng phải chịu thêm 1 lần sát thương kỹ năng. Sau khi tấn công không tiêu hao dấu ấn.",
+              "2": "Gây 1 lần sát thương kỹ năng lên toàn bộ kẻ địch. Mỗi 1 tầng [Dấu ấn huy quang] trên kẻ địch khiến chúng phải chịu thêm 1 lần sát thương kỹ năng. Sau khi tấn công không tiêu hao dấu ấn.",
+              "3": "Gây 1 lần sát thương kỹ năng lên toàn bộ kẻ địch. Mỗi 1 tầng [Dấu ấn huy quang] trên kẻ địch khiến chúng phải chịu thêm 1 lần sát thương kỹ năng. Sau khi tấn công không tiêu hao dấu ấn.",
+              "4": "Gây 1 lần sát thương kỹ năng lên toàn bộ kẻ địch. Mỗi 1 tầng [Dấu ấn huy quang] trên kẻ địch khiến chúng phải chịu thêm 1 lần sát thương kỹ năng. Sau khi tấn công không tiêu hao dấu ấn.",
+              "5": "Gây 1 lần sát thương kỹ năng lên toàn bộ kẻ địch. Mỗi 1 tầng [Dấu ấn huy quang] trên kẻ địch khiến chúng phải chịu thêm 1 lần sát thương kỹ năng. Sau khi tấn công không tiêu hao dấu ấn.",
+              "6": "Gây 1 lần sát thương kỹ năng lên toàn bộ kẻ địch. Mỗi 1 tầng [Dấu ấn huy quang] trên kẻ địch khiến chúng phải chịu thêm 1 lần sát thương kỹ năng. Sau khi tấn công không tiêu hao dấu ấn.",
+              "7": "Gây 1 lần sát thương kỹ năng lên toàn bộ kẻ địch. Mỗi 1 tầng [Dấu ấn huy quang] trên kẻ địch khiến chúng phải chịu thêm 1 lần sát thương kỹ năng. Sau khi tấn công không tiêu hao dấu ấn.",
+              "8": "Gây 1 lần sát thương kỹ năng lên toàn bộ kẻ địch. Mỗi 1 tầng [Dấu ấn huy quang] trên kẻ địch khiến chúng phải chịu thêm 1 lần sát thương kỹ năng. Sau khi tấn công không tiêu hao dấu ấn.",
+              "9": "Gây 1 lần sát thương kỹ năng lên toàn bộ kẻ địch. Mỗi 1 tầng [Dấu ấn huy quang] trên kẻ địch khiến chúng phải chịu thêm 1 lần sát thương kỹ năng. Sau khi tấn công không tiêu hao dấu ấn.",
+              "10": "Gây 1 lần sát thương kỹ năng lên toàn bộ kẻ địch. Mỗi 1 tầng [Dấu ấn huy quang] trên kẻ địch khiến chúng phải chịu thêm 1 lần sát thương kỹ năng. Sau khi tấn công không tiêu hao dấu ấn.",
+              "11": "Gây 1 lần sát thương kỹ năng lên toàn bộ kẻ địch. Mỗi 1 tầng [Dấu ấn huy quang] trên kẻ địch khiến chúng phải chịu thêm 1 lần sát thương kỹ năng. Sau khi tấn công không tiêu hao dấu ấn.",
+              "12": "Gây 1 lần sát thương kỹ năng lên toàn bộ kẻ địch. Mỗi 1 tầng [Dấu ấn huy quang] trên kẻ địch khiến chúng phải chịu thêm 1 lần sát thương kỹ năng. Sau khi tấn công không tiêu hao dấu ấn.",
+              "13": "Gây 1 lần sát thương kỹ năng lên toàn bộ kẻ địch. Mỗi 1 tầng [Dấu ấn huy quang] trên kẻ địch khiến chúng phải chịu thêm 1 lần sát thương kỹ năng. Sau khi tấn công không tiêu hao dấu ấn.",
+              "14": "Gây 1 lần sát thương kỹ năng lên toàn bộ kẻ địch. Mỗi 1 tầng [Dấu ấn huy quang] trên kẻ địch khiến chúng phải chịu thêm 1 lần sát thương kỹ năng. Sau khi tấn công không tiêu hao dấu ấn.",
+              "15": "Gây 1 lần sát thương kỹ năng lên toàn bộ kẻ địch. Mỗi 1 tầng [Dấu ấn huy quang] trên kẻ địch khiến chúng phải chịu thêm 1 lần sát thương kỹ năng. Sau khi tấn công không tiêu hao dấu ấn."
+            },
+            "阶位": "Chuyển nghề"
+          },
+          {
+            "名称": "Giới Luật Búa và Đe",
+            "类型": "Đặc biệt",
+            "描述": "Nghệ kỹ của chuẩn tắc Nhận. Búa và đe vừa rèn nên cánh cửa vừa phá hủy cánh cửa. Kỹ năng bị động, dùng ngọn lửa rèn đúc để tôi luyện linh hồn, tăng sát thương và tăng số lần hành động.",
+            "特殊效果": {
+              "1": "Sát thương cuối cùng tăng 3%。",
+              "2": "Sát thương cuối cùng tăng 4%。",
+              "3": "Sát thương cuối cùng tăng 5%。",
+              "4": "Sát thương cuối cùng tăng 6%。",
+              "5": "Sát thương cuối cùng tăng 7%。",
+              "6": "Sát thương cuối cùng tăng 7%, mỗi lượt nhận thêm 1 hành động độc lập.",
+              "7": "Sát thương cuối cùng tăng 8%, mỗi lượt nhận thêm 1 hành động độc lập.",
+              "8": "Sát thương cuối cùng tăng 9%, mỗi lượt nhận thêm 1 hành động độc lập.",
+              "9": "Sát thương cuối cùng tăng 10%, mỗi lượt nhận thêm 1 hành động độc lập.",
+              "10": "Sát thương cuối cùng tăng 11%, mỗi lượt nhận thêm 1 hành động độc lập.",
+              "11": "Sát thương cuối cùng tăng 11%, mỗi lượt nhận thêm 2 hành động độc lập.",
+              "12": "Sát thương cuối cùng tăng 12%, mỗi lượt nhận thêm 2 hành động độc lập.",
+              "13": "Sát thương cuối cùng tăng 13%, mỗi lượt nhận thêm 2 hành động độc lập.",
+              "14": "Sát thương cuối cùng tăng 14%, mỗi lượt nhận thêm 2 hành động độc lập.",
+              "15": "Sát thương cuối cùng tăng 15%, mỗi lượt nhận thêm 2 hành động độc lập."
+            },
+            "阶位": "Chuyển nghề"
+          }
+        ],
+        "进阶": [
+          {
+            "名称": "Biến Chuyển và Giải Phóng",
+            "类型": "Đặc biệt",
+            "描述": "Nghệ kỹ của chuẩn tắc Rèn. Mỗi lần biến đổi đều là một lần giải phóng. Kỹ năng bị động có thể bật hoặc tắt. Đòn tấn công kèm ô nhiễm ma lực lưu ly, có thể tự động kích nổ dấu ấn huy quang khi đạt đủ tầng; nếu mục tiêu miễn trừ thất bại sẽ bị tinh thể thủy tinh đâm xuyên từ trong ra ngoài, gây sát thương theo phần trăm sinh mệnh.",
+            "特殊效果": {
+              "1": "Khi [Dấu ấn huy quang] của kẻ địch đạt tối đa 5 tầng thì toàn bộ tầng sẽ bị xóa sạch, mục tiêu thực hiện kiểm định Thể chất DC 15; nếu miễn trừ thất bại thì phải chịu thêm sát thương ma pháp bằng 10% giới hạn sinh mệnh của bản thân.",
+              "2": "Khi [Dấu ấn huy quang] của kẻ địch đạt tối đa 5 tầng thì toàn bộ tầng sẽ bị xóa sạch, mục tiêu thực hiện kiểm định Thể chất DC 15; nếu miễn trừ thất bại thì phải chịu thêm sát thương ma pháp bằng 12% giới hạn sinh mệnh của bản thân.",
+              "3": "Khi [Dấu ấn huy quang] của kẻ địch đạt tối đa 5 tầng thì toàn bộ tầng sẽ bị xóa sạch, mục tiêu thực hiện kiểm định Thể chất DC 15; nếu miễn trừ thất bại thì phải chịu thêm sát thương ma pháp bằng 14% giới hạn sinh mệnh của bản thân.",
+              "4": "Khi [Dấu ấn huy quang] của kẻ địch đạt tối đa 5 tầng thì toàn bộ tầng sẽ bị xóa sạch, mục tiêu thực hiện kiểm định Thể chất DC 15; nếu miễn trừ thất bại thì phải chịu thêm sát thương ma pháp bằng 16% giới hạn sinh mệnh của bản thân.",
+              "5": "Khi [Dấu ấn huy quang] của kẻ địch đạt tối đa 5 tầng thì toàn bộ tầng sẽ bị xóa sạch, mục tiêu thực hiện kiểm định Thể chất DC 20; nếu miễn trừ thất bại thì phải chịu thêm sát thương ma pháp bằng 18% giới hạn sinh mệnh của bản thân.",
+              "6": "Khi [Dấu ấn huy quang] của kẻ địch đạt tối đa 5 tầng thì toàn bộ tầng sẽ bị xóa sạch, mục tiêu thực hiện kiểm định Thể chất DC 20; nếu miễn trừ thất bại thì phải chịu thêm sát thương ma pháp bằng 20% giới hạn sinh mệnh của bản thân.",
+              "7": "Khi [Dấu ấn huy quang] của kẻ địch đạt tối đa 5 tầng thì toàn bộ tầng sẽ bị xóa sạch, mục tiêu thực hiện kiểm định Thể chất DC 20; nếu miễn trừ thất bại thì phải chịu thêm sát thương ma pháp bằng 22% giới hạn sinh mệnh của bản thân.",
+              "8": "Khi [Dấu ấn huy quang] của kẻ địch đạt tối đa 5 tầng thì toàn bộ tầng sẽ bị xóa sạch, mục tiêu thực hiện kiểm định Thể chất DC 20; nếu miễn trừ thất bại thì phải chịu thêm sát thương ma pháp bằng 25% giới hạn sinh mệnh của bản thân.",
+              "9": "Khi [Dấu ấn huy quang] của kẻ địch đạt tối đa 5 tầng thì toàn bộ tầng sẽ bị xóa sạch, mục tiêu thực hiện kiểm định Thể chất DC 20; nếu miễn trừ thất bại thì phải chịu thêm sát thương ma pháp bằng 27% giới hạn sinh mệnh của bản thân.",
+              "10": "Khi [Dấu ấn huy quang] của kẻ địch đạt tối đa 5 tầng thì toàn bộ tầng sẽ bị xóa sạch, mục tiêu thực hiện kiểm định Thể chất DC 25; nếu miễn trừ thất bại thì phải chịu thêm sát thương ma pháp bằng 30% giới hạn sinh mệnh của bản thân."
+            },
+            "阶位": "Nâng cao"
+          },
+          {
+            "名称": "Giới Luật Vết Sẹo",
+            "类型": "Đặc biệt",
+            "描述": "Nghệ kỹ của chuẩn tắc Nhận. Vết sẹo vừa là trí tuệ vừa là hối hận. Kỹ năng bị động, tạo nên một lá chắn pháp thuật thích nghi với đòn tấn công của kẻ địch, giới hạn trần sát thương phải chịu trong một vòng, tăng mạnh khả năng sinh tồn.",
+            "特殊效果": {
+              "1": "Nhận một lá chắn sinh mệnh tạm thời bằng 30% giới hạn sinh mệnh của bản thân. Khi lá chắn còn tồn tại, tổng sát thương bản thân phải chịu trong mỗi lượt chiến đấu sẽ không vượt quá 40% giới hạn sinh mệnh của bản thân。",
+              "2": "Nhận một lá chắn sinh mệnh tạm thời bằng 40% giới hạn sinh mệnh của bản thân. Khi lá chắn còn tồn tại, tổng sát thương bản thân phải chịu trong mỗi lượt chiến đấu sẽ không vượt quá 37% giới hạn sinh mệnh của bản thân。",
+              "3": "Nhận một lá chắn sinh mệnh tạm thời bằng 50% giới hạn sinh mệnh của bản thân. Khi lá chắn còn tồn tại, tổng sát thương bản thân phải chịu trong mỗi lượt chiến đấu sẽ không vượt quá 34% giới hạn sinh mệnh của bản thân。",
+              "4": "Nhận một lá chắn sinh mệnh tạm thời bằng 60% giới hạn sinh mệnh của bản thân. Khi lá chắn còn tồn tại, tổng sát thương bản thân phải chịu trong mỗi lượt chiến đấu sẽ không vượt quá 31% giới hạn sinh mệnh của bản thân。",
+              "5": "Nhận một lá chắn sinh mệnh tạm thời bằng 70% giới hạn sinh mệnh của bản thân. Khi lá chắn còn tồn tại, tổng sát thương bản thân phải chịu trong mỗi lượt chiến đấu sẽ không vượt quá 28% giới hạn sinh mệnh của bản thân。",
+              "6": "Nhận một lá chắn sinh mệnh tạm thời bằng 80% giới hạn sinh mệnh của bản thân. Khi lá chắn còn tồn tại, tổng sát thương bản thân phải chịu trong mỗi lượt chiến đấu sẽ không vượt quá 25% giới hạn sinh mệnh của bản thân。",
+              "7": "Nhận một lá chắn sinh mệnh tạm thời bằng 90% giới hạn sinh mệnh của bản thân. Khi lá chắn còn tồn tại, tổng sát thương bản thân phải chịu trong mỗi lượt chiến đấu sẽ không vượt quá 22% giới hạn sinh mệnh của bản thân。",
+              "8": "Nhận một lá chắn sinh mệnh tạm thời bằng 100% giới hạn sinh mệnh của bản thân. Khi lá chắn còn tồn tại, tổng sát thương bản thân phải chịu trong mỗi lượt chiến đấu sẽ không vượt quá 20% giới hạn sinh mệnh của bản thân。",
+              "9": "Nhận một lá chắn sinh mệnh tạm thời bằng 120% giới hạn sinh mệnh của bản thân. Khi lá chắn còn tồn tại, tổng sát thương bản thân phải chịu trong mỗi lượt chiến đấu sẽ không vượt quá 20% giới hạn sinh mệnh của bản thân。",
+              "10": "Nhận một lá chắn sinh mệnh tạm thời bằng 120% giới hạn sinh mệnh của bản thân. Khi lá chắn còn tồn tại, tổng sát thương bản thân phải chịu trong mỗi lượt chiến đấu sẽ không vượt quá 20% giới hạn sinh mệnh của bản thân, đồng thời bản thân không bị ảnh hưởng bởi hiệu ứng tiêu cực."
+            },
+            "阶位": "Nâng cao"
+          },
+          {
+            "名称": "Mực Khải Thị",
+            "类型": "Đặc biệt",
+            "描述": "Nghệ kỹ của chuẩn tắc Đăng. Chư sử được vạch trần nhờ thứ mực này. Dùng chuẩn tắc Đăng để thấu suốt vận mệnh, giúp mục tiêu của kỹ năng trong thời gian ngắn nhận được khải thị toàn tri, nhìn thấu mọi khả năng.",
+            "特殊效果": {
+              "1": "Mục tiêu nhận trạng thái [Khải thị] trong 1 lượt. Mọi loại kiểm định của mục tiêu nhận lợi thế và có lợi thế。",
+              "2": "Mục tiêu nhận trạng thái [Khải thị] trong 1 lượt. Mọi loại kiểm định của mục tiêu nhận +1 và có lợi thế。",
+              "3": "Mục tiêu nhận trạng thái [Khải thị] trong 1 lượt. Mọi loại kiểm định của mục tiêu nhận +2 và có lợi thế。",
+              "4": "Mục tiêu nhận trạng thái [Khải thị] trong 1 lượt. Mọi loại kiểm định của mục tiêu nhận +3 và có lợi thế。",
+              "5": "Mục tiêu nhận trạng thái [Khải thị] trong 1 lượt. Mọi loại kiểm định của mục tiêu nhận +4 và có lợi thế。",
+              "6": "Mục tiêu nhận trạng thái [Khải thị] trong 2 lượt. Mọi loại kiểm định của mục tiêu nhận +4 và có lợi thế。",
+              "7": "Mục tiêu nhận trạng thái [Khải thị] trong 2 lượt. Mọi loại kiểm định của mục tiêu nhận +5 và có lợi thế。",
+              "8": "Mục tiêu nhận trạng thái [Khải thị] trong 2 lượt. Mọi loại kiểm định của mục tiêu nhận +5 và có lợi thế. Mục tiêu hồi lại lượng sinh mệnh bằng 30% giới hạn sinh mệnh.",
+              "9": "Mục tiêu nhận trạng thái [Khải thị] trong 2 lượt. Mọi loại kiểm định của mục tiêu nhận +5 và có lợi thế. Mục tiêu hồi lại lượng sinh mệnh bằng 30% giới hạn sinh mệnh và loại bỏ toàn bộ hiệu ứng tiêu cực.",
+              "10": "Mục tiêu nhận trạng thái [Khải thị] trong 2 lượt. Mọi loại kiểm định của mục tiêu nhận +5 và có lợi thế. Mục tiêu hồi lại lượng sinh mệnh bằng 30% giới hạn sinh mệnh, loại bỏ toàn bộ hiệu ứng tiêu cực, và mọi kiểm định sát thương khi tấn công trong chiến đấu đều lấy giá trị tối đa."
+            },
+            "阶位": "Nâng cao"
+          }
+        ],
+        "必杀": [
+          {
+            "名称": "Ảnh Ngược Lưỡi Trăng",
+            "类型": "Chủ động",
+            "描述": "Nghệ kỹ của chuẩn tắc Rèn. \"Thanh tẩy phần ngoài, xóa bỏ phần trong.\" Pháp thuật công kích, triệu hồi bóng lưỡi trăng phủ lên chiến trường, tiến hành một cuộc phán quyết tức tử với mọi kẻ địch có dấu ấn huy quang.",
+            "特殊效果": {
+              "1": "Mọi kẻ địch đang có [Dấu ấn huy quang] thực hiện kiểm định Thể chất DC 14; mục tiêu miễn trừ thất bại sẽ chết ngay lập tức.",
+              "2": "Mọi kẻ địch đang có [Dấu ấn huy quang] thực hiện kiểm định Thể chất DC 15; mục tiêu miễn trừ thất bại sẽ chết ngay lập tức.",
+              "3": "Mọi kẻ địch đang có [Dấu ấn huy quang] thực hiện kiểm định Thể chất DC 16; mục tiêu miễn trừ thất bại sẽ chết ngay lập tức.",
+              "4": "Mọi kẻ địch đang có [Dấu ấn huy quang] thực hiện kiểm định Thể chất DC 17; mục tiêu miễn trừ thất bại sẽ chết ngay lập tức.",
+              "5": "Mọi kẻ địch đang có [Dấu ấn huy quang] thực hiện kiểm định Thể chất DC 18; mục tiêu miễn trừ thất bại sẽ chết ngay lập tức.",
+              "6": "Mọi kẻ địch đang có [Dấu ấn huy quang] thực hiện kiểm định Thể chất DC 19; mục tiêu miễn trừ thất bại sẽ chết ngay lập tức.",
+              "7": "Mọi kẻ địch đang có [Dấu ấn huy quang] thực hiện kiểm định Thể chất DC 20; mục tiêu miễn trừ thất bại sẽ chết ngay lập tức."
+            },
+            "阶位": "Tất sát"
+          },
+          {
+            "名称": "Nghịch Lý Người Gác Đêm",
+            "类型": "Đặc biệt",
+            "描述": "Nghệ kỹ của chuẩn tắc Đăng. Bẻ cong hiện thực thành ảnh ngược của Mansus, triển khai một lĩnh vực phủ trùm toàn chiến trường, ghi đè quy tắc của thực tại để biến điều bất khả thành khả thi. Toàn diện suy yếu kẻ địch và bảo vệ đồng minh.",
+            "特殊效果": {
+              "1": "Triển khai [Lĩnh vực nghịch lý], kéo dài 2 lượt. Trong lĩnh vực, toàn bộ kỹ năng của kẻ địch đều mất hiệu lực, mọi hiệu quả trị liệu mà kẻ địch nhận được sẽ chuyển thành lượng sát thương chuẩn tương ứng. Đồng minh trong khu vực khi hấp hối sẽ bị cưỡng ép khóa máu。",
+              "2": "Triển khai [Lĩnh vực nghịch lý], kéo dài 3 lượt. Trong lĩnh vực, toàn bộ kỹ năng của kẻ địch đều mất hiệu lực, mọi hiệu quả trị liệu mà kẻ địch nhận được sẽ chuyển thành lượng sát thương chuẩn tương ứng. Đồng minh trong khu vực khi hấp hối sẽ bị cưỡng ép khóa máu。",
+              "3": "Triển khai [Lĩnh vực nghịch lý], kéo dài 3 lượt. Trong lĩnh vực, toàn bộ kỹ năng của kẻ địch và đặc tính đều mất hiệu lực, mọi hiệu quả trị liệu mà kẻ địch nhận được sẽ chuyển thành lượng sát thương chuẩn tương ứng. Đồng minh trong khu vực khi hấp hối sẽ bị cưỡng ép khóa máu。",
+              "4": "Triển khai [Lĩnh vực nghịch lý], kéo dài 3 lượt. Trong lĩnh vực, toàn bộ kỹ năng của kẻ địch , đặc tính và hiệu ứng tăng ích đều mất hiệu lực, mọi hiệu quả trị liệu mà kẻ địch nhận được sẽ chuyển thành lượng sát thương chuẩn tương ứng. Đồng minh trong khu vực khi hấp hối sẽ bị cưỡng ép khóa máu。",
+              "5": "Triển khai [Lĩnh vực nghịch lý], kéo dài 4 lượt. Trong lĩnh vực, toàn bộ kỹ năng của kẻ địch , đặc tính và hiệu ứng tăng ích đều mất hiệu lực, mọi hiệu quả trị liệu mà kẻ địch nhận được sẽ chuyển thành lượng sát thương chuẩn tương ứng. Đồng minh trong khu vực khi hấp hối sẽ bị cưỡng ép khóa máu。",
+              "6": "Triển khai [Lĩnh vực nghịch lý], kéo dài 5 lượt. Trong lĩnh vực, toàn bộ kỹ năng của kẻ địch , đặc tính và hiệu ứng tăng ích đều mất hiệu lực, mọi hiệu quả trị liệu mà kẻ địch nhận được sẽ chuyển thành lượng sát thương chuẩn tương ứng. Đồng minh trong khu vực khi hấp hối sẽ bị cưỡng ép khóa máu。",
+              "7": "Triển khai [Lĩnh vực nghịch lý], kéo dài 5 lượt. Trong lĩnh vực, toàn bộ kỹ năng của kẻ địch , đặc tính và hiệu ứng tăng ích đều mất hiệu lực, mọi hiệu quả trị liệu mà kẻ địch nhận được sẽ chuyển thành lượng sát thương chuẩn tương ứng. Đồng minh trong khu vực khi hấp hối sẽ bị cưỡng ép khóa máu. Mỗi trận chiến 1 lần, có thể sửa 1 kết quả kiểm định thành thành công hoặc thất bại."
+            },
+            "阶位": "Tất sát"
+          },
+          {
+            "名称": "Sắc Lệnh Toái Quang",
+            "类型": "Chủ động",
+            "描述": "Nhân danh sắc lệnh, cưỡng ép bóc tách ánh sáng khỏi thế giới vật chất, nén nguyên tố quang có độ tinh khiết cực cao thành một kỳ điểm chói lòa rồi kích nổ trên phạm vi lớn. Gây thêm sát thương lên kẻ địch đã bị đánh dấu.",
+            "特殊效果": {
+              "1": "Gây 1 lần sát thương kỹ năng lên toàn bộ kẻ địch. Mỗi 1 tầng [Dấu ấn huy quang] trên kẻ địch khiến chúng phải chịu thêm 1 lần công kích kỹ năng. Sau khi tấn công không tiêu hao dấu ấn.",
+              "2": "Gây 1 lần sát thương kỹ năng lên toàn bộ kẻ địch. Mỗi 1 tầng [Dấu ấn huy quang] trên kẻ địch khiến chúng phải chịu thêm 1 lần công kích kỹ năng. Sau khi tấn công không tiêu hao dấu ấn.",
+              "3": "Gây 1 lần sát thương kỹ năng lên toàn bộ kẻ địch. Mỗi 1 tầng [Dấu ấn huy quang] trên kẻ địch khiến chúng phải chịu thêm 2 lần công kích kỹ năng. Sau khi tấn công không tiêu hao dấu ấn.",
+              "4": "Gây 1 lần sát thương kỹ năng lên toàn bộ kẻ địch. Mỗi 1 tầng [Dấu ấn huy quang] trên kẻ địch khiến chúng phải chịu thêm 2 lần công kích kỹ năng. Sau khi tấn công không tiêu hao dấu ấn.",
+              "5": "Gây 1 lần sát thương kỹ năng lên toàn bộ kẻ địch. Mỗi 1 tầng [Dấu ấn huy quang] trên kẻ địch khiến chúng phải chịu thêm 3 lần công kích kỹ năng. Sau khi tấn công không tiêu hao dấu ấn.",
+              "6": "Gây 1 lần sát thương kỹ năng lên toàn bộ kẻ địch. Mỗi 1 tầng [Dấu ấn huy quang] trên kẻ địch khiến chúng phải chịu thêm 3 lần công kích kỹ năng. Sau khi tấn công không tiêu hao dấu ấn.",
+              "7": "Gây 1 lần sát thương kỹ năng lên toàn bộ kẻ địch. Mỗi 1 tầng [Dấu ấn huy quang] trên kẻ địch khiến chúng phải chịu thêm 4 lần công kích kỹ năng. Sau khi tấn công không tiêu hao dấu ấn."
+            },
+            "阶位": "Tất sát"
+          }
+        ],
+        "奥义": [
+          {
+            "名称": "Sắc Lệnh Võ Lực",
+            "类型": "Đặc biệt",
+            "描述": "Nghệ kỹ của chuẩn tắc Nhận. Giới luật của đối kháng và xung đột là động cơ thúc đẩy vũ trụ biến đổi. Kỹ năng bị động, mỗi lần giết chết kẻ địch sẽ khiến ngươi hiểu sâu hơn về tranh chấp và vĩnh viễn nhận được sức mạnh lớn hơn.",
+            "特殊效果": {
+              "1": "Mỗi khi giết 1 kẻ địch, nhận 1 tầng [Sắc lệnh], mỗi tầng làm tăng 1% sát thương cuối cùng. Mọi pháp tắc và phán định đều có quyền ưu tiên.",
+              "2": "Mỗi khi giết 1 kẻ địch, nhận 1 tầng [Sắc lệnh], mỗi tầng làm tăng 1.5% sát thương cuối cùng. Mọi pháp tắc và phán định đều có quyền ưu tiên.",
+              "3": "Mỗi khi giết 1 kẻ địch, nhận 1 tầng [Sắc lệnh], mỗi tầng làm tăng 2% sát thương cuối cùng. Mọi pháp tắc và phán định đều có quyền ưu tiên.",
+              "4": "Mỗi khi giết 1 kẻ địch, nhận 1 tầng [Sắc lệnh], mỗi tầng làm tăng 2.5% sát thương cuối cùng. Mọi pháp tắc và phán định đều có quyền ưu tiên.",
+              "5": "Mỗi khi giết 1 kẻ địch, nhận 1 tầng [Sắc lệnh], mỗi tầng làm tăng 3% sát thương cuối cùng. Mọi pháp tắc và phán định đều có quyền ưu tiên."
+            },
+            "阶位": "Áo nghĩa"
+          },
+          {
+            "名称": "Dệt Pháp Tắc",
+            "类型": "Đặc biệt",
+            "描述": "Tạm thời viết lại pháp tắc của hiện thực trên chiến trường, tạo ra môi trường chiến đấu có lợi cho phe mình, như khu vực sụp co hiện thực, dải làm chậm thời gian, v.v. Đây là một kỹ năng cải tạo sân bãi cấp chiến lược.",
+            "特殊效果": {
+              "1": "Chọn 1 loại pháp tắc để dệt, tạo ra một [Lĩnh vực pháp tắc] kéo dài 3 lượt: [Hiện thực sụp co] (kẻ địch trong khu vực nhận toàn bộ miễn trừ thuộc tính -2), [Làm chậm thời gian] (kẻ địch trong khu vực mỗi 2 lượt chỉ có thể thực hiện 1 hành động), [Tử vực trục linh] (20% sát thương của bản thân và đồng minh trong khu vực chuyển thành sát thương chuẩn).",
+              "2": "Chọn 1 loại pháp tắc để dệt, tạo ra một [Lĩnh vực pháp tắc] kéo dài 3 lượt: [Hiện thực sụp co] (kẻ địch trong khu vực nhận toàn bộ miễn trừ thuộc tính -3), [Làm chậm thời gian] (kẻ địch trong khu vực mỗi 2 lượt chỉ có thể thực hiện 1 hành động), [Tử vực trục linh] (30% sát thương của bản thân và đồng minh trong khu vực chuyển thành sát thương chuẩn).",
+              "3": "Chọn 1 loại pháp tắc để dệt, tạo ra một [Lĩnh vực pháp tắc] kéo dài 3 lượt: [Hiện thực sụp co] (kẻ địch trong khu vực nhận toàn bộ miễn trừ thuộc tính -4), [Làm chậm thời gian] (kẻ địch trong khu vực mỗi 2 lượt chỉ có thể thực hiện 1 hành động), [Tử vực trục linh] (40% sát thương của bản thân và đồng minh trong khu vực chuyển thành sát thương chuẩn).",
+              "4": "Chọn 1 loại pháp tắc để dệt, tạo ra một [Lĩnh vực pháp tắc] kéo dài 3 lượt: [Hiện thực sụp co] (kẻ địch trong khu vực nhận toàn bộ miễn trừ thuộc tính -5), [Làm chậm thời gian] (kẻ địch trong khu vực mỗi 3 lượt chỉ có thể thực hiện 1 hành động), [Tử vực trục linh] (50% sát thương của bản thân và đồng minh trong khu vực chuyển thành sát thương chuẩn).",
+              "5": "Chọn 2 loại pháp tắc để dệt, tạo ra một [Lĩnh vực pháp tắc] kéo dài 3 lượt: [Hiện thực sụp co] (kẻ địch trong khu vực nhận toàn bộ miễn trừ thuộc tính -5), [Làm chậm thời gian] (kẻ địch trong khu vực mỗi 3 lượt chỉ có thể thực hiện 1 hành động), [Tử vực trục linh] (50% sát thương của bản thân và đồng minh trong khu vực chuyển thành sát thương chuẩn)."
+            },
+            "阶位": "Áo nghĩa"
+          },
+          {
+            "名称": "Cắt Xẻ Cực Quang",
+            "类型": "Chủ động",
+            "描述": "Nén nguyên tố ánh sáng tới cực hạn thành một tia sáng không mang chút nhiệt độ nào rồi bắn đi, xé rách đồng thời không gian, thân thể, linh hồn và cả khái niệm của kẻ địch. Gây thêm sát thương theo phần trăm sinh mệnh của địch và hành quyết mục tiêu thấp máu.",
+            "特殊效果": {
+              "1": "Kẻ địch bị trúng đòn phải chịu thêm sát thương chuẩn bằng 10% giới hạn sinh mệnh của bản thân. Nếu tại thời điểm trúng đòn, sinh mệnh hiện tại của mục tiêu thấp hơn 20% thì trực tiếp tức tử.",
+              "2": "Kẻ địch bị trúng đòn phải chịu thêm sát thương chuẩn bằng 13% giới hạn sinh mệnh của bản thân. Nếu tại thời điểm trúng đòn, sinh mệnh hiện tại của mục tiêu thấp hơn 20% thì trực tiếp tức tử.",
+              "3": "Kẻ địch bị trúng đòn phải chịu thêm sát thương chuẩn bằng 15% giới hạn sinh mệnh của bản thân. Nếu tại thời điểm trúng đòn, sinh mệnh hiện tại của mục tiêu thấp hơn 20% thì trực tiếp tức tử.",
+              "4": "Kẻ địch bị trúng đòn phải chịu thêm sát thương chuẩn bằng 17% giới hạn sinh mệnh của bản thân. Nếu tại thời điểm trúng đòn, sinh mệnh hiện tại của mục tiêu thấp hơn 20% thì trực tiếp tức tử.",
+              "5": "Kẻ địch bị trúng đòn phải chịu thêm sát thương chuẩn bằng 20% giới hạn sinh mệnh của bản thân. Nếu tại thời điểm trúng đòn, sinh mệnh hiện tại của mục tiêu thấp hơn 20% thì trực tiếp tức tử."
+            },
+            "阶位": "Áo nghĩa"
+          }
+        ],
+        "觉醒一": [
+          {
+            "名称": "Huy Quang Diệt Tận",
+            "类型": "Chủ động",
+            "阶位": "Thức tỉnh một",
+            "描述": "Hội tụ sức mạnh của huy quang, bắn ra một pháo quang thúc hủy diệt đủ sức xuyên thủng cả lớp vỏ địa tầng.",
+            "特殊效果": {
+              "1": "Gây thêm sát thương chuẩn bằng 20% giới hạn sinh mệnh lên mọi mục tiêu. Sau khi trúng đòn sẽ cưỡng ép chồng đầy 5 tầng [Dấu ấn huy quang] lên toàn bộ kẻ địch còn sống.",
+              "2": "Gây thêm sát thương chuẩn bằng 25% giới hạn sinh mệnh lên mọi mục tiêu. Sau khi trúng đòn sẽ cưỡng ép chồng đầy 5 tầng [Dấu ấn huy quang] lên toàn bộ kẻ địch còn sống.",
+              "3": "Gây thêm sát thương chuẩn bằng 30% giới hạn sinh mệnh lên mọi mục tiêu. Sau khi trúng đòn sẽ cưỡng ép chồng đầy 5 tầng [Dấu ấn huy quang] lên toàn bộ kẻ địch còn sống."
+            }
+          }
+        ],
+        "觉醒二": [
+          {
+            "名称": "Cánh Cửa Mansus",
+            "类型": "Chủ động",
+            "阶位": "Thức tỉnh hai",
+            "描述": "Mở ra cánh cửa dẫn tới Mansus, tạm thời kéo một phần hiện thực vào lĩnh vực bất khả để tự do sửa đổi hiện thực. Bên trong lĩnh vực có thể thao túng ánh sáng và bóng tối, dệt nên nghịch lý, khiến hiệu quả của 【Nghịch Lý Người Gác Đêm】 được thăng hoa tới cực hạn.",
+            "特殊效果": {
+              "1": "Trong 3 lượt có thể sửa đổi không giới hạn toàn bộ kết quả kiểm định. Mọi pháp tắc và phán định đều có quyền ưu tiên tuyệt đối. Có thể sửa đổi hiện thực một cách vĩnh viễn ở mức độ nhỏ."
+            }
+          }
+        ],
+        "觉醒三": [
+          {
+            "名称": "Bí Sử Thứ Sáu",
+            "类型": "Chủ động",
+            "阶位": "Thức tỉnh ba",
+            "描述": "Áo nghĩa tối thượng. Dệt nên bí sử, tạo ra một dòng thời gian không tồn tại, cưỡng ép ghi đè lịch sử hiện thực, thay đổi quá khứ để xóa bỏ kẻ địch triệt để khỏi dòng thời gian.",
+            "特殊效果": {
+              "1": "Khi thi triển sẽ sửa đổi dòng thời gian hiện tại. Toàn bộ kẻ địch không phải cấp huyền thoại sẽ tức tử trực tiếp. Kẻ địch cấp huyền thoại thực hiện miễn trừ Thể chất DC35, nếu thất bại thì chết triệt để và bị xóa bỏ; nếu thành công thì vĩnh viễn mất 60% giới hạn sinh mệnh cùng lượng sinh mệnh tương ứng. Có thể sửa đổi hiện thực một cách vĩnh viễn ở mức độ trung bình."
+            }
+          }
+        ]
+      },
+      "skillTreeForClass": "Học giả Chiếu Minh Thuật",
+      "lockedSkillMap": {
+        "Học giả Chiếu Minh Thuật": {
+          "基础": {
+            "Lưu Ly và Quang Rèn": {
+              "名称": "Lưu Ly và Quang Rèn",
+              "类型": "Chủ động",
+              "描述": "Nghệ kỹ của chuẩn tắc Đăng. Ánh sáng vạch trần, ánh sáng gây mù. Phóng ra một ngọn thương sáng chứa đầy ma lực lưu ly, gây sát thương và làm mù kẻ địch. Lấy điểm rơi của thương sáng làm tâm điểm để dựng nên một kết giới lưu ly đầy tinh thể thủy tinh sắc bén bao trùm chiến trường, hạn chế hành động của kẻ địch.",
+              "特殊效果": {
+                "1": "Mục tiêu thực hiện 【miễn trừ Thể chất】, nếu thất bại thì rơi vào [Mù] 1 lượt. Tại điểm rơi triển khai kết giới lưu ly, mọi kẻ địch thực hiện 【miễn trừ Thể chất】, nếu thất bại thì rơi vào [Tàn phế] (không thể di chuyển) 1 lượt.",
+                "2": "Mục tiêu thực hiện 【miễn trừ Thể chất】, nếu thất bại thì rơi vào [Mù] 1 lượt. Tại điểm rơi triển khai kết giới lưu ly, mọi kẻ địch thực hiện 【miễn trừ Thể chất】, nếu thất bại thì rơi vào [Tàn phế] (không thể di chuyển) 1 lượt.",
+                "3": "Mục tiêu thực hiện 【miễn trừ Thể chất】, nếu thất bại thì rơi vào [Mù] 2 lượt. Tại điểm rơi triển khai kết giới lưu ly, mọi kẻ địch thực hiện 【miễn trừ Thể chất】, nếu thất bại thì rơi vào [Tàn phế] (không thể di chuyển) 1 lượt.",
+                "4": "Mục tiêu thực hiện 【miễn trừ Thể chất】, nếu thất bại thì rơi vào [Mù] 2 lượt. Tại điểm rơi triển khai kết giới lưu ly, mọi kẻ địch thực hiện 【miễn trừ Thể chất】, nếu thất bại thì rơi vào [Tàn phế] (không thể di chuyển) 1 lượt.",
+                "5": "Mục tiêu rơi vào [Mù] 1 lượt. Tại điểm rơi triển khai kết giới lưu ly, mọi kẻ địch thực hiện 【miễn trừ Thể chất】, nếu thất bại thì rơi vào [Tàn phế] (không thể di chuyển) 1 lượt.",
+                "6": "Mục tiêu rơi vào [Mù] 1 lượt. Tại điểm rơi triển khai kết giới lưu ly, mọi kẻ địch thực hiện 【miễn trừ Thể chất】, nếu thất bại thì rơi vào [Tàn phế] (không thể di chuyển) 1 lượt.",
+                "7": "Mục tiêu rơi vào [Mù] 2 lượt. Tại điểm rơi triển khai kết giới lưu ly, mọi kẻ địch thực hiện 【miễn trừ Thể chất】, nếu thất bại thì rơi vào [Tàn phế] (không thể di chuyển) 2 lượt.",
+                "8": "Mục tiêu rơi vào [Mù] 2 lượt. Tại điểm rơi triển khai kết giới lưu ly, mọi kẻ địch thực hiện 【miễn trừ Thể chất】, nếu thất bại thì rơi vào [Tàn phế] (không thể di chuyển) 2 lượt.",
+                "9": "Mục tiêu rơi vào [Mù] 3 lượt. Tại điểm rơi triển khai kết giới lưu ly, mọi kẻ địch thực hiện 【miễn trừ Thể chất】, nếu thất bại thì rơi vào [Tàn phế] (không thể di chuyển) 3 lượt.",
+                "10": "Mục tiêu rơi vào [Mù] 3 lượt. Tại điểm rơi triển khai kết giới lưu ly, mọi kẻ địch thực hiện 【miễn trừ Thể chất】, nếu thất bại thì rơi vào [Tàn phế] (không thể di chuyển) 3 lượt.",
+                "11": "Mục tiêu rơi vào [Mù] 3 lượt. Tại điểm rơi triển khai kết giới lưu ly, mọi kẻ địch thực hiện 【miễn trừ Thể chất】, nếu thất bại thì rơi vào [Tàn phế] (không thể di chuyển) 3 lượt.",
+                "12": "Mục tiêu rơi vào [Mù] 3 lượt. Tại điểm rơi triển khai kết giới lưu ly, mọi kẻ địch thực hiện 【miễn trừ Thể chất】, nếu thất bại thì rơi vào [Tàn phế] (không thể di chuyển) 3 lượt.",
+                "13": "Mục tiêu rơi vào [Mù] 3 lượt. Tại điểm rơi triển khai kết giới lưu ly, mọi kẻ địch thực hiện 【miễn trừ Thể chất】, nếu thất bại thì rơi vào [Tàn phế] (không thể di chuyển) 3 lượt.",
+                "14": "Mục tiêu rơi vào [Mù] 3 lượt. Tại điểm rơi triển khai kết giới lưu ly, mọi kẻ địch thực hiện 【miễn trừ Thể chất】, nếu thất bại thì rơi vào [Tàn phế] (không thể di chuyển) 3 lượt.",
+                "15": "Mục tiêu rơi vào [Mù] 3 lượt. Tại điểm rơi triển khai kết giới lưu ly, mọi kẻ địch thực hiện 【miễn trừ Thể chất】, nếu thất bại thì rơi vào [Tàn phế] (không thể di chuyển) 3 lượt."
+              },
+              "阶位": "Cơ bản"
+            },
+            "Tĩnh Quán Cực Quang": {
+              "名称": "Tĩnh Quán Cực Quang",
+              "类型": "Đặc biệt",
+              "描述": "Nghệ kỹ bói toán của chuẩn tắc Đăng. Thấy tương lai trong quá khứ. Quan sát hành động và quỹ tích tương lai của kẻ địch, tăng khả năng trúng đích và né tránh, giành lấy tầm nhìn cùng ưu thế trong chiến đấu.",
+              "特殊效果": {
+                "1": "Kiểm định trúng đích được và có lợi thế, kéo dài 2 lượt.",
+                "2": "Kiểm định trúng đích +1 và có lợi thế, kéo dài 2 lượt.",
+                "3": "Kiểm định trúng đích +2 và có lợi thế, kéo dài 2 lượt.",
+                "4": "Kiểm định trúng đích +3 và có lợi thế, kéo dài 2 lượt.",
+                "5": "Kiểm định trúng đích +3 và có lợi thế, kéo dài 3 lượt.",
+                "6": "Kiểm định trúng đích +4 và có lợi thế , ngưỡng bạo kích -1, kéo dài 3 lượt.",
+                "7": "Kiểm định trúng đích +4 và có lợi thế , AC+1, ngưỡng bạo kích -1, kéo dài 3 lượt.",
+                "8": "Kiểm định trúng đích +4 và có lợi thế , AC+2, ngưỡng bạo kích -1, kéo dài 3 lượt.",
+                "9": "Kiểm định trúng đích +4 và có lợi thế , AC+3, ngưỡng bạo kích -1, kéo dài 3 lượt.",
+                "10": "Kiểm định trúng đích +5 và có lợi thế , AC+3, ngưỡng bạo kích -1, kéo dài 3 lượt.",
+                "11": "Kiểm định trúng đích +5 và có lợi thế , AC+4, ngưỡng bạo kích -1, kéo dài 3 lượt.",
+                "12": "Kiểm định trúng đích +5 và có lợi thế , AC+4, ngưỡng bạo kích -1, chắc chắn nhìn thấu ảo thuật, kéo dài 3 lượt.",
+                "13": "Kiểm định trúng đích +5 và có lợi thế , AC+4, ngưỡng bạo kích -1, chắc chắn nhìn thấu ảo thuật và ẩn nấp, kéo dài 3 lượt.",
+                "14": "Kiểm định trúng đích +5 và có lợi thế , AC+4, ngưỡng bạo kích -1, chắc chắn nhìn thấu ảo thuật, ẩn nấp và tàng hình, kéo dài 3 lượt.",
+                "15": "Kiểm định trúng đích +5 và có lợi thế , AC+4, ngưỡng bạo kích -2, chắc chắn nhìn thấu ảo thuật, ẩn nấp và tàng hình, kéo dài 3 lượt."
+              },
+              "阶位": "Cơ bản"
+            },
+            "Nhịp Luật Khai Môn": {
+              "名称": "Nhịp Luật Khai Môn",
+              "类型": "Đặc biệt",
+              "描述": "Nghệ kỹ của chuẩn tắc Khải. Nhịp điệu vi diệu mở ra muôn đường. Xé toạc không gian hiện tại để tự mình dịch chuyển không gian, lặng lẽ không tiếng động, không phá vỡ trạng thái ẩn nấp.",
+              "特殊效果": {
+                "1": "Dịch chuyển tới vị trí chỉ định trong bán kính 100 mét。",
+                "2": "Dịch chuyển tới vị trí chỉ định trong bán kính 100 mét và tiến vào trạng thái tàng hình。",
+                "3": "Dịch chuyển tới vị trí chỉ định trong bán kính 300 mét và tiến vào trạng thái tàng hình。",
+                "4": "Dịch chuyển tới vị trí chỉ định trong bán kính 500 mét và tiến vào trạng thái tàng hình。",
+                "5": "Dịch chuyển tới vị trí chỉ định trong bán kính 800 mét và tiến vào trạng thái tàng hình。",
+                "6": "Dịch chuyển tới vị trí chỉ định trong bán kính 1 kilômét và tiến vào trạng thái tàng hình。",
+                "7": "Dịch chuyển tới vị trí chỉ định trong bán kính 1 kilômét và tiến vào trạng thái tàng hình Có thể mang theo 1 đơn vị đồng minh cùng dịch chuyển.",
+                "8": "Dịch chuyển tới vị trí chỉ định trong bán kính 2 kilômét và tiến vào trạng thái tàng hình Có thể mang theo 1 đơn vị đồng minh cùng dịch chuyển.",
+                "9": "Dịch chuyển tới vị trí chỉ định trong bán kính 3 kilômét và tiến vào trạng thái tàng hình Có thể mang theo 1 đơn vị đồng minh cùng dịch chuyển.",
+                "10": "Dịch chuyển tới vị trí chỉ định trong bán kính 3 kilômét và tiến vào trạng thái tàng hình Có thể mang theo 1 đơn vị (đồng minh hoặc kẻ địch miễn trừ Thể chất thất bại) cùng dịch chuyển.",
+                "11": "Dịch chuyển tới vị trí chỉ định trong bán kính 4 kilômét và tiến vào trạng thái tàng hình Có thể mang theo 1 đơn vị (đồng minh hoặc kẻ địch miễn trừ Thể chất thất bại) cùng dịch chuyển.",
+                "12": "Dịch chuyển tới vị trí chỉ định trong bán kính 4 kilômét và tiến vào trạng thái tàng hình Có thể mang theo 2 đơn vị (đồng minh hoặc kẻ địch miễn trừ Thể chất thất bại) cùng dịch chuyển.",
+                "13": "Dịch chuyển tới vị trí chỉ định trong bán kính 4 kilômét và tiến vào trạng thái tàng hình Có thể mang theo 3 đơn vị (đồng minh hoặc kẻ địch miễn trừ Thể chất thất bại) cùng dịch chuyển.",
+                "14": "Dịch chuyển tới vị trí chỉ định trong bán kính 5 kilômét và tiến vào trạng thái tàng hình Có thể mang theo 3 đơn vị (đồng minh hoặc kẻ địch miễn trừ Thể chất thất bại) cùng dịch chuyển.",
+                "15": "Dịch chuyển tới vị trí chỉ định trong bán kính 5 kilômét và tiến vào trạng thái tàng hình Có thể mang theo 5 đơn vị (đồng minh hoặc kẻ địch miễn trừ Thể chất thất bại) cùng dịch chuyển. Việc dịch chuyển sẽ không bị cắt ngang hay quấy nhiễu."
+              },
+              "阶位": "Cơ bản"
+            },
+            "Bí Mật Chiếu Minh": {
+              "名称": "Bí Mật Chiếu Minh",
+              "类型": "Đặc biệt",
+              "描述": "Mật truyền của chuẩn tắc Đăng. Bí mật của huy quang và chuẩn tắc Đăng. Xâm nhập, sửa đổi và thao túng tâm trí cùng linh hồn của mục tiêu. Khi khống chế tinh thần thành công sẽ không phá vỡ trạng thái ẩn nấp.",
+              "特殊效果": {
+                "1": "Tiến hành kiểm định đối kháng Trí lực với mục tiêu. Nếu thành công thì [Khống chế tinh thần] mục tiêu 1 lượt; nếu thất bại thì khiến mục tiêu rơi vào [Hỗn loạn] (không phân địch ta) 1 lượt.",
+                "2": "Tiến hành kiểm định đối kháng Trí lực với mục tiêu. Nếu thành công thì [Khống chế tinh thần] mục tiêu 1 lượt; nếu thất bại thì khiến mục tiêu rơi vào [Hỗn loạn] (không phân địch ta) 1 lượt.",
+                "3": "Tiến hành kiểm định đối kháng Trí lực với mục tiêu. Nếu thành công thì [Khống chế tinh thần] mục tiêu 1 lượt; nếu thất bại thì khiến mục tiêu rơi vào [Hỗn loạn] (không phân địch ta) 1 lượt. Khi đối kháng, kiểm định Trí lực của bản thân nhận thêm +1.",
+                "4": "Tiến hành kiểm định đối kháng Trí lực với mục tiêu. Nếu thành công thì [Khống chế tinh thần] mục tiêu 2 lượt; nếu thất bại thì khiến mục tiêu rơi vào [Hỗn loạn] (không phân địch ta) 1 lượt. Khi đối kháng, kiểm định Trí lực của bản thân nhận thêm +1.",
+                "5": "Tiến hành kiểm định đối kháng Trí lực với mục tiêu. Nếu thành công thì [Khống chế tinh thần] mục tiêu 2 lượt; nếu thất bại thì khiến mục tiêu rơi vào [Hỗn loạn] (không phân địch ta) 1 lượt. Khi đối kháng, kiểm định Trí lực của bản thân nhận thêm +2.",
+                "6": "Tiến hành kiểm định đối kháng Trí lực với mục tiêu. Nếu thành công thì [Khống chế tinh thần] mục tiêu 3 lượt; nếu thất bại thì khiến mục tiêu rơi vào [Hỗn loạn] (không phân địch ta) 1 lượt. Khi đối kháng, kiểm định Trí lực của bản thân nhận thêm +2.",
+                "7": "Tiến hành kiểm định đối kháng Trí lực với mục tiêu. Nếu thành công thì [Khống chế tinh thần] mục tiêu 3 lượt; nếu thất bại thì khiến mục tiêu rơi vào [Hỗn loạn] (không phân địch ta) 1 lượt. Khi đối kháng, kiểm định Trí lực của bản thân nhận thêm +3.",
+                "8": "Tiến hành kiểm định đối kháng Trí lực với mục tiêu. Nếu thành công thì [Khống chế tinh thần] mục tiêu 4 lượt; nếu thất bại thì khiến mục tiêu rơi vào [Hỗn loạn] (không phân địch ta) 1 lượt. Khi đối kháng, kiểm định Trí lực của bản thân nhận thêm +3.",
+                "9": "Tiến hành kiểm định đối kháng Trí lực với mục tiêu. Nếu thành công thì [Khống chế tinh thần] mục tiêu 5 lượt; nếu thất bại thì khiến mục tiêu rơi vào [Hỗn loạn] (không phân địch ta) 1 lượt. Khi đối kháng, kiểm định Trí lực của bản thân nhận thêm +3.",
+                "10": "Tiến hành kiểm định đối kháng Trí lực với mục tiêu. Nếu thành công thì [Khống chế tinh thần] mục tiêu 5 lượt; nếu thất bại thì khiến mục tiêu rơi vào [Hỗn loạn] (không phân địch ta) 1 lượt. Khi đối kháng, kiểm định Trí lực của bản thân nhận thêm +4.",
+                "11": "Tiến hành kiểm định đối kháng Trí lực với mục tiêu. Nếu thành công thì [Khống chế tinh thần] mục tiêu 5 lượt; nếu thất bại thì khiến mục tiêu rơi vào [Hỗn loạn] (không phân địch ta) 1 lượt. Khi đối kháng, kiểm định Trí lực của bản thân nhận thêm +4. Nếu cùng một mục tiêu bị khống chế thành công liên tiếp hai lần thì sẽ bị [Khống chế tinh thần] vĩnh viễn.",
+                "12": "Tiến hành kiểm định đối kháng Trí lực với mục tiêu. Nếu thành công thì [Khống chế tinh thần] mục tiêu 5 lượt; nếu thất bại thì khiến mục tiêu rơi vào [Hỗn loạn] (không phân địch ta) 1 lượt. Khi đối kháng, kiểm định Trí lực của bản thân nhận thêm +5. Nếu cùng một mục tiêu bị khống chế thành công liên tiếp hai lần thì sẽ bị [Khống chế tinh thần] vĩnh viễn.",
+                "13": "Tiến hành kiểm định đối kháng Trí lực với mục tiêu. Nếu thành công thì [Khống chế tinh thần] mục tiêu 5 lượt; nếu thất bại thì khiến mục tiêu rơi vào [Hỗn loạn] (không phân địch ta) 1 lượt. Khi đối kháng, kiểm định Trí lực của bản thân nhận thêm +5. Nếu cùng một mục tiêu bị khống chế thành công liên tiếp hai lần thì sẽ bị [Khống chế tinh thần] vĩnh viễn và không thể giải trừ.",
+                "14": "Tiến hành kiểm định đối kháng Trí lực với mục tiêu. Nếu thành công thì [Khống chế tinh thần] mục tiêu 6 lượt; nếu thất bại thì khiến mục tiêu rơi vào [Hỗn loạn] (không phân địch ta) 1 lượt. Khi đối kháng, kiểm định Trí lực của bản thân nhận thêm +5. Nếu cùng một mục tiêu bị khống chế thành công liên tiếp hai lần thì sẽ bị [Khống chế tinh thần] vĩnh viễn và không thể giải trừ.",
+                "15": "Tiến hành kiểm định đối kháng Trí lực với mục tiêu. Nếu thành công thì [Khống chế tinh thần] mục tiêu 6 lượt; nếu thất bại thì khiến mục tiêu rơi vào [Hỗn loạn] (không phân địch ta) 1 lượt. Khi đối kháng, kiểm định Trí lực của bản thân nhận thêm +5. Nếu cùng một mục tiêu bị khống chế thành công liên tiếp hai lần thì sẽ bị [Khống chế tinh thần] vĩnh viễn và không thể giải trừ. Có thể thử khống chế cả mục tiêu miễn nhiễm khống chế tinh thần."
+              },
+              "阶位": "Cơ bản"
+            }
+          },
+          "转职": {
+            "Tinh Luyện và Thăng Cử": {
+              "名称": "Tinh Luyện và Thăng Cử",
+              "类型": "Đặc biệt nghề nghiệp",
+              "描述": "Nghệ kỹ của chuẩn tắc Đăng. Ánh sáng tinh luyện; ánh sáng thăng cử. Sau khi thấu hiểu sâu hơn nguồn gốc ma lực, dùng ánh sáng để tinh lọc sức phá hoại, lột bỏ lớp vỏ vật chất để đánh thẳng vào linh hồn và đặt lên đó dấu ấn huy quang. Kỹ năng bị động.",
+              "特殊效果": {
+                "1": "Trong toàn bộ sát thương gây ra có 15% được chuyển thành sát thương chuẩn nhắm thẳng vào linh hồn. Mọi đòn tấn công khi đánh trúng đều sẽ gắn cho mục tiêu 1 tầng [Dấu ấn huy quang], tối đa 5 tầng và kéo dài suốt trận chiến. Hiệu ứng tiêu cực được áp đặt sẽ bỏ qua miễn nhiễm và kháng tính."
+              },
+              "阶位": "Chuyển nghề"
+            },
+            "Thể Phù Hỏa Ấn": {
+              "名称": "Thể Phù Hỏa Ấn",
+              "类型": "Chủ động",
+              "描述": "Nghệ kỹ của chuẩn tắc Rèn. Nguồn sáng, màu sắc, cùng vụ nổ như luyện ngục. Pháp thuật công kích diện rộng, cấu tạo phù văn bùng nổ bằng Thể Phù Hỏa Ấn rồi trút mưa sao băng lửa xuống kẻ địch. Gây thêm sát thương lên kẻ địch đã bị đánh dấu.",
+              "特殊效果": {
+                "1": "Gây 1 lần sát thương kỹ năng lên toàn bộ kẻ địch. Mỗi 1 tầng [Dấu ấn huy quang] trên kẻ địch khiến chúng phải chịu thêm 1 lần sát thương kỹ năng. Sau khi tấn công không tiêu hao dấu ấn.",
+                "2": "Gây 1 lần sát thương kỹ năng lên toàn bộ kẻ địch. Mỗi 1 tầng [Dấu ấn huy quang] trên kẻ địch khiến chúng phải chịu thêm 1 lần sát thương kỹ năng. Sau khi tấn công không tiêu hao dấu ấn.",
+                "3": "Gây 1 lần sát thương kỹ năng lên toàn bộ kẻ địch. Mỗi 1 tầng [Dấu ấn huy quang] trên kẻ địch khiến chúng phải chịu thêm 1 lần sát thương kỹ năng. Sau khi tấn công không tiêu hao dấu ấn.",
+                "4": "Gây 1 lần sát thương kỹ năng lên toàn bộ kẻ địch. Mỗi 1 tầng [Dấu ấn huy quang] trên kẻ địch khiến chúng phải chịu thêm 1 lần sát thương kỹ năng. Sau khi tấn công không tiêu hao dấu ấn.",
+                "5": "Gây 1 lần sát thương kỹ năng lên toàn bộ kẻ địch. Mỗi 1 tầng [Dấu ấn huy quang] trên kẻ địch khiến chúng phải chịu thêm 1 lần sát thương kỹ năng. Sau khi tấn công không tiêu hao dấu ấn.",
+                "6": "Gây 1 lần sát thương kỹ năng lên toàn bộ kẻ địch. Mỗi 1 tầng [Dấu ấn huy quang] trên kẻ địch khiến chúng phải chịu thêm 1 lần sát thương kỹ năng. Sau khi tấn công không tiêu hao dấu ấn.",
+                "7": "Gây 1 lần sát thương kỹ năng lên toàn bộ kẻ địch. Mỗi 1 tầng [Dấu ấn huy quang] trên kẻ địch khiến chúng phải chịu thêm 1 lần sát thương kỹ năng. Sau khi tấn công không tiêu hao dấu ấn.",
+                "8": "Gây 1 lần sát thương kỹ năng lên toàn bộ kẻ địch. Mỗi 1 tầng [Dấu ấn huy quang] trên kẻ địch khiến chúng phải chịu thêm 1 lần sát thương kỹ năng. Sau khi tấn công không tiêu hao dấu ấn.",
+                "9": "Gây 1 lần sát thương kỹ năng lên toàn bộ kẻ địch. Mỗi 1 tầng [Dấu ấn huy quang] trên kẻ địch khiến chúng phải chịu thêm 1 lần sát thương kỹ năng. Sau khi tấn công không tiêu hao dấu ấn.",
+                "10": "Gây 1 lần sát thương kỹ năng lên toàn bộ kẻ địch. Mỗi 1 tầng [Dấu ấn huy quang] trên kẻ địch khiến chúng phải chịu thêm 1 lần sát thương kỹ năng. Sau khi tấn công không tiêu hao dấu ấn.",
+                "11": "Gây 1 lần sát thương kỹ năng lên toàn bộ kẻ địch. Mỗi 1 tầng [Dấu ấn huy quang] trên kẻ địch khiến chúng phải chịu thêm 1 lần sát thương kỹ năng. Sau khi tấn công không tiêu hao dấu ấn.",
+                "12": "Gây 1 lần sát thương kỹ năng lên toàn bộ kẻ địch. Mỗi 1 tầng [Dấu ấn huy quang] trên kẻ địch khiến chúng phải chịu thêm 1 lần sát thương kỹ năng. Sau khi tấn công không tiêu hao dấu ấn.",
+                "13": "Gây 1 lần sát thương kỹ năng lên toàn bộ kẻ địch. Mỗi 1 tầng [Dấu ấn huy quang] trên kẻ địch khiến chúng phải chịu thêm 1 lần sát thương kỹ năng. Sau khi tấn công không tiêu hao dấu ấn.",
+                "14": "Gây 1 lần sát thương kỹ năng lên toàn bộ kẻ địch. Mỗi 1 tầng [Dấu ấn huy quang] trên kẻ địch khiến chúng phải chịu thêm 1 lần sát thương kỹ năng. Sau khi tấn công không tiêu hao dấu ấn.",
+                "15": "Gây 1 lần sát thương kỹ năng lên toàn bộ kẻ địch. Mỗi 1 tầng [Dấu ấn huy quang] trên kẻ địch khiến chúng phải chịu thêm 1 lần sát thương kỹ năng. Sau khi tấn công không tiêu hao dấu ấn."
+              },
+              "阶位": "Chuyển nghề"
+            },
+            "Giới Luật Búa và Đe": {
+              "名称": "Giới Luật Búa và Đe",
+              "类型": "Đặc biệt",
+              "描述": "Nghệ kỹ của chuẩn tắc Nhận. Búa và đe vừa rèn nên cánh cửa vừa phá hủy cánh cửa. Kỹ năng bị động, dùng ngọn lửa rèn đúc để tôi luyện linh hồn, tăng sát thương và tăng số lần hành động.",
+              "特殊效果": {
+                "1": "Sát thương cuối cùng tăng 3%。",
+                "2": "Sát thương cuối cùng tăng 4%。",
+                "3": "Sát thương cuối cùng tăng 5%。",
+                "4": "Sát thương cuối cùng tăng 6%。",
+                "5": "Sát thương cuối cùng tăng 7%。",
+                "6": "Sát thương cuối cùng tăng 7%, mỗi lượt nhận thêm 1 hành động độc lập.",
+                "7": "Sát thương cuối cùng tăng 8%, mỗi lượt nhận thêm 1 hành động độc lập.",
+                "8": "Sát thương cuối cùng tăng 9%, mỗi lượt nhận thêm 1 hành động độc lập.",
+                "9": "Sát thương cuối cùng tăng 10%, mỗi lượt nhận thêm 1 hành động độc lập.",
+                "10": "Sát thương cuối cùng tăng 11%, mỗi lượt nhận thêm 1 hành động độc lập.",
+                "11": "Sát thương cuối cùng tăng 11%, mỗi lượt nhận thêm 2 hành động độc lập.",
+                "12": "Sát thương cuối cùng tăng 12%, mỗi lượt nhận thêm 2 hành động độc lập.",
+                "13": "Sát thương cuối cùng tăng 13%, mỗi lượt nhận thêm 2 hành động độc lập.",
+                "14": "Sát thương cuối cùng tăng 14%, mỗi lượt nhận thêm 2 hành động độc lập.",
+                "15": "Sát thương cuối cùng tăng 15%, mỗi lượt nhận thêm 2 hành động độc lập."
+              },
+              "阶位": "Chuyển nghề"
+            }
+          },
+          "进阶": {
+            "Biến Chuyển và Giải Phóng": {
+              "名称": "Biến Chuyển và Giải Phóng",
+              "类型": "Đặc biệt",
+              "描述": "Nghệ kỹ của chuẩn tắc Rèn. Mỗi lần biến đổi đều là một lần giải phóng. Kỹ năng bị động có thể bật hoặc tắt. Đòn tấn công kèm ô nhiễm ma lực lưu ly, có thể tự động kích nổ dấu ấn huy quang khi đạt đủ tầng; nếu mục tiêu miễn trừ thất bại sẽ bị tinh thể thủy tinh đâm xuyên từ trong ra ngoài, gây sát thương theo phần trăm sinh mệnh.",
+              "特殊效果": {
+                "1": "Khi [Dấu ấn huy quang] của kẻ địch đạt tối đa 5 tầng thì toàn bộ tầng sẽ bị xóa sạch, mục tiêu thực hiện kiểm định Thể chất DC 15; nếu miễn trừ thất bại thì phải chịu thêm sát thương ma pháp bằng 10% giới hạn sinh mệnh của bản thân.",
+                "2": "Khi [Dấu ấn huy quang] của kẻ địch đạt tối đa 5 tầng thì toàn bộ tầng sẽ bị xóa sạch, mục tiêu thực hiện kiểm định Thể chất DC 15; nếu miễn trừ thất bại thì phải chịu thêm sát thương ma pháp bằng 12% giới hạn sinh mệnh của bản thân.",
+                "3": "Khi [Dấu ấn huy quang] của kẻ địch đạt tối đa 5 tầng thì toàn bộ tầng sẽ bị xóa sạch, mục tiêu thực hiện kiểm định Thể chất DC 15; nếu miễn trừ thất bại thì phải chịu thêm sát thương ma pháp bằng 14% giới hạn sinh mệnh của bản thân.",
+                "4": "Khi [Dấu ấn huy quang] của kẻ địch đạt tối đa 5 tầng thì toàn bộ tầng sẽ bị xóa sạch, mục tiêu thực hiện kiểm định Thể chất DC 15; nếu miễn trừ thất bại thì phải chịu thêm sát thương ma pháp bằng 16% giới hạn sinh mệnh của bản thân.",
+                "5": "Khi [Dấu ấn huy quang] của kẻ địch đạt tối đa 5 tầng thì toàn bộ tầng sẽ bị xóa sạch, mục tiêu thực hiện kiểm định Thể chất DC 20; nếu miễn trừ thất bại thì phải chịu thêm sát thương ma pháp bằng 18% giới hạn sinh mệnh của bản thân.",
+                "6": "Khi [Dấu ấn huy quang] của kẻ địch đạt tối đa 5 tầng thì toàn bộ tầng sẽ bị xóa sạch, mục tiêu thực hiện kiểm định Thể chất DC 20; nếu miễn trừ thất bại thì phải chịu thêm sát thương ma pháp bằng 20% giới hạn sinh mệnh của bản thân.",
+                "7": "Khi [Dấu ấn huy quang] của kẻ địch đạt tối đa 5 tầng thì toàn bộ tầng sẽ bị xóa sạch, mục tiêu thực hiện kiểm định Thể chất DC 20; nếu miễn trừ thất bại thì phải chịu thêm sát thương ma pháp bằng 22% giới hạn sinh mệnh của bản thân.",
+                "8": "Khi [Dấu ấn huy quang] của kẻ địch đạt tối đa 5 tầng thì toàn bộ tầng sẽ bị xóa sạch, mục tiêu thực hiện kiểm định Thể chất DC 20; nếu miễn trừ thất bại thì phải chịu thêm sát thương ma pháp bằng 25% giới hạn sinh mệnh của bản thân.",
+                "9": "Khi [Dấu ấn huy quang] của kẻ địch đạt tối đa 5 tầng thì toàn bộ tầng sẽ bị xóa sạch, mục tiêu thực hiện kiểm định Thể chất DC 20; nếu miễn trừ thất bại thì phải chịu thêm sát thương ma pháp bằng 27% giới hạn sinh mệnh của bản thân.",
+                "10": "Khi [Dấu ấn huy quang] của kẻ địch đạt tối đa 5 tầng thì toàn bộ tầng sẽ bị xóa sạch, mục tiêu thực hiện kiểm định Thể chất DC 25; nếu miễn trừ thất bại thì phải chịu thêm sát thương ma pháp bằng 30% giới hạn sinh mệnh của bản thân."
+              },
+              "阶位": "Nâng cao"
+            },
+            "Giới Luật Vết Sẹo": {
+              "名称": "Giới Luật Vết Sẹo",
+              "类型": "Đặc biệt",
+              "描述": "Nghệ kỹ của chuẩn tắc Nhận. Vết sẹo vừa là trí tuệ vừa là hối hận. Kỹ năng bị động, tạo nên một lá chắn pháp thuật thích nghi với đòn tấn công của kẻ địch, giới hạn trần sát thương phải chịu trong một vòng, tăng mạnh khả năng sinh tồn.",
+              "特殊效果": {
+                "1": "Nhận một lá chắn sinh mệnh tạm thời bằng 30% giới hạn sinh mệnh của bản thân. Khi lá chắn còn tồn tại, tổng sát thương bản thân phải chịu trong mỗi lượt chiến đấu sẽ không vượt quá 40% giới hạn sinh mệnh của bản thân。",
+                "2": "Nhận một lá chắn sinh mệnh tạm thời bằng 40% giới hạn sinh mệnh của bản thân. Khi lá chắn còn tồn tại, tổng sát thương bản thân phải chịu trong mỗi lượt chiến đấu sẽ không vượt quá 37% giới hạn sinh mệnh của bản thân。",
+                "3": "Nhận một lá chắn sinh mệnh tạm thời bằng 50% giới hạn sinh mệnh của bản thân. Khi lá chắn còn tồn tại, tổng sát thương bản thân phải chịu trong mỗi lượt chiến đấu sẽ không vượt quá 34% giới hạn sinh mệnh của bản thân。",
+                "4": "Nhận một lá chắn sinh mệnh tạm thời bằng 60% giới hạn sinh mệnh của bản thân. Khi lá chắn còn tồn tại, tổng sát thương bản thân phải chịu trong mỗi lượt chiến đấu sẽ không vượt quá 31% giới hạn sinh mệnh của bản thân。",
+                "5": "Nhận một lá chắn sinh mệnh tạm thời bằng 70% giới hạn sinh mệnh của bản thân. Khi lá chắn còn tồn tại, tổng sát thương bản thân phải chịu trong mỗi lượt chiến đấu sẽ không vượt quá 28% giới hạn sinh mệnh của bản thân。",
+                "6": "Nhận một lá chắn sinh mệnh tạm thời bằng 80% giới hạn sinh mệnh của bản thân. Khi lá chắn còn tồn tại, tổng sát thương bản thân phải chịu trong mỗi lượt chiến đấu sẽ không vượt quá 25% giới hạn sinh mệnh của bản thân。",
+                "7": "Nhận một lá chắn sinh mệnh tạm thời bằng 90% giới hạn sinh mệnh của bản thân. Khi lá chắn còn tồn tại, tổng sát thương bản thân phải chịu trong mỗi lượt chiến đấu sẽ không vượt quá 22% giới hạn sinh mệnh của bản thân。",
+                "8": "Nhận một lá chắn sinh mệnh tạm thời bằng 100% giới hạn sinh mệnh của bản thân. Khi lá chắn còn tồn tại, tổng sát thương bản thân phải chịu trong mỗi lượt chiến đấu sẽ không vượt quá 20% giới hạn sinh mệnh của bản thân。",
+                "9": "Nhận một lá chắn sinh mệnh tạm thời bằng 120% giới hạn sinh mệnh của bản thân. Khi lá chắn còn tồn tại, tổng sát thương bản thân phải chịu trong mỗi lượt chiến đấu sẽ không vượt quá 20% giới hạn sinh mệnh của bản thân。",
+                "10": "Nhận một lá chắn sinh mệnh tạm thời bằng 120% giới hạn sinh mệnh của bản thân. Khi lá chắn còn tồn tại, tổng sát thương bản thân phải chịu trong mỗi lượt chiến đấu sẽ không vượt quá 20% giới hạn sinh mệnh của bản thân, đồng thời bản thân không bị ảnh hưởng bởi hiệu ứng tiêu cực."
+              },
+              "阶位": "Nâng cao"
+            },
+            "Mực Khải Thị": {
+              "名称": "Mực Khải Thị",
+              "类型": "Đặc biệt",
+              "描述": "Nghệ kỹ của chuẩn tắc Đăng. Chư sử được vạch trần nhờ thứ mực này. Dùng chuẩn tắc Đăng để thấu suốt vận mệnh, giúp mục tiêu của kỹ năng trong thời gian ngắn nhận được khải thị toàn tri, nhìn thấu mọi khả năng.",
+              "特殊效果": {
+                "1": "Mục tiêu nhận trạng thái [Khải thị] trong 1 lượt. Mọi loại kiểm định của mục tiêu nhận lợi thế và có lợi thế。",
+                "2": "Mục tiêu nhận trạng thái [Khải thị] trong 1 lượt. Mọi loại kiểm định của mục tiêu nhận +1 và có lợi thế。",
+                "3": "Mục tiêu nhận trạng thái [Khải thị] trong 1 lượt. Mọi loại kiểm định của mục tiêu nhận +2 và có lợi thế。",
+                "4": "Mục tiêu nhận trạng thái [Khải thị] trong 1 lượt. Mọi loại kiểm định của mục tiêu nhận +3 và có lợi thế。",
+                "5": "Mục tiêu nhận trạng thái [Khải thị] trong 1 lượt. Mọi loại kiểm định của mục tiêu nhận +4 và có lợi thế。",
+                "6": "Mục tiêu nhận trạng thái [Khải thị] trong 2 lượt. Mọi loại kiểm định của mục tiêu nhận +4 và có lợi thế。",
+                "7": "Mục tiêu nhận trạng thái [Khải thị] trong 2 lượt. Mọi loại kiểm định của mục tiêu nhận +5 và có lợi thế。",
+                "8": "Mục tiêu nhận trạng thái [Khải thị] trong 2 lượt. Mọi loại kiểm định của mục tiêu nhận +5 và có lợi thế. Mục tiêu hồi lại lượng sinh mệnh bằng 30% giới hạn sinh mệnh.",
+                "9": "Mục tiêu nhận trạng thái [Khải thị] trong 2 lượt. Mọi loại kiểm định của mục tiêu nhận +5 và có lợi thế. Mục tiêu hồi lại lượng sinh mệnh bằng 30% giới hạn sinh mệnh và loại bỏ toàn bộ hiệu ứng tiêu cực.",
+                "10": "Mục tiêu nhận trạng thái [Khải thị] trong 2 lượt. Mọi loại kiểm định của mục tiêu nhận +5 và có lợi thế. Mục tiêu hồi lại lượng sinh mệnh bằng 30% giới hạn sinh mệnh, loại bỏ toàn bộ hiệu ứng tiêu cực, và mọi kiểm định sát thương khi tấn công trong chiến đấu đều lấy giá trị tối đa."
+              },
+              "阶位": "Nâng cao"
+            }
+          },
+          "必杀": {
+            "Ảnh Ngược Lưỡi Trăng": {
+              "名称": "Ảnh Ngược Lưỡi Trăng",
+              "类型": "Chủ động",
+              "描述": "Nghệ kỹ của chuẩn tắc Rèn. \"Thanh tẩy phần ngoài, xóa bỏ phần trong.\" Pháp thuật công kích, triệu hồi bóng lưỡi trăng phủ lên chiến trường, tiến hành một cuộc phán quyết tức tử với mọi kẻ địch có dấu ấn huy quang.",
+              "特殊效果": {
+                "1": "Mọi kẻ địch đang có [Dấu ấn huy quang] thực hiện kiểm định Thể chất DC 14; mục tiêu miễn trừ thất bại sẽ chết ngay lập tức.",
+                "2": "Mọi kẻ địch đang có [Dấu ấn huy quang] thực hiện kiểm định Thể chất DC 15; mục tiêu miễn trừ thất bại sẽ chết ngay lập tức.",
+                "3": "Mọi kẻ địch đang có [Dấu ấn huy quang] thực hiện kiểm định Thể chất DC 16; mục tiêu miễn trừ thất bại sẽ chết ngay lập tức.",
+                "4": "Mọi kẻ địch đang có [Dấu ấn huy quang] thực hiện kiểm định Thể chất DC 17; mục tiêu miễn trừ thất bại sẽ chết ngay lập tức.",
+                "5": "Mọi kẻ địch đang có [Dấu ấn huy quang] thực hiện kiểm định Thể chất DC 18; mục tiêu miễn trừ thất bại sẽ chết ngay lập tức.",
+                "6": "Mọi kẻ địch đang có [Dấu ấn huy quang] thực hiện kiểm định Thể chất DC 19; mục tiêu miễn trừ thất bại sẽ chết ngay lập tức.",
+                "7": "Mọi kẻ địch đang có [Dấu ấn huy quang] thực hiện kiểm định Thể chất DC 20; mục tiêu miễn trừ thất bại sẽ chết ngay lập tức."
+              },
+              "阶位": "Tất sát"
+            },
+            "Nghịch Lý Người Gác Đêm": {
+              "名称": "Nghịch Lý Người Gác Đêm",
+              "类型": "Đặc biệt",
+              "描述": "Nghệ kỹ của chuẩn tắc Đăng. Bẻ cong hiện thực thành ảnh ngược của Mansus, triển khai một lĩnh vực phủ trùm toàn chiến trường, ghi đè quy tắc của thực tại để biến điều bất khả thành khả thi. Toàn diện suy yếu kẻ địch và bảo vệ đồng minh.",
+              "特殊效果": {
+                "1": "Triển khai [Lĩnh vực nghịch lý], kéo dài 2 lượt. Trong lĩnh vực, toàn bộ kỹ năng của kẻ địch đều mất hiệu lực, mọi hiệu quả trị liệu mà kẻ địch nhận được sẽ chuyển thành lượng sát thương chuẩn tương ứng. Đồng minh trong khu vực khi hấp hối sẽ bị cưỡng ép khóa máu。",
+                "2": "Triển khai [Lĩnh vực nghịch lý], kéo dài 3 lượt. Trong lĩnh vực, toàn bộ kỹ năng của kẻ địch đều mất hiệu lực, mọi hiệu quả trị liệu mà kẻ địch nhận được sẽ chuyển thành lượng sát thương chuẩn tương ứng. Đồng minh trong khu vực khi hấp hối sẽ bị cưỡng ép khóa máu。",
+                "3": "Triển khai [Lĩnh vực nghịch lý], kéo dài 3 lượt. Trong lĩnh vực, toàn bộ kỹ năng của kẻ địch và đặc tính đều mất hiệu lực, mọi hiệu quả trị liệu mà kẻ địch nhận được sẽ chuyển thành lượng sát thương chuẩn tương ứng. Đồng minh trong khu vực khi hấp hối sẽ bị cưỡng ép khóa máu。",
+                "4": "Triển khai [Lĩnh vực nghịch lý], kéo dài 3 lượt. Trong lĩnh vực, toàn bộ kỹ năng của kẻ địch , đặc tính và hiệu ứng tăng ích đều mất hiệu lực, mọi hiệu quả trị liệu mà kẻ địch nhận được sẽ chuyển thành lượng sát thương chuẩn tương ứng. Đồng minh trong khu vực khi hấp hối sẽ bị cưỡng ép khóa máu。",
+                "5": "Triển khai [Lĩnh vực nghịch lý], kéo dài 4 lượt. Trong lĩnh vực, toàn bộ kỹ năng của kẻ địch , đặc tính và hiệu ứng tăng ích đều mất hiệu lực, mọi hiệu quả trị liệu mà kẻ địch nhận được sẽ chuyển thành lượng sát thương chuẩn tương ứng. Đồng minh trong khu vực khi hấp hối sẽ bị cưỡng ép khóa máu。",
+                "6": "Triển khai [Lĩnh vực nghịch lý], kéo dài 5 lượt. Trong lĩnh vực, toàn bộ kỹ năng của kẻ địch , đặc tính và hiệu ứng tăng ích đều mất hiệu lực, mọi hiệu quả trị liệu mà kẻ địch nhận được sẽ chuyển thành lượng sát thương chuẩn tương ứng. Đồng minh trong khu vực khi hấp hối sẽ bị cưỡng ép khóa máu。",
+                "7": "Triển khai [Lĩnh vực nghịch lý], kéo dài 5 lượt. Trong lĩnh vực, toàn bộ kỹ năng của kẻ địch , đặc tính và hiệu ứng tăng ích đều mất hiệu lực, mọi hiệu quả trị liệu mà kẻ địch nhận được sẽ chuyển thành lượng sát thương chuẩn tương ứng. Đồng minh trong khu vực khi hấp hối sẽ bị cưỡng ép khóa máu. Mỗi trận chiến 1 lần, có thể sửa 1 kết quả kiểm định thành thành công hoặc thất bại."
+              },
+              "阶位": "Tất sát"
+            },
+            "Sắc Lệnh Toái Quang": {
+              "名称": "Sắc Lệnh Toái Quang",
+              "类型": "Chủ động",
+              "描述": "Nhân danh sắc lệnh, cưỡng ép bóc tách ánh sáng khỏi thế giới vật chất, nén nguyên tố quang có độ tinh khiết cực cao thành một kỳ điểm chói lòa rồi kích nổ trên phạm vi lớn. Gây thêm sát thương lên kẻ địch đã bị đánh dấu.",
+              "特殊效果": {
+                "1": "Gây 1 lần sát thương kỹ năng lên toàn bộ kẻ địch. Mỗi 1 tầng [Dấu ấn huy quang] trên kẻ địch khiến chúng phải chịu thêm 1 lần công kích kỹ năng. Sau khi tấn công không tiêu hao dấu ấn.",
+                "2": "Gây 1 lần sát thương kỹ năng lên toàn bộ kẻ địch. Mỗi 1 tầng [Dấu ấn huy quang] trên kẻ địch khiến chúng phải chịu thêm 1 lần công kích kỹ năng. Sau khi tấn công không tiêu hao dấu ấn.",
+                "3": "Gây 1 lần sát thương kỹ năng lên toàn bộ kẻ địch. Mỗi 1 tầng [Dấu ấn huy quang] trên kẻ địch khiến chúng phải chịu thêm 2 lần công kích kỹ năng. Sau khi tấn công không tiêu hao dấu ấn.",
+                "4": "Gây 1 lần sát thương kỹ năng lên toàn bộ kẻ địch. Mỗi 1 tầng [Dấu ấn huy quang] trên kẻ địch khiến chúng phải chịu thêm 2 lần công kích kỹ năng. Sau khi tấn công không tiêu hao dấu ấn.",
+                "5": "Gây 1 lần sát thương kỹ năng lên toàn bộ kẻ địch. Mỗi 1 tầng [Dấu ấn huy quang] trên kẻ địch khiến chúng phải chịu thêm 3 lần công kích kỹ năng. Sau khi tấn công không tiêu hao dấu ấn.",
+                "6": "Gây 1 lần sát thương kỹ năng lên toàn bộ kẻ địch. Mỗi 1 tầng [Dấu ấn huy quang] trên kẻ địch khiến chúng phải chịu thêm 3 lần công kích kỹ năng. Sau khi tấn công không tiêu hao dấu ấn.",
+                "7": "Gây 1 lần sát thương kỹ năng lên toàn bộ kẻ địch. Mỗi 1 tầng [Dấu ấn huy quang] trên kẻ địch khiến chúng phải chịu thêm 4 lần công kích kỹ năng. Sau khi tấn công không tiêu hao dấu ấn."
+              },
+              "阶位": "Tất sát"
+            }
+          },
+          "奥义": {
+            "Sắc Lệnh Võ Lực": {
+              "名称": "Sắc Lệnh Võ Lực",
+              "类型": "Đặc biệt",
+              "描述": "Nghệ kỹ của chuẩn tắc Nhận. Giới luật của đối kháng và xung đột là động cơ thúc đẩy vũ trụ biến đổi. Kỹ năng bị động, mỗi lần giết chết kẻ địch sẽ khiến ngươi hiểu sâu hơn về tranh chấp và vĩnh viễn nhận được sức mạnh lớn hơn.",
+              "特殊效果": {
+                "1": "Mỗi khi giết 1 kẻ địch, nhận 1 tầng [Sắc lệnh], mỗi tầng làm tăng 1% sát thương cuối cùng. Mọi pháp tắc và phán định đều có quyền ưu tiên.",
+                "2": "Mỗi khi giết 1 kẻ địch, nhận 1 tầng [Sắc lệnh], mỗi tầng làm tăng 1.5% sát thương cuối cùng. Mọi pháp tắc và phán định đều có quyền ưu tiên.",
+                "3": "Mỗi khi giết 1 kẻ địch, nhận 1 tầng [Sắc lệnh], mỗi tầng làm tăng 2% sát thương cuối cùng. Mọi pháp tắc và phán định đều có quyền ưu tiên.",
+                "4": "Mỗi khi giết 1 kẻ địch, nhận 1 tầng [Sắc lệnh], mỗi tầng làm tăng 2.5% sát thương cuối cùng. Mọi pháp tắc và phán định đều có quyền ưu tiên.",
+                "5": "Mỗi khi giết 1 kẻ địch, nhận 1 tầng [Sắc lệnh], mỗi tầng làm tăng 3% sát thương cuối cùng. Mọi pháp tắc và phán định đều có quyền ưu tiên."
+              },
+              "阶位": "Áo nghĩa"
+            },
+            "Dệt Pháp Tắc": {
+              "名称": "Dệt Pháp Tắc",
+              "类型": "Đặc biệt",
+              "描述": "Tạm thời viết lại pháp tắc của hiện thực trên chiến trường, tạo ra môi trường chiến đấu có lợi cho phe mình, như khu vực sụp co hiện thực, dải làm chậm thời gian, v.v. Đây là một kỹ năng cải tạo sân bãi cấp chiến lược.",
+              "特殊效果": {
+                "1": "Chọn 1 loại pháp tắc để dệt, tạo ra một [Lĩnh vực pháp tắc] kéo dài 3 lượt: [Hiện thực sụp co] (kẻ địch trong khu vực nhận toàn bộ miễn trừ thuộc tính -2), [Làm chậm thời gian] (kẻ địch trong khu vực mỗi 2 lượt chỉ có thể thực hiện 1 hành động), [Tử vực trục linh] (20% sát thương của bản thân và đồng minh trong khu vực chuyển thành sát thương chuẩn).",
+                "2": "Chọn 1 loại pháp tắc để dệt, tạo ra một [Lĩnh vực pháp tắc] kéo dài 3 lượt: [Hiện thực sụp co] (kẻ địch trong khu vực nhận toàn bộ miễn trừ thuộc tính -3), [Làm chậm thời gian] (kẻ địch trong khu vực mỗi 2 lượt chỉ có thể thực hiện 1 hành động), [Tử vực trục linh] (30% sát thương của bản thân và đồng minh trong khu vực chuyển thành sát thương chuẩn).",
+                "3": "Chọn 1 loại pháp tắc để dệt, tạo ra một [Lĩnh vực pháp tắc] kéo dài 3 lượt: [Hiện thực sụp co] (kẻ địch trong khu vực nhận toàn bộ miễn trừ thuộc tính -4), [Làm chậm thời gian] (kẻ địch trong khu vực mỗi 2 lượt chỉ có thể thực hiện 1 hành động), [Tử vực trục linh] (40% sát thương của bản thân và đồng minh trong khu vực chuyển thành sát thương chuẩn).",
+                "4": "Chọn 1 loại pháp tắc để dệt, tạo ra một [Lĩnh vực pháp tắc] kéo dài 3 lượt: [Hiện thực sụp co] (kẻ địch trong khu vực nhận toàn bộ miễn trừ thuộc tính -5), [Làm chậm thời gian] (kẻ địch trong khu vực mỗi 3 lượt chỉ có thể thực hiện 1 hành động), [Tử vực trục linh] (50% sát thương của bản thân và đồng minh trong khu vực chuyển thành sát thương chuẩn).",
+                "5": "Chọn 2 loại pháp tắc để dệt, tạo ra một [Lĩnh vực pháp tắc] kéo dài 3 lượt: [Hiện thực sụp co] (kẻ địch trong khu vực nhận toàn bộ miễn trừ thuộc tính -5), [Làm chậm thời gian] (kẻ địch trong khu vực mỗi 3 lượt chỉ có thể thực hiện 1 hành động), [Tử vực trục linh] (50% sát thương của bản thân và đồng minh trong khu vực chuyển thành sát thương chuẩn)."
+              },
+              "阶位": "Áo nghĩa"
+            },
+            "Cắt Xẻ Cực Quang": {
+              "名称": "Cắt Xẻ Cực Quang",
+              "类型": "Chủ động",
+              "描述": "Nén nguyên tố ánh sáng tới cực hạn thành một tia sáng không mang chút nhiệt độ nào rồi bắn đi, xé rách đồng thời không gian, thân thể, linh hồn và cả khái niệm của kẻ địch. Gây thêm sát thương theo phần trăm sinh mệnh của địch và hành quyết mục tiêu thấp máu.",
+              "特殊效果": {
+                "1": "Kẻ địch bị trúng đòn phải chịu thêm sát thương chuẩn bằng 10% giới hạn sinh mệnh của bản thân. Nếu tại thời điểm trúng đòn, sinh mệnh hiện tại của mục tiêu thấp hơn 20% thì trực tiếp tức tử.",
+                "2": "Kẻ địch bị trúng đòn phải chịu thêm sát thương chuẩn bằng 13% giới hạn sinh mệnh của bản thân. Nếu tại thời điểm trúng đòn, sinh mệnh hiện tại của mục tiêu thấp hơn 20% thì trực tiếp tức tử.",
+                "3": "Kẻ địch bị trúng đòn phải chịu thêm sát thương chuẩn bằng 15% giới hạn sinh mệnh của bản thân. Nếu tại thời điểm trúng đòn, sinh mệnh hiện tại của mục tiêu thấp hơn 20% thì trực tiếp tức tử.",
+                "4": "Kẻ địch bị trúng đòn phải chịu thêm sát thương chuẩn bằng 17% giới hạn sinh mệnh của bản thân. Nếu tại thời điểm trúng đòn, sinh mệnh hiện tại của mục tiêu thấp hơn 20% thì trực tiếp tức tử.",
+                "5": "Kẻ địch bị trúng đòn phải chịu thêm sát thương chuẩn bằng 20% giới hạn sinh mệnh của bản thân. Nếu tại thời điểm trúng đòn, sinh mệnh hiện tại của mục tiêu thấp hơn 20% thì trực tiếp tức tử."
+              },
+              "阶位": "Áo nghĩa"
+            }
+          },
+          "觉醒一": {
+            "Huy Quang Diệt Tận": {
+              "名称": "Huy Quang Diệt Tận",
+              "类型": "Chủ động",
+              "阶位": "Thức tỉnh một",
+              "描述": "Hội tụ sức mạnh của huy quang, bắn ra một pháo quang thúc hủy diệt đủ sức xuyên thủng cả lớp vỏ địa tầng.",
+              "特殊效果": {
+                "1": "Gây thêm sát thương chuẩn bằng 20% giới hạn sinh mệnh lên mọi mục tiêu. Sau khi trúng đòn sẽ cưỡng ép chồng đầy 5 tầng [Dấu ấn huy quang] lên toàn bộ kẻ địch còn sống.",
+                "2": "Gây thêm sát thương chuẩn bằng 25% giới hạn sinh mệnh lên mọi mục tiêu. Sau khi trúng đòn sẽ cưỡng ép chồng đầy 5 tầng [Dấu ấn huy quang] lên toàn bộ kẻ địch còn sống.",
+                "3": "Gây thêm sát thương chuẩn bằng 30% giới hạn sinh mệnh lên mọi mục tiêu. Sau khi trúng đòn sẽ cưỡng ép chồng đầy 5 tầng [Dấu ấn huy quang] lên toàn bộ kẻ địch còn sống."
+              }
+            }
+          },
+          "觉醒二": {
+            "Cánh Cửa Mansus": {
+              "名称": "Cánh Cửa Mansus",
+              "类型": "Chủ động",
+              "阶位": "Thức tỉnh hai",
+              "描述": "Mở ra cánh cửa dẫn tới Mansus, tạm thời kéo một phần hiện thực vào lĩnh vực bất khả để tự do sửa đổi hiện thực. Bên trong lĩnh vực có thể thao túng ánh sáng và bóng tối, dệt nên nghịch lý, khiến hiệu quả của 【Nghịch Lý Người Gác Đêm】 được thăng hoa tới cực hạn.",
+              "特殊效果": {
+                "1": "Trong 3 lượt có thể sửa đổi không giới hạn toàn bộ kết quả kiểm định. Mọi pháp tắc và phán định đều có quyền ưu tiên tuyệt đối. Có thể sửa đổi hiện thực một cách vĩnh viễn ở mức độ nhỏ."
+              }
+            }
+          },
+          "觉醒三": {
+            "Bí Sử Thứ Sáu": {
+              "名称": "Bí Sử Thứ Sáu",
+              "类型": "Chủ động",
+              "阶位": "Thức tỉnh ba",
+              "描述": "Áo nghĩa tối thượng. Dệt nên bí sử, tạo ra một dòng thời gian không tồn tại, cưỡng ép ghi đè lịch sử hiện thực, thay đổi quá khứ để xóa bỏ kẻ địch triệt để khỏi dòng thời gian.",
+              "特殊效果": {
+                "1": "Khi thi triển sẽ sửa đổi dòng thời gian hiện tại. Toàn bộ kẻ địch không phải cấp huyền thoại sẽ tức tử trực tiếp. Kẻ địch cấp huyền thoại thực hiện miễn trừ Thể chất DC35, nếu thất bại thì chết triệt để và bị xóa bỏ; nếu thành công thì vĩnh viễn mất 60% giới hạn sinh mệnh cùng lượng sinh mệnh tương ứng. Có thể sửa đổi hiện thực một cách vĩnh viễn ở mức độ trung bình."
+              }
+            }
+          }
+        },
+        "Pháp Sư Bộc Phá Nguyên Tố": {
+          "基础": {
+            "Tĩnh Quán Cực Quang": {
+              "名称": "Tĩnh Quán Cực Quang",
+              "类型": "Đặc biệt",
+              "描述": "Nghệ kỹ bói toán của chuẩn tắc Đăng. Thấy tương lai trong quá khứ. Quan sát hành động và quỹ tích tương lai của kẻ địch, tăng khả năng trúng đích và né tránh, giành lấy tầm nhìn cùng ưu thế trong chiến đấu.",
+              "特殊效果": {
+                "1": "Kiểm định trúng đích được và có lợi thế, kéo dài 2 lượt.",
+                "2": "Kiểm định trúng đích +1 và có lợi thế, kéo dài 2 lượt.",
+                "3": "Kiểm định trúng đích +2 và có lợi thế, kéo dài 2 lượt.",
+                "4": "Kiểm định trúng đích +3 và có lợi thế, kéo dài 2 lượt.",
+                "5": "Kiểm định trúng đích +3 và có lợi thế, kéo dài 3 lượt.",
+                "6": "Kiểm định trúng đích +4 và có lợi thế , ngưỡng bạo kích -1, kéo dài 3 lượt.",
+                "7": "Kiểm định trúng đích +4 và có lợi thế , AC+1, ngưỡng bạo kích -1, kéo dài 3 lượt.",
+                "8": "Kiểm định trúng đích +4 và có lợi thế , AC+2, ngưỡng bạo kích -1, kéo dài 3 lượt.",
+                "9": "Kiểm định trúng đích +4 và có lợi thế , AC+3, ngưỡng bạo kích -1, kéo dài 3 lượt.",
+                "10": "Kiểm định trúng đích +5 và có lợi thế , AC+3, ngưỡng bạo kích -1, kéo dài 3 lượt.",
+                "11": "Kiểm định trúng đích +5 và có lợi thế , AC+4, ngưỡng bạo kích -1, kéo dài 3 lượt.",
+                "12": "Kiểm định trúng đích +5 và có lợi thế , AC+4, ngưỡng bạo kích -1, chắc chắn nhìn thấu ảo thuật, kéo dài 3 lượt.",
+                "13": "Kiểm định trúng đích +5 và có lợi thế , AC+4, ngưỡng bạo kích -1, chắc chắn nhìn thấu ảo thuật và ẩn nấp, kéo dài 3 lượt.",
+                "14": "Kiểm định trúng đích +5 và có lợi thế , AC+4, ngưỡng bạo kích -1, chắc chắn nhìn thấu ảo thuật, ẩn nấp và tàng hình, kéo dài 3 lượt.",
+                "15": "Kiểm định trúng đích +5 và có lợi thế , AC+4, ngưỡng bạo kích -2, chắc chắn nhìn thấu ảo thuật, ẩn nấp và tàng hình, kéo dài 3 lượt."
+              },
+              "阶位": "Cơ bản"
+            },
+            "Lưu Ly và Quang Rèn": {
+              "名称": "Lưu Ly và Quang Rèn",
+              "类型": "Chủ động",
+              "描述": "Nghệ kỹ của chuẩn tắc Đăng. Ánh sáng vạch trần, ánh sáng gây mù. Phóng ra một ngọn thương sáng chứa đầy ma lực lưu ly, gây sát thương và làm mù kẻ địch. Lấy điểm rơi của thương sáng làm tâm điểm để dựng nên một kết giới lưu ly đầy tinh thể thủy tinh sắc bén bao trùm chiến trường, hạn chế hành động của kẻ địch.",
+              "特殊效果": {
+                "1": "Mục tiêu thực hiện 【miễn trừ Thể chất】, nếu thất bại thì rơi vào [Mù] 1 lượt. Tại điểm rơi triển khai kết giới lưu ly, mọi kẻ địch thực hiện 【miễn trừ Thể chất】, nếu thất bại thì rơi vào [Tàn phế] (không thể di chuyển) 1 lượt.",
+                "2": "Mục tiêu thực hiện 【miễn trừ Thể chất】, nếu thất bại thì rơi vào [Mù] 1 lượt. Tại điểm rơi triển khai kết giới lưu ly, mọi kẻ địch thực hiện 【miễn trừ Thể chất】, nếu thất bại thì rơi vào [Tàn phế] (không thể di chuyển) 1 lượt.",
+                "3": "Mục tiêu thực hiện 【miễn trừ Thể chất】, nếu thất bại thì rơi vào [Mù] 2 lượt. Tại điểm rơi triển khai kết giới lưu ly, mọi kẻ địch thực hiện 【miễn trừ Thể chất】, nếu thất bại thì rơi vào [Tàn phế] (không thể di chuyển) 1 lượt.",
+                "4": "Mục tiêu thực hiện 【miễn trừ Thể chất】, nếu thất bại thì rơi vào [Mù] 2 lượt. Tại điểm rơi triển khai kết giới lưu ly, mọi kẻ địch thực hiện 【miễn trừ Thể chất】, nếu thất bại thì rơi vào [Tàn phế] (không thể di chuyển) 1 lượt.",
+                "5": "Mục tiêu rơi vào [Mù] 1 lượt. Tại điểm rơi triển khai kết giới lưu ly, mọi kẻ địch thực hiện 【miễn trừ Thể chất】, nếu thất bại thì rơi vào [Tàn phế] (không thể di chuyển) 1 lượt.",
+                "6": "Mục tiêu rơi vào [Mù] 1 lượt. Tại điểm rơi triển khai kết giới lưu ly, mọi kẻ địch thực hiện 【miễn trừ Thể chất】, nếu thất bại thì rơi vào [Tàn phế] (không thể di chuyển) 1 lượt.",
+                "7": "Mục tiêu rơi vào [Mù] 2 lượt. Tại điểm rơi triển khai kết giới lưu ly, mọi kẻ địch thực hiện 【miễn trừ Thể chất】, nếu thất bại thì rơi vào [Tàn phế] (không thể di chuyển) 2 lượt.",
+                "8": "Mục tiêu rơi vào [Mù] 2 lượt. Tại điểm rơi triển khai kết giới lưu ly, mọi kẻ địch thực hiện 【miễn trừ Thể chất】, nếu thất bại thì rơi vào [Tàn phế] (không thể di chuyển) 2 lượt.",
+                "9": "Mục tiêu rơi vào [Mù] 3 lượt. Tại điểm rơi triển khai kết giới lưu ly, mọi kẻ địch thực hiện 【miễn trừ Thể chất】, nếu thất bại thì rơi vào [Tàn phế] (không thể di chuyển) 3 lượt.",
+                "10": "Mục tiêu rơi vào [Mù] 3 lượt. Tại điểm rơi triển khai kết giới lưu ly, mọi kẻ địch thực hiện 【miễn trừ Thể chất】, nếu thất bại thì rơi vào [Tàn phế] (không thể di chuyển) 3 lượt.",
+                "11": "Mục tiêu rơi vào [Mù] 3 lượt. Tại điểm rơi triển khai kết giới lưu ly, mọi kẻ địch thực hiện 【miễn trừ Thể chất】, nếu thất bại thì rơi vào [Tàn phế] (không thể di chuyển) 3 lượt.",
+                "12": "Mục tiêu rơi vào [Mù] 3 lượt. Tại điểm rơi triển khai kết giới lưu ly, mọi kẻ địch thực hiện 【miễn trừ Thể chất】, nếu thất bại thì rơi vào [Tàn phế] (không thể di chuyển) 3 lượt.",
+                "13": "Mục tiêu rơi vào [Mù] 3 lượt. Tại điểm rơi triển khai kết giới lưu ly, mọi kẻ địch thực hiện 【miễn trừ Thể chất】, nếu thất bại thì rơi vào [Tàn phế] (không thể di chuyển) 3 lượt.",
+                "14": "Mục tiêu rơi vào [Mù] 3 lượt. Tại điểm rơi triển khai kết giới lưu ly, mọi kẻ địch thực hiện 【miễn trừ Thể chất】, nếu thất bại thì rơi vào [Tàn phế] (không thể di chuyển) 3 lượt.",
+                "15": "Mục tiêu rơi vào [Mù] 3 lượt. Tại điểm rơi triển khai kết giới lưu ly, mọi kẻ địch thực hiện 【miễn trừ Thể chất】, nếu thất bại thì rơi vào [Tàn phế] (không thể di chuyển) 3 lượt."
+              },
+              "阶位": "Cơ bản"
+            },
+            "Nhịp Luật Khai Môn": {
+              "名称": "Nhịp Luật Khai Môn",
+              "类型": "Đặc biệt",
+              "描述": "Nghệ kỹ của chuẩn tắc Khải. Nhịp điệu vi diệu mở ra muôn đường. Xé toạc không gian hiện tại để tự mình dịch chuyển không gian, lặng lẽ không tiếng động, không phá vỡ trạng thái ẩn nấp.",
+              "特殊效果": {
+                "1": "Dịch chuyển tới vị trí chỉ định trong bán kính 100 mét。",
+                "2": "Dịch chuyển tới vị trí chỉ định trong bán kính 100 mét và tiến vào trạng thái tàng hình。",
+                "3": "Dịch chuyển tới vị trí chỉ định trong bán kính 300 mét và tiến vào trạng thái tàng hình。",
+                "4": "Dịch chuyển tới vị trí chỉ định trong bán kính 500 mét và tiến vào trạng thái tàng hình。",
+                "5": "Dịch chuyển tới vị trí chỉ định trong bán kính 800 mét và tiến vào trạng thái tàng hình。",
+                "6": "Dịch chuyển tới vị trí chỉ định trong bán kính 1 kilômét và tiến vào trạng thái tàng hình。",
+                "7": "Dịch chuyển tới vị trí chỉ định trong bán kính 1 kilômét và tiến vào trạng thái tàng hình Có thể mang theo 1 đơn vị đồng minh cùng dịch chuyển.",
+                "8": "Dịch chuyển tới vị trí chỉ định trong bán kính 2 kilômét và tiến vào trạng thái tàng hình Có thể mang theo 1 đơn vị đồng minh cùng dịch chuyển.",
+                "9": "Dịch chuyển tới vị trí chỉ định trong bán kính 3 kilômét và tiến vào trạng thái tàng hình Có thể mang theo 1 đơn vị đồng minh cùng dịch chuyển.",
+                "10": "Dịch chuyển tới vị trí chỉ định trong bán kính 3 kilômét và tiến vào trạng thái tàng hình Có thể mang theo 1 đơn vị (đồng minh hoặc kẻ địch miễn trừ Thể chất thất bại) cùng dịch chuyển.",
+                "11": "Dịch chuyển tới vị trí chỉ định trong bán kính 4 kilômét và tiến vào trạng thái tàng hình Có thể mang theo 1 đơn vị (đồng minh hoặc kẻ địch miễn trừ Thể chất thất bại) cùng dịch chuyển.",
+                "12": "Dịch chuyển tới vị trí chỉ định trong bán kính 4 kilômét và tiến vào trạng thái tàng hình Có thể mang theo 2 đơn vị (đồng minh hoặc kẻ địch miễn trừ Thể chất thất bại) cùng dịch chuyển.",
+                "13": "Dịch chuyển tới vị trí chỉ định trong bán kính 4 kilômét và tiến vào trạng thái tàng hình Có thể mang theo 3 đơn vị (đồng minh hoặc kẻ địch miễn trừ Thể chất thất bại) cùng dịch chuyển.",
+                "14": "Dịch chuyển tới vị trí chỉ định trong bán kính 5 kilômét và tiến vào trạng thái tàng hình Có thể mang theo 3 đơn vị (đồng minh hoặc kẻ địch miễn trừ Thể chất thất bại) cùng dịch chuyển.",
+                "15": "Dịch chuyển tới vị trí chỉ định trong bán kính 5 kilômét và tiến vào trạng thái tàng hình Có thể mang theo 5 đơn vị (đồng minh hoặc kẻ địch miễn trừ Thể chất thất bại) cùng dịch chuyển. Việc dịch chuyển sẽ không bị cắt ngang hay quấy nhiễu."
+              },
+              "阶位": "Cơ bản"
+            }
+          },
+          "转职": {
+            "Giới Luật Búa và Đe": {
+              "名称": "Giới Luật Búa và Đe",
+              "类型": "Đặc biệt",
+              "描述": "Nghệ kỹ của chuẩn tắc Nhận. Búa và đe vừa rèn nên cánh cửa vừa phá hủy cánh cửa. Kỹ năng bị động, dùng ngọn lửa rèn đúc để tôi luyện linh hồn, tăng sát thương và tăng số lần hành động.",
+              "特殊效果": {
+                "1": "Sát thương cuối cùng tăng 3%。",
+                "2": "Sát thương cuối cùng tăng 4%。",
+                "3": "Sát thương cuối cùng tăng 5%。",
+                "4": "Sát thương cuối cùng tăng 6%。",
+                "5": "Sát thương cuối cùng tăng 7%。",
+                "6": "Sát thương cuối cùng tăng 7%, mỗi lượt nhận thêm 1 hành động độc lập.",
+                "7": "Sát thương cuối cùng tăng 8%, mỗi lượt nhận thêm 1 hành động độc lập.",
+                "8": "Sát thương cuối cùng tăng 9%, mỗi lượt nhận thêm 1 hành động độc lập.",
+                "9": "Sát thương cuối cùng tăng 10%, mỗi lượt nhận thêm 1 hành động độc lập.",
+                "10": "Sát thương cuối cùng tăng 11%, mỗi lượt nhận thêm 1 hành động độc lập.",
+                "11": "Sát thương cuối cùng tăng 11%, mỗi lượt nhận thêm 2 hành động độc lập.",
+                "12": "Sát thương cuối cùng tăng 12%, mỗi lượt nhận thêm 2 hành động độc lập.",
+                "13": "Sát thương cuối cùng tăng 13%, mỗi lượt nhận thêm 2 hành động độc lập.",
+                "14": "Sát thương cuối cùng tăng 14%, mỗi lượt nhận thêm 2 hành động độc lập.",
+                "15": "Sát thương cuối cùng tăng 15%, mỗi lượt nhận thêm 2 hành động độc lập."
+              },
+              "阶位": "Chuyển nghề"
+            },
+            "Tinh Luyện và Thăng Cử": {
+              "名称": "Tinh Luyện và Thăng Cử",
+              "类型": "Đặc biệt nghề nghiệp",
+              "描述": "Nghệ kỹ của chuẩn tắc Đăng. Ánh sáng tinh luyện; ánh sáng thăng cử. Sau khi thấu hiểu sâu hơn nguồn gốc ma lực, dùng ánh sáng để tinh lọc sức phá hoại, lột bỏ lớp vỏ vật chất để đánh thẳng vào linh hồn và đặt lên đó dấu ấn huy quang. Kỹ năng bị động.",
+              "特殊效果": {
+                "1": "Trong toàn bộ sát thương gây ra có 15% được chuyển thành sát thương chuẩn nhắm thẳng vào linh hồn. Mọi đòn tấn công khi đánh trúng đều sẽ gắn cho mục tiêu 1 tầng [Dấu ấn huy quang], tối đa 5 tầng và kéo dài suốt trận chiến. Hiệu ứng tiêu cực được áp đặt sẽ bỏ qua miễn nhiễm và kháng tính."
+              },
+              "阶位": "Chuyển nghề"
+            },
+            "Thể Phù Hỏa Ấn": {
+              "名称": "Thể Phù Hỏa Ấn",
+              "类型": "Chủ động",
+              "描述": "Nghệ kỹ của chuẩn tắc Rèn. Nguồn sáng, màu sắc, cùng vụ nổ như luyện ngục. Pháp thuật công kích diện rộng, cấu tạo phù văn bùng nổ bằng Thể Phù Hỏa Ấn rồi trút mưa sao băng lửa xuống kẻ địch. Gây thêm sát thương lên kẻ địch đã bị đánh dấu.",
+              "特殊效果": {
+                "1": "Gây 1 lần sát thương kỹ năng lên toàn bộ kẻ địch. Mỗi 1 tầng [Dấu ấn huy quang] trên kẻ địch khiến chúng phải chịu thêm 1 lần sát thương kỹ năng. Sau khi tấn công không tiêu hao dấu ấn.",
+                "2": "Gây 1 lần sát thương kỹ năng lên toàn bộ kẻ địch. Mỗi 1 tầng [Dấu ấn huy quang] trên kẻ địch khiến chúng phải chịu thêm 1 lần sát thương kỹ năng. Sau khi tấn công không tiêu hao dấu ấn.",
+                "3": "Gây 1 lần sát thương kỹ năng lên toàn bộ kẻ địch. Mỗi 1 tầng [Dấu ấn huy quang] trên kẻ địch khiến chúng phải chịu thêm 1 lần sát thương kỹ năng. Sau khi tấn công không tiêu hao dấu ấn.",
+                "4": "Gây 1 lần sát thương kỹ năng lên toàn bộ kẻ địch. Mỗi 1 tầng [Dấu ấn huy quang] trên kẻ địch khiến chúng phải chịu thêm 1 lần sát thương kỹ năng. Sau khi tấn công không tiêu hao dấu ấn.",
+                "5": "Gây 1 lần sát thương kỹ năng lên toàn bộ kẻ địch. Mỗi 1 tầng [Dấu ấn huy quang] trên kẻ địch khiến chúng phải chịu thêm 1 lần sát thương kỹ năng. Sau khi tấn công không tiêu hao dấu ấn.",
+                "6": "Gây 1 lần sát thương kỹ năng lên toàn bộ kẻ địch. Mỗi 1 tầng [Dấu ấn huy quang] trên kẻ địch khiến chúng phải chịu thêm 1 lần sát thương kỹ năng. Sau khi tấn công không tiêu hao dấu ấn.",
+                "7": "Gây 1 lần sát thương kỹ năng lên toàn bộ kẻ địch. Mỗi 1 tầng [Dấu ấn huy quang] trên kẻ địch khiến chúng phải chịu thêm 1 lần sát thương kỹ năng. Sau khi tấn công không tiêu hao dấu ấn.",
+                "8": "Gây 1 lần sát thương kỹ năng lên toàn bộ kẻ địch. Mỗi 1 tầng [Dấu ấn huy quang] trên kẻ địch khiến chúng phải chịu thêm 1 lần sát thương kỹ năng. Sau khi tấn công không tiêu hao dấu ấn.",
+                "9": "Gây 1 lần sát thương kỹ năng lên toàn bộ kẻ địch. Mỗi 1 tầng [Dấu ấn huy quang] trên kẻ địch khiến chúng phải chịu thêm 1 lần sát thương kỹ năng. Sau khi tấn công không tiêu hao dấu ấn.",
+                "10": "Gây 1 lần sát thương kỹ năng lên toàn bộ kẻ địch. Mỗi 1 tầng [Dấu ấn huy quang] trên kẻ địch khiến chúng phải chịu thêm 1 lần sát thương kỹ năng. Sau khi tấn công không tiêu hao dấu ấn.",
+                "11": "Gây 1 lần sát thương kỹ năng lên toàn bộ kẻ địch. Mỗi 1 tầng [Dấu ấn huy quang] trên kẻ địch khiến chúng phải chịu thêm 1 lần sát thương kỹ năng. Sau khi tấn công không tiêu hao dấu ấn.",
+                "12": "Gây 1 lần sát thương kỹ năng lên toàn bộ kẻ địch. Mỗi 1 tầng [Dấu ấn huy quang] trên kẻ địch khiến chúng phải chịu thêm 1 lần sát thương kỹ năng. Sau khi tấn công không tiêu hao dấu ấn.",
+                "13": "Gây 1 lần sát thương kỹ năng lên toàn bộ kẻ địch. Mỗi 1 tầng [Dấu ấn huy quang] trên kẻ địch khiến chúng phải chịu thêm 1 lần sát thương kỹ năng. Sau khi tấn công không tiêu hao dấu ấn.",
+                "14": "Gây 1 lần sát thương kỹ năng lên toàn bộ kẻ địch. Mỗi 1 tầng [Dấu ấn huy quang] trên kẻ địch khiến chúng phải chịu thêm 1 lần sát thương kỹ năng. Sau khi tấn công không tiêu hao dấu ấn.",
+                "15": "Gây 1 lần sát thương kỹ năng lên toàn bộ kẻ địch. Mỗi 1 tầng [Dấu ấn huy quang] trên kẻ địch khiến chúng phải chịu thêm 1 lần sát thương kỹ năng. Sau khi tấn công không tiêu hao dấu ấn."
+              },
+              "阶位": "Chuyển nghề"
+            }
+          },
+          "进阶": {
+            "Mực Khải Thị": {
+              "名称": "Mực Khải Thị",
+              "类型": "Đặc biệt",
+              "描述": "Nghệ kỹ của chuẩn tắc Đăng. Chư sử được vạch trần nhờ thứ mực này. Dùng chuẩn tắc Đăng để thấu suốt vận mệnh, giúp mục tiêu của kỹ năng trong thời gian ngắn nhận được khải thị toàn tri, nhìn thấu mọi khả năng.",
+              "特殊效果": {
+                "1": "Mục tiêu nhận trạng thái [Khải thị] trong 1 lượt. Mọi loại kiểm định của mục tiêu nhận lợi thế và có lợi thế。",
+                "2": "Mục tiêu nhận trạng thái [Khải thị] trong 1 lượt. Mọi loại kiểm định của mục tiêu nhận +1 và có lợi thế。",
+                "3": "Mục tiêu nhận trạng thái [Khải thị] trong 1 lượt. Mọi loại kiểm định của mục tiêu nhận +2 và có lợi thế。",
+                "4": "Mục tiêu nhận trạng thái [Khải thị] trong 1 lượt. Mọi loại kiểm định của mục tiêu nhận +3 và có lợi thế。",
+                "5": "Mục tiêu nhận trạng thái [Khải thị] trong 1 lượt. Mọi loại kiểm định của mục tiêu nhận +4 và có lợi thế。",
+                "6": "Mục tiêu nhận trạng thái [Khải thị] trong 2 lượt. Mọi loại kiểm định của mục tiêu nhận +4 và có lợi thế。",
+                "7": "Mục tiêu nhận trạng thái [Khải thị] trong 2 lượt. Mọi loại kiểm định của mục tiêu nhận +5 và có lợi thế。",
+                "8": "Mục tiêu nhận trạng thái [Khải thị] trong 2 lượt. Mọi loại kiểm định của mục tiêu nhận +5 và có lợi thế. Mục tiêu hồi lại lượng sinh mệnh bằng 30% giới hạn sinh mệnh.",
+                "9": "Mục tiêu nhận trạng thái [Khải thị] trong 2 lượt. Mọi loại kiểm định của mục tiêu nhận +5 và có lợi thế. Mục tiêu hồi lại lượng sinh mệnh bằng 30% giới hạn sinh mệnh và loại bỏ toàn bộ hiệu ứng tiêu cực.",
+                "10": "Mục tiêu nhận trạng thái [Khải thị] trong 2 lượt. Mọi loại kiểm định của mục tiêu nhận +5 và có lợi thế. Mục tiêu hồi lại lượng sinh mệnh bằng 30% giới hạn sinh mệnh, loại bỏ toàn bộ hiệu ứng tiêu cực, và mọi kiểm định sát thương khi tấn công trong chiến đấu đều lấy giá trị tối đa."
+              },
+              "阶位": "Nâng cao"
+            },
+            "Giới Luật Vết Sẹo": {
+              "名称": "Giới Luật Vết Sẹo",
+              "类型": "Đặc biệt",
+              "描述": "Nghệ kỹ của chuẩn tắc Nhận. Vết sẹo vừa là trí tuệ vừa là hối hận. Kỹ năng bị động, tạo nên một lá chắn pháp thuật thích nghi với đòn tấn công của kẻ địch, giới hạn trần sát thương phải chịu trong một vòng, tăng mạnh khả năng sinh tồn.",
+              "特殊效果": {
+                "1": "Nhận một lá chắn sinh mệnh tạm thời bằng 30% giới hạn sinh mệnh của bản thân. Khi lá chắn còn tồn tại, tổng sát thương bản thân phải chịu trong mỗi lượt chiến đấu sẽ không vượt quá 40% giới hạn sinh mệnh của bản thân。",
+                "2": "Nhận một lá chắn sinh mệnh tạm thời bằng 40% giới hạn sinh mệnh của bản thân. Khi lá chắn còn tồn tại, tổng sát thương bản thân phải chịu trong mỗi lượt chiến đấu sẽ không vượt quá 37% giới hạn sinh mệnh của bản thân。",
+                "3": "Nhận một lá chắn sinh mệnh tạm thời bằng 50% giới hạn sinh mệnh của bản thân. Khi lá chắn còn tồn tại, tổng sát thương bản thân phải chịu trong mỗi lượt chiến đấu sẽ không vượt quá 34% giới hạn sinh mệnh của bản thân。",
+                "4": "Nhận một lá chắn sinh mệnh tạm thời bằng 60% giới hạn sinh mệnh của bản thân. Khi lá chắn còn tồn tại, tổng sát thương bản thân phải chịu trong mỗi lượt chiến đấu sẽ không vượt quá 31% giới hạn sinh mệnh của bản thân。",
+                "5": "Nhận một lá chắn sinh mệnh tạm thời bằng 70% giới hạn sinh mệnh của bản thân. Khi lá chắn còn tồn tại, tổng sát thương bản thân phải chịu trong mỗi lượt chiến đấu sẽ không vượt quá 28% giới hạn sinh mệnh của bản thân。",
+                "6": "Nhận một lá chắn sinh mệnh tạm thời bằng 80% giới hạn sinh mệnh của bản thân. Khi lá chắn còn tồn tại, tổng sát thương bản thân phải chịu trong mỗi lượt chiến đấu sẽ không vượt quá 25% giới hạn sinh mệnh của bản thân。",
+                "7": "Nhận một lá chắn sinh mệnh tạm thời bằng 90% giới hạn sinh mệnh của bản thân. Khi lá chắn còn tồn tại, tổng sát thương bản thân phải chịu trong mỗi lượt chiến đấu sẽ không vượt quá 22% giới hạn sinh mệnh của bản thân。",
+                "8": "Nhận một lá chắn sinh mệnh tạm thời bằng 100% giới hạn sinh mệnh của bản thân. Khi lá chắn còn tồn tại, tổng sát thương bản thân phải chịu trong mỗi lượt chiến đấu sẽ không vượt quá 20% giới hạn sinh mệnh của bản thân。",
+                "9": "Nhận một lá chắn sinh mệnh tạm thời bằng 120% giới hạn sinh mệnh của bản thân. Khi lá chắn còn tồn tại, tổng sát thương bản thân phải chịu trong mỗi lượt chiến đấu sẽ không vượt quá 20% giới hạn sinh mệnh của bản thân。",
+                "10": "Nhận một lá chắn sinh mệnh tạm thời bằng 120% giới hạn sinh mệnh của bản thân. Khi lá chắn còn tồn tại, tổng sát thương bản thân phải chịu trong mỗi lượt chiến đấu sẽ không vượt quá 20% giới hạn sinh mệnh của bản thân, đồng thời bản thân không bị ảnh hưởng bởi hiệu ứng tiêu cực."
+              },
+              "阶位": "Nâng cao"
+            },
+            "Biến Chuyển và Giải Phóng": {
+              "名称": "Biến Chuyển và Giải Phóng",
+              "类型": "Đặc biệt",
+              "描述": "Nghệ kỹ của chuẩn tắc Rèn. Mỗi lần biến đổi đều là một lần giải phóng. Kỹ năng bị động có thể bật hoặc tắt. Đòn tấn công kèm ô nhiễm ma lực lưu ly, có thể tự động kích nổ dấu ấn huy quang khi đạt đủ tầng; nếu mục tiêu miễn trừ thất bại sẽ bị tinh thể thủy tinh đâm xuyên từ trong ra ngoài, gây sát thương theo phần trăm sinh mệnh.",
+              "特殊效果": {
+                "1": "Khi [Dấu ấn huy quang] của kẻ địch đạt tối đa 5 tầng thì toàn bộ tầng sẽ bị xóa sạch, mục tiêu thực hiện kiểm định Thể chất DC 15; nếu miễn trừ thất bại thì phải chịu thêm sát thương ma pháp bằng 10% giới hạn sinh mệnh của bản thân.",
+                "2": "Khi [Dấu ấn huy quang] của kẻ địch đạt tối đa 5 tầng thì toàn bộ tầng sẽ bị xóa sạch, mục tiêu thực hiện kiểm định Thể chất DC 15; nếu miễn trừ thất bại thì phải chịu thêm sát thương ma pháp bằng 12% giới hạn sinh mệnh của bản thân.",
+                "3": "Khi [Dấu ấn huy quang] của kẻ địch đạt tối đa 5 tầng thì toàn bộ tầng sẽ bị xóa sạch, mục tiêu thực hiện kiểm định Thể chất DC 15; nếu miễn trừ thất bại thì phải chịu thêm sát thương ma pháp bằng 14% giới hạn sinh mệnh của bản thân.",
+                "4": "Khi [Dấu ấn huy quang] của kẻ địch đạt tối đa 5 tầng thì toàn bộ tầng sẽ bị xóa sạch, mục tiêu thực hiện kiểm định Thể chất DC 15; nếu miễn trừ thất bại thì phải chịu thêm sát thương ma pháp bằng 16% giới hạn sinh mệnh của bản thân.",
+                "5": "Khi [Dấu ấn huy quang] của kẻ địch đạt tối đa 5 tầng thì toàn bộ tầng sẽ bị xóa sạch, mục tiêu thực hiện kiểm định Thể chất DC 20; nếu miễn trừ thất bại thì phải chịu thêm sát thương ma pháp bằng 18% giới hạn sinh mệnh của bản thân.",
+                "6": "Khi [Dấu ấn huy quang] của kẻ địch đạt tối đa 5 tầng thì toàn bộ tầng sẽ bị xóa sạch, mục tiêu thực hiện kiểm định Thể chất DC 20; nếu miễn trừ thất bại thì phải chịu thêm sát thương ma pháp bằng 20% giới hạn sinh mệnh của bản thân.",
+                "7": "Khi [Dấu ấn huy quang] của kẻ địch đạt tối đa 5 tầng thì toàn bộ tầng sẽ bị xóa sạch, mục tiêu thực hiện kiểm định Thể chất DC 20; nếu miễn trừ thất bại thì phải chịu thêm sát thương ma pháp bằng 22% giới hạn sinh mệnh của bản thân.",
+                "8": "Khi [Dấu ấn huy quang] của kẻ địch đạt tối đa 5 tầng thì toàn bộ tầng sẽ bị xóa sạch, mục tiêu thực hiện kiểm định Thể chất DC 20; nếu miễn trừ thất bại thì phải chịu thêm sát thương ma pháp bằng 25% giới hạn sinh mệnh của bản thân.",
+                "9": "Khi [Dấu ấn huy quang] của kẻ địch đạt tối đa 5 tầng thì toàn bộ tầng sẽ bị xóa sạch, mục tiêu thực hiện kiểm định Thể chất DC 20; nếu miễn trừ thất bại thì phải chịu thêm sát thương ma pháp bằng 27% giới hạn sinh mệnh của bản thân.",
+                "10": "Khi [Dấu ấn huy quang] của kẻ địch đạt tối đa 5 tầng thì toàn bộ tầng sẽ bị xóa sạch, mục tiêu thực hiện kiểm định Thể chất DC 25; nếu miễn trừ thất bại thì phải chịu thêm sát thương ma pháp bằng 30% giới hạn sinh mệnh của bản thân."
+              },
+              "阶位": "Nâng cao"
+            }
+          },
+          "必杀": {
+            "Nghịch Lý Người Gác Đêm": {
+              "名称": "Nghịch Lý Người Gác Đêm",
+              "类型": "Đặc biệt",
+              "描述": "Nghệ kỹ của chuẩn tắc Đăng. Bẻ cong hiện thực thành ảnh ngược của Mansus, triển khai một lĩnh vực phủ trùm toàn chiến trường, ghi đè quy tắc của thực tại để biến điều bất khả thành khả thi. Toàn diện suy yếu kẻ địch và bảo vệ đồng minh.",
+              "特殊效果": {
+                "1": "Triển khai [Lĩnh vực nghịch lý], kéo dài 2 lượt. Trong lĩnh vực, toàn bộ kỹ năng của kẻ địch đều mất hiệu lực, mọi hiệu quả trị liệu mà kẻ địch nhận được sẽ chuyển thành lượng sát thương chuẩn tương ứng. Đồng minh trong khu vực khi hấp hối sẽ bị cưỡng ép khóa máu。",
+                "2": "Triển khai [Lĩnh vực nghịch lý], kéo dài 3 lượt. Trong lĩnh vực, toàn bộ kỹ năng của kẻ địch đều mất hiệu lực, mọi hiệu quả trị liệu mà kẻ địch nhận được sẽ chuyển thành lượng sát thương chuẩn tương ứng. Đồng minh trong khu vực khi hấp hối sẽ bị cưỡng ép khóa máu。",
+                "3": "Triển khai [Lĩnh vực nghịch lý], kéo dài 3 lượt. Trong lĩnh vực, toàn bộ kỹ năng của kẻ địch và đặc tính đều mất hiệu lực, mọi hiệu quả trị liệu mà kẻ địch nhận được sẽ chuyển thành lượng sát thương chuẩn tương ứng. Đồng minh trong khu vực khi hấp hối sẽ bị cưỡng ép khóa máu。",
+                "4": "Triển khai [Lĩnh vực nghịch lý], kéo dài 3 lượt. Trong lĩnh vực, toàn bộ kỹ năng của kẻ địch , đặc tính và hiệu ứng tăng ích đều mất hiệu lực, mọi hiệu quả trị liệu mà kẻ địch nhận được sẽ chuyển thành lượng sát thương chuẩn tương ứng. Đồng minh trong khu vực khi hấp hối sẽ bị cưỡng ép khóa máu。",
+                "5": "Triển khai [Lĩnh vực nghịch lý], kéo dài 4 lượt. Trong lĩnh vực, toàn bộ kỹ năng của kẻ địch , đặc tính và hiệu ứng tăng ích đều mất hiệu lực, mọi hiệu quả trị liệu mà kẻ địch nhận được sẽ chuyển thành lượng sát thương chuẩn tương ứng. Đồng minh trong khu vực khi hấp hối sẽ bị cưỡng ép khóa máu。",
+                "6": "Triển khai [Lĩnh vực nghịch lý], kéo dài 5 lượt. Trong lĩnh vực, toàn bộ kỹ năng của kẻ địch , đặc tính và hiệu ứng tăng ích đều mất hiệu lực, mọi hiệu quả trị liệu mà kẻ địch nhận được sẽ chuyển thành lượng sát thương chuẩn tương ứng. Đồng minh trong khu vực khi hấp hối sẽ bị cưỡng ép khóa máu。",
+                "7": "Triển khai [Lĩnh vực nghịch lý], kéo dài 5 lượt. Trong lĩnh vực, toàn bộ kỹ năng của kẻ địch , đặc tính và hiệu ứng tăng ích đều mất hiệu lực, mọi hiệu quả trị liệu mà kẻ địch nhận được sẽ chuyển thành lượng sát thương chuẩn tương ứng. Đồng minh trong khu vực khi hấp hối sẽ bị cưỡng ép khóa máu. Mỗi trận chiến 1 lần, có thể sửa 1 kết quả kiểm định thành thành công hoặc thất bại."
+              },
+              "阶位": "Tất sát"
+            },
+            "Ảnh Ngược Lưỡi Trăng": {
+              "名称": "Ảnh Ngược Lưỡi Trăng",
+              "类型": "Chủ động",
+              "描述": "Nghệ kỹ của chuẩn tắc Rèn. \"Thanh tẩy phần ngoài, xóa bỏ phần trong.\" Pháp thuật công kích, triệu hồi bóng lưỡi trăng phủ lên chiến trường, tiến hành một cuộc phán quyết tức tử với mọi kẻ địch có dấu ấn huy quang.",
+              "特殊效果": {
+                "1": "Mọi kẻ địch đang có [Dấu ấn huy quang] thực hiện kiểm định Thể chất DC 14; mục tiêu miễn trừ thất bại sẽ chết ngay lập tức.",
+                "2": "Mọi kẻ địch đang có [Dấu ấn huy quang] thực hiện kiểm định Thể chất DC 15; mục tiêu miễn trừ thất bại sẽ chết ngay lập tức.",
+                "3": "Mọi kẻ địch đang có [Dấu ấn huy quang] thực hiện kiểm định Thể chất DC 16; mục tiêu miễn trừ thất bại sẽ chết ngay lập tức.",
+                "4": "Mọi kẻ địch đang có [Dấu ấn huy quang] thực hiện kiểm định Thể chất DC 17; mục tiêu miễn trừ thất bại sẽ chết ngay lập tức.",
+                "5": "Mọi kẻ địch đang có [Dấu ấn huy quang] thực hiện kiểm định Thể chất DC 18; mục tiêu miễn trừ thất bại sẽ chết ngay lập tức.",
+                "6": "Mọi kẻ địch đang có [Dấu ấn huy quang] thực hiện kiểm định Thể chất DC 19; mục tiêu miễn trừ thất bại sẽ chết ngay lập tức.",
+                "7": "Mọi kẻ địch đang có [Dấu ấn huy quang] thực hiện kiểm định Thể chất DC 20; mục tiêu miễn trừ thất bại sẽ chết ngay lập tức."
+              },
+              "阶位": "Tất sát"
+            }
+          },
+          "奥义": {
+            "Dệt Pháp Tắc": {
+              "名称": "Dệt Pháp Tắc",
+              "类型": "Đặc biệt",
+              "描述": "Tạm thời viết lại pháp tắc của hiện thực trên chiến trường, tạo ra môi trường chiến đấu có lợi cho phe mình, như khu vực sụp co hiện thực, dải làm chậm thời gian, v.v. Đây là một kỹ năng cải tạo sân bãi cấp chiến lược.",
+              "特殊效果": {
+                "1": "Chọn 1 loại pháp tắc để dệt, tạo ra một [Lĩnh vực pháp tắc] kéo dài 3 lượt: [Hiện thực sụp co] (kẻ địch trong khu vực nhận toàn bộ miễn trừ thuộc tính -2), [Làm chậm thời gian] (kẻ địch trong khu vực mỗi 2 lượt chỉ có thể thực hiện 1 hành động), [Tử vực trục linh] (20% sát thương của bản thân và đồng minh trong khu vực chuyển thành sát thương chuẩn).",
+                "2": "Chọn 1 loại pháp tắc để dệt, tạo ra một [Lĩnh vực pháp tắc] kéo dài 3 lượt: [Hiện thực sụp co] (kẻ địch trong khu vực nhận toàn bộ miễn trừ thuộc tính -3), [Làm chậm thời gian] (kẻ địch trong khu vực mỗi 2 lượt chỉ có thể thực hiện 1 hành động), [Tử vực trục linh] (30% sát thương của bản thân và đồng minh trong khu vực chuyển thành sát thương chuẩn).",
+                "3": "Chọn 1 loại pháp tắc để dệt, tạo ra một [Lĩnh vực pháp tắc] kéo dài 3 lượt: [Hiện thực sụp co] (kẻ địch trong khu vực nhận toàn bộ miễn trừ thuộc tính -4), [Làm chậm thời gian] (kẻ địch trong khu vực mỗi 2 lượt chỉ có thể thực hiện 1 hành động), [Tử vực trục linh] (40% sát thương của bản thân và đồng minh trong khu vực chuyển thành sát thương chuẩn).",
+                "4": "Chọn 1 loại pháp tắc để dệt, tạo ra một [Lĩnh vực pháp tắc] kéo dài 3 lượt: [Hiện thực sụp co] (kẻ địch trong khu vực nhận toàn bộ miễn trừ thuộc tính -5), [Làm chậm thời gian] (kẻ địch trong khu vực mỗi 3 lượt chỉ có thể thực hiện 1 hành động), [Tử vực trục linh] (50% sát thương của bản thân và đồng minh trong khu vực chuyển thành sát thương chuẩn).",
+                "5": "Chọn 2 loại pháp tắc để dệt, tạo ra một [Lĩnh vực pháp tắc] kéo dài 3 lượt: [Hiện thực sụp co] (kẻ địch trong khu vực nhận toàn bộ miễn trừ thuộc tính -5), [Làm chậm thời gian] (kẻ địch trong khu vực mỗi 3 lượt chỉ có thể thực hiện 1 hành động), [Tử vực trục linh] (50% sát thương của bản thân và đồng minh trong khu vực chuyển thành sát thương chuẩn)."
+              },
+              "阶位": "Áo nghĩa"
+            },
+            "Sắc Lệnh Võ Lực": {
+              "名称": "Sắc Lệnh Võ Lực",
+              "类型": "Đặc biệt",
+              "描述": "Nghệ kỹ của chuẩn tắc Nhận. Giới luật của đối kháng và xung đột là động cơ thúc đẩy vũ trụ biến đổi. Kỹ năng bị động, mỗi lần giết chết kẻ địch sẽ khiến ngươi hiểu sâu hơn về tranh chấp và vĩnh viễn nhận được sức mạnh lớn hơn.",
+              "特殊效果": {
+                "1": "Mỗi khi giết 1 kẻ địch, nhận 1 tầng [Sắc lệnh], mỗi tầng làm tăng 1% sát thương cuối cùng. Mọi pháp tắc và phán định đều có quyền ưu tiên.",
+                "2": "Mỗi khi giết 1 kẻ địch, nhận 1 tầng [Sắc lệnh], mỗi tầng làm tăng 1.5% sát thương cuối cùng. Mọi pháp tắc và phán định đều có quyền ưu tiên.",
+                "3": "Mỗi khi giết 1 kẻ địch, nhận 1 tầng [Sắc lệnh], mỗi tầng làm tăng 2% sát thương cuối cùng. Mọi pháp tắc và phán định đều có quyền ưu tiên.",
+                "4": "Mỗi khi giết 1 kẻ địch, nhận 1 tầng [Sắc lệnh], mỗi tầng làm tăng 2.5% sát thương cuối cùng. Mọi pháp tắc và phán định đều có quyền ưu tiên.",
+                "5": "Mỗi khi giết 1 kẻ địch, nhận 1 tầng [Sắc lệnh], mỗi tầng làm tăng 3% sát thương cuối cùng. Mọi pháp tắc và phán định đều có quyền ưu tiên."
+              },
+              "阶位": "Áo nghĩa"
+            }
+          },
+          "觉醒二": {
+            "Huy Quang Diệt Tận": {
+              "名称": "Huy Quang Diệt Tận",
+              "类型": "Chủ động",
+              "阶位": "Thức tỉnh một",
+              "描述": "Hội tụ sức mạnh của huy quang, bắn ra một pháo quang thúc hủy diệt đủ sức xuyên thủng cả lớp vỏ địa tầng.",
+              "特殊效果": {
+                "1": "Gây thêm sát thương chuẩn bằng 20% giới hạn sinh mệnh lên mọi mục tiêu. Sau khi trúng đòn sẽ cưỡng ép chồng đầy 5 tầng [Dấu ấn huy quang] lên toàn bộ kẻ địch còn sống.",
+                "2": "Gây thêm sát thương chuẩn bằng 25% giới hạn sinh mệnh lên mọi mục tiêu. Sau khi trúng đòn sẽ cưỡng ép chồng đầy 5 tầng [Dấu ấn huy quang] lên toàn bộ kẻ địch còn sống.",
+                "3": "Gây thêm sát thương chuẩn bằng 30% giới hạn sinh mệnh lên mọi mục tiêu. Sau khi trúng đòn sẽ cưỡng ép chồng đầy 5 tầng [Dấu ấn huy quang] lên toàn bộ kẻ địch còn sống."
+              }
+            }
+          }
+        }
+      },
+      "skillFlavorInput": "",
+      "teammates": [],
+      "customTeammate": null,
+      "selectedTraits": [],
+      "customTraits": [
+        {
+          "name": "Chuẩn tắc Đăng",
+          "effect": "Trong lượt chiến đấu ba đòn đánh có thể lặp lại cùng một kỹ năng, mọi hoạt động liên quan đến tinh thần, bói toán và học tập đều nhận thêm +3 vào kiểm định thuộc tính và có lợi thế."
+        },
+        {
+          "name": "Minh Thức",
+          "effect": "Liên tục phóng thích kỹ năng không chịu hình phạt AC từ liên kích, mọi kiểm định Trí lực đều nhận thêm +3 và có lợi thế."
+        }
+      ],
+      "customExpertise": [],
+      "customIdentity": null,
+      "selectedOpening": "traverse",
+      "customOpeningText": "",
+      "selectedDifficulty": "easy",
+      "customRace": null
+    }
+  }
+}

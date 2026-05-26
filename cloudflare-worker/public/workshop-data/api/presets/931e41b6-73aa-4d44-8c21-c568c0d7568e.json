@@ -1,0 +1,40 @@
+{
+  "ok": true,
+  "preset": {
+    "id": "931e41b6-73aa-4d44-8c21-c568c0d7568e",
+    "ownerId": "1364165618160373814",
+    "ownerName": "diedoro",
+    "author": "diedoro",
+    "authorAvatar": "https://cdn.discordapp.com/avatars/1364165618160373814/03f4528e6d28090d930f7dde4951220a.png?size=128",
+    "name": "Minh Ước",
+    "title": "Minh Ước",
+    "intro": "Lối chơi thuần theo Mười Điều Minh Ước, thiên về phi chiến đấu. Chơi preset này nhất định phải nhắc Hakimi nhớ cấp kinh nghiệm cho các kiểm định ngoài chiến đấu.",
+    "coverUrl": "/api/presets/931e41b6-73aa-4d44-8c21-c568c0d7568e/cover",
+    "className": "Sứ đồ Minh Ước",
+    "race": "Dân Quy Tắc",
+    "tags": [
+      "Minh ước",
+      "Sinh tồn"
+    ],
+    "likes": 6,
+    "liked": false,
+    "downloads": 51,
+    "status": "published",
+    "createdAt": "2026-03-22 04:01:57",
+    "updatedAt": "2026-05-25 08:07:12",
+    "lastLikedAt": "",
+    "presetData": {
+      "name": "Sứ đồ Minh Ước",
+      "class": "Sứ đồ Minh Ước",
+      "customClassName": "Sứ đồ Minh Ước",
+      "race": "__custom__",
+      "customRace": {
+        "name": "Dân Quy Tắc"
+      },
+      "customClassStyle": "Người dệt khế ước và bậc thầy trò chơi thuần túy. Không tham gia chiến đấu, chỉ đặt quân cờ bên ngoài bàn cờ.",
+      "backstory": "Không phải chiến binh, mà là sứ đồ. Từ ngày thức tỉnh đã hiểu rằng trong thế giới Disboard, đao kiếm không sắc bén bằng minh ước, ma pháp không sâu xa bằng quy tắc. Khoảnh khắc Tetto gấp Arad vào vực sâu, từ gợn sóng của pháp tắc thế giới đã sinh ra tồn tại này: không cầm binh khí, không thi triển ma pháp, chỉ lấy khế ước và trò chơi làm vũ khí. Đi giữa mười sáu chủng tộc, chứng kiến thắng bại của từng trò chơi, trọng tài cho từng lần thực hiện khế ước. Khi người khác xây tháp cao, rèn đao kiếm, cô đang dệt một tấm lưới khế ước bao phủ toàn bộ Disboard.",
+      "selectedCustomLevel": null
+    },
+    "downloadUrl": "/api/presets/931e41b6-73aa-4d44-8c21-c568c0d7568e/file"
+  }
+}

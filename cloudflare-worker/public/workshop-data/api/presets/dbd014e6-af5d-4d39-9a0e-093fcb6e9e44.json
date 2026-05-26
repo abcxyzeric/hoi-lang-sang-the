@@ -1,0 +1,37 @@
+{
+  "ok": true,
+  "preset": {
+    "id": "dbd014e6-af5d-4d39-9a0e-093fcb6e9e44",
+    "ownerId": "1017047513615831110",
+    "ownerName": "dukemomo",
+    "author": "dukemomo",
+    "authorAvatar": "https://cdn.discordapp.com/avatars/1017047513615831110/c7c4b0513d083c099796e8bcedf7a15b.png?size=128",
+    "name": "Thể Sống Tối Cực",
+    "title": "Thể Sống Tối Cực",
+    "intro": "Có rất nhiều trạng thái. Nhớ nhắc nó nếu một vài kết toán sau chiến đấu không xuất hiện.",
+    "coverUrl": "/api/presets/dbd014e6-af5d-4d39-9a0e-093fcb6e9e44/cover",
+    "className": "Slime",
+    "race": "Thể sống tối cực",
+    "tags": [],
+    "likes": 1,
+    "liked": false,
+    "downloads": 47,
+    "status": "published",
+    "createdAt": "2026-03-29 11:09:57",
+    "updatedAt": "2026-05-24 05:53:10",
+    "lastLikedAt": "",
+    "presetData": {
+      "name": "Mặc Mặc",
+      "class": "Slime",
+      "customClassName": "Slime",
+      "race": "__custom__",
+      "customRace": {
+        "name": "Thể sống tối cực"
+      },
+      "customClassStyle": "Thể sống tối cực không phải một \"nghề nghiệp\" theo nghĩa thông thường, mà là một dạng sống vượt khỏi giới hạn carbon. Sự tồn tại của bạn vừa là điểm cuối vừa là điểm khởi đầu của tiến hóa; mỗi trận chiến đều là một lần bản đồ gien tự cải biến. Bạn lấy nuốt chửng và thích nghi làm bản năng, biến sát thương, năng lượng, thậm chí cả pháp tắc từ bên ngoài thành dưỡng chất cho tiến hóa của chính mình. Trong chiến đấu, bạn không có hình thái cố định: cơ thể có thể hóa lỏng trôi chảy, phình lớn thành vật thể khổng lồ như núi, hoặc tách ra phân thân ý thức độc lập. Bạn vừa là người chữa lành dịu dàng, vừa là kẻ săn mồi lạnh lùng; lang thang giữa ranh giới sống chết, biến mỗi lần cận tử thành một lần niết bàn mạnh hơn. Phong cách chiến đấu của bạn không bị khuôn mẫu ràng buộc, hoàn toàn do bản năng tiến hóa dẫn dắt: áp sát thì dùng xúc tu và chi thể biến dạng để áp chế, đánh xa thì dùng tế bào tồn dư để ăn mòn, khi tuyệt cảnh thì bóp méo quy tắc để đảo ngược nhân quả.",
+      "backstory": "",
+      "selectedCustomLevel": null
+    },
+    "downloadUrl": "/api/presets/dbd014e6-af5d-4d39-9a0e-093fcb6e9e44/file"
+  }
+}

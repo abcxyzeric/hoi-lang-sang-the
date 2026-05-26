@@ -1,0 +1,41 @@
+{
+  "ok": true,
+  "preset": {
+    "id": "29d6d3bc-d4fd-4fa2-9be5-54d4fd8cd461",
+    "ownerId": "777594923678826506",
+    "ownerName": "Asha",
+    "author": "Asha",
+    "authorAvatar": "https://cdn.discordapp.com/avatars/777594923678826506/f830044ccf35092ec51f03fe86edc6a3.png?size=128",
+    "name": "Shadow-sama",
+    "title": "Shadow-sama",
+    "intro": "Shadow-sama trong The Eminence in Shadow.",
+    "coverUrl": "/api/presets/29d6d3bc-d4fd-4fa2-9be5-54d4fd8cd461/cover",
+    "className": "Shadow",
+    "race": "Shadow-sama",
+    "tags": [
+      "Bộc phát",
+      "Đơn mục tiêu",
+      "Chuunibyou"
+    ],
+    "likes": 1,
+    "liked": false,
+    "downloads": 93,
+    "status": "published",
+    "createdAt": "2026-03-24 17:55:45",
+    "updatedAt": "2026-05-23 09:03:39",
+    "lastLikedAt": "",
+    "presetData": {
+      "name": "Cid Kagenou",
+      "class": "Shadow",
+      "customClassName": "Shadow",
+      "race": "__custom__",
+      "customRace": {
+        "name": "Shadow-sama"
+      },
+      "customClassStyle": "Trước khi chuyển sinh, Shadow-sama đã học võ thuật, piano và rất nhiều kiến thức khác để trở thành kẻ mạnh trong bóng tối. Sau khi chuyển sinh, cách hiểu của cậu về ma lực khác hẳn người thường; cậu phát triển kỹ thuật nén ma lực và không ngừng rèn luyện nó, từ khi sinh ra đã luyện ma lực, nhờ ma lực mà mỗi ngày có thể không cần ngủ vẫn tiếp tục tu luyện. Kết hợp tri thức kiếp trước với nỗ lực rèn luyện của bản thân, cậu có những năng lực sau:\n1. Tố chất thân thể mạnh mẽ, được tôi luyện từ nhỏ đến lớn và được cải tạo bằng ma lực.\n2. Kiếm kỹ mạnh mẽ, từng được Võ Thần đánh giá tự nhiên như mưa rơi, ở ngay bên cạnh nhưng gần như không thể nhận ra; cùng kỹ thuật cận chiến dùng dây thép, thánh kiếm vật lý - xà beng, tay chân đánh giáp lá cà.\n3. Lượng ma lực tinh luyện khổng lồ và chất lượng cao, có được nhờ tu luyện kỹ thuật nén ma lực.\n4. Slime: vật liệu có tỷ lệ dẫn ma lực lên tới 99%; chỉ cần rót ma lực vào là có thể tự do điều khiển, biến thành quần áo, kiếm và nhiều hình thái khác.\n5. Khống chế ma lực: có thể dùng ma lực thực hiện đủ loại thao tác, như trị thương cho bản thân hoặc người khác, chữa hiện tượng quỷ ám và hóa ma cà rồng; có thể dùng ma lực để bay, tạo lá chắn bảo vệ tinh cầu, điều khiển độ cứng của dây thép và slime, cải tạo thân thể bản thân hoặc người khác. Nổi tiếng nhất là I Am Atomic, mô phỏng vụ nổ hạt nhân bằng cách phóng thích lượng ma lực khổng lồ chất lượng cao; kẻ địch sẽ bốc hơi dưới đòn đánh và địa hình sẽ bị phá hủy.\nCảnh nổ hạt nhân có sức thể hiện mạnh nhất trong anime hiện tại là lần Shadow-sama dùng ma lực tạo lá chắn ngoài không gian để bảo vệ tinh cầu rồi phóng thích vụ nổ hạt nhân, nguồn năng lượng khổng lồ thắp sáng cả tinh hệ.",
+      "backstory": "",
+      "selectedCustomLevel": null
+    },
+    "downloadUrl": "/api/presets/29d6d3bc-d4fd-4fa2-9be5-54d4fd8cd461/file"
+  }
+}

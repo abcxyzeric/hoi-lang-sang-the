@@ -1,0 +1,729 @@
+{
+  "exportedAt": "2026-03-15T18:56:24.911Z",
+  "version": "1.0",
+  "preset": {
+    "id": "1773600976326",
+    "name": "Nhân Ngẫu Sư 2.6",
+    "timestamp": 1773600976326,
+    "createdAt": 1773600976326,
+    "updatedAt": 1773600976326,
+    "data": {
+      "name": "",
+      "gender": "Nữ",
+      "age": 18,
+      "race": "Chủng Nguyệt Vịnh",
+      "identity": "Kẻ bị bỏ rơi",
+      "avatar": "",
+      "attributes": {
+        "strength": 9,
+        "dexterity": 13,
+        "constitution": 12,
+        "intelligence": 15,
+        "wisdom": 11,
+        "charisma": 13
+      },
+      "backstory": "",
+      "selectedLevelMode": "custom",
+      "selectedCustomLevel": 1,
+      "selectedSpawnPoint": "Đảo Nổi Trung Tâm · hẻm sau Thành Bang Đá Trắng",
+      "class": "Nhân Ngẫu Sư",
+      "selectedBaseClass": "Nghề tùy chỉnh",
+      "customClassName": "Nhân Ngẫu Sư",
+      "customClassStyle": "Tái hiện và triệu hồi những kiệt tác thân thể xinh đẹp do chính mình sáng tạo, trao cho chúng linh hồn riêng. Dùng tơ ma lực để tấn công và điều khiển nhân ngẫu.",
+      "customClassWeapon": "Tơ",
+      "customClassCombatStyle": "Triệu hồi/hỗ trợ",
+      "skillTree": {
+        "基础": [
+          {
+            "名称": "Đâm Quấn Tơ",
+            "类型": "Chủ động",
+            "描述": "Ném sợi tơ sắc bén kèm ma lực để xuyên thủng kẻ địch, để lại chỉ dẫn cho các đòn tấn công nhân ngẫu sau đó. Là kỹ năng mở đầu ưu tú, phối hợp với khiêu khích của Ada để khống chế trước.",
+            "特殊效果": {
+              "1": "Tấn công kẻ địch trên đường thẳng 5 m phía trước; sau khi trúng, gắn 1 tầng dấu ấn [Tơ] lên mục tiêu.",
+              "2": "Tấn công kẻ địch trên đường thẳng 5 m phía trước; sau khi trúng, gắn 1 tầng dấu ấn [Tơ] lên mục tiêu.",
+              "3": "Tấn công kẻ địch trên đường thẳng 5 m phía trước; sau khi trúng, gắn 1 tầng dấu ấn [Tơ] lên mục tiêu.",
+              "4": "Tấn công kẻ địch trên đường thẳng 5 m phía trước; sau khi trúng, gắn 1 tầng dấu ấn [Tơ] lên mục tiêu.",
+              "5": "Tấn công kẻ địch trên đường thẳng 5 m phía trước; sau khi trúng, gắn 1 tầng dấu ấn [Tơ] lên mục tiêu.",
+              "6": "Tấn công kẻ địch trên đường thẳng 5 m phía trước; sau khi trúng, gắn 1 tầng dấu ấn [Tơ] lên mục tiêu.",
+              "7": "Tấn công kẻ địch trên đường thẳng 5 m phía trước; sau khi trúng, gắn 1 tầng dấu ấn [Tơ] lên mục tiêu.",
+              "8": "Tấn công kẻ địch trên đường thẳng 5 m phía trước; sau khi trúng, gắn 1 tầng dấu ấn [Tơ] lên mục tiêu, đồng thời buộc mục tiêu miễn trừ Nhanh nhẹn; nếu thất bại, tốc độ giảm một nửa trong 1 vòng.",
+              "9": "Tấn công kẻ địch trên đường thẳng 5 m phía trước; sau khi trúng, gắn 1 tầng dấu ấn [Tơ] lên mục tiêu, đồng thời buộc mục tiêu miễn trừ Nhanh nhẹn; nếu thất bại, tốc độ giảm một nửa trong 1 vòng.",
+              "10": "Tấn công kẻ địch trên đường thẳng 5 m phía trước; sau khi trúng, gắn 1 tầng dấu ấn [Tơ] lên mục tiêu, đồng thời buộc mục tiêu miễn trừ Nhanh nhẹn; nếu thất bại, tốc độ giảm một nửa trong 1 vòng.",
+              "11": "Tấn công kẻ địch trên đường thẳng 5 m phía trước; sau khi trúng, gắn 1 tầng dấu ấn [Tơ] lên mục tiêu, đồng thời buộc mục tiêu miễn trừ Nhanh nhẹn; nếu thất bại, tốc độ giảm một nửa trong 1 vòng.",
+              "12": "Tấn công kẻ địch trên đường thẳng 5 m phía trước; sau khi trúng, gắn 1 tầng dấu ấn [Tơ] lên mục tiêu, đồng thời buộc mục tiêu miễn trừ Nhanh nhẹn; nếu thất bại, tốc độ giảm một nửa trong 1 vòng.",
+              "13": "Tấn công kẻ địch trên đường thẳng 5 m phía trước; sau khi trúng, gắn 1 tầng dấu ấn [Tơ] lên mục tiêu, đồng thời buộc mục tiêu miễn trừ Nhanh nhẹn; nếu thất bại, tốc độ giảm một nửa trong 1 vòng.",
+              "14": "Tấn công kẻ địch trên đường thẳng 5 m phía trước; sau khi trúng, gắn 1 tầng dấu ấn [Tơ] lên mục tiêu, đồng thời buộc mục tiêu miễn trừ Nhanh nhẹn; nếu thất bại, tốc độ giảm một nửa trong 1 vòng.",
+              "15": "Tấn công kẻ địch trên đường thẳng 5 m phía trước; sau khi trúng, gắn 1 tầng dấu ấn [Tơ] lên mục tiêu, đồng thời buộc mục tiêu miễn trừ Nhanh nhẹn; nếu thất bại, mục tiêu bị [Trói buộc] 1 vòng."
+            },
+            "阶位": "Cơ bản"
+          },
+          {
+            "名称": "Thiếu Nữ Sắt · Ada",
+            "类型": "Triệu hồi",
+            "召唤物名称": "Thiếu Nữ Sắt · Ada",
+            "描述": "Ném ra tơ ma lực, kéo đến một cô gái tóc trắng mặc trọng giáp cao 1,3 m. Cô khoác váy giáp hầu gái bằng thép tinh xảo, cầm khiên lớn và trường kiếm, có lượng máu bằng 60% sinh mệnh tối đa của bạn. Khi xuất hiện, cô dùng trọng khiên nện xuống đất để thu hút hỏa lực địch, bảo vệ tuyến trước cho Nhân Ngẫu Sư mong manh.",
+            "特殊效果": {
+              "1": "Khi đáp xuống, kẻ địch trong phạm vi 5 m xung quanh phải miễn trừ Cảm nhận; nếu thất bại thì bị khiêu khích, cưỡng chế tấn công Ada, kéo dài 1 vòng. Khi đòn đánh thường của Ada trúng, gắn 1 tầng dấu ấn [Tơ] lên mục tiêu.",
+              "2": "Khi đáp xuống, kẻ địch trong phạm vi 5 m xung quanh phải miễn trừ Cảm nhận; nếu thất bại thì bị khiêu khích, cưỡng chế tấn công Ada, kéo dài 1 vòng. Khi đòn đánh thường của Ada trúng, gắn 1 tầng dấu ấn [Tơ] lên mục tiêu.",
+              "3": "Khi đáp xuống, kẻ địch trong phạm vi 5 m xung quanh phải miễn trừ Cảm nhận; nếu thất bại thì bị khiêu khích, cưỡng chế tấn công Ada, kéo dài 1 vòng. Khi đòn đánh thường của Ada trúng, gắn 1 tầng dấu ấn [Tơ] lên mục tiêu.",
+              "4": "Khi đáp xuống, kẻ địch trong phạm vi 5 m xung quanh phải miễn trừ Cảm nhận; nếu thất bại thì bị khiêu khích, cưỡng chế tấn công Ada, kéo dài 1 vòng. Khi đòn đánh thường của Ada trúng, gắn 1 tầng dấu ấn [Tơ] lên mục tiêu.",
+              "5": "Khi đáp xuống, kẻ địch trong phạm vi 5 m xung quanh phải miễn trừ Cảm nhận; nếu thất bại thì bị khiêu khích, cưỡng chế tấn công Ada, kéo dài 1 vòng. Khi đòn đánh thường của Ada trúng, gắn 1 tầng dấu ấn [Tơ] lên mục tiêu.",
+              "6": "Khi đáp xuống, kẻ địch trong phạm vi 5 m xung quanh phải miễn trừ Cảm nhận; nếu thất bại thì bị khiêu khích, cưỡng chế tấn công Ada, kéo dài 1 vòng. Khi đòn đánh thường của Ada trúng, gắn 1 tầng dấu ấn [Tơ] lên mục tiêu.",
+              "7": "Khi đáp xuống, kẻ địch trong phạm vi 5 m xung quanh phải miễn trừ Cảm nhận; nếu thất bại thì bị khiêu khích, cưỡng chế tấn công Ada, kéo dài 1 vòng. Khi đòn đánh thường của Ada trúng, gắn 1 tầng dấu ấn [Tơ] lên mục tiêu.",
+              "8": "Khi đáp xuống, kẻ địch trong phạm vi 5 m xung quanh phải miễn trừ Cảm nhận; nếu thất bại thì bị khiêu khích, cưỡng chế tấn công Ada, kéo dài 1 vòng. Khi đòn đánh thường của Ada trúng, gắn 1 tầng dấu ấn [Tơ] lên mục tiêu.",
+              "9": "Khi đáp xuống, kẻ địch trong phạm vi 5 m xung quanh phải miễn trừ Cảm nhận; nếu thất bại thì bị khiêu khích, cưỡng chế tấn công Ada, kéo dài 1 vòng. Khi đòn đánh thường của Ada trúng, gắn 1 tầng dấu ấn [Tơ] lên mục tiêu.",
+              "10": "Khi đáp xuống, kẻ địch trong phạm vi 8 m xung quanh phải miễn trừ Cảm nhận; nếu thất bại thì bị khiêu khích, cưỡng chế tấn công Ada, kéo dài 2 vòng. Khi đòn đánh thường của Ada trúng, gắn 1 tầng dấu ấn [Tơ] lên mục tiêu.",
+              "11": "Khi đáp xuống, kẻ địch trong phạm vi 8 m xung quanh phải miễn trừ Cảm nhận; nếu thất bại thì bị khiêu khích, cưỡng chế tấn công Ada, kéo dài 2 vòng. Khi đòn đánh thường của Ada trúng, gắn 1 tầng dấu ấn [Tơ] lên mục tiêu.",
+              "12": "Khi đáp xuống, kẻ địch trong phạm vi 8 m xung quanh phải miễn trừ Cảm nhận; nếu thất bại thì bị khiêu khích, cưỡng chế tấn công Ada, kéo dài 2 vòng. Khi đòn đánh thường của Ada trúng, gắn 1 tầng dấu ấn [Tơ] lên mục tiêu.",
+              "13": "Khi đáp xuống, kẻ địch trong phạm vi 8 m xung quanh phải miễn trừ Cảm nhận; nếu thất bại thì bị khiêu khích, cưỡng chế tấn công Ada, kéo dài 2 vòng. Khi đòn đánh thường của Ada trúng, gắn 1 tầng dấu ấn [Tơ] lên mục tiêu.",
+              "14": "Khi đáp xuống, kẻ địch trong phạm vi 8 m xung quanh phải miễn trừ Cảm nhận; nếu thất bại thì bị khiêu khích, cưỡng chế tấn công Ada, kéo dài 2 vòng. Khi đòn đánh thường của Ada trúng, gắn 1 tầng dấu ấn [Tơ] lên mục tiêu.",
+              "15": "Khi đáp xuống, kẻ địch trong phạm vi 8 m xung quanh phải miễn trừ Cảm nhận; nếu thất bại thì bị khiêu khích, cưỡng chế tấn công Ada, kéo dài 2 vòng. Khi đòn đánh thường của Ada trúng, gắn 1 tầng dấu ấn [Tơ] lên mục tiêu."
+            },
+            "阶位": "Cơ bản"
+          },
+          {
+            "名称": "Dây Điều Khiển Ma Lực",
+            "类型": "Đặc biệt",
+            "描述": "Rót ma lực tinh thuần vào những sợi tơ điều khiển nhân ngẫu, trong thời gian ngắn cường hóa năng lực tác chiến của nhân ngẫu. Khi nhân ngẫu tấn công kẻ địch mang dấu ấn [Tơ], chúng nhận tăng ích toàn diện.",
+            "特殊效果": {
+              "1": "Sau khi chủ động bật, kéo dài 3 vòng: khi toàn bộ nhân ngẫu tấn công kẻ địch mang dấu ấn [Tơ], kiểm định trúng đòn +1, sát thương cuối cùng tăng 5%.",
+              "2": "Sau khi chủ động bật, kéo dài 3 vòng: khi toàn bộ nhân ngẫu tấn công kẻ địch mang dấu ấn [Tơ], kiểm định trúng đòn +1, sát thương cuối cùng tăng 7%.",
+              "3": "Sau khi chủ động bật, kéo dài 3 vòng: khi toàn bộ nhân ngẫu tấn công kẻ địch mang dấu ấn [Tơ], kiểm định trúng đòn +1, sát thương cuối cùng tăng 10%.",
+              "4": "Sau khi chủ động bật, kéo dài 4 vòng: khi toàn bộ nhân ngẫu tấn công kẻ địch mang dấu ấn [Tơ], kiểm định trúng đòn +1, sát thương cuối cùng tăng 10%.",
+              "5": "Sau khi chủ động bật, kéo dài 4 vòng: khi toàn bộ nhân ngẫu tấn công kẻ địch mang dấu ấn [Tơ], kiểm định trúng đòn +1, sát thương cuối cùng tăng 15%.",
+              "6": "Sau khi chủ động bật, kéo dài 4 vòng: khi toàn bộ nhân ngẫu tấn công kẻ địch mang dấu ấn [Tơ], kiểm định trúng đòn +2, sát thương cuối cùng tăng 15%.",
+              "7": "Sau khi chủ động bật, kéo dài 5 vòng: khi toàn bộ nhân ngẫu tấn công kẻ địch mang dấu ấn [Tơ], kiểm định trúng đòn +2, sát thương cuối cùng tăng 15%.",
+              "8": "Sau khi chủ động bật, kéo dài 5 vòng: khi toàn bộ nhân ngẫu tấn công kẻ địch mang dấu ấn [Tơ], kiểm định trúng đòn +2, sát thương cuối cùng tăng 20%.",
+              "9": "Sau khi chủ động bật, kéo dài 5 vòng: khi toàn bộ nhân ngẫu tấn công kẻ địch mang dấu ấn [Tơ], kiểm định trúng đòn +2, sát thương cuối cùng tăng 25%.",
+              "10": "Sau khi chủ động bật, kéo dài 6 vòng: khi toàn bộ nhân ngẫu tấn công kẻ địch mang dấu ấn [Tơ], kiểm định trúng đòn +2, sát thương cuối cùng tăng 25%.",
+              "11": "Sau khi chủ động bật, kéo dài 6 vòng: khi toàn bộ nhân ngẫu tấn công kẻ địch mang dấu ấn [Tơ], kiểm định trúng đòn +3, sát thương cuối cùng tăng 25%.",
+              "12": "Sau khi chủ động bật, kéo dài 6 vòng: khi toàn bộ nhân ngẫu tấn công kẻ địch mang dấu ấn [Tơ], kiểm định trúng đòn +3, sát thương cuối cùng tăng 30%.",
+              "13": "Sau khi chủ động bật, kéo dài 7 vòng: khi toàn bộ nhân ngẫu tấn công kẻ địch mang dấu ấn [Tơ], kiểm định trúng đòn +3, sát thương cuối cùng tăng 30%.",
+              "14": "Sau khi chủ động bật, kéo dài 7 vòng: khi toàn bộ nhân ngẫu tấn công kẻ địch mang dấu ấn [Tơ], kiểm định trúng đòn +3, sát thương cuối cùng tăng 35%.",
+              "15": "Sau khi chủ động bật, kéo dài 7 vòng: khi toàn bộ nhân ngẫu tấn công kẻ địch mang dấu ấn [Tơ], kiểm định trúng đòn +3, sát thương cuối cùng tăng 40%. Đồng thời toàn bộ đòn tấn công của nhân ngẫu bỏ qua 1 điểm AC của mục tiêu."
+            },
+            "阶位": "Cơ bản"
+          }
+        ],
+        "转职": [
+          {
+            "名称": "Cộng Hưởng Tơ Kéo",
+            "类型": "Đặc biệt nghề nghiệp",
+            "描述": "Kích hoạt mạch lõi đặc hữu của Nhân Ngẫu Sư, thiết lập liên kết linh hồn với nhân ngẫu, khiến các đòn tấn công tiêu hao dấu ấn trở nên uy hiếp hơn. Cung cấp khả năng duy trì cho toàn bộ chuỗi liên chiêu.",
+            "特殊效果": {
+              "1": "Sau khi chủ động bật, kéo dài suốt trận chiến: mỗi khi nhân ngẫu trên sân tiêu hao dấu ấn [Tơ], hồi cho bạn lượng máu bằng 2% sinh mệnh tối đa của bạn, đồng thời đòn tấn công kế tiếp của nhân ngẫu đó có kiểm định trúng đòn +1."
+            },
+            "阶位": "Chuyển nghề"
+          },
+          {
+            "名称": "Vũ Nương Dạ Anh · Chiyo",
+            "类型": "Triệu hồi",
+            "召唤物名称": "Vũ Nương Dạ Anh · Chiyo",
+            "描述": "Dệt ra một vũ nương tóc đen nhỏ nhắn, tao nhã, cao 1 m. Cô mặc kimono tím sẫm lộng lẫy, cầm quạt xếp có ám khí, dùng vũ điệu uyển chuyển để ném phi châm tấn công tầm xa. Cô có lượng máu bằng 40% sinh mệnh tối đa của bạn, dùng để tiêu hao dấu ấn ở khoảng cách an toàn và gây sát thương cao.",
+            "特殊效果": {
+              "1": "Tầm tấn công phi châm của Chiyo là 15 m. Nếu mục tiêu mang dấu ấn [Tơ], tiêu hao 1 tầng dấu ấn, khiến sát thương cuối cùng của đòn này tăng 20%.",
+              "2": "Tầm tấn công phi châm của Chiyo là 15 m. Nếu mục tiêu mang dấu ấn [Tơ], tiêu hao 1 tầng dấu ấn, khiến sát thương cuối cùng của đòn này tăng 20%.",
+              "3": "Tầm tấn công phi châm của Chiyo là 15 m. Nếu mục tiêu mang dấu ấn [Tơ], tiêu hao 1 tầng dấu ấn, khiến sát thương cuối cùng của đòn này tăng 20%.",
+              "4": "Tầm tấn công phi châm của Chiyo là 15 m. Nếu mục tiêu mang dấu ấn [Tơ], tiêu hao 1 tầng dấu ấn, khiến sát thương cuối cùng của đòn này tăng 20%.",
+              "5": "Tầm tấn công phi châm của Chiyo là 15 m. Nếu mục tiêu mang dấu ấn [Tơ], tiêu hao 1 tầng dấu ấn, khiến sát thương cuối cùng của đòn này tăng 20%.",
+              "6": "Tầm tấn công phi châm của Chiyo là 15 m. Nếu mục tiêu mang dấu ấn [Tơ], tiêu hao 1 tầng dấu ấn, khiến sát thương cuối cùng của đòn này tăng 20%.",
+              "7": "Tầm tấn công phi châm của Chiyo là 15 m. Nếu mục tiêu mang dấu ấn [Tơ], tiêu hao 1 tầng dấu ấn, khiến sát thương cuối cùng của đòn này tăng 20%.",
+              "8": "Tầm tấn công phi châm của Chiyo là 15 m. Nếu mục tiêu mang dấu ấn [Tơ], tiêu hao 1 tầng dấu ấn, khiến sát thương cuối cùng của đòn này tăng 20%.",
+              "9": "Tầm tấn công phi châm của Chiyo là 15 m. Nếu mục tiêu mang dấu ấn [Tơ], tiêu hao 1 tầng dấu ấn, khiến sát thương cuối cùng của đòn này tăng 20%.",
+              "10": "Tầm tấn công phi châm của Chiyo là 15 m, đồng thời có thể tấn công 2 mục tiêu cùng lúc. Nếu mục tiêu mang dấu ấn [Tơ], tiêu hao 1 tầng dấu ấn, khiến sát thương cuối cùng của đòn này tăng 30%, đồng thời giảm AC của mục tiêu 2 điểm, kéo dài 2 vòng.",
+              "11": "Tầm tấn công phi châm của Chiyo là 15 m, đồng thời có thể tấn công 2 mục tiêu cùng lúc. Nếu mục tiêu mang dấu ấn [Tơ], tiêu hao 1 tầng dấu ấn, khiến sát thương cuối cùng của đòn này tăng 30%, đồng thời giảm AC của mục tiêu 2 điểm, kéo dài 2 vòng.",
+              "12": "Tầm tấn công phi châm của Chiyo là 15 m, đồng thời có thể tấn công 2 mục tiêu cùng lúc. Nếu mục tiêu mang dấu ấn [Tơ], tiêu hao 1 tầng dấu ấn, khiến sát thương cuối cùng của đòn này tăng 30%, đồng thời giảm AC của mục tiêu 2 điểm, kéo dài 2 vòng.",
+              "13": "Tầm tấn công phi châm của Chiyo là 15 m, đồng thời có thể tấn công 2 mục tiêu cùng lúc. Nếu mục tiêu mang dấu ấn [Tơ], tiêu hao 1 tầng dấu ấn, khiến sát thương cuối cùng của đòn này tăng 30%, đồng thời giảm AC của mục tiêu 2 điểm, kéo dài 2 vòng.",
+              "14": "Tầm tấn công phi châm của Chiyo là 15 m, đồng thời có thể tấn công 2 mục tiêu cùng lúc. Nếu mục tiêu mang dấu ấn [Tơ], tiêu hao 1 tầng dấu ấn, khiến sát thương cuối cùng của đòn này tăng 30%, đồng thời giảm AC của mục tiêu 2 điểm, kéo dài 2 vòng.",
+              "15": "Tầm tấn công phi châm của Chiyo là 15 m, đồng thời có thể tấn công 2 mục tiêu cùng lúc. Nếu mục tiêu mang dấu ấn [Tơ], tiêu hao 1 tầng dấu ấn, khiến sát thương cuối cùng của đòn này tăng 30%, đồng thời giảm AC của mục tiêu 2 điểm, kéo dài 2 vòng."
+            },
+            "阶位": "Chuyển nghề"
+          },
+          {
+            "名称": "Kéo Giật Tơ",
+            "类型": "Chủ động",
+            "描述": "Điều khiển sợi tơ nối trên người kẻ địch, cưỡng ép phá vỡ thăng bằng và kéo chúng lại gần. Kế thừa dấu ấn do Đâm Quấn Tơ hoặc đòn đánh thường của Ada đem lại, lôi kẻ địch vào phạm vi tấn công.",
+            "特殊效果": {
+              "1": "Khi trúng, nếu mục tiêu mang dấu ấn [Tơ], cưỡng ép kéo mục tiêu 3 m về phía bản thân.",
+              "2": "Khi trúng, nếu mục tiêu mang dấu ấn [Tơ], cưỡng ép kéo mục tiêu 3 m về phía bản thân.",
+              "3": "Khi trúng, nếu mục tiêu mang dấu ấn [Tơ], cưỡng ép kéo mục tiêu 3 m về phía bản thân.",
+              "4": "Khi trúng, nếu mục tiêu mang dấu ấn [Tơ], cưỡng ép kéo mục tiêu 3 m về phía bản thân.",
+              "5": "Khi trúng, nếu mục tiêu mang dấu ấn [Tơ], cưỡng ép kéo mục tiêu 3 m về phía bản thân.",
+              "6": "Khi trúng, nếu mục tiêu mang dấu ấn [Tơ], cưỡng ép kéo mục tiêu 3 m về phía bản thân.",
+              "7": "Khi trúng, nếu mục tiêu mang dấu ấn [Tơ], cưỡng ép kéo mục tiêu 3 m về phía bản thân.",
+              "8": "Khi trúng, nếu mục tiêu mang dấu ấn [Tơ], cưỡng ép kéo mục tiêu 3 m về phía bản thân, đồng thời khiến kiểm định tấn công kế tiếp của mục tiêu -1.",
+              "9": "Khi trúng, nếu mục tiêu mang dấu ấn [Tơ], cưỡng ép kéo mục tiêu 3 m về phía bản thân, đồng thời khiến kiểm định tấn công kế tiếp của mục tiêu -1.",
+              "10": "Khi trúng, nếu mục tiêu mang dấu ấn [Tơ], cưỡng ép kéo mục tiêu 3 m về phía bản thân, đồng thời khiến kiểm định tấn công kế tiếp của mục tiêu -1.",
+              "11": "Khi trúng, nếu mục tiêu mang dấu ấn [Tơ], cưỡng ép kéo mục tiêu 3 m về phía bản thân, đồng thời khiến kiểm định tấn công kế tiếp của mục tiêu -1.",
+              "12": "Khi trúng, nếu mục tiêu mang dấu ấn [Tơ], cưỡng ép kéo mục tiêu 3 m về phía bản thân, đồng thời khiến kiểm định tấn công kế tiếp của mục tiêu -1.",
+              "13": "Khi trúng, nếu mục tiêu mang dấu ấn [Tơ], cưỡng ép kéo mục tiêu 3 m về phía bản thân, đồng thời khiến kiểm định tấn công kế tiếp của mục tiêu -1.",
+              "14": "Khi trúng, nếu mục tiêu mang dấu ấn [Tơ], cưỡng ép kéo mục tiêu 3 m về phía bản thân, đồng thời khiến kiểm định tấn công kế tiếp của mục tiêu -1.",
+              "15": "Khi trúng, nếu mục tiêu mang dấu ấn [Tơ], cưỡng ép kéo mục tiêu 3 m về phía bản thân, đồng thời khiến kiểm định tấn công kế tiếp của mục tiêu -1. Nếu mục tiêu va vào Ada trong lúc bị kéo, mục tiêu chịu thêm 1 lần sát thương va chạm và bị [Ngã xuống] 1 vòng."
+            },
+            "阶位": "Chuyển nghề"
+          },
+          {
+            "名称": "Kích Nổ Tơ",
+            "类型": "Chủ động",
+            "描述": "Rót ma lực quá tải vào kẻ địch mang dấu ấn hoặc nhân ngẫu của bản thân. Kích nổ dấu ấn [Tơ] để gây sát thương phạm vi, hoặc hy sinh nhân ngẫu để dẫn phát vụ nổ hủy diệt diện rộng. Phối hợp với khiêu khích tụ quái của Ada có thể gây trọng thương.",
+            "特殊效果": {
+              "1": "Kích nổ toàn bộ dấu ấn [Tơ] trên người mục tiêu, mỗi tầng dấu ấn gây sát thương ma pháp cho kẻ địch trong phạm vi 3 m xung quanh. Nếu chỉ định một nhân ngẫu trên sân, hy sinh nhân ngẫu đó, gây lượng lớn sát thương ma pháp cho kẻ địch trong phạm vi 5 m xung quanh, đồng thời cưỡng ép gắn 1 tầng dấu ấn [Tơ] cho nạn nhân.",
+              "2": "Kích nổ toàn bộ dấu ấn [Tơ] trên người mục tiêu, mỗi tầng dấu ấn gây sát thương ma pháp cho kẻ địch trong phạm vi 3 m xung quanh. Nếu chỉ định một nhân ngẫu trên sân, hy sinh nhân ngẫu đó, gây lượng lớn sát thương ma pháp cho kẻ địch trong phạm vi 5 m xung quanh, đồng thời cưỡng ép gắn 1 tầng dấu ấn [Tơ] cho nạn nhân.",
+              "3": "Kích nổ toàn bộ dấu ấn [Tơ] trên người mục tiêu, mỗi tầng dấu ấn gây sát thương ma pháp cho kẻ địch trong phạm vi 3 m xung quanh. Nếu chỉ định một nhân ngẫu trên sân, hy sinh nhân ngẫu đó, gây lượng lớn sát thương ma pháp cho kẻ địch trong phạm vi 5 m xung quanh, đồng thời cưỡng ép gắn 1 tầng dấu ấn [Tơ] cho nạn nhân.",
+              "4": "Kích nổ toàn bộ dấu ấn [Tơ] trên người mục tiêu, mỗi tầng dấu ấn gây sát thương ma pháp cho kẻ địch trong phạm vi 3 m xung quanh. Nếu chỉ định một nhân ngẫu trên sân, hy sinh nhân ngẫu đó, gây lượng lớn sát thương ma pháp cho kẻ địch trong phạm vi 5 m xung quanh, đồng thời cưỡng ép gắn 1 tầng dấu ấn [Tơ] cho nạn nhân.",
+              "5": "Kích nổ toàn bộ dấu ấn [Tơ] trên người mục tiêu, mỗi tầng dấu ấn gây sát thương ma pháp cho kẻ địch trong phạm vi 3 m xung quanh. Nếu chỉ định một nhân ngẫu trên sân, hy sinh nhân ngẫu đó, gây lượng lớn sát thương ma pháp cho kẻ địch trong phạm vi 5 m xung quanh, đồng thời cưỡng ép gắn 1 tầng dấu ấn [Tơ] cho nạn nhân.",
+              "6": "Kích nổ toàn bộ dấu ấn [Tơ] trên người mục tiêu, mỗi tầng dấu ấn gây sát thương ma pháp cho kẻ địch trong phạm vi 3 m xung quanh. Nếu chỉ định một nhân ngẫu trên sân, hy sinh nhân ngẫu đó, gây lượng lớn sát thương ma pháp cho kẻ địch trong phạm vi 5 m xung quanh, đồng thời cưỡng ép gắn 1 tầng dấu ấn [Tơ] cho nạn nhân.",
+              "7": "Kích nổ toàn bộ dấu ấn [Tơ] trên người mục tiêu, mỗi tầng dấu ấn gây sát thương ma pháp cho kẻ địch trong phạm vi 3 m xung quanh. Nếu chỉ định một nhân ngẫu trên sân, hy sinh nhân ngẫu đó, gây lượng lớn sát thương ma pháp cho kẻ địch trong phạm vi 5 m xung quanh, đồng thời cưỡng ép gắn 1 tầng dấu ấn [Tơ] cho nạn nhân.",
+              "8": "Kích nổ toàn bộ dấu ấn [Tơ] trên người mục tiêu, mỗi tầng dấu ấn gây sát thương ma pháp cho kẻ địch trong phạm vi 3 m xung quanh. Nếu chỉ định một nhân ngẫu trên sân, hy sinh nhân ngẫu đó, gây lượng lớn sát thương ma pháp cho kẻ địch trong phạm vi 8 m xung quanh, cưỡng ép gắn 1 tầng dấu ấn [Tơ] cho nạn nhân, đồng thời buộc họ miễn trừ Thể chất; nếu thất bại thì bị [Đẩy lùi] 3 m.",
+              "9": "Kích nổ toàn bộ dấu ấn [Tơ] trên người mục tiêu, mỗi tầng dấu ấn gây sát thương ma pháp cho kẻ địch trong phạm vi 3 m xung quanh. Nếu chỉ định một nhân ngẫu trên sân, hy sinh nhân ngẫu đó, gây lượng lớn sát thương ma pháp cho kẻ địch trong phạm vi 8 m xung quanh, cưỡng ép gắn 1 tầng dấu ấn [Tơ] cho nạn nhân, đồng thời buộc họ miễn trừ Thể chất; nếu thất bại thì bị [Đẩy lùi] 3 m.",
+              "10": "Kích nổ toàn bộ dấu ấn [Tơ] trên người mục tiêu, mỗi tầng dấu ấn gây sát thương ma pháp cho kẻ địch trong phạm vi 3 m xung quanh. Nếu chỉ định một nhân ngẫu trên sân, hy sinh nhân ngẫu đó, gây lượng lớn sát thương ma pháp cho kẻ địch trong phạm vi 8 m xung quanh, cưỡng ép gắn 1 tầng dấu ấn [Tơ] cho nạn nhân, đồng thời buộc họ miễn trừ Thể chất; nếu thất bại thì bị [Đẩy lùi] 3 m.",
+              "11": "Kích nổ toàn bộ dấu ấn [Tơ] trên người mục tiêu, mỗi tầng dấu ấn gây sát thương ma pháp cho kẻ địch trong phạm vi 3 m xung quanh. Nếu chỉ định một nhân ngẫu trên sân, hy sinh nhân ngẫu đó, gây lượng lớn sát thương ma pháp cho kẻ địch trong phạm vi 8 m xung quanh, cưỡng ép gắn 1 tầng dấu ấn [Tơ] cho nạn nhân, đồng thời buộc họ miễn trừ Thể chất; nếu thất bại thì bị [Đẩy lùi] 3 m.",
+              "12": "Kích nổ toàn bộ dấu ấn [Tơ] trên người mục tiêu, mỗi tầng dấu ấn gây sát thương ma pháp cho kẻ địch trong phạm vi 3 m xung quanh. Nếu chỉ định một nhân ngẫu trên sân, hy sinh nhân ngẫu đó, gây lượng lớn sát thương ma pháp cho kẻ địch trong phạm vi 8 m xung quanh, cưỡng ép gắn 1 tầng dấu ấn [Tơ] cho nạn nhân, đồng thời buộc họ miễn trừ Thể chất; nếu thất bại thì bị [Đẩy lùi] 3 m.",
+              "13": "Kích nổ toàn bộ dấu ấn [Tơ] trên người mục tiêu, mỗi tầng dấu ấn gây sát thương ma pháp cho kẻ địch trong phạm vi 3 m xung quanh. Nếu chỉ định một nhân ngẫu trên sân, hy sinh nhân ngẫu đó, gây lượng lớn sát thương ma pháp cho kẻ địch trong phạm vi 8 m xung quanh, cưỡng ép gắn 1 tầng dấu ấn [Tơ] cho nạn nhân, đồng thời buộc họ miễn trừ Thể chất; nếu thất bại thì bị [Đẩy lùi] 3 m.",
+              "14": "Kích nổ toàn bộ dấu ấn [Tơ] trên người mục tiêu, mỗi tầng dấu ấn gây sát thương ma pháp cho kẻ địch trong phạm vi 3 m xung quanh. Nếu chỉ định một nhân ngẫu trên sân, hy sinh nhân ngẫu đó, gây lượng lớn sát thương ma pháp cho kẻ địch trong phạm vi 8 m xung quanh, cưỡng ép gắn 1 tầng dấu ấn [Tơ] cho nạn nhân, đồng thời buộc họ miễn trừ Thể chất; nếu thất bại thì bị [Đẩy lùi] 3 m.",
+              "15": "Kích nổ toàn bộ dấu ấn [Tơ] trên người mục tiêu, mỗi tầng dấu ấn gây sát thương ma pháp cho kẻ địch trong phạm vi 3 m xung quanh. Nếu chỉ định một nhân ngẫu trên sân, hy sinh nhân ngẫu đó, gây lượng lớn sát thương ma pháp cho kẻ địch trong phạm vi 8 m xung quanh, cưỡng ép gắn 1 tầng dấu ấn [Tơ] cho nạn nhân, đồng thời buộc họ miễn trừ Thể chất; nếu thất bại thì bị [Đẩy lùi] 3 m và [Choáng] 1 vòng."
+            },
+            "阶位": "Chuyển nghề"
+          }
+        ],
+        "进阶": [
+          {
+            "名称": "Lưỡi Tơ Cắt Xé",
+            "类型": "Chủ động",
+            "描述": "Vung những sợi tơ phủ đầy lưỡi ma lực ra xung quanh, cắt nát kẻ địch áp sát. Có thể phối hợp với Ada tụ quái rồi sử dụng để nhanh chóng gắn dấu ấn trên phạm vi lớn.",
+            "特殊效果": {
+              "1": "Gây sát thương cho kẻ địch trong phạm vi 5 m quanh bản thân, đồng thời gắn 1 tầng dấu ấn [Tơ].",
+              "2": "Gây sát thương cho kẻ địch trong phạm vi 5 m quanh bản thân, đồng thời gắn 1 tầng dấu ấn [Tơ].",
+              "3": "Gây sát thương cho kẻ địch trong phạm vi 5 m quanh bản thân, đồng thời gắn 1 tầng dấu ấn [Tơ].",
+              "4": "Gây sát thương cho kẻ địch trong phạm vi 5 m quanh bản thân, đồng thời gắn 1 tầng dấu ấn [Tơ].",
+              "5": "Gây sát thương cho kẻ địch trong phạm vi 5 m quanh bản thân, đồng thời gắn 1 tầng dấu ấn [Tơ].",
+              "6": "Gây sát thương cho kẻ địch trong phạm vi 5 m quanh bản thân, đồng thời gắn 1 tầng dấu ấn [Tơ].",
+              "7": "Gây sát thương cho kẻ địch trong phạm vi 5 m quanh bản thân, đồng thời gắn 1 tầng dấu ấn [Tơ].",
+              "8": "Gây sát thương cho kẻ địch trong phạm vi 5 m quanh bản thân, đồng thời gắn 1 tầng dấu ấn [Tơ]. Nếu mục tiêu đang bị Ada khiêu khích, giảm thêm 1 điểm AC, kéo dài 2 vòng.",
+              "9": "Gây sát thương cho kẻ địch trong phạm vi 5 m quanh bản thân, đồng thời gắn 1 tầng dấu ấn [Tơ]. Nếu mục tiêu đang bị Ada khiêu khích, giảm thêm 1 điểm AC, kéo dài 2 vòng.",
+              "10": "Gây sát thương cho kẻ địch trong phạm vi 5 m quanh bản thân, đồng thời gắn 1 tầng dấu ấn [Tơ]. Nếu mục tiêu đang bị Ada khiêu khích, giảm thêm 1 điểm AC, kéo dài 2 vòng."
+            },
+            "阶位": "Nâng cao"
+          },
+          {
+            "名称": "Dệt Lưới Hư Không",
+            "类型": "Chủ động",
+            "描述": "Xé rách không gian, kéo ra vô số sợi tơ ma lực nhỏ mảnh từ hư không, hình thành một bức tường tơ ẩn mật phía trước.",
+            "特殊效果": {
+              "1": "Tạo một bức tường tơ dài 10 m, cao 3 m phía trước, kéo dài 2 vòng. Khi kẻ địch xuyên qua tường, họ phải miễn trừ Nhanh nhẹn; nếu thất bại thì bị gắn 1 tầng dấu ấn [Tơ] và tốc độ di chuyển giảm một nửa.",
+              "2": "Tạo một bức tường tơ dài 10 m, cao 3 m phía trước, kéo dài 2 vòng. Khi kẻ địch xuyên qua tường, họ phải miễn trừ Nhanh nhẹn; nếu thất bại thì bị gắn 1 tầng dấu ấn [Tơ] và tốc độ di chuyển giảm một nửa.",
+              "3": "Tạo một bức tường tơ dài 10 m, cao 3 m phía trước, kéo dài 2 vòng. Khi kẻ địch xuyên qua tường, họ phải miễn trừ Nhanh nhẹn; nếu thất bại thì bị gắn 1 tầng dấu ấn [Tơ] và tốc độ di chuyển giảm một nửa.",
+              "4": "Tạo một bức tường tơ dài 10 m, cao 3 m phía trước, kéo dài 2 vòng. Khi kẻ địch xuyên qua tường, họ phải miễn trừ Nhanh nhẹn; nếu thất bại thì bị gắn 1 tầng dấu ấn [Tơ] và tốc độ di chuyển giảm một nửa.",
+              "5": "Tạo một bức tường tơ dài 10 m, cao 3 m phía trước, kéo dài 2 vòng. Khi kẻ địch xuyên qua tường, họ phải miễn trừ Nhanh nhẹn; nếu thất bại thì chịu sát thương xuyên thấu, bị gắn 2 tầng dấu ấn [Tơ] và tốc độ di chuyển giảm một nửa trong 1 vòng.",
+              "6": "Tạo một bức tường tơ dài 10 m, cao 3 m phía trước, kéo dài 2 vòng. Khi kẻ địch xuyên qua tường, họ phải miễn trừ Nhanh nhẹn; nếu thất bại thì chịu sát thương xuyên thấu, bị gắn 2 tầng dấu ấn [Tơ] và tốc độ di chuyển giảm một nửa trong 1 vòng.",
+              "7": "Tạo một bức tường tơ dài 10 m, cao 3 m phía trước, kéo dài 2 vòng. Khi kẻ địch xuyên qua tường, họ phải miễn trừ Nhanh nhẹn; nếu thất bại thì chịu sát thương xuyên thấu, bị gắn 2 tầng dấu ấn [Tơ] và tốc độ di chuyển giảm một nửa trong 1 vòng.",
+              "8": "Tạo một bức tường tơ dài 10 m, cao 3 m phía trước, kéo dài 2 vòng. Khi kẻ địch xuyên qua tường, họ phải miễn trừ Nhanh nhẹn; nếu thất bại thì chịu sát thương xuyên thấu, bị gắn 2 tầng dấu ấn [Tơ] và tốc độ di chuyển giảm một nửa trong 1 vòng.",
+              "9": "Tạo một bức tường tơ dài 10 m, cao 3 m phía trước, kéo dài 2 vòng. Khi kẻ địch xuyên qua tường, họ phải miễn trừ Nhanh nhẹn; nếu thất bại thì chịu sát thương xuyên thấu, bị gắn 2 tầng dấu ấn [Tơ] và tốc độ di chuyển giảm một nửa trong 1 vòng.",
+              "10": "Tạo một bức tường tơ dài 15 m, cao 3 m phía trước, kéo dài 3 vòng. Khi kẻ địch xuyên qua tường, họ phải miễn trừ Nhanh nhẹn; nếu thất bại thì chịu sát thương xuyên thấu, bị gắn 2 tầng dấu ấn [Tơ] và tốc độ di chuyển giảm một nửa trong 1 vòng."
+            },
+            "阶位": "Nâng cao"
+          },
+          {
+            "名称": "Khâu Linh Hồn",
+            "类型": "Chủ động",
+            "描述": "Bắn ra tơ linh hồn có lực xuyên thấu cực mạnh, khâu số mệnh của nhiều kẻ địch lại với nhau. Phối hợp kỹ năng sát thương phạm vi và đòn xuyên thấu của Chiyo để chia sẻ và lan truyền sát thương.",
+            "特殊效果": {
+              "1": "Bắn tơ về phía trước, nối tối đa 3 kẻ địch lại với nhau trong 2 vòng. Trong thời gian này, khi một kẻ trong số đó chịu sát thương, những kẻ bị nối còn lại chịu sát thương ma pháp bằng 10% sát thương cuối cùng của lần đó.",
+              "2": "Bắn tơ về phía trước, nối tối đa 3 kẻ địch lại với nhau trong 2 vòng. Trong thời gian này, khi một kẻ trong số đó chịu sát thương, những kẻ bị nối còn lại chịu sát thương ma pháp bằng 10% sát thương cuối cùng của lần đó.",
+              "3": "Bắn tơ về phía trước, nối tối đa 3 kẻ địch lại với nhau trong 2 vòng. Trong thời gian này, khi một kẻ trong số đó chịu sát thương, những kẻ bị nối còn lại chịu sát thương ma pháp bằng 10% sát thương cuối cùng của lần đó.",
+              "4": "Bắn tơ về phía trước, nối tối đa 3 kẻ địch lại với nhau trong 2 vòng. Trong thời gian này, khi một kẻ trong số đó chịu sát thương, những kẻ bị nối còn lại chịu sát thương ma pháp bằng 10% sát thương cuối cùng của lần đó.",
+              "5": "Bắn tơ về phía trước, nối tối đa 3 kẻ địch lại với nhau trong 2 vòng. Nếu mục tiêu mang dấu ấn [Tơ], tiêu hao 1 tầng dấu ấn để tăng thời lượng nối lên 3 vòng. Trong thời gian này, khi một kẻ trong số đó chịu sát thương, những kẻ bị nối còn lại chịu sát thương ma pháp bằng 10% sát thương cuối cùng của lần đó.",
+              "6": "Bắn tơ về phía trước, nối tối đa 3 kẻ địch lại với nhau trong 2 vòng. Nếu mục tiêu mang dấu ấn [Tơ], tiêu hao 1 tầng dấu ấn để tăng thời lượng nối lên 3 vòng. Trong thời gian này, khi một kẻ trong số đó chịu sát thương, những kẻ bị nối còn lại chịu sát thương ma pháp bằng 10% sát thương cuối cùng của lần đó.",
+              "7": "Bắn tơ về phía trước, nối tối đa 3 kẻ địch lại với nhau trong 2 vòng. Nếu mục tiêu mang dấu ấn [Tơ], tiêu hao 1 tầng dấu ấn để tăng thời lượng nối lên 3 vòng. Trong thời gian này, khi một kẻ trong số đó chịu sát thương, những kẻ bị nối còn lại chịu sát thương ma pháp bằng 10% sát thương cuối cùng của lần đó.",
+              "8": "Bắn tơ về phía trước, nối tối đa 3 kẻ địch lại với nhau trong 2 vòng. Nếu mục tiêu mang dấu ấn [Tơ], tiêu hao 1 tầng dấu ấn để tăng thời lượng nối lên 3 vòng. Trong thời gian này, khi một kẻ trong số đó chịu sát thương, những kẻ bị nối còn lại chịu sát thương ma pháp bằng 10% sát thương cuối cùng của lần đó.",
+              "9": "Bắn tơ về phía trước, nối tối đa 3 kẻ địch lại với nhau trong 2 vòng. Nếu mục tiêu mang dấu ấn [Tơ], tiêu hao 1 tầng dấu ấn để tăng thời lượng nối lên 3 vòng. Trong thời gian này, khi một kẻ trong số đó chịu sát thương, những kẻ bị nối còn lại chịu sát thương ma pháp bằng 10% sát thương cuối cùng của lần đó.",
+              "10": "Bắn tơ về phía trước, nối tối đa 4 kẻ địch lại với nhau trong 2 vòng. Nếu mục tiêu mang dấu ấn [Tơ], tiêu hao 1 tầng dấu ấn để tăng thời lượng nối lên 3 vòng. Trong thời gian này, khi một kẻ trong số đó chịu sát thương, những kẻ bị nối còn lại chịu sát thương ma pháp bằng 15% sát thương cuối cùng của lần đó, đồng thời tốc độ di chuyển giảm 3 m."
+            },
+            "阶位": "Nâng cao"
+          }
+        ],
+        "必杀": [
+          {
+            "名称": "Kẻ Gặt Máu · Claire",
+            "类型": "Triệu hồi",
+            "召唤物名称": "Kẻ Gặt Máu · Claire",
+            "描述": "Dùng tơ kèm huyết ma pháp để triệu hồi một cô gái tóc đỏ yandere cao 1,5 m. Cô mặc váy Tây kiểu Gothic đỏ đen, hai tay kéo lê một lưỡi hái máu khổng lồ, có lượng máu bằng 50% sinh mệnh tối đa của bạn. Khi xuất hiện, cô quét ngang kẻ địch xung quanh; các đòn tấn công sau đó có thể hút sinh mệnh để hồi lại cho toàn đội. Phối hợp với tụ quái của Ada để thu hoạch phạm vi.",
+            "特殊效果": {
+              "1": "Phạm vi đánh thường là hình quạt 3 m. Khi tấn công trúng kẻ địch mang dấu ấn [Tơ], tiêu hao 1 tầng dấu ấn, chuyển 30% sát thương gây ra lần này thành lượng trị liệu, chia đều cho bản thân và toàn bộ nhân ngẫu trên sân.",
+              "2": "Phạm vi đánh thường là hình quạt 3 m. Khi tấn công trúng kẻ địch mang dấu ấn [Tơ], tiêu hao 1 tầng dấu ấn, chuyển 30% sát thương gây ra lần này thành lượng trị liệu, chia đều cho bản thân và toàn bộ nhân ngẫu trên sân.",
+              "3": "Phạm vi đánh thường là hình quạt 3 m. Khi tấn công trúng kẻ địch mang dấu ấn [Tơ], tiêu hao 1 tầng dấu ấn, chuyển 30% sát thương gây ra lần này thành lượng trị liệu, chia đều cho bản thân và toàn bộ nhân ngẫu trên sân.",
+              "4": "Phạm vi đánh thường là hình quạt 3 m. Khi tấn công trúng kẻ địch mang dấu ấn [Tơ], tiêu hao 1 tầng dấu ấn, chuyển 30% sát thương gây ra lần này thành lượng trị liệu, chia đều cho bản thân và toàn bộ nhân ngẫu trên sân.",
+              "5": "Phạm vi đánh thường là hình quạt 3 m. Khi tấn công trúng kẻ địch mang dấu ấn [Tơ], tiêu hao 1 tầng dấu ấn, chuyển 30% sát thương gây ra lần này thành lượng trị liệu, chia đều cho bản thân và toàn bộ nhân ngẫu trên sân.",
+              "6": "Phạm vi đánh thường là hình quạt 3 m. Khi tấn công trúng kẻ địch mang dấu ấn [Tơ], tiêu hao 1 tầng dấu ấn, chuyển 30% sát thương gây ra lần này thành lượng trị liệu, chia đều cho bản thân và toàn bộ nhân ngẫu trên sân.",
+              "7": "Phạm vi đánh thường là hình quạt 3 m. Khi tấn công trúng kẻ địch mang dấu ấn [Tơ], tiêu hao 1 tầng dấu ấn, chuyển 30% sát thương gây ra lần này thành lượng trị liệu, chia đều cho bản thân và toàn bộ nhân ngẫu trên sân."
+            },
+            "阶位": "Tất sát"
+          },
+          {
+            "名称": "Hoán Đổi Khôi Lỗi",
+            "类型": "Đặc biệt",
+            "描述": "Trong thời khắc nguy cấp, kéo sợi tơ số mệnh để hoán đổi vị trí giữa bản thân và bất kỳ nhân ngẫu nào trên sân, rồi rót ma lực tinh thuần cho cô ấy, trao tư thái chiến thần ngắn ngủi. Đây là trục chiến lược cốt lõi để bảo mạng và chuyển thủ thành công.",
+            "特殊效果": {
+              "1": "Chọn 1 nhân ngẫu trên sân và lập tức hoán đổi vị trí với nhân ngẫu đó. Nhân ngẫu ấy nhận AC +1 trong 2 vòng. Mỗi trận 1 lần.",
+              "2": "Chọn 1 nhân ngẫu trên sân và lập tức hoán đổi vị trí với nhân ngẫu đó. Nhân ngẫu ấy nhận AC +1 và lợi thế kiểm định trúng đòn trong 2 vòng. Mỗi trận 1 lần.",
+              "3": "Chọn 1 nhân ngẫu trên sân và lập tức hoán đổi vị trí với nhân ngẫu đó. Nhân ngẫu ấy nhận AC +1, lợi thế kiểm định trúng đòn và sát thương cuối cùng +10% trong 2 vòng. Mỗi trận 1 lần.",
+              "4": "Chọn 1 nhân ngẫu trên sân và lập tức hoán đổi vị trí với nhân ngẫu đó. Nhân ngẫu ấy nhận AC +2, lợi thế kiểm định trúng đòn và sát thương cuối cùng +10% trong 2 vòng. Mỗi trận 1 lần.",
+              "5": "Chọn 1 nhân ngẫu trên sân và lập tức hoán đổi vị trí với nhân ngẫu đó. Nhân ngẫu ấy nhận AC +2, lợi thế kiểm định trúng đòn và sát thương cuối cùng +15% trong 2 vòng. Mỗi trận 1 lần.",
+              "6": "Chọn 1 nhân ngẫu trên sân và lập tức hoán đổi vị trí với nhân ngẫu đó. Nhân ngẫu ấy nhận AC +2, lợi thế kiểm định trúng đòn, sát thương cuối cùng +15% và hồi ngay 10% sinh mệnh tối đa trong 3 vòng. Mỗi trận 1 lần.",
+              "7": "Chọn 1 nhân ngẫu trên sân và lập tức hoán đổi vị trí với nhân ngẫu đó. Nhân ngẫu ấy nhận AC +2, lợi thế kiểm định trúng đòn, sát thương cuối cùng +20% và hồi ngay 15% sinh mệnh tối đa trong 3 vòng. Mỗi trận 1 lần."
+            },
+            "阶位": "Tất sát"
+          },
+          {
+            "名称": "Thiên La Địa Võng",
+            "类型": "Chủ động",
+            "描述": "Đan những sợi tơ rót ma lực thành tấm lưới khổng lồ rồi ném về phía trước, cắt xé và trói buộc con mồi bên trong. Dùng để khống chế quần thể và rải dấu ấn diện rộng trước khi Claire vào sân.",
+            "特殊效果": {
+              "1": "Dùng tơ ma lực bao phủ khu vực 7 m phía trước. Kẻ địch trong phạm vi trước hết bị gắn 1 tầng dấu ấn [Tơ], sau đó phải miễn trừ Nhanh nhẹn; nếu thất bại thì bị [Trói buộc] 1 vòng.",
+              "2": "Dùng tơ ma lực bao phủ khu vực 7 m phía trước. Kẻ địch trong phạm vi trước hết bị gắn 1 tầng dấu ấn [Tơ], sau đó phải miễn trừ Nhanh nhẹn; nếu thất bại thì bị [Trói buộc] 1 vòng.",
+              "3": "Dùng tơ ma lực bao phủ khu vực 7 m phía trước. Kẻ địch trong phạm vi trước hết bị gắn 1 tầng dấu ấn [Tơ], sau đó phải miễn trừ Nhanh nhẹn; nếu thất bại thì bị [Trói buộc] 1 vòng.",
+              "4": "Dùng tơ ma lực bao phủ khu vực 7 m phía trước. Kẻ địch trong phạm vi trước hết bị gắn 1 tầng dấu ấn [Tơ], sau đó phải miễn trừ Nhanh nhẹn; nếu thất bại thì bị [Trói buộc] 1 vòng.",
+              "5": "Dùng tơ ma lực bao phủ khu vực 7 m phía trước. Kẻ địch trong phạm vi trước hết bị gắn 1 tầng dấu ấn [Tơ], sau đó phải miễn trừ Nhanh nhẹn; nếu thất bại thì bị [Trói buộc] 1 vòng.",
+              "6": "Dùng tơ ma lực bao phủ khu vực 7 m phía trước. Kẻ địch trong phạm vi trước hết bị gắn 1 tầng dấu ấn [Tơ], sau đó phải miễn trừ Nhanh nhẹn; nếu thất bại thì bị [Trói buộc] 1 vòng.",
+              "7": "Dùng tơ ma lực bao phủ khu vực 7 m phía trước. Kẻ địch trong phạm vi trước hết bị gắn 1 tầng dấu ấn [Tơ], sau đó phải miễn trừ Nhanh nhẹn; nếu thất bại thì bị [Trói buộc] 1 vòng."
+            },
+            "阶位": "Tất sát"
+          }
+        ],
+        "奥义": [
+          {
+            "名称": "Dây Tơ Đoạn Mệnh",
+            "类型": "Chủ động",
+            "描述": "Dùng những sợi tơ cực mảnh mà mắt thường không thể bắt được để cắt không gian, gây sát thương xuyên thấu bỏ qua phòng ngự. Đây là thủ đoạn gây sát thương cốt lõi trong giai đoạn bộc phát.",
+            "特殊效果": {
+              "1": "Gây sát thương cho toàn bộ kẻ địch trên đường thẳng 15 m phía trước; sát thương này bỏ qua 2 điểm AC của mục tiêu. Nếu mục tiêu mang dấu ấn [Tơ], giảm thêm 1 điểm AC của mục tiêu, kéo dài 2 vòng.",
+              "2": "Gây sát thương cho toàn bộ kẻ địch trên đường thẳng 15 m phía trước; sát thương này bỏ qua 2 điểm AC của mục tiêu. Nếu mục tiêu mang dấu ấn [Tơ], giảm thêm 1 điểm AC của mục tiêu, kéo dài 2 vòng.",
+              "3": "Gây sát thương cho toàn bộ kẻ địch trên đường thẳng 15 m phía trước; sát thương này bỏ qua 2 điểm AC của mục tiêu. Nếu mục tiêu mang dấu ấn [Tơ], giảm thêm 1 điểm AC của mục tiêu, kéo dài 2 vòng.",
+              "4": "Gây sát thương cho toàn bộ kẻ địch trên đường thẳng 15 m phía trước; sát thương này bỏ qua 2 điểm AC của mục tiêu. Nếu mục tiêu mang dấu ấn [Tơ], giảm thêm 1 điểm AC của mục tiêu, kéo dài 2 vòng.",
+              "5": "Gây sát thương cho toàn bộ kẻ địch trên đường thẳng 15 m phía trước; sát thương này bỏ qua 3 điểm AC của mục tiêu. Nếu mục tiêu mang dấu ấn [Tơ], tiêu hao 1 tầng dấu ấn, giảm thêm 2 điểm AC của mục tiêu và buộc mục tiêu miễn trừ Thể chất; nếu thất bại thì bị [Chảy máu] 2 vòng."
+            },
+            "阶位": "Áo nghĩa"
+          },
+          {
+            "名称": "Đồng Bộ Nhân Ngẫu · Xử Hình",
+            "类型": "Chủ động",
+            "描述": "Ra lệnh cho toàn bộ nhân ngẫu trên sân từ bỏ động tác hiện tại, cùng phát động một đòn xuyên kích hiệp đồng liều thân vào mục tiêu bạn khóa định. Dùng để thu hoạch đơn mục tiêu sau khi dấu ấn đã chồng đầy.",
+            "特殊效果": {
+              "1": "Chỉ định 1 mục tiêu. Mỗi nhân ngẫu trên sân sẽ thêm 1 lần kiểm định sát thương lên mục tiêu đó. Nếu mục tiêu mang dấu ấn [Tơ], tiêu hao toàn bộ dấu ấn; mỗi tầng dấu ấn khiến sát thương cuối cùng của toàn bộ kiểm định sát thương lần này tăng 10%.",
+              "2": "Chỉ định 1 mục tiêu. Mỗi nhân ngẫu trên sân sẽ thêm 1 lần kiểm định sát thương lên mục tiêu đó. Nếu mục tiêu mang dấu ấn [Tơ], tiêu hao toàn bộ dấu ấn; mỗi tầng dấu ấn khiến sát thương cuối cùng của toàn bộ kiểm định sát thương lần này tăng 10%.",
+              "3": "Chỉ định 1 mục tiêu. Mỗi nhân ngẫu trên sân sẽ thêm 1 lần kiểm định sát thương lên mục tiêu đó. Nếu mục tiêu mang dấu ấn [Tơ], tiêu hao toàn bộ dấu ấn; mỗi tầng dấu ấn khiến sát thương cuối cùng của toàn bộ kiểm định sát thương lần này tăng 10%.",
+              "4": "Chỉ định 1 mục tiêu. Mỗi nhân ngẫu trên sân sẽ thêm 1 lần kiểm định sát thương lên mục tiêu đó. Nếu mục tiêu mang dấu ấn [Tơ], tiêu hao toàn bộ dấu ấn; mỗi tầng dấu ấn khiến sát thương cuối cùng của toàn bộ kiểm định sát thương lần này tăng 10%.",
+              "5": "Chỉ định 1 mục tiêu. Mỗi nhân ngẫu trên sân sẽ thêm 1 lần kiểm định sát thương lên mục tiêu đó, và lần tấn công này chắc chắn có lợi thế. Nếu mục tiêu mang dấu ấn [Tơ], tiêu hao toàn bộ dấu ấn; mỗi tầng dấu ấn khiến sát thương cuối cùng của toàn bộ kiểm định sát thương lần này tăng 15%, đồng thời buộc mục tiêu miễn trừ Thể chất; nếu thất bại thì rơi vào [Choáng] 1 vòng."
+            },
+            "阶位": "Áo nghĩa"
+          },
+          {
+            "名称": "Vườn Tơ Định Mệnh",
+            "类型": "Chủ động",
+            "阶位": "Áo nghĩa",
+            "描述": "Triển khai lĩnh vực ma lực chuyên thuộc của Nhân Ngẫu Sư, biến không gian xung quanh thành khu vườn phủ đầy sợi tơ ẩn mật. Liên tục gắn dấu ấn lên kẻ địch và hạn chế hành động của chúng, phối hợp với Đồng Bộ Nhân Ngẫu · Xử Hình để hoàn tất bộc phát tối thượng.",
+            "特殊效果": {
+              "1": "Triển khai lĩnh vực bán kính 15 m lấy bản thân làm trung tâm, kéo dài 3 vòng. Khi lĩnh vực mở ra, kẻ địch trong phạm vi chịu sát thương ma pháp; sau đó, cuối mỗi vòng, toàn bộ kẻ địch trong lĩnh vực bị gắn 1 tầng dấu ấn [Tơ], đồng thời tốc độ di chuyển giảm 3 m.",
+              "2": "Triển khai lĩnh vực bán kính 15 m lấy bản thân làm trung tâm, kéo dài 3 vòng. Khi lĩnh vực mở ra, kẻ địch trong phạm vi chịu sát thương ma pháp; sau đó, cuối mỗi vòng, toàn bộ kẻ địch trong lĩnh vực bị gắn 1 tầng dấu ấn [Tơ], đồng thời tốc độ di chuyển giảm 3 m.",
+              "3": "Triển khai lĩnh vực bán kính 20 m lấy bản thân làm trung tâm, kéo dài 3 vòng. Khi lĩnh vực mở ra, kẻ địch trong phạm vi chịu sát thương ma pháp; sau đó, cuối mỗi vòng, toàn bộ kẻ địch trong lĩnh vực bị gắn 1 tầng dấu ấn [Tơ], đồng thời tốc độ di chuyển giảm 5 m.",
+              "4": "Triển khai lĩnh vực bán kính 20 m lấy bản thân làm trung tâm, kéo dài 3 vòng. Khi lĩnh vực mở ra, kẻ địch trong phạm vi chịu sát thương ma pháp; sau đó, cuối mỗi vòng, toàn bộ kẻ địch trong lĩnh vực bị gắn 1 tầng dấu ấn [Tơ], đồng thời tốc độ di chuyển giảm 5 m.",
+              "5": "Triển khai lĩnh vực bán kính 20 m lấy bản thân làm trung tâm, kéo dài 3 vòng. Khi lĩnh vực mở ra, kẻ địch trong phạm vi chịu sát thương ma pháp mạnh; sau đó, cuối mỗi vòng, toàn bộ kẻ địch trong lĩnh vực bị gắn 1 tầng dấu ấn [Tơ], đồng thời tốc độ di chuyển giảm 5 m và miễn trừ Nhanh nhẹn chịu bất lợi."
+            }
+          }
+        ],
+        "觉醒一": [
+          {
+            "名称": "Cánh Cửa Chân Lý · Anima",
+            "类型": "Triệu hồi",
+            "召唤物名称": "Cánh Cửa Chân Lý · Anima",
+            "阶位": "Thức tỉnh một",
+            "描述": "Hiến tế lượng ma lực khổng lồ để mở Cánh Cửa Chân Lý, giáng lâm một nhân ngẫu thần tính thuần mỹ cao 2,4 m. Cô sở hữu thân thể nữ tính đẹp thuần khiết đến cực hạn, tóc vàng mắt xanh, sau lưng lơ lửng sáu lăng kính thần quang như đôi cánh tỏa hào quang thiêng liêng, có lượng máu bằng 80% sinh mệnh tối đa của bạn. Cô sẽ giáng xuống chùm sáng lăng kính tẩy rửa tội lỗi, tiếp nhận hoàn mỹ toàn bộ dấu ấn tơ đã tích lũy, thanh tẩy cả tội lỗi lẫn thân thể kẻ địch.",
+            "特殊效果": {
+              "1": "Khi Anima vào sân, sáu lăng kính đồng loạt bắn phá, gây sát thương hủy diệt cho kẻ địch trong phạm vi hình nón 20 m phía trước, đồng thời buộc họ miễn trừ Nhanh nhẹn; nếu thất bại thì bị [Mù] 2 vòng. Đòn đánh thường bằng chùm sáng lăng kính của Anima là sát thương phạm vi; mỗi lần tấn công tiêu hao toàn bộ dấu ấn [Tơ] trên mục tiêu, mỗi tầng bị tiêu hao khiến sát thương cuối cùng của lần đó tăng 10%.",
+              "2": "Khi Anima vào sân, sáu lăng kính đồng loạt bắn phá, gây sát thương hủy diệt cho kẻ địch trong phạm vi hình nón 20 m phía trước, đồng thời buộc họ miễn trừ Nhanh nhẹn; nếu thất bại thì bị [Mù] 2 vòng. Đòn đánh thường bằng chùm sáng lăng kính của Anima là sát thương phạm vi; mỗi lần tấn công tiêu hao toàn bộ dấu ấn [Tơ] trên mục tiêu, mỗi tầng bị tiêu hao khiến sát thương cuối cùng của lần đó tăng 10%.",
+              "3": "Khi Anima vào sân, sáu lăng kính đồng loạt bắn phá, gây sát thương hủy diệt cho kẻ địch trong phạm vi hình nón 20 m phía trước, đồng thời buộc họ miễn trừ Nhanh nhẹn; nếu thất bại thì bị [Mù] 2 vòng. Đòn đánh thường bằng chùm sáng lăng kính của Anima là sát thương phạm vi; mỗi lần tấn công tiêu hao toàn bộ dấu ấn [Tơ] trên mục tiêu, mỗi tầng bị tiêu hao khiến sát thương cuối cùng của lần đó tăng 10%."
+            }
+          }
+        ],
+        "觉醒二": [
+          {
+            "名称": "Ngục Tơ Tuyệt Vọng · Xử Hình Chung Cuộc",
+            "类型": "Chủ động",
+            "阶位": "Thức tỉnh hai",
+            "描述": "Lấy bản thân làm trung tâm bộc phát tơ ma lực vô tận, biến 50 m xung quanh thành lĩnh vực tuyệt vọng không thể thoát. Sau đó toàn bộ sợi tơ co rút dữ dội vào trong, giảo sát sạch kẻ địch.",
+            "特殊效果": {
+              "1": "Khi phóng thích, bỏ qua AC của kẻ địch để gây sát thương xuyên thấu diện rộng, cưỡng ép gắn 3 tầng dấu ấn [Tơ] cho toàn bộ mục tiêu trong phạm vi, đồng thời buộc họ miễn trừ Thể chất; nếu thất bại thì rơi vào trạng thái [Tê liệt] 1 vòng.",
+              "2": "Khi phóng thích, bỏ qua AC của kẻ địch để gây sát thương xuyên thấu diện rộng, cưỡng ép gắn 3 tầng dấu ấn [Tơ] cho toàn bộ mục tiêu trong phạm vi, đồng thời buộc họ miễn trừ Thể chất; nếu thất bại thì rơi vào trạng thái [Tê liệt] 1 vòng."
+            }
+          }
+        ],
+        "觉醒三": [
+          {
+            "名称": "Kịch Trường Cơ Xảo · Vũ Điệu Hạ Màn",
+            "类型": "Chủ động",
+            "阶位": "Thức tỉnh ba",
+            "描述": "Kéo toàn bộ chiến trường vào kịch trường cơ xảo lộng lẫy do chính tay bạn dựng nên. Bạn như vị thần tối cao ngồi sau màn, khảy sợi tơ số mệnh, khiến toàn bộ nhân ngẫu đồng thời lên sân, trình diễn một vũ khúc hạ màn tuyệt mỹ, hoa lệ và chí mạng.",
+            "特殊效果": {
+              "1": "Triển khai lĩnh vực kịch trường bán kính 50 m, kéo dài 3 vòng. Trong thời gian này, toàn bộ kẻ địch trên sân tự động bị gắn 1 tầng dấu ấn [Tơ] mỗi vòng, đồng thời mọi kiểm định miễn trừ thuộc tính đều chịu bất lợi. Khi lĩnh vực mở ra, triệu hồi Ada, Chiyo, Claire và Anima cùng phát động một lần hạ màn tề xạ bỏ qua toàn bộ AC của mục tiêu, gây sát thương hủy diệt, đồng thời kích nổ toàn bộ dấu ấn [Tơ] trên sân; mỗi tầng dấu ấn khiến sát thương hạ màn cuối cùng tăng 20%."
+            }
+          }
+        ]
+      },
+      "skillTreeForClass": "Nhân Ngẫu Sư",
+      "lockedSkillMap": {
+        "Nhân Ngẫu Sư": {
+          "基础": {
+            "Đâm Quấn Tơ": {
+              "名称": "Đâm Quấn Tơ",
+              "类型": "Chủ động",
+              "描述": "Ném sợi tơ sắc bén kèm ma lực để xuyên thủng kẻ địch, để lại chỉ dẫn cho các đòn tấn công nhân ngẫu sau đó. Là kỹ năng mở đầu ưu tú, phối hợp với khiêu khích của Ada để khống chế trước.",
+              "特殊效果": {
+                "1": "Tấn công kẻ địch trên đường thẳng 5 m phía trước; sau khi trúng, gắn 1 tầng dấu ấn [Tơ] lên mục tiêu.",
+                "2": "Tấn công kẻ địch trên đường thẳng 5 m phía trước; sau khi trúng, gắn 1 tầng dấu ấn [Tơ] lên mục tiêu.",
+                "3": "Tấn công kẻ địch trên đường thẳng 5 m phía trước; sau khi trúng, gắn 1 tầng dấu ấn [Tơ] lên mục tiêu.",
+                "4": "Tấn công kẻ địch trên đường thẳng 5 m phía trước; sau khi trúng, gắn 1 tầng dấu ấn [Tơ] lên mục tiêu.",
+                "5": "Tấn công kẻ địch trên đường thẳng 5 m phía trước; sau khi trúng, gắn 1 tầng dấu ấn [Tơ] lên mục tiêu.",
+                "6": "Tấn công kẻ địch trên đường thẳng 5 m phía trước; sau khi trúng, gắn 1 tầng dấu ấn [Tơ] lên mục tiêu.",
+                "7": "Tấn công kẻ địch trên đường thẳng 5 m phía trước; sau khi trúng, gắn 1 tầng dấu ấn [Tơ] lên mục tiêu.",
+                "8": "Tấn công kẻ địch trên đường thẳng 5 m phía trước; sau khi trúng, gắn 1 tầng dấu ấn [Tơ] lên mục tiêu, đồng thời buộc mục tiêu miễn trừ Nhanh nhẹn; nếu thất bại, tốc độ giảm một nửa trong 1 vòng.",
+                "9": "Tấn công kẻ địch trên đường thẳng 5 m phía trước; sau khi trúng, gắn 1 tầng dấu ấn [Tơ] lên mục tiêu, đồng thời buộc mục tiêu miễn trừ Nhanh nhẹn; nếu thất bại, tốc độ giảm một nửa trong 1 vòng.",
+                "10": "Tấn công kẻ địch trên đường thẳng 5 m phía trước; sau khi trúng, gắn 1 tầng dấu ấn [Tơ] lên mục tiêu, đồng thời buộc mục tiêu miễn trừ Nhanh nhẹn; nếu thất bại, tốc độ giảm một nửa trong 1 vòng.",
+                "11": "Tấn công kẻ địch trên đường thẳng 5 m phía trước; sau khi trúng, gắn 1 tầng dấu ấn [Tơ] lên mục tiêu, đồng thời buộc mục tiêu miễn trừ Nhanh nhẹn; nếu thất bại, tốc độ giảm một nửa trong 1 vòng.",
+                "12": "Tấn công kẻ địch trên đường thẳng 5 m phía trước; sau khi trúng, gắn 1 tầng dấu ấn [Tơ] lên mục tiêu, đồng thời buộc mục tiêu miễn trừ Nhanh nhẹn; nếu thất bại, tốc độ giảm một nửa trong 1 vòng.",
+                "13": "Tấn công kẻ địch trên đường thẳng 5 m phía trước; sau khi trúng, gắn 1 tầng dấu ấn [Tơ] lên mục tiêu, đồng thời buộc mục tiêu miễn trừ Nhanh nhẹn; nếu thất bại, tốc độ giảm một nửa trong 1 vòng.",
+                "14": "Tấn công kẻ địch trên đường thẳng 5 m phía trước; sau khi trúng, gắn 1 tầng dấu ấn [Tơ] lên mục tiêu, đồng thời buộc mục tiêu miễn trừ Nhanh nhẹn; nếu thất bại, tốc độ giảm một nửa trong 1 vòng.",
+                "15": "Tấn công kẻ địch trên đường thẳng 5 m phía trước; sau khi trúng, gắn 1 tầng dấu ấn [Tơ] lên mục tiêu, đồng thời buộc mục tiêu miễn trừ Nhanh nhẹn; nếu thất bại, mục tiêu bị [Trói buộc] 1 vòng."
+              },
+              "阶位": "Cơ bản"
+            },
+            "Thiếu Nữ Sắt · Ada": {
+              "名称": "Thiếu Nữ Sắt · Ada",
+              "类型": "Triệu hồi",
+              "召唤物名称": "Thiếu Nữ Sắt · Ada",
+              "描述": "Ném ra tơ ma lực, kéo đến một cô gái tóc trắng mặc trọng giáp cao 1,3 m. Cô khoác váy giáp hầu gái bằng thép tinh xảo, cầm khiên lớn và trường kiếm, có lượng máu bằng 60% sinh mệnh tối đa của bạn. Khi xuất hiện, cô dùng trọng khiên nện xuống đất để thu hút hỏa lực địch, bảo vệ tuyến trước cho Nhân Ngẫu Sư mong manh.",
+              "特殊效果": {
+                "1": "Khi đáp xuống, kẻ địch trong phạm vi 5 m xung quanh phải miễn trừ Cảm nhận; nếu thất bại thì bị khiêu khích, cưỡng chế tấn công Ada, kéo dài 1 vòng. Khi đòn đánh thường của Ada trúng, gắn 1 tầng dấu ấn [Tơ] lên mục tiêu.",
+                "2": "Khi đáp xuống, kẻ địch trong phạm vi 5 m xung quanh phải miễn trừ Cảm nhận; nếu thất bại thì bị khiêu khích, cưỡng chế tấn công Ada, kéo dài 1 vòng. Khi đòn đánh thường của Ada trúng, gắn 1 tầng dấu ấn [Tơ] lên mục tiêu.",
+                "3": "Khi đáp xuống, kẻ địch trong phạm vi 5 m xung quanh phải miễn trừ Cảm nhận; nếu thất bại thì bị khiêu khích, cưỡng chế tấn công Ada, kéo dài 1 vòng. Khi đòn đánh thường của Ada trúng, gắn 1 tầng dấu ấn [Tơ] lên mục tiêu.",
+                "4": "Khi đáp xuống, kẻ địch trong phạm vi 5 m xung quanh phải miễn trừ Cảm nhận; nếu thất bại thì bị khiêu khích, cưỡng chế tấn công Ada, kéo dài 1 vòng. Khi đòn đánh thường của Ada trúng, gắn 1 tầng dấu ấn [Tơ] lên mục tiêu.",
+                "5": "Khi đáp xuống, kẻ địch trong phạm vi 5 m xung quanh phải miễn trừ Cảm nhận; nếu thất bại thì bị khiêu khích, cưỡng chế tấn công Ada, kéo dài 1 vòng. Khi đòn đánh thường của Ada trúng, gắn 1 tầng dấu ấn [Tơ] lên mục tiêu.",
+                "6": "Khi đáp xuống, kẻ địch trong phạm vi 5 m xung quanh phải miễn trừ Cảm nhận; nếu thất bại thì bị khiêu khích, cưỡng chế tấn công Ada, kéo dài 1 vòng. Khi đòn đánh thường của Ada trúng, gắn 1 tầng dấu ấn [Tơ] lên mục tiêu.",
+                "7": "Khi đáp xuống, kẻ địch trong phạm vi 5 m xung quanh phải miễn trừ Cảm nhận; nếu thất bại thì bị khiêu khích, cưỡng chế tấn công Ada, kéo dài 1 vòng. Khi đòn đánh thường của Ada trúng, gắn 1 tầng dấu ấn [Tơ] lên mục tiêu.",
+                "8": "Khi đáp xuống, kẻ địch trong phạm vi 5 m xung quanh phải miễn trừ Cảm nhận; nếu thất bại thì bị khiêu khích, cưỡng chế tấn công Ada, kéo dài 1 vòng. Khi đòn đánh thường của Ada trúng, gắn 1 tầng dấu ấn [Tơ] lên mục tiêu.",
+                "9": "Khi đáp xuống, kẻ địch trong phạm vi 5 m xung quanh phải miễn trừ Cảm nhận; nếu thất bại thì bị khiêu khích, cưỡng chế tấn công Ada, kéo dài 1 vòng. Khi đòn đánh thường của Ada trúng, gắn 1 tầng dấu ấn [Tơ] lên mục tiêu.",
+                "10": "Khi đáp xuống, kẻ địch trong phạm vi 8 m xung quanh phải miễn trừ Cảm nhận; nếu thất bại thì bị khiêu khích, cưỡng chế tấn công Ada, kéo dài 2 vòng. Khi đòn đánh thường của Ada trúng, gắn 1 tầng dấu ấn [Tơ] lên mục tiêu.",
+                "11": "Khi đáp xuống, kẻ địch trong phạm vi 8 m xung quanh phải miễn trừ Cảm nhận; nếu thất bại thì bị khiêu khích, cưỡng chế tấn công Ada, kéo dài 2 vòng. Khi đòn đánh thường của Ada trúng, gắn 1 tầng dấu ấn [Tơ] lên mục tiêu.",
+                "12": "Khi đáp xuống, kẻ địch trong phạm vi 8 m xung quanh phải miễn trừ Cảm nhận; nếu thất bại thì bị khiêu khích, cưỡng chế tấn công Ada, kéo dài 2 vòng. Khi đòn đánh thường của Ada trúng, gắn 1 tầng dấu ấn [Tơ] lên mục tiêu.",
+                "13": "Khi đáp xuống, kẻ địch trong phạm vi 8 m xung quanh phải miễn trừ Cảm nhận; nếu thất bại thì bị khiêu khích, cưỡng chế tấn công Ada, kéo dài 2 vòng. Khi đòn đánh thường của Ada trúng, gắn 1 tầng dấu ấn [Tơ] lên mục tiêu.",
+                "14": "Khi đáp xuống, kẻ địch trong phạm vi 8 m xung quanh phải miễn trừ Cảm nhận; nếu thất bại thì bị khiêu khích, cưỡng chế tấn công Ada, kéo dài 2 vòng. Khi đòn đánh thường của Ada trúng, gắn 1 tầng dấu ấn [Tơ] lên mục tiêu.",
+                "15": "Khi đáp xuống, kẻ địch trong phạm vi 8 m xung quanh phải miễn trừ Cảm nhận; nếu thất bại thì bị khiêu khích, cưỡng chế tấn công Ada, kéo dài 2 vòng. Khi đòn đánh thường của Ada trúng, gắn 1 tầng dấu ấn [Tơ] lên mục tiêu."
+              },
+              "阶位": "Cơ bản"
+            },
+            "Dây Điều Khiển Ma Lực": {
+              "名称": "Dây Điều Khiển Ma Lực",
+              "类型": "Đặc biệt",
+              "描述": "Rót ma lực tinh thuần vào những sợi tơ điều khiển nhân ngẫu, trong thời gian ngắn cường hóa năng lực tác chiến của nhân ngẫu. Khi nhân ngẫu tấn công kẻ địch mang dấu ấn [Tơ], chúng nhận tăng ích toàn diện.",
+              "特殊效果": {
+                "1": "Sau khi chủ động bật, kéo dài 3 vòng: khi toàn bộ nhân ngẫu tấn công kẻ địch mang dấu ấn [Tơ], kiểm định trúng đòn +1, sát thương cuối cùng tăng 5%.",
+                "2": "Sau khi chủ động bật, kéo dài 3 vòng: khi toàn bộ nhân ngẫu tấn công kẻ địch mang dấu ấn [Tơ], kiểm định trúng đòn +1, sát thương cuối cùng tăng 7%.",
+                "3": "Sau khi chủ động bật, kéo dài 3 vòng: khi toàn bộ nhân ngẫu tấn công kẻ địch mang dấu ấn [Tơ], kiểm định trúng đòn +1, sát thương cuối cùng tăng 10%.",
+                "4": "Sau khi chủ động bật, kéo dài 4 vòng: khi toàn bộ nhân ngẫu tấn công kẻ địch mang dấu ấn [Tơ], kiểm định trúng đòn +1, sát thương cuối cùng tăng 10%.",
+                "5": "Sau khi chủ động bật, kéo dài 4 vòng: khi toàn bộ nhân ngẫu tấn công kẻ địch mang dấu ấn [Tơ], kiểm định trúng đòn +1, sát thương cuối cùng tăng 15%.",
+                "6": "Sau khi chủ động bật, kéo dài 4 vòng: khi toàn bộ nhân ngẫu tấn công kẻ địch mang dấu ấn [Tơ], kiểm định trúng đòn +2, sát thương cuối cùng tăng 15%.",
+                "7": "Sau khi chủ động bật, kéo dài 5 vòng: khi toàn bộ nhân ngẫu tấn công kẻ địch mang dấu ấn [Tơ], kiểm định trúng đòn +2, sát thương cuối cùng tăng 15%.",
+                "8": "Sau khi chủ động bật, kéo dài 5 vòng: khi toàn bộ nhân ngẫu tấn công kẻ địch mang dấu ấn [Tơ], kiểm định trúng đòn +2, sát thương cuối cùng tăng 20%.",
+                "9": "Sau khi chủ động bật, kéo dài 5 vòng: khi toàn bộ nhân ngẫu tấn công kẻ địch mang dấu ấn [Tơ], kiểm định trúng đòn +2, sát thương cuối cùng tăng 25%.",
+                "10": "Sau khi chủ động bật, kéo dài 6 vòng: khi toàn bộ nhân ngẫu tấn công kẻ địch mang dấu ấn [Tơ], kiểm định trúng đòn +2, sát thương cuối cùng tăng 25%.",
+                "11": "Sau khi chủ động bật, kéo dài 6 vòng: khi toàn bộ nhân ngẫu tấn công kẻ địch mang dấu ấn [Tơ], kiểm định trúng đòn +3, sát thương cuối cùng tăng 25%.",
+                "12": "Sau khi chủ động bật, kéo dài 6 vòng: khi toàn bộ nhân ngẫu tấn công kẻ địch mang dấu ấn [Tơ], kiểm định trúng đòn +3, sát thương cuối cùng tăng 30%.",
+                "13": "Sau khi chủ động bật, kéo dài 7 vòng: khi toàn bộ nhân ngẫu tấn công kẻ địch mang dấu ấn [Tơ], kiểm định trúng đòn +3, sát thương cuối cùng tăng 30%.",
+                "14": "Sau khi chủ động bật, kéo dài 7 vòng: khi toàn bộ nhân ngẫu tấn công kẻ địch mang dấu ấn [Tơ], kiểm định trúng đòn +3, sát thương cuối cùng tăng 35%.",
+                "15": "Sau khi chủ động bật, kéo dài 7 vòng: khi toàn bộ nhân ngẫu tấn công kẻ địch mang dấu ấn [Tơ], kiểm định trúng đòn +3, sát thương cuối cùng tăng 40%. Đồng thời toàn bộ đòn tấn công của nhân ngẫu bỏ qua 1 điểm AC của mục tiêu."
+              },
+              "阶位": "Cơ bản"
+            }
+          },
+          "转职": {
+            "Cộng Hưởng Tơ Kéo": {
+              "名称": "Cộng Hưởng Tơ Kéo",
+              "类型": "Đặc biệt nghề nghiệp",
+              "描述": "Kích hoạt mạch lõi đặc hữu của Nhân Ngẫu Sư, thiết lập liên kết linh hồn với nhân ngẫu, khiến các đòn tấn công tiêu hao dấu ấn trở nên uy hiếp hơn. Cung cấp khả năng duy trì cho toàn bộ chuỗi liên chiêu.",
+              "特殊效果": {
+                "1": "Sau khi chủ động bật, kéo dài suốt trận chiến: mỗi khi nhân ngẫu trên sân tiêu hao dấu ấn [Tơ], hồi cho bạn lượng máu bằng 2% sinh mệnh tối đa của bạn, đồng thời đòn tấn công kế tiếp của nhân ngẫu đó có kiểm định trúng đòn +1."
+              },
+              "阶位": "Chuyển nghề"
+            },
+            "Vũ Nương Dạ Anh · Chiyo": {
+              "名称": "Vũ Nương Dạ Anh · Chiyo",
+              "类型": "Triệu hồi",
+              "召唤物名称": "Vũ Nương Dạ Anh · Chiyo",
+              "描述": "Dệt ra một vũ nương tóc đen nhỏ nhắn, tao nhã, cao 1 m. Cô mặc kimono tím sẫm lộng lẫy, cầm quạt xếp có ám khí, dùng vũ điệu uyển chuyển để ném phi châm tấn công tầm xa. Cô có lượng máu bằng 40% sinh mệnh tối đa của bạn, dùng để tiêu hao dấu ấn ở khoảng cách an toàn và gây sát thương cao.",
+              "特殊效果": {
+                "1": "Tầm tấn công phi châm của Chiyo là 15 m. Nếu mục tiêu mang dấu ấn [Tơ], tiêu hao 1 tầng dấu ấn, khiến sát thương cuối cùng của đòn này tăng 20%.",
+                "2": "Tầm tấn công phi châm của Chiyo là 15 m. Nếu mục tiêu mang dấu ấn [Tơ], tiêu hao 1 tầng dấu ấn, khiến sát thương cuối cùng của đòn này tăng 20%.",
+                "3": "Tầm tấn công phi châm của Chiyo là 15 m. Nếu mục tiêu mang dấu ấn [Tơ], tiêu hao 1 tầng dấu ấn, khiến sát thương cuối cùng của đòn này tăng 20%.",
+                "4": "Tầm tấn công phi châm của Chiyo là 15 m. Nếu mục tiêu mang dấu ấn [Tơ], tiêu hao 1 tầng dấu ấn, khiến sát thương cuối cùng của đòn này tăng 20%.",
+                "5": "Tầm tấn công phi châm của Chiyo là 15 m. Nếu mục tiêu mang dấu ấn [Tơ], tiêu hao 1 tầng dấu ấn, khiến sát thương cuối cùng của đòn này tăng 20%.",
+                "6": "Tầm tấn công phi châm của Chiyo là 15 m. Nếu mục tiêu mang dấu ấn [Tơ], tiêu hao 1 tầng dấu ấn, khiến sát thương cuối cùng của đòn này tăng 20%.",
+                "7": "Tầm tấn công phi châm của Chiyo là 15 m. Nếu mục tiêu mang dấu ấn [Tơ], tiêu hao 1 tầng dấu ấn, khiến sát thương cuối cùng của đòn này tăng 20%.",
+                "8": "Tầm tấn công phi châm của Chiyo là 15 m. Nếu mục tiêu mang dấu ấn [Tơ], tiêu hao 1 tầng dấu ấn, khiến sát thương cuối cùng của đòn này tăng 20%.",
+                "9": "Tầm tấn công phi châm của Chiyo là 15 m. Nếu mục tiêu mang dấu ấn [Tơ], tiêu hao 1 tầng dấu ấn, khiến sát thương cuối cùng của đòn này tăng 20%.",
+                "10": "Tầm tấn công phi châm của Chiyo là 15 m, đồng thời có thể tấn công 2 mục tiêu cùng lúc. Nếu mục tiêu mang dấu ấn [Tơ], tiêu hao 1 tầng dấu ấn, khiến sát thương cuối cùng của đòn này tăng 30%, đồng thời giảm AC của mục tiêu 2 điểm, kéo dài 2 vòng.",
+                "11": "Tầm tấn công phi châm của Chiyo là 15 m, đồng thời có thể tấn công 2 mục tiêu cùng lúc. Nếu mục tiêu mang dấu ấn [Tơ], tiêu hao 1 tầng dấu ấn, khiến sát thương cuối cùng của đòn này tăng 30%, đồng thời giảm AC của mục tiêu 2 điểm, kéo dài 2 vòng.",
+                "12": "Tầm tấn công phi châm của Chiyo là 15 m, đồng thời có thể tấn công 2 mục tiêu cùng lúc. Nếu mục tiêu mang dấu ấn [Tơ], tiêu hao 1 tầng dấu ấn, khiến sát thương cuối cùng của đòn này tăng 30%, đồng thời giảm AC của mục tiêu 2 điểm, kéo dài 2 vòng.",
+                "13": "Tầm tấn công phi châm của Chiyo là 15 m, đồng thời có thể tấn công 2 mục tiêu cùng lúc. Nếu mục tiêu mang dấu ấn [Tơ], tiêu hao 1 tầng dấu ấn, khiến sát thương cuối cùng của đòn này tăng 30%, đồng thời giảm AC của mục tiêu 2 điểm, kéo dài 2 vòng.",
+                "14": "Tầm tấn công phi châm của Chiyo là 15 m, đồng thời có thể tấn công 2 mục tiêu cùng lúc. Nếu mục tiêu mang dấu ấn [Tơ], tiêu hao 1 tầng dấu ấn, khiến sát thương cuối cùng của đòn này tăng 30%, đồng thời giảm AC của mục tiêu 2 điểm, kéo dài 2 vòng.",
+                "15": "Tầm tấn công phi châm của Chiyo là 15 m, đồng thời có thể tấn công 2 mục tiêu cùng lúc. Nếu mục tiêu mang dấu ấn [Tơ], tiêu hao 1 tầng dấu ấn, khiến sát thương cuối cùng của đòn này tăng 30%, đồng thời giảm AC của mục tiêu 2 điểm, kéo dài 2 vòng."
+              },
+              "阶位": "Chuyển nghề"
+            },
+            "Kéo Giật Tơ": {
+              "名称": "Kéo Giật Tơ",
+              "类型": "Chủ động",
+              "描述": "Điều khiển sợi tơ nối trên người kẻ địch, cưỡng ép phá vỡ thăng bằng và kéo chúng lại gần. Kế thừa dấu ấn do Đâm Quấn Tơ hoặc đòn đánh thường của Ada đem lại, lôi kẻ địch vào phạm vi tấn công.",
+              "特殊效果": {
+                "1": "Khi trúng, nếu mục tiêu mang dấu ấn [Tơ], cưỡng ép kéo mục tiêu 3 m về phía bản thân.",
+                "2": "Khi trúng, nếu mục tiêu mang dấu ấn [Tơ], cưỡng ép kéo mục tiêu 3 m về phía bản thân.",
+                "3": "Khi trúng, nếu mục tiêu mang dấu ấn [Tơ], cưỡng ép kéo mục tiêu 3 m về phía bản thân.",
+                "4": "Khi trúng, nếu mục tiêu mang dấu ấn [Tơ], cưỡng ép kéo mục tiêu 3 m về phía bản thân.",
+                "5": "Khi trúng, nếu mục tiêu mang dấu ấn [Tơ], cưỡng ép kéo mục tiêu 3 m về phía bản thân.",
+                "6": "Khi trúng, nếu mục tiêu mang dấu ấn [Tơ], cưỡng ép kéo mục tiêu 3 m về phía bản thân.",
+                "7": "Khi trúng, nếu mục tiêu mang dấu ấn [Tơ], cưỡng ép kéo mục tiêu 3 m về phía bản thân.",
+                "8": "Khi trúng, nếu mục tiêu mang dấu ấn [Tơ], cưỡng ép kéo mục tiêu 3 m về phía bản thân, đồng thời khiến kiểm định tấn công kế tiếp của mục tiêu -1.",
+                "9": "Khi trúng, nếu mục tiêu mang dấu ấn [Tơ], cưỡng ép kéo mục tiêu 3 m về phía bản thân, đồng thời khiến kiểm định tấn công kế tiếp của mục tiêu -1.",
+                "10": "Khi trúng, nếu mục tiêu mang dấu ấn [Tơ], cưỡng ép kéo mục tiêu 3 m về phía bản thân, đồng thời khiến kiểm định tấn công kế tiếp của mục tiêu -1.",
+                "11": "Khi trúng, nếu mục tiêu mang dấu ấn [Tơ], cưỡng ép kéo mục tiêu 3 m về phía bản thân, đồng thời khiến kiểm định tấn công kế tiếp của mục tiêu -1.",
+                "12": "Khi trúng, nếu mục tiêu mang dấu ấn [Tơ], cưỡng ép kéo mục tiêu 3 m về phía bản thân, đồng thời khiến kiểm định tấn công kế tiếp của mục tiêu -1.",
+                "13": "Khi trúng, nếu mục tiêu mang dấu ấn [Tơ], cưỡng ép kéo mục tiêu 3 m về phía bản thân, đồng thời khiến kiểm định tấn công kế tiếp của mục tiêu -1.",
+                "14": "Khi trúng, nếu mục tiêu mang dấu ấn [Tơ], cưỡng ép kéo mục tiêu 3 m về phía bản thân, đồng thời khiến kiểm định tấn công kế tiếp của mục tiêu -1.",
+                "15": "Khi trúng, nếu mục tiêu mang dấu ấn [Tơ], cưỡng ép kéo mục tiêu 3 m về phía bản thân, đồng thời khiến kiểm định tấn công kế tiếp của mục tiêu -1. Nếu mục tiêu va vào Ada trong lúc bị kéo, mục tiêu chịu thêm 1 lần sát thương va chạm và bị [Ngã xuống] 1 vòng."
+              },
+              "阶位": "Chuyển nghề"
+            },
+            "Kích Nổ Tơ": {
+              "名称": "Kích Nổ Tơ",
+              "类型": "Chủ động",
+              "描述": "Rót ma lực quá tải vào kẻ địch mang dấu ấn hoặc nhân ngẫu của bản thân. Kích nổ dấu ấn [Tơ] để gây sát thương phạm vi, hoặc hy sinh nhân ngẫu để dẫn phát vụ nổ hủy diệt diện rộng. Phối hợp với khiêu khích tụ quái của Ada có thể gây trọng thương.",
+              "特殊效果": {
+                "1": "Kích nổ toàn bộ dấu ấn [Tơ] trên người mục tiêu, mỗi tầng dấu ấn gây sát thương ma pháp cho kẻ địch trong phạm vi 3 m xung quanh. Nếu chỉ định một nhân ngẫu trên sân, hy sinh nhân ngẫu đó, gây lượng lớn sát thương ma pháp cho kẻ địch trong phạm vi 5 m xung quanh, đồng thời cưỡng ép gắn 1 tầng dấu ấn [Tơ] cho nạn nhân.",
+                "2": "Kích nổ toàn bộ dấu ấn [Tơ] trên người mục tiêu, mỗi tầng dấu ấn gây sát thương ma pháp cho kẻ địch trong phạm vi 3 m xung quanh. Nếu chỉ định một nhân ngẫu trên sân, hy sinh nhân ngẫu đó, gây lượng lớn sát thương ma pháp cho kẻ địch trong phạm vi 5 m xung quanh, đồng thời cưỡng ép gắn 1 tầng dấu ấn [Tơ] cho nạn nhân.",
+                "3": "Kích nổ toàn bộ dấu ấn [Tơ] trên người mục tiêu, mỗi tầng dấu ấn gây sát thương ma pháp cho kẻ địch trong phạm vi 3 m xung quanh. Nếu chỉ định một nhân ngẫu trên sân, hy sinh nhân ngẫu đó, gây lượng lớn sát thương ma pháp cho kẻ địch trong phạm vi 5 m xung quanh, đồng thời cưỡng ép gắn 1 tầng dấu ấn [Tơ] cho nạn nhân.",
+                "4": "Kích nổ toàn bộ dấu ấn [Tơ] trên người mục tiêu, mỗi tầng dấu ấn gây sát thương ma pháp cho kẻ địch trong phạm vi 3 m xung quanh. Nếu chỉ định một nhân ngẫu trên sân, hy sinh nhân ngẫu đó, gây lượng lớn sát thương ma pháp cho kẻ địch trong phạm vi 5 m xung quanh, đồng thời cưỡng ép gắn 1 tầng dấu ấn [Tơ] cho nạn nhân.",
+                "5": "Kích nổ toàn bộ dấu ấn [Tơ] trên người mục tiêu, mỗi tầng dấu ấn gây sát thương ma pháp cho kẻ địch trong phạm vi 3 m xung quanh. Nếu chỉ định một nhân ngẫu trên sân, hy sinh nhân ngẫu đó, gây lượng lớn sát thương ma pháp cho kẻ địch trong phạm vi 5 m xung quanh, đồng thời cưỡng ép gắn 1 tầng dấu ấn [Tơ] cho nạn nhân.",
+                "6": "Kích nổ toàn bộ dấu ấn [Tơ] trên người mục tiêu, mỗi tầng dấu ấn gây sát thương ma pháp cho kẻ địch trong phạm vi 3 m xung quanh. Nếu chỉ định một nhân ngẫu trên sân, hy sinh nhân ngẫu đó, gây lượng lớn sát thương ma pháp cho kẻ địch trong phạm vi 5 m xung quanh, đồng thời cưỡng ép gắn 1 tầng dấu ấn [Tơ] cho nạn nhân.",
+                "7": "Kích nổ toàn bộ dấu ấn [Tơ] trên người mục tiêu, mỗi tầng dấu ấn gây sát thương ma pháp cho kẻ địch trong phạm vi 3 m xung quanh. Nếu chỉ định một nhân ngẫu trên sân, hy sinh nhân ngẫu đó, gây lượng lớn sát thương ma pháp cho kẻ địch trong phạm vi 5 m xung quanh, đồng thời cưỡng ép gắn 1 tầng dấu ấn [Tơ] cho nạn nhân.",
+                "8": "Kích nổ toàn bộ dấu ấn [Tơ] trên người mục tiêu, mỗi tầng dấu ấn gây sát thương ma pháp cho kẻ địch trong phạm vi 3 m xung quanh. Nếu chỉ định một nhân ngẫu trên sân, hy sinh nhân ngẫu đó, gây lượng lớn sát thương ma pháp cho kẻ địch trong phạm vi 8 m xung quanh, cưỡng ép gắn 1 tầng dấu ấn [Tơ] cho nạn nhân, đồng thời buộc họ miễn trừ Thể chất; nếu thất bại thì bị [Đẩy lùi] 3 m.",
+                "9": "Kích nổ toàn bộ dấu ấn [Tơ] trên người mục tiêu, mỗi tầng dấu ấn gây sát thương ma pháp cho kẻ địch trong phạm vi 3 m xung quanh. Nếu chỉ định một nhân ngẫu trên sân, hy sinh nhân ngẫu đó, gây lượng lớn sát thương ma pháp cho kẻ địch trong phạm vi 8 m xung quanh, cưỡng ép gắn 1 tầng dấu ấn [Tơ] cho nạn nhân, đồng thời buộc họ miễn trừ Thể chất; nếu thất bại thì bị [Đẩy lùi] 3 m.",
+                "10": "Kích nổ toàn bộ dấu ấn [Tơ] trên người mục tiêu, mỗi tầng dấu ấn gây sát thương ma pháp cho kẻ địch trong phạm vi 3 m xung quanh. Nếu chỉ định một nhân ngẫu trên sân, hy sinh nhân ngẫu đó, gây lượng lớn sát thương ma pháp cho kẻ địch trong phạm vi 8 m xung quanh, cưỡng ép gắn 1 tầng dấu ấn [Tơ] cho nạn nhân, đồng thời buộc họ miễn trừ Thể chất; nếu thất bại thì bị [Đẩy lùi] 3 m.",
+                "11": "Kích nổ toàn bộ dấu ấn [Tơ] trên người mục tiêu, mỗi tầng dấu ấn gây sát thương ma pháp cho kẻ địch trong phạm vi 3 m xung quanh. Nếu chỉ định một nhân ngẫu trên sân, hy sinh nhân ngẫu đó, gây lượng lớn sát thương ma pháp cho kẻ địch trong phạm vi 8 m xung quanh, cưỡng ép gắn 1 tầng dấu ấn [Tơ] cho nạn nhân, đồng thời buộc họ miễn trừ Thể chất; nếu thất bại thì bị [Đẩy lùi] 3 m.",
+                "12": "Kích nổ toàn bộ dấu ấn [Tơ] trên người mục tiêu, mỗi tầng dấu ấn gây sát thương ma pháp cho kẻ địch trong phạm vi 3 m xung quanh. Nếu chỉ định một nhân ngẫu trên sân, hy sinh nhân ngẫu đó, gây lượng lớn sát thương ma pháp cho kẻ địch trong phạm vi 8 m xung quanh, cưỡng ép gắn 1 tầng dấu ấn [Tơ] cho nạn nhân, đồng thời buộc họ miễn trừ Thể chất; nếu thất bại thì bị [Đẩy lùi] 3 m.",
+                "13": "Kích nổ toàn bộ dấu ấn [Tơ] trên người mục tiêu, mỗi tầng dấu ấn gây sát thương ma pháp cho kẻ địch trong phạm vi 3 m xung quanh. Nếu chỉ định một nhân ngẫu trên sân, hy sinh nhân ngẫu đó, gây lượng lớn sát thương ma pháp cho kẻ địch trong phạm vi 8 m xung quanh, cưỡng ép gắn 1 tầng dấu ấn [Tơ] cho nạn nhân, đồng thời buộc họ miễn trừ Thể chất; nếu thất bại thì bị [Đẩy lùi] 3 m.",
+                "14": "Kích nổ toàn bộ dấu ấn [Tơ] trên người mục tiêu, mỗi tầng dấu ấn gây sát thương ma pháp cho kẻ địch trong phạm vi 3 m xung quanh. Nếu chỉ định một nhân ngẫu trên sân, hy sinh nhân ngẫu đó, gây lượng lớn sát thương ma pháp cho kẻ địch trong phạm vi 8 m xung quanh, cưỡng ép gắn 1 tầng dấu ấn [Tơ] cho nạn nhân, đồng thời buộc họ miễn trừ Thể chất; nếu thất bại thì bị [Đẩy lùi] 3 m.",
+                "15": "Kích nổ toàn bộ dấu ấn [Tơ] trên người mục tiêu, mỗi tầng dấu ấn gây sát thương ma pháp cho kẻ địch trong phạm vi 3 m xung quanh. Nếu chỉ định một nhân ngẫu trên sân, hy sinh nhân ngẫu đó, gây lượng lớn sát thương ma pháp cho kẻ địch trong phạm vi 8 m xung quanh, cưỡng ép gắn 1 tầng dấu ấn [Tơ] cho nạn nhân, đồng thời buộc họ miễn trừ Thể chất; nếu thất bại thì bị [Đẩy lùi] 3 m và [Choáng] 1 vòng."
+              },
+              "阶位": "Chuyển nghề"
+            }
+          },
+          "进阶": {
+            "Lưỡi Tơ Cắt Xé": {
+              "名称": "Lưỡi Tơ Cắt Xé",
+              "类型": "Chủ động",
+              "描述": "Vung những sợi tơ phủ đầy lưỡi ma lực ra xung quanh, cắt nát kẻ địch áp sát. Có thể phối hợp với Ada tụ quái rồi sử dụng để nhanh chóng gắn dấu ấn trên phạm vi lớn.",
+              "特殊效果": {
+                "1": "Gây sát thương cho kẻ địch trong phạm vi 5 m quanh bản thân, đồng thời gắn 1 tầng dấu ấn [Tơ].",
+                "2": "Gây sát thương cho kẻ địch trong phạm vi 5 m quanh bản thân, đồng thời gắn 1 tầng dấu ấn [Tơ].",
+                "3": "Gây sát thương cho kẻ địch trong phạm vi 5 m quanh bản thân, đồng thời gắn 1 tầng dấu ấn [Tơ].",
+                "4": "Gây sát thương cho kẻ địch trong phạm vi 5 m quanh bản thân, đồng thời gắn 1 tầng dấu ấn [Tơ].",
+                "5": "Gây sát thương cho kẻ địch trong phạm vi 5 m quanh bản thân, đồng thời gắn 1 tầng dấu ấn [Tơ].",
+                "6": "Gây sát thương cho kẻ địch trong phạm vi 5 m quanh bản thân, đồng thời gắn 1 tầng dấu ấn [Tơ].",
+                "7": "Gây sát thương cho kẻ địch trong phạm vi 5 m quanh bản thân, đồng thời gắn 1 tầng dấu ấn [Tơ].",
+                "8": "Gây sát thương cho kẻ địch trong phạm vi 5 m quanh bản thân, đồng thời gắn 1 tầng dấu ấn [Tơ]. Nếu mục tiêu đang bị Ada khiêu khích, giảm thêm 1 điểm AC, kéo dài 2 vòng.",
+                "9": "Gây sát thương cho kẻ địch trong phạm vi 5 m quanh bản thân, đồng thời gắn 1 tầng dấu ấn [Tơ]. Nếu mục tiêu đang bị Ada khiêu khích, giảm thêm 1 điểm AC, kéo dài 2 vòng.",
+                "10": "Gây sát thương cho kẻ địch trong phạm vi 5 m quanh bản thân, đồng thời gắn 1 tầng dấu ấn [Tơ]. Nếu mục tiêu đang bị Ada khiêu khích, giảm thêm 1 điểm AC, kéo dài 2 vòng."
+              },
+              "阶位": "Nâng cao"
+            },
+            "Dệt Lưới Hư Không": {
+              "名称": "Dệt Lưới Hư Không",
+              "类型": "Chủ động",
+              "描述": "Xé rách không gian, kéo ra vô số sợi tơ ma lực nhỏ mảnh từ hư không, hình thành một bức tường tơ ẩn mật phía trước.",
+              "特殊效果": {
+                "1": "Tạo một bức tường tơ dài 10 m, cao 3 m phía trước, kéo dài 2 vòng. Khi kẻ địch xuyên qua tường, họ phải miễn trừ Nhanh nhẹn; nếu thất bại thì bị gắn 1 tầng dấu ấn [Tơ] và tốc độ di chuyển giảm một nửa.",
+                "2": "Tạo một bức tường tơ dài 10 m, cao 3 m phía trước, kéo dài 2 vòng. Khi kẻ địch xuyên qua tường, họ phải miễn trừ Nhanh nhẹn; nếu thất bại thì bị gắn 1 tầng dấu ấn [Tơ] và tốc độ di chuyển giảm một nửa.",
+                "3": "Tạo một bức tường tơ dài 10 m, cao 3 m phía trước, kéo dài 2 vòng. Khi kẻ địch xuyên qua tường, họ phải miễn trừ Nhanh nhẹn; nếu thất bại thì bị gắn 1 tầng dấu ấn [Tơ] và tốc độ di chuyển giảm một nửa.",
+                "4": "Tạo một bức tường tơ dài 10 m, cao 3 m phía trước, kéo dài 2 vòng. Khi kẻ địch xuyên qua tường, họ phải miễn trừ Nhanh nhẹn; nếu thất bại thì bị gắn 1 tầng dấu ấn [Tơ] và tốc độ di chuyển giảm một nửa.",
+                "5": "Tạo một bức tường tơ dài 10 m, cao 3 m phía trước, kéo dài 2 vòng. Khi kẻ địch xuyên qua tường, họ phải miễn trừ Nhanh nhẹn; nếu thất bại thì chịu sát thương xuyên thấu, bị gắn 2 tầng dấu ấn [Tơ] và tốc độ di chuyển giảm một nửa trong 1 vòng.",
+                "6": "Tạo một bức tường tơ dài 10 m, cao 3 m phía trước, kéo dài 2 vòng. Khi kẻ địch xuyên qua tường, họ phải miễn trừ Nhanh nhẹn; nếu thất bại thì chịu sát thương xuyên thấu, bị gắn 2 tầng dấu ấn [Tơ] và tốc độ di chuyển giảm một nửa trong 1 vòng.",
+                "7": "Tạo một bức tường tơ dài 10 m, cao 3 m phía trước, kéo dài 2 vòng. Khi kẻ địch xuyên qua tường, họ phải miễn trừ Nhanh nhẹn; nếu thất bại thì chịu sát thương xuyên thấu, bị gắn 2 tầng dấu ấn [Tơ] và tốc độ di chuyển giảm một nửa trong 1 vòng.",
+                "8": "Tạo một bức tường tơ dài 10 m, cao 3 m phía trước, kéo dài 2 vòng. Khi kẻ địch xuyên qua tường, họ phải miễn trừ Nhanh nhẹn; nếu thất bại thì chịu sát thương xuyên thấu, bị gắn 2 tầng dấu ấn [Tơ] và tốc độ di chuyển giảm một nửa trong 1 vòng.",
+                "9": "Tạo một bức tường tơ dài 10 m, cao 3 m phía trước, kéo dài 2 vòng. Khi kẻ địch xuyên qua tường, họ phải miễn trừ Nhanh nhẹn; nếu thất bại thì chịu sát thương xuyên thấu, bị gắn 2 tầng dấu ấn [Tơ] và tốc độ di chuyển giảm một nửa trong 1 vòng.",
+                "10": "Tạo một bức tường tơ dài 15 m, cao 3 m phía trước, kéo dài 3 vòng. Khi kẻ địch xuyên qua tường, họ phải miễn trừ Nhanh nhẹn; nếu thất bại thì chịu sát thương xuyên thấu, bị gắn 2 tầng dấu ấn [Tơ] và tốc độ di chuyển giảm một nửa trong 1 vòng."
+              },
+              "阶位": "Nâng cao"
+            },
+            "Khâu Linh Hồn": {
+              "名称": "Khâu Linh Hồn",
+              "类型": "Chủ động",
+              "描述": "Bắn ra tơ linh hồn có lực xuyên thấu cực mạnh, khâu số mệnh của nhiều kẻ địch lại với nhau. Phối hợp kỹ năng sát thương phạm vi và đòn xuyên thấu của Chiyo để chia sẻ và lan truyền sát thương.",
+              "特殊效果": {
+                "1": "Bắn tơ về phía trước, nối tối đa 3 kẻ địch lại với nhau trong 2 vòng. Trong thời gian này, khi một kẻ trong số đó chịu sát thương, những kẻ bị nối còn lại chịu sát thương ma pháp bằng 10% sát thương cuối cùng của lần đó.",
+                "2": "Bắn tơ về phía trước, nối tối đa 3 kẻ địch lại với nhau trong 2 vòng. Trong thời gian này, khi một kẻ trong số đó chịu sát thương, những kẻ bị nối còn lại chịu sát thương ma pháp bằng 10% sát thương cuối cùng của lần đó.",
+                "3": "Bắn tơ về phía trước, nối tối đa 3 kẻ địch lại với nhau trong 2 vòng. Trong thời gian này, khi một kẻ trong số đó chịu sát thương, những kẻ bị nối còn lại chịu sát thương ma pháp bằng 10% sát thương cuối cùng của lần đó.",
+                "4": "Bắn tơ về phía trước, nối tối đa 3 kẻ địch lại với nhau trong 2 vòng. Trong thời gian này, khi một kẻ trong số đó chịu sát thương, những kẻ bị nối còn lại chịu sát thương ma pháp bằng 10% sát thương cuối cùng của lần đó.",
+                "5": "Bắn tơ về phía trước, nối tối đa 3 kẻ địch lại với nhau trong 2 vòng. Nếu mục tiêu mang dấu ấn [Tơ], tiêu hao 1 tầng dấu ấn để tăng thời lượng nối lên 3 vòng. Trong thời gian này, khi một kẻ trong số đó chịu sát thương, những kẻ bị nối còn lại chịu sát thương ma pháp bằng 10% sát thương cuối cùng của lần đó.",
+                "6": "Bắn tơ về phía trước, nối tối đa 3 kẻ địch lại với nhau trong 2 vòng. Nếu mục tiêu mang dấu ấn [Tơ], tiêu hao 1 tầng dấu ấn để tăng thời lượng nối lên 3 vòng. Trong thời gian này, khi một kẻ trong số đó chịu sát thương, những kẻ bị nối còn lại chịu sát thương ma pháp bằng 10% sát thương cuối cùng của lần đó.",
+                "7": "Bắn tơ về phía trước, nối tối đa 3 kẻ địch lại với nhau trong 2 vòng. Nếu mục tiêu mang dấu ấn [Tơ], tiêu hao 1 tầng dấu ấn để tăng thời lượng nối lên 3 vòng. Trong thời gian này, khi một kẻ trong số đó chịu sát thương, những kẻ bị nối còn lại chịu sát thương ma pháp bằng 10% sát thương cuối cùng của lần đó.",
+                "8": "Bắn tơ về phía trước, nối tối đa 3 kẻ địch lại với nhau trong 2 vòng. Nếu mục tiêu mang dấu ấn [Tơ], tiêu hao 1 tầng dấu ấn để tăng thời lượng nối lên 3 vòng. Trong thời gian này, khi một kẻ trong số đó chịu sát thương, những kẻ bị nối còn lại chịu sát thương ma pháp bằng 10% sát thương cuối cùng của lần đó.",
+                "9": "Bắn tơ về phía trước, nối tối đa 3 kẻ địch lại với nhau trong 2 vòng. Nếu mục tiêu mang dấu ấn [Tơ], tiêu hao 1 tầng dấu ấn để tăng thời lượng nối lên 3 vòng. Trong thời gian này, khi một kẻ trong số đó chịu sát thương, những kẻ bị nối còn lại chịu sát thương ma pháp bằng 10% sát thương cuối cùng của lần đó.",
+                "10": "Bắn tơ về phía trước, nối tối đa 4 kẻ địch lại với nhau trong 2 vòng. Nếu mục tiêu mang dấu ấn [Tơ], tiêu hao 1 tầng dấu ấn để tăng thời lượng nối lên 3 vòng. Trong thời gian này, khi một kẻ trong số đó chịu sát thương, những kẻ bị nối còn lại chịu sát thương ma pháp bằng 15% sát thương cuối cùng của lần đó, đồng thời tốc độ di chuyển giảm 3 m."
+              },
+              "阶位": "Nâng cao"
+            }
+          },
+          "必杀": {
+            "Kẻ Gặt Máu · Claire": {
+              "名称": "Kẻ Gặt Máu · Claire",
+              "类型": "Triệu hồi",
+              "召唤物名称": "Kẻ Gặt Máu · Claire",
+              "描述": "Dùng tơ kèm huyết ma pháp để triệu hồi một cô gái tóc đỏ yandere cao 1,5 m. Cô mặc váy Tây kiểu Gothic đỏ đen, hai tay kéo lê một lưỡi hái máu khổng lồ, có lượng máu bằng 50% sinh mệnh tối đa của bạn. Khi xuất hiện, cô quét ngang kẻ địch xung quanh; các đòn tấn công sau đó có thể hút sinh mệnh để hồi lại cho toàn đội. Phối hợp với tụ quái của Ada để thu hoạch phạm vi.",
+              "特殊效果": {
+                "1": "Phạm vi đánh thường là hình quạt 3 m. Khi tấn công trúng kẻ địch mang dấu ấn [Tơ], tiêu hao 1 tầng dấu ấn, chuyển 30% sát thương gây ra lần này thành lượng trị liệu, chia đều cho bản thân và toàn bộ nhân ngẫu trên sân.",
+                "2": "Phạm vi đánh thường là hình quạt 3 m. Khi tấn công trúng kẻ địch mang dấu ấn [Tơ], tiêu hao 1 tầng dấu ấn, chuyển 30% sát thương gây ra lần này thành lượng trị liệu, chia đều cho bản thân và toàn bộ nhân ngẫu trên sân.",
+                "3": "Phạm vi đánh thường là hình quạt 3 m. Khi tấn công trúng kẻ địch mang dấu ấn [Tơ], tiêu hao 1 tầng dấu ấn, chuyển 30% sát thương gây ra lần này thành lượng trị liệu, chia đều cho bản thân và toàn bộ nhân ngẫu trên sân.",
+                "4": "Phạm vi đánh thường là hình quạt 3 m. Khi tấn công trúng kẻ địch mang dấu ấn [Tơ], tiêu hao 1 tầng dấu ấn, chuyển 30% sát thương gây ra lần này thành lượng trị liệu, chia đều cho bản thân và toàn bộ nhân ngẫu trên sân.",
+                "5": "Phạm vi đánh thường là hình quạt 3 m. Khi tấn công trúng kẻ địch mang dấu ấn [Tơ], tiêu hao 1 tầng dấu ấn, chuyển 30% sát thương gây ra lần này thành lượng trị liệu, chia đều cho bản thân và toàn bộ nhân ngẫu trên sân.",
+                "6": "Phạm vi đánh thường là hình quạt 3 m. Khi tấn công trúng kẻ địch mang dấu ấn [Tơ], tiêu hao 1 tầng dấu ấn, chuyển 30% sát thương gây ra lần này thành lượng trị liệu, chia đều cho bản thân và toàn bộ nhân ngẫu trên sân.",
+                "7": "Phạm vi đánh thường là hình quạt 3 m. Khi tấn công trúng kẻ địch mang dấu ấn [Tơ], tiêu hao 1 tầng dấu ấn, chuyển 30% sát thương gây ra lần này thành lượng trị liệu, chia đều cho bản thân và toàn bộ nhân ngẫu trên sân."
+              },
+              "阶位": "Tất sát"
+            },
+            "Hoán Đổi Khôi Lỗi": {
+              "名称": "Hoán Đổi Khôi Lỗi",
+              "类型": "Đặc biệt",
+              "描述": "Trong thời khắc nguy cấp, kéo sợi tơ số mệnh để hoán đổi vị trí giữa bản thân và bất kỳ nhân ngẫu nào trên sân, rồi rót ma lực tinh thuần cho cô ấy, trao tư thái chiến thần ngắn ngủi. Đây là trục chiến lược cốt lõi để bảo mạng và chuyển thủ thành công.",
+              "特殊效果": {
+                "1": "Chọn 1 nhân ngẫu trên sân và lập tức hoán đổi vị trí với nhân ngẫu đó. Nhân ngẫu ấy nhận AC +1 trong 2 vòng. Mỗi trận 1 lần.",
+                "2": "Chọn 1 nhân ngẫu trên sân và lập tức hoán đổi vị trí với nhân ngẫu đó. Nhân ngẫu ấy nhận AC +1 và lợi thế kiểm định trúng đòn trong 2 vòng. Mỗi trận 1 lần.",
+                "3": "Chọn 1 nhân ngẫu trên sân và lập tức hoán đổi vị trí với nhân ngẫu đó. Nhân ngẫu ấy nhận AC +1, lợi thế kiểm định trúng đòn và sát thương cuối cùng +10% trong 2 vòng. Mỗi trận 1 lần.",
+                "4": "Chọn 1 nhân ngẫu trên sân và lập tức hoán đổi vị trí với nhân ngẫu đó. Nhân ngẫu ấy nhận AC +2, lợi thế kiểm định trúng đòn và sát thương cuối cùng +10% trong 2 vòng. Mỗi trận 1 lần.",
+                "5": "Chọn 1 nhân ngẫu trên sân và lập tức hoán đổi vị trí với nhân ngẫu đó. Nhân ngẫu ấy nhận AC +2, lợi thế kiểm định trúng đòn và sát thương cuối cùng +15% trong 2 vòng. Mỗi trận 1 lần.",
+                "6": "Chọn 1 nhân ngẫu trên sân và lập tức hoán đổi vị trí với nhân ngẫu đó. Nhân ngẫu ấy nhận AC +2, lợi thế kiểm định trúng đòn, sát thương cuối cùng +15% và hồi ngay 10% sinh mệnh tối đa trong 3 vòng. Mỗi trận 1 lần.",
+                "7": "Chọn 1 nhân ngẫu trên sân và lập tức hoán đổi vị trí với nhân ngẫu đó. Nhân ngẫu ấy nhận AC +2, lợi thế kiểm định trúng đòn, sát thương cuối cùng +20% và hồi ngay 15% sinh mệnh tối đa trong 3 vòng. Mỗi trận 1 lần."
+              },
+              "阶位": "Tất sát"
+            },
+            "Thiên La Địa Võng": {
+              "名称": "Thiên La Địa Võng",
+              "类型": "Chủ động",
+              "描述": "Đan những sợi tơ rót ma lực thành tấm lưới khổng lồ rồi ném về phía trước, cắt xé và trói buộc con mồi bên trong. Dùng để khống chế quần thể và rải dấu ấn diện rộng trước khi Claire vào sân.",
+              "特殊效果": {
+                "1": "Dùng tơ ma lực bao phủ khu vực 7 m phía trước. Kẻ địch trong phạm vi trước hết bị gắn 1 tầng dấu ấn [Tơ], sau đó phải miễn trừ Nhanh nhẹn; nếu thất bại thì bị [Trói buộc] 1 vòng.",
+                "2": "Dùng tơ ma lực bao phủ khu vực 7 m phía trước. Kẻ địch trong phạm vi trước hết bị gắn 1 tầng dấu ấn [Tơ], sau đó phải miễn trừ Nhanh nhẹn; nếu thất bại thì bị [Trói buộc] 1 vòng.",
+                "3": "Dùng tơ ma lực bao phủ khu vực 7 m phía trước. Kẻ địch trong phạm vi trước hết bị gắn 1 tầng dấu ấn [Tơ], sau đó phải miễn trừ Nhanh nhẹn; nếu thất bại thì bị [Trói buộc] 1 vòng.",
+                "4": "Dùng tơ ma lực bao phủ khu vực 7 m phía trước. Kẻ địch trong phạm vi trước hết bị gắn 1 tầng dấu ấn [Tơ], sau đó phải miễn trừ Nhanh nhẹn; nếu thất bại thì bị [Trói buộc] 1 vòng.",
+                "5": "Dùng tơ ma lực bao phủ khu vực 7 m phía trước. Kẻ địch trong phạm vi trước hết bị gắn 1 tầng dấu ấn [Tơ], sau đó phải miễn trừ Nhanh nhẹn; nếu thất bại thì bị [Trói buộc] 1 vòng.",
+                "6": "Dùng tơ ma lực bao phủ khu vực 7 m phía trước. Kẻ địch trong phạm vi trước hết bị gắn 1 tầng dấu ấn [Tơ], sau đó phải miễn trừ Nhanh nhẹn; nếu thất bại thì bị [Trói buộc] 1 vòng.",
+                "7": "Dùng tơ ma lực bao phủ khu vực 7 m phía trước. Kẻ địch trong phạm vi trước hết bị gắn 1 tầng dấu ấn [Tơ], sau đó phải miễn trừ Nhanh nhẹn; nếu thất bại thì bị [Trói buộc] 1 vòng."
+              },
+              "阶位": "Tất sát"
+            }
+          },
+          "奥义": {
+            "Dây Tơ Đoạn Mệnh": {
+              "名称": "Dây Tơ Đoạn Mệnh",
+              "类型": "Chủ động",
+              "描述": "Dùng những sợi tơ cực mảnh mà mắt thường không thể bắt được để cắt không gian, gây sát thương xuyên thấu bỏ qua phòng ngự. Đây là thủ đoạn gây sát thương cốt lõi trong giai đoạn bộc phát.",
+              "特殊效果": {
+                "1": "Gây sát thương cho toàn bộ kẻ địch trên đường thẳng 15 m phía trước; sát thương này bỏ qua 2 điểm AC của mục tiêu. Nếu mục tiêu mang dấu ấn [Tơ], giảm thêm 1 điểm AC của mục tiêu, kéo dài 2 vòng.",
+                "2": "Gây sát thương cho toàn bộ kẻ địch trên đường thẳng 15 m phía trước; sát thương này bỏ qua 2 điểm AC của mục tiêu. Nếu mục tiêu mang dấu ấn [Tơ], giảm thêm 1 điểm AC của mục tiêu, kéo dài 2 vòng.",
+                "3": "Gây sát thương cho toàn bộ kẻ địch trên đường thẳng 15 m phía trước; sát thương này bỏ qua 2 điểm AC của mục tiêu. Nếu mục tiêu mang dấu ấn [Tơ], giảm thêm 1 điểm AC của mục tiêu, kéo dài 2 vòng.",
+                "4": "Gây sát thương cho toàn bộ kẻ địch trên đường thẳng 15 m phía trước; sát thương này bỏ qua 2 điểm AC của mục tiêu. Nếu mục tiêu mang dấu ấn [Tơ], giảm thêm 1 điểm AC của mục tiêu, kéo dài 2 vòng.",
+                "5": "Gây sát thương cho toàn bộ kẻ địch trên đường thẳng 15 m phía trước; sát thương này bỏ qua 3 điểm AC của mục tiêu. Nếu mục tiêu mang dấu ấn [Tơ], tiêu hao 1 tầng dấu ấn, giảm thêm 2 điểm AC của mục tiêu và buộc mục tiêu miễn trừ Thể chất; nếu thất bại thì bị [Chảy máu] 2 vòng."
+              },
+              "阶位": "Áo nghĩa"
+            },
+            "Đồng Bộ Nhân Ngẫu · Xử Hình": {
+              "名称": "Đồng Bộ Nhân Ngẫu · Xử Hình",
+              "类型": "Chủ động",
+              "描述": "Ra lệnh cho toàn bộ nhân ngẫu trên sân từ bỏ động tác hiện tại, cùng phát động một đòn xuyên kích hiệp đồng liều thân vào mục tiêu bạn khóa định. Dùng để thu hoạch đơn mục tiêu sau khi dấu ấn đã chồng đầy.",
+              "特殊效果": {
+                "1": "Chỉ định 1 mục tiêu. Mỗi nhân ngẫu trên sân sẽ thêm 1 lần kiểm định sát thương lên mục tiêu đó. Nếu mục tiêu mang dấu ấn [Tơ], tiêu hao toàn bộ dấu ấn; mỗi tầng dấu ấn khiến sát thương cuối cùng của toàn bộ kiểm định sát thương lần này tăng 10%.",
+                "2": "Chỉ định 1 mục tiêu. Mỗi nhân ngẫu trên sân sẽ thêm 1 lần kiểm định sát thương lên mục tiêu đó. Nếu mục tiêu mang dấu ấn [Tơ], tiêu hao toàn bộ dấu ấn; mỗi tầng dấu ấn khiến sát thương cuối cùng của toàn bộ kiểm định sát thương lần này tăng 10%.",
+                "3": "Chỉ định 1 mục tiêu. Mỗi nhân ngẫu trên sân sẽ thêm 1 lần kiểm định sát thương lên mục tiêu đó. Nếu mục tiêu mang dấu ấn [Tơ], tiêu hao toàn bộ dấu ấn; mỗi tầng dấu ấn khiến sát thương cuối cùng của toàn bộ kiểm định sát thương lần này tăng 10%.",
+                "4": "Chỉ định 1 mục tiêu. Mỗi nhân ngẫu trên sân sẽ thêm 1 lần kiểm định sát thương lên mục tiêu đó. Nếu mục tiêu mang dấu ấn [Tơ], tiêu hao toàn bộ dấu ấn; mỗi tầng dấu ấn khiến sát thương cuối cùng của toàn bộ kiểm định sát thương lần này tăng 10%.",
+                "5": "Chỉ định 1 mục tiêu. Mỗi nhân ngẫu trên sân sẽ thêm 1 lần kiểm định sát thương lên mục tiêu đó, và lần tấn công này chắc chắn có lợi thế. Nếu mục tiêu mang dấu ấn [Tơ], tiêu hao toàn bộ dấu ấn; mỗi tầng dấu ấn khiến sát thương cuối cùng của toàn bộ kiểm định sát thương lần này tăng 15%, đồng thời buộc mục tiêu miễn trừ Thể chất; nếu thất bại thì rơi vào [Choáng] 1 vòng."
+              },
+              "阶位": "Áo nghĩa"
+            },
+            "Vườn Tơ Định Mệnh": {
+              "名称": "Vườn Tơ Định Mệnh",
+              "类型": "Chủ động",
+              "阶位": "Áo nghĩa",
+              "描述": "Triển khai lĩnh vực ma lực chuyên thuộc của Nhân Ngẫu Sư, biến không gian xung quanh thành khu vườn phủ đầy sợi tơ ẩn mật. Liên tục gắn dấu ấn lên kẻ địch và hạn chế hành động của chúng, phối hợp với Đồng Bộ Nhân Ngẫu · Xử Hình để hoàn tất bộc phát tối thượng.",
+              "特殊效果": {
+                "1": "Triển khai lĩnh vực bán kính 15 m lấy bản thân làm trung tâm, kéo dài 3 vòng. Khi lĩnh vực mở ra, kẻ địch trong phạm vi chịu sát thương ma pháp; sau đó, cuối mỗi vòng, toàn bộ kẻ địch trong lĩnh vực bị gắn 1 tầng dấu ấn [Tơ], đồng thời tốc độ di chuyển giảm 3 m.",
+                "2": "Triển khai lĩnh vực bán kính 15 m lấy bản thân làm trung tâm, kéo dài 3 vòng. Khi lĩnh vực mở ra, kẻ địch trong phạm vi chịu sát thương ma pháp; sau đó, cuối mỗi vòng, toàn bộ kẻ địch trong lĩnh vực bị gắn 1 tầng dấu ấn [Tơ], đồng thời tốc độ di chuyển giảm 3 m.",
+                "3": "Triển khai lĩnh vực bán kính 20 m lấy bản thân làm trung tâm, kéo dài 3 vòng. Khi lĩnh vực mở ra, kẻ địch trong phạm vi chịu sát thương ma pháp; sau đó, cuối mỗi vòng, toàn bộ kẻ địch trong lĩnh vực bị gắn 1 tầng dấu ấn [Tơ], đồng thời tốc độ di chuyển giảm 5 m.",
+                "4": "Triển khai lĩnh vực bán kính 20 m lấy bản thân làm trung tâm, kéo dài 3 vòng. Khi lĩnh vực mở ra, kẻ địch trong phạm vi chịu sát thương ma pháp; sau đó, cuối mỗi vòng, toàn bộ kẻ địch trong lĩnh vực bị gắn 1 tầng dấu ấn [Tơ], đồng thời tốc độ di chuyển giảm 5 m.",
+                "5": "Triển khai lĩnh vực bán kính 20 m lấy bản thân làm trung tâm, kéo dài 3 vòng. Khi lĩnh vực mở ra, kẻ địch trong phạm vi chịu sát thương ma pháp mạnh; sau đó, cuối mỗi vòng, toàn bộ kẻ địch trong lĩnh vực bị gắn 1 tầng dấu ấn [Tơ], đồng thời tốc độ di chuyển giảm 5 m và miễn trừ Nhanh nhẹn chịu bất lợi."
+              }
+            }
+          },
+          "觉醒一": {
+            "Cánh Cửa Chân Lý · Anima": {
+              "名称": "Cánh Cửa Chân Lý · Anima",
+              "类型": "Triệu hồi",
+              "召唤物名称": "Cánh Cửa Chân Lý · Anima",
+              "阶位": "Thức tỉnh một",
+              "描述": "Hiến tế lượng ma lực khổng lồ để mở Cánh Cửa Chân Lý, giáng lâm một nhân ngẫu thần tính thuần mỹ cao 2,4 m. Cô sở hữu thân thể nữ tính đẹp thuần khiết đến cực hạn, tóc vàng mắt xanh, sau lưng lơ lửng sáu lăng kính thần quang như đôi cánh tỏa hào quang thiêng liêng, có lượng máu bằng 80% sinh mệnh tối đa của bạn. Cô sẽ giáng xuống chùm sáng lăng kính tẩy rửa tội lỗi, tiếp nhận hoàn mỹ toàn bộ dấu ấn tơ đã tích lũy, thanh tẩy cả tội lỗi lẫn thân thể kẻ địch.",
+              "特殊效果": {
+                "1": "Khi Anima vào sân, sáu lăng kính đồng loạt bắn phá, gây sát thương hủy diệt cho kẻ địch trong phạm vi hình nón 20 m phía trước, đồng thời buộc họ miễn trừ Nhanh nhẹn; nếu thất bại thì bị [Mù] 2 vòng. Đòn đánh thường bằng chùm sáng lăng kính của Anima là sát thương phạm vi; mỗi lần tấn công tiêu hao toàn bộ dấu ấn [Tơ] trên mục tiêu, mỗi tầng bị tiêu hao khiến sát thương cuối cùng của lần đó tăng 10%.",
+                "2": "Khi Anima vào sân, sáu lăng kính đồng loạt bắn phá, gây sát thương hủy diệt cho kẻ địch trong phạm vi hình nón 20 m phía trước, đồng thời buộc họ miễn trừ Nhanh nhẹn; nếu thất bại thì bị [Mù] 2 vòng. Đòn đánh thường bằng chùm sáng lăng kính của Anima là sát thương phạm vi; mỗi lần tấn công tiêu hao toàn bộ dấu ấn [Tơ] trên mục tiêu, mỗi tầng bị tiêu hao khiến sát thương cuối cùng của lần đó tăng 10%.",
+                "3": "Khi Anima vào sân, sáu lăng kính đồng loạt bắn phá, gây sát thương hủy diệt cho kẻ địch trong phạm vi hình nón 20 m phía trước, đồng thời buộc họ miễn trừ Nhanh nhẹn; nếu thất bại thì bị [Mù] 2 vòng. Đòn đánh thường bằng chùm sáng lăng kính của Anima là sát thương phạm vi; mỗi lần tấn công tiêu hao toàn bộ dấu ấn [Tơ] trên mục tiêu, mỗi tầng bị tiêu hao khiến sát thương cuối cùng của lần đó tăng 10%."
+              }
+            }
+          },
+          "觉醒二": {
+            "Ngục Tơ Tuyệt Vọng · Xử Hình Chung Cuộc": {
+              "名称": "Ngục Tơ Tuyệt Vọng · Xử Hình Chung Cuộc",
+              "类型": "Chủ động",
+              "阶位": "Thức tỉnh hai",
+              "描述": "Lấy bản thân làm trung tâm bộc phát tơ ma lực vô tận, biến 50 m xung quanh thành lĩnh vực tuyệt vọng không thể thoát. Sau đó toàn bộ sợi tơ co rút dữ dội vào trong, giảo sát sạch kẻ địch.",
+              "特殊效果": {
+                "1": "Khi phóng thích, bỏ qua AC của kẻ địch để gây sát thương xuyên thấu diện rộng, cưỡng ép gắn 3 tầng dấu ấn [Tơ] cho toàn bộ mục tiêu trong phạm vi, đồng thời buộc họ miễn trừ Thể chất; nếu thất bại thì rơi vào trạng thái [Tê liệt] 1 vòng.",
+                "2": "Khi phóng thích, bỏ qua AC của kẻ địch để gây sát thương xuyên thấu diện rộng, cưỡng ép gắn 3 tầng dấu ấn [Tơ] cho toàn bộ mục tiêu trong phạm vi, đồng thời buộc họ miễn trừ Thể chất; nếu thất bại thì rơi vào trạng thái [Tê liệt] 1 vòng."
+              }
+            }
+          },
+          "觉醒三": {
+            "Kịch Trường Cơ Xảo · Vũ Điệu Hạ Màn": {
+              "名称": "Kịch Trường Cơ Xảo · Vũ Điệu Hạ Màn",
+              "类型": "Chủ động",
+              "阶位": "Thức tỉnh ba",
+              "描述": "Kéo toàn bộ chiến trường vào kịch trường cơ xảo lộng lẫy do chính tay bạn dựng nên. Bạn như vị thần tối cao ngồi sau màn, khảy sợi tơ số mệnh, khiến toàn bộ nhân ngẫu đồng thời lên sân, trình diễn một vũ khúc hạ màn tuyệt mỹ, hoa lệ và chí mạng.",
+              "特殊效果": {
+                "1": "Triển khai lĩnh vực kịch trường bán kính 50 m, kéo dài 3 vòng. Trong thời gian này, toàn bộ kẻ địch trên sân tự động bị gắn 1 tầng dấu ấn [Tơ] mỗi vòng, đồng thời mọi kiểm định miễn trừ thuộc tính đều chịu bất lợi. Khi lĩnh vực mở ra, triệu hồi Ada, Chiyo, Claire và Anima cùng phát động một lần hạ màn tề xạ bỏ qua toàn bộ AC của mục tiêu, gây sát thương hủy diệt, đồng thời kích nổ toàn bộ dấu ấn [Tơ] trên sân; mỗi tầng dấu ấn khiến sát thương hạ màn cuối cùng tăng 20%."
+              }
+            }
+          }
+        }
+      },
+      "skillFlavorInput": "Dùng mét để mô tả phạm vi, không dùng ô. Loại này là kỹ năng đặc biệt, mỗi cấp đều cần có biến hóa.\nHiệu quả đặc biệt đã viết ở cấp thấp thì cấp cao cũng phải giữ lại các hiệu quả trước đó và viết nối tiếp lên; hiệu quả cấp cao không được bỏ sót hiệu quả cấp thấp. Ví dụ hiệu quả cấp thấp là “khi đáp xuống, kẻ địch trong phạm vi 3 m xung quanh phải miễn trừ Sức mạnh”, thì khi nâng lên cấp cao không được chỉ viết “phạm vi mở rộng thành 5 m”, mà phải viết “khi đáp xuống, kẻ địch trong phạm vi 5 m xung quanh phải miễn trừ Sức mạnh”.\nCơ chế là kỹ năng tấn công có thể gắn dấu ấn [Tơ] cho kẻ địch; một số kỹ năng tiêu hao dấu ấn [Tơ] để kích hoạt đủ loại hiệu quả bổ sung khác nhau.",
+      "teammates": [],
+      "customTeammate": null,
+      "selectedTraits": [
+        "Nhà chiêm tinh",
+        "Thi sĩ du ca",
+        "Cảm âm tuyệt đối"
+      ],
+      "customTraits": [],
+      "customExpertise": [],
+      "customIdentity": null,
+      "selectedOpening": "traverse",
+      "customOpeningText": "",
+      "selectedDifficulty": "normal",
+      "customRace": null
+    }
+  }
+}

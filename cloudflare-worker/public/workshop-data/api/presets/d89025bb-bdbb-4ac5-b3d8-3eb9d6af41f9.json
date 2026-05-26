@@ -1,0 +1,40 @@
+{
+  "ok": true,
+  "preset": {
+    "id": "d89025bb-bdbb-4ac5-b3d8-3eb9d6af41f9",
+    "ownerId": "737614339498049548",
+    "ownerName": "Appleandapple",
+    "author": "Appleandapple",
+    "authorAvatar": "https://cdn.discordapp.com/avatars/737614339498049548/4bef971cf789e3895a43aefa539f085e.png?size=128",
+    "name": "Nhân Ngẫu Sư",
+    "title": "Nhân Ngẫu Sư",
+    "intro": "Chiến đấu bằng tơ ma lực và triệu hồi nhân ngẫu: kỵ sĩ tóc trắng, sát thủ tóc đen, lưỡi hái hút máu tóc đỏ, pháo laser tóc vàng. Gắn dấu ấn để các đòn tấn công nhận hiệu quả bổ sung.",
+    "coverUrl": "/api/presets/d89025bb-bdbb-4ac5-b3d8-3eb9d6af41f9/cover",
+    "className": "Nhân Ngẫu Sư",
+    "race": "Chủng Nguyệt Vịnh",
+    "tags": [
+      "Triệu hồi",
+      "Cực kỳ bình thường",
+      "Biết chút thứ",
+      "Bìa chỉ để tham khảo"
+    ],
+    "likes": 13,
+    "liked": false,
+    "downloads": 140,
+    "status": "published",
+    "createdAt": "2026-03-15 19:23:11",
+    "updatedAt": "2026-05-24 12:51:01",
+    "lastLikedAt": "",
+    "presetData": {
+      "name": "",
+      "class": "Nhân Ngẫu Sư",
+      "customClassName": "Nhân Ngẫu Sư",
+      "race": "Chủng Nguyệt Vịnh",
+      "customRace": null,
+      "customClassStyle": "Tái hiện và triệu hồi những kiệt tác thân thể xinh đẹp do chính mình sáng tạo, trao cho chúng linh hồn riêng. Dùng tơ ma lực để tấn công và điều khiển nhân ngẫu.",
+      "backstory": "",
+      "selectedCustomLevel": 1
+    },
+    "downloadUrl": "/api/presets/d89025bb-bdbb-4ac5-b3d8-3eb9d6af41f9/file"
+  }
+}

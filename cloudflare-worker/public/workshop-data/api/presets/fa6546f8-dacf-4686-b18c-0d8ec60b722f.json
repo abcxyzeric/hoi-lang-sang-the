@@ -1,0 +1,39 @@
+{
+  "ok": true,
+  "preset": {
+    "id": "fa6546f8-dacf-4686-b18c-0d8ec60b722f",
+    "ownerId": "721992702828478475",
+    "ownerName": "AquaMoe",
+    "author": "AquaMoe",
+    "authorAvatar": "https://cdn.discordapp.com/avatars/721992702828478475/1276fc4da00adc94523f2bff9655f1e0.png?size=128",
+    "name": "Ngự Vu",
+    "title": "Ngự Vu",
+    "intro": "Hội chứng Ngự Vu, lối chơi ăn vạ phản đòn; mô tả kỹ năng rất mạnh, nhưng giai đoạn đầu chơi hơi tù.",
+    "coverUrl": "/api/presets/fa6546f8-dacf-4686-b18c-0d8ec60b722f/cover",
+    "className": "Ngự Vu Truyền Thần",
+    "race": "Nhân loại chủng",
+    "tags": [
+      "Trò lạ",
+      "Sinh tồn",
+      "Ăn vạ phản đòn"
+    ],
+    "likes": 4,
+    "liked": false,
+    "downloads": 59,
+    "status": "published",
+    "createdAt": "2026-03-18 18:39:27",
+    "updatedAt": "2026-05-18 12:45:09",
+    "lastLikedAt": "",
+    "presetData": {
+      "name": "Amane",
+      "class": "Ngự Vu Truyền Thần",
+      "customClassName": "Ngự Vu Truyền Thần",
+      "race": "Nhân loại chủng",
+      "customRace": null,
+      "customClassStyle": "Một vu nữ thuần khiết dâng kagura và vũ điệu, lấy chính thân mình làm vật chứa để thần minh giáng lâm.\nNgự Vu Truyền Thần không tôn sùng bạo lực tấn công, mà dùng vũ tư linh động, tao nhã cùng trang bị thần thánh để phản chiếu hoàn toàn ác ý và đòn đánh của kẻ địch trở lại chính chúng.\nTrong vũ điệu của Ngự Vu, sức mạnh của kẻ địch càng lớn, sự tự hủy diệt của chúng càng triệt để.",
+      "backstory": "",
+      "selectedCustomLevel": null
+    },
+    "downloadUrl": "/api/presets/fa6546f8-dacf-4686-b18c-0d8ec60b722f/file"
+  }
+}

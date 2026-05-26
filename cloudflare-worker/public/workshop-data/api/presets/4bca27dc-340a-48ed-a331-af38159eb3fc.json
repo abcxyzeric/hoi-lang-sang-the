@@ -1,0 +1,42 @@
+{
+  "ok": true,
+  "preset": {
+    "id": "4bca27dc-340a-48ed-a331-af38159eb3fc",
+    "ownerId": "1203731113076596796",
+    "ownerName": "🐱TO🦅",
+    "author": "🐱TO🦅",
+    "authorAvatar": "https://cdn.discordapp.com/avatars/1203731113076596796/b87e966f1e634e97ba2576645d9c9040.png?size=128",
+    "name": "Ác Ma Song Sinh",
+    "title": "Ác Ma Song Sinh",
+    "intro": "Lấy ý tưởng từ Shaco của LOL và Bu Ruo của Muse Dash. Khởi đầu đã có một cô em gái giả thân tên \"Bu Ruo\"! Có thể chơi kiểu ẩn thân, đặt hộp, ném phi đao, đánh lén sau lưng, cho em gái tự nổ và nhiều trò khác, hóa thân thành chàng trai ánh dương tươi sáng nhất Disboard!\n\nChỉ số ở mức bình thường, nhưng cơ chế rất mạnh. Em gái sẽ bắt chước bạn cùng ném kỹ năng; sau hai vòng, khi hình thành thế trận bốn hộp thì sát thương sẽ rất đáng kể.\n\nVề cộng thêm kiểm định thuộc tính của ràng buộc chủng tộc, có thể nhắc bằng ngoặc ở đầu game; nếu không sẽ thiếu một bị động rất mạnh.\n\nNgoài ra, thẻ nhân vật này cần dùng kèm các thiết lập và mở rộng sau để có trải nghiệm bình thường:\nÁc Ma Song Sinh - Quy tắc chiến đấu (mở rộng)\nÁc Ma Song Sinh Em Gái Bu Ruo (hồ sơ nhân vật)",
+    "coverUrl": "/api/presets/4bca27dc-340a-48ed-a331-af38159eb3fc/cover",
+    "className": "Hề Ác Ma",
+    "race": "Ác Ma Song Sinh",
+    "tags": [
+      "Đầu game có em gái",
+      "Tươi sáng hoạt bát",
+      "Triệu hồi",
+      "Sinh tồn"
+    ],
+    "likes": 1,
+    "liked": false,
+    "downloads": 19,
+    "status": "published",
+    "createdAt": "2026-03-24 17:43:26",
+    "updatedAt": "2026-05-22 09:44:02",
+    "lastLikedAt": "",
+    "presetData": {
+      "name": "",
+      "class": "Hề Ác Ma",
+      "customClassName": "Hề Ác Ma",
+      "race": "__custom__",
+      "customRace": {
+        "name": "Ác Ma Song Sinh"
+      },
+      "customClassStyle": "",
+      "backstory": "",
+      "selectedCustomLevel": null
+    },
+    "downloadUrl": "/api/presets/4bca27dc-340a-48ed-a331-af38159eb3fc/file"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "ok": true,
+  "preset": {
+    "id": "ed09ed9e-d636-44f9-a614-788e04e18a04",
+    "ownerId": "1466649975227154432",
+    "ownerName": "lianka",
+    "author": "lianka",
+    "authorAvatar": "https://cdn.discordapp.com/avatars/1466649975227154432/353c96e5e420daa07dff605dae22ad29.png?size=128",
+    "name": "Megumin",
+    "title": "Megumin",
+    "intro": "Khôi phục thiết lập của Megumin: kỹ năng tấn công duy nhất là Explosion, muốn phóng thích còn phải từng bước mở khóa phong ấn. Trong quá trình mở khóa, bạn có thể dùng các kỹ năng khác để đánh đổi và chuẩn bị nhằm tăng mạnh uy lực Explosion, nhưng nếu vận may kém, sát thương cũng có thể tụt rất thấp. Hãy thử cảm giác chuẩn bị một đại chiêu thật sự!",
+    "coverUrl": "/api/presets/ed09ed9e-d636-44f9-a614-788e04e18a04/cover",
+    "className": "Pháp sư bạo liệt",
+    "race": "Hồng Ma Tộc",
+    "tags": [
+      "Bộc phát",
+      "Dọn quái"
+    ],
+    "likes": 4,
+    "liked": false,
+    "downloads": 83,
+    "status": "published",
+    "createdAt": "2026-03-24 12:25:13",
+    "updatedAt": "2026-05-24 05:52:44",
+    "lastLikedAt": "",
+    "presetData": {
+      "name": "Megumin",
+      "class": "Pháp sư bạo liệt",
+      "customClassName": "Pháp sư bạo liệt",
+      "race": "__custom__",
+      "customRace": {
+        "name": "Hồng Ma Tộc"
+      },
+      "customClassStyle": "",
+      "backstory": "",
+      "selectedCustomLevel": null
+    },
+    "downloadUrl": "/api/presets/ed09ed9e-d636-44f9-a614-788e04e18a04/file"
+  }
+}

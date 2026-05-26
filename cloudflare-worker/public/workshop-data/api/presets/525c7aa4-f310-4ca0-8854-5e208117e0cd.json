@@ -1,0 +1,42 @@
+{
+  "ok": true,
+  "preset": {
+    "id": "525c7aa4-f310-4ca0-8854-5e208117e0cd",
+    "ownerId": "574847942930858004",
+    "ownerName": "Đông Lê Tử",
+    "author": "Đông Lê Tử",
+    "authorAvatar": "https://cdn.discordapp.com/avatars/574847942930858004/181ded3cd9a326d9fc4dca9437e296e3.png?size=128",
+    "name": "Yulishika",
+    "title": "Yulishika",
+    "intro": "Viết hồi 1.4, có tham khảo một số tiểu thuyết và Elden Ring.\nSửa qua sửa lại; ban đầu định bỏ kỹ năng hai hình thái, nhưng nghĩ lại thì nó khá có nét riêng, dù chỉ một phần nhỏ kỹ năng có hai hình thái.\nNếu cảm thấy chỉ số cơ bản hơi thấp thì có thể tự kéo lên một chút.",
+    "coverUrl": "/api/presets/525c7aa4-f310-4ca0-8854-5e208117e0cd/cover",
+    "className": "Chiến pháp sư Khái Niệm Trọng Lực",
+    "race": "Hóa thân của khái niệm",
+    "tags": [
+      "Hóa thân",
+      "Chỉ số",
+      "Bộc phát",
+      "Trò lạ"
+    ],
+    "likes": 2,
+    "liked": false,
+    "downloads": 36,
+    "status": "published",
+    "createdAt": "2026-03-28 15:27:29",
+    "updatedAt": "2026-05-17 03:50:38",
+    "lastLikedAt": "",
+    "presetData": {
+      "name": "Yulishika",
+      "class": "Chiến pháp sư Khái Niệm Trọng Lực",
+      "customClassName": "Chiến pháp sư Khái Niệm Trọng Lực",
+      "race": "__custom__",
+      "customRace": {
+        "name": "Hóa thân của khái niệm"
+      },
+      "customClassStyle": "Hóa thân khái niệm trọng lực từ dị giới, sở hữu quyền khống chế tuyệt đối đối với trọng lực.\nCó hai kiểu chiến đấu: một là trực tiếp áp đặt lên mục tiêu như tạo trường trọng lực, hai là gia áp trọng lực lên chính bản thân để cận chiến.\nMa thương có thể đồng thời dùng như pháp trượng và vũ khí cận chiến.",
+      "backstory": "",
+      "selectedCustomLevel": null
+    },
+    "downloadUrl": "/api/presets/525c7aa4-f310-4ca0-8854-5e208117e0cd/file"
+  }
+}

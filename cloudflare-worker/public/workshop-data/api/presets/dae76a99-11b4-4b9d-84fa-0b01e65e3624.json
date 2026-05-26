@@ -1,0 +1,40 @@
+{
+  "ok": true,
+  "preset": {
+    "id": "dae76a99-11b4-4b9d-84fa-0b01e65e3624",
+    "ownerId": "1455523845720248465",
+    "ownerName": "Thiên Tiếu",
+    "author": "Thiên Tiếu",
+    "authorAvatar": "https://cdn.discordapp.com/avatars/1455523845720248465/0632c17b4e95992eabeab7b96644952e.png?size=128",
+    "name": "Chiến Song Pamysh Lucia - Thâm Hồng Tù Ảnh",
+    "title": "Chiến Song Pamysh Lucia - Thâm Hồng Tù Ảnh",
+    "intro": "Hiện đang ở giai đoạn thử nghiệm. Toàn bộ kỹ năng đều là tự mình nhờ AI nhào nặn rồi ghép vào, đặc chất có thể chỉnh; thêm một mục +5 kiểm định trúng đích thì cơ bản không còn sợ phạt liên kích nữa.",
+    "coverUrl": "",
+    "className": "Cấu thể",
+    "race": "Cấu thể dị giới (người nhân tạo)",
+    "tags": [
+      "Chơi vui",
+      "Bộc phát"
+    ],
+    "likes": 2,
+    "liked": false,
+    "downloads": 12,
+    "status": "published",
+    "createdAt": "2026-04-29 08:11:44",
+    "updatedAt": "2026-05-19 09:38:14",
+    "lastLikedAt": "",
+    "presetData": {
+      "name": "Lucia",
+      "class": "Cấu thể",
+      "customClassName": "Cấu thể",
+      "race": "__custom__",
+      "customRace": {
+        "name": "Cấu thể dị giới (người nhân tạo)"
+      },
+      "customClassStyle": "Đỡ gạt phản kích, kiếm khí, đại chiêu cường hóa hai đoạn, đại thái đao kết liễu",
+      "backstory": "",
+      "selectedCustomLevel": 1
+    },
+    "downloadUrl": "/api/presets/dae76a99-11b4-4b9d-84fa-0b01e65e3624/file"
+  }
+}

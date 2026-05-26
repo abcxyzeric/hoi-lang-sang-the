@@ -1,0 +1,376 @@
+{
+  "exportedAt": "2026-03-22T03:57:26.658Z",
+  "version": "1.0",
+  "preset": {
+    "id": "1774151845597",
+    "name": "Sứ đồ Minh Ước",
+    "timestamp": 1774151845597,
+    "createdAt": 1774151845597,
+    "updatedAt": 1774151845597,
+    "data": {
+      "name": "Sứ đồ Minh Ước",
+      "gender": "Không",
+      "age": 18,
+      "race": "__custom__",
+      "identity": "__custom__",
+      "avatar": "",
+      "attributes": {
+        "strength": 10,
+        "dexterity": 10,
+        "constitution": 10,
+        "intelligence": 15,
+        "wisdom": 13,
+        "charisma": 14
+      },
+      "backstory": "Không phải chiến binh, mà là sứ đồ. Từ ngày thức tỉnh đã hiểu rằng trong thế giới Disboard, đao kiếm không sắc bén bằng minh ước, ma pháp không sâu xa bằng quy tắc. Khoảnh khắc Tetto gấp Arad vào vực sâu, từ gợn sóng của pháp tắc thế giới đã sinh ra tồn tại này: không cầm binh khí, không thi triển ma pháp, chỉ lấy khế ước và trò chơi làm vũ khí. Đi giữa mười sáu chủng tộc, chứng kiến thắng bại của từng trò chơi, trọng tài cho từng lần thực hiện khế ước. Khi người khác xây tháp cao, rèn đao kiếm, cô đang dệt một tấm lưới khế ước bao phủ toàn bộ Disboard.",
+      "selectedLevelMode": "native",
+      "selectedCustomLevel": null,
+      "selectedSpawnPoint": "Tầng dưới Nhai Thị Cảng Hoàn Uyên · bờ biển ngoại vi",
+      "class": "Sứ đồ Minh Ước",
+      "selectedBaseClass": "Nghề tùy chỉnh",
+      "customClassName": "Sứ đồ Minh Ước",
+      "customClassStyle": "Người dệt khế ước và bậc thầy trò chơi thuần túy. Không tham gia chiến đấu, chỉ đặt quân cờ bên ngoài bàn cờ.",
+      "customClassWeapon": "Sách khế ước/Bút Minh Ước",
+      "customClassCombatStyle": "Phi chiến đấu · thao túng quy tắc",
+      "skillTree": {
+        "基础": [
+          {
+            "名称": "Mắt Minh Ước",
+            "类型": "Đặc biệt",
+            "描述": "Nhìn thấy vân mạch của mọi khế ước. Có thể nhận biết thật giả, lỗ hổng và điều khoản ẩn trong mọi minh ước, lời thề, lời hứa và hợp đồng.",
+            "特殊效果": {
+              "1": "Có thể nhận biết ý đồ chân thật trong lời hứa miệng; kiểm định Quan sát +2.",
+              "2": "Có thể nhận biết lỗ hổng hiển nhiên trong khế ước bằng văn bản; kiểm định Quan sát +3.",
+              "3": "Có thể nhận biết lỗ hổng ẩn trong khế ước bằng văn bản; kiểm định Quan sát +4; có thể cảm nhận khế ước có bị sửa đổi hay không.",
+              "4": "Có thể nhận biết mọi điều khoản của khế ước ma pháp; kiểm định Quan sát +5; có thể truy ngược ý đồ chân thật khi khế ước được ký kết.",
+              "5": "Có thể nhận biết khế ước linh hồn; kiểm định Quan sát +6; có thể cảm nhận mức tín nhiệm thật của bên ký ước.",
+              "6": "Có thể nhận biết thần ước; kiểm định Quan sát +7; có thể nhìn thấu mọi cạm bẫy ẩn trong khế ước.",
+              "7": "Có thể nhận biết mọi hình thức minh ước; kiểm định Quan sát +8; có thể dự đoán các điểm tranh chấp có thể xuất hiện trong quá trình thực hiện khế ước.",
+              "8": "Có thể nhận biết bên hưởng lợi thứ ba đứng sau minh ước; kiểm định Quan sát +10; có thể cảm nhận khế ước có bị dùng làm cạm bẫy hay không.",
+              "9": "Có thể nhận biết dòng thời gian của minh ước, bao gồm mọi bản ghi sửa đổi trong quá khứ; kiểm định Quan sát +12; có thể phát hiện điều khoản tự hủy trong khế ước.",
+              "10": "Có thể nhận biết chuỗi nhân quả của minh ước; kiểm định Quan sát +14; có thể nhìn trước mọi hệ quả phái sinh sau khi khế ước được thực hiện."
+            },
+            "阶位": "Cơ bản"
+          },
+          {
+            "名称": "Phân tích luật chơi",
+            "类型": "Đặc biệt",
+            "描述": "Lập tức hiểu quy tắc, điều kiện thắng thua, khuyết điểm cân bằng và chiến lược tất thắng của bất kỳ trò chơi nào.",
+            "特殊效果": {
+              "1": "Hiểu luật của trò chơi đơn giản, như cờ bài; kiểm định Trí lực +2.",
+              "2": "Hiểu luật của trò chơi phức tạp trung bình; kiểm định Trí lực +3; có thể phát hiện một lỗ hổng quy tắc.",
+              "3": "Hiểu luật của trò chơi phức tạp; kiểm định Trí lực +4; có thể phát hiện hai lỗ hổng quy tắc.",
+              "4": "Hiểu trò chơi truyền thống của mười sáu chủng tộc; kiểm định Trí lực +5; có thể phát hiện vấn đề cân bằng trong quy tắc.",
+              "5": "Hiểu trò chơi cấp thần linh; kiểm định Trí lực +6; có thể suy diễn ra chiến lược tối ưu.",
+              "6": "Hiểu trò chơi chưa từng thấy; kiểm định Trí lực +7; có thể dự đoán xác suất thắng thua trước khi trò chơi bắt đầu.",
+              "7": "Hiểu trò chơi có quy tắc bị sửa đổi; kiểm định Trí lực +8; có thể khôi phục quy tắc nguyên bản.",
+              "8": "Hiểu trò chơi có nhiều tầng quy tắc chồng lên nhau; kiểm định Trí lực +10; có thể tách riêng quy tắc ở các tầng khác nhau.",
+              "9": "Hiểu trò chơi mà bản thân quy tắc chính là cạm bẫy; kiểm định Trí lực +12; có thể tái cấu trúc quy tắc để khiến nó công bằng.",
+              "10": "Hiểu bất kỳ trò chơi nào, bao gồm cả bản nháp quy tắc chưa hoàn thiện; kiểm định Trí lực +14; có thể cập nhật chiến lược tối ưu theo thời gian thực trong lúc trò chơi đang diễn ra."
+            },
+            "阶位": "Cơ bản"
+          },
+          {
+            "名称": "Dệt khế ước",
+            "类型": "Đặc biệt",
+            "描述": "Dùng ngôn ngữ, chữ viết, ma pháp hoặc ý niệm để dệt nên khế ước có sức ràng buộc của pháp tắc thế giới.",
+            "特殊效果": {
+              "1": "Có thể ký kết khế ước miệng, hai bên phải thực hiện thành thật; kẻ vi phạm chịu 【Lương tâm khiển trách】, không thể nói dối trong 1 ngày.",
+              "2": "Có thể ký kết khế ước bằng văn bản; kẻ vi phạm chịu 【Nguyền rủa ngôn ngữ】, nói năng lộn xộn trong 3 ngày.",
+              "3": "Có thể ký kết khế ước ma pháp; kẻ vi phạm chịu 【Ma lực rối loạn】, tỷ lệ thi triển thất bại 30% trong 1 ngày.",
+              "4": "Có thể ký kết huyết khế; kẻ vi phạm chịu 【Sinh mệnh thất thoát】, mỗi ngày mất 5% sinh mệnh cho tới khi thực hiện khế ước.",
+              "5": "Có thể ký kết khế ước linh hồn; kẻ vi phạm chịu 【Linh hồn xé rách】, mọi thuộc tính -5 cho tới khi thực hiện khế ước.",
+              "6": "Có thể ký kết khế ước chủng tộc liên quan tới cả tộc quần; chủng tộc của kẻ vi phạm chịu 【Thế giới trục xuất】, độ thiện cảm ngoại giao với mọi bên -20.",
+              "7": "Có thể ký kết khế ước vĩnh hằng; kẻ vi phạm chịu 【Giam cầm thời gian】, trải qua 100 năm trong trạng thái thời gian dừng lại.",
+              "8": "Có thể ký kết khế ước nhân quả; kẻ vi phạm chịu 【Nhân quả phản phệ】, một thành công trọng đại trong quá khứ bị xóa bỏ.",
+              "9": "Có thể ký kết khế ước pháp tắc; kẻ vi phạm bị pháp tắc đó 【Bài xích】, ví dụ vi phạm khế ước nước thì vĩnh viễn không thể chạm vào nước.",
+              "10": "Có thể ký kết 【Khế ước tuyệt đối】; kẻ vi phạm bị pháp tắc thế giới 【Xóa bỏ】 dấu vết tồn tại, chỉ giới hạn với đối tượng phi thần tính."
+            },
+            "阶位": "Cơ bản"
+          },
+          {
+            "名称": "Thấu thị tín nhiệm",
+            "类型": "Đặc biệt",
+            "描述": "Nhìn thấu lịch sử tín nhiệm, hồ sơ thực hiện khế ước và khuynh hướng với khế ước của một sinh vật hoặc một chủng tộc.",
+            "特殊效果": {
+              "1": "Có thể cảm nhận mục tiêu có thường xuyên vi phạm khế ước hay không.",
+              "2": "Có thể cảm nhận đại khái số lần mục tiêu vi phạm khế ước; kiểm định Sức hấp dẫn +2.",
+              "3": "Có thể cảm nhận loại vi phạm cụ thể của mục tiêu, như lừa gạt, bạo lực vi phạm hoặc lợi dụng lỗ hổng.",
+              "4": "Có thể cảm nhận mục tiêu có khế ước đang có hiệu lực hay không; kiểm định Sức hấp dẫn +3.",
+              "5": "Có thể cảm nhận ý muốn thực hiện khế ước hiện tại của mục tiêu; kiểm định Sức hấp dẫn +4.",
+              "6": "Có thể cảm nhận tóm lược hành vi vi phạm nghiêm trọng nhất trong lịch sử của mục tiêu; kiểm định Sức hấp dẫn +5.",
+              "7": "Có thể cảm nhận mục tiêu có đang lên kế hoạch vi phạm hay không; kiểm định Sức hấp dẫn +6; có thể cảnh báo trước.",
+              "8": "Có thể cảm nhận nội dung chi tiết của mọi khế ước đang có hiệu lực trên mục tiêu; kiểm định Sức hấp dẫn +7.",
+              "9": "Có thể cảm nhận mọi bên liên quan trong chuỗi khế ước của mục tiêu; kiểm định Sức hấp dẫn +8.",
+              "10": "Có thể cảm nhận người hưởng lợi ẩn trong khế ước của mục tiêu; kiểm định Sức hấp dẫn +10; có thể truy ngược tới bên liên quan ba tầng."
+            },
+            "阶位": "Cơ bản"
+          }
+        ],
+        "转职": [
+          {
+            "名称": "Bậc thầy trò chơi",
+            "类型": "Đặc biệt",
+            "描述": "Không tham gia trò chơi, mà thiết kế trò chơi. Có thể đặt ra luật chơi, đảm nhiệm trọng tài và phân xử thắng bại.",
+            "特殊效果": {
+              "1": "Có thể thiết kế trò chơi đơn giản, xác suất thắng thua có thể khống chế trong khoảng 30%-70%.",
+              "2": "Có thể thiết kế trò chơi phức tạp trung bình; có thể làm trọng tài cho một trò chơi.",
+              "3": "Có thể thiết kế trò chơi phức tạp; phán quyết trọng tài có hiệu lực pháp tắc thế giới.",
+              "4": "Có thể thiết kế trò chơi bất đối xứng, mỗi phe có quy tắc khác nhau; có thể phân xử trò chơi cấp chủng tộc.",
+              "5": "Có thể thiết kế trò chơi nhiều giai đoạn; có thể tinh chỉnh quy tắc trong khi trò chơi diễn ra để duy trì công bằng.",
+              "6": "Có thể thiết kế trò chơi cạm bẫy, nhìn như công bằng nhưng thật ra có lợi cho phe mình; có thể nhận biết trò chơi cạm bẫy của người khác.",
+              "7": "Có thể thiết kế trò chơi hợp tác, nhiều bên phải hợp tác mới có thể thắng; có thể cưỡng chế hai bên chấp nhận kết quả trò chơi.",
+              "8": "Có thể thiết kế trò chơi không có điều kiện thắng, lấy hòa cục làm mục tiêu; có thể chèn 【Quy tắc ẩn】 vào trò chơi.",
+              "9": "Có thể thiết kế trò chơi tự tiến hóa, quy tắc tự thay đổi theo tiến trình; có thể đặt trước ba điều kiện thắng ẩn.",
+              "10": "Có thể thiết kế 【Trò chơi tuyệt đối】: quy tắc không thể vi phạm, không thể lợi dụng lỗ hổng, không thể rút lui, trừ khi phân ra thắng bại."
+            },
+            "阶位": "Chuyển nghề"
+          },
+          {
+            "名称": "Trung gian minh ước",
+            "类型": "Đặc biệt nghề nghiệp",
+            "描述": "Là cơ cấu trung lập bên thứ ba, cung cấp bảo lãnh, chứng kiến và trọng tài cho việc ký kết khế ước giữa hai bên hoặc nhiều bên.",
+            "特殊效果": {
+              "1": "Có thể làm chứng cho khế ước song phương; sau khi chứng kiến, hiệu lực khế ước +10%.",
+              "2": "Có thể cung cấp 【Bảo lãnh trung lập】 cho khế ước: khi một bên vi phạm, bạn bồi thường thay và truy đòi lại.",
+              "3": "Có thể thiết lập 【Bảo đảm thực hiện】 cho khế ước: hai bên phải thế chấp vật phẩm/quyền lợi có giá trị tương đương.",
+              "4": "Có thể đảm nhiệm trọng tài khế ước; kết quả trọng tài có hiệu lực pháp tắc thế giới.",
+              "5": "Có thể cung cấp chứng kiến và trọng tài cho khế ước đa phương từ ba bên trở lên; có thể thiết lập cơ chế 【Tự động thực hiện】, đạt điều kiện thì tự động chấp hành."
+            },
+            "阶位": "Chuyển nghề"
+          },
+          {
+            "名称": "Đấu trí điều khoản",
+            "类型": "Chủ động",
+            "描述": "Trong đàm phán khế ước, thông qua ngôn từ chính xác và đấu trí logic để bí mật cài những điều khoản có lợi vào khế ước.",
+            "特殊效果": {
+              "1": "Có thể cài một điều khoản có lợi nhưng kín đáo vào khế ước; đối phương phải thông qua kiểm định Trí lực DC12 mới phát hiện.",
+              "2": "Có thể cài hai điều khoản kín đáo; DC phát hiện tăng lên 14.",
+              "3": "Có thể cài ba điều khoản kín đáo; DC phát hiện tăng lên 16; điều khoản có thể được đặt hiệu lực trễ.",
+              "4": "Có thể cài 【Điều khoản phản chế】, tự động kích hoạt trừng phạt khi đối phương vi phạm; DC phát hiện 18.",
+              "5": "Có thể cài 【Điều khoản tắc kè】, tự động biến dạng thành phiên bản có lợi nhất tùy tình huống; DC phát hiện 20; đối phương phải thành công kiểm định Thấu hiểu mới phát hiện."
+            },
+            "阶位": "Chuyển nghề"
+          },
+          {
+            "名称": "Mạng lưới tín nhiệm",
+            "类型": "Đặc biệt",
+            "描述": "Dệt nên một mạng lưới tín nhiệm bao phủ khu vực hoặc tộc quần nhất định, ghi chép mọi khế ước và lịch sử thực hiện.",
+            "特殊效果": {
+              "1": "Có thể thiết lập mạng lưới tín nhiệm trong một thành phố, ghi lại mọi khế ước công khai của thành đó.",
+              "2": "Mạng lưới tín nhiệm có thể bao phủ một công quốc; có thể tra cứu hồ sơ thực hiện khế ước của bất kỳ cá thể nào.",
+              "3": "Mạng lưới tín nhiệm có thể bao phủ một quốc gia; có thể đánh dấu 【Kẻ phá sản tín nhiệm】, khiến độ khó mọi khế ước +5.",
+              "4": "Mạng lưới tín nhiệm có thể bao phủ một chủng tộc, chỉ giới hạn khu cư trú tập trung của chủng tộc đó; có thể công bố 【Bảng đỏ đen tín nhiệm】.",
+              "5": "Mạng lưới tín nhiệm có thể bao phủ tuyến thương mại xuyên chủng tộc; có thể thiết lập 【Hạn mức tín nhiệm】, tự động cấp tín dụng dựa trên tỷ lệ thực hiện lịch sử."
+            },
+            "阶位": "Chuyển nghề"
+          }
+        ],
+        "进阶": [
+          {
+            "名称": "Ghép nối khế ước",
+            "类型": "Đặc biệt",
+            "描述": "Chuyển giao quyền lợi và nghĩa vụ của một khế ước cho bên thứ ba, hoặc hợp nhất nhiều khế ước.",
+            "特殊效果": {
+              "1": "Có thể chuyển nhượng quyền thụ hưởng của một khế ước đơn giản cho bên thứ ba.",
+              "2": "Có thể chuyển nhượng toàn bộ quyền lợi và nghĩa vụ của một khế ước; cần ba bên đồng ý.",
+              "3": "Có thể hợp nhất hai khế ước cùng loại; hiệu lực sau hợp nhất +20%.",
+              "4": "Có thể tách một khế ước thành nhiều khế ước độc lập; có thể đặt thứ tự ưu tiên.",
+              "5": "Có thể 【Tái cấu trúc nợ】 cho một khế ước sắp vi phạm; kéo dài thời hạn thực hiện nhưng tăng chi phí thực hiện."
+            },
+            "阶位": "Nâng cao"
+          },
+          {
+            "名称": "Truy đòi vi phạm",
+            "类型": "Đặc biệt",
+            "描述": "Khi khế ước bị vi phạm, đại diện bên chịu thiệt để truy đòi bồi thường. Bản thân quá trình truy đòi có hiệu lực pháp tắc thế giới.",
+            "特殊效果": {
+              "1": "Có thể phát động truy đòi vi phạm; bên vi phạm phải bồi thường 100% giá trị khế ước.",
+              "2": "Có thể truy đòi 150% giá trị khế ước; quá trình truy đòi được pháp tắc thế giới bảo hộ, bên vi phạm không thể tấn công người truy đòi.",
+              "3": "Có thể truy đòi 200% giá trị khế ước; có thể truy đòi tổn thất phi vật chất như danh dự, cơ hội, v.v.",
+              "4": "Có thể phát động truy đòi tập thể, đại diện mọi bên bị thiệt hại; số tiền truy đòi có thể cộng dồn.",
+              "5": "Có thể phát động 【Truy đòi tối hậu】: bên vi phạm phải trả 500% giá trị khế ước, hoặc chấp nhận 【Cưỡng chế thực hiện】 của pháp tắc thế giới."
+            },
+            "阶位": "Nâng cao"
+          },
+          {
+            "名称": "Khai thác lỗ hổng quy tắc",
+            "类型": "Chủ động",
+            "描述": "Phân tích sâu bất kỳ hệ thống quy tắc nào để tìm ra lỗ hổng, nghịch lý và vùng mù ở tầng sâu nhất.",
+            "特殊效果": {
+              "1": "Có thể phát hiện lỗ hổng logic trong hệ thống quy tắc đơn giản.",
+              "2": "Có thể phát hiện chỗ tự mâu thuẫn trong hệ thống quy tắc phức tạp; kiểm định Trí lực +3.",
+              "3": "Có thể phát hiện 【Trạng thái chưa định nghĩa】 trong hệ thống quy tắc, tức tình huống quy tắc không quy định; có thể dựa vào đó để đưa ra yêu sách quyền giải thích.",
+              "4": "Có thể phát hiện 【Phụ thuộc vòng】 trong hệ thống quy tắc, ví dụ A phụ thuộc B, B lại phụ thuộc A; có thể khiến quy tắc tê liệt.",
+              "5": "Có thể phát hiện 【Mệnh đề Godel】 trong hệ thống quy tắc, tức phát biểu không thể tự chứng minh thật giả trong hệ thống; có thể dựa vào đó yêu cầu tạm dừng trò chơi."
+            },
+            "阶位": "Nâng cao"
+          }
+        ],
+        "必杀": [
+          {
+            "名称": "Trọng tài tuyệt đối",
+            "类型": "Chủ động",
+            "描述": "Đưa ra phán quyết cuối cùng cho bất kỳ tranh chấp khế ước nào. Kết quả phán quyết bị pháp tắc thế giới cưỡng chế thực hiện.",
+            "特殊效果": {
+              "1": "Có thể phân xử tranh chấp khế ước đơn giản; sau phán quyết, hai bên bắt buộc phải thực hiện trong vòng một ngày.",
+              "2": "Có thể phân xử tranh chấp khế ước phức tạp; phán quyết có thuộc tính 【Không thể kháng cáo】.",
+              "3": "Có thể phân xử tranh chấp khế ước xuyên chủng tộc; mọi bên liên quan tới phán quyết đều phải tuân thủ.",
+              "4": "Có thể phân xử tranh chấp khế ước lịch sử, truy ngược tới 100 năm trước; phán quyết có thể lật đổ mọi án lệ trước đó.",
+              "5": "Có thể phân xử 【Tranh chấp không có khế ước】, khi hai bên chưa ký khế ước nhưng có thỏa thuận trên thực tế; kết quả phán quyết được xem như hai bên đã ký khế ước đó."
+            },
+            "阶位": "Tất sát"
+          },
+          {
+            "名称": "Tái định hình quy tắc",
+            "类型": "Đặc biệt",
+            "描述": "Tái định hình căn bản quy tắc của một trò chơi, thay đổi điều kiện thắng thua, cách tham gia hoặc cơ chế phần thưởng.",
+            "特殊效果": {
+              "1": "Có thể sửa một quy tắc đơn giản; cần hai bên đồng ý, hoặc trò chơi chưa bắt đầu.",
+              "2": "Có thể thêm một quy tắc mới; cần hai bên đồng ý.",
+              "3": "Có thể xóa một quy tắc; cần hai bên đồng ý; có thể áp dụng với trò chơi đã bắt đầu, nhưng cần tạm dừng.",
+              "4": "Có thể viết lại hoàn toàn luật chơi; cần 2/3 toàn bộ bên tham gia đồng ý; quy tắc mới tự động có hiệu lực.",
+              "5": "Có thể cưỡng ép chuyển một trò chơi thành 【Trò chơi minh ước】, thắng bại do tỷ lệ thực hiện khế ước quyết định."
+            },
+            "阶位": "Tất sát"
+          },
+          {
+            "名称": "Triệu hồi minh ước",
+            "类型": "Triệu hồi",
+            "描述": "Triệu hồi một tồn tại từng ký khế ước với bạn trong lịch sử, hoặc hình chiếu của người đó, để hỗ trợ sự vụ khế ước hiện tại.",
+            "召唤物名称": "Anh linh khế ước · [tên người lập ước]",
+            "特殊效果": {
+              "1": "Có thể triệu hồi hình chiếu của một cá thể từng ký khế ước với bạn, kéo dài 1 giờ; hình chiếu có thể làm chứng, giám định và cung cấp thông tin.",
+              "2": "Có thể triệu hồi hình chiếu của hai người lập ước; hình chiếu có thể tham gia đàm phán và đưa ra đề nghị.",
+              "3": "Có thể triệu hồi hình chiếu của ba người lập ước; hình chiếu có thể tạm thời ký khế ước mới, cần bản thể xác nhận sau đó.",
+              "4": "Có thể triệu hồi bản thể của một người lập ước, cần đối phương tự nguyện, kéo dài 1 ngày; có thể hỗ trợ xử lý sự vụ khế ước phức tạp.",
+              "5": "Có thể triệu hồi 【Linh thể khế ước】, ý thức tập thể của mọi người lập ước, kéo dài 1 giờ; có thể giải đáp mọi vấn đề liên quan tới khế ước và có sức thấu hiểu cấp 【Tiên tri】."
+            },
+            "阶位": "Tất sát"
+          }
+        ],
+        "奥义": [
+          {
+            "名称": "Khế ước thế giới",
+            "类型": "Chủ động",
+            "描述": "Lấy pháp tắc thế giới làm chứng, ký kết một siêu khế ước bao phủ cả khu vực, chủng tộc, thậm chí thế giới.",
+            "特殊效果": {
+              "1": "Có thể ký kết khế ước bao phủ một thành phố, ví dụ 【Cấm lừa gạt trong thành】; mọi người đi vào tự động chịu ràng buộc.",
+              "2": "Có thể ký kết khế ước bao phủ một công quốc; kẻ vi phạm tự động bị đánh dấu.",
+              "3": "Có thể ký kết khế ước bao phủ một chủng tộc; cần thủ lĩnh chủng tộc đồng ý; khế ước tự động ràng buộc mọi tộc nhân.",
+              "4": "Có thể ký kết khế ước bao phủ toàn bộ một phía Arad hoặc Disboard; cần nhân chứng cấp thần.",
+              "5": "Có thể ký kết 【Khế ước song thế giới】 giữa Arad và Disboard; cần Tetto hoặc thần linh khác chứng kiến; khế ước có thuộc tính 【Vĩnh hằng】."
+            },
+            "阶位": "Áo nghĩa"
+          },
+          {
+            "名称": "Vạch trần chân tướng",
+            "类型": "Đặc biệt",
+            "描述": "Trong tranh chấp khế ước, cưỡng ép phơi bày sự thật bị che giấu, điều khoản bị sửa đổi hoặc ý đồ lừa gạt.",
+            "特殊效果": {
+              "1": "Có thể cưỡng ép một bên nói ra một thông tin đã che giấu trong đàm phán khế ước; đối phương không thể nói dối.",
+              "2": "Có thể cưỡng ép phơi bày nội dung nguyên bản của khế ước bị ma pháp sửa đổi; kiểm định Trí lực +5.",
+              "3": "Có thể cưỡng ép phơi bày ý đồ chân thật của hai bên khi khế ước được ký kết; có thể hồi tưởng tâm cảnh khi đó.",
+              "4": "Có thể cưỡng ép phơi bày mọi bên liên quan ẩn trong chuỗi khế ước; có thể truy ngược tới năm tầng.",
+              "5": "Có thể cưỡng ép phơi bày 【Chân tướng khế ước】: toàn bộ động cơ, chuỗi lợi ích, âm mưu chuẩn bị trước và ảnh hưởng tương lai đứng sau khế ước."
+            },
+            "阶位": "Áo nghĩa"
+          },
+          {
+            "名称": "Lĩnh vực Minh Ước",
+            "类型": "Đặc biệt",
+            "描述": "Triển khai một lĩnh vực lấy minh ước làm pháp tắc duy nhất. Trong lĩnh vực, mọi hành vi đều phải dựa trên khế ước.",
+            "特殊效果": {
+              "1": "Triển khai lĩnh vực bán kính 100 feet, kéo dài 1 giờ. Trong lĩnh vực, 【Không có khế ước thì không được hành động】: mọi hành vi đều phải có căn cứ khế ước rõ ràng.",
+              "2": "Trong lĩnh vực, 【Khế ước tự động thực hiện】: không cần giám sát; kẻ vi phạm tự động chịu trừng phạt.",
+              "3": "Trong lĩnh vực, 【Khế ước trực quan hóa】: mọi khế ước hiện thành dải sáng, bất kỳ ai cũng có thể nhìn thấy.",
+              "4": "Trong lĩnh vực, 【Khế ước có thể giao dịch】: khế ước có thể mua bán, chuyển nhượng và phân tách như hàng hóa.",
+              "5": "Trong lĩnh vực, 【Khế ước chính là pháp tắc】: khế ước trong lĩnh vực có độ ưu tiên cao hơn pháp tắc thế giới bên ngoài."
+            },
+            "阶位": "Áo nghĩa"
+          }
+        ],
+        "觉醒一": [
+          {
+            "名称": "Hóa thân Minh Ước · Thân quy tắc",
+            "类型": "Chủ động",
+            "阶位": "Thức tỉnh một",
+            "描述": "Hóa bản thân thành tồn tại cụ hiện của minh ước. Trong trạng thái này, bạn chính là khế ước, khế ước chính là bạn.",
+            "特殊效果": {
+              "1": "Tiến vào trạng thái 【Hóa thân Minh Ước】, kéo dài suốt cuộc đàm phán/trò chơi. Trong thời gian này: mọi đàm phán khế ước tự động thành công trong phạm vi hợp lý; mọi hành vi vi phạm nhắm vào bạn đều tự động kích hoạt trừng phạt gấp ba; bạn có thể cảm nhận trạng thái thực hiện của mọi khế ước trong bán kính 10 km; bạn có thể lấy bản thân làm cái giá để bảo lãnh bất kỳ khế ước nào, nếu bạn vi phạm, bạn bị pháp tắc thế giới 【Phong ấn】 một năm.",
+              "2": "Trong trạng thái hóa thân, bạn có thể xử lý đồng thời mười cuộc đàm phán khế ước; cưỡng chế tạm dừng bất kỳ tranh chấp khế ước nào đang diễn ra; tạm thời sáng tạo một 【Khế ước khẩn cấp】 để giải quyết nguy cơ hiện tại; nhân 【Danh nghĩa Minh Ước】 yêu cầu bất kỳ sinh vật nào trả lời một vấn đề liên quan tới khế ước, và bắt buộc phải trả lời thành thật. Khi hóa thân kết thúc, toàn bộ tri thức khế ước của bạn được giữ lại vĩnh viễn.",
+              "3": "Trong trạng thái hóa thân, bạn có thể chỉnh sửa bất kỳ khế ước bằng văn bản nào mà không bị phát hiện, cần thông qua kiểm định Trí lực; nâng cấp một lời hứa miệng thành 【Khế ước tuyệt đối】; giải trừ bất kỳ khế ước phi thần tính nào, cần đối phương đồng ý hoặc trả giá; chuyển hóa trừng phạt của bên vi phạm thành 【Năng lượng khế ước】 của bạn, có thể dùng cho cường hóa khế ước trong tương lai. Sau khi hóa thân kết thúc, xếp hạng tín nhiệm của bạn vĩnh viễn tăng lên, độ thiện cảm khởi điểm của mọi chủng tộc +30."
+            }
+          }
+        ],
+        "觉醒二": [
+          {
+            "名称": "Ngoài ván cờ",
+            "类型": "Đặc biệt",
+            "阶位": "Thức tỉnh hai",
+            "描述": "Vượt lên bản thân trò chơi. Bạn không tham gia ván cờ, bạn định nghĩa ván cờ. Bạn có thể nhìn thấy mọi nhánh ván cờ khả dĩ.",
+            "特殊效果": {
+              "1": "Tiến vào trạng thái 【Siêu nhiên】, kéo dài suốt trò chơi/chiến dịch lớn. Trong thời gian này: bạn có thể đồng thời quan sát và phân tích mười trò chơi/cuộc đàm phán khế ước độc lập; bạn có thể dự đoán mọi hướng đi khả dĩ trong mười lượt tương lai của từng trò chơi; bạn có thể truyền đề nghị 【Chiến lược tối ưu】 cho bất kỳ thành viên phe mình nào tham gia trò chơi, hiệu quả tương đương 【Tiên tri】; bạn có thể nhận biết 【Phương pháp tất thắng】 trong bất kỳ trò chơi nào và chọn có nói ra hay không.",
+              "2": "Trong trạng thái siêu nhiên, bạn có thể can thiệp vào bất kỳ trò chơi nào với thân phận 【Người ngoài cuộc】, không chiếm suất tham gia; chèn một quy tắc mới vào trò chơi đang diễn ra, cần đa số quá bán người tham gia đồng ý; cưỡng chế trò chơi tiến vào trạng thái 【Tạm dừng】 tối đa 1 giờ; phơi bày 【Lá bài tẩy ẩn】 của một người tham gia cho mọi người thấy. Bạn miễn nhiễm mọi 【Chiến thuật tâm lý】 và 【Lừa gạt】 trong trò chơi."
+            }
+          }
+        ],
+        "觉醒三": [
+          {
+            "名称": "Nguồn quy tắc",
+            "类型": "Đặc biệt",
+            "阶位": "Thức tỉnh ba",
+            "描述": "Chạm tới đầu nguồn của quy tắc thế giới: pháp tắc ban sơ khi Tetto sáng tạo thế giới trò chơi. Tạm thời trở thành người đặt ra quy tắc.",
+            "特殊效果": {
+              "1": "Mỗi chiến dịch lớn/trò chơi cấp thần được dùng 1 lần. Tiến vào trạng thái 【Nguồn quy tắc】, kéo dài tới khi trò chơi hiện tại kết thúc. Có thể chọn một trong các mục sau:\n\n1. 【Phế bỏ quy tắc】: vĩnh viễn phế bỏ một quy tắc trò chơi đang tồn tại ở Disboard, cần Tetto hoặc tồn tại tương đương công nhận.\n2. 【Sáng tạo quy tắc】: sáng tạo một quy tắc thế giới mới, mọi trò chơi và khế ước tự động đưa vào, cần Tetto công nhận.\n3. 【Viết lại quy tắc】: viết lại quy tắc của một trò chơi cấp thần đang diễn ra, quy tắc mới tự động có hiệu lực, không cần bất kỳ ai đồng ý.\n4. 【Miễn trừ quy tắc】: chỉ định một tồn tại, bản thân hoặc người khác, khiến họ được miễn trừ một quy tắc thế giới, ví dụ 【Mười sáu chủng tộc không được giết hại lẫn nhau】, kéo dài trong một trò chơi.\n5. 【Phán xét quy tắc】: xét xử truy ngược bất kỳ hành vi vi phạm khế ước nào trong lịch sử, kết quả phán quyết tự động thi hành.\n6. 【Ký ức quy tắc】: nhận ký ức hoàn chỉnh về 【Quy tắc khởi nguyên của thế giới】, có thể giải đáp bất kỳ vấn đề nào liên quan tới nguồn gốc quy tắc.\n\nSau khi sử dụng, tiến vào 【Quá tải quy tắc】: mọi năng lực liên quan tới khế ước bị phong ấn, kéo dài một năm thời gian trò chơi."
+            }
+          }
+        ]
+      },
+      "skillTreeForClass": "Sứ đồ Minh Ước",
+      "lockedSkillMap": {},
+      "skillFlavorInput": "Khế ước/quy tắc/trò chơi/đàm phán",
+      "teammates": [],
+      "customTeammate": null,
+      "selectedTraits": [],
+      "customTraits": [
+        {
+          "name": "Trung lập tuyệt đối",
+          "effect": "Giữ lập trường trung lập tuyệt đối trong mọi tranh chấp khế ước, nhận danh hiệu 【Người làm chứng đáng tin】. Độ thiện cảm của mọi chủng tộc đối với bạn +20. Với các khế ước bạn tham gia, tỷ lệ vi phạm giảm 50%. Khi bạn làm chứng cho khế ước, hai bên tự động nhận 【Vầng sáng thành tín】 (ý muốn vi phạm -30%)."
+        },
+        {
+          "name": "Ký ức khế ước",
+          "effect": "Có thể ghi nhớ mọi khế ước bạn từng chứng kiến hoặc tham gia trong đời, bất kể số lượng. Có thể tùy lúc truy xuất toàn văn bất kỳ khế ước nào, thời điểm ký kết, các bên tham gia và trạng thái thực hiện. Kiểm định Trí lực +3 khi xử lý sự vụ liên quan tới khế ước. Có thể viện dẫn án lệ lịch sử trong đàm phán, sức thuyết phục tăng mạnh."
+        },
+        {
+          "name": "Cộng hưởng quy tắc",
+          "effect": "Có thể cộng hưởng với bất kỳ hệ thống quy tắc nào và nhanh chóng hiểu logic thiết kế của nó. Khi lần đầu tiếp xúc với bất kỳ trò chơi hoặc hệ thống khế ước mới nào, tự động đạt 50% mức hiểu biết. Kiểm định Trí lực +5 khi phân tích quy tắc. Có thể dự đoán ba quy tắc cốt lõi trước khi đối phương giải thích luật."
+        }
+      ],
+      "customExpertise": [],
+      "customIdentity": {
+        "enabled": true,
+        "name": "Sứ đồ Minh Ước",
+        "desc": "Sứ đồ không cầm binh khí. Lấy khế ước làm khiên, lấy quy tắc làm lưỡi dao. Đi giữa mười sáu chủng tộc, chứng kiến thắng bại của từng trò chơi, trọng tài cho từng lần thực hiện khế ước. Trong thế giới này, sức mạnh thật sự không nằm ở phá hoại, mà nằm ở lời hẹn ước.",
+        "tierIndex": 0
+      },
+      "selectedOpening": "custom",
+      "customOpeningText": "Tại bến tàu của Nhai Thị Cảng Hoàn Uyên, một thương nhân tộc Elf đang xé bỏ khế ước cung ứng với tộc Goblin. Bạn bước tới, mở cuốn sách khế ước chưa từng rời thân và khẽ nói: 'Theo điều thứ bảy của minh ước, bồi thường cho việc đơn phương phá ước là gấp ba giá gốc. Hoặc... chúng ta chơi một ván trò chơi nhé?'",
+      "selectedDifficulty": "normal",
+      "customRace": {
+        "enabled": true,
+        "name": "Dân Quy Tắc",
+        "trait1": {
+          "name": "Mối nối khế ước",
+          "detail": "Mỗi lần ký kết thành công một khế ước, bạn và bên ký ước thiết lập 【Mối nối khế ước】. Khi mối nối tồn tại, bạn có thể cảm nhận vị trí và trạng thái của đối phương, không giới hạn khoảng cách. Số lượng mối nối không có giới hạn. Có thể chủ động cắt đứt mối nối, nhưng sẽ tiêu hao một lần nghỉ ngắn.",
+          "negative": false
+        },
+        "trait2": {
+          "name": "Che chở quy tắc",
+          "detail": "Chỉ cần bạn chưa vi phạm bất kỳ khế ước nào, pháp tắc thế giới sẽ ban cho bạn 【Che chở quy tắc】: mọi hành vi ác ý nhắm vào bạn, bao gồm công kích vật lý, ma pháp và lừa gạt, đều phải chịu một lần 【Quy tắc phản phệ】, khiến kẻ tấn công có 30% xác suất hành động thất bại. Sự che chở biến mất sau lần vi phạm đầu tiên, và có thể được khôi phục bằng cách thực hiện một khế ước mới.",
+          "negative": false
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "ok": true,
+  "preset": {
+    "id": "2af54775-4010-42ef-a505-688f65fd99e6",
+    "ownerId": "1364165618160373814",
+    "ownerName": "diedoro",
+    "author": "diedoro",
+    "authorAvatar": "https://cdn.discordapp.com/avatars/1364165618160373814/03f4528e6d28090d930f7dde4951220a.png?size=128",
+    "name": "Thiên Mệnh Nhân",
+    "title": "Thiên Mệnh Nhân",
+    "intro": "Chưa test đâu meo.",
+    "coverUrl": "/api/presets/2af54775-4010-42ef-a505-688f65fd99e6/cover",
+    "className": "Thiên Mệnh Nhân",
+    "race": "Linh Minh Thạch Hầu",
+    "tags": [
+      "Sinh tồn"
+    ],
+    "likes": 1,
+    "liked": false,
+    "downloads": 8,
+    "status": "published",
+    "createdAt": "2026-03-26 11:47:24",
+    "updatedAt": "2026-05-04 17:57:20",
+    "lastLikedAt": "",
+    "presetData": {
+      "name": "Thiên Mệnh Nhân",
+      "class": "Thiên Mệnh Nhân",
+      "customClassName": "Thiên Mệnh Nhân",
+      "race": "__custom__",
+      "customRace": {
+        "name": "Linh Minh Thạch Hầu"
+      },
+      "customClassStyle": "Côn pháp thông thần, thân pháp như điện. Dùng kim thân bất diệt đứng giữa trời đất, dùng thuật định thân hàng phục vạn yêu.",
+      "backstory": "Một khối đá ngoan trên Hoa Quả Sơn, nhận linh tú của trời đất, tinh hoa mặt trời mặt trăng, bên trong thai nghén tiên thai. Một ngày nứt vỡ, sinh ra một thạch hầu. Nhưng thiên mệnh vô thường, Phật đạo tranh nhau, chư thiên thần Phật bày ra tầng tầng kiếp nạn. Con đường bạn bước lên không phải đường thành Phật, mà là hành trình phá xiềng xích, tìm lại chân ngã. Lục căn chưa sạch, thất tình chưa diệt; quy củ giữa trời đất này vốn không nên do kẻ khác định đoạt.",
+      "selectedCustomLevel": null
+    },
+    "downloadUrl": "/api/presets/2af54775-4010-42ef-a505-688f65fd99e6/file"
+  }
+}

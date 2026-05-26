@@ -1,0 +1,37 @@
+{
+  "ok": true,
+  "preset": {
+    "id": "9d1040af-2c98-4590-a74b-6b52858128b4",
+    "ownerId": "1023099334650237018",
+    "ownerName": "Dư Tẫn Phong Trần",
+    "author": "Dư Tẫn Phong Trần",
+    "authorAvatar": "https://cdn.discordapp.com/avatars/1023099334650237018/36a4e405218d0bac2f4cf6f9ed9c5114.png?size=128",
+    "name": "Điều tra viên huyền thoại",
+    "title": "Điều tra viên huyền thoại",
+    "intro": "Quảng cáo: nhận mọi ủy thác, bao gồm cho chim ăn, tìm mèo, thông cống, điều tra ngoại tình, theo dõi chụp lén và diệt chủng.",
+    "coverUrl": "/api/presets/9d1040af-2c98-4590-a74b-6b52858128b4/cover",
+    "className": "Điều tra viên huyền thoại",
+    "race": "Nhân loại chủng",
+    "tags": [
+      "Chỉ số"
+    ],
+    "likes": 3,
+    "liked": false,
+    "downloads": 81,
+    "status": "published",
+    "createdAt": "2026-03-16 03:12:52",
+    "updatedAt": "2026-05-22 15:40:45",
+    "lastLikedAt": "",
+    "presetData": {
+      "name": "",
+      "class": "Điều tra viên huyền thoại",
+      "customClassName": "Điều tra viên huyền thoại",
+      "race": "Nhân loại chủng",
+      "customRace": null,
+      "customClassStyle": "Luôn mang theo sổ tay, vừa du hành vừa ghi chép thế giới và xử lý dị thường: đó là điều tra viên huyền thoại.\nPhương thức tấn công của điều tra viên huyền thoại rất đa dạng, giỏi đủ loại công kích vật lý và ma pháp, đặc biệt thành thạo xử lý kẻ địch phi nhân loại và mục tiêu siêu khổng lồ.\nNghe nói trong sổ tay của điều tra viên huyền thoại có ghi lại một vài chân tướng không ai biết của thế giới...",
+      "backstory": "",
+      "selectedCustomLevel": null
+    },
+    "downloadUrl": "/api/presets/9d1040af-2c98-4590-a74b-6b52858128b4/file"
+  }
+}

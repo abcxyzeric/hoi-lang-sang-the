@@ -1,0 +1,38 @@
+{
+  "ok": true,
+  "preset": {
+    "id": "a2647ca3-7d77-4d9d-9b1d-b7c82b72abc1",
+    "ownerId": "1397568338246373426",
+    "ownerName": "Haijiu「GlodRush」",
+    "author": "Haijiu「GlodRush」",
+    "authorAvatar": "https://cdn.discordapp.com/avatars/1397568338246373426/93369d8dc535e0651a7e3dab1ef4e964.png?size=128",
+    "name": "Magatsukami",
+    "title": "Magatsukami",
+    "intro": "Nhân vật preset nguyên bản, có sẵn vũ khí trưởng thành được và tự động tiến hóa theo cấp người chơi.",
+    "coverUrl": "/api/presets/a2647ca3-7d77-4d9d-9b1d-b7c82b72abc1/cover",
+    "className": "Magatsukami",
+    "race": "Chủng Ảo Tưởng",
+    "tags": [
+      "Đồng nhân",
+      "Noragami"
+    ],
+    "likes": 8,
+    "liked": false,
+    "downloads": 103,
+    "status": "published",
+    "createdAt": "2026-03-17 06:00:13",
+    "updatedAt": "2026-05-20 18:27:02",
+    "lastLikedAt": "",
+    "presetData": {
+      "name": "Yato",
+      "class": "Magatsukami",
+      "customClassName": "Magatsukami",
+      "race": "Chủng Ảo Tưởng",
+      "customRace": null,
+      "customClassStyle": "Vị thần vô danh giữa thời Chiến Quốc loạn lạc, cầm thần khí \"Hiiro\" chiến đấu bằng thao túng dòng nước và kiếm thuật tốc độ cao. Hiiro có thể hóa thành lưu thể áp suất cao và tự do biến hình, tấn công từ những góc hiểm khiến phòng ngự gần như vô nghĩa. Sở hữu sức mạnh \"Cắt Duyên\" chém đứt mối duyên của vạn vật; khí tràng của Magatsukami khiến sinh linh xung quanh bất an.",
+      "backstory": "Vị thần vô danh trong thời Chiến Quốc loạn lạc, không có đền thờ, không có tín đồ, duy trì tồn tại bằng cách tiếp nhận nguyện vọng của con người. Cầm thần khí \"Hiiro\", chiến đấu bằng thao túng dòng nước và kiếm thuật tốc độ cao, sở hữu sức mạnh \"Cắt Duyên\" chém đứt nhân duyên. Nhưng thứ tới thế giới này chỉ là một lát cắt ngắn trong tháng năm dài đằng đẵng của hắn, một hình chiếu mảnh ký ức thời Chiến Quốc, còn xa mới là bản thân hắn. Vì vậy, khác với bản thể nhẹ dạ bông đùa, đoạn ký ức được thực thể hóa này trầm mặc ít lời, mặc trang phục lãng nhân thời cũ.",
+      "selectedCustomLevel": 1
+    },
+    "downloadUrl": "/api/presets/a2647ca3-7d77-4d9d-9b1d-b7c82b72abc1/file"
+  }
+}

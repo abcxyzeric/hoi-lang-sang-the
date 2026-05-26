@@ -1,0 +1,39 @@
+{
+  "ok": true,
+  "preset": {
+    "id": "2c9d958d-20dd-4e8a-908a-8aaeb8df978c",
+    "ownerId": "1429093155424309248",
+    "ownerName": "Cảnh",
+    "author": "Cảnh",
+    "authorAvatar": "https://cdn.discordapp.com/avatars/1429093155424309248/c2ee46fc25af9df7c158c318e0cded34.png?size=128",
+    "name": "Kamen Rider Kuuga",
+    "title": "Kamen Rider Kuuga",
+    "intro": "Cập nhật:\n3.28 đã cập nhật các hiệu ứng liên quan tới [Năng lượng phong ấn], đặt số tầng cộng dồn tối đa, và chỉnh hiệu ứng của Pegasus thăng hoa.\n3.23 đã giảm chỉ số của Cú đá Toàn Năng Kinh Dị và Cú đá Tối Thượng, đồng thời chỉnh lại phần mô tả hiệu ứng của Bộc Liệt Pegasus.\nTinh chỉnh nhẹ mô tả kỹ năng của \"Hình thái Thanh Long\", \"Long Kích Sóng Cuồng\" và \"Bốc hỏa siêu nhiên\".\nCây kỹ năng được xây dựng dựa trên Kamen Rider Kuuga phiên bản Godai Yusuke.\nMột chiến binh siêu cổ đại có thể linh hoạt chuyển đổi hình thái để chiến đấu bằng nhiều phong cách khác nhau tùy tình huống và tùy loại kẻ địch.",
+    "coverUrl": "/api/presets/2c9d958d-20dd-4e8a-908a-8aaeb8df978c/cover",
+    "className": "Kamen Rider Kuuga",
+    "race": "Nhân loại chủng",
+    "tags": [
+      "Kamen Rider",
+      "Chế vui",
+      "Chỉ số"
+    ],
+    "likes": 5,
+    "liked": false,
+    "downloads": 103,
+    "status": "published",
+    "createdAt": "2026-03-17 14:46:27",
+    "updatedAt": "2026-05-19 00:39:42",
+    "lastLikedAt": "",
+    "presetData": {
+      "name": "",
+      "class": "Kamen Rider Kuuga",
+      "customClassName": "Kamen Rider Kuuga",
+      "race": "Nhân loại chủng",
+      "customRace": null,
+      "customClassStyle": "Chiến binh siêu cổ đại có thể linh hoạt chuyển đổi hình thái để chiến đấu bằng nhiều phong cách khác nhau tùy theo từng loại kẻ địch.",
+      "backstory": "",
+      "selectedCustomLevel": 1
+    },
+    "downloadUrl": "/api/presets/2c9d958d-20dd-4e8a-908a-8aaeb8df978c/file"
+  }
+}

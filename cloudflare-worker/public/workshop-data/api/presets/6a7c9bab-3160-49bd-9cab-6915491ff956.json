@@ -1,0 +1,43 @@
+{
+  "ok": true,
+  "preset": {
+    "id": "6a7c9bab-3160-49bd-9cab-6915491ff956",
+    "ownerId": "1466729476250665177",
+    "ownerName": "Hòa Cốc Lang",
+    "author": "Hòa Cốc Lang",
+    "authorAvatar": "https://cdn.discordapp.com/avatars/1466729476250665177/1628fc11e7961d85181295493426b775.png?size=128",
+    "name": "Ryomen Sukuna",
+    "title": "Ryomen Sukuna",
+    "intro": "Ryomen Sukuna là Vua Nguyền Hồn có tiêu hao thấp, sát thương cao, sát thương theo phần trăm sinh mệnh, sát thương chuẩn, bất tử, khống chế mạnh, đồng tu lĩnh vực và triệu hồi. Từ đầu đến cuối đều áp chế, không có điểm yếu nào, là sức chiến đấu trần cấp đúng nghĩa.",
+    "coverUrl": "/api/presets/6a7c9bab-3160-49bd-9cab-6915491ff956/cover",
+    "className": "Vua Nguyền Hồn",
+    "race": "Vua Nguyền Hồn · Nguyền linh",
+    "tags": [
+      "Bùng nổ",
+      "Duy trì",
+      "Đơn mục tiêu",
+      "Khống chế",
+      "Triệu hồi"
+    ],
+    "likes": 2,
+    "liked": false,
+    "downloads": 203,
+    "status": "published",
+    "createdAt": "2026-03-21 07:45:39",
+    "updatedAt": "2026-05-24 01:30:57",
+    "lastLikedAt": "",
+    "presetData": {
+      "name": "Ryomen Sukuna",
+      "class": "Vua Nguyền Hồn",
+      "customClassName": "Vua Nguyền Hồn",
+      "race": "__custom__",
+      "customRace": {
+        "name": "Vua Nguyền Hồn · Nguyền linh"
+      },
+      "customClassStyle": "Ryomen Sukuna là Vua Nguyền Hồn, một chiến binh toàn năng cấp quy tắc. Phong cách chiến đấu là áp chế cuồng bạo, vừa mạnh cận chiến vừa có hỏa lực diện rộng, sinh tồn và khống chế đều đạt cực hạn. Kỹ năng lấy tiêu hao thể lực thấp, sát thương chuẩn theo phần trăm, quy tắc không gian và linh hồn làm cốt lõi; từ trảm kích cơ bản đến áo nghĩa diệt thế đều vượt chuẩn từng tầng. Hắn đồng thời sở hữu hỏa lực cực hạn, phòng ngự tuyệt đối, tái sinh bất tử, chi phối lĩnh vực và hợp thể triệu hồi; là tồn tại cấp trần áp đảo toàn trình, gần như không có sơ hở.",
+      "backstory": "",
+      "selectedCustomLevel": null
+    },
+    "downloadUrl": "/api/presets/6a7c9bab-3160-49bd-9cab-6915491ff956/file"
+  }
+}

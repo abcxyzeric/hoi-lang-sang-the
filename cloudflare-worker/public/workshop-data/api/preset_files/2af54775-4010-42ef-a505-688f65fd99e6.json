@@ -1,0 +1,326 @@
+{
+  "exportedAt": "2026-03-26T11:43:32.659Z",
+  "version": "1.0",
+  "preset": {
+    "id": "1774525411193",
+    "name": "Hầu",
+    "timestamp": 1774525411193,
+    "createdAt": 1774525411193,
+    "updatedAt": 1774525411193,
+    "data": {
+      "name": "Thiên Mệnh Nhân",
+      "gender": "Không",
+      "age": "Không rõ",
+      "race": "__custom__",
+      "identity": "__custom__",
+      "avatar": "",
+      "attributes": {
+        "strength": 15,
+        "dexterity": 10,
+        "constitution": 15,
+        "intelligence": 11,
+        "wisdom": 10,
+        "charisma": 10
+      },
+      "backstory": "Một khối đá ngoan trên Hoa Quả Sơn, nhận linh tú của trời đất, tinh hoa mặt trời mặt trăng, bên trong thai nghén tiên thai. Một ngày nứt vỡ, sinh ra một thạch hầu. Nhưng thiên mệnh vô thường, Phật đạo tranh nhau, chư thiên thần Phật bày ra tầng tầng kiếp nạn. Con đường bạn bước lên không phải đường thành Phật, mà là hành trình phá xiềng xích, tìm lại chân ngã. Lục căn chưa sạch, thất tình chưa diệt; quy củ giữa trời đất này vốn không nên do kẻ khác định đoạt.",
+      "selectedLevelMode": "native",
+      "selectedCustomLevel": null,
+      "selectedSpawnPoint": "Tầng dưới Chợ Vách Cảng Hoàn Uyên · Bờ biển ngoài",
+      "class": "Thiên Mệnh Nhân",
+      "selectedBaseClass": "Nghề tùy chỉnh",
+      "customClassName": "Thiên Mệnh Nhân",
+      "customClassStyle": "Côn pháp thông thần, thân pháp như điện. Dùng kim thân bất diệt đứng giữa trời đất, dùng thuật định thân hàng phục vạn yêu.",
+      "customClassWeapon": "Như Ý Kim Cô Bổng",
+      "customClassCombatStyle": "Chiến sĩ nhanh nhẹn · hỗ trợ pháp thuật",
+      "skillTree": {
+        "基础": [
+          {
+            "名称": "Côn hoa",
+            "类型": "Đặc biệt",
+            "描述": "Múa cây trường côn trong tay, hóa thành bóng hoa kín không lọt gió. Có thể đỡ vật bay, cũng có thể tích khí thế khi tụ lực.",
+            "特殊效果": {
+              "1": "Chủ động kích hoạt, trong lượt này có thể đỡ 1 lần tấn công tầm xa; đỡ thành công thì sát thương đòn tấn công kế tiếp +10%.",
+              "2": "Số lần đỡ tăng lên 2; đỡ thành công thì sát thương +15%.",
+              "3": "Số lần đỡ tăng lên 3; đỡ thành công thì sát thương +20%; có thể đỡ một phần vật phóng ma pháp.",
+              "4": "Trong thời gian Côn hoa, tốc độ di chuyển không giảm; đỡ thành công thì sát thương +25%; có thể đỡ phần lớn vật phóng ma pháp.",
+              "5": "Trong thời gian Côn hoa, miễn nhiễm sát thương vật lý tầm xa; đỡ thành công thì sát thương +30%; khi phản kích trúng chắc chắn ngắt động tác đối phương."
+            },
+            "阶位": "Cơ bản"
+          },
+          {
+            "名称": "Thân ngoại thân pháp",
+            "类型": "Đặc biệt",
+            "描述": "Nhổ một nắm lông tơ, thổi ra vô số hầu tôn. Phân thân tuy không có sức mạnh của bản thể, nhưng có thể quấy nhiễu đối thủ và hút hỏa lực.",
+            "特殊效果": {
+              "1": "Triệu hồi 2 phân thân, kéo dài 2 lượt. Phân thân kế thừa 10% thuộc tính bản thể, có thể thu hút kẻ địch tấn công.",
+              "2": "Triệu hồi 3 phân thân, kéo dài 2 lượt. Phân thân kế thừa 15% thuộc tính bản thể.",
+              "3": "Triệu hồi 3 phân thân, kéo dài 3 lượt. Phân thân kế thừa 20% thuộc tính bản thể; khi phân thân bị đánh tan, bản thể nhận 5% tăng sát thương.",
+              "4": "Triệu hồi 4 phân thân, kéo dài 3 lượt. Phân thân kế thừa 25% thuộc tính bản thể; khi phân thân bị đánh tan, bản thể nhận 8% tăng sát thương.",
+              "5": "Triệu hồi 4 phân thân, kéo dài 4 lượt. Phân thân kế thừa 30% thuộc tính bản thể; khi phân thân bị đánh tan, bản thể nhận 10% tăng sát thương (có thể cộng dồn, kéo dài tới khi chiến đấu kết thúc)."
+            },
+            "阶位": "Cơ bản"
+          },
+          {
+            "名称": "Đầu đồng tay sắt",
+            "类型": "Đặc biệt",
+            "描述": "Vận chuyển nguyên khí trong cơ thể, khiến thân thể cứng như sắt. Có thể trực diện chống đòn của đối thủ mà không bị thương, thậm chí đẩy lùi đối phương.",
+            "特殊效果": {
+              "1": "Chủ động kích hoạt, trong lượt này giảm sát thương vật lý +15%; khi đỡ thành công tấn công cận chiến, có 30% xác suất đẩy lùi kẻ địch.",
+              "2": "Giảm sát thương vật lý +20%; xác suất đẩy lùi 40%; sau khi bị đẩy lùi, kẻ địch mất thăng bằng, đòn tấn công kế tiếp sát thương +15%.",
+              "3": "Giảm sát thương vật lý +25%; xác suất đẩy lùi 50%; sau khi bị đẩy lùi, kẻ địch mất thăng bằng, sát thương +20%.",
+              "4": "Giảm sát thương vật lý +30%; xác suất đẩy lùi 60%; có thể đỡ một lần sát thương chí mạng (mỗi trận 1 lần).",
+              "5": "Giảm sát thương vật lý +40%; xác suất đẩy lùi 70%; đỡ sát thương chí mạng mỗi trận 2 lần; khi đẩy lùi thành công, kẻ địch choáng 1 lượt."
+            },
+            "阶位": "Cơ bản"
+          },
+          {
+            "名称": "Định thân thuật",
+            "类型": "Chủ động",
+            "描述": "Miệng niệm chú quyết, ngón tay điểm tới. Khiến mục tiêu như tượng đất tượng gỗ, không thể nhúc nhích. Tu vi càng cao, định thân càng lâu.",
+            "特殊效果": {
+              "1": "Thi pháp định thân lên mục tiêu đơn thể, kéo dài 1 lượt. Cần tiến hành đối kháng Cảm nhận; thành công thì mục tiêu không thể hành động.",
+              "2": "Định thân kéo dài 2 lượt; độ khó đối kháng +1.",
+              "3": "Định thân kéo dài 2 lượt; có thể thi pháp đồng thời lên hai mục tiêu.",
+              "4": "Định thân kéo dài 3 lượt; độ khó đối kháng +2; người bị định thân chịu sát thương đòn tấn công kế tiếp +25%.",
+              "5": "Định thân kéo dài 3 lượt; có thể thi pháp lên tối đa 3 mục tiêu trong bán kính 15 feet; người bị định thân chịu sát thương tấn công +40%."
+            },
+            "阶位": "Cơ bản"
+          }
+        ],
+        "转职": [
+          {
+            "名称": "Tụ hình tán khí",
+            "类型": "Đặc biệt",
+            "描述": "Hóa thân thể thành khí vô hình, lập tức trốn đi. Có thể né tránh tấn công chí mạng, cũng có thể hiện thân sau lưng kẻ địch.",
+            "特殊效果": {
+              "1": "Chủ động kích hoạt, trong lượt này tỷ lệ né tránh +30%; có thể xuyên qua ô bị kẻ địch chiếm giữ.",
+              "2": "Tỷ lệ né tránh +40%; sau khi sử dụng có thể dịch chuyển tức thời tới bất kỳ vị trí nào trong vòng 30 feet.",
+              "3": "Tỷ lệ né tránh +50%; sau khi dịch chuyển tức thời, sát thương đòn tấn công kế tiếp +20%; mỗi trận có thể dùng 2 lần.",
+              "4": "Tỷ lệ né tránh +60%; sau khi dịch chuyển tức thời, sát thương tấn công +30%; trong thời gian sử dụng miễn nhiễm hiệu ứng khống chế.",
+              "5": "Tỷ lệ né tránh +80%; sau khi dịch chuyển tức thời, sát thương tấn công +50%; trong thời gian sử dụng có thể xuyên qua mọi chướng ngại (bao gồm tường)."
+            },
+            "阶位": "Chuyển nghề"
+          },
+          {
+            "名称": "Viên",
+            "类型": "Đặc biệt nghề nghiệp",
+            "描述": "Thiên Mệnh Nhân không chỉ là một danh hiệu. Mỗi trận chiến của bạn đều đang đánh thức ký ức Đại Thánh sâu trong huyết mạch.",
+            "特殊效果": {
+              "1": "Bị động: trong chiến đấu, mỗi lần hoàn thành né tránh hoàn mỹ, sát thương đòn tấn công kế tiếp +10% (có thể cộng dồn 3 tầng).",
+              "2": "Sau khi né tránh hoàn mỹ, sát thương tấn công +15%; giới hạn cộng dồn 5 tầng; khi đủ tầng tự động kích hoạt một lần【Phân thân lông tơ】(triệu hồi 1 phân thân).",
+              "3": "Sau khi né tránh hoàn mỹ, sát thương tấn công +20%; giới hạn cộng dồn 7 tầng; khi đủ tầng kích hoạt【Phân thân lông tơ】triệu hồi 2 phân thân."
+            },
+            "阶位": "Chuyển nghề"
+          },
+          {
+            "名称": "Cấm tự pháp",
+            "类型": "Chủ động",
+            "描述": "Dùng nguyên khí phong bế pháp thuật của bản thân, dồn toàn bộ sức mạnh vào thân thể. Có bỏ mới có được.",
+            "特殊效果": {
+              "1": "Chủ động kích hoạt, phong ấn toàn bộ kỹ năng chủ động (ngoài đánh thường), đổi lấy sát thương cận chiến +50%, kéo dài 3 lượt.",
+              "2": "Sát thương cận chiến +75%; kéo dài 4 lượt; trong thời gian này mỗi lượt hồi 5% sinh mệnh.",
+              "3": "Sát thương cận chiến +100%; kéo dài 5 lượt; trong thời gian này miễn nhiễm khống chế; có thể chủ động giải phong ấn sớm."
+            },
+            "阶位": "Chuyển nghề"
+          },
+          {
+            "名称": "An thân pháp",
+            "类型": "Đặc biệt",
+            "描述": "Dùng Kim Cô Bổng vẽ đất làm lao, trong vòng chính là tịnh thổ. Ở trong vòng, vạn pháp không xâm.",
+            "特殊效果": {
+              "1": "Lấy bản thân làm trung tâm vẽ vòng bán kính 10 feet, kéo dài 3 lượt. Đồng đội trong vòng nhận 15% giảm sát thương.",
+              "2": "Giảm sát thương trong vòng 25%; kéo dài 4 lượt; đồng đội trong vòng mỗi lượt hồi 3% sinh mệnh.",
+              "3": "Giảm sát thương trong vòng 35%; kéo dài 5 lượt; đồng đội trong vòng hồi 5% sinh mệnh; kẻ địch đi vào vòng thì tốc độ di chuyển giảm một nửa."
+            },
+            "阶位": "Chuyển nghề"
+          }
+        ],
+        "进阶": [
+          {
+            "名称": "Lông cứu mạng",
+            "类型": "Đặc biệt",
+            "描述": "Do Quan Âm Bồ Tát ban tặng, thời khắc nguy nan có thể khởi tử hồi sinh.",
+            "特殊效果": {
+              "1": "Mỗi trận chiến 1 lần, khi sinh mệnh về 0, hồi sinh với 20% sinh mệnh.",
+              "2": "Mỗi trận chiến 1 lần, hồi sinh với 30% sinh mệnh; sau khi hồi sinh nhận trạng thái【Bất khuất】(giảm sát thương 20%, kéo dài 2 lượt).",
+              "3": "Mỗi trận chiến 2 lần, hồi sinh với 40% sinh mệnh; sau khi hồi sinh nhận【Bất khuất】giảm sát thương 30%; có thể chỉ định một đồng đội đồng thời nhận hiệu quả【Bất khuất】."
+            },
+            "阶位": "Nâng cao"
+          },
+          {
+            "名称": "Ba đầu sáu tay",
+            "类型": "Đặc biệt",
+            "描述": "Hiển lộ pháp tướng, ba đầu sáu tay. Tấn công như mưa bão, khó lòng chống đỡ.",
+            "特殊效果": {
+              "1": "Chủ động kích hoạt, kéo dài 3 lượt. Trong thời gian này, mỗi lần đánh thường được xem là hai lần tấn công (sát thương kết toán riêng).",
+              "2": "Kéo dài 4 lượt; mỗi lần tấn công xem là ba lần tấn công; có thể đồng thời tấn công ba mục tiêu khác nhau.",
+              "3": "Kéo dài 5 lượt; mỗi lần tấn công xem là ba lần tấn công; phạm vi tấn công mở rộng tới 15 feet; trong thời gian này sát thương bạo kích +30%."
+            },
+            "阶位": "Nâng cao"
+          },
+          {
+            "名称": "Pháp thiên tượng địa",
+            "类型": "Chủ động",
+            "描述": "Thi triển thần thông pháp thiên tượng địa, thân hình tăng vọt mấy chục trượng, giơ tay nhấc chân đều có uy thế sập núi nứt đất.",
+            "特殊效果": {
+              "1": "Chủ động kích hoạt, thân hình khổng lồ hóa, kéo dài 3 lượt. Trong thời gian này phạm vi tấn công mở rộng tới 30 feet, mọi tấn công sát thương +30%, sát thương phải chịu -20%.",
+              "2": "Kéo dài 4 lượt; sát thương +50%; giảm sát thương 30%; có thể nghiền ép kẻ địch cỡ nhỏ (khiến chúng mất thăng bằng).",
+              "3": "Kéo dài 5 lượt; sát thương +80%; giảm sát thương 40%; hiệu quả nghiền ép nâng cấp thành【Đánh bay】; tấn công có thể phá hủy địa hình."
+            },
+            "阶位": "Nâng cao"
+          }
+        ],
+        "必杀": [
+          {
+            "名称": "Viên",
+            "类型": "Chủ động",
+            "描述": "Đây mới là bạn thật sự. Không phải Đấu Chiến Thắng Phật, không phải Tề Thiên Đại Thánh. Là con vượn bật ra từ trong đá, không phục trời đất quản thúc.",
+            "特殊效果": {
+              "1": "Tiến vào trạng thái【Viên】, kéo dài 4 lượt. Toàn thuộc tính +4; tấn công bỏ qua 30% phòng ngự; mỗi lượt tự động kích hoạt một lần【Thân ngoại thân pháp】.",
+              "2": "Kéo dài 5 lượt; toàn thuộc tính +6; tấn công bỏ qua 50% phòng ngự; số lượng triệu hồi của【Thân ngoại thân pháp】+2; miễn nhiễm khống chế.",
+              "3": "Kéo dài 6 lượt; toàn thuộc tính +8; tấn công bỏ qua 70% phòng ngự; hồi chiêu toàn bộ kỹ năng giảm một nửa; mỗi lượt hồi 10% sinh mệnh."
+            },
+            "阶位": "Tất sát"
+          },
+          {
+            "名称": "Kim cương bất hoại",
+            "类型": "Đặc biệt",
+            "描述": "Kim cương thân của Phật môn, vạn kiếp không mòn. Không phải bậc đại thần thông thì không thể phá.",
+            "特殊效果": {
+              "1": "Chủ động kích hoạt, kéo dài 2 lượt. Trong thời gian này giảm sát thương 60%; miễn nhiễm bạo kích.",
+              "2": "Kéo dài 3 lượt; giảm sát thương 70%; miễn nhiễm bạo kích và sát thương xuyên thấu.",
+              "3": "Kéo dài 4 lượt; giảm sát thương 80%; miễn nhiễm toàn bộ hiệu ứng khống chế; khi chịu tấn công có 30% xác suất phản 50% sát thương."
+            },
+            "阶位": "Tất sát"
+          },
+          {
+            "名称": "Định Hải Thần Châm",
+            "类型": "Chủ động",
+            "描述": "Như Ý Kim Cô Bổng, nặng mười ba nghìn năm trăm cân. Một gậy này khiến trời đất đảo lộn.",
+            "特殊效果": {
+              "1": "Dẫn đạo 1 lượt, gây đòn hủy diệt lên khu vực mục tiêu. Sau khi trúng, mục tiêu bị【Trấn áp】, kéo dài 2 lượt (không thể di chuyển, không thể tấn công).",
+              "2": "【Trấn áp】kéo dài 3 lượt; trong thời gian trấn áp, mục tiêu mỗi lượt chịu sát thương chuẩn bằng 10% sinh mệnh tối đa.",
+              "3": "Không cần dẫn đạo; gây hiệu quả【Trấn áp】lên toàn bộ kẻ địch trong bán kính 20 feet; trong thời gian bị trấn áp, mục tiêu không thể sử dụng bất kỳ kỹ năng nào."
+            },
+            "阶位": "Tất sát"
+          }
+        ],
+        "奥义": [
+          {
+            "名称": "Bảy mươi hai phép biến",
+            "类型": "Đặc biệt",
+            "描述": "Vạn vật trong trời đất, không gì không thể biến. Biến thành côn trùng kiến có thể lẻn vào, biến thành mãnh hổ có thể chém giết, biến thành thần linh có thể lừa trời.",
+            "特殊效果": {
+              "1": "Có thể biến thành hình thái sinh vật từng thấy, nhận được năng lực cơ bản của sinh vật đó, kéo dài 1 giờ.",
+              "2": "Sau khi biến hóa, nhận được kỹ năng cốt lõi của sinh vật đó; thời gian kéo dài tăng tới 2 giờ; trong thời gian biến hóa có thể tùy lúc chuyển về bản thể.",
+              "3": "Có thể tiến hành【Biến hóa mô phỏng】, biến thành dáng vẻ của cá thể cụ thể, nhận ngoại hình, giọng nói, thậm chí một phần ký ức của cá thể ấy; kéo dài 4 giờ."
+            },
+            "阶位": "Áo nghĩa"
+          },
+          {
+            "名称": "Cân Đẩu Vân",
+            "类型": "Đặc biệt",
+            "描述": "Một cú lộn nhào đi mười vạn tám nghìn dặm. Vạn vật thế gian, không có nơi nào không tới được.",
+            "特殊效果": {
+              "1": "Có thể tức thời di chuyển tới bất kỳ vị trí nào trong tầm nhìn; mỗi trận chiến dùng được 2 lần.",
+              "2": "Có thể mang một đồng đội dịch chuyển tức thời; mỗi trận chiến dùng được 3 lần; có thể dịch chuyển tới nơi từng tới (cần dẫn đạo 1 phút).",
+              "3": "Có thể mang nhiều đồng đội dịch chuyển tức thời; có thể dịch chuyển tới bất kỳ địa điểm đã biết nào (không cần tầm nhìn); mỗi nghỉ dài dùng được 1 lần【Xuyên toa vạn dặm】."
+            },
+            "阶位": "Áo nghĩa"
+          },
+          {
+            "名称": "Hỏa Nhãn Kim Tinh",
+            "类型": "Đặc biệt",
+            "描述": "Thần thông luyện thành trong lò bát quái. Thật giả đẹp xấu, yêu tà quỷ mị, liếc mắt nhìn thấu.",
+            "特殊效果": {
+              "1": "Bị động: có thể nhìn thấu tàng hình, ngụy trang và ảo thuật; kiểm định phát giác +5.",
+              "2": "Có thể nhìn thấu điểm yếu của kẻ địch, khi tấn công gây thêm 15% sát thương; có thể nhìn thấu【Thuật biến hóa】.",
+              "3": "Có thể nhìn thấu ý đồ hành động của kẻ địch, cửa sổ né tránh hoàn mỹ kéo dài 50%; có thể nhìn thấu mọi quy tắc và cạm bẫy ẩn."
+            },
+            "阶位": "Áo nghĩa"
+          }
+        ],
+        "觉醒一": [
+          {
+            "名称": "Tề Thiên Đại Thánh",
+            "类型": "Chủ động",
+            "阶位": "Thức tỉnh một",
+            "描述": "Không phong Phật, không nhận tước. Ta chính là ta, Tề Thiên Đại Thánh Tôn Ngộ Không.",
+            "特殊效果": {
+              "1": "Tiến vào trạng thái【Tề Thiên Đại Thánh】, kéo dài cả trận chiến. Trong thời gian này: mọi thuộc tính +10; tấn công gây thêm 50% sát thương; miễn nhiễm hiệu quả loại【Áp chế】, 【Trói buộc】; mỗi lần giết kẻ địch hồi 20% sinh mệnh; có thể đồng thời duy trì toàn bộ hiệu quả kỹ năng【Tất sát】; hồi chiêu【Định Hải Thần Châm】giảm một nửa.",
+              "2": "Trong trạng thái Tề Thiên Đại Thánh: toàn thuộc tính +15; sát thương cộng thêm tăng tới 80%; miễn nhiễm toàn bộ hiệu ứng khống chế;【Pháp thiên tượng địa】không tiêu hao và thời gian kéo dài gấp đôi; mỗi lượt tự động kích hoạt một lần【Côn hoa】; khi giết kẻ địch nhận thêm một hành động.",
+              "3": "Trong trạng thái Tề Thiên Đại Thánh: toàn thuộc tính +20; sát thương cộng thêm tăng tới 100%; sau mỗi lần né tránh hoàn mỹ tự động phản kích, gây 150% sát thương; phân thân do【Thân ngoại thân pháp】triệu hồi kế thừa 60% thuộc tính; trong chiến đấu có thể biến thành bất kỳ hình thái từng thấy nào mà không tiêu hao số lần【Bảy mươi hai phép biến】; khi chết tự động hồi sinh một lần với 50% sinh mệnh."
+            }
+          }
+        ],
+        "觉醒二": [
+          {
+            "名称": "Ngoan thạch",
+            "类型": "Đặc biệt",
+            "阶位": "Thức tỉnh hai",
+            "描述": "Từ trong đá mà tới, về trong đá mà đi. Trời đất bất nhân, ta cũng bất nhân.",
+            "特殊效果": {
+              "1": "Tiến vào trạng thái【Ngoan thạch】, kéo dài cả trận chiến. Trong thời gian này: giảm sát thương vật lý 60%, giảm sát thương ma pháp 30%; miễn nhiễm【Đẩy lùi】, 【Đánh bay】; mỗi lần chịu tấn công tích 1 tầng【Tâm đá】(mỗi tầng tăng 5% sát thương tấn công, tối đa 10 tầng); khi【Tâm đá】đủ tầng, tự động phóng thích một lần【Địa liệt】, gây sát thương quanh người dựa trên sinh mệnh đã mất (mỗi mất 10% sinh mệnh, sát thương +10%).",
+              "2": "Trong trạng thái Ngoan thạch: giảm sát thương vật lý 80%, giảm sát thương ma pháp 50%; mỗi lượt tự động hồi 5% sinh mệnh; mỗi tầng【Tâm đá】tăng 8% sát thương, giới hạn 15 tầng; cộng thêm sát thương【Địa liệt】tăng tới mỗi mất 10% sinh mệnh thì sát thương +20%; khi sinh mệnh thấp hơn 30%, tự động kích hoạt một lần【Kim cương bất hoại】."
+            }
+          }
+        ],
+        "觉醒三": [
+          {
+            "名称": "Ngộ Không",
+            "类型": "Đặc biệt",
+            "阶位": "Thức tỉnh ba",
+            "描述": "Ngộ là giác tỉnh. Không là vô tướng. Đây chính là đáp án.",
+            "特殊效果": {
+              "1": "Mỗi trận chiến 1 lần. Tiến vào trạng thái【Ngộ Không】, kéo dài 5 lượt. Có thể chọn một mục sau:\n\n1.【Nhìn thấu】-- nhìn rõ mọi nhân quả. Có thể dự đoán mọi động tác của kẻ địch trong 3 lượt tương lai, đồng thời tự động chọn cách ứng đối tối ưu.\n2.【Vô ngã】-- bỏ đi thân xác, hóa thành chiến ý. Tấn công bỏ qua 90% phòng ngự của mục tiêu; sau mỗi lần đánh trúng kẻ địch, đòn tấn công kế tiếp của kẻ địch đó chắc chắn bị né tránh.\n3.【Tề thiên】-- đẩy sức mạnh tới cực hạn. Sát thương toàn bộ kỹ năng +200%;【Pháp thiên tượng địa】, 【Ba đầu sáu tay】, 【Thân ngoại thân pháp】đồng thời có hiệu lực và hiệu quả gấp đôi.\n4.【Phá vọng】-- phá trừ mọi hư vọng. Giải trừ toàn bộ trạng thái tiêu cực; phong ấn mọi hiệu quả tăng ích của kẻ địch; kẻ địch không thể sử dụng bất kỳ kỹ năng loại【Biến thân】, 【Ảo thuật】nào.\n5.【Quy chân】-- trở về bản chân. Hồi 100% sinh mệnh; xóa toàn bộ hồi chiêu; nhận trạng thái【Bất khuất】(miễn nhiễm tử vong, kéo dài 2 lượt).\n\nSau khi dùng, tiến vào trạng thái【Không】(toàn thuộc tính -5, kéo dài tới khi chiến đấu kết thúc), nhưng mỗi lần né tránh hoàn mỹ sẽ giảm 1 lượt thời gian kéo dài của【Không】."
+            }
+          }
+        ]
+      },
+      "skillTreeForClass": "Thiên Mệnh Nhân",
+      "lockedSkillMap": {},
+      "skillFlavorInput": "Côn pháp/thần thông/đấu chiến",
+      "teammates": [],
+      "customTeammate": null,
+      "selectedTraits": [],
+      "customTraits": [
+        {
+          "name": "Hỏa Nhãn Kim Tinh",
+          "effect": "Thần mục trời sinh, yêu tà khó trốn. Có thể nhìn thấu bất kỳ tàng hình, ngụy trang, ảo thuật nào. Kiểm định phát giác +5. Khi đối mặt năng lực loại【Thuật biến hóa】hoặc【Lừa gạt】, tự động nhận một cơ hội nhìn thấu."
+        },
+        {
+          "name": "Thân kim cương",
+          "effect": "Thân thể thạch hầu, đao thương khó vào. Giảm sát thương vật lý +15%. Khi chịu tấn công, có 20% xác suất miễn nhiễm toàn bộ sát thương của lần tấn công đó."
+        },
+        {
+          "name": "Như Ý Kim Cô Bổng",
+          "effect": "Như ý tùy tâm, lớn nhỏ tùy ý. Đánh thường có thể gây sát thương phạm vi (chọn toàn bộ kẻ địch trong bán kính 5 feet, sát thương kết toán riêng). Tấn công bỏ qua 10% phòng ngự. Có thể ném Kim Cô Bổng tấn công mục tiêu ở xa, gây sát thương tương đương."
+        }
+      ],
+      "customExpertise": [],
+      "customIdentity": {
+        "enabled": true,
+        "name": "Hoa Quả Sơn · Thiên Mệnh Nhân",
+        "desc": "Một khối đá ngoan trên Hoa Quả Sơn, nhận linh tú của trời đất, tinh hoa mặt trời mặt trăng, bên trong thai nghén tiên thai. Một sớm nứt vỡ, chính là mệnh không phục trời đất quản thúc.",
+        "tierIndex": 0
+      },
+      "selectedOpening": "custom",
+      "customOpeningText": "Đào trên Hoa Quả Sơn nở rồi tàn, tàn rồi lại nở. Bạn ngồi trên khối đá ngoan đã sinh ra và nuôi dưỡng mình, nhìn khói bếp dưới chân núi phía xa. 'Sư phụ nói, giữa trời đất này vốn không có thiên mệnh.' Bạn vác Kim Cô Bổng lên vai, 'Người tin nhiều rồi, nó mới có.'",
+      "selectedDifficulty": "normal",
+      "customRace": {
+        "enabled": true,
+        "name": "Linh Minh Thạch Hầu",
+        "trait1": {
+          "name": "Thông biến hóa",
+          "detail": "Thông hiểu thuật biến hóa, biết thiên thời, biết địa lợi, có thể dời sao đổi đấu. Có thể tiến hành một lần【Biến hóa】(tiêu hao một lần nghỉ ngắn), biến thân thành bất kỳ hình thái sinh vật từng thấy nào, nhận năng lực cơ bản của nó. Trong thời gian biến hóa có thể nhìn thấu điểm yếu của kẻ địch, khi tấn công gây thêm 15% sát thương.",
+          "negative": false
+        },
+        "trait2": {
+          "name": "Chiến ý ngập trời",
+          "detail": "Càng chiến đấu càng mạnh. Trong chiến đấu, cuối mỗi lượt nhận 5% tăng sát thương (cộng dồn tối đa tới 50%). Mỗi khi sinh mệnh giảm 10%, tỷ lệ bạo kích +3%. Khi giết kẻ địch, hồi 10% sinh mệnh và đặt lại một lần hồi chiêu【Định thân thuật】.",
+          "negative": false
+        }
+      }
+    }
+  }
+}

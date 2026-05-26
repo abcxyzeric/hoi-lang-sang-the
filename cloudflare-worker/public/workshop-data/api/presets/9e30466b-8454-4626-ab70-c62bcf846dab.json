@@ -1,0 +1,39 @@
+{
+  "ok": true,
+  "preset": {
+    "id": "9e30466b-8454-4626-ab70-c62bcf846dab",
+    "ownerId": "1397568338246373426",
+    "ownerName": "Tro Cưu「GlodRush」",
+    "author": "Tro Cưu「GlodRush」",
+    "authorAvatar": "https://cdn.discordapp.com/avatars/1397568338246373426/93369d8dc535e0651a7e3dab1ef4e964.png?size=128",
+    "name": "Ảnh Hồn Tuyệt Nhận",
+    "title": "Ảnh Hồn Tuyệt Nhận",
+    "intro": "Preset mẫu, tương đối đơn giản; đây là nghề cận chiến kết hợp Ảnh Thủ lưu và Cương Hồn lưu từ DND3.5, dùng để cung cấp trải nghiệm chơi tiêu chuẩn.",
+    "coverUrl": "/api/presets/9e30466b-8454-4626-ab70-c62bcf846dab/cover",
+    "className": "Ảnh Hồn Tuyệt Nhận",
+    "race": "Nhân loại chủng",
+    "tags": [
+      "Đấu sĩ quyết đấu",
+      "Sát thủ",
+      "Đơn mục tiêu"
+    ],
+    "likes": 1,
+    "liked": false,
+    "downloads": 44,
+    "status": "published",
+    "createdAt": "2026-04-11 18:13:32",
+    "updatedAt": "2026-05-24 12:55:25",
+    "lastLikedAt": "",
+    "presetData": {
+      "name": "User",
+      "class": "Ảnh Hồn Tuyệt Nhận",
+      "customClassName": "Ảnh Hồn Tuyệt Nhận",
+      "race": "Nhân loại chủng",
+      "customRace": null,
+      "customClassStyle": "Phong cách DND, tham khảo Tome of Battle của DND3.5E và các lưu phái Cửu Kiếm; sử dụng Ảnh Thủ lưu và Cương Hồn lưu. Phong cách chiến đấu là phủ lưỡi kiếm bằng ảnh nhận sắc bén, linh hoạt truyền tống qua bóng để du tẩu tìm cơ hội, đồng thời chờ thời cơ dùng kiếm thuật Cương Hồn lưu để đỡ gạt mọi đòn tấn công. Thuộc tính có lợi là Cảm nhận và Nhanh nhẹn; tinh thần kiên cường, ý chí đạt cực hạn thậm chí có thể tạo ra hiệu quả gần như ngưng đọng thời gian.",
+      "backstory": "",
+      "selectedCustomLevel": 1
+    },
+    "downloadUrl": "/api/presets/9e30466b-8454-4626-ab70-c62bcf846dab/file"
+  }
+}

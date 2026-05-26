@@ -1,0 +1,107 @@
+{
+  "exportedAt": "2026-03-21T02:40:49.779Z",
+  "version": "1.0",
+  "preset": {
+    "id": "1774060750476",
+    "name": "Rimuru (không cây kỹ năng)",
+    "timestamp": 1774060750476,
+    "createdAt": 1774060750476,
+    "updatedAt": 1774060750476,
+    "data": {
+      "name": "Rimuru Tempest",
+      "gender": "Không",
+      "age": 18,
+      "race": "__custom__",
+      "identity": "__custom__",
+      "avatar": "",
+      "attributes": {
+        "strength": 12,
+        "dexterity": 11,
+        "constitution": 12,
+        "intelligence": 15,
+        "wisdom": 11,
+        "charisma": 12
+      },
+      "backstory": "",
+      "selectedLevelMode": "native",
+      "selectedCustomLevel": null,
+      "selectedSpawnPoint": "Tầng dưới Chợ Vách Cảng Hoàn Uyên · Bờ biển ngoài",
+      "class": "Ma Vương · Rimuru",
+      "selectedBaseClass": "Nghề tùy chỉnh",
+      "customClassName": "Ma Vương · Rimuru",
+      "customClassStyle": "",
+      "customClassWeapon": "Long Ma Đao/Long Thần Kiếm/vũ khí mô phỏng",
+      "customClassCombatStyle": "Dạng hỗn hợp",
+      "skillTree": {
+        "基础": [],
+        "转职": [
+          {
+            "名称": "Vua Trí Tuệ",
+            "类型": "Đặc biệt nghề nghiệp",
+            "描述": "Phân tích chiêu thức của kẻ địch, nhận được một kỹ năng tài nguyên.",
+            "特殊效果": {
+              "1": "Để Đại Hiền Giả phân tích chiêu thức của kẻ địch, nhận được một kỹ năng tài nguyên (kiểm định Trí lực)."
+            },
+            "阶位": "Chuyển nghề"
+          },
+          {
+            "名称": "Vua Bạo Thực",
+            "类型": "Đặc biệt nghề nghiệp",
+            "描述": "Miệng vực sâu nuốt chửng vạn vật, tước đoạt tồn tại của kẻ địch và hóa thành thứ bản thân dùng được. Khi kẻ địch suy yếu, phát động xử quyết săn mồi chí mạng.",
+            "特殊效果": {
+              "1": "Rimuru có thể dùng một hành động để thử nuốt chửng sinh vật có sinh mệnh dưới 10% (kiểm định Sức mạnh, máu càng cao độ khó càng lớn). Nuốt chửng thành công thì mục tiêu chết trực tiếp; Rimuru nhận một đặc chất của sinh vật đó hoặc học được một pháp thuật mà sinh vật đó biết khi còn sống."
+            },
+            "阶位": "Chuyển nghề"
+          }
+        ],
+        "进阶": [],
+        "必杀": [],
+        "奥义": []
+      },
+      "skillTreeForClass": "Ma Vương · Rimuru",
+      "lockedSkillMap": {},
+      "skillFlavorInput": "Chỉ có 2 kỹ năng đặc biệt nghề cơ bản, không có kỹ năng khác.",
+      "teammates": [],
+      "customTeammate": null,
+      "selectedTraits": [],
+      "customTraits": [
+        {
+          "name": "Đại Hiền Giả",
+          "effect": "Nhờ Đại Hiền Giả hỗ trợ, Rimuru thường có thể nhận được lời giải tối ưu; kiểm định Trí lực +5. Có thể chủ động để Đại Hiền Giả điều khiển cơ thể tiến vào trạng thái lý trí tuyệt đối; kiểm định chiến đấu chắc chắn có lợi thế, đồng thời có mô thức hành vi khác với ban đầu. Có thể để Đại Hiền Giả phân tích chiêu thức kẻ địch và nhận được một kỹ năng tài nguyên."
+        },
+        {
+          "name": "Beelzebub",
+          "effect": "Rimuru có thể dùng một hành động để thử nuốt chửng sinh vật có sinh mệnh dưới 10% (kiểm định Sức mạnh). Nếu sinh vật bị nuốt chửng chết, Rimuru có thể chọn nhận một đặc chất của sinh vật đó, hoặc học một pháp thuật mà sinh vật đó biết."
+        },
+        {
+          "name": "Phân Tích Dung Hợp",
+          "effect": "Có thể thông qua kiểm định Trí lực để dung hợp đặc chất, pháp thuật, từ đó nhận được đặc chất mới hoặc kỹ năng tài nguyên. Độ khó DC do DM thiết lập."
+        }
+      ],
+      "customExpertise": [],
+      "customIdentity": {
+        "enabled": true,
+        "name": "Xuất thân tùy chỉnh",
+        "desc": "",
+        "tierIndex": 0
+      },
+      "selectedOpening": "custom",
+      "customOpeningText": "Được Tet triệu hồi tới Disboard.",
+      "selectedDifficulty": "normal",
+      "customRace": {
+        "enabled": true,
+        "name": "Slime",
+        "trait1": {
+          "name": "Bạo Thực",
+          "detail": "Kinh nghiệm nhận được +100%. Có thể dùng một hành động để thay đổi ngoại hình: có thể biến về hình thái slime (quái bùn siêu nhỏ), hoặc biến thành một sinh vật hình người từng bị nuốt chửng (thường là dáng vẻ của Shizue). Mỗi khi giết một đơn vị có cấp cao hơn bản thân, toàn thuộc tính +1. Có thể chứa vật phẩm/sinh vật sống trong túi dạ dày.",
+          "negative": false
+        },
+        "trait2": {
+          "name": "Ma Vương",
+          "detail": "Trong trạng thái chiến đấu, cuối mỗi lượt nhận 5% cộng thêm sát thương cuối. Khi kiểm định, mỗi lần kiểm định ném 3 xúc xắc và lấy kết quả cao nhất. Khi tấn công, sát thương cơ bản kèm sát thương cộng thêm bằng Trí lực×5. Có thể tự do triệu hồi những người bản thân từng đặt tên. Mỗi 10 cấp lĩnh ngộ một lần, nhận 3 kỹ năng tài nguyên và 2 đặc chất.",
+          "negative": false
+        }
+      }
+    }
+  }
+}

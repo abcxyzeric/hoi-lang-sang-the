@@ -1,0 +1,40 @@
+{
+  "ok": true,
+  "preset": {
+    "id": "b46fe43a-7e67-4288-9129-fc1b5ebf5a3f",
+    "ownerId": "919130071636246599",
+    "ownerName": "Douglas",
+    "author": "Douglas",
+    "authorAvatar": "https://cdn.discordapp.com/avatars/919130071636246599/2c6d5257cd1cc08bca56007d1727d0d6.png?size=128",
+    "name": "Libelle",
+    "title": "Libelle",
+    "intro": "Đánh quái để nhận vật liệu rồi chế biến món ăn. Lấy cảm hứng từ Dungeon Meshi.\nKỹ năng hơi kiểu \"xe lăn\", vì kỹ năng chủ động chưa được cập nhật nên trước khi chơi hãy nhớ sinh lại cây kỹ năng.",
+    "coverUrl": "/api/presets/b46fe43a-7e67-4288-9129-fc1b5ebf5a3f/cover",
+    "className": "Đầu bếp chiến đấu",
+    "race": "Long Tinh Chủng",
+    "tags": [
+      "Long nương",
+      "Cơm chiên",
+      "Ăn thịt người (không phải)",
+      "Dungeon Meshi (đại khái)"
+    ],
+    "likes": 18,
+    "liked": false,
+    "downloads": 173,
+    "status": "published",
+    "createdAt": "2026-03-15 15:46:15",
+    "updatedAt": "2026-05-24 10:37:53",
+    "lastLikedAt": "",
+    "presetData": {
+      "name": "Libelle",
+      "class": "Đầu bếp chiến đấu",
+      "customClassName": "Đầu bếp chiến đấu",
+      "race": "Long Tinh Chủng",
+      "customRace": null,
+      "customClassStyle": "Giỏi dùng trường kiếm và đuôi để chiến đấu; có thể dùng các món ăn đã nấu để hồi phục trạng thái và nhận tăng ích.",
+      "backstory": "",
+      "selectedCustomLevel": 1
+    },
+    "downloadUrl": "/api/presets/b46fe43a-7e67-4288-9129-fc1b5ebf5a3f/file"
+  }
+}

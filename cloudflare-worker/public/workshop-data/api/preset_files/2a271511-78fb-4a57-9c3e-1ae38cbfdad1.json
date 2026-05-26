@@ -1,0 +1,613 @@
+{
+  "exportedAt": "2026-03-26T20:56:36.913Z",
+  "version": "1.0",
+  "preset": {
+    "id": "1774558592575",
+    "name": "Hỏa Long Chiến Pháp",
+    "timestamp": 1774558592575,
+    "createdAt": 1774558592575,
+    "updatedAt": 1774558592575,
+    "data": {
+      "name": "Nãi Long",
+      "gender": "Nam",
+      "age": 18,
+      "race": "__custom__",
+      "identity": "Tùy chỉnh",
+      "avatar": "",
+      "attributes": {
+        "strength": 14,
+        "dexterity": 8,
+        "constitution": 12,
+        "intelligence": 15,
+        "wisdom": 8,
+        "charisma": 14
+      },
+      "backstory": "",
+      "selectedLevelMode": "native",
+      "selectedCustomLevel": null,
+      "selectedSpawnPoint": "Khu mâm tán cây · hành lang lá xanh",
+      "class": "Hỏa Long Chiến Pháp",
+      "selectedBaseClass": "Nghề tùy chỉnh",
+      "customClassName": "Hỏa Long Chiến Pháp",
+      "customClassStyle": "Pháp sư chiến trường, dùng ma lực tạo hình để vừa công vừa thủ.",
+      "customClassWeapon": "Thi pháp bằng pháp trượng, vũ khí ma pháp",
+      "customClassCombatStyle": "Sát thương ma pháp",
+      "skillTree": {
+        "基础": [
+          {
+            "名称": "Hơi Thở Long Viêm",
+            "类型": "Chủ động",
+            "描述": "Ma pháp lửa, phóng long viêm vào vùng hình quạt phía trước, gây sát thương phạm vi lên nhóm địch. Không ngắt liên kích: vẫn kiểm định trúng đích bình thường, dù kết quả ra sao liên kích cũng không bị ngắt.",
+            "特殊效果": {
+              "1": "Không ngắt liên kích, nhưng không thể bạo kích.",
+              "2": "Không ngắt liên kích, nhưng không thể bạo kích.",
+              "3": "Không ngắt liên kích, nhưng không thể bạo kích.",
+              "4": "Không ngắt liên kích, nhưng không thể bạo kích.",
+              "5": "Không ngắt liên kích, nhưng không thể bạo kích. Long viêm đồng thời chọn toàn bộ kẻ địch làm mục tiêu.",
+              "6": "Không ngắt liên kích, nhưng không thể bạo kích. Long viêm đồng thời chọn toàn bộ kẻ địch làm mục tiêu.",
+              "7": "Không ngắt liên kích, nhưng không thể bạo kích. Long viêm đồng thời chọn toàn bộ kẻ địch làm mục tiêu.",
+              "8": "Không ngắt liên kích, nhưng không thể bạo kích. Long viêm đồng thời chọn toàn bộ kẻ địch làm mục tiêu.",
+              "9": "Long viêm tự mang truy tung, chắc chắn trúng toàn bộ kẻ địch, nhưng không thể bạo kích.",
+              "10": "Long viêm tự mang truy tung, chắc chắn trúng toàn bộ kẻ địch, nhưng không thể bạo kích.",
+              "11": "Long viêm tự mang truy tung, chắc chắn trúng toàn bộ kẻ địch, nhưng không thể bạo kích.",
+              "12": "Long viêm tự mang truy tung, chắc chắn trúng toàn bộ kẻ địch, nhưng không thể bạo kích.",
+              "13": "Long viêm tự mang truy tung, chắc chắn trúng toàn bộ kẻ địch, có thể kiểm định bạo kích bình thường.",
+              "14": "Long viêm tự mang truy tung, chắc chắn trúng toàn bộ kẻ địch, có thể kiểm định bạo kích bình thường.",
+              "15": "Long viêm tự mang truy tung, chắc chắn trúng toàn bộ kẻ địch, có thể kiểm định bạo kích bình thường, sát thương bạo kích tăng thêm +20%."
+            },
+            "阶位": "Cơ bản"
+          },
+          {
+            "名称": "Long Tinh Hộ Thuẫn",
+            "类型": "Đặc biệt",
+            "描述": "Dùng ma lực lửa ngưng tụ giáp tinh thể đỏ trên bề mặt cơ thể, lập tức nhận trạng thái [long tinh hộ thuẫn] và một lượng sinh mệnh tạm thời; các đòn đánh thường hoặc kỹ năng sau đó đều tiếp tục nhận sinh mệnh tạm thời.",
+            "特殊效果": {
+              "1": "Mỗi lần tăng sinh mệnh tạm thời bằng 10% HP tối đa, có thể cộng dồn và kế thừa sang hiệp sau. [Long tinh hộ thuẫn] chịu bạo kích hoặc chiến đấu kết thúc thì bị giải trừ.",
+              "2": "Mỗi lần tăng sinh mệnh tạm thời bằng 10% HP tối đa, có thể cộng dồn và kế thừa sang hiệp sau. [Long tinh hộ thuẫn] chịu bạo kích hoặc chiến đấu kết thúc thì bị giải trừ.",
+              "3": "Mỗi lần tăng sinh mệnh tạm thời bằng 10% HP tối đa, có thể cộng dồn và kế thừa sang hiệp sau. [Long tinh hộ thuẫn] chịu bạo kích hoặc chiến đấu kết thúc thì bị giải trừ.",
+              "4": "Mỗi lần tăng sinh mệnh tạm thời bằng 10% HP tối đa, có thể cộng dồn và kế thừa sang hiệp sau. [Long tinh hộ thuẫn] chịu bạo kích hoặc chiến đấu kết thúc thì bị giải trừ.",
+              "5": "Mỗi lần tăng sinh mệnh tạm thời bằng 10% HP tối đa, có thể cộng dồn và kế thừa sang hiệp sau. [Long tinh hộ thuẫn] tồn tại trong lúc AC+1 chịu bạo kích hoặc chiến đấu kết thúc thì bị giải trừ.",
+              "6": "Mỗi lần tăng sinh mệnh tạm thời bằng 10% HP tối đa, có thể cộng dồn và kế thừa sang hiệp sau. [Long tinh hộ thuẫn] tồn tại trong lúc AC+1 chịu bạo kích hoặc chiến đấu kết thúc thì bị giải trừ.",
+              "7": "Mỗi lần tăng sinh mệnh tạm thời bằng 10% HP tối đa, có thể cộng dồn và kế thừa sang hiệp sau. [Long tinh hộ thuẫn] tồn tại trong lúc AC+1 chịu bạo kích hoặc chiến đấu kết thúc thì bị giải trừ.",
+              "8": "Mỗi lần tăng sinh mệnh tạm thời bằng 10% HP tối đa, có thể cộng dồn và kế thừa sang hiệp sau. [Long tinh hộ thuẫn] tồn tại trong lúc AC+1 chịu bạo kích hoặc chiến đấu kết thúc thì bị giải trừ.",
+              "9": "Mỗi lần tăng sinh mệnh tạm thời bằng 10% HP tối đa, có thể cộng dồn và kế thừa sang hiệp sau. [Long tinh hộ thuẫn] tồn tại trong lúc AC+2 chịu bạo kích hoặc chiến đấu kết thúc thì bị giải trừ.",
+              "10": "Mỗi lần tăng sinh mệnh tạm thời bằng 10% HP tối đa, có thể cộng dồn và kế thừa sang hiệp sau. [Long tinh hộ thuẫn] tồn tại trong lúc AC+2 chịu bạo kích hoặc chiến đấu kết thúc thì bị giải trừ.",
+              "11": "Mỗi lần tăng sinh mệnh tạm thời bằng 10% HP tối đa, có thể cộng dồn và kế thừa sang hiệp sau. [Long tinh hộ thuẫn] tồn tại trong lúc AC+2 chịu bạo kích hoặc chiến đấu kết thúc thì bị giải trừ.",
+              "12": "Mỗi lần tăng sinh mệnh tạm thời bằng 10% HP tối đa, có thể cộng dồn và kế thừa sang hiệp sau. [Long tinh hộ thuẫn] tồn tại trong lúc AC+2 chịu bạo kích hoặc chiến đấu kết thúc thì bị giải trừ.",
+              "13": "Mỗi lần tăng sinh mệnh tạm thời bằng 15% HP tối đa, có thể cộng dồn và kế thừa sang hiệp sau. [Long tinh hộ thuẫn] tồn tại trong lúc AC+2 chịu bạo kích hoặc chiến đấu kết thúc thì bị giải trừ.",
+              "14": "Mỗi lần tăng sinh mệnh tạm thời bằng 15% HP tối đa, có thể cộng dồn và kế thừa sang hiệp sau. [Long tinh hộ thuẫn] tồn tại trong lúc AC+2 chịu bạo kích hoặc chiến đấu kết thúc thì bị giải trừ.",
+              "15": "Mỗi lần tăng sinh mệnh tạm thời bằng 15% HP tối đa, có thể cộng dồn và kế thừa sang hiệp sau. [Long tinh hộ thuẫn] tồn tại trong lúc AC+2; một lần mất máu không vượt quá 90% giới hạn HP tối đa. [Long tinh hộ thuẫn] kéo dài cả trận chiến."
+            },
+            "阶位": "Cơ bản"
+          },
+          {
+            "名称": "Long Viêm Phụ Ma",
+            "类型": "Chủ động",
+            "描述": "Ma pháp lửa đơn mục tiêu: nắn long viêm trên vũ khí hoặc đầu pháp trượng thành trường đao rồi vung ra. Sau khi sát thương và BUFF của đoạn này kết toán xong, đánh thường chuyển sang [lưỡi lửa] và lập tức phóng một lần đánh thường miễn phí bổ sung. Đánh thường này không tính vào số liên kích, không ngắt liên kích, không chịu giảm trúng đích do liên kích.",
+            "特殊效果": {
+              "1": "Không",
+              "2": "Không",
+              "3": "Không",
+              "4": "Không",
+              "5": "Kỹ năng/đánh thường kế tiếp nhận lợi thế kiểm định trúng đích (đánh thường miễn phí không tiêu hao lần này).",
+              "6": "Kỹ năng/đánh thường kế tiếp nhận lợi thế kiểm định trúng đích (đánh thường miễn phí không tiêu hao lần này).",
+              "7": "Kỹ năng/đánh thường kế tiếp nhận lợi thế kiểm định trúng đích (đánh thường miễn phí không tiêu hao lần này).",
+              "8": "Kỹ năng/đánh thường kế tiếp nhận lợi thế kiểm định trúng đích (đánh thường miễn phí không tiêu hao lần này).",
+              "9": "Kỹ năng/đánh thường kế tiếp nhận lợi thế kiểm định trúng đích và ngưỡng bạo kích -2 (đánh thường miễn phí không tiêu hao lần này).",
+              "10": "Kỹ năng/đánh thường kế tiếp nhận lợi thế kiểm định trúng đích và ngưỡng bạo kích -2 (đánh thường miễn phí không tiêu hao lần này).",
+              "11": "Kỹ năng/đánh thường kế tiếp nhận lợi thế kiểm định trúng đích và ngưỡng bạo kích -2 (đánh thường miễn phí không tiêu hao lần này).",
+              "12": "Kỹ năng/đánh thường kế tiếp nhận lợi thế kiểm định trúng đích và ngưỡng bạo kích -2 (đánh thường miễn phí không tiêu hao lần này).",
+              "13": "Kỹ năng/đánh thường kế tiếp nhận lợi thế kiểm định trúng đích và ngưỡng bạo kích -3 (đánh thường miễn phí không tiêu hao lần này).",
+              "14": "Kỹ năng/đánh thường kế tiếp nhận lợi thế kiểm định trúng đích và ngưỡng bạo kích -3 (đánh thường miễn phí không tiêu hao lần này).",
+              "15": "Kỹ năng/đánh thường kế tiếp nhận lợi thế kiểm định trúng đích và ngưỡng bạo kích -3, sát thương bạo kích +40% (đánh thường miễn phí không tiêu hao lần này)."
+            },
+            "阶位": "Cơ bản"
+          }
+        ],
+        "转职": [
+          {
+            "名称": "Tạo Năng · Kiếm Viêm Ngục",
+            "类型": "Chủ động",
+            "描述": "Ngưng tụ lửa thành một thanh cự kiếm rồi lao tới chém, đánh thường chuyển sang [kiếm lửa].",
+            "特殊效果": {
+              "1": "Nhận BUFF [kiếm viêm ngục], xóa khi chế độ đánh thường chuyển sang [mũi tên lửa]. [Kiếm viêm ngục]: sát thương bạo kích đánh thường +20%.",
+              "2": "Nhận BUFF [kiếm viêm ngục], xóa khi chế độ đánh thường chuyển sang [mũi tên lửa]. [Kiếm viêm ngục]: sát thương bạo kích đánh thường +20%.",
+              "3": "Nhận BUFF [kiếm viêm ngục], xóa khi chế độ đánh thường chuyển sang [mũi tên lửa]. [Kiếm viêm ngục]: sát thương bạo kích đánh thường +20%.",
+              "4": "Nhận BUFF [kiếm viêm ngục], xóa khi chế độ đánh thường chuyển sang [mũi tên lửa]. [Kiếm viêm ngục]: sát thương bạo kích đánh thường +20%.",
+              "5": "Nhận BUFF [kiếm viêm ngục], xóa khi chế độ đánh thường chuyển sang [mũi tên lửa]. [Kiếm viêm ngục]: sát thương bạo kích đánh thường +30%.",
+              "6": "Nhận BUFF [kiếm viêm ngục], xóa khi chế độ đánh thường chuyển sang [mũi tên lửa]. [Kiếm viêm ngục]: sát thương bạo kích đánh thường +30%.",
+              "7": "Nhận BUFF [kiếm viêm ngục], xóa khi chế độ đánh thường chuyển sang [mũi tên lửa]. [Kiếm viêm ngục]: sát thương bạo kích đánh thường +30%.",
+              "8": "Nhận BUFF [kiếm viêm ngục], xóa khi chế độ đánh thường chuyển sang [mũi tên lửa]. [Kiếm viêm ngục]: sát thương bạo kích đánh thường +30%.",
+              "9": "Nhận BUFF [kiếm viêm ngục], xóa khi chế độ đánh thường chuyển sang [mũi tên lửa]. [Kiếm viêm ngục]: sát thương bạo kích đánh thường +30%; nếu đồng thời có [huyết diễm], phớt lờ giảm sát thương.",
+              "10": "Nhận BUFF [kiếm viêm ngục], xóa khi chế độ đánh thường chuyển sang [mũi tên lửa]. [Kiếm viêm ngục]: sát thương bạo kích đánh thường +30%; nếu đồng thời có [huyết diễm], phớt lờ giảm sát thương.",
+              "11": "Nhận BUFF [kiếm viêm ngục], xóa khi chế độ đánh thường chuyển sang [mũi tên lửa]. [Kiếm viêm ngục]: sát thương bạo kích đánh thường +30%; nếu đồng thời có [huyết diễm], phớt lờ giảm sát thương.",
+              "12": "Nhận BUFF [kiếm viêm ngục], xóa khi chế độ đánh thường chuyển sang [mũi tên lửa]. [Kiếm viêm ngục]: sát thương bạo kích đánh thường +30%; nếu đồng thời có [huyết diễm], phớt lờ giảm sát thương.",
+              "13": "Nhận BUFF [kiếm viêm ngục], xóa khi chế độ đánh thường chuyển sang [mũi tên lửa]. [Kiếm viêm ngục]: sát thương bạo kích đánh thường +30%; nếu đồng thời có [huyết diễm], phớt lờ giảm sát thương, khi trúng gây thêm sát thương chuẩn bằng 1% HP tối đa của mục tiêu.",
+              "14": "Nhận BUFF [kiếm viêm ngục], xóa khi chế độ đánh thường chuyển sang [mũi tên lửa]. [Kiếm viêm ngục]: sát thương bạo kích đánh thường +30%; nếu đồng thời có [huyết diễm], phớt lờ giảm sát thương, khi trúng gây thêm sát thương chuẩn bằng 1% HP tối đa của mục tiêu.",
+              "15": "Nhận BUFF [kiếm viêm ngục], xóa khi chế độ đánh thường chuyển sang [mũi tên lửa]. [Kiếm viêm ngục]: sát thương bạo kích đánh thường +30%; nếu đồng thời có [huyết diễm], phớt lờ giảm sát thương, dù có trúng hay không cũng chắc chắn gây sát thương chuẩn bằng 1% HP tối đa của mục tiêu."
+            },
+            "阶位": "Chuyển nghề"
+          },
+          {
+            "名称": "Cộng Hưởng Đốt Máu",
+            "类型": "Đặc biệt",
+            "描述": "Ma pháp lửa, tiêu hao hành động tặng thêm (không tiêu hao hành động chính), dùng sinh mệnh tạm thời làm giá để đổi lấy khả năng sinh tồn lâu dài. Nhận trạng thái [huyết diễm], [huyết diễm] tối đa cộng dồn 5 tầng, kéo dài đến khi chiến đấu kết thúc.",
+            "特殊效果": {
+              "1": "Tiêu hao 10% sinh mệnh hiện tại, tăng 1 tầng BUFF [huyết diễm], đầu trận xem như 0. [Huyết diễm]: n là số tầng [huyết diễm]; bất kỳ đánh thường hoặc kỹ năng nào gây sát thương sẽ hồi n% HP tối đa. Nếu đầy máu, phần vượt mức chuyển thành sinh mệnh tạm thời, có thể cộng dồn và kế thừa sang hiệp sau."
+            },
+            "阶位": "Chuyển nghề"
+          },
+          {
+            "名称": "Long Hồn Ban Thân",
+            "类型": "Chủ động",
+            "职业特殊": true,
+            "描述": "Lập tức gây một lần sát thương. Sau kết toán, chế độ đánh thường chuyển đổi một lần giữa [mũi tên lửa] và [lưỡi lửa], bản thân vĩnh viễn nhận trạng thái [long hồn]. [Long hồn]: không còn tính phạt trúng đích do liên kích, không ngắt liên kích vì kết quả trúng; hệ số kỹ năng nền của mọi đánh thường đổi từ 100% thành hệ số kỹ năng của Long Hồn Ban Thân. Giải thích danh từ: đánh thường miễn phí là đánh thường không chiếm hành động, hành động tặng thêm hoặc số lần liên kích; đánh thường không miễn phí là đánh thường bình thường.",
+            "特殊效果": {
+              "1": "Trong chế độ [lưỡi lửa]: khi phóng thích đánh thường không miễn phí, lập tức phóng một lần đánh thường miễn phí; trong chế độ [mũi tên lửa], mọi tấn công tăng 20% sát thương cuối cùng.",
+              "2": "Trong chế độ [lưỡi lửa]: khi phóng thích đánh thường không miễn phí, lập tức phóng một lần đánh thường miễn phí; trong chế độ [mũi tên lửa], mọi tấn công tăng 20% sát thương cuối cùng.",
+              "3": "Trong chế độ [lưỡi lửa]: khi phóng thích đánh thường không miễn phí, lập tức phóng một lần đánh thường miễn phí; trong chế độ [mũi tên lửa], mọi tấn công tăng 20% sát thương cuối cùng.",
+              "4": "Trong chế độ [lưỡi lửa]: khi phóng thích đánh thường không miễn phí, lập tức phóng một lần đánh thường miễn phí; trong chế độ [mũi tên lửa], mọi tấn công tăng 20% sát thương cuối cùng.",
+              "5": "Mọi kiểm định +1. Trong chế độ [lưỡi lửa]: khi phóng thích đánh thường không miễn phí, lập tức phóng một lần đánh thường miễn phí; trong chế độ [mũi tên lửa], mọi tấn công tăng 20% sát thương cuối cùng.",
+              "6": "Mọi kiểm định +1. Trong chế độ [lưỡi lửa]: khi phóng thích đánh thường không miễn phí, lập tức phóng một lần đánh thường miễn phí; trong chế độ [mũi tên lửa], mọi tấn công tăng 20% sát thương cuối cùng.",
+              "7": "Mọi kiểm định +1. Trong chế độ [lưỡi lửa]: khi phóng thích đánh thường không miễn phí, lập tức phóng một lần đánh thường miễn phí; trong chế độ [mũi tên lửa], mọi tấn công tăng 20% sát thương cuối cùng.",
+              "8": "Mọi kiểm định +1. Trong chế độ [lưỡi lửa]: khi phóng thích đánh thường không miễn phí, lập tức phóng một lần đánh thường miễn phí; trong chế độ [mũi tên lửa], mọi tấn công tăng 20% sát thương cuối cùng.",
+              "9": "Mọi kiểm định +2. Trong chế độ [lưỡi lửa]: khi phóng thích đánh thường không miễn phí, lập tức phóng một lần đánh thường miễn phí; trong chế độ [mũi tên lửa], mọi tấn công tăng 20% sát thương cuối cùng.",
+              "10": "Mọi kiểm định +2. Trong chế độ [lưỡi lửa]: khi phóng thích đánh thường không miễn phí, lập tức phóng một lần đánh thường miễn phí; trong chế độ [mũi tên lửa], mọi tấn công tăng 20% sát thương cuối cùng.",
+              "11": "Mọi kiểm định +2. Trong chế độ [lưỡi lửa]: khi phóng thích đánh thường không miễn phí, lập tức phóng một lần đánh thường miễn phí; trong chế độ [mũi tên lửa], mọi tấn công tăng 20% sát thương cuối cùng.",
+              "12": "Mọi kiểm định +2. Trong chế độ [lưỡi lửa]: khi phóng thích đánh thường không miễn phí, lập tức phóng một lần đánh thường miễn phí; trong chế độ [mũi tên lửa], mọi tấn công tăng 20% sát thương cuối cùng.",
+              "13": "Mọi kiểm định +2. Trong chế độ [lưỡi lửa]: khi phóng thích đánh thường không miễn phí, lập tức phóng một lần đánh thường miễn phí; trong chế độ [mũi tên lửa], mọi tấn công tăng 40% sát thương cuối cùng.",
+              "14": "Mọi kiểm định +2. Trong chế độ [lưỡi lửa]: khi phóng thích đánh thường không miễn phí, lập tức phóng một lần đánh thường miễn phí; trong chế độ [mũi tên lửa], mọi tấn công tăng 40% sát thương cuối cùng.",
+              "15": "Mọi kiểm định +2, kiểm định và xúc xắc sát thương luôn lớn hơn 1. Trong chế độ [lưỡi lửa]: khi phóng thích đánh thường không miễn phí, lập tức phóng một lần đánh thường miễn phí; trong chế độ [mũi tên lửa], mọi tấn công tăng 40% sát thương cuối cùng."
+            },
+            "阶位": "Chuyển nghề"
+          }
+        ],
+        "进阶": [
+          {
+            "名称": "Hỏa Cầu Thuật",
+            "类型": "Chủ động",
+            "描述": "Ma pháp lửa đánh nhóm, phóng quả cầu lửa lớn nện vào kẻ địch; sau kết toán, chế độ đánh thường chuyển sang [mũi tên lửa]. Pháp thuật vĩ đại nhất.",
+            "特殊效果": {
+              "1": "Chắc chắn trúng, không bạo kích.",
+              "2": "Chắc chắn trúng, không bạo kích.",
+              "3": "Chắc chắn trúng, không bạo kích.",
+              "4": "Chắc chắn trúng, thực hiện một lần kiểm định bạo kích với lợi thế kiểm định.",
+              "5": "Chắc chắn trúng, thực hiện một lần kiểm định bạo kích với lợi thế kiểm định.",
+              "6": "Chắc chắn trúng, thực hiện một lần kiểm định bạo kích với lợi thế kiểm định.",
+              "7": "Chắc chắn trúng, thực hiện một lần kiểm định bạo kích với lợi thế kiểm định. Nếu trước khi phóng thích chế độ đánh thường là [mũi tên lửa], sát thương cuối cùng +20%.",
+              "8": "Chắc chắn trúng, thực hiện một lần kiểm định bạo kích với lợi thế kiểm định. Nếu trước khi phóng thích chế độ đánh thường là [mũi tên lửa], sát thương cuối cùng +20%.",
+              "9": "Chắc chắn trúng, thực hiện một lần kiểm định bạo kích với lợi thế kiểm định. Nếu trước khi phóng thích chế độ đánh thường là [mũi tên lửa], sát thương cuối cùng +20%.",
+              "10": "Chắc chắn trúng, thực hiện một lần kiểm định bạo kích với lợi thế kiểm định. Nếu trước khi phóng thích chế độ đánh thường là [mũi tên lửa], sát thương cuối cùng +20%; sau khi bạo kích lập tức phóng 1 lần Hỏa Cầu Thuật miễn phí, tối đa 1 lần."
+            },
+            "阶位": "Nâng cao"
+          },
+          {
+            "名称": "Gia Tốc Thuật",
+            "类型": "Đặc biệt",
+            "描述": "Ma pháp phi lửa, khiến vài hiệp tiếp theo có thể tấn công thêm; hành động tốc độ cao đem lại trúng đích cao và AC cao, nhưng khi kết thúc phải chịu cái giá.",
+            "特殊效果": {
+              "1": "Nhận BUFF [gia tốc] kéo dài 5 hiệp; khi [gia tốc] kết thúc sẽ choáng 1 hiệp. [Gia tốc]: sau khi liên kích kết thúc hoặc bị ngắt, có thể thực hiện thêm một hành động hoàn chỉnh; hành động hoàn chỉnh này không kích hoạt liên kích; AC+2; kiểm định trúng đích +2."
+            },
+            "阶位": "Nâng cao"
+          },
+          {
+            "名称": "Thương Lửa",
+            "类型": "Chủ động",
+            "描述": "Ma pháp lửa đơn mục tiêu, phóng trường thương bắn vào mục tiêu. Nếu bản thân vượt qua kiểm định trúng đích, có thể ghim đối phương tại chỗ. Sau khi sát thương và BUFF kết toán, chế độ đánh thường chuyển sang [mũi tên lửa].",
+            "特殊效果": {
+              "1": "Kỹ năng này kiểm định trúng đích +3. Sau khi trúng, bản thân thực hiện một lần kiểm định Sức mạnh DC15; thành công thì mục tiêu ở hiệp kế tiếp kiểm định trúng đích có bất lợi.",
+              "2": "Kỹ năng này kiểm định trúng đích +3. Sau khi trúng, bản thân thực hiện một lần kiểm định Sức mạnh DC15; thành công thì mục tiêu ở hiệp kế tiếp kiểm định trúng đích có bất lợi.",
+              "3": "Kỹ năng này kiểm định trúng đích +3. Sau khi trúng, bản thân thực hiện một lần kiểm định Sức mạnh DC15; thành công thì mục tiêu ở hiệp kế tiếp kiểm định trúng đích có bất lợi.",
+              "4": "Kỹ năng này kiểm định trúng đích +3, gây sát thương cuối cùng +20%. Sau khi trúng, bản thân thực hiện một lần kiểm định Sức mạnh DC15; thành công thì mục tiêu ở hiệp kế tiếp kiểm định trúng đích có bất lợi.",
+              "5": "Kỹ năng này kiểm định trúng đích +3, gây sát thương cuối cùng +20%. Sau khi trúng, bản thân thực hiện một lần kiểm định Sức mạnh DC15; thành công thì mục tiêu ở hiệp kế tiếp kiểm định trúng đích có bất lợi.",
+              "6": "Kỹ năng này kiểm định trúng đích +3, gây sát thương cuối cùng +20%. Sau khi trúng, bản thân thực hiện một lần kiểm định Sức mạnh DC15; thành công thì mục tiêu ở hiệp kế tiếp kiểm định trúng đích có bất lợi.",
+              "7": "Kỹ năng này kiểm định trúng đích +3, gây sát thương cuối cùng +20%. Sau khi trúng, bản thân thực hiện một lần kiểm định Sức mạnh DC12; thành công thì mục tiêu ở hiệp kế tiếp kiểm định trúng đích có bất lợi.",
+              "8": "Kỹ năng này kiểm định trúng đích +3, gây sát thương cuối cùng +20%. Sau khi trúng, bản thân thực hiện một lần kiểm định Sức mạnh DC12; thành công thì mục tiêu ở hiệp kế tiếp kiểm định trúng đích có bất lợi.",
+              "9": "Kỹ năng này kiểm định trúng đích +3, gây sát thương cuối cùng +20%. Sau khi trúng, bản thân thực hiện một lần kiểm định Sức mạnh DC12; thành công thì mục tiêu ở hiệp kế tiếp kiểm định trúng đích có bất lợi.",
+              "10": "Kỹ năng này kiểm định trúng đích +3, gây sát thương cuối cùng +20%. Sau khi trúng, bản thân thực hiện một lần kiểm định Sức mạnh DC12; thành công thì mục tiêu ở hiệp kế tiếp kiểm định trúng đích có bất lợi, đồng thời hệ số kỹ năng của mục tiêu giảm một nửa."
+            },
+            "阶位": "Nâng cao"
+          }
+        ],
+        "必杀": [
+          {
+            "名称": "Bạo Viêm Toàn Phong Trảm",
+            "类型": "Chủ động",
+            "描述": "Ma pháp lửa đánh nhóm, dẫn ma lực hóa thành lưỡi kiếm lửa khổng lồ xoay tròn cắt chém. Nếu chế độ đánh thường là [kiếm lửa] hoặc đang có [long tinh hộ thuẫn], nhận cộng thêm bổ sung.",
+            "特殊效果": {
+              "1": "Nếu chế độ đánh thường là [kiếm lửa], hệ số kỹ năng *1.5. [Long tinh hộ thuẫn] thêm hiệu quả: khi chịu tấn công, kiểm định trúng đích của đối phương -2.",
+              "2": "Nếu chế độ đánh thường là [kiếm lửa], hệ số kỹ năng *1.5. [Long tinh hộ thuẫn] thêm hiệu quả: khi chịu tấn công, kiểm định trúng đích của đối phương -2.",
+              "3": "Nếu chế độ đánh thường là [kiếm lửa], hệ số kỹ năng *1.5. [Long tinh hộ thuẫn] thêm hiệu quả: khi chịu tấn công, kiểm định trúng đích của đối phương không thể nhận bất kỳ cộng thêm nào.",
+              "4": "Nếu chế độ đánh thường là [kiếm lửa], hệ số kỹ năng *1.5. [Long tinh hộ thuẫn] thêm hiệu quả: khi chịu tấn công, kiểm định trúng đích của đối phương không thể nhận bất kỳ cộng thêm nào.",
+              "5": "Nếu chế độ đánh thường là [kiếm lửa], hệ số kỹ năng *2. [Long tinh hộ thuẫn] thêm hiệu quả: khi chịu tấn công, kiểm định trúng đích của đối phương không thể nhận bất kỳ cộng thêm nào.",
+              "6": "Nếu chế độ đánh thường là [kiếm lửa], hệ số kỹ năng *2. [Long tinh hộ thuẫn] thêm hiệu quả: khi chịu tấn công, kiểm định trúng đích của đối phương không thể nhận bất kỳ cộng thêm nào.",
+              "7": "Nếu chế độ đánh thường là [kiếm lửa], hệ số kỹ năng *2, đồng thời lập tức phóng một lần đánh thường miễn phí. [Long tinh hộ thuẫn] thêm hiệu quả: khi chịu tấn công, kiểm định trúng đích của đối phương không thể nhận bất kỳ cộng thêm nào; nếu kiểm định trúng đích thấp hơn AC thì xem như không trúng."
+            },
+            "阶位": "Tất sát"
+          },
+          {
+            "名称": "Viêm Long Thiên Giáng",
+            "类型": "Chủ động",
+            "描述": "Ma pháp lửa đánh nhóm, triệu hồi một thiên thạch long viêm khổng lồ nện vào khu vực chỉ định, bộc phát AOE mạnh. Nếu chế độ đánh thường là mũi tên lửa thì càng mạnh hơn.",
+            "特殊效果": {
+              "1": "Nếu chế độ đánh thường là [mũi tên lửa]: chắc chắn trúng; hệ số kỹ năng *2.",
+              "2": "Nếu chế độ đánh thường là [mũi tên lửa]: chắc chắn trúng; hệ số kỹ năng *2.",
+              "3": "Nếu chế độ đánh thường là [mũi tên lửa]: chắc chắn trúng; hệ số kỹ năng *2; phớt lờ kháng lửa.",
+              "4": "Nếu chế độ đánh thường là [mũi tên lửa]: chắc chắn trúng; hệ số kỹ năng *2; phớt lờ kháng lửa.",
+              "5": "Nếu chế độ đánh thường là [mũi tên lửa]: chắc chắn trúng; hệ số kỹ năng *3; phớt lờ kháng lửa.",
+              "6": "Nếu chế độ đánh thường là [mũi tên lửa]: chắc chắn trúng; hệ số kỹ năng *3; phớt lờ kháng lửa.",
+              "7": "Nếu chế độ đánh thường là [mũi tên lửa]: chắc chắn trúng; hệ số kỹ năng *3; phớt lờ kháng lửa; xúc xắc tấn công lấy giá trị cao nhất."
+            },
+            "阶位": "Tất sát"
+          }
+        ],
+        "奥义": [
+          {
+            "名称": "Kiếm Xử Hình Ngục Lửa",
+            "类型": "Chủ động",
+            "描述": "Ma pháp lửa, chế độ đánh thường lập tức chuyển sang [lưỡi lửa], nén toàn bộ ma lực tại mũi kiếm rồi đâm xử quyết hủy diệt vào đơn mục tiêu. Kỹ kết thúc bộc phát đơn thể.",
+            "特殊效果": {
+              "1": "Nếu bản thân có [long tinh hộ thuẫn], gây thêm sát thương chuẩn bằng toàn bộ sinh mệnh tạm thời và xóa sinh mệnh tạm thời; nếu bản thân có [long hồn], hệ số kỹ năng *2; nếu bản thân có n tầng [huyết diễm], sát thương cuối cùng +n*20%.",
+              "2": "Nếu bản thân có [long tinh hộ thuẫn], gây thêm sát thương chuẩn bằng toàn bộ sinh mệnh tạm thời và xóa sinh mệnh tạm thời; nếu bản thân có [long hồn], hệ số kỹ năng *3; nếu bản thân có n tầng [huyết diễm], sát thương cuối cùng +n*20%.",
+              "3": "Nếu bản thân có [long tinh hộ thuẫn], gây thêm sát thương chuẩn bằng toàn bộ sinh mệnh tạm thời và xóa sinh mệnh tạm thời; nếu bản thân có [long hồn], hệ số kỹ năng *3; nếu bản thân có n tầng [huyết diễm], sát thương cuối cùng +n*40%.",
+              "4": "Nếu bản thân có [long tinh hộ thuẫn], gây thêm sát thương chuẩn bằng toàn bộ sinh mệnh tạm thời; nếu bản thân có [long hồn], hệ số kỹ năng *3; nếu bản thân có n tầng [huyết diễm], sát thương cuối cùng +n*40%.",
+              "5": "Nếu bản thân có [long tinh hộ thuẫn], gây thêm sát thương chuẩn bằng toàn bộ sinh mệnh tạm thời; nếu bản thân có [long hồn], hệ số kỹ năng *3; nếu bản thân có n tầng [huyết diễm], sát thương cuối cùng +n*40%; nếu có đủ toàn bộ thì xúc xắc sát thương lấy tối đa."
+            },
+            "阶位": "Áo nghĩa"
+          },
+          {
+            "名称": "Truyền Lại Ngọn Lửa",
+            "类型": "Đặc biệt",
+            "描述": "Ma pháp phi lửa, kỹ năng sinh tồn cực đoan và phản kích trong tuyệt cảnh. Bạn vĩnh viễn không thể dễ dàng giết chết một long duệ.",
+            "特殊效果": {
+              "1": "Mỗi trận một lần, khi HP giảm xuống dưới 1 sẽ lập tức kích hoạt. Nhận 3 hiệp không chết; trong thời gian này, xúc xắc sát thương lấy giá trị tối đa, sát thương bạo kích +200%, khi chế độ đánh thường là [mũi tên lửa] thì chắc chắn bạo kích. Khi không chết kết thúc, máu giảm còn 1."
+            },
+            "阶位": "Áo nghĩa"
+          }
+        ],
+        "觉醒一": [
+          {
+            "名称": "Pháp Vực Long Viêm · Nóng Chảy",
+            "类型": "Chủ động",
+            "阶位": "Thức tỉnh một",
+            "描述": "Ma pháp lửa, sau lưng hiện hư ảnh cự long, gây sát thương phạm vi lớn và triển khai lĩnh vực của hỏa long, triệt để thay đổi pháp tắc chiến trường xung quanh, kéo dài đến khi chiến đấu kết thúc.",
+            "特殊效果": {
+              "1": "Sau khi thức tỉnh, trong trận chiến này: toàn bộ đánh thường [mũi tên lửa] đều tính sát thương và hiệu quả như phóng Thương Lửa, nhưng vẫn xem là đánh thường.",
+              "2": "Sau khi thức tỉnh, trong trận chiến này: toàn bộ đánh thường [mũi tên lửa] đều tính sát thương và hiệu quả như phóng Thương Lửa, nhưng vẫn xem là đánh thường; nếu phóng lại kỹ năng này, sát thương tăng gấp đôi và có thể cộng dồn.",
+              "3": "Sau khi thức tỉnh, trong trận chiến này: toàn bộ đánh thường [mũi tên lửa] đều tính sát thương và hiệu quả như phóng Thương Lửa, nhưng vẫn xem là đánh thường; nếu phóng lại kỹ năng này, sát thương tăng gấp đôi và có thể cộng dồn; cuối mỗi hiệp, toàn bộ địch thực hiện miễn trừ Thể chất DC10, thất bại thì chết ngay."
+            }
+          }
+        ],
+        "觉醒二": [
+          {
+            "名称": "Vũ Trang Anh Hồn Cổ Long",
+            "类型": "Chủ động",
+            "阶位": "Thức tỉnh hai",
+            "描述": "Triệu hồi hư ảnh cổ long bám lên thân, pháp trượng hóa thành cự kiếm đồ long. Bước vào hình thái tối thượng của ma kiếm sĩ.",
+            "特殊效果": {
+              "1": "Sau khi thức tỉnh, trong trận chiến này: toàn bộ đánh thường [lưỡi lửa] đều đánh nhóm, hệ số nền sửa thành 2000%, và khi trúng địch nhận thêm 1000 sinh mệnh tạm thời, có thể cộng dồn và kế thừa.",
+              "2": "Sau khi thức tỉnh, trong trận chiến này: toàn bộ đánh thường [lưỡi lửa] đều đánh nhóm, hệ số nền sửa thành 2000%, và khi trúng địch nhận thêm 1000 sinh mệnh tạm thời, có thể cộng dồn và kế thừa. Khi chịu sát thương chí tử, giải trừ vũ trang, máu hồi đầy; trận này không thể phát động kỹ năng này lần nữa."
+            }
+          }
+        ],
+        "觉醒三": [
+          {
+            "名称": "Sáng Thế · Tinh Hạch Bạo Viêm",
+            "类型": "Chủ động",
+            "阶位": "Thức tỉnh ba",
+            "描述": "Dẫn dòng lửa Terra từ lõi hành tinh, thi triển đòn tối hậu đủ để tái định hình địa mạo. Sự hủy diệt cực hạn xóa bỏ mọi tồn tại.",
+            "特殊效果": {
+              "1": "Sau khi thức tỉnh, lập tức lơ lửng và không thể bị chọn làm mục tiêu trong 1 hiệp. Hiệp kế tiếp nện Tinh Hạch Bạo Viêm xuống, gây đả kích hủy diệt lên toàn bộ kẻ địch trong sân. Đồng thời kết toán một lần sát thương chuẩn bằng 50% HP tối đa, và mọi kẻ địch phải vượt qua miễn trừ Thể chất DC20 trong trạng thái bất lợi, nếu không chết ngay."
+            }
+          }
+        ]
+      },
+      "skillTreeForClass": "Hỏa Long Chiến Pháp",
+      "lockedSkillMap": {
+        "Hỏa Long Chiến Pháp": {
+          "基础": {
+            "Hơi Thở Long Viêm": {
+              "名称": "Hơi Thở Long Viêm",
+              "类型": "Chủ động",
+              "描述": "Ma pháp lửa, phóng long viêm vào vùng hình quạt phía trước, gây sát thương phạm vi lên nhóm địch. Không ngắt liên kích: vẫn kiểm định trúng đích bình thường, dù kết quả ra sao liên kích cũng không bị ngắt.",
+              "特殊效果": {
+                "1": "Không ngắt liên kích, nhưng không thể bạo kích.",
+                "2": "Không ngắt liên kích, nhưng không thể bạo kích.",
+                "3": "Không ngắt liên kích, nhưng không thể bạo kích.",
+                "4": "Không ngắt liên kích, nhưng không thể bạo kích.",
+                "5": "Không ngắt liên kích, nhưng không thể bạo kích. Long viêm đồng thời chọn toàn bộ kẻ địch làm mục tiêu.",
+                "6": "Không ngắt liên kích, nhưng không thể bạo kích. Long viêm đồng thời chọn toàn bộ kẻ địch làm mục tiêu.",
+                "7": "Không ngắt liên kích, nhưng không thể bạo kích. Long viêm đồng thời chọn toàn bộ kẻ địch làm mục tiêu.",
+                "8": "Không ngắt liên kích, nhưng không thể bạo kích. Long viêm đồng thời chọn toàn bộ kẻ địch làm mục tiêu.",
+                "9": "Long viêm tự mang truy tung, chắc chắn trúng toàn bộ kẻ địch, nhưng không thể bạo kích.",
+                "10": "Long viêm tự mang truy tung, chắc chắn trúng toàn bộ kẻ địch, nhưng không thể bạo kích.",
+                "11": "Long viêm tự mang truy tung, chắc chắn trúng toàn bộ kẻ địch, nhưng không thể bạo kích.",
+                "12": "Long viêm tự mang truy tung, chắc chắn trúng toàn bộ kẻ địch, nhưng không thể bạo kích.",
+                "13": "Long viêm tự mang truy tung, chắc chắn trúng toàn bộ kẻ địch, có thể kiểm định bạo kích bình thường.",
+                "14": "Long viêm tự mang truy tung, chắc chắn trúng toàn bộ kẻ địch, có thể kiểm định bạo kích bình thường.",
+                "15": "Long viêm tự mang truy tung, chắc chắn trúng toàn bộ kẻ địch, có thể kiểm định bạo kích bình thường, sát thương bạo kích tăng thêm +20%."
+              },
+              "阶位": "Cơ bản"
+            },
+            "Long Tinh Hộ Thuẫn": {
+              "名称": "Long Tinh Hộ Thuẫn",
+              "类型": "Đặc biệt",
+              "描述": "Dùng ma lực lửa ngưng tụ giáp tinh thể đỏ trên bề mặt cơ thể, lập tức nhận trạng thái [long tinh hộ thuẫn] và một lượng sinh mệnh tạm thời; các đòn đánh thường hoặc kỹ năng sau đó đều tiếp tục nhận sinh mệnh tạm thời.",
+              "特殊效果": {
+                "1": "Mỗi lần tăng sinh mệnh tạm thời bằng 10% HP tối đa, có thể cộng dồn và kế thừa sang hiệp sau. [Long tinh hộ thuẫn] chịu bạo kích hoặc chiến đấu kết thúc thì bị giải trừ.",
+                "2": "Mỗi lần tăng sinh mệnh tạm thời bằng 10% HP tối đa, có thể cộng dồn và kế thừa sang hiệp sau. [Long tinh hộ thuẫn] chịu bạo kích hoặc chiến đấu kết thúc thì bị giải trừ.",
+                "3": "Mỗi lần tăng sinh mệnh tạm thời bằng 10% HP tối đa, có thể cộng dồn và kế thừa sang hiệp sau. [Long tinh hộ thuẫn] chịu bạo kích hoặc chiến đấu kết thúc thì bị giải trừ.",
+                "4": "Mỗi lần tăng sinh mệnh tạm thời bằng 10% HP tối đa, có thể cộng dồn và kế thừa sang hiệp sau. [Long tinh hộ thuẫn] chịu bạo kích hoặc chiến đấu kết thúc thì bị giải trừ.",
+                "5": "Mỗi lần tăng sinh mệnh tạm thời bằng 10% HP tối đa, có thể cộng dồn và kế thừa sang hiệp sau. [Long tinh hộ thuẫn] tồn tại trong lúc AC+1 chịu bạo kích hoặc chiến đấu kết thúc thì bị giải trừ.",
+                "6": "Mỗi lần tăng sinh mệnh tạm thời bằng 10% HP tối đa, có thể cộng dồn và kế thừa sang hiệp sau. [Long tinh hộ thuẫn] tồn tại trong lúc AC+1 chịu bạo kích hoặc chiến đấu kết thúc thì bị giải trừ.",
+                "7": "Mỗi lần tăng sinh mệnh tạm thời bằng 10% HP tối đa, có thể cộng dồn và kế thừa sang hiệp sau. [Long tinh hộ thuẫn] tồn tại trong lúc AC+1 chịu bạo kích hoặc chiến đấu kết thúc thì bị giải trừ.",
+                "8": "Mỗi lần tăng sinh mệnh tạm thời bằng 10% HP tối đa, có thể cộng dồn và kế thừa sang hiệp sau. [Long tinh hộ thuẫn] tồn tại trong lúc AC+1 chịu bạo kích hoặc chiến đấu kết thúc thì bị giải trừ.",
+                "9": "Mỗi lần tăng sinh mệnh tạm thời bằng 10% HP tối đa, có thể cộng dồn và kế thừa sang hiệp sau. [Long tinh hộ thuẫn] tồn tại trong lúc AC+2 chịu bạo kích hoặc chiến đấu kết thúc thì bị giải trừ.",
+                "10": "Mỗi lần tăng sinh mệnh tạm thời bằng 10% HP tối đa, có thể cộng dồn và kế thừa sang hiệp sau. [Long tinh hộ thuẫn] tồn tại trong lúc AC+2 chịu bạo kích hoặc chiến đấu kết thúc thì bị giải trừ.",
+                "11": "Mỗi lần tăng sinh mệnh tạm thời bằng 10% HP tối đa, có thể cộng dồn và kế thừa sang hiệp sau. [Long tinh hộ thuẫn] tồn tại trong lúc AC+2 chịu bạo kích hoặc chiến đấu kết thúc thì bị giải trừ.",
+                "12": "Mỗi lần tăng sinh mệnh tạm thời bằng 10% HP tối đa, có thể cộng dồn và kế thừa sang hiệp sau. [Long tinh hộ thuẫn] tồn tại trong lúc AC+2 chịu bạo kích hoặc chiến đấu kết thúc thì bị giải trừ.",
+                "13": "Mỗi lần tăng sinh mệnh tạm thời bằng 15% HP tối đa, có thể cộng dồn và kế thừa sang hiệp sau. [Long tinh hộ thuẫn] tồn tại trong lúc AC+2 chịu bạo kích hoặc chiến đấu kết thúc thì bị giải trừ.",
+                "14": "Mỗi lần tăng sinh mệnh tạm thời bằng 15% HP tối đa, có thể cộng dồn và kế thừa sang hiệp sau. [Long tinh hộ thuẫn] tồn tại trong lúc AC+2 chịu bạo kích hoặc chiến đấu kết thúc thì bị giải trừ.",
+                "15": "Mỗi lần tăng sinh mệnh tạm thời bằng 15% HP tối đa, có thể cộng dồn và kế thừa sang hiệp sau. [Long tinh hộ thuẫn] tồn tại trong lúc AC+2; một lần mất máu không vượt quá 90% giới hạn HP tối đa. [Long tinh hộ thuẫn] kéo dài cả trận chiến."
+              },
+              "阶位": "Cơ bản"
+            },
+            "Long Viêm Phụ Ma": {
+              "名称": "Long Viêm Phụ Ma",
+              "类型": "Chủ động",
+              "描述": "Ma pháp lửa đơn mục tiêu: nắn long viêm trên vũ khí hoặc đầu pháp trượng thành trường đao rồi vung ra. Sau khi sát thương và BUFF của đoạn này kết toán xong, đánh thường chuyển sang [lưỡi lửa] và lập tức phóng một lần đánh thường miễn phí bổ sung. Đánh thường này không tính vào số liên kích, không ngắt liên kích, không chịu giảm trúng đích do liên kích.",
+              "特殊效果": {
+                "1": "Không",
+                "2": "Không",
+                "3": "Không",
+                "4": "Không",
+                "5": "Kỹ năng/đánh thường kế tiếp nhận lợi thế kiểm định trúng đích (đánh thường miễn phí không tiêu hao lần này).",
+                "6": "Kỹ năng/đánh thường kế tiếp nhận lợi thế kiểm định trúng đích (đánh thường miễn phí không tiêu hao lần này).",
+                "7": "Kỹ năng/đánh thường kế tiếp nhận lợi thế kiểm định trúng đích (đánh thường miễn phí không tiêu hao lần này).",
+                "8": "Kỹ năng/đánh thường kế tiếp nhận lợi thế kiểm định trúng đích (đánh thường miễn phí không tiêu hao lần này).",
+                "9": "Kỹ năng/đánh thường kế tiếp nhận lợi thế kiểm định trúng đích và ngưỡng bạo kích -2 (đánh thường miễn phí không tiêu hao lần này).",
+                "10": "Kỹ năng/đánh thường kế tiếp nhận lợi thế kiểm định trúng đích và ngưỡng bạo kích -2 (đánh thường miễn phí không tiêu hao lần này).",
+                "11": "Kỹ năng/đánh thường kế tiếp nhận lợi thế kiểm định trúng đích và ngưỡng bạo kích -2 (đánh thường miễn phí không tiêu hao lần này).",
+                "12": "Kỹ năng/đánh thường kế tiếp nhận lợi thế kiểm định trúng đích và ngưỡng bạo kích -2 (đánh thường miễn phí không tiêu hao lần này).",
+                "13": "Kỹ năng/đánh thường kế tiếp nhận lợi thế kiểm định trúng đích và ngưỡng bạo kích -3 (đánh thường miễn phí không tiêu hao lần này).",
+                "14": "Kỹ năng/đánh thường kế tiếp nhận lợi thế kiểm định trúng đích và ngưỡng bạo kích -3 (đánh thường miễn phí không tiêu hao lần này).",
+                "15": "Kỹ năng/đánh thường kế tiếp nhận lợi thế kiểm định trúng đích và ngưỡng bạo kích -3, sát thương bạo kích +40% (đánh thường miễn phí không tiêu hao lần này)."
+              },
+              "阶位": "Cơ bản"
+            }
+          },
+          "转职": {
+            "Tạo Năng · Kiếm Viêm Ngục": {
+              "名称": "Tạo Năng · Kiếm Viêm Ngục",
+              "类型": "Chủ động",
+              "描述": "Ngưng tụ lửa thành một thanh cự kiếm rồi lao tới chém, đánh thường chuyển sang [kiếm lửa].",
+              "特殊效果": {
+                "1": "Nhận BUFF [kiếm viêm ngục], xóa khi chế độ đánh thường chuyển sang [mũi tên lửa]. [Kiếm viêm ngục]: sát thương bạo kích đánh thường +20%.",
+                "2": "Nhận BUFF [kiếm viêm ngục], xóa khi chế độ đánh thường chuyển sang [mũi tên lửa]. [Kiếm viêm ngục]: sát thương bạo kích đánh thường +20%.",
+                "3": "Nhận BUFF [kiếm viêm ngục], xóa khi chế độ đánh thường chuyển sang [mũi tên lửa]. [Kiếm viêm ngục]: sát thương bạo kích đánh thường +20%.",
+                "4": "Nhận BUFF [kiếm viêm ngục], xóa khi chế độ đánh thường chuyển sang [mũi tên lửa]. [Kiếm viêm ngục]: sát thương bạo kích đánh thường +20%.",
+                "5": "Nhận BUFF [kiếm viêm ngục], xóa khi chế độ đánh thường chuyển sang [mũi tên lửa]. [Kiếm viêm ngục]: sát thương bạo kích đánh thường +30%.",
+                "6": "Nhận BUFF [kiếm viêm ngục], xóa khi chế độ đánh thường chuyển sang [mũi tên lửa]. [Kiếm viêm ngục]: sát thương bạo kích đánh thường +30%.",
+                "7": "Nhận BUFF [kiếm viêm ngục], xóa khi chế độ đánh thường chuyển sang [mũi tên lửa]. [Kiếm viêm ngục]: sát thương bạo kích đánh thường +30%.",
+                "8": "Nhận BUFF [kiếm viêm ngục], xóa khi chế độ đánh thường chuyển sang [mũi tên lửa]. [Kiếm viêm ngục]: sát thương bạo kích đánh thường +30%.",
+                "9": "Nhận BUFF [kiếm viêm ngục], xóa khi chế độ đánh thường chuyển sang [mũi tên lửa]. [Kiếm viêm ngục]: sát thương bạo kích đánh thường +30%; nếu đồng thời có [huyết diễm], phớt lờ giảm sát thương.",
+                "10": "Nhận BUFF [kiếm viêm ngục], xóa khi chế độ đánh thường chuyển sang [mũi tên lửa]. [Kiếm viêm ngục]: sát thương bạo kích đánh thường +30%; nếu đồng thời có [huyết diễm], phớt lờ giảm sát thương.",
+                "11": "Nhận BUFF [kiếm viêm ngục], xóa khi chế độ đánh thường chuyển sang [mũi tên lửa]. [Kiếm viêm ngục]: sát thương bạo kích đánh thường +30%; nếu đồng thời có [huyết diễm], phớt lờ giảm sát thương.",
+                "12": "Nhận BUFF [kiếm viêm ngục], xóa khi chế độ đánh thường chuyển sang [mũi tên lửa]. [Kiếm viêm ngục]: sát thương bạo kích đánh thường +30%; nếu đồng thời có [huyết diễm], phớt lờ giảm sát thương.",
+                "13": "Nhận BUFF [kiếm viêm ngục], xóa khi chế độ đánh thường chuyển sang [mũi tên lửa]. [Kiếm viêm ngục]: sát thương bạo kích đánh thường +30%; nếu đồng thời có [huyết diễm], phớt lờ giảm sát thương, khi trúng gây thêm sát thương chuẩn bằng 1% HP tối đa của mục tiêu.",
+                "14": "Nhận BUFF [kiếm viêm ngục], xóa khi chế độ đánh thường chuyển sang [mũi tên lửa]. [Kiếm viêm ngục]: sát thương bạo kích đánh thường +30%; nếu đồng thời có [huyết diễm], phớt lờ giảm sát thương, khi trúng gây thêm sát thương chuẩn bằng 1% HP tối đa của mục tiêu.",
+                "15": "Nhận BUFF [kiếm viêm ngục], xóa khi chế độ đánh thường chuyển sang [mũi tên lửa]. [Kiếm viêm ngục]: sát thương bạo kích đánh thường +30%; nếu đồng thời có [huyết diễm], phớt lờ giảm sát thương, dù có trúng hay không cũng chắc chắn gây sát thương chuẩn bằng 1% HP tối đa của mục tiêu."
+              },
+              "阶位": "Chuyển nghề"
+            },
+            "Cộng Hưởng Đốt Máu": {
+              "名称": "Cộng Hưởng Đốt Máu",
+              "类型": "Đặc biệt",
+              "描述": "Ma pháp lửa, tiêu hao hành động tặng thêm (không tiêu hao hành động chính), dùng sinh mệnh tạm thời làm giá để đổi lấy khả năng sinh tồn lâu dài. Nhận trạng thái [huyết diễm], [huyết diễm] tối đa cộng dồn 5 tầng, kéo dài đến khi chiến đấu kết thúc.",
+              "特殊效果": {
+                "1": "Tiêu hao 10% sinh mệnh hiện tại, tăng 1 tầng BUFF [huyết diễm], đầu trận xem như 0. [Huyết diễm]: n là số tầng [huyết diễm]; bất kỳ đánh thường hoặc kỹ năng nào gây sát thương sẽ hồi n% HP tối đa. Nếu đầy máu, phần vượt mức chuyển thành sinh mệnh tạm thời, có thể cộng dồn và kế thừa sang hiệp sau."
+              },
+              "阶位": "Chuyển nghề"
+            },
+            "Long Hồn Ban Thân": {
+              "名称": "Long Hồn Ban Thân",
+              "类型": "Chủ động",
+              "职业特殊": true,
+              "描述": "Lập tức gây một lần sát thương. Sau kết toán, chế độ đánh thường chuyển đổi một lần giữa [mũi tên lửa] và [lưỡi lửa], bản thân vĩnh viễn nhận trạng thái [long hồn]. [Long hồn]: không còn tính phạt trúng đích do liên kích, không ngắt liên kích vì kết quả trúng; hệ số kỹ năng nền của mọi đánh thường đổi từ 100% thành hệ số kỹ năng của Long Hồn Ban Thân. Giải thích danh từ: đánh thường miễn phí là đánh thường không chiếm hành động, hành động tặng thêm hoặc số lần liên kích; đánh thường không miễn phí là đánh thường bình thường.",
+              "特殊效果": {
+                "1": "Trong chế độ [lưỡi lửa]: khi phóng thích đánh thường không miễn phí, lập tức phóng một lần đánh thường miễn phí; trong chế độ [mũi tên lửa], mọi tấn công tăng 20% sát thương cuối cùng.",
+                "2": "Trong chế độ [lưỡi lửa]: khi phóng thích đánh thường không miễn phí, lập tức phóng một lần đánh thường miễn phí; trong chế độ [mũi tên lửa], mọi tấn công tăng 20% sát thương cuối cùng.",
+                "3": "Trong chế độ [lưỡi lửa]: khi phóng thích đánh thường không miễn phí, lập tức phóng một lần đánh thường miễn phí; trong chế độ [mũi tên lửa], mọi tấn công tăng 20% sát thương cuối cùng.",
+                "4": "Trong chế độ [lưỡi lửa]: khi phóng thích đánh thường không miễn phí, lập tức phóng một lần đánh thường miễn phí; trong chế độ [mũi tên lửa], mọi tấn công tăng 20% sát thương cuối cùng.",
+                "5": "Mọi kiểm định +1. Trong chế độ [lưỡi lửa]: khi phóng thích đánh thường không miễn phí, lập tức phóng một lần đánh thường miễn phí; trong chế độ [mũi tên lửa], mọi tấn công tăng 20% sát thương cuối cùng.",
+                "6": "Mọi kiểm định +1. Trong chế độ [lưỡi lửa]: khi phóng thích đánh thường không miễn phí, lập tức phóng một lần đánh thường miễn phí; trong chế độ [mũi tên lửa], mọi tấn công tăng 20% sát thương cuối cùng.",
+                "7": "Mọi kiểm định +1. Trong chế độ [lưỡi lửa]: khi phóng thích đánh thường không miễn phí, lập tức phóng một lần đánh thường miễn phí; trong chế độ [mũi tên lửa], mọi tấn công tăng 20% sát thương cuối cùng.",
+                "8": "Mọi kiểm định +1. Trong chế độ [lưỡi lửa]: khi phóng thích đánh thường không miễn phí, lập tức phóng một lần đánh thường miễn phí; trong chế độ [mũi tên lửa], mọi tấn công tăng 20% sát thương cuối cùng.",
+                "9": "Mọi kiểm định +2. Trong chế độ [lưỡi lửa]: khi phóng thích đánh thường không miễn phí, lập tức phóng một lần đánh thường miễn phí; trong chế độ [mũi tên lửa], mọi tấn công tăng 20% sát thương cuối cùng.",
+                "10": "Mọi kiểm định +2. Trong chế độ [lưỡi lửa]: khi phóng thích đánh thường không miễn phí, lập tức phóng một lần đánh thường miễn phí; trong chế độ [mũi tên lửa], mọi tấn công tăng 20% sát thương cuối cùng.",
+                "11": "Mọi kiểm định +2. Trong chế độ [lưỡi lửa]: khi phóng thích đánh thường không miễn phí, lập tức phóng một lần đánh thường miễn phí; trong chế độ [mũi tên lửa], mọi tấn công tăng 20% sát thương cuối cùng.",
+                "12": "Mọi kiểm định +2. Trong chế độ [lưỡi lửa]: khi phóng thích đánh thường không miễn phí, lập tức phóng một lần đánh thường miễn phí; trong chế độ [mũi tên lửa], mọi tấn công tăng 20% sát thương cuối cùng.",
+                "13": "Mọi kiểm định +2. Trong chế độ [lưỡi lửa]: khi phóng thích đánh thường không miễn phí, lập tức phóng một lần đánh thường miễn phí; trong chế độ [mũi tên lửa], mọi tấn công tăng 40% sát thương cuối cùng.",
+                "14": "Mọi kiểm định +2. Trong chế độ [lưỡi lửa]: khi phóng thích đánh thường không miễn phí, lập tức phóng một lần đánh thường miễn phí; trong chế độ [mũi tên lửa], mọi tấn công tăng 40% sát thương cuối cùng.",
+                "15": "Mọi kiểm định +2, kiểm định và xúc xắc sát thương luôn lớn hơn 1. Trong chế độ [lưỡi lửa]: khi phóng thích đánh thường không miễn phí, lập tức phóng một lần đánh thường miễn phí; trong chế độ [mũi tên lửa], mọi tấn công tăng 40% sát thương cuối cùng."
+              },
+              "阶位": "Chuyển nghề"
+            }
+          },
+          "进阶": {
+            "Hỏa Cầu Thuật": {
+              "名称": "Hỏa Cầu Thuật",
+              "类型": "Chủ động",
+              "描述": "Ma pháp lửa đánh nhóm, phóng quả cầu lửa lớn nện vào kẻ địch; sau kết toán, chế độ đánh thường chuyển sang [mũi tên lửa]. Pháp thuật vĩ đại nhất.",
+              "特殊效果": {
+                "1": "Chắc chắn trúng, không bạo kích.",
+                "2": "Chắc chắn trúng, không bạo kích.",
+                "3": "Chắc chắn trúng, không bạo kích.",
+                "4": "Chắc chắn trúng, thực hiện một lần kiểm định bạo kích với lợi thế kiểm định.",
+                "5": "Chắc chắn trúng, thực hiện một lần kiểm định bạo kích với lợi thế kiểm định.",
+                "6": "Chắc chắn trúng, thực hiện một lần kiểm định bạo kích với lợi thế kiểm định.",
+                "7": "Chắc chắn trúng, thực hiện một lần kiểm định bạo kích với lợi thế kiểm định. Nếu trước khi phóng thích chế độ đánh thường là [mũi tên lửa], sát thương cuối cùng +20%.",
+                "8": "Chắc chắn trúng, thực hiện một lần kiểm định bạo kích với lợi thế kiểm định. Nếu trước khi phóng thích chế độ đánh thường là [mũi tên lửa], sát thương cuối cùng +20%.",
+                "9": "Chắc chắn trúng, thực hiện một lần kiểm định bạo kích với lợi thế kiểm định. Nếu trước khi phóng thích chế độ đánh thường là [mũi tên lửa], sát thương cuối cùng +20%.",
+                "10": "Chắc chắn trúng, thực hiện một lần kiểm định bạo kích với lợi thế kiểm định. Nếu trước khi phóng thích chế độ đánh thường là [mũi tên lửa], sát thương cuối cùng +20%; sau khi bạo kích lập tức phóng 1 lần Hỏa Cầu Thuật miễn phí, tối đa 1 lần."
+              },
+              "阶位": "Nâng cao"
+            },
+            "Gia Tốc Thuật": {
+              "名称": "Gia Tốc Thuật",
+              "类型": "Đặc biệt",
+              "描述": "Ma pháp phi lửa, khiến vài hiệp tiếp theo có thể tấn công thêm; hành động tốc độ cao đem lại trúng đích cao và AC cao, nhưng khi kết thúc phải chịu cái giá.",
+              "特殊效果": {
+                "1": "Nhận BUFF [gia tốc] kéo dài 5 hiệp; khi [gia tốc] kết thúc sẽ choáng 1 hiệp. [Gia tốc]: sau khi liên kích kết thúc hoặc bị ngắt, có thể thực hiện thêm một hành động hoàn chỉnh; hành động hoàn chỉnh này không kích hoạt liên kích; AC+2; kiểm định trúng đích +2."
+              },
+              "阶位": "Nâng cao"
+            },
+            "Thương Lửa": {
+              "名称": "Thương Lửa",
+              "类型": "Chủ động",
+              "描述": "Ma pháp lửa đơn mục tiêu, phóng trường thương bắn vào mục tiêu. Nếu bản thân vượt qua kiểm định trúng đích, có thể ghim đối phương tại chỗ. Sau khi sát thương và BUFF kết toán, chế độ đánh thường chuyển sang [mũi tên lửa].",
+              "特殊效果": {
+                "1": "Kỹ năng này kiểm định trúng đích +3. Sau khi trúng, bản thân thực hiện một lần kiểm định Sức mạnh DC15; thành công thì mục tiêu ở hiệp kế tiếp kiểm định trúng đích có bất lợi.",
+                "2": "Kỹ năng này kiểm định trúng đích +3. Sau khi trúng, bản thân thực hiện một lần kiểm định Sức mạnh DC15; thành công thì mục tiêu ở hiệp kế tiếp kiểm định trúng đích có bất lợi.",
+                "3": "Kỹ năng này kiểm định trúng đích +3. Sau khi trúng, bản thân thực hiện một lần kiểm định Sức mạnh DC15; thành công thì mục tiêu ở hiệp kế tiếp kiểm định trúng đích có bất lợi.",
+                "4": "Kỹ năng này kiểm định trúng đích +3, gây sát thương cuối cùng +20%. Sau khi trúng, bản thân thực hiện một lần kiểm định Sức mạnh DC15; thành công thì mục tiêu ở hiệp kế tiếp kiểm định trúng đích có bất lợi.",
+                "5": "Kỹ năng này kiểm định trúng đích +3, gây sát thương cuối cùng +20%. Sau khi trúng, bản thân thực hiện một lần kiểm định Sức mạnh DC15; thành công thì mục tiêu ở hiệp kế tiếp kiểm định trúng đích có bất lợi.",
+                "6": "Kỹ năng này kiểm định trúng đích +3, gây sát thương cuối cùng +20%. Sau khi trúng, bản thân thực hiện một lần kiểm định Sức mạnh DC15; thành công thì mục tiêu ở hiệp kế tiếp kiểm định trúng đích có bất lợi.",
+                "7": "Kỹ năng này kiểm định trúng đích +3, gây sát thương cuối cùng +20%. Sau khi trúng, bản thân thực hiện một lần kiểm định Sức mạnh DC12; thành công thì mục tiêu ở hiệp kế tiếp kiểm định trúng đích có bất lợi.",
+                "8": "Kỹ năng này kiểm định trúng đích +3, gây sát thương cuối cùng +20%. Sau khi trúng, bản thân thực hiện một lần kiểm định Sức mạnh DC12; thành công thì mục tiêu ở hiệp kế tiếp kiểm định trúng đích có bất lợi.",
+                "9": "Kỹ năng này kiểm định trúng đích +3, gây sát thương cuối cùng +20%. Sau khi trúng, bản thân thực hiện một lần kiểm định Sức mạnh DC12; thành công thì mục tiêu ở hiệp kế tiếp kiểm định trúng đích có bất lợi.",
+                "10": "Kỹ năng này kiểm định trúng đích +3, gây sát thương cuối cùng +20%. Sau khi trúng, bản thân thực hiện một lần kiểm định Sức mạnh DC12; thành công thì mục tiêu ở hiệp kế tiếp kiểm định trúng đích có bất lợi, đồng thời hệ số kỹ năng của mục tiêu giảm một nửa."
+              },
+              "阶位": "Nâng cao"
+            }
+          },
+          "必杀": {
+            "Bạo Viêm Toàn Phong Trảm": {
+              "名称": "Bạo Viêm Toàn Phong Trảm",
+              "类型": "Chủ động",
+              "描述": "Ma pháp lửa đánh nhóm, dẫn ma lực hóa thành lưỡi kiếm lửa khổng lồ xoay tròn cắt chém. Nếu chế độ đánh thường là [kiếm lửa] hoặc đang có [long tinh hộ thuẫn], nhận cộng thêm bổ sung.",
+              "特殊效果": {
+                "1": "Nếu chế độ đánh thường là [kiếm lửa], hệ số kỹ năng *1.5. [Long tinh hộ thuẫn] thêm hiệu quả: khi chịu tấn công, kiểm định trúng đích của đối phương -2.",
+                "2": "Nếu chế độ đánh thường là [kiếm lửa], hệ số kỹ năng *1.5. [Long tinh hộ thuẫn] thêm hiệu quả: khi chịu tấn công, kiểm định trúng đích của đối phương -2.",
+                "3": "Nếu chế độ đánh thường là [kiếm lửa], hệ số kỹ năng *1.5. [Long tinh hộ thuẫn] thêm hiệu quả: khi chịu tấn công, kiểm định trúng đích của đối phương không thể nhận bất kỳ cộng thêm nào.",
+                "4": "Nếu chế độ đánh thường là [kiếm lửa], hệ số kỹ năng *1.5. [Long tinh hộ thuẫn] thêm hiệu quả: khi chịu tấn công, kiểm định trúng đích của đối phương không thể nhận bất kỳ cộng thêm nào.",
+                "5": "Nếu chế độ đánh thường là [kiếm lửa], hệ số kỹ năng *2. [Long tinh hộ thuẫn] thêm hiệu quả: khi chịu tấn công, kiểm định trúng đích của đối phương không thể nhận bất kỳ cộng thêm nào.",
+                "6": "Nếu chế độ đánh thường là [kiếm lửa], hệ số kỹ năng *2. [Long tinh hộ thuẫn] thêm hiệu quả: khi chịu tấn công, kiểm định trúng đích của đối phương không thể nhận bất kỳ cộng thêm nào.",
+                "7": "Nếu chế độ đánh thường là [kiếm lửa], hệ số kỹ năng *2, đồng thời lập tức phóng một lần đánh thường miễn phí. [Long tinh hộ thuẫn] thêm hiệu quả: khi chịu tấn công, kiểm định trúng đích của đối phương không thể nhận bất kỳ cộng thêm nào; nếu kiểm định trúng đích thấp hơn AC thì xem như không trúng."
+              },
+              "阶位": "Tất sát"
+            },
+            "Viêm Long Thiên Giáng": {
+              "名称": "Viêm Long Thiên Giáng",
+              "类型": "Chủ động",
+              "描述": "Ma pháp lửa đánh nhóm, triệu hồi một thiên thạch long viêm khổng lồ nện vào khu vực chỉ định, bộc phát AOE mạnh. Nếu chế độ đánh thường là mũi tên lửa thì càng mạnh hơn.",
+              "特殊效果": {
+                "1": "Nếu chế độ đánh thường là [mũi tên lửa]: chắc chắn trúng; hệ số kỹ năng *2.",
+                "2": "Nếu chế độ đánh thường là [mũi tên lửa]: chắc chắn trúng; hệ số kỹ năng *2.",
+                "3": "Nếu chế độ đánh thường là [mũi tên lửa]: chắc chắn trúng; hệ số kỹ năng *2; phớt lờ kháng lửa.",
+                "4": "Nếu chế độ đánh thường là [mũi tên lửa]: chắc chắn trúng; hệ số kỹ năng *2; phớt lờ kháng lửa.",
+                "5": "Nếu chế độ đánh thường là [mũi tên lửa]: chắc chắn trúng; hệ số kỹ năng *3; phớt lờ kháng lửa.",
+                "6": "Nếu chế độ đánh thường là [mũi tên lửa]: chắc chắn trúng; hệ số kỹ năng *3; phớt lờ kháng lửa.",
+                "7": "Nếu chế độ đánh thường là [mũi tên lửa]: chắc chắn trúng; hệ số kỹ năng *3; phớt lờ kháng lửa; xúc xắc tấn công lấy giá trị cao nhất."
+              },
+              "阶位": "Tất sát"
+            }
+          },
+          "奥义": {
+            "Kiếm Xử Hình Ngục Lửa": {
+              "名称": "Kiếm Xử Hình Ngục Lửa",
+              "类型": "Chủ động",
+              "描述": "Ma pháp lửa, chế độ đánh thường lập tức chuyển sang [lưỡi lửa], nén toàn bộ ma lực tại mũi kiếm rồi đâm xử quyết hủy diệt vào đơn mục tiêu. Kỹ kết thúc bộc phát đơn thể.",
+              "特殊效果": {
+                "1": "Nếu bản thân có [long tinh hộ thuẫn], gây thêm sát thương chuẩn bằng toàn bộ sinh mệnh tạm thời và xóa sinh mệnh tạm thời; nếu bản thân có [long hồn], hệ số kỹ năng *2; nếu bản thân có n tầng [huyết diễm], sát thương cuối cùng +n*20%.",
+                "2": "Nếu bản thân có [long tinh hộ thuẫn], gây thêm sát thương chuẩn bằng toàn bộ sinh mệnh tạm thời và xóa sinh mệnh tạm thời; nếu bản thân có [long hồn], hệ số kỹ năng *3; nếu bản thân có n tầng [huyết diễm], sát thương cuối cùng +n*20%.",
+                "3": "Nếu bản thân có [long tinh hộ thuẫn], gây thêm sát thương chuẩn bằng toàn bộ sinh mệnh tạm thời và xóa sinh mệnh tạm thời; nếu bản thân có [long hồn], hệ số kỹ năng *3; nếu bản thân có n tầng [huyết diễm], sát thương cuối cùng +n*40%.",
+                "4": "Nếu bản thân có [long tinh hộ thuẫn], gây thêm sát thương chuẩn bằng toàn bộ sinh mệnh tạm thời; nếu bản thân có [long hồn], hệ số kỹ năng *3; nếu bản thân có n tầng [huyết diễm], sát thương cuối cùng +n*40%.",
+                "5": "Nếu bản thân có [long tinh hộ thuẫn], gây thêm sát thương chuẩn bằng toàn bộ sinh mệnh tạm thời; nếu bản thân có [long hồn], hệ số kỹ năng *3; nếu bản thân có n tầng [huyết diễm], sát thương cuối cùng +n*40%; nếu có đủ toàn bộ thì xúc xắc sát thương lấy tối đa."
+              },
+              "阶位": "Áo nghĩa"
+            },
+            "Truyền Lại Ngọn Lửa": {
+              "名称": "Truyền Lại Ngọn Lửa",
+              "类型": "Đặc biệt",
+              "描述": "Ma pháp phi lửa, kỹ năng sinh tồn cực đoan và phản kích trong tuyệt cảnh. Bạn vĩnh viễn không thể dễ dàng giết chết một long duệ.",
+              "特殊效果": {
+                "1": "Mỗi trận một lần, khi HP giảm xuống dưới 1 sẽ lập tức kích hoạt. Nhận 3 hiệp không chết; trong thời gian này, xúc xắc sát thương lấy giá trị tối đa, sát thương bạo kích +200%, khi chế độ đánh thường là [mũi tên lửa] thì chắc chắn bạo kích. Khi không chết kết thúc, máu giảm còn 1."
+              },
+              "阶位": "Áo nghĩa"
+            }
+          },
+          "觉醒一": {
+            "Pháp Vực Long Viêm · Nóng Chảy": {
+              "名称": "Pháp Vực Long Viêm · Nóng Chảy",
+              "类型": "Chủ động",
+              "阶位": "Thức tỉnh một",
+              "描述": "Ma pháp lửa, sau lưng hiện hư ảnh cự long, gây sát thương phạm vi lớn và triển khai lĩnh vực của hỏa long, triệt để thay đổi pháp tắc chiến trường xung quanh, kéo dài đến khi chiến đấu kết thúc.",
+              "特殊效果": {
+                "1": "Sau khi thức tỉnh, trong trận chiến này: toàn bộ đánh thường [mũi tên lửa] đều tính sát thương và hiệu quả như phóng Thương Lửa, nhưng vẫn xem là đánh thường.",
+                "2": "Sau khi thức tỉnh, trong trận chiến này: toàn bộ đánh thường [mũi tên lửa] đều tính sát thương và hiệu quả như phóng Thương Lửa, nhưng vẫn xem là đánh thường; nếu phóng lại kỹ năng này, sát thương tăng gấp đôi và có thể cộng dồn.",
+                "3": "Sau khi thức tỉnh, trong trận chiến này: toàn bộ đánh thường [mũi tên lửa] đều tính sát thương và hiệu quả như phóng Thương Lửa, nhưng vẫn xem là đánh thường; nếu phóng lại kỹ năng này, sát thương tăng gấp đôi và có thể cộng dồn; cuối mỗi hiệp, toàn bộ địch thực hiện miễn trừ Thể chất DC10, thất bại thì chết ngay."
+              }
+            }
+          },
+          "觉醒二": {
+            "Vũ Trang Anh Hồn Cổ Long": {
+              "名称": "Vũ Trang Anh Hồn Cổ Long",
+              "类型": "Chủ động",
+              "阶位": "Thức tỉnh hai",
+              "描述": "Triệu hồi hư ảnh cổ long bám lên thân, pháp trượng hóa thành cự kiếm đồ long. Bước vào hình thái tối thượng của ma kiếm sĩ.",
+              "特殊效果": {
+                "1": "Sau khi thức tỉnh, trong trận chiến này: toàn bộ đánh thường [lưỡi lửa] đều đánh nhóm, hệ số nền sửa thành 2000%, và khi trúng địch nhận thêm 1000 sinh mệnh tạm thời, có thể cộng dồn và kế thừa.",
+                "2": "Sau khi thức tỉnh, trong trận chiến này: toàn bộ đánh thường [lưỡi lửa] đều đánh nhóm, hệ số nền sửa thành 2000%, và khi trúng địch nhận thêm 1000 sinh mệnh tạm thời, có thể cộng dồn và kế thừa. Khi chịu sát thương chí tử, giải trừ vũ trang, máu hồi đầy; trận này không thể phát động kỹ năng này lần nữa."
+              }
+            }
+          },
+          "觉醒三": {
+            "Sáng Thế · Tinh Hạch Bạo Viêm": {
+              "名称": "Sáng Thế · Tinh Hạch Bạo Viêm",
+              "类型": "Chủ động",
+              "阶位": "Thức tỉnh ba",
+              "描述": "Dẫn dòng lửa Terra từ lõi hành tinh, thi triển đòn tối hậu đủ để tái định hình địa mạo. Sự hủy diệt cực hạn xóa bỏ mọi tồn tại.",
+              "特殊效果": {
+                "1": "Sau khi thức tỉnh, lập tức lơ lửng và không thể bị chọn làm mục tiêu trong 1 hiệp. Hiệp kế tiếp nện Tinh Hạch Bạo Viêm xuống, gây đả kích hủy diệt lên toàn bộ kẻ địch trong sân. Đồng thời kết toán một lần sát thương chuẩn bằng 50% HP tối đa, và mọi kẻ địch phải vượt qua miễn trừ Thể chất DC20 trong trạng thái bất lợi, nếu không chết ngay."
+              }
+            }
+          }
+        }
+      },
+      "skillFlavorInput": "\n",
+      "teammates": [],
+      "customTeammate": null,
+      "selectedTraits": [
+        "Cảm ứng kho báu",
+        "Con bạc bẩm sinh",
+        "Dòng dõi quý tộc bẩm sinh"
+      ],
+      "customTraits": [],
+      "customExpertise": [],
+      "customIdentity": {
+        "enabled": true,
+        "name": "Xuất thân tùy chỉnh",
+        "desc": "Có ngoại hình nhân loại và truyền thừa long huyết, bẩm sinh giỏi ma pháp, vừa đăng ký làm mạo hiểm giả.",
+        "tierIndex": 3
+      },
+      "selectedOpening": "custom",
+      "customOpeningText": "Người xuyên việt được Tet kéo tới.\n(Khi mở đầu, bắt buộc thêm trạng thái [chế độ đánh thường] cho nhân vật. Mô tả: \"Chế độ đánh thường chia thành hai loại [mũi tên lửa] và [lưỡi lửa], sẽ chuyển đổi khi hiệu quả kỹ năng cụ thể có hiệu lực. Đánh thường [mũi tên lửa] gây sát thương ma pháp lửa, đánh thường [lưỡi lửa] gây sát thương vật lý.\" Ảnh hưởng đặc biệt: \"Chế độ đánh thường hiện tại: [mũi tên lửa]\")",
+      "selectedDifficulty": "easy",
+      "customRace": {
+        "enabled": true,
+        "name": "Hậu duệ Hỏa Long",
+        "trait1": {
+          "name": "Song Tu Sức Mạnh Và Trí Lực",
+          "detail": "Khi tính kiểm định trúng đích, trị số điều chỉnh thuộc tính đồng thời áp dụng Trí lực và Sức mạnh, cách tính là cộng dồn.",
+          "negative": false
+        },
+        "trait2": {
+          "name": "Thân Thể Kiên Nhẫn",
+          "detail": "Theo cấp độ tăng lên, khi tính giảm sát thương vật lý và ma pháp từ trang bị, nhận thêm [+ (cấp nhân vật / 2)%], phần trăm làm tròn xuống.",
+          "negative": false
+        }
+      }
+    }
+  }
+}

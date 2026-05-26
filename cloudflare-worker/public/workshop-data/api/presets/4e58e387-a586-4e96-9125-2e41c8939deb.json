@@ -1,0 +1,35 @@
+{
+  "ok": true,
+  "preset": {
+    "id": "4e58e387-a586-4e96-9125-2e41c8939deb",
+    "ownerId": "990868580247666728",
+    "ownerName": "Không muốn nói chuyện",
+    "author": "Không muốn nói chuyện",
+    "authorAvatar": "https://cdn.discordapp.com/avatars/990868580247666728/15012bfba42bb7b975c84355c32b07c6.png?size=128",
+    "name": "Lý Soái Tây",
+    "title": "Lý Soái Tây",
+    "intro": "Nghề Thương Hành Giả, nghề gây sát thương hỗn hợp với tay trái cầm súng lục ổ xoay, tay phải cầm katana. Súng và đao hợp thành một trang bị (tương tự gunblade trong DNF).\nKatana có đỡ phản kích, trảm iai diện rộng, lướt đột kích, chém cận chiến v.v.\nSúng lục ổ xoay theo đuổi bộc phát liên xạ ở tầm gần - trung, đả kích điểm yếu, Con Mắt Tử Vong (tương tự đại chiêu của McCree hoặc kỹ năng của Arthur Morgan), phụ ma đạn dược v.v.\nKỹ năng phối hợp đao súng tạo ra thương đấu thuật hoa lệ.\nNăng lực cơ động khá tốt, là nghề giáp da.",
+    "coverUrl": "/api/presets/4e58e387-a586-4e96-9125-2e41c8939deb/cover",
+    "className": "Thương Hành Giả",
+    "race": "Nhân loại chủng",
+    "tags": [],
+    "likes": 0,
+    "liked": false,
+    "downloads": 2,
+    "status": "published",
+    "createdAt": "2026-03-31 20:13:16",
+    "updatedAt": "2026-04-23 10:43:53",
+    "lastLikedAt": "",
+    "presetData": {
+      "name": "Lý Soái Tây",
+      "class": "Thương Hành Giả",
+      "customClassName": "Thương Hành Giả",
+      "race": "Nhân loại chủng",
+      "customRace": null,
+      "customClassStyle": "\n\nNghề Thương Hành Giả, nghề gây sát thương hỗn hợp với tay trái cầm súng lục ổ xoay, tay phải cầm katana. Súng và đao hợp thành một trang bị (tương tự gunblade trong DNF).\nKatana có đỡ phản kích, trảm iai diện rộng, lướt đột kích, chém cận chiến v.v.\nSúng lục ổ xoay theo đuổi bộc phát liên xạ ở tầm gần - trung, đả kích điểm yếu, Con Mắt Tử Vong (tương tự đại chiêu của McCree hoặc kỹ năng của Arthur Morgan), phụ ma đạn dược v.v.\nKỹ năng phối hợp đao súng tạo ra thương đấu thuật hoa lệ.\nNăng lực cơ động khá tốt, là nghề giáp da.",
+      "backstory": "",
+      "selectedCustomLevel": 1
+    },
+    "downloadUrl": "/api/presets/4e58e387-a586-4e96-9125-2e41c8939deb/file"
+  }
+}

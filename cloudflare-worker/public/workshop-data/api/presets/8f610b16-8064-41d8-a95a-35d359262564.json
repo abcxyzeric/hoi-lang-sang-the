@@ -1,0 +1,42 @@
+{
+  "ok": true,
+  "preset": {
+    "id": "8f610b16-8064-41d8-a95a-35d359262564",
+    "ownerId": "1463439454080467131",
+    "ownerName": "Bọ Rùa Bảy Sao",
+    "author": "Bọ Rùa Bảy Sao",
+    "authorAvatar": "https://cdn.discordapp.com/avatars/1463439454080467131/3b0fa57f9a76fd88e399c0bfbab93ee9.png?size=128",
+    "name": "Cược đi, để tôi tung D tới phê!",
+    "title": "Cược đi, để tôi tung D tới phê!",
+    "intro": "😊 Một nghề nghiệp thuần dựa vào vận may để tạo niềm vui. Kỹ năng xoay quanh bốn hình thái không thể chủ động khống chế; mỗi hình thái có một phong cách chiến đấu và nét riêng khác nhau.\n   💃 Hiện tại có thể xem là ver2.0. Tôi đã chỉnh lại kỹ năng; hiệu quả đã thử ở 3.1 và có thể thực hiện hoàn hảo. Bây giờ khá cân bằng, vì có yếu tố ngẫu nhiên nên sẽ không quá biến thái, trọng tâm nằm ở hai chữ “đánh đổi”!\n  ⭕️ Lưu ý: Khi chơi nhớ tự thêm một ít xúc xắc vào worldbook, cứ copy là được, nếu không D20 có thể không đủ...\n  Nói chung, tôi xin gọi nó là siêu Aphelios. Toàn bộ đặc chất và đặc tính chủng tộc đều xoay quanh chữ “cược”; tôi thấy khá vui. Kỹ năng đều viết tay, tôi đã mất năm tiếng rồi, mọi người bấm thích giúp nhé.",
+    "coverUrl": "/api/presets/8f610b16-8064-41d8-a95a-35d359262564/cover",
+    "className": "Người chơi số một",
+    "race": "Game thủ",
+    "tags": [
+      "Hoàn toàn ngẫu nhiên",
+      "Tung D tới phê",
+      "Sát thương cực cao",
+      "Quái cơ chế"
+    ],
+    "likes": 6,
+    "liked": false,
+    "downloads": 379,
+    "status": "published",
+    "createdAt": "2026-03-29 08:00:49",
+    "updatedAt": "2026-05-25 07:43:28",
+    "lastLikedAt": "",
+    "presetData": {
+      "name": "Galahad",
+      "class": "Người chơi số một",
+      "customClassName": "Người chơi số một",
+      "race": "__custom__",
+      "customRace": {
+        "name": "Game thủ"
+      },
+      "customClassStyle": "Mọi thứ đều dựa vào lựa chọn của số mệnh. Kiếm súng biến hình sẽ ngẫu nhiên chuyển thành bốn dạng: pháo tích năng, súng máy, cưa máy và trảm đao. Pháo tích năng có tốc độ tấn công chậm nhưng sát thương cao; súng máy tấn công nhanh nhưng sát thương thấp; cưa máy có thể chồng dot và gây sát thương khổng lồ khi kết toán; trảm đao thông qua việc nhìn thấu đòn tấn công của địch để phản kích phòng thủ với uy lực lớn.",
+      "backstory": "",
+      "selectedCustomLevel": null
+    },
+    "downloadUrl": "/api/presets/8f610b16-8064-41d8-a95a-35d359262564/file"
+  }
+}

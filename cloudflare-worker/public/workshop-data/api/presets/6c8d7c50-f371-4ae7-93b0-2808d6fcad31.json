@@ -1,0 +1,42 @@
+{
+  "ok": true,
+  "preset": {
+    "id": "6c8d7c50-f371-4ae7-93b0-2808d6fcad31",
+    "ownerId": "1364216305598595214",
+    "ownerName": "347",
+    "author": "347",
+    "authorAvatar": "https://cdn.discordapp.com/avatars/1364216305598595214/d5259a6e6e376621214869583fa1aa68.png?size=128",
+    "name": "Neptune",
+    "title": "Neptune",
+    "intro": "Nếu dùng để điều khiển như nhân vật chính thì có thể phối hợp với thiết lập nhân vật.\nCảm hứng nghề nghiệp đến từ dòng chính Hyperdimension Neptunia và Brave Neptunia.",
+    "coverUrl": "/api/presets/6c8d7c50-f371-4ae7-93b0-2808d6fcad31/cover",
+    "className": "Nữ thần dũng giả (tự xưng)",
+    "race": "Nữ thần hộ mệnh",
+    "tags": [
+      "Bộc phát",
+      "Diễn trò",
+      "Dọn quái",
+      "Nhân vật chính"
+    ],
+    "likes": 6,
+    "liked": false,
+    "downloads": 57,
+    "status": "published",
+    "createdAt": "2026-03-30 14:05:25",
+    "updatedAt": "2026-05-21 13:46:39",
+    "lastLikedAt": "",
+    "presetData": {
+      "name": "Neptune",
+      "class": "Nữ thần dũng giả (tự xưng)",
+      "customClassName": "Nữ thần dũng giả (tự xưng)",
+      "race": "__custom__",
+      "customRace": {
+        "name": "Nữ thần hộ mệnh"
+      },
+      "customClassStyle": "Từ nữ thần chuyển nghề thành dũng giả! Nhưng tại sao vẫn là nữ thần? Hiểu rồi, nói cách khác bây giờ mình là nữ thần dũng giả đúng không!\nVũ khí vẫn là thái đao, chiến đấu vẫn dựa vào kiếm kỹ, cùng cường hóa bằng năng lượng tín ngưỡng hoặc trực tiếp công kích. Điều đáng nói là giờ còn có thể giống một dũng giả thực thụ, phối hợp công kích nguyên tố đa thuộc tính và ma pháp.",
+      "backstory": "",
+      "selectedCustomLevel": null
+    },
+    "downloadUrl": "/api/presets/6c8d7c50-f371-4ae7-93b0-2808d6fcad31/file"
+  }
+}

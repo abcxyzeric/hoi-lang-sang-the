@@ -1,0 +1,37 @@
+{
+  "ok": true,
+  "preset": {
+    "id": "64655a06-2fbf-4ee6-a628-58eb384fb46e",
+    "ownerId": "987284148223893514",
+    "ownerName": "Hòa Cốc Lang",
+    "author": "Hòa Cốc Lang",
+    "authorAvatar": "https://cdn.discordapp.com/avatars/987284148223893514/e4520e6b814d9489f08182c0c9ef1236.png?size=128",
+    "name": "Ryomen Sukuna",
+    "title": "Ryomen Sukuna",
+    "intro": "Ryomen Sukuna là Vua Nguyền Hồn, một chiến binh toàn năng cấp quy tắc. Phong cách chiến đấu là áp chế cuồng bạo, vừa mạnh cận chiến vừa có hỏa lực diện rộng, sinh tồn và khống chế đều đạt cực hạn. Kỹ năng lấy tiêu hao thể lực thấp, sát thương chuẩn theo phần trăm, quy tắc không gian và linh hồn làm cốt lõi; từ trảm kích cơ bản đến áo nghĩa diệt thế đều vượt chuẩn từng tầng. Hắn đồng thời sở hữu hỏa lực cực hạn, phòng ngự tuyệt đối, tái sinh bất tử, chi phối lĩnh vực và hợp thể triệu hồi; là tồn tại cấp trần áp đảo toàn trình, gần như không có sơ hở.",
+    "coverUrl": "/api/presets/64655a06-2fbf-4ee6-a628-58eb384fb46e/cover",
+    "className": "Vua Nguyền Hồn",
+    "race": "Vua Nguyền Hồn · Nguyền linh",
+    "tags": [],
+    "likes": 1,
+    "liked": false,
+    "downloads": 3,
+    "status": "published",
+    "createdAt": "2026-05-08 10:42:51",
+    "updatedAt": "2026-05-11 14:11:25",
+    "lastLikedAt": "",
+    "presetData": {
+      "name": "Ryomen Sukuna",
+      "class": "Vua Nguyền Hồn",
+      "customClassName": "Vua Nguyền Hồn",
+      "race": "__custom__",
+      "customRace": {
+        "name": "Vua Nguyền Hồn · Nguyền linh"
+      },
+      "customClassStyle": "Ryomen Sukuna là Vua Nguyền Hồn, một chiến binh toàn năng cấp quy tắc. Phong cách chiến đấu là áp chế cuồng bạo, vừa mạnh cận chiến vừa có hỏa lực diện rộng, sinh tồn và khống chế đều đạt cực hạn. Kỹ năng lấy tiêu hao thể lực thấp, sát thương chuẩn theo phần trăm, quy tắc không gian và linh hồn làm cốt lõi; từ trảm kích cơ bản đến áo nghĩa diệt thế đều vượt chuẩn từng tầng. Hắn đồng thời sở hữu hỏa lực cực hạn, phòng ngự tuyệt đối, tái sinh bất tử, chi phối lĩnh vực và hợp thể triệu hồi; là tồn tại cấp trần áp đảo toàn trình, gần như không có sơ hở.",
+      "backstory": "",
+      "selectedCustomLevel": null
+    },
+    "downloadUrl": "/api/presets/64655a06-2fbf-4ee6-a628-58eb384fb46e/file"
+  }
+}

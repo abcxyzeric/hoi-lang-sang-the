@@ -1,0 +1,384 @@
+{
+  "exportedAt": "2026-03-23T12:20:53.745Z",
+  "version": "1.0",
+  "preset": {
+    "id": "1774268451078",
+    "name": "Dũng Giả Tình Dục",
+    "timestamp": 1774268451078,
+    "createdAt": 1774268451078,
+    "updatedAt": 1774268451078,
+    "data": {
+      "name": "",
+      "gender": "Nam",
+      "age": 18,
+      "race": "Nhân loại chủng",
+      "identity": "__custom__",
+      "avatar": "data:image/jpeg;base64,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",
+      "attributes": {
+        "strength": 15,
+        "dexterity": 15,
+        "constitution": 11,
+        "intelligence": 10,
+        "wisdom": 10,
+        "charisma": 10
+      },
+      "backstory": "",
+      "selectedLevelMode": "native",
+      "selectedCustomLevel": 1,
+      "selectedSpawnPoint": "Tầng dưới chợ vách Cảng Hoàn Uyên · bờ biển ngoại vi",
+      "class": "Dũng giả",
+      "selectedBaseClass": "Nghề tùy chỉnh",
+      "customClassName": "Dũng giả",
+      "customClassStyle": "",
+      "customClassWeapon": "Thánh Kiếm Dũng Giả / Dục Kiếm Dũng Giả",
+      "customClassCombatStyle": "Hỗn hợp",
+      "skillTree": {
+        "基础": [
+          {
+            "名称": "Chém thánh quang và đẩy ấm áp",
+            "类型": "Chủ động",
+            "描述": "[Thánh Kiếm · Chém thánh quang]: chém ra một luồng ánh sáng; gây sát thương ma pháp thuộc tính thần thánh lên một kẻ địch đơn lẻ; trúng -> kèm [thánh ngân]; [Dục Kiếm · Đẩy ấm áp]: thúc hông đẩy tới -> gây khoái cảm ma pháp lên một kẻ địch đơn lẻ; trúng -> kèm [hơi ấm]",
+            "特殊效果": {
+              "1": "[Thánh ngân / Hơi ấm]: sát thương cuối cùng / khoái cảm phải chịu +25%; AC-1; kéo dài 1 lượt.",
+              "2": "[Thánh ngân / Hơi ấm]: sát thương cuối cùng / khoái cảm phải chịu +25%; AC-1; kéo dài 1 lượt.",
+              "3": "[Thánh ngân / Hơi ấm]: sát thương cuối cùng / khoái cảm phải chịu +25%; AC-1; kéo dài 1 lượt.",
+              "4": "[Thánh ngân / Hơi ấm]: sát thương cuối cùng / khoái cảm phải chịu +25%; AC-1; kéo dài 1 lượt.",
+              "5": "[Thánh ngân / Hơi ấm]: sát thương cuối cùng / khoái cảm phải chịu +25%; AC-2; kéo dài 1 lượt.",
+              "6": "[Thánh ngân / Hơi ấm]: sát thương cuối cùng / khoái cảm phải chịu +30%; AC-2; kéo dài 1 lượt.",
+              "7": "[Thánh ngân / Hơi ấm]: sát thương cuối cùng / khoái cảm phải chịu +30%; AC-2; kéo dài 1 lượt.",
+              "8": "[Thánh ngân / Hơi ấm]: sát thương cuối cùng / khoái cảm phải chịu +30%; AC-2; kéo dài 1 lượt.",
+              "9": "[Thánh ngân / Hơi ấm]: sát thương cuối cùng / khoái cảm phải chịu +30%; AC-2; kéo dài 1 lượt.",
+              "10": "[Thánh ngân / Hơi ấm]: sát thương cuối cùng / khoái cảm phải chịu +30%; AC-2; kéo dài 1 lượt.",
+              "11": "[Thánh ngân / Hơi ấm]: sát thương cuối cùng / khoái cảm phải chịu +40%; AC-3; kéo dài 1 lượt.",
+              "12": "[Thánh ngân / Hơi ấm]: sát thương cuối cùng / khoái cảm phải chịu +40%; AC-3; kéo dài 1 lượt.",
+              "13": "[Thánh ngân / Hơi ấm]: sát thương cuối cùng / khoái cảm phải chịu +40%; AC-3; kéo dài 1 lượt.",
+              "14": "[Thánh ngân / Hơi ấm]: sát thương cuối cùng / khoái cảm phải chịu +40%; AC-3; kéo dài 1 lượt.",
+              "15": "[Thánh ngân / Hơi ấm]: sát thương cuối cùng / khoái cảm phải chịu +50%; AC-3; kéo dài 1 lượt."
+            },
+            "阶位": "Cơ bản"
+          },
+          {
+            "名称": "Khều đâm và trêu chọc",
+            "类型": "Chủ động",
+            "描述": "[Thánh Kiếm - Khều đâm]: khều kiếm rồi đâm tới -> gây sát thương vật lý lên một kẻ địch đơn lẻ; [Dục Kiếm - Trêu chọc]: cọ miết hướng lên và đẩy tới -> gây khoái cảm vật lý lên một kẻ địch đơn lẻ",
+            "特殊效果": {
+              "1": "Nếu mục tiêu đang trong [thánh ngân / hơi ấm] -> kích nổ và xóa trạng thái đó; sau đó -> lập tức gây 1 lần sát thương bổ sung bằng sát thương của đòn này x 20%.",
+              "2": "Nếu mục tiêu đang trong [thánh ngân / hơi ấm] -> kích nổ và xóa trạng thái đó; sau đó -> lập tức gây 1 lần sát thương bổ sung bằng sát thương của đòn này x 25%.",
+              "3": "Nếu mục tiêu đang trong [thánh ngân / hơi ấm] -> kích nổ và xóa trạng thái đó; sau đó -> lập tức gây 1 lần sát thương bổ sung bằng sát thương của đòn này x 30%.",
+              "4": "Nếu mục tiêu đang trong [thánh ngân / hơi ấm] -> kích nổ và xóa trạng thái đó; sau đó -> lập tức gây 1 lần sát thương bổ sung bằng sát thương của đòn này x 35%.",
+              "5": "Nếu mục tiêu đang trong [thánh ngân / hơi ấm] -> kích nổ và xóa trạng thái đó; sau đó -> lập tức gây 1 lần sát thương bổ sung bằng sát thương của đòn này x 40%.",
+              "6": "Nếu mục tiêu đang trong [thánh ngân / hơi ấm] -> kích nổ và xóa trạng thái đó; sau đó -> lập tức gây 1 lần sát thương bổ sung bằng sát thương của đòn này x 45%.",
+              "7": "Nếu mục tiêu đang trong [thánh ngân / hơi ấm] -> kích nổ và xóa trạng thái đó; sau đó -> lập tức gây 1 lần sát thương bổ sung bằng sát thương của đòn này x 50%.",
+              "8": "Nếu mục tiêu đang trong [thánh ngân / hơi ấm] -> kích nổ và xóa trạng thái đó; sau đó -> lập tức gây 1 lần sát thương bổ sung bằng sát thương của đòn này x 55%.",
+              "9": "Nếu mục tiêu đang trong [thánh ngân / hơi ấm] -> kích nổ và xóa trạng thái đó; sau đó -> lập tức gây 1 lần sát thương bổ sung bằng sát thương của đòn này x 60%.",
+              "10": "Nếu mục tiêu đang trong [thánh ngân / hơi ấm] -> kích nổ và xóa trạng thái đó; sau đó -> lập tức gây 1 lần sát thương bổ sung bằng sát thương của đòn này x 65%.",
+              "11": "Nếu mục tiêu đang trong [thánh ngân / hơi ấm] -> kích nổ và xóa trạng thái đó; sau đó -> lập tức gây 1 lần sát thương bổ sung bằng sát thương của đòn này x 70%.",
+              "12": "Nếu mục tiêu đang trong [thánh ngân / hơi ấm] -> kích nổ và xóa trạng thái đó; sau đó -> lập tức gây 1 lần sát thương bổ sung bằng sát thương của đòn này x 75%.",
+              "13": "Nếu mục tiêu đang trong [thánh ngân / hơi ấm] -> kích nổ và xóa trạng thái đó; sau đó -> lập tức gây 1 lần sát thương bổ sung bằng sát thương của đòn này x 80%.",
+              "14": "Nếu mục tiêu đang trong [thánh ngân / hơi ấm] -> kích nổ và xóa trạng thái đó; sau đó -> lập tức gây 1 lần sát thương bổ sung bằng sát thương của đòn này x 85%.",
+              "15": "Nếu mục tiêu đang trong [thánh ngân / hơi ấm] -> kích nổ và xóa trạng thái đó; sau đó -> lập tức gây 1 lần sát thương bổ sung bằng sát thương của đòn này x 90%."
+            },
+            "阶位": "Cơ bản"
+          },
+          {
+            "名称": "Khiên dũng giả và trái tim kiên nghị",
+            "类型": "Chủ động",
+            "描述": "Mỗi trận chiến chỉ có thể phóng hai lần; [Thánh Kiếm - Khiên dũng giả]: ngưng kết khiên ánh sáng -> chống đỡ sát thương và gây một lần sát thương ma pháp; [Dục Kiếm - Trái tim kiên nghị]: hít sâu một hơi để ổn định ý chí -> chống lại khoái cảm và gây một lần khoái cảm ma pháp",
+            "特殊效果": {
+              "1": "Nhận khiên -> trị số khiên = 25% sinh mệnh tối đa của bản thân; tồn tại 2 hiệp hoặc tới khi khiên bị phá; gây sát thương / khoái cảm -> kèm sát thương / khoái cảm bổ sung bằng trị số khiên hiện tại.",
+              "2": "Nhận khiên -> trị số khiên = 26% sinh mệnh tối đa của bản thân; tồn tại 2 hiệp hoặc tới khi khiên bị phá; gây sát thương / khoái cảm -> kèm sát thương / khoái cảm bổ sung bằng trị số khiên hiện tại.",
+              "3": "Nhận khiên -> trị số khiên = 27% sinh mệnh tối đa của bản thân; tồn tại 2 hiệp hoặc tới khi khiên bị phá; gây sát thương / khoái cảm -> kèm sát thương / khoái cảm bổ sung bằng trị số khiên hiện tại.",
+              "4": "Nhận khiên -> trị số khiên = 28% sinh mệnh tối đa của bản thân; tồn tại 2 hiệp hoặc tới khi khiên bị phá; gây sát thương / khoái cảm -> kèm sát thương / khoái cảm bổ sung bằng trị số khiên hiện tại.",
+              "5": "Nhận khiên -> trị số khiên = 29% sinh mệnh tối đa của bản thân; tồn tại 2 hiệp hoặc tới khi khiên bị phá; gây sát thương / khoái cảm -> kèm sát thương / khoái cảm bổ sung bằng trị số khiên hiện tại.",
+              "6": "Nhận khiên -> trị số khiên = 30% sinh mệnh tối đa của bản thân; tồn tại 3 hiệp hoặc tới khi khiên bị phá; gây sát thương / khoái cảm -> kèm sát thương / khoái cảm bổ sung bằng trị số khiên hiện tại.",
+              "7": "Nhận khiên -> trị số khiên = 31% sinh mệnh tối đa của bản thân; tồn tại 3 hiệp hoặc tới khi khiên bị phá; gây sát thương / khoái cảm -> kèm sát thương / khoái cảm bổ sung bằng trị số khiên hiện tại.",
+              "8": "Nhận khiên -> trị số khiên = 32% sinh mệnh tối đa của bản thân; tồn tại 3 hiệp hoặc tới khi khiên bị phá; gây sát thương / khoái cảm -> kèm sát thương / khoái cảm bổ sung bằng trị số khiên hiện tại.",
+              "9": "Nhận khiên -> trị số khiên = 33% sinh mệnh tối đa của bản thân; tồn tại 3 hiệp hoặc tới khi khiên bị phá; gây sát thương / khoái cảm -> kèm sát thương / khoái cảm bổ sung bằng trị số khiên hiện tại.",
+              "10": "Nhận khiên -> trị số khiên = 34% sinh mệnh tối đa của bản thân; tồn tại 2 hiệp hoặc tới khi khiên bị phá; gây sát thương / khoái cảm -> kèm sát thương / khoái cảm bổ sung bằng trị số khiên hiện tại.",
+              "11": "Nhận khiên -> trị số khiên = 35% sinh mệnh tối đa của bản thân; tồn tại 4 hiệp hoặc tới khi khiên bị phá; gây sát thương / khoái cảm -> kèm sát thương / khoái cảm bổ sung bằng trị số khiên hiện tại.",
+              "12": "Nhận khiên -> trị số khiên = 36% sinh mệnh tối đa của bản thân; tồn tại 4 hiệp hoặc tới khi khiên bị phá; gây sát thương / khoái cảm -> kèm sát thương / khoái cảm bổ sung bằng trị số khiên hiện tại.",
+              "13": "Nhận khiên -> trị số khiên = 37% sinh mệnh tối đa của bản thân; tồn tại 4 hiệp hoặc tới khi khiên bị phá; gây sát thương / khoái cảm -> kèm sát thương / khoái cảm bổ sung bằng trị số khiên hiện tại.",
+              "14": "Nhận khiên -> trị số khiên = 38% sinh mệnh tối đa của bản thân; tồn tại 4 hiệp hoặc tới khi khiên bị phá; gây sát thương / khoái cảm -> kèm sát thương / khoái cảm bổ sung bằng trị số khiên hiện tại.",
+              "15": "Nhận khiên -> trị số khiên = 40% sinh mệnh tối đa của bản thân; tồn tại 4 hiệp hoặc tới khi khiên bị phá; gây sát thương / khoái cảm -> kèm sát thương / khoái cảm bổ sung bằng trị số khiên hiện tại."
+            },
+            "阶位": "Cơ bản"
+          },
+          {
+            "名称": "Thánh Kiếm và Dục Kiếm",
+            "类型": "Đặc biệt nghề nghiệp",
+            "描述": "Độc quyền của dũng giả; điều chỉnh chiến thuật theo tình huống chiến đấu: hoặc dùng Thánh Kiếm trong tay để thảo phạt ma vật, hoặc dùng Dục Kiếm dưới hông để thảo phạt ma vật nương!",
+            "特殊效果": {
+              "1": "Sau khi vào chiến đấu tự động kích hoạt -> quyết định phương thức chiến đấu tương ứng theo loại chiến đấu; nếu là chiến đấu thường -> khi phóng kỹ năng chọn kỹ năng loại [Thánh Kiếm]; nếu là sex battle -> khi phóng kỹ năng chọn kỹ năng loại [Dục Kiếm]"
+            },
+            "阶位": "Cơ bản"
+          }
+        ],
+        "转职": [
+          {
+            "名称": "Mưa kiếm rực sáng và xung ánh sáng",
+            "类型": "Chủ động",
+            "描述": "[Thánh Kiếm - Mưa kiếm rực sáng]: chém ra mảng lớn kiếm khí thánh quang -> gây sát thương ma pháp lên toàn bộ kẻ địch; [Dục Kiếm - Xung ánh sáng]: bắn ra lượng lớn tinh dịch thánh quang -> bản thân mất 15% giá trị phòng tuyến -> gây khoái cảm ma pháp lên một kẻ địch đơn lẻ",
+            "特殊效果": {
+              "1": "Nếu là [Thánh Kiếm - Mưa kiếm vàng] -> ban [thánh ngân] cho toàn bộ phe địch; nếu là [Dục Kiếm - Xung ánh sáng] -> khoái cảm gây ra lần này +50%.",
+              "2": "Nếu là [Thánh Kiếm - Mưa kiếm vàng] -> ban [thánh ngân] cho toàn bộ phe địch; nếu là [Dục Kiếm - Xung ánh sáng] -> khoái cảm gây ra lần này +55%.",
+              "3": "Nếu là [Thánh Kiếm - Mưa kiếm vàng] -> ban [thánh ngân] cho toàn bộ phe địch; nếu là [Dục Kiếm - Xung ánh sáng] -> khoái cảm gây ra lần này +60%.",
+              "4": "Nếu là [Thánh Kiếm - Mưa kiếm vàng] -> ban [thánh ngân] cho toàn bộ phe địch; nếu là [Dục Kiếm - Xung ánh sáng] -> khoái cảm gây ra lần này +65%.",
+              "5": "Nếu là [Thánh Kiếm - Mưa kiếm vàng] -> ban [thánh ngân] cho toàn bộ phe địch; nếu là [Dục Kiếm - Xung ánh sáng] -> khoái cảm gây ra lần này +70%.",
+              "6": "Nếu là [Thánh Kiếm - Mưa kiếm vàng] -> ban [thánh ngân] cho toàn bộ phe địch; nếu là [Dục Kiếm - Xung ánh sáng] -> khoái cảm gây ra lần này +75%.",
+              "7": "Nếu là [Thánh Kiếm - Mưa kiếm vàng] -> ban [thánh ngân] cho toàn bộ phe địch; nếu là [Dục Kiếm - Xung ánh sáng] -> khoái cảm gây ra lần này +80%.",
+              "8": "Nếu là [Thánh Kiếm - Mưa kiếm vàng] -> ban [thánh ngân] cho toàn bộ phe địch; nếu là [Dục Kiếm - Xung ánh sáng] -> khoái cảm gây ra lần này +85%.",
+              "9": "Nếu là [Thánh Kiếm - Mưa kiếm vàng] -> ban [thánh ngân] cho toàn bộ phe địch; nếu là [Dục Kiếm - Xung ánh sáng] -> khoái cảm gây ra lần này +90%.",
+              "10": "Nếu là [Thánh Kiếm - Mưa kiếm vàng] -> ban [thánh ngân] cho toàn bộ phe địch; nếu là [Dục Kiếm - Xung ánh sáng] -> khoái cảm gây ra lần này +95%.",
+              "11": "Nếu là [Thánh Kiếm - Mưa kiếm vàng] -> ban [thánh ngân] cho toàn bộ phe địch; nếu là [Dục Kiếm - Xung ánh sáng] -> khoái cảm gây ra lần này +100%.",
+              "12": "Nếu là [Thánh Kiếm - Mưa kiếm vàng] -> ban [thánh ngân] cho toàn bộ phe địch; nếu là [Dục Kiếm - Xung ánh sáng] -> khoái cảm gây ra lần này +105%.",
+              "13": "Nếu là [Thánh Kiếm - Mưa kiếm vàng] -> ban [thánh ngân] cho toàn bộ phe địch; nếu là [Dục Kiếm - Xung ánh sáng] -> khoái cảm gây ra lần này +110%.",
+              "14": "Nếu là [Thánh Kiếm - Mưa kiếm vàng] -> ban [thánh ngân] cho toàn bộ phe địch; nếu là [Dục Kiếm - Xung ánh sáng] -> khoái cảm gây ra lần này +115%.",
+              "15": "Nếu là [Thánh Kiếm - Mưa kiếm vàng] -> ban [thánh ngân] cho toàn bộ phe địch; nếu là [Dục Kiếm - Xung ánh sáng] -> khoái cảm gây ra lần này +120%."
+            },
+            "阶位": "Chuyển nghề"
+          },
+          {
+            "名称": "Kiếm kỹ chớp sáng và chuỗi đâm mượt mà",
+            "类型": "Chủ động",
+            "描述": "[Thánh Kiếm - Kiếm kỹ chớp sáng]: lập tức hóa thành ánh chớp liên hoàn đâm tới -> gây sát thương vật lý lên toàn bộ kẻ địch; [Dục Kiếm - Chuỗi đâm mượt mà]: lập tức tiến hành đâm rút tốc độ cao -> mất 20% giá trị phòng tuyến của bản thân -> gây khoái cảm vật lý lên một kẻ địch đơn lẻ",
+            "特殊效果": {
+              "1": "Nếu là [Thánh Kiếm - Kiếm kỹ chớp sáng] và mục tiêu đang trong [thánh ngân] -> xóa trạng thái đó; sau đó -> lập tức gây 1 lần sát thương bổ sung bằng sát thương của đòn này x 30%; nếu là [Dục Kiếm - Chuỗi đâm mượt mà] và trong hiệp này đã phóng [Dục Kiếm - Xung ánh sáng] -> lại gây 2 lần khoái cảm bổ sung bằng khoái cảm của đòn này x 25%.",
+              "2": "Nếu là [Thánh Kiếm - Kiếm kỹ chớp sáng] và mục tiêu đang trong [thánh ngân] -> xóa trạng thái đó; sau đó -> lập tức gây 1 lần sát thương bổ sung bằng sát thương của đòn này x 30%; nếu là [Dục Kiếm - Chuỗi đâm mượt mà] và trong hiệp này đã phóng [Dục Kiếm - Xung ánh sáng] -> lại gây 2 lần khoái cảm bổ sung bằng khoái cảm của đòn này x 25%.",
+              "3": "Nếu là [Thánh Kiếm - Kiếm kỹ chớp sáng] và mục tiêu đang trong [thánh ngân] -> xóa trạng thái đó; sau đó -> lập tức gây 1 lần sát thương bổ sung bằng sát thương của đòn này x 30%; nếu là [Dục Kiếm - Chuỗi đâm mượt mà] và trong hiệp này đã phóng [Dục Kiếm - Xung ánh sáng] -> lại gây 2 lần khoái cảm bổ sung bằng khoái cảm của đòn này x 25%.",
+              "4": "Nếu là [Thánh Kiếm - Kiếm kỹ chớp sáng] và mục tiêu đang trong [thánh ngân] -> xóa trạng thái đó; sau đó -> lập tức gây 1 lần sát thương bổ sung bằng sát thương của đòn này x 30%; nếu là [Dục Kiếm - Chuỗi đâm mượt mà] và trong hiệp này đã phóng [Dục Kiếm - Xung ánh sáng] -> lại gây 2 lần khoái cảm bổ sung bằng khoái cảm của đòn này x 30%.",
+              "5": "Nếu là [Thánh Kiếm - Kiếm kỹ chớp sáng] và mục tiêu đang trong [thánh ngân] -> xóa trạng thái đó; sau đó -> lập tức gây 1 lần sát thương bổ sung bằng sát thương của đòn này x 35%; nếu là [Dục Kiếm - Chuỗi đâm mượt mà] và trong hiệp này đã phóng [Dục Kiếm - Xung ánh sáng] -> lại gây 2 lần khoái cảm bổ sung bằng khoái cảm của đòn này x 30%.",
+              "6": "Nếu là [Thánh Kiếm - Kiếm kỹ chớp sáng] và mục tiêu đang trong [thánh ngân] -> xóa trạng thái đó; sau đó -> lập tức gây 1 lần sát thương bổ sung bằng sát thương của đòn này x 35%; nếu là [Dục Kiếm - Chuỗi đâm mượt mà] và trong hiệp này đã phóng [Dục Kiếm - Xung ánh sáng] -> lại gây 3 lần khoái cảm bổ sung bằng khoái cảm của đòn này x 30%.",
+              "7": "Nếu là [Thánh Kiếm - Kiếm kỹ chớp sáng] và mục tiêu đang trong [thánh ngân] -> xóa trạng thái đó; sau đó -> lập tức gây 1 lần sát thương bổ sung bằng sát thương của đòn này x 35%; nếu là [Dục Kiếm - Chuỗi đâm mượt mà] và trong hiệp này đã phóng [Dục Kiếm - Xung ánh sáng] -> lại gây 3 lần khoái cảm bổ sung bằng khoái cảm của đòn này x 35%.",
+              "8": "Nếu là [Thánh Kiếm - Kiếm kỹ chớp sáng] và mục tiêu đang trong [thánh ngân] -> xóa trạng thái đó; sau đó -> lập tức gây 1 lần sát thương bổ sung bằng sát thương của đòn này x 35%; nếu là [Dục Kiếm - Chuỗi đâm mượt mà] và trong hiệp này đã phóng [Dục Kiếm - Xung ánh sáng] -> lại gây 3 lần khoái cảm bổ sung bằng khoái cảm của đòn này x 35%.",
+              "9": "Nếu là [Thánh Kiếm - Kiếm kỹ chớp sáng] và mục tiêu đang trong [thánh ngân] -> xóa trạng thái đó; sau đó -> lập tức gây 1 lần sát thương bổ sung bằng sát thương của đòn này x 35%; nếu là [Dục Kiếm - Chuỗi đâm mượt mà] và trong hiệp này đã phóng [Dục Kiếm - Xung ánh sáng] -> lại gây 3 lần khoái cảm bổ sung bằng khoái cảm của đòn này x 35%.",
+              "10": "Nếu là [Thánh Kiếm - Kiếm kỹ chớp sáng] và mục tiêu đang trong [thánh ngân] -> xóa trạng thái đó; sau đó -> lập tức gây 1 lần sát thương bổ sung bằng sát thương của đòn này x 40%; nếu là [Dục Kiếm - Chuỗi đâm mượt mà] và trong hiệp này đã phóng [Dục Kiếm - Xung ánh sáng] -> lại gây 3 lần khoái cảm bổ sung bằng khoái cảm của đòn này x 40%.",
+              "11": "Nếu là [Thánh Kiếm - Kiếm kỹ chớp sáng] và mục tiêu đang trong [thánh ngân] -> xóa trạng thái đó; sau đó -> lập tức gây 2 lần sát thương bổ sung bằng sát thương của đòn này x 40%; nếu là [Dục Kiếm - Chuỗi đâm mượt mà] và trong hiệp này đã phóng [Dục Kiếm - Xung ánh sáng] -> lại gây 4 lần khoái cảm bổ sung bằng khoái cảm của đòn này x 40%.",
+              "12": "Nếu là [Thánh Kiếm - Kiếm kỹ chớp sáng] và mục tiêu đang trong [thánh ngân] -> xóa trạng thái đó; sau đó -> lập tức gây 2 lần sát thương bổ sung bằng sát thương của đòn này x 40%; nếu là [Dục Kiếm - Chuỗi đâm mượt mà] và trong hiệp này đã phóng [Dục Kiếm - Xung ánh sáng] -> lại gây 4 lần khoái cảm bổ sung bằng khoái cảm của đòn này x 40%.",
+              "13": "Nếu là [Thánh Kiếm - Kiếm kỹ chớp sáng] và mục tiêu đang trong [thánh ngân] -> xóa trạng thái đó; sau đó -> lập tức gây 2 lần sát thương bổ sung bằng sát thương của đòn này x 40%; nếu là [Dục Kiếm - Chuỗi đâm mượt mà] và trong hiệp này đã phóng [Dục Kiếm - Xung ánh sáng] -> lại gây 4 lần khoái cảm bổ sung bằng khoái cảm của đòn này x 45%.",
+              "14": "Nếu là [Thánh Kiếm - Kiếm kỹ chớp sáng] và mục tiêu đang trong [thánh ngân] -> xóa trạng thái đó; sau đó -> lập tức gây 2 lần sát thương bổ sung bằng sát thương của đòn này x 45%; nếu là [Dục Kiếm - Chuỗi đâm mượt mà] và trong hiệp này đã phóng [Dục Kiếm - Xung ánh sáng] -> lại gây 4 lần khoái cảm bổ sung bằng khoái cảm của đòn này x 45%.",
+              "15": "Nếu là [Thánh Kiếm - Kiếm kỹ chớp sáng] và mục tiêu đang trong [thánh ngân] -> xóa trạng thái đó; sau đó -> lập tức gây 2 lần sát thương bổ sung bằng sát thương của đòn này x 45%; nếu là [Dục Kiếm - Chuỗi đâm mượt mà] và trong hiệp này đã phóng [Dục Kiếm - Xung ánh sáng] -> lại gây 4 lần khoái cảm bổ sung bằng khoái cảm của đòn này x 45%."
+            },
+            "阶位": "Chuyển nghề"
+          },
+          {
+            "名称": "Khí phách nam tính",
+            "类型": "Đặc biệt",
+            "描述": "Chỉ có thể phóng khi đang trong sex battle; tỏa ra khí phách nam tính khiến đồng đội an tâm và khiến kẻ địch rung động, tăng toàn diện tố chất của bản thân.",
+            "特殊效果": {
+              "1": "Nhận [khí phách nam tính]: kiểm định Sức hấp dẫn +4; kiểm định Sức mạnh +4; khoái cảm cuối cùng +10%; kéo dài 3 hiệp.",
+              "2": "Nhận [khí phách nam tính]: kiểm định Sức hấp dẫn +4; kiểm định Sức mạnh +4; khoái cảm cuối cùng +12%; kéo dài 3 hiệp.",
+              "3": "Nhận [khí phách nam tính]: kiểm định Sức hấp dẫn +4; kiểm định Sức mạnh +4; khoái cảm cuối cùng +14%; kéo dài 3 hiệp.",
+              "4": "Nhận [khí phách nam tính]: kiểm định Sức hấp dẫn +4; kiểm định Sức mạnh +4; khoái cảm cuối cùng +16%; kéo dài 3 hiệp.",
+              "5": "Nhận [khí phách nam tính]: kiểm định Sức hấp dẫn +4; kiểm định Sức mạnh +4; khoái cảm cuối cùng +18%; kéo dài 3 hiệp.",
+              "6": "Nhận [khí phách nam tính]: kiểm định Sức hấp dẫn +4; kiểm định Sức mạnh +4; khoái cảm cuối cùng +20%; kéo dài 4 hiệp.",
+              "7": "Nhận [khí phách nam tính]: kiểm định Sức hấp dẫn +4; kiểm định Sức mạnh +4; khoái cảm cuối cùng +22%; kéo dài 4 hiệp.",
+              "8": "Nhận [khí phách nam tính]: kiểm định Sức hấp dẫn +4; kiểm định Sức mạnh +4; khoái cảm cuối cùng +24%; kéo dài 4 hiệp.",
+              "9": "Nhận [khí phách nam tính]: kiểm định Sức hấp dẫn +4; kiểm định Sức mạnh +4; khoái cảm cuối cùng +26%; kéo dài 4 hiệp.",
+              "10": "Nhận [khí phách nam tính]: kiểm định Sức hấp dẫn +4; kiểm định Sức mạnh +4; khoái cảm cuối cùng +28%; kéo dài 4 hiệp.",
+              "11": "Nhận [khí phách nam tính]: kiểm định Sức hấp dẫn +4; kiểm định Sức mạnh +4; khoái cảm cuối cùng +30%; kéo dài 5 hiệp.",
+              "12": "Nhận [khí phách nam tính]: kiểm định Sức hấp dẫn +4; kiểm định Sức mạnh +4; khoái cảm cuối cùng +32%; kéo dài 5 hiệp.",
+              "13": "Nhận [khí phách nam tính]: kiểm định Sức hấp dẫn +4; kiểm định Sức mạnh +4; khoái cảm cuối cùng +34%; kéo dài 5 hiệp.",
+              "14": "Nhận [khí phách nam tính]: kiểm định Sức hấp dẫn +4; kiểm định Sức mạnh +4; khoái cảm cuối cùng +36%; kéo dài 5 hiệp.",
+              "15": "Nhận [khí phách nam tính]: kiểm định Sức hấp dẫn +4; kiểm định Sức mạnh +4; khoái cảm cuối cùng +38%; kéo dài 5 hiệp."
+            },
+            "阶位": "Chuyển nghề"
+          }
+        ],
+        "进阶": [
+          {
+            "名称": "Tinh linh ánh sáng và dục linh ánh sáng",
+            "类型": "Triệu hồi",
+            "描述": "[Thánh Kiếm - Tinh linh ánh sáng]: triệu hồi tinh linh ánh sáng đi theo dũng giả, tự động tấn công kẻ địch và ban [thánh ngân vàng]; [Dục Kiếm - Dục linh ánh sáng]: triệu hồi dục linh ánh sáng ấm áp, tăng tốc tuần hoàn máu của đối phương, tự động tấn công kẻ địch và ban [hưng phấn].",
+            "召唤物名称": "Tinh linh ánh sáng / Dục linh ánh sáng (dựa theo Thánh Kiếm / Dục Kiếm để quyết định tên vật triệu hồi)",
+            "特殊效果": {
+              "1": "[Thánh ngân vàng / Hưng phấn]: sát thương cuối cùng / khoái cảm phải chịu +20%; AC-3; kéo dài 1 lượt.",
+              "2": "[Thánh ngân vàng / Hưng phấn]: sát thương cuối cùng / khoái cảm phải chịu +25%; AC-3; kéo dài 1 lượt.",
+              "3": "[Thánh ngân vàng / Hưng phấn]: sát thương cuối cùng / khoái cảm phải chịu +30%; AC-3; kéo dài 1 lượt.",
+              "4": "[Thánh ngân vàng / Hưng phấn]: sát thương cuối cùng / khoái cảm phải chịu +35%; AC-3; kéo dài 1 lượt.",
+              "5": "[Thánh ngân vàng / Hưng phấn]: sát thương cuối cùng / khoái cảm phải chịu +40%; AC-3; kéo dài 1 lượt.",
+              "6": "[Thánh ngân vàng / Hưng phấn]: sát thương cuối cùng / khoái cảm phải chịu +45%; AC-4; kéo dài 1 lượt.",
+              "7": "[Thánh ngân vàng / Hưng phấn]: sát thương cuối cùng / khoái cảm phải chịu +50%; AC-4; kéo dài 1 lượt.",
+              "8": "[Thánh ngân vàng / Hưng phấn]: sát thương cuối cùng / khoái cảm phải chịu +55%; AC-4; kéo dài 1 lượt.",
+              "9": "[Thánh ngân vàng / Hưng phấn]: sát thương cuối cùng / khoái cảm phải chịu +60%; AC-4; kéo dài 1 lượt.",
+              "10": "[Thánh ngân vàng / Hưng phấn]: sát thương cuối cùng / khoái cảm phải chịu +65%; AC-4; kéo dài 1 lượt."
+            },
+            "阶位": "Nâng cao"
+          },
+          {
+            "名称": "Đại kiếm ánh sáng và bùng lên cuồng loạn",
+            "类型": "Chủ động",
+            "描述": "[Thánh Kiếm - Đại kiếm ánh sáng]: Thánh Kiếm hóa thành đại kiếm ánh sáng chém thẳng xuống -> gây sát thương vật lý phạm vi lên toàn bộ kẻ địch; [Dục Kiếm - Bùng lên cuồng loạn]: dương vật dữ tợn phình lớn rồi bùng phát đâm rút -> gây khoái cảm vật lý mãnh liệt lên một kẻ địch đơn lẻ",
+            "特殊效果": {
+              "1": "Nếu là [Thánh Kiếm - Đại kiếm ánh sáng] và mục tiêu đang trong [thánh ngân vàng] -> kích nổ và xóa trạng thái đó; sau đó -> lập tức gây 1 lần sát thương bổ sung bằng sát thương của đòn này x 60%; nếu là [Dục Kiếm - Bùng lên cuồng loạn] và mục tiêu đang trong [hưng phấn] -> lập tức gây 1 lần khoái cảm bổ sung bằng khoái cảm của đòn này x 70% và chắc chắn bạo kích.",
+              "2": "Nếu là [Thánh Kiếm - Đại kiếm ánh sáng] và mục tiêu đang trong [thánh ngân vàng] -> kích nổ và xóa trạng thái đó; sau đó -> lập tức gây 1 lần sát thương bổ sung bằng sát thương của đòn này x 60%; nếu là [Dục Kiếm - Bùng lên cuồng loạn] và mục tiêu đang trong [hưng phấn] -> lập tức gây 1 lần khoái cảm bổ sung bằng khoái cảm của đòn này x 70% và chắc chắn bạo kích.",
+              "3": "Nếu là [Thánh Kiếm - Đại kiếm ánh sáng] và mục tiêu đang trong [thánh ngân vàng] -> kích nổ và xóa trạng thái đó; sau đó -> lập tức gây 1 lần sát thương bổ sung bằng sát thương của đòn này x 60%; nếu là [Dục Kiếm - Bùng lên cuồng loạn] và mục tiêu đang trong [hưng phấn] -> lập tức gây 1 lần khoái cảm bổ sung bằng khoái cảm của đòn này x 70% và chắc chắn bạo kích.",
+              "4": "Nếu là [Thánh Kiếm - Đại kiếm ánh sáng] và mục tiêu đang trong [thánh ngân vàng] -> kích nổ và xóa trạng thái đó; sau đó -> lập tức gây 1 lần sát thương bổ sung bằng sát thương của đòn này x 70%; nếu là [Dục Kiếm - Bùng lên cuồng loạn] và mục tiêu đang trong [hưng phấn] -> lập tức gây 1 lần khoái cảm bổ sung bằng khoái cảm của đòn này x 80% và chắc chắn bạo kích.",
+              "5": "Nếu là [Thánh Kiếm - Đại kiếm ánh sáng] và mục tiêu đang trong [thánh ngân vàng] -> kích nổ và xóa trạng thái đó; sau đó -> lập tức gây 1 lần sát thương bổ sung bằng sát thương của đòn này x 70%; nếu là [Dục Kiếm - Bùng lên cuồng loạn] và mục tiêu đang trong [hưng phấn] -> lập tức gây 1 lần khoái cảm bổ sung bằng khoái cảm của đòn này x 80% và chắc chắn bạo kích.",
+              "6": "Nếu là [Thánh Kiếm - Đại kiếm ánh sáng] và mục tiêu đang trong [thánh ngân vàng] -> kích nổ và xóa trạng thái đó; sau đó -> lập tức gây 2 lần sát thương bổ sung bằng sát thương của đòn này x 70%; nếu là [Dục Kiếm - Bùng lên cuồng loạn] và mục tiêu đang trong [hưng phấn] -> lập tức gây 2 lần khoái cảm bổ sung bằng khoái cảm của đòn này x 80% và chắc chắn bạo kích.",
+              "7": "Nếu là [Thánh Kiếm - Đại kiếm ánh sáng] và mục tiêu đang trong [thánh ngân vàng] -> kích nổ và xóa trạng thái đó; sau đó -> lập tức gây 2 lần sát thương bổ sung bằng sát thương của đòn này x 80%; nếu là [Dục Kiếm - Bùng lên cuồng loạn] và mục tiêu đang trong [hưng phấn] -> lập tức gây 2 lần khoái cảm bổ sung bằng khoái cảm của đòn này x 90% và chắc chắn bạo kích.",
+              "8": "Nếu là [Thánh Kiếm - Đại kiếm ánh sáng] và mục tiêu đang trong [thánh ngân vàng] -> kích nổ và xóa trạng thái đó; sau đó -> lập tức gây 2 lần sát thương bổ sung bằng sát thương của đòn này x 85%; nếu là [Dục Kiếm - Bùng lên cuồng loạn] và mục tiêu đang trong [hưng phấn] -> lập tức gây 2 lần khoái cảm bổ sung bằng khoái cảm của đòn này x 90% và chắc chắn bạo kích.",
+              "9": "Nếu là [Thánh Kiếm - Đại kiếm ánh sáng] và mục tiêu đang trong [thánh ngân vàng] -> kích nổ và xóa trạng thái đó; sau đó -> lập tức gây 2 lần sát thương bổ sung bằng sát thương của đòn này x 80%; nếu là [Dục Kiếm - Bùng lên cuồng loạn] và mục tiêu đang trong [hưng phấn] -> lập tức gây 2 lần khoái cảm bổ sung bằng khoái cảm của đòn này x 90% và chắc chắn bạo kích.",
+              "10": "Nếu là [Thánh Kiếm - Đại kiếm ánh sáng] và mục tiêu đang trong [thánh ngân vàng] -> kích nổ và xóa trạng thái đó; sau đó -> lập tức gây 2 lần sát thương bổ sung bằng sát thương của đòn này x 80%; nếu là [Dục Kiếm - Bùng lên cuồng loạn] và mục tiêu đang trong [hưng phấn] -> lập tức gây 2 lần khoái cảm bổ sung bằng khoái cảm của đòn này x 100% và chắc chắn bạo kích."
+            },
+            "阶位": "Nâng cao"
+          },
+          {
+            "名称": "Trái tim bất khuất",
+            "类型": "Đặc biệt nghề nghiệp",
+            "描述": "Phẩm chất cần thiết của một dũng giả: dù ở hoàn cảnh nào cũng sẽ không khuất phục, dù phải đốt cháy tất cả cũng phải đánh ngã đối phương!",
+            "特殊效果": {
+              "1": "Mỗi trận chiến giới hạn 1 lần; trong chiến đấu / sex battle -> sắp chết / thất bại -> lập tức kích hoạt; miễn dịch lần tử vong trong chiến đấu / thất bại sex battle này, sinh mệnh / giá trị phòng tuyến hồi tới 25%; sát thương / khoái cảm cuối cùng của cả địch và ta +500%, kéo dài tới khi chiến đấu kết thúc"
+            },
+            "阶位": "Nâng cao"
+          }
+        ],
+        "必杀": [
+          {
+            "名称": "Phán quyết thánh quang và thiên quang hiện lên",
+            "类型": "Chủ động",
+            "描述": "[Thánh Kiếm - Phán quyết thánh quang]: gọi chùm sáng bùng cháy oanh kích -> gây sát thương ma pháp lên toàn bộ kẻ địch; sau đó -> ban [nhật diệu] cho bản thân; [Dục Kiếm - Thiên quang hiện lên]: dựng nên viễn cảnh ánh sáng -> gây khoái cảm ma pháp lên một kẻ địch đơn lẻ; mục tiêu tiến hành miễn trừ Trí lực -> thất bại thì chìm vào vui sướng say mê và chủ động nghênh hợp; sau đó -> lại gây 1 lần khoái cảm ma pháp; ban [viễn cảnh mộng ảo] cho mục tiêu",
+            "特殊效果": {
+              "1": "[Nhật diệu]: kiểm định trúng đòn của toàn bộ phe địch -2; kéo dài tới khi chiến đấu kết thúc. [Viễn cảnh mộng ảo]: mỗi hiệp tiến hành miễn trừ Trí lực -> thành công thì giải trừ; trong thời gian đó AC=0; kháng tính=0; không thể hành động.",
+              "2": "[Nhật diệu]: kiểm định trúng đòn của toàn bộ phe địch -2; kéo dài tới khi chiến đấu kết thúc. [Viễn cảnh mộng ảo]: mỗi hiệp tiến hành miễn trừ Trí lực -> thành công thì giải trừ; trong thời gian đó AC=0; kháng tính=0; không thể hành động.",
+              "3": "[Nhật diệu]: kiểm định trúng đòn của toàn bộ phe địch -2; kéo dài tới khi chiến đấu kết thúc. [Viễn cảnh mộng ảo]: mỗi hiệp tiến hành miễn trừ Trí lực -> thành công thì giải trừ; trong thời gian đó AC=0; kháng tính=0; không thể hành động.",
+              "4": "[Nhật diệu]: kiểm định trúng đòn của toàn bộ phe địch -3; kéo dài tới khi chiến đấu kết thúc. [Viễn cảnh mộng ảo]: mỗi hiệp tiến hành miễn trừ Trí lực -> thành công thì giải trừ; trong thời gian đó AC=0; kháng tính=0; không thể hành động.",
+              "5": "[Nhật diệu]: kiểm định trúng đòn của toàn bộ phe địch -3; kéo dài tới khi chiến đấu kết thúc. [Viễn cảnh mộng ảo]: mỗi hiệp tiến hành miễn trừ Trí lực -> thành công thì giải trừ; trong thời gian đó AC=0; kháng tính=0; không thể hành động.",
+              "6": "[Nhật diệu]: kiểm định trúng đòn của toàn bộ phe địch -3; kéo dài tới khi chiến đấu kết thúc. [Viễn cảnh mộng ảo]: mỗi hiệp tiến hành miễn trừ Trí lực -> thành công thì giải trừ; trong thời gian đó AC=0; kháng tính=0; không thể hành động.",
+              "7": "[Nhật diệu]: kiểm định trúng đòn của toàn bộ phe địch -4; kéo dài tới khi chiến đấu kết thúc. [Viễn cảnh mộng ảo]: mỗi hiệp tiến hành miễn trừ Trí lực -> thành công thì giải trừ; trong thời gian đó AC=0; kháng tính=0; không thể hành động."
+            },
+            "阶位": "Tất sát"
+          },
+          {
+            "名称": "Kiếm thuật lăng kính và cú gõ thẳng trán",
+            "类型": "Chủ động",
+            "描述": "[Thánh Kiếm - Kiếm thuật lăng kính]: gây một lần sát thương vật lý -> vào trạng thái [Thánh Kiếm - Kiếm thuật lăng kính] -> kéo dài 3 hiệp; trong thời gian đó, nếu đòn tấn công của địch không trúng -> lập tức phản kích 1 lần; [Dục Kiếm - Cú gõ thẳng trán]: dùng dương vật gõ vào trán đối phương -> gây cảm giác nhục nhã và khoái cảm vật lý lên một kẻ địch đơn lẻ; nếu mục tiêu đang trong [viễn cảnh mộng ảo] -> gây thêm khoái cảm ma pháp",
+            "特殊效果": {
+              "1": "[Thánh Kiếm - Kiếm thuật lăng kính]: AC+2; sát thương vật lý do phản kích gây ra +20%. [Cú gõ thẳng trán]: nếu mục tiêu đang trong [viễn cảnh mộng ảo] -> xóa trạng thái đó; khoái cảm ma pháp lần này +200%; kèm khoái cảm ma pháp bằng 10% giá trị phòng tuyến hiện tại của mục tiêu.",
+              "2": "[Thánh Kiếm - Kiếm thuật lăng kính]: AC+2; sát thương vật lý do phản kích gây ra +30%. [Cú gõ thẳng trán]: nếu mục tiêu đang trong [viễn cảnh mộng ảo] -> xóa trạng thái đó; khoái cảm ma pháp lần này +220%; kèm khoái cảm ma pháp bằng 12% giá trị phòng tuyến hiện tại của mục tiêu.",
+              "3": "[Thánh Kiếm - Kiếm thuật lăng kính]: AC+2; sát thương vật lý do phản kích gây ra +40%. [Cú gõ thẳng trán]: nếu mục tiêu đang trong [viễn cảnh mộng ảo] -> xóa trạng thái đó; khoái cảm ma pháp lần này +240%; kèm khoái cảm ma pháp bằng 14% giá trị phòng tuyến hiện tại của mục tiêu.",
+              "4": "[Thánh Kiếm - Kiếm thuật lăng kính]: AC+3; sát thương vật lý do phản kích gây ra +50%. [Cú gõ thẳng trán]: nếu mục tiêu đang trong [viễn cảnh mộng ảo] -> xóa trạng thái đó; khoái cảm ma pháp lần này +260%; kèm khoái cảm ma pháp bằng 16% giá trị phòng tuyến hiện tại của mục tiêu.",
+              "5": "[Thánh Kiếm - Kiếm thuật lăng kính]: AC+3; sát thương vật lý do phản kích gây ra +60%. [Cú gõ thẳng trán]: nếu mục tiêu đang trong [viễn cảnh mộng ảo] -> xóa trạng thái đó; khoái cảm ma pháp lần này +280%; kèm khoái cảm ma pháp bằng 18% giá trị phòng tuyến hiện tại của mục tiêu.",
+              "6": "[Thánh Kiếm - Kiếm thuật lăng kính]: AC+3; sát thương vật lý do phản kích gây ra +70%. [Cú gõ thẳng trán]: nếu mục tiêu đang trong [viễn cảnh mộng ảo] -> xóa trạng thái đó; khoái cảm ma pháp lần này +300%; kèm khoái cảm ma pháp bằng 20% giá trị phòng tuyến hiện tại của mục tiêu.",
+              "7": "[Thánh Kiếm - Kiếm thuật lăng kính]: AC+4; sát thương vật lý do phản kích gây ra +80%. [Cú gõ thẳng trán]: nếu mục tiêu đang trong [viễn cảnh mộng ảo] -> xóa trạng thái đó; khoái cảm ma pháp lần này +320%; kèm khoái cảm ma pháp bằng 24% giá trị phòng tuyến hiện tại của mục tiêu."
+            },
+            "阶位": "Tất sát"
+          },
+          {
+            "名称": "Chính nghĩa tất thắng và chế tài tội lỗi",
+            "类型": "Đặc biệt nghề nghiệp",
+            "描述": "[Thánh Kiếm - Chính nghĩa tất thắng]: vào chiến đấu -> lập tức nhận [Thánh Kiếm - Chính nghĩa tất thắng]; [Dục Kiếm - Chế tài tội lỗi]: vào sex battle -> lập tức nhận [Dục Kiếm - Chế tài tội lỗi]",
+            "特殊效果": {
+              "1": "[Thánh Kiếm - Chính nghĩa tất thắng]: nếu mục tiêu là ma vật / sứ đồ, hoặc hành vi của {{user}} thuộc [tự vệ] / [cứu trợ] / [thảo phạt] -> mọi sát thương bỏ qua kháng tính của mục tiêu; [Dục Kiếm - Chế tài tội lỗi]: nếu mục tiêu là ma vật nương -> mọi khoái cảm bỏ qua kháng tính của mục tiêu"
+            },
+            "阶位": "Tất sát"
+          }
+        ],
+        "奥义": [
+          {
+            "名称": "Thần hộ của nữ thần và cái nắm của mị thần",
+            "类型": "Chủ động",
+            "描述": "[Thánh Kiếm - Thần hộ của nữ thần]: triệu hồi hư ảnh nữ thần vươn hai tay nắm lấy Thánh Kiếm Dũng Giả và hỗ trợ vung chém -> gây sát thương ma pháp lên toàn bộ kẻ địch và ban [Thánh Kiếm - Thần hộ của nữ thần] cho bản thân; [Cái nắm của mị thần]: triệu hồi hư ảnh nữ thần vươn hai tay nắm lấy Dục Kiếm Dũng Giả và hỗ trợ đâm rút -> gây khoái cảm ma pháp lên một kẻ địch đơn lẻ và ban [Dục Kiếm - Cái nắm của mị thần] cho bản thân",
+            "特殊效果": {
+              "1": "[Thánh Kiếm - Thần hộ của nữ thần]: sát thương phải chịu giảm 15%; kéo dài 3 lượt. [Dục Kiếm - Cái nắm của mị thần]: khoái cảm phải chịu giảm 20%; khoái cảm gây ra +32%; kéo dài 3 lượt.",
+              "2": "[Thánh Kiếm - Thần hộ của nữ thần]: sát thương phải chịu giảm 20%; kéo dài 3 lượt. [Dục Kiếm - Cái nắm của mị thần]: khoái cảm phải chịu giảm 25%; khoái cảm gây ra +34%; kéo dài 3 lượt.",
+              "3": "[Thánh Kiếm - Thần hộ của nữ thần]: sát thương phải chịu giảm 25%; kéo dài 3 lượt. [Dục Kiếm - Cái nắm của mị thần]: khoái cảm phải chịu giảm 30%; khoái cảm gây ra +36%; kéo dài 3 lượt.",
+              "4": "[Thánh Kiếm - Thần hộ của nữ thần]: sát thương phải chịu giảm 30%; kéo dài 3 lượt. [Dục Kiếm - Cái nắm của mị thần]: khoái cảm phải chịu giảm 35%; khoái cảm gây ra +38%; kéo dài 3 lượt.",
+              "5": "[Thánh Kiếm - Thần hộ của nữ thần]: sát thương phải chịu giảm 35%; kéo dài 3 lượt. [Dục Kiếm - Cái nắm của mị thần]: khoái cảm phải chịu giảm 40%; khoái cảm gây ra +40%; kéo dài 3 lượt."
+            },
+            "阶位": "Áo nghĩa"
+          },
+          {
+            "名称": "Giải phóng ánh sáng và giải phóng dục tính",
+            "类型": "Chủ động",
+            "描述": "[Thánh Kiếm - Giải phóng ánh sáng]: cần đang có [Thánh Kiếm - Thần hộ của nữ thần] -> gây sát thương vật lý lên toàn bộ kẻ địch; [Dục Kiếm - Giải phóng dục tính]: cần đang có [Dục Kiếm - Cái nắm của mị thần] -> gây khoái cảm vật lý lên một kẻ địch đơn lẻ",
+            "特殊效果": {
+              "1": "[Thánh Kiếm - Giải phóng ánh sáng]: xóa [Thánh Kiếm - Thần hộ của nữ thần]; đòn này kèm sát thương chuẩn bằng 26% sinh mệnh tối đa của mục tiêu. [Dục Kiếm - Giải phóng dục tính]: xóa [Dục Kiếm - Cái nắm của mị thần]; đòn này kèm khoái cảm chuẩn bằng 30% sinh mệnh tối đa của mục tiêu.",
+              "2": "[Thánh Kiếm - Giải phóng ánh sáng]: xóa [Thánh Kiếm - Thần hộ của nữ thần]; đòn này kèm sát thương chuẩn bằng 28% sinh mệnh tối đa của mục tiêu. [Dục Kiếm - Giải phóng dục tính]: xóa [Dục Kiếm - Cái nắm của mị thần]; đòn này kèm khoái cảm chuẩn bằng 32% sinh mệnh tối đa của mục tiêu.",
+              "3": "[Thánh Kiếm - Giải phóng ánh sáng]: xóa [Thánh Kiếm - Thần hộ của nữ thần]; đòn này kèm sát thương chuẩn bằng 30% sinh mệnh tối đa của mục tiêu. [Dục Kiếm - Giải phóng dục tính]: xóa [Dục Kiếm - Cái nắm của mị thần]; đòn này kèm khoái cảm chuẩn bằng 34% sinh mệnh tối đa của mục tiêu.",
+              "4": "[Thánh Kiếm - Giải phóng ánh sáng]: xóa [Thánh Kiếm - Thần hộ của nữ thần]; đòn này kèm sát thương chuẩn bằng 32% sinh mệnh tối đa của mục tiêu. [Dục Kiếm - Giải phóng dục tính]: xóa [Dục Kiếm - Cái nắm của mị thần]; đòn này kèm khoái cảm chuẩn bằng 36% sinh mệnh tối đa của mục tiêu.",
+              "5": "[Thánh Kiếm - Giải phóng ánh sáng]: xóa [Thánh Kiếm - Thần hộ của nữ thần]; đòn này kèm sát thương chuẩn bằng 34% sinh mệnh tối đa của mục tiêu. [Dục Kiếm - Giải phóng dục tính]: xóa [Dục Kiếm - Cái nắm của mị thần]; đòn này kèm khoái cảm chuẩn bằng 38% sinh mệnh tối đa của mục tiêu."
+            },
+            "阶位": "Áo nghĩa"
+          },
+          {
+            "名称": "Dư ngân ánh sáng và dư vận dục tính",
+            "类型": "Đặc biệt",
+            "描述": "[Thánh Kiếm - Dư ngân ánh sáng]: chỉ có thể phóng sau khi đã phóng [Thánh Kiếm - Giải phóng ánh sáng]; khiến mục tiêu tiến hành kiểm định [thiện hóa]; [Dục Kiếm - Dư vận dục tính]: chỉ có thể phóng sau khi đã phóng [Dục Kiếm - Giải phóng dục tính]; khiến mục tiêu tiến hành kiểm định [ác hóa]",
+            "特殊效果": {
+              "1": "[Thiện hóa]: lần lượt tiến hành một lần miễn trừ [Trí lực] và [Sức hấp dẫn]; nếu bất kỳ lần nào thất bại, xem như chiến bại và gia nhập phe dũng giả để hỗ trợ chiến đấu; [Ác hóa]: lần lượt tiến hành một lần miễn trừ [Thể chất], [Trí lực] và [Sức hấp dẫn]; nếu bất kỳ lần nào thất bại, xem như thua trận vì cao trào và gia nhập phe dũng giả để hỗ trợ sex battle"
+            },
+            "阶位": "Áo nghĩa"
+          }
+        ],
+        "觉醒一": [
+          {
+            "名称": "Excalibur!",
+            "类型": "Chủ động",
+            "阶位": "Thức tỉnh một",
+            "描述": "[Thánh Kiếm - Excalibur!]: đẩy ánh huy hoàng của Thánh Kiếm tới cực hạn, dùng vầng kiếm quang rực rỡ xông thẳng lên trời rồi ầm ầm chém xuống, gây sát thương chuẩn lên toàn bộ kẻ địch",
+            "特殊效果": {
+              "1": "Sau khi trúng, sát thương gây ra tác dụng trực tiếp lên sinh mệnh của mục tiêu; sát thương này không chịu ảnh hưởng bởi bất kỳ hiệu quả giảm miễn, hấp thu hoặc phòng ngự nào.",
+              "2": "Sau khi trúng, sát thương gây ra tác dụng trực tiếp lên sinh mệnh của mục tiêu; sát thương này không chịu ảnh hưởng bởi bất kỳ hiệu quả giảm miễn, hấp thu hoặc phòng ngự nào.",
+              "3": "Sau khi trúng, sát thương gây ra tác dụng trực tiếp lên sinh mệnh của mục tiêu; sát thương này không chịu ảnh hưởng bởi bất kỳ hiệu quả giảm miễn, hấp thu hoặc phòng ngự nào."
+            }
+          }
+        ],
+        "觉醒二": [
+          {
+            "名称": "Ăn Excalibur của tôi này!",
+            "类型": "Chủ động",
+            "阶位": "Thức tỉnh hai",
+            "描述": "[Dục Kiếm - Ăn Excalibur của tôi này!]: giải phóng triệt để sức mạnh cấm kỵ của Dục Kiếm. Dùng dương vật hùng vĩ nổi gân ầm ầm đâm vào, gây khoái cảm chuẩn lên một kẻ địch đơn lẻ",
+            "特殊效果": {
+              "1": "Sau khi trúng, sát thương gây ra tác dụng trực tiếp lên sinh mệnh của mục tiêu; sát thương này không chịu ảnh hưởng bởi bất kỳ hiệu quả giảm miễn, hấp thu hoặc phòng ngự nào.",
+              "2": "Sau khi trúng, sát thương gây ra tác dụng trực tiếp lên sinh mệnh của mục tiêu; sát thương này không chịu ảnh hưởng bởi bất kỳ hiệu quả giảm miễn, hấp thu hoặc phòng ngự nào.",
+              "3": "Sau khi trúng, sát thương gây ra tác dụng trực tiếp lên sinh mệnh của mục tiêu; sát thương này không chịu ảnh hưởng bởi bất kỳ hiệu quả giảm miễn, hấp thu hoặc phòng ngự nào."
+            }
+          }
+        ],
+        "觉醒三": [
+          {
+            "名称": "Tính thánh · Truyền thuyết dũng giả thời đại mới",
+            "类型": "Đặc biệt",
+            "阶位": "Thức tỉnh ba",
+            "描述": "Kỹ năng này đồng thời thuộc hệ [Thánh Kiếm] và [Dục Kiếm]; đạt tới cảnh giới tối thượng thống nhất Thánh Kiếm và Dục Kiếm, vượt lên trên pháp tắc quyết đấu, khiến chiến đấu và sex battle hợp làm một, hình thành cục diện quyết đấu đặc biệt cưỡng chế sex battle",
+            "特殊效果": {
+              "1": "Sau khi thức tỉnh -> cưỡng chế tiến vào trường vực [cuộc quyết đấu dũng giả thời đại mới]; bỏ qua chủng tộc / giới tính / ngoại hình của mục tiêu; cưỡng chế nữ hóa và định nghĩa là [ma vật nương]; phong ấn mọi thủ đoạn chiến đấu thường quy của mục tiêu và cưỡng chế tiến vào sex battle. Trong trạng thái sex battle, khi phe ta gây khoái cảm lên mục tiêu -> mục tiêu tiến hành phán định D2; kết quả = 1 -> không hiệu quả; kết quả = 2 -> mục tiêu vui sướng tới mức lạc mất bản thân, hiệp này không thể hành động; trường vực kéo dài tới khi chiến đấu kết thúc.",
+              "2": "Sau khi thức tỉnh -> cưỡng chế tiến vào trường vực [cuộc quyết đấu dũng giả thời đại mới]; bỏ qua chủng tộc / giới tính / ngoại hình của mục tiêu; cưỡng chế nữ hóa và định nghĩa là [ma vật nương]; phong ấn mọi thủ đoạn chiến đấu thường quy của mục tiêu và cưỡng chế tiến vào sex battle. Trong trạng thái sex battle, khi phe ta gây khoái cảm lên mục tiêu -> mục tiêu tiến hành phán định D4; kết quả = 1 -> không hiệu quả; kết quả = 2-4 -> mục tiêu vui sướng tới mức lạc mất bản thân, hiệp này không thể hành động; trường vực kéo dài tới khi chiến đấu kết thúc."
+            }
+          }
+        ]
+      },
+      "skillTreeForClass": "Dũng giả",
+      "lockedSkillMap": {},
+      "skillFlavorInput": "",
+      "teammates": [],
+      "customTeammate": null,
+      "selectedTraits": [
+        "Đầu đội chum",
+        "Mềm lòng"
+      ],
+      "customTraits": [
+        {
+          "name": "Chứng nhận dũng giả",
+          "effect": "Nhận trạng thái [chứng nhận dũng giả] vĩnh viễn: kiểm định Sức mạnh +2; kiểm định Nhanh nhẹn +2; kiểm định Thể chất +2; kiểm định Sức hấp dẫn +2; nếu đang trong sex battle thì cộng thêm trị số của trạng thái này tăng gấp đôi. Các hành vi như bước vào nhà dân để lục lọi / lục hòm lật tủ / đập chum lấy rương báu sẽ bị mọi người khó hiểu xem là hành vi chính đáng, không dẫn tới địch ý hoặc cản trở."
+        },
+        {
+          "name": "Trong trẻo ngọt ngào",
+          "effect": "Kiểm định Sức hấp dẫn +6; ngoài vẻ nhỏ nhắn đáng yêu, còn có cảm giác thiếu nữ trong trẻo với răng trắng mắt sáng, khiến người ta không nhịn được mà ngoái nhìn."
+        }
+      ],
+      "customExpertise": [],
+      "customIdentity": {
+        "enabled": true,
+        "name": "Dũng giả đến từ dị giới",
+        "desc": "Một dũng giả đến từ dị giới đầy rẫy ma vật nương. Sau khi nhận được chúc phúc của hai nữ thần song sinh, cậu được Tetto triệu hồi tới thế giới này. Biết được nơi đây cũng có tai họa ma vật nương, cậu dứt khoát bước lên hành trình thảo phạt ma vật nương mới.",
+        "tierIndex": 3
+      },
+      "selectedOpening": "traverse",
+      "customOpeningText": "",
+      "selectedDifficulty": "normal",
+      "customRace": null
+    }
+  }
+}

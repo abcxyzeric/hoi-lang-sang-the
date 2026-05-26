@@ -1,0 +1,41 @@
+{
+  "ok": true,
+  "preset": {
+    "id": "507881bd-ed27-4bf3-a866-7dce807dde7b",
+    "ownerId": "1429093155424309248",
+    "ownerName": "Cảnh",
+    "author": "Cảnh",
+    "authorAvatar": "https://cdn.discordapp.com/avatars/1429093155424309248/c2ee46fc25af9df7c158c318e0cded34.png?size=128",
+    "name": "Namikaze Minato",
+    "title": "Namikaze Minato",
+    "intro": "Đã chỉnh nội tại Tia Chớp Vàng.\nCập nhật mô tả “Kunai Phi Lôi Thần”.\nCây kỹ năng được thiết kế tham chiếu hai giai đoạn “Namikaze Minato vẫn chưa chết” và “Namikaze Minato được Uế Thổ Chuyển Sinh”.\nĐây là một nghề sát thủ linh hoạt, cường hóa kỹ năng bằng cách cộng dồn buff như [Tia Chớp], [Thuật thức Phi Lôi Thần], v.v.; [Tia Chớp] còn có thể kích hoạt phản đòn nữa.\n\nBản thân nhân vật có sẵn thiết lập xuất thân tùy chỉnh; nếu không muốn nhập vai mà chỉ muốn chơi nghề thì cũng hoàn toàn không vấn đề.",
+    "coverUrl": "/api/presets/507881bd-ed27-4bf3-a866-7dce807dde7b/cover",
+    "className": "Đệ Tứ Hokage",
+    "race": "Nhân loại chủng",
+    "tags": [
+      "Chơi vui",
+      "Bộc phát",
+      "Đơn mục tiêu",
+      "Triệu hồi",
+      "Naruto"
+    ],
+    "likes": 2,
+    "liked": false,
+    "downloads": 65,
+    "status": "published",
+    "createdAt": "2026-03-23 13:07:28",
+    "updatedAt": "2026-05-20 18:41:54",
+    "lastLikedAt": "",
+    "presetData": {
+      "name": "Namikaze Minato",
+      "class": "Đệ Tứ Hokage",
+      "customClassName": "Đệ Tứ Hokage",
+      "race": "Nhân loại chủng",
+      "customRace": null,
+      "customClassStyle": "Một ninja cường hóa uy lực kỹ năng bằng cách chồng tầng [Tia Chớp], giỏi dùng Phi Lôi Thần để linh hoạt trêu đùa đối thủ, rồi dùng Rasengan để phá vỡ mục tiêu đơn",
+      "backstory": "",
+      "selectedCustomLevel": 1
+    },
+    "downloadUrl": "/api/presets/507881bd-ed27-4bf3-a866-7dce807dde7b/file"
+  }
+}

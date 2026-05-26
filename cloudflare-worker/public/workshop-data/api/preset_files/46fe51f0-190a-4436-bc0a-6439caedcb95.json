@@ -1,0 +1,479 @@
+{
+  "exportedAt": "2026-03-20T03:17:08.030Z",
+  "version": "1.0",
+  "preset": {
+    "id": "1773976625636",
+    "name": "Cổ Nguyệt Phương Nguyên",
+    "timestamp": 1773976625636,
+    "createdAt": 1773976625636,
+    "updatedAt": 1773976625636,
+    "data": {
+      "name": "Cổ Nguyệt Phương Nguyên",
+      "gender": "Nam",
+      "age": 18,
+      "race": "__custom__",
+      "identity": "Kẻ bại trận vô danh",
+      "avatar": "data:image/webp;base64,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",
+      "attributes": {
+        "strength": 10,
+        "dexterity": 10,
+        "constitution": 10,
+        "intelligence": 10,
+        "wisdom": 10,
+        "charisma": 10
+      },
+      "backstory": "",
+      "selectedLevelMode": "native",
+      "selectedCustomLevel": null,
+      "selectedSpawnPoint": "Tầng dưới thành phố vách Cảng Hoàn Uyên · bờ biển ngoại vi",
+      "class": "Đại Ái Tiên Tôn",
+      "selectedBaseClass": "Nghề tùy chỉnh",
+      "customClassName": "Đại Ái Tiên Tôn",
+      "customClassStyle": "Sát chiêu, cổ trùng, toàn diện",
+      "customClassWeapon": "Cổ",
+      "customClassCombatStyle": "Kiểu hỗn hợp",
+      "skillTree": {
+        "基础": [
+          {
+            "名称": "Nguyệt Quang Cổ · Loạn Vũ",
+            "类型": "Chủ động",
+            "描述": "Điều khiển Nguyệt Quang Cổ, bắn ra nhiều lưỡi đao ánh trăng cong sắc bén. Đây là đòn bắn cơ bản và tiêu hao mở tay.",
+            "特殊效果": {
+              "1": "Sau khi trúng, mục tiêu thực hiện miễn trừ Nhanh nhẹn; nếu thất bại, tốc độ di chuyển giảm 10 xích, kéo dài 1 vòng.",
+              "2": "Sau khi trúng, mục tiêu thực hiện miễn trừ Nhanh nhẹn; nếu thất bại, tốc độ giảm 10 xích; sát thương cuối cùng lần này +5%.",
+              "3": "Sau khi trúng, mục tiêu thực hiện miễn trừ Nhanh nhẹn; nếu thất bại, tốc độ giảm 10 xích; sát thương cuối cùng lần này +10%.",
+              "4": "Sau khi trúng, mục tiêu thực hiện miễn trừ Nhanh nhẹn; nếu thất bại, tốc độ giảm 10 xích; sát thương cuối cùng lần này +10%, kèm đẩy lùi nhẹ.",
+              "5": "Sau khi trúng, mục tiêu thực hiện miễn trừ Nhanh nhẹn; nếu thất bại, tốc độ giảm 15 xích; sát thương cuối cùng lần này +15%, kèm đẩy lùi nhẹ.",
+              "6": "Sau khi trúng, mục tiêu thực hiện miễn trừ Nhanh nhẹn; nếu thất bại, tốc độ giảm 15 xích; sát thương cuối cùng lần này +15%; kiểm định trúng đòn lên mục tiêu đang bị giảm tốc +1.",
+              "7": "Sau khi trúng, mục tiêu thực hiện miễn trừ Nhanh nhẹn; nếu thất bại, tốc độ giảm 15 xích; sát thương cuối cùng lần này +20%; kiểm định trúng đòn lên mục tiêu đang bị giảm tốc +1.",
+              "8": "Sau khi trúng, mục tiêu thực hiện miễn trừ Nhanh nhẹn; nếu thất bại, tốc độ giảm 15 xích; sát thương cuối cùng lần này +20%; kiểm định trúng đòn lên mục tiêu đang bị giảm tốc +2.",
+              "9": "Sau khi trúng, mục tiêu thực hiện miễn trừ Nhanh nhẹn; nếu thất bại, tốc độ giảm 15 xích; sát thương cuối cùng lần này +25%; kiểm định trúng đòn lên mục tiêu đang bị giảm tốc +2.",
+              "10": "Sau khi trúng, mục tiêu thực hiện miễn trừ Nhanh nhẹn; nếu thất bại, tốc độ giảm 20 xích; sát thương cuối cùng lần này +25%; kiểm định trúng đòn lên mục tiêu đang bị giảm tốc +2, tỷ lệ bạo kích tăng 5%.",
+              "11": "Sau khi trúng, mục tiêu thực hiện miễn trừ Nhanh nhẹn; nếu thất bại, tốc độ giảm 20 xích; sát thương cuối cùng lần này +30%; kiểm định trúng đòn lên mục tiêu đang bị giảm tốc +2, tỷ lệ bạo kích tăng 5%.",
+              "12": "Sau khi trúng, mục tiêu thực hiện miễn trừ Nhanh nhẹn; nếu thất bại, tốc độ giảm 20 xích; sát thương cuối cùng lần này +30%; kiểm định trúng đòn lên mục tiêu đang bị giảm tốc +2, tỷ lệ bạo kích tăng 10%.",
+              "13": "Sau khi trúng, mục tiêu thực hiện miễn trừ Nhanh nhẹn; nếu thất bại, tốc độ giảm 20 xích; sát thương cuối cùng lần này +35%; kiểm định trúng đòn lên mục tiêu đang bị giảm tốc +2, tỷ lệ bạo kích tăng 10%.",
+              "14": "Sau khi trúng, mục tiêu thực hiện miễn trừ Nhanh nhẹn; nếu thất bại, tốc độ giảm 20 xích; sát thương cuối cùng lần này +35%; kiểm định trúng đòn lên mục tiêu đang bị giảm tốc +3, tỷ lệ bạo kích tăng 10%.",
+              "15": "Sau khi trúng, mục tiêu thực hiện miễn trừ Nhanh nhẹn; nếu thất bại, tốc độ giảm 30 xích (gần như cấm túc); sát thương cuối cùng lần này +40%; kiểm định trúng đòn lên mục tiêu đang bị giảm tốc +3. Nếu trúng mục tiêu đang ở trong [Trận Dây Leo], lưỡi đao ánh sáng sẽ nảy sang thêm 2 mục tiêu."
+            },
+            "阶位": "Cơ bản"
+          },
+          {
+            "名称": "Huyết Nguyệt Cổ · Trảm Kích",
+            "类型": "Chủ động",
+            "描述": "Dung hợp huyết đạo và nguyệt đạo, chém ra khí nhận đỏ thẫm, xé rách thân thể và gây chảy máu. Dùng để áp đặt dấu hiệu [Chảy máu].",
+            "特殊效果": {
+              "1": "Sau khi trúng, áp đặt trạng thái [Chảy máu]; mỗi vòng chịu một lượng nhỏ sát thương chuẩn, kéo dài 2 vòng.",
+              "2": "Sau khi trúng, áp đặt trạng thái [Chảy máu], kéo dài 2 vòng; sát thương cuối cùng lần này +5%.",
+              "3": "Sau khi trúng, áp đặt trạng thái [Chảy máu], kéo dài 2 vòng; sát thương cuối cùng lần này +10%.",
+              "4": "Sau khi trúng, áp đặt trạng thái [Chảy máu], kéo dài 3 vòng; sát thương cuối cùng lần này +10%.",
+              "5": "Sau khi trúng, áp đặt trạng thái [Chảy máu], kéo dài 3 vòng; sát thương cuối cùng lần này +15%.",
+              "6": "Sau khi trúng, áp đặt trạng thái [Chảy máu], kéo dài 3 vòng; sát thương cuối cùng lần này +15%; khi trúng mục tiêu đang [Chảy máu], phạm vi trọng kích của lần công kích này đổi thành 19-20.",
+              "7": "Sau khi trúng, áp đặt trạng thái [Chảy máu], kéo dài 3 vòng; sát thương cuối cùng lần này +20%; phạm vi trọng kích đổi thành 19-20.",
+              "8": "Sau khi trúng, áp đặt trạng thái [Chảy máu], kéo dài 3 vòng; sát thương cuối cùng lần này +20%; phạm vi trọng kích đổi thành 18-20.",
+              "9": "Sau khi trúng, áp đặt trạng thái [Chảy máu], kéo dài 3 vòng; sát thương cuối cùng lần này +25%; phạm vi trọng kích đổi thành 18-20.",
+              "10": "Sau khi trúng, áp đặt trạng thái [Chảy máu], kéo dài 4 vòng; sát thương cuối cùng lần này +25%; phạm vi trọng kích đổi thành 18-20, đồng thời sát thương chảy máu nhân đôi khi bạo kích.",
+              "11": "Sau khi trúng, áp đặt trạng thái [Chảy máu], kéo dài 4 vòng; sát thương cuối cùng lần này +30%; phạm vi trọng kích đổi thành 18-20, sát thương chảy máu bạo kích nhân đôi.",
+              "12": "Sau khi trúng, áp đặt trạng thái [Chảy máu], kéo dài 4 vòng; sát thương cuối cùng lần này +30%; phạm vi trọng kích đổi thành 17-20, sát thương chảy máu bạo kích nhân đôi.",
+              "13": "Sau khi trúng, áp đặt trạng thái [Chảy máu], kéo dài 4 vòng; sát thương cuối cùng lần này +35%; phạm vi trọng kích đổi thành 17-20, sát thương chảy máu bạo kích nhân đôi.",
+              "14": "Sau khi trúng, áp đặt trạng thái [Chảy máu], kéo dài 4 vòng; sát thương cuối cùng lần này +35%; phạm vi trọng kích đổi thành 17-20, khi bạo kích hồi phục một phần nhỏ sinh mệnh dựa trên số tầng chảy máu.",
+              "15": "Sau khi trúng, áp đặt trạng thái [Chảy máu] sâu, kéo dài 5 vòng; sát thương cuối cùng lần này +40%; phạm vi trọng kích đổi thành 16-20. Khi bạo kích có thể kích nổ toàn bộ trạng thái chảy máu trên người mục tiêu, gây sát thương bộc phát lớn một lần và hút máu."
+            },
+            "阶位": "Cơ bản"
+          },
+          {
+            "名称": "Khô Đằng Cổ · Trận Trói",
+            "类型": "Chủ động",
+            "描述": "Thúc sinh dây leo trong khu vực chỉ định, tạo địa hình [Trận Dây Leo] để hạn chế di chuyển của kẻ địch. Đây là kỹ năng trải sân mở đầu cốt lõi.",
+            "特殊效果": {
+              "1": "Tạo địa hình [Trận Dây Leo] 2×2 ô; kẻ địch đi vào trong đó chịu kiểm định Nhanh nhẹn -1, kéo dài 2 vòng.",
+              "2": "Tạo địa hình [Trận Dây Leo] 2×2 ô; kiểm định Nhanh nhẹn -1, sát thương cuối cùng mục tiêu phải chịu +5%, kéo dài 2 vòng.",
+              "3": "Tạo địa hình [Trận Dây Leo] 2×2 ô; kiểm định Nhanh nhẹn -1, sát thương cuối cùng mục tiêu phải chịu +10%, kéo dài 2 vòng.",
+              "4": "Tạo địa hình [Trận Dây Leo] 3×3 ô; kiểm định Nhanh nhẹn -1, sát thương cuối cùng mục tiêu phải chịu +10%, kéo dài 3 vòng.",
+              "5": "Tạo địa hình [Trận Dây Leo] 3×3 ô; kiểm định Nhanh nhẹn -1, sát thương cuối cùng mục tiêu phải chịu +15%, kéo dài 3 vòng.",
+              "6": "Tạo địa hình [Trận Dây Leo] 3×3 ô; kiểm định Nhanh nhẹn -2, sát thương cuối cùng mục tiêu phải chịu +15%, kéo dài 3 vòng.",
+              "7": "Tạo địa hình [Trận Dây Leo] 3×3 ô; kiểm định Nhanh nhẹn -2, sát thương cuối cùng mục tiêu phải chịu +20%, kéo dài 3 vòng.",
+              "8": "Tạo địa hình [Trận Dây Leo] 3×3 ô; kiểm định Nhanh nhẹn -2, sát thương cuối cùng mục tiêu phải chịu +20%. Khi đi vào, mục tiêu cần miễn trừ Thể chất; thất bại sẽ bị [Quấn trói] 1 vòng, địa hình kéo dài 3 vòng.",
+              "9": "Tạo địa hình [Trận Dây Leo] 3×3 ô; kiểm định Nhanh nhẹn -2, sát thương cuối cùng mục tiêu phải chịu +25%; miễn trừ thất bại sẽ bị [Quấn trói] 1 vòng, kéo dài 3 vòng.",
+              "10": "Tạo địa hình [Trận Dây Leo] 4×4 ô; kiểm định Nhanh nhẹn -3, sát thương cuối cùng mục tiêu phải chịu +25%; miễn trừ thất bại sẽ bị [Quấn trói] 1 vòng, kéo dài 4 vòng.",
+              "11": "Tạo địa hình [Trận Dây Leo] 4×4 ô; kiểm định Nhanh nhẹn -3, sát thương cuối cùng mục tiêu phải chịu +30%; miễn trừ thất bại sẽ bị [Quấn trói] 1 vòng, kéo dài 4 vòng.",
+              "12": "Tạo địa hình [Trận Dây Leo] 4×4 ô; kiểm định Nhanh nhẹn -3, sát thương cuối cùng mục tiêu phải chịu +30%; miễn trừ thất bại sẽ bị [Quấn trói] 1 vòng và kèm trúng độc, kéo dài 4 vòng.",
+              "13": "Tạo địa hình [Trận Dây Leo] 4×4 ô; kiểm định Nhanh nhẹn -3, sát thương cuối cùng mục tiêu phải chịu +35%; miễn trừ thất bại sẽ bị [Quấn trói] 1 vòng và kèm trúng độc, kéo dài 4 vòng.",
+              "14": "Tạo địa hình [Trận Dây Leo] 4×4 ô; kiểm định Nhanh nhẹn -3, sát thương cuối cùng mục tiêu phải chịu +35%; miễn trừ thất bại sẽ bị [Quấn trói] 2 vòng và kèm trúng độc, kéo dài 4 vòng.",
+              "15": "Tạo địa hình [Trận Dây Leo] tuyệt đối 5×5 ô; kiểm định Nhanh nhẹn -4 và không thể thực hiện bất kỳ dịch chuyển ngắn nào. Sát thương cuối cùng mục tiêu phải chịu +40%; khi đi vào chắc chắn bị [Quấn trói] 1 vòng, đồng thời kẻ địch bị giết trong Trận Dây Leo sẽ hóa thành một dây leo mới, thực hiện một lần quất trả phạm vi."
+            },
+            "阶位": "Cơ bản"
+          },
+          {
+            "名称": "Lực Đạo · Thú Hư Ảnh",
+            "类型": "Triệu hồi",
+            "描述": "Triệu hồi hư ảnh lợn rừng cấu thành từ đạo ngân lực đạo lao vào kẻ địch, làm rối loạn đội hình.",
+            "召唤物名称": "Lực Trư Hư Ảnh",
+            "特殊效果": {
+              "1": "Triệu hồi 1 Lực Trư Hư Ảnh, kéo dài 2 vòng; khi vào sân gây sát thương vật lý lên mục tiêu trên đường thẳng.",
+              "2": "Triệu hồi 1 Lực Trư Hư Ảnh, kéo dài 2 vòng; sát thương cuối cùng của cú xung phong khi vào sân +5%.",
+              "3": "Triệu hồi 1 Lực Trư Hư Ảnh, kéo dài 2 vòng; sát thương cuối cùng của cú xung phong khi vào sân +10%.",
+              "4": "Triệu hồi 1 Lực Trư Hư Ảnh, kéo dài 3 vòng; sát thương cuối cùng của cú xung phong khi vào sân +10%.",
+              "5": "Triệu hồi 1 Lực Trư Hư Ảnh, kéo dài 3 vòng; sát thương cuối cùng của cú xung phong khi vào sân +15%.",
+              "6": "Triệu hồi 1 Lực Trư Hư Ảnh, kéo dài 3 vòng; cú xung phong khi vào sân kèm lực đẩy 1 ô, sát thương cuối cùng +15%.",
+              "7": "Triệu hồi 1 Lực Trư Hư Ảnh, kéo dài 3 vòng; cú xung phong khi vào sân kèm lực đẩy 1 ô, sát thương cuối cùng +20%.",
+              "8": "Triệu hồi 2 Lực Trư Hư Ảnh, kéo dài 3 vòng; cú xung phong khi vào sân kèm lực đẩy 1 ô, sát thương cuối cùng +20%.",
+              "9": "Triệu hồi 2 Lực Trư Hư Ảnh, kéo dài 3 vòng; cú xung phong khi vào sân kèm lực đẩy 1 ô, sát thương cuối cùng +25%.",
+              "10": "Triệu hồi 2 Lực Trư Hư Ảnh, kéo dài 4 vòng; khi xung phong vào mục tiêu trong [Trận Dây Leo], chắc chắn gây [Ngã xuống], sát thương cuối cùng +25%.",
+              "11": "Triệu hồi 2 Lực Trư Hư Ảnh linh hoạt, kéo dài 4 vòng; xung phong vào mục tiêu [Ngã xuống] khiến sát thương cuối cùng +30%.",
+              "12": "Triệu hồi 2 Lực Trư Hư Ảnh, kéo dài 4 vòng; cú xung phong kèm lực đẩy 2 ô, sát thương cuối cùng +30%.",
+              "13": "Triệu hồi 2 Lực Trư Hư Ảnh, kéo dài 4 vòng; cú xung phong kèm lực đẩy 2 ô, sát thương cuối cùng +35%.",
+              "14": "Triệu hồi 3 Lực Trư Hư Ảnh, kéo dài 4 vòng; cú xung phong kèm lực đẩy 2 ô, sát thương cuối cùng +35%.",
+              "15": "Triệu hồi 3 Lực Trư Hư Ảnh khổng lồ, kéo dài 5 vòng; cú xung phong khi vào sân cuốn quét tuyến đường rộng 3 ô phía trước, kèm hiệu quả hất bay và [Ngã xuống]. Sát thương cuối cùng do xung phong gây ra +40%; nếu húc kẻ địch vào rìa địa hình, gây choáng thêm."
+            },
+            "阶位": "Cơ bản"
+          }
+        ],
+        "转职": [
+          {
+            "名称": "Chí Tôn Tiên Thai Thể",
+            "类型": "Đặc biệt nghề nghiệp",
+            "描述": "Thân thể chí cao mà Phương Nguyên có được sau khi vứt bỏ thân xác cũ; thông tu các đạo mà không bài xích lẫn nhau. Tăng mạnh khả năng thích ứng với mọi lưu phái.",
+            "特殊效果": {
+              "1": "Bị động có hiệu lực (tồn tại như một trạng thái): khi bạn phóng thích mọi kỹ năng, không còn chịu bất kỳ trừng phạt xung đột thuộc tính nào. Mỗi lần phóng thích kỹ năng thuộc lưu phái khác kỹ năng trước đó (như cốt đạo, kiếm đạo), sát thương cuối cùng của kỹ năng đó tăng 20%, đồng thời toàn bộ miễn trừ sáu thuộc tính của bản thân +2."
+            },
+            "阶位": "Chuyển nghề"
+          },
+          {
+            "名称": "Lực Đạo · Cú Đấm Đầu Vạn Ngã",
+            "类型": "Chủ động",
+            "描述": "Ngưng tụ hư ảnh của vô số bản ngã đời trước, đồng loạt vung ra một quyền. Một đòn bộc phát ngắn cực kỳ áp bách.",
+            "特殊效果": {
+              "1": "Sau khi phát động, thêm 1 lần hư ảnh đả kích; nếu mục tiêu đang [Ngã xuống], lần công kích này có lợi thế kiểm định trúng đòn.",
+              "2": "Sau khi phát động, thêm 1 lần hư ảnh đả kích; nếu mục tiêu đang [Ngã xuống], sát thương cuối cùng lần này +5%.",
+              "3": "Sau khi phát động, thêm 1 lần hư ảnh đả kích; nếu mục tiêu đang [Ngã xuống], sát thương cuối cùng lần này +10%.",
+              "4": "Sau khi phát động, thêm 2 lần hư ảnh đả kích; sát thương cuối cùng của lần thứ hai giảm 50%; nếu mục tiêu đang [Ngã xuống], tổng sát thương cuối cùng +10%.",
+              "5": "Sau khi phát động, thêm 2 lần hư ảnh đả kích; sát thương cuối cùng của lần thứ hai giảm 40%; nếu mục tiêu đang [Ngã xuống], tổng sát thương cuối cùng +15%.",
+              "6": "Sau khi phát động, thêm 2 lần hư ảnh đả kích; nếu mục tiêu đang [Chảy máu], mỗi đòn kèm lượng hút máu rất nhỏ, tổng sát thương cuối cùng +15%.",
+              "7": "Sau khi phát động, thêm 2 lần hư ảnh đả kích; nếu mục tiêu đang [Chảy máu], mỗi đòn kèm lượng hút máu rất nhỏ, tổng sát thương cuối cùng +20%.",
+              "8": "Sau khi phát động, thêm 3 lần hư ảnh đả kích; hai lần sau giảm 40% sát thương, tổng sát thương cuối cùng +20%.",
+              "9": "Sau khi phát động, thêm 3 lần hư ảnh đả kích; hai lần sau giảm 30% sát thương, tổng sát thương cuối cùng +25%.",
+              "10": "Sau khi phát động, thêm 3 lần hư ảnh đả kích; lần đả kích cuối kèm kiểm định miễn trừ Sức mạnh, nếu thất bại sẽ bị hất bay; tổng sát thương cuối cùng +25%.",
+              "11": "Sau khi phát động, thêm 3 lần hư ảnh đả kích; thất bại sẽ bị hất bay; tổng sát thương cuối cùng +30%.",
+              "12": "Sau khi phát động, thêm 3 lần hư ảnh đả kích; thất bại sẽ bị hất bay và giáp -2; tổng sát thương cuối cùng +30%.",
+              "13": "Sau khi phát động, thêm 3 lần hư ảnh đả kích; thất bại sẽ bị hất bay và giáp -2; tổng sát thương cuối cùng +35%.",
+              "14": "Sau khi phát động, thêm 4 lần hư ảnh đả kích; lần cuối chắc chắn trúng, tổng sát thương cuối cùng +35%.",
+              "15": "Sau khi phát động, thêm 4 lần hư ảnh đả kích; nếu mục tiêu đồng thời ở trong [Trận Dây Leo] hoặc đang [Chảy máu], đòn thứ tư hóa thành Cự Thủ Vạn Ngã, gây sát thương chấn động phạm vi. Tổng sát thương cuối cùng +40%, đồng thời cưỡng chế làm tê liệt mục tiêu 1 vòng."
+            },
+            "阶位": "Chuyển nghề"
+          },
+          {
+            "名称": "Cốt Đạo · Bạch Cốt Loa Toàn",
+            "类型": "Chủ động",
+            "描述": "Bắn ra trường thương xương trắng xoay tròn tốc độ cao từ trong tay. Là lợi khí đối phó mục tiêu đang chảy máu hoặc mặc trọng giáp.",
+            "特殊效果": {
+              "1": "Gây sát thương xuyên thẳng trên một đường; với mục tiêu [Chảy máu], bỏ qua 10% giảm sát thương vật lý.",
+              "2": "Xuyên thẳng trên một đường; với mục tiêu [Chảy máu], bỏ qua 10% giảm sát thương vật lý; sát thương cuối cùng lần này +5%.",
+              "3": "Xuyên thẳng trên một đường; với mục tiêu [Chảy máu], bỏ qua 15% giảm sát thương vật lý; sát thương cuối cùng lần này +10%.",
+              "4": "Xuyên thẳng trên một đường; với mục tiêu [Chảy máu], bỏ qua 15% giảm sát thương vật lý; sát thương cuối cùng lần này +10%, kèm đẩy lùi 1 ô.",
+              "5": "Xuyên thẳng trên một đường; với mục tiêu [Chảy máu], bỏ qua 20% giảm sát thương vật lý; sát thương cuối cùng lần này +15%, kèm đẩy lùi 1 ô.",
+              "6": "Xuyên thẳng trên một đường; với mục tiêu [Chảy máu], bỏ qua 20% giảm sát thương vật lý; sát thương cuối cùng lần này +15%, kèm đẩy lùi 2 ô.",
+              "7": "Xuyên thẳng trên một đường; với mục tiêu [Chảy máu], bỏ qua 25% giảm sát thương vật lý; sát thương cuối cùng lần này +20%, kèm đẩy lùi 2 ô.",
+              "8": "Xuyên thẳng trên một đường; với mục tiêu [Chảy máu], bỏ qua 25% giảm sát thương vật lý; sát thương cuối cùng lần này +20%; nếu đẩy lùi khiến mục tiêu va vào chướng ngại vật, kèm thêm choáng váng.",
+              "9": "Xuyên thẳng trên một đường; với mục tiêu [Chảy máu], bỏ qua 30% giảm sát thương vật lý; sát thương cuối cùng lần này +25%; nếu đẩy lùi khiến mục tiêu va vào chướng ngại vật, kèm thêm choáng váng.",
+              "10": "Bắn ra 2 phát thương xương xoắn ốc; với mục tiêu [Chảy máu], bỏ qua 30% giảm sát thương; sát thương cuối cùng lần này +25%, đồng thời kéo mục tiêu cùng lùi về sau.",
+              "11": "Bắn ra 2 phát thương xương xoắn ốc; với mục tiêu [Chảy máu], bỏ qua 35% giảm sát thương; sát thương cuối cùng lần này +30%, đồng thời kéo mục tiêu cùng lùi về sau.",
+              "12": "Bắn ra 2 phát thương xương xoắn ốc; với mục tiêu [Chảy máu], bỏ qua 35% giảm sát thương; sát thương cuối cùng lần này +30%; người trúng đòn chịu kiểm định Thể chất -2.",
+              "13": "Bắn ra 2 phát thương xương xoắn ốc; với mục tiêu [Chảy máu], bỏ qua 40% giảm sát thương; sát thương cuối cùng lần này +35%; người trúng đòn chịu kiểm định Thể chất -2.",
+              "14": "Bắn ra 3 phát thương xương xoắn ốc; với mục tiêu [Chảy máu], bỏ qua 40% giảm sát thương; sát thương cuối cùng lần này +35%; người trúng đòn chịu kiểm định Thể chất -3.",
+              "15": "Bắn ra 3 phát Bạch Cốt Thương Long Loa Toàn; với mục tiêu [Chảy máu], hoàn toàn bỏ qua giảm sát thương vật lý và gây tan chảy giáp (AC -3 kéo dài 2 vòng). Sát thương cuối cùng +40%; nếu mục tiêu ở trong [Trận Dây Leo], nó sẽ bị cưỡng chế đóng đinh xuống đất, không thể dùng bất kỳ cách nào giải khống chế cho tới khi rút thương xương ra."
+            },
+            "阶位": "Chuyển nghề"
+          },
+          {
+            "名称": "Hồn Đạo · Dẫn Hồn Quỷ Khấp",
+            "类型": "Chủ động",
+            "描述": "Phóng thích tiếng gào hồn đạo, công kích tinh thần phe địch. Dùng để lót nền cho các đòn tinh thần hệ như Phồn Tinh Toái Mộng về sau.",
+            "特殊效果": {
+              "1": "Gây sát thương tinh thần phạm vi lớn; mục tiêu thất bại miễn trừ Cảm nhận sẽ [Hoảng sợ] 1 vòng.",
+              "2": "Gây sát thương tinh thần phạm vi lớn; thất bại miễn trừ Cảm nhận sẽ [Hoảng sợ] 1 vòng; sát thương cuối cùng +5%.",
+              "3": "Gây sát thương tinh thần phạm vi lớn; thất bại miễn trừ Cảm nhận sẽ [Hoảng sợ] 1 vòng; sát thương cuối cùng +10%.",
+              "4": "Gây sát thương tinh thần phạm vi lớn; thất bại miễn trừ Cảm nhận sẽ [Hoảng sợ] 1 vòng và giảm 5 xích tốc độ di chuyển; sát thương cuối cùng +10%.",
+              "5": "Gây sát thương tinh thần phạm vi lớn; thất bại miễn trừ Cảm nhận sẽ [Hoảng sợ] 1 vòng và giảm 5 xích tốc độ di chuyển; sát thương cuối cùng +15%.",
+              "6": "Gây sát thương tinh thần phạm vi lớn; trong thời gian hoảng sợ, mục tiêu không thể phóng thích pháp thuật; sát thương cuối cùng +15%.",
+              "7": "Gây sát thương tinh thần phạm vi lớn; trong thời gian hoảng sợ, mục tiêu không thể phóng thích pháp thuật; sát thương cuối cùng +20%.",
+              "8": "Gây sát thương tinh thần phạm vi lớn; nếu mục tiêu đang ở trong [Trận Dây Leo], miễn trừ chịu bất lợi; sát thương cuối cùng +20%.",
+              "9": "Gây sát thương tinh thần phạm vi lớn; nếu mục tiêu đang ở trong [Trận Dây Leo], miễn trừ chịu bất lợi; sát thương cuối cùng +25%.",
+              "10": "Dẫn phát sát thương gợn sóng lần hai; mục tiêu đang [Hoảng sợ] có kháng tinh thần -20%; sát thương cuối cùng +25%.",
+              "11": "Dẫn phát sát thương gợn sóng lần hai; mục tiêu đang [Hoảng sợ] có kháng tinh thần -20%; sát thương cuối cùng +30%.",
+              "12": "Dẫn phát sát thương gợn sóng lần hai; mục tiêu đang [Hoảng sợ] còn rơi vào phán định [Mờ mịt]; sát thương cuối cùng +30%.",
+              "13": "Dẫn phát sát thương gợn sóng lần hai; mục tiêu đang [Hoảng sợ] còn rơi vào phán định [Mờ mịt]; sát thương cuối cùng +35%.",
+              "14": "Dẫn phát ba lần sát thương gợn sóng; liên tục tước đoạt Cảm nhận; sát thương cuối cùng +35%.",
+              "15": "Oán hồn cụ tượng hóa quấn lấy mục tiêu, khiến miễn trừ Cảm nhận của mục tiêu tuyệt đối thất bại và rơi vào [Hoảng sợ] sâu 2 vòng, đồng thời kháng tinh thần về 0. Sát thương cuối cùng +40%; kẻ địch đang [Hoảng sợ] sau khi bị giết sẽ cung cấp cho Đại Ái Tiên Tôn một lớp khiên bằng 10% giới hạn sinh mệnh của chính kẻ đó."
+            },
+            "阶位": "Chuyển nghề"
+          }
+        ],
+        "进阶": [
+          {
+            "名称": "Trụ Đạo · Quang Âm Phi Nhận",
+            "类型": "Chủ động",
+            "描述": "Dùng đạo ngân thời gian nén trảm kích, gây liên kích không thể né. Uy lực tăng gấp bội trong Trận Dây Leo.",
+            "特殊效果": {
+              "1": "Bắn ra phi nhận thời gian, kiểm định trúng đòn có lợi thế; sát thương cuối cùng +5%.",
+              "2": "Bắn ra phi nhận thời gian, kiểm định trúng đòn có lợi thế; sát thương cuối cùng +10%.",
+              "3": "Bắn ra phi nhận thời gian, kiểm định trúng đòn có lợi thế; sát thương cuối cùng +15%.",
+              "4": "Nếu mục tiêu đang ở trong [Trận Dây Leo], thêm 1 lần phi nhận; sát thương cuối cùng +15%.",
+              "5": "Nếu mục tiêu đang ở trong [Trận Dây Leo], thêm 1 lần phi nhận; sát thương cuối cùng +20%.",
+              "6": "Nếu mục tiêu đang ở trong [Trận Dây Leo], thêm 1 lần phi nhận và kèm giảm tốc; sát thương cuối cùng +20%.",
+              "7": "Nếu mục tiêu đang ở trong [Trận Dây Leo], thêm 2 lần phi nhận; sát thương cuối cùng +25%.",
+              "8": "Mục tiêu bị đánh trúng có độ ưu tiên của mọi hành động trong vòng này giảm xuống cực thấp; sát thương cuối cùng +25%.",
+              "9": "Mục tiêu bị đánh trúng có độ ưu tiên hành động trong vòng này giảm xuống cực thấp; sát thương cuối cùng +30%.",
+              "10": "Khi trúng, đánh cắp 1 BUFF có lợi của mục tiêu; nếu ở trong [Trận Dây Leo], đánh cắp thêm 1 BUFF nữa; sát thương cuối cùng +30%."
+            },
+            "阶位": "Nâng cao"
+          },
+          {
+            "名称": "Biến Hóa Đạo · Gặp Mặt Tựa Từng Quen",
+            "类型": "Đặc biệt",
+            "描述": "Sát chiêu tuyệt thế dùng để ngụy trang thân phận hoàn hảo. Khi vận dụng trong chiến đấu có thể khiến phe địch mất mục tiêu hoặc rơi vào mê hoặc.",
+            "特殊效果": {
+              "1": "Chủ động mở ra và tiến vào trạng thái [Ngụy trang]: trong vòng này, kẻ địch không thể chọn bạn làm mục tiêu đơn thể công kích.",
+              "2": "Chủ động mở ra và tiến vào trạng thái [Ngụy trang]: trong vòng này không thể bị chọn làm mục tiêu đơn thể; kiểm định trúng đòn của lần công kích kế tiếp +1.",
+              "3": "Chủ động mở ra và tiến vào trạng thái [Ngụy trang]: trong vòng này không thể bị khóa mục tiêu; kiểm định trúng đòn của lần công kích kế tiếp +2.",
+              "4": "Tiến vào [Ngụy trang] kéo dài 2 vòng; kiểm định trúng đòn của lần công kích kế tiếp +2.",
+              "5": "Tiến vào [Ngụy trang] kéo dài 2 vòng; kiểm định trúng đòn của lần công kích kế tiếp +3.",
+              "6": "Tiến vào [Ngụy trang] kéo dài 2 vòng; đòn phá ẩn gây sát thương cuối cùng +10%.",
+              "7": "Tiến vào [Ngụy trang] kéo dài 2 vòng; đòn phá ẩn gây sát thương cuối cùng +15%.",
+              "8": "Tiến vào [Ngụy trang] kéo dài 2 vòng; nếu phe địch thử dò xét thì cần vượt qua đối kháng Cảm nhận cực cao, thất bại sẽ bị [Mê hoặc]; sát thương cuối cùng khi phá ẩn +15%.",
+              "9": "Tiến vào [Ngụy trang] kéo dài 3 vòng; sát thương cuối cùng khi phá ẩn +20%.",
+              "10": "Tiến vào [Ngụy trang] kéo dài 3 vòng; trong thời gian ngụy trang, phạm vi kỹ năng trải địa hình của bạn (như Trận Dây Leo) mở rộng thêm 1 ô; sát thương cuối cùng khi phá ẩn +20%."
+            },
+            "阶位": "Nâng cao"
+          },
+          {
+            "名称": "Khí Đạo · Khí Hải Vô Lượng",
+            "类型": "Chủ động",
+            "描述": "Điều khiển lượng khí lưu khổng lồ tạo thành vòng xoáy, cưỡng ép gom tụ kẻ địch trong phạm vi rộng. Là thủ đoạn phụ trợ tuyệt hảo để nối tiếp kỹ năng bộc phát.",
+            "特殊效果": {
+              "1": "Tạo vòng xoáy gió ở điểm chỉ định, kéo kẻ địch trong bán kính 3 ô về trung tâm và gây một lượng nhỏ sát thương thuộc tính gió.",
+              "2": "Vòng xoáy gió bán kính 3 ô; lực kéo tăng cường, sát thương cuối cùng +5%.",
+              "3": "Vòng xoáy gió bán kính 3 ô; lực kéo tăng cường, sát thương cuối cùng +10%.",
+              "4": "Vòng xoáy gió bán kính 4 ô; sau khi kéo khiến kẻ địch ngã xuống, sát thương cuối cùng +10%.",
+              "5": "Vòng xoáy gió bán kính 4 ô; sau khi kéo khiến kẻ địch ngã xuống, sát thương cuối cùng +15%.",
+              "6": "Vòng xoáy gió bán kính 4 ô; nếu phe địch nằm trong điểm mù tầm nhìn của [Ngụy trang], lực kéo không thể kháng cự; sát thương cuối cùng +15%.",
+              "7": "Vòng xoáy gió bán kính 4 ô; kẻ địch bị kéo chịu kiểm định Nhanh nhẹn -2, sát thương cuối cùng +20%.",
+              "8": "Vòng xoáy gió bán kính 5 ô; kẻ địch bị kéo chịu kiểm định Nhanh nhẹn -2, sát thương cuối cùng +20%.",
+              "9": "Vòng xoáy gió bán kính 5 ô; trung tâm vòng xoáy hình thành tường khí khóa chết 1 vòng, sát thương cuối cùng +25%.",
+              "10": "Vòng xoáy gió bán kính 5 ô; tường khí khóa chết và kèm hiệu quả [Ngạt thở] (không thể sử dụng kỹ năng), sát thương cuối cùng +25%."
+            },
+            "阶位": "Nâng cao"
+          },
+          {
+            "名称": "Lôi Đạo · Lôi Phá Diệt Vạn Vật",
+            "类型": "Chủ động",
+            "描述": "Dẫn động kiếp lôi phá diệt cửu thiên oanh kích trận địch, là một đòn hủy diệt cực kỳ thuần túy và bạo liệt.",
+            "特殊效果": {
+              "1": "Giáng lôi đánh xuống, gây sát thương sấm sét lên một mục tiêu và phạm vi 1 ô xung quanh; nếu đang ở trong [Trận Dây Leo], dây leo sẽ dẫn điện khiến phạm vi mở rộng.",
+              "2": "Sát thương lôi đánh; phạm vi mở rộng; sát thương cuối cùng +5%.",
+              "3": "Sát thương lôi đánh; phạm vi mở rộng; sát thương cuối cùng +10%.",
+              "4": "Lôi đánh kèm tê liệt (tốc độ giảm một nửa); sát thương cuối cùng +10%.",
+              "5": "Lôi đánh kèm tê liệt (tốc độ giảm một nửa); sát thương cuối cùng +15%.",
+              "6": "Nếu kẻ địch ở trung tâm bị [Khí Hải Vô Lượng] gom tụ, lôi kích chắc chắn bạo kích; sát thương cuối cùng +15%.",
+              "7": "Lôi kích ở trung tâm chắc chắn bạo kích; sát thương cuối cùng +20%.",
+              "8": "Giáng xuống hai đạo kiếp lôi; phát lôi thứ hai gây 70% sát thương; sát thương cuối cùng +20%.",
+              "9": "Giáng xuống hai đạo kiếp lôi; phát lôi thứ hai gây 80% sát thương; sát thương cuối cùng +25%.",
+              "10": "Giáng xuống ba đạo kiếp lôi; khu vực lôi kích để lại sẽ sinh ra bẫy cảm điện, kéo dài 2 vòng; sát thương cuối cùng +25%."
+            },
+            "阶位": "Nâng cao"
+          }
+        ],
+        "必杀": [
+          {
+            "名称": "Kiếm Đạo · Vạn Kiếm Quỷ Giao",
+            "类型": "Chủ động",
+            "描述": "Con giao quỷ xương trắng âm u cấu thành từ vô số phi kiếm gầm thét quét ngang chiến trường, thu hoạch diện rộng những kẻ thấp máu.",
+            "特殊效果": {
+              "1": "Gọi ra quỷ giao quét ngang phạm vi 3×6 phía trước; với mục tiêu có sinh mệnh dưới 50%, sát thương cuối cùng +15%.",
+              "2": "Quỷ giao quét ngang; với mục tiêu dưới nửa máu, sát thương cuối cùng +20%.",
+              "3": "Quỷ giao quét ngang; với mục tiêu dưới nửa máu, sát thương cuối cùng +25%.",
+              "4": "Quỷ giao sẽ để lại kiếm khí xé rách mặt đất trên đường bay; sát thương cuối cùng +25%.",
+              "5": "Quỷ giao kèm hiệu quả đẩy lùi; sau khi va vào chướng ngại vật sẽ sinh ra kiếm khí bùng nổ, sát thương cuối cùng +30%.",
+              "6": "Nếu va vào [Trận Dây Leo], quỷ giao sẽ nghiền nát dây leo và hấp thu sinh cơ trong đó để hồi 20% sinh mệnh bản thân; sát thương cuối cùng +30%.",
+              "7": "Nếu va vào [Trận Dây Leo], quỷ giao sẽ nghiền nát dây leo và hấp thu sinh cơ trong đó để hồi 30% sinh mệnh bản thân; với mục tiêu dưới nửa máu, sát thương cuối cùng +35%."
+            },
+            "阶位": "Tất sát"
+          },
+          {
+            "名称": "Hồn Phòng Ngự · Diêm Đế",
+            "类型": "Đặc biệt",
+            "描述": "Sát chiêu phòng ngự chí cao của hồn đạo. Khoác hồn đế hoàng bào đen như mực, chống đỡ vạn pháp xâm nhập và áp chế chúng sinh xung quanh.",
+            "特殊效果": {
+              "1": "Tiêu hao một lượng nhỏ hồn lực, nhận khiên tạm thời tương đương 10% giới hạn sinh mệnh, kéo dài 2 vòng; khi khiên tồn tại, miễn nhiễm sợ hãi.",
+              "2": "Khiên tăng lên 12%; miễn nhiễm sợ hãi.",
+              "3": "Khiên tăng lên 15%; miễn nhiễm sợ hãi.",
+              "4": "Khiên tăng lên 15%; kéo dài 3 vòng; khi khiên tồn tại, giảm sát thương ma pháp +10%.",
+              "5": "Khiên tăng lên 18%; kéo dài 3 vòng; giảm sát thương ma pháp +10%.",
+              "6": "Khiên tăng lên 20%; kẻ địch trong phạm vi 2 ô xung quanh chịu kiểm định toàn thuộc tính -1 (đế uy áp chế).",
+              "7": "Khiên tăng lên 25%; kẻ địch trong phạm vi 2 ô xung quanh chịu kiểm định toàn thuộc tính -2."
+            },
+            "阶位": "Tất sát"
+          },
+          {
+            "名称": "Biến Hóa Đạo · Tự Do Tàn Khuyết Biến",
+            "类型": "Chủ động",
+            "描述": "Thân thể tự do biến hóa để né một kích chí mạng, đồng thời hóa thành hung thú vặn vẹo phản công bằng tuyệt sát.",
+            "特殊效果": {
+              "1": "Dùng như phản ứng hoặc chủ động phóng thích, thực hiện một lần cắn trả kèm dịch chuyển (2 ô); sát thương cuối cùng +10%.",
+              "2": "Cắn trả; sát thương cuối cùng +15%.",
+              "3": "Cắn trả; sát thương cuối cùng +20%.",
+              "4": "Dịch chuyển tăng lên 3 ô; sau khi cắn, nếu mục tiêu đang [Chảy máu], thêm một lần vồ bằng vuốt; sát thương cuối cùng +20%.",
+              "5": "Dịch chuyển tăng lên 3 ô; truy kích bằng vuốt; sát thương cuối cùng +25%.",
+              "6": "Trong vòng phóng thích kỹ năng này, bạn nhận thêm một lần né tránh tuyệt đối với một đòn công kích đơn lẻ; sát thương cuối cùng +25%.",
+              "7": "Né tránh tuyệt đối 1 lần; sát thương cuối cùng +30%."
+            },
+            "阶位": "Tất sát"
+          },
+          {
+            "名称": "Thâu Đạo · Thâu Thiên Hoán Nhật",
+            "类型": "Chủ động",
+            "描述": "Dựa vào cảnh giới thâu đạo vô thượng, cưỡng ép đánh cắp trạng thái cốt lõi của phe địch, thậm chí hoán đổi sinh mệnh và công kích của chúng.",
+            "特殊效果": {
+              "1": "Gây sát thương chuẩn, đồng thời có xác suất đánh cắp 1 tầng BUFF tích cực trên người mục tiêu.",
+              "2": "Sát thương chuẩn; sát thương cuối cùng +5%; đánh cắp 1 tầng BUFF.",
+              "3": "Sát thương chuẩn; sát thương cuối cùng +10%; đánh cắp 1 tầng BUFF.",
+              "4": "Sát thương chuẩn; sát thương cuối cùng +10%; đánh cắp 2 tầng BUFF; chắc chắn đánh cắp một lớp khiên hiện tại của mục tiêu (không vượt quá 30% sinh mệnh bản thân).",
+              "5": "Sát thương chuẩn; sát thương cuối cùng +15%; đánh cắp 3 tầng BUFF; chắc chắn đánh cắp khiên.",
+              "6": "Sát thương chuẩn; sát thương cuối cùng +15%; đánh cắp 4 tầng BUFF; nếu mục tiêu đang ở trong hào quang [Diêm Đế], đánh cắp thêm 10% sinh mệnh hiện tại của mục tiêu.",
+              "7": "Sát thương chuẩn; sát thương cuối cùng +20%; đánh cắp 5 tầng BUFF; đánh cắp 10% sinh mệnh."
+            },
+            "阶位": "Tất sát"
+          }
+        ],
+        "奥义": [
+          {
+            "名称": "Mộng Đạo · Phồn Tinh Toái Mộng",
+            "类型": "Chủ động",
+            "描述": "Kéo kẻ địch vào sát chiêu mộng đạo vô giải rồi kích nổ. Mộng đạo vượt lên mọi lưu phái hiện tại, cực khó phòng ngự.",
+            "特殊效果": {
+              "1": "Kéo một mục tiêu đơn thể vào mộng cảnh 1 vòng (xem như khống chế mạnh, bị đánh sẽ tỉnh); khi tỉnh lại, mục tiêu chịu sát thương chuẩn tinh thần rất lớn.",
+              "2": "Mộng cảnh khống chế mạnh 1 vòng; sát thương cuối cùng khi tỉnh dậy và bị kích nổ +5%.",
+              "3": "Mộng cảnh khống chế mạnh 1 vòng; sát thương cuối cùng khi tỉnh dậy và bị kích nổ +10%.",
+              "4": "Nếu mục tiêu bị đồng bạn công kích đánh thức trong mộng cảnh, mục tiêu cũng chịu toàn bộ sát thương kích nổ; sát thương cuối cùng +10%.",
+              "5": "Bị đánh thức bởi đòn công kích vẫn chịu toàn bộ sát thương; sát thương cuối cùng +15%."
+            },
+            "阶位": "Áo nghĩa"
+          },
+          {
+            "名称": "Luật Đạo · Ngũ Chỉ Quyền Tâm Kiếm",
+            "类型": "Chủ động",
+            "描述": "Tuyệt kích đỉnh phong tập hợp sức mạnh và quy tắc luật đạo; năm ngón khép lại là tuyên án tử hình.",
+            "特殊效果": {
+              "1": "Trọng quyền cận chiến kèm kiếm khí giảo sát một mục tiêu; nếu sinh mệnh mục tiêu thấp hơn 30%, sát thương nhân đôi.",
+              "2": "Trọng quyền cận chiến kèm kiếm khí giảo sát một mục tiêu; nếu sinh mệnh mục tiêu thấp hơn 30%, sát thương nhân đôi; sát thương cuối cùng +5%.",
+              "3": "Trọng quyền cận chiến kèm kiếm khí giảo sát một mục tiêu; nếu sinh mệnh mục tiêu thấp hơn 30%, sát thương nhân đôi; sát thương cuối cùng +10%.",
+              "4": "Trọng quyền cận chiến kèm kiếm khí giảo sát một mục tiêu; nếu sinh mệnh mục tiêu thấp hơn 30%, sát thương nhân đôi. Khi trúng, áp đặt luật đạo áp chế: AC của mục tiêu vòng sau -5; sát thương cuối cùng +10%.",
+              "5": "Trọng quyền cận chiến kèm kiếm khí giảo sát một mục tiêu; nếu sinh mệnh mục tiêu thấp hơn 30%, sát thương nhân đôi. Khi trúng, áp đặt luật đạo áp chế: AC của mục tiêu vòng sau -7; sát thương cuối cùng +15%."
+            },
+            "阶位": "Áo nghĩa"
+          },
+          {
+            "名称": "Luyện Đạo · Một Cõi Lạc Thổ",
+            "类型": "Đặc biệt",
+            "描述": "Trường vực do Phương Nguyên hóa dụng đạo cảnh của Lạc Thổ Tiên Tôn để sáng tạo. Nhìn như hòa bình, thực chất là sân nhà tuyệt đối của tôn giả; bất kỳ kẻ địch nào bước vào đều sẽ trở thành vật liệu bị \"luyện\".",
+            "特殊效果": {
+              "1": "Tạo khu vực ánh sáng bán kính 4 ô; phe ta trong khu vực này hồi 30% sinh mệnh mỗi vòng.",
+              "2": "Bán kính 4 ô; phe ta hồi 40% sinh mệnh.",
+              "3": "Bán kính 4 ô; phe ta hồi 50% sinh mệnh.",
+              "4": "Bán kính 5 ô; phe ta hồi 50% sinh mệnh, đồng thời khi phe địch đi vào khu vực, AC -5.",
+              "5": "Bán kính 5 ô; phe ta hồi 60% sinh mệnh, đồng thời khi phe địch đi vào khu vực, AC -10."
+            },
+            "阶位": "Áo nghĩa"
+          },
+          {
+            "名称": "Luyện Thiên Chân Hỏa",
+            "类型": "Chủ động",
+            "描述": "Chân hỏa vô thượng thiêu xuyên tất cả. Phối hợp với [Một Cõi Lạc Thổ], nó biến cả vùng địa hình thành lò luyện trời đất.",
+            "特殊效果": {
+              "1": "Phun lửa hình nón, gây sát thương lửa lên kẻ địch trong phạm vi và kèm [Thiêu đốt] kéo dài 2 vòng.",
+              "2": "Lửa hình nón; kèm thiêu đốt; sát thương cuối cùng +5%.",
+              "3": "Lửa hình nón; kèm thiêu đốt; sát thương cuối cùng +10%.",
+              "4": "Khi phóng thích trong [Một Cõi Lạc Thổ] hoặc [Trận Dây Leo], ngọn lửa sẽ đốt cháy toàn bộ địa hình, biến địa hình thành biển lửa; sát thương cuối cùng +10%.",
+              "5": "Sát thương biển lửa tăng lên; sát thương cuối cùng +15%."
+            },
+            "阶位": "Áo nghĩa"
+          }
+        ],
+        "觉醒一": [
+          {
+            "名称": "Luyện Đạo Tôn Giả · Thiên Địa Nhất Gia",
+            "阶位": "Thức tỉnh một",
+            "类型": "Chủ động",
+            "描述": "Phát động áp chế lĩnh vực cấp tôn giả. Trời đất vạn vật đều được ta sử dụng, từ đó hoàn thành lần mở rộng siêu cấp cho thế mở đầu cốt lõi.",
+            "特殊效果": {
+              "1": "Sau khi thức tỉnh, trong trận chiến này, sát thương cuối cùng của mọi kỹ năng chủ động +20%; phạm vi trải của [Trận Dây Leo] và [Một Cõi Lạc Thổ] trực tiếp bao phủ toàn bản đồ và không thể bị phe địch phá hủy; thời lượng của mọi phe địch đang chịu [Chảy máu] và [Hoảng sợ] bị khóa ở số tầng cao nhất và không suy giảm. Mỗi khi kích nổ một lần [Quang Âm Phi Nhận] hoặc [Vạn Kiếm Quỷ Giao], lập tức hồi cho bản thân 10% sinh mệnh tối đa và nhận 1 tầng [Đại Ái Ấn Ký] (mỗi tầng tăng 5% tổng sát thương).",
+              "2": "Sau khi thức tỉnh, trong trận chiến này, sát thương cuối cùng của mọi kỹ năng chủ động +30%; phạm vi trải của [Trận Dây Leo] và [Một Cõi Lạc Thổ] trực tiếp bao phủ toàn bản đồ và không thể bị phe địch phá hủy; thời lượng của mọi phe địch đang chịu [Chảy máu] và [Hoảng sợ] bị khóa ở số tầng cao nhất và không suy giảm. Mỗi khi kích nổ một lần [Quang Âm Phi Nhận] hoặc [Vạn Kiếm Quỷ Giao], lập tức hồi cho bản thân 15% sinh mệnh tối đa và nhận 2 tầng [Đại Ái Ấn Ký] (mỗi tầng tăng 5% tổng sát thương).",
+              "3": "Sau khi thức tỉnh, trong trận chiến này, sát thương cuối cùng của mọi kỹ năng chủ động +40%; phạm vi trải của [Trận Dây Leo] và [Một Cõi Lạc Thổ] trực tiếp bao phủ toàn bản đồ và không thể bị phe địch phá hủy; thời lượng của mọi phe địch đang chịu [Chảy máu] và [Hoảng sợ] bị khóa ở số tầng cao nhất và không suy giảm. Mỗi khi kích nổ một lần [Quang Âm Phi Nhận] hoặc [Vạn Kiếm Quỷ Giao], lập tức hồi cho bản thân 20% sinh mệnh tối đa và nhận 3 tầng [Đại Ái Ấn Ký] (mỗi tầng tăng 5% tổng sát thương)."
+            }
+          }
+        ],
+        "觉醒二": [
+          {
+            "名称": "Luyện Thiên Ma Tôn · Thiên Nhân Cảm Ứng",
+            "阶位": "Thức tỉnh hai",
+            "类型": "Chủ động",
+            "描述": "Khí cơ vạn vật đều nằm trong cảm ứng, có thể bỏ qua khoảng cách và vật cản để phát động nổ phá định điểm, kéo chuỗi tiếp nối và sát thương tới cực hạn.",
+            "特殊效果": {
+              "1": "Sau khi thức tỉnh, trong trận chiến này, Đại Ái Tiên Tôn ở trong [Toàn Tri Thị Dã] tuyệt đối, bỏ qua mọi ẩn thân và tiềm hành; sát thương cuối cùng của mọi kỹ năng chủ động +40%; có thể không cần tầm nhìn, vượt qua mọi chướng ngại địa hình để phóng thích [Lôi Phá Diệt Vạn Vật] và [Ngũ Chỉ Quyền Tâm Kiếm]. Mỗi khi công kích của bạn trúng một mục tiêu, thiên đạo sẽ tự động giáng xuống một đạo [Huyết Nhận Oa Lưu] hoặc [Bạch Cốt Loa Toàn] để truy kích chính xác cao không tốn chi phí; khi đang ở trạng thái [Diêm Đế], sát thương chí mạng bạn phải chịu sẽ được thiên nhân cảm ứng chuyển sang kẻ địch có sinh mệnh cao nhất trên sân (giới hạn 1 lần mỗi trận).",
+              "2": "Sau khi thức tỉnh, trong trận chiến này, Đại Ái Tiên Tôn ở trong [Toàn Tri Thị Dã] tuyệt đối, bỏ qua mọi ẩn thân và tiềm hành; sát thương cuối cùng của mọi kỹ năng chủ động +60%; có thể không cần tầm nhìn, vượt qua mọi chướng ngại địa hình để phóng thích [Lôi Phá Diệt Vạn Vật] và [Ngũ Chỉ Quyền Tâm Kiếm]. Mỗi khi công kích của bạn trúng một mục tiêu, thiên đạo sẽ tự động giáng xuống một đạo [Huyết Nhận Oa Lưu] hoặc [Bạch Cốt Loa Toàn] để truy kích chính xác cao không tốn chi phí; khi đang ở trạng thái [Diêm Đế], sát thương chí mạng bạn phải chịu sẽ được thiên nhân cảm ứng chuyển sang kẻ địch có sinh mệnh cao nhất trên sân (giới hạn 2 lần mỗi trận)."
+            }
+          }
+        ],
+        "觉醒三": [
+          {
+            "名称": "Đại Ái Tiên Tôn · Đại Ái Vô Cương",
+            "阶位": "Thức tỉnh ba",
+            "类型": "Chủ động",
+            "描述": "Tế ra bản tướng của Đại Ái Tiên Tôn: nhân danh \"yêu thương\" để thi hành giết chóc và vắt kiệt, thôn phệ vạn vật để thành toàn đại ái.",
+            "特殊效果": {
+              "1": "Khoảnh khắc phóng thích thức tỉnh, cưỡng chế tạm dừng thời gian toàn trường. Trong trận chiến này, bạn triệt để thoát khỏi trói buộc của thân xác phàm nhân (toàn bộ sáu thuộc tính được xem như kiểm định tuyệt đối thành công); sát thương cuối cùng của kỹ năng chủ động +70%. Khi bạn phóng thích [Phồn Tinh Toái Mộng] hoặc [Thâu Thiên Hoán Nhật], kỹ năng sẽ cưỡng chế tác dụng lên toàn bộ đơn vị phe địch trên toàn màn hình và kèm bạo kích cực hiệu. Bất cứ mục tiêu nào bị bạn giết, toàn bộ lực lượng, quyền năng và tinh hoa thân thể mà kẻ đó sở hữu đều sẽ được hiến tế cho bạn dưới hình thức \"đại ái\"; mỗi khi giết một người, Đại Ái Tiên Tôn vĩnh viễn (trong trận chiến này) nhận thêm một lượt hành động hoàn chỉnh, cho tới khi rửa sạch mọi trở ngại trước mắt."
+            }
+          }
+        ]
+      },
+      "skillTreeForClass": "Đại Ái Tiên Tôn",
+      "lockedSkillMap": {},
+      "skillFlavorInput": "Sát chiêu, cổ trùng, mỗi giai đoạn 4 kỹ năng",
+      "teammates": [],
+      "customTeammate": null,
+      "selectedTraits": [],
+      "customTraits": [
+        {
+          "name": "Tâm cảnh Ma Tôn",
+          "effect": "Không chịu ảnh hưởng bởi bất kỳ hình thức mê hoặc, sợ hãi hoặc khống chế tinh thần nào. Khi đưa ra bất kỳ lựa chọn nào ảnh hưởng tới lợi ích cốt lõi của bản thân, có thể hoàn toàn gạt bỏ cảm xúc và đưa ra phán đoán tuyệt đối lý trí. Kiểm định Trí lực +10."
+        },
+        {
+          "name": "Ngộ tính kinh người",
+          "effect": "Sở hữu ngộ tính vượt xa người thường; tốc độ học cổ phương mới và lý giải pháp tắc trời đất gấp ba lần người thường. Khi thực hiện bất kỳ kiểm định nào liên quan tới lĩnh ngộ, sáng tạo hoặc suy diễn, nhận +5 cộng thêm. Có thể căn cứ vào môi trường, chiêu thức và trải nghiệm bản thân để nhận kỹ năng tài nguyên (kiểm định Trí lực)."
+        },
+        {
+          "name": "Trăm tướng nghìn mặt",
+          "effect": "Kiểm định Sức hấp dẫn +10. Kiểm định dò xét của người khác đối với bạn -5. Có thể che giấu toàn bộ thông tin bản thân và mô phỏng bất kỳ tính cách cùng khí chất nào."
+        }
+      ],
+      "customExpertise": [],
+      "customIdentity": null,
+      "selectedOpening": "traverse",
+      "customOpeningText": "",
+      "selectedDifficulty": "normal",
+      "customRace": {
+        "enabled": true,
+        "name": "Cổ tu",
+        "trait1": {
+          "name": "Luyện đạo",
+          "detail": "Có thể luyện hóa kẻ địch còn dưới 20% máu (kiểm định Sức mạnh), nhận vật phẩm tiêu hao hoặc kỹ năng tài nguyên (cổ). Có thể dùng tài nguyên để cường hóa cổ trùng (nâng cấp kỹ năng tài nguyên).",
+          "negative": false
+        },
+        "trait2": {
+          "name": "Xuân Thu Thiền",
+          "detail": "Mỗi lần kiểm định tung 2 xúc xắc và lấy kết quả cao hơn; khi tử vong có thể phát động Xuân Thu Thiền để trở lại thời điểm bắt đầu chiến đấu, đồng thời nhận 100% tăng trị sát thương trong 5 vòng (mỗi lần nghỉ dài một lần).",
+          "negative": false
+        }
+      }
+    }
+  }
+}

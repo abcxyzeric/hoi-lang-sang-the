@@ -1,0 +1,41 @@
+{
+  "ok": true,
+  "preset": {
+    "id": "da5b8605-6ed8-4978-a2cc-abd758517a6d",
+    "ownerId": "857674538087219230",
+    "ownerName": "❂𝒫𝒾ℯ𝓇𝓇ℯ-ℛℯ𝓃ℴ𝒾𝓇❂",
+    "author": "❂𝒫𝒾ℯ𝓇𝓇ℯ-ℛℯ𝓃ℴ𝒾𝓇❂",
+    "authorAvatar": "https://cdn.discordapp.com/avatars/857674538087219230/ae19d1a907250f94e961f5bd40004bd2.png?size=128",
+    "name": "Nghề Cuồng Đồ",
+    "title": "Nghề Cuồng Đồ",
+    "intro": "Cây kỹ năng viết tay hoàn toàn, nguyên mẫu thiết kế là Rogue nhánh Outlaw trong World of Warcraft. Cơ chế khá thú vị, có hai lối chơi cận chiến và tầm xa, độ ngẫu nhiên rất cao; chỉ kèm cây kỹ năng và một đặc chất chuyên dụng, những phần khác có thể tự do DIY.\nKhuyến nghị mở đầu bằng chủng Cự Nhân, 22 Sức mạnh rồi dùng khuỷu tay hạ gục mọi thứ.",
+    "coverUrl": "/api/presets/da5b8605-6ed8-4978-a2cc-abd758517a6d/cover",
+    "className": "Cuồng Đồ",
+    "race": "Chủng tộc tùy chỉnh",
+    "tags": [
+      "Duy trì",
+      "Bộc phát",
+      "Ngẫu nhiên"
+    ],
+    "likes": 10,
+    "liked": false,
+    "downloads": 16,
+    "status": "published",
+    "createdAt": "2026-03-15 15:43:06",
+    "updatedAt": "2026-05-09 10:16:07",
+    "lastLikedAt": "",
+    "presetData": {
+      "name": "",
+      "class": "Cuồng Đồ",
+      "customClassName": "Cuồng Đồ",
+      "race": "__custom__",
+      "customRace": {
+        "name": ""
+      },
+      "customClassStyle": "Kỹ năng cận chiến và tầm xa có những kiểu liên động khác nhau.",
+      "backstory": "",
+      "selectedCustomLevel": null
+    },
+    "downloadUrl": "/api/presets/da5b8605-6ed8-4978-a2cc-abd758517a6d/file"
+  }
+}

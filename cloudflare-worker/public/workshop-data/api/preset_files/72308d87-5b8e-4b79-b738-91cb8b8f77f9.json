@@ -1,0 +1,439 @@
+{
+  "exportedAt": "2026-03-26T17:17:16.678Z",
+  "version": "1.0",
+  "preset": {
+    "id": "1774545434809",
+    "name": "Amon",
+    "timestamp": 1774545434809,
+    "createdAt": 1774545434809,
+    "updatedAt": 1774545434809,
+    "data": {
+      "name": "Amon",
+      "gender": "Nam",
+      "age": 20,
+      "race": "__custom__",
+      "identity": "__custom__",
+      "avatar": "",
+      "attributes": {
+        "strength": 10,
+        "dexterity": 10,
+        "constitution": 10,
+        "intelligence": 15,
+        "wisdom": 11,
+        "charisma": 15
+      },
+      "backstory": "Con trai của Thái Dương Thần cổ xưa, kẻ báng bổ thần linh, hiện thân của lừa dối và trò đùa ác ý. Là tập hợp của \"Trùng của thời gian\", Amon nắm giữ quyền bính của sai lầm và quỷ bí. Trong bóng tối của Nguyên Bảo, hắn dõi theo mọi tồn tại muốn nhìn trộm vận mệnh. Hắn là tồn tại vượt trên các trình tự của con đường \"Kẻ trộm\", nắm giữ tính duy nhất của \"Sai lầm\". Hắn thích đeo kính một tròng, thích thì thầm bên tai con mồi, thích ngắm vẻ mặt kinh hoàng của chúng. Giữa cơn hỗn loạn khi Disbode và Arad hòa làm một, Amon đã ngửi thấy niềm vui mới - quy tắc của thế giới này, minh ước của thế giới này, và cả \"trò chơi\" nơi đây, tất cả đều trở thành món đồ chơi mới của hắn.",
+      "selectedLevelMode": "native",
+      "selectedCustomLevel": null,
+      "selectedSpawnPoint": "Hạ tầng chợ vách Cảng Hoàn Uyên · Bờ biển ngoại vi",
+      "class": "Lữ giả quỷ bí · Amon",
+      "selectedBaseClass": "Nghề tùy chỉnh",
+      "customClassName": "Lữ giả quỷ bí · Amon",
+      "customClassStyle": "Trộm cắp vận mệnh, lừa dối quy tắc, đùa bỡn nhân quả",
+      "customClassWeapon": "Kính một tròng / Trùng của thời gian / Tơ vận mệnh",
+      "customClassCombatStyle": "Kiểu lừa dối · thao túng khái niệm",
+      "skillTree": {
+        "基础": [
+          {
+            "名称": "Linh quang lừa dối",
+            "类型": "Đặc biệt",
+            "描述": "Bản năng lừa dối của Amon khiến lời dối trá nghe còn đáng tin hơn cả chân tướng. Mọi hành vi muốn nhìn thấu ý đồ của ngươi đều sẽ bị quấy nhiễu.",
+            "特殊效果": {
+              "1": "Kiểm định Sức hấp dẫn +2; DC để đối phương nhìn thấu lời nói dối của ngươi +2.",
+              "2": "Kiểm định Sức hấp dẫn +3; DC để đối phương nhìn thấu lời nói dối của ngươi +3.",
+              "3": "Kiểm định Sức hấp dẫn +4; DC để đối phương nhìn thấu lời nói dối của ngươi +4.",
+              "4": "Kiểm định Sức hấp dẫn +5; DC để đối phương nhìn thấu lời nói dối của ngươi +5.",
+              "5": "Kiểm định Sức hấp dẫn +6; DC để đối phương nhìn thấu lời nói dối của ngươi +6.",
+              "6": "Kiểm định Sức hấp dẫn +7; DC để đối phương nhìn thấu lời nói dối của ngươi +8.",
+              "7": "Kiểm định Sức hấp dẫn +8; DC để đối phương nhìn thấu lời nói dối của ngươi +10.",
+              "8": "Kiểm định Sức hấp dẫn +9; DC để đối phương nhìn thấu lời nói dối của ngươi +12.",
+              "9": "Kiểm định Sức hấp dẫn +10; DC để đối phương nhìn thấu lời nói dối của ngươi +14.",
+              "10": "Kiểm định Sức hấp dẫn +12; DC để đối phương nhìn thấu lời nói dối của ngươi +16.",
+              "11": "Kiểm định Sức hấp dẫn +14; có thể đồng thời duy trì mười mạng lưới lời nói dối.",
+              "12": "Kiểm định Sức hấp dẫn +16; có thể khiến một lời nói dối trở thành \"nửa chân thật\".",
+              "13": "Kiểm định Sức hấp dẫn +18; có thể khiến một lời nói dối \"thành thật\" trong điều kiện cụ thể.",
+              "14": "Kiểm định Sức hấp dẫn +20; có thể dệt nên 【Lời nói dối vận mệnh】.",
+              "15": "Kiểm định Sức hấp dẫn +24; 【Lừa dối tối thượng】 - lời nói dối của ngươi chính là sự thật."
+            },
+            "阶位": "Cơ bản"
+          },
+          {
+            "名称": "Trùng thời gian · Phân liệt",
+            "类型": "Đặc biệt",
+            "描述": "Bản chất của Amon là tập hợp của \"Trùng của thời gian\". Hắn có thể phân tách ra phân thân, đồng thời tồn tại tại nhiều nơi.",
+            "特殊效果": {
+              "1": "Có thể phân liệt ra 1 phân thân, phân thân sở hữu 20% thuộc tính bản thể, kéo dài 3 lượt.",
+              "2": "Phân thân sở hữu 25% thuộc tính bản thể, kéo dài 4 lượt.",
+              "3": "Phân thân sở hữu 30% thuộc tính bản thể, kéo dài 4 lượt.",
+              "4": "Phân thân sở hữu 35% thuộc tính bản thể, kéo dài 5 lượt.",
+              "5": "Phân thân sở hữu 40% thuộc tính bản thể, kéo dài 5 lượt.",
+              "6": "Phân thân sở hữu 45% thuộc tính bản thể, kéo dài 6 lượt.",
+              "7": "Phân thân sở hữu 50% thuộc tính bản thể, kéo dài 6 lượt.",
+              "8": "Phân thân sở hữu 55% thuộc tính bản thể, kéo dài 7 lượt.",
+              "9": "Phân thân sở hữu 60% thuộc tính bản thể, kéo dài 7 lượt.",
+              "10": "Phân thân sở hữu 65% thuộc tính bản thể, kéo dài 8 lượt.",
+              "11": "Phân thân sở hữu 70% thuộc tính bản thể, kéo dài 8 lượt.",
+              "12": "Phân thân sở hữu 75% thuộc tính bản thể, kéo dài 9 lượt.",
+              "13": "Phân thân sở hữu 80% thuộc tính bản thể, kéo dài 9 lượt.",
+              "14": "Phân thân sở hữu 85% thuộc tính bản thể, kéo dài 10 lượt.",
+              "15": "【Hình thái trùng đàn】 - phân liệt ra 20 phân thân sở hữu 50% thuộc tính bản thể, các phân thân chia sẻ cảm nhận, chỉ cần còn bất kỳ phân thân nào sống sót thì bản thể sẽ không diệt."
+            },
+            "阶位": "Cơ bản"
+          },
+          {
+            "名称": "Trộm cắp · Vận mệnh",
+            "类型": "Chủ động",
+            "描述": "Đánh cắp khả năng của vận mệnh nơi mục tiêu. Có thể trộm đi may mắn, cơ hội, thậm chí cả \"tai họa sắp xảy ra\".",
+            "特殊效果": {
+              "1": "Trộm đi lợi thế của lần kiểm định kế tiếp của mục tiêu, rồi chuyển nó cho bản thân hoặc đồng đội.",
+              "2": "Trộm đi một trạng thái 【May mắn】 của mục tiêu.",
+              "3": "Trộm đi một cơ hội 【Bạo kích】 của mục tiêu, lưu trữ thành 【Đồng vận mệnh】.",
+              "4": "Trộm đi cơ hội 【Né tránh】 của mục tiêu, khiến lần né tránh kế tiếp của mục tiêu tự động thất bại.",
+              "5": "Trộm đi thứ tự 【Tiên công】 của mục tiêu, hoán đổi vị trí tiên công với mục tiêu.",
+              "6": "Trộm đi một lần 【miễn trừ thành công】 của mục tiêu, khiến lần miễn trừ kế tiếp của mục tiêu tự động thất bại.",
+              "7": "Trộm đi cơ hội 【Phản kích】 của mục tiêu, khiến mục tiêu không thể phản kích và ngươi nhận được một lần phản kích miễn phí.",
+              "8": "Trộm đi 【sát thương bạo kích】 của mục tiêu, khiến sát thương bạo kích của mục tiêu giảm một nửa, còn sát thương bạo kích của ngươi +50%.",
+              "9": "Trộm đi 【cơ hội hành động】 của mục tiêu, khiến mục tiêu mất một hành động còn ngươi có thêm một hành động.",
+              "10": "Trộm đi 【đường dây vận mệnh】 của mục tiêu - trong 3 lượt kế tiếp, mọi kiểm định của mục tiêu đều ở thế bất lợi, còn mọi kiểm định của ngươi đều có lợi thế.",
+              "11": "Trộm đi 【mảnh thời gian】 của mục tiêu - thời gian của mục tiêu bị dừng 0,5 giây, ngươi nhận thêm một hành động phản ứng.",
+              "12": "Trộm đi 【nhân quả】 của mục tiêu - biến một lần thành công của mục tiêu thành thất bại, hoặc biến một lần thất bại của bản thân thành thành công.",
+              "13": "Trộm đi 【mảnh ký ức】 của mục tiêu - biết được một bí mật hoặc một thông tin kỹ năng của mục tiêu.",
+              "14": "Trộm đi 【đặc trưng thân phận】 của mục tiêu - tạm thời nhận được một đặc chất hoặc năng lực chủng tộc của mục tiêu.",
+              "15": "Trộm đi 【sự tồn tại】 của mục tiêu - trong 1 lượt kế tiếp, mục tiêu sẽ \"không tồn tại trong nhân quả\", còn ngươi nhận được một cơ hội 【Viết lại vận mệnh】."
+            },
+            "阶位": "Cơ bản"
+          },
+          {
+            "名称": "Sai lầm · Ghép nối",
+            "类型": "Chủ động",
+            "描述": "Ghép nối sai lầm của \"nơi này\" sang \"nơi kia\". Chuyển dời sát thương, trạng thái, thậm chí cả nhân quả từ một mục tiêu sang mục tiêu khác.",
+            "特殊效果": {
+              "1": "Chuyển một hiệu ứng tiêu cực trên người đồng minh sang kẻ địch.",
+              "2": "Chuyển một hiệu ứng tích cực trên người kẻ địch sang đồng minh.",
+              "3": "Chuyển một đòn công kích sắp giáng xuống sang một mục tiêu khác trong phạm vi 5 ft.",
+              "4": "Ghép nối loại sát thương của một đòn công kích sang một loại sát thương khác.",
+              "5": "Ghép nối hiệu quả của một kỹ năng sang một kỹ năng khác.",
+              "6": "Ghép nối hiệu quả trị liệu của một kẻ địch sang bản thân.",
+              "7": "Ghép nối 【thù hận】 của một kẻ địch sang kẻ địch khác.",
+              "8": "Ghép nối một lần sát thương chí tử sang một phân thân.",
+              "9": "Ghép nối 【điểm yếu】 của một kẻ địch sang một bộ phận khác.",
+              "10": "Ghép nối 【cái chết】 sang một phân thân - khi bản thể tử vong, có thể chọn một phân thân làm vật tế chết thay.",
+              "11": "Ghép nối 【điều kiện chiến thắng】 - thay đổi điều kiện phán định thắng lợi của một ván chơi.",
+              "12": "Ghép nối 【quy tắc】 sang một cảnh tượng khác.",
+              "13": "Ghép nối 【nhân quả】 - nối sai giữa \"nhân\" và \"quả\".",
+              "14": "Ghép nối 【vận mệnh】 - hoán đổi đường dây vận mệnh của hai người.",
+              "15": "【Ghép nối tối thượng】 - ghép \"không tồn tại\" sang \"tồn tại\", hoặc ghép \"tồn tại\" sang \"không tồn tại\"."
+            },
+            "阶位": "Cơ bản"
+          }
+        ],
+        "转职": [
+          {
+            "名称": "Kẻ trộm thời gian",
+            "类型": "Đặc biệt",
+            "描述": "Tên trộm đánh cắp thời gian. Có thể tăng tốc thời gian của chính mình, hoặc làm chậm thời gian của kẻ địch.",
+            "特殊效果": {
+              "1": "Tăng tốc thời gian của bản thân, trong lượt này nhận thêm một hành động tặng thêm.",
+              "2": "Tăng tốc thời gian của bản thân, nhận thêm hai hành động tặng thêm.",
+              "3": "Làm chậm thời gian của kẻ địch, mục tiêu mất một hành động phản ứng.",
+              "4": "Làm chậm thời gian của kẻ địch, hành động kế tiếp của mục tiêu bị dời tới cuối lượt.",
+              "5": "Tăng tốc thời gian bản thân + làm chậm thời gian địch, bản thân có thêm một hành động, mục tiêu mất một hành động.",
+              "6": "Trộm 1 giây thời gian của mục tiêu, khiến mục tiêu không thể thực hiện phản ứng, còn ngươi có thêm một phản ứng.",
+              "7": "Trộm mảnh thời gian - sau khi thu thập đủ 3 mảnh thời gian có thể phóng thích một lần 【Dừng thời gian】.",
+              "8": "Có thể đồng thời ảnh hưởng tới tốc độ dòng chảy thời gian của hai mục tiêu.",
+              "9": "Có thể \"cho mượn\" mảnh thời gian của chính mình cho đồng đội.",
+              "10": "Trộm thời gian nâng cao - có thể trộm lấy năng lực biết trước \"1 giây tương lai\" của mục tiêu.",
+              "11": "Có thể khiến thời gian của một mục tiêu \"lặp vòng\".",
+              "12": "Có thể khiến thời gian của một mục tiêu \"quay ngược\".",
+              "13": "Có thể khiến thời gian của một mục tiêu \"nhảy cóc\".",
+              "14": "Có thể khiến thời gian của bản thân \"phân nhánh\" - đồng thời thực hiện hai hành động rồi chọn giữ lại một kết quả.",
+              "15": "【Chúa tể thời gian】 - đường thời gian của bản thân tách biệt độc lập, miễn nhiễm mọi hiệu ứng liên quan tới thời gian, mỗi lượt có thể thực hiện một lần 【Quay ngược thời gian】."
+            },
+            "阶位": "Chuyển nghề"
+          },
+          {
+            "名称": "Sai lầm · Lỗ hổng",
+            "类型": "Đặc biệt nghề nghiệp",
+            "描述": "Bản thân Amon chính là hiện thân của \"Sai lầm\". Hắn có thể tìm ra lỗ hổng của mọi quy tắc, kết giới, hệ thống, rồi \"chui\" qua đó.",
+            "特殊效果": {
+              "1": "Bị động: Có thể tìm thấy lỗ hổng trong 【minh ước】 hoặc 【luật chơi】 của kẻ địch, khiến bản thân không bị một phần điều khoản ràng buộc."
+            },
+            "阶位": "Chuyển nghề"
+          },
+          {
+            "名称": "Trò chơi lừa dối",
+            "类型": "Chủ động",
+            "描述": "Trò chơi mà Amon giỏi nhất. Biến chiến đấu thành một ván cờ lừa dối, còn quy tắc do chính hắn đặt ra.",
+            "特殊效果": {
+              "1": "Mở ra 【Trò chơi lừa dối】 kéo dài 3 lượt. Kẻ vi phạm quy tắc sẽ chịu sát thương tinh thần bằng 10% sinh mệnh tối đa.",
+              "2": "Kéo dài 4 lượt; sát thương do vi phạm quy tắc bằng 15% sinh mệnh tối đa.",
+              "3": "Kéo dài 4 lượt; sát thương bằng 20% sinh mệnh tối đa.",
+              "4": "Kéo dài 5 lượt; sát thương bằng 25% sinh mệnh tối đa.",
+              "5": "Kéo dài 5 lượt; sát thương bằng 30% sinh mệnh tối đa.",
+              "6": "Kéo dài 6 lượt; sát thương bằng 35% sinh mệnh tối đa.",
+              "7": "Kéo dài 6 lượt; sát thương bằng 40% sinh mệnh tối đa.",
+              "8": "Kéo dài 7 lượt; sát thương bằng 45% sinh mệnh tối đa.",
+              "9": "Kéo dài 7 lượt; sát thương bằng 50% sinh mệnh tối đa.",
+              "10": "Kéo dài 8 lượt; sát thương bằng 60% sinh mệnh tối đa; 【Trò chơi lừa dối tối thượng】 - quy tắc do Amon tùy ý đặt ra, đồng thời Amon có thể sửa đổi một điều lệ giữa chừng."
+            },
+            "阶位": "Chuyển nghề"
+          }
+        ],
+        "进阶": [
+          {
+            "名称": "Kẻ trộm mộng",
+            "类型": "Đặc biệt",
+            "描述": "Lẻn vào mộng cảnh và tiềm thức của mục tiêu. Đánh cắp ký ức, bí mật, thậm chí cả nỗi sợ hãi.",
+            "特殊效果": {
+              "1": "Có thể đọc ký ức tầng nông của một mục tiêu.",
+              "2": "Có thể đọc ký ức tầng sâu của một mục tiêu.",
+              "3": "Có thể trộm đi 【nỗi sợ】 của một mục tiêu; khi gây hiệu ứng sợ hãi lên mục tiêu trong chiến đấu, thời lượng tăng thêm 1 lượt.",
+              "4": "Có thể trộm đi 【chấp niệm】 của một mục tiêu, khiến mục tiêu tạm thời đánh mất ý chí chiến đấu.",
+              "5": "Có thể lẻn vào mộng cảnh, giao tiếp với mục tiêu ở trong mơ.",
+              "6": "Có thể trộm đi 【ký ức kỹ năng】 của mục tiêu trong mơ, tạm thời học được một kỹ năng của mục tiêu.",
+              "7": "Có thể cấy vào mộng cảnh một 【ký ức giả】.",
+              "8": "Có thể trộm đi 【nhận thức thân phận】 của mục tiêu trong mơ.",
+              "9": "Có thể đồng thời trộm thông tin mộng cảnh của ba mục tiêu.",
+              "10": "Có thể khiến một mục tiêu rơi vào 【khốn cảnh mộng cảnh】, mỗi lượt có 30% xác suất đưa ra phán đoán sai lầm.",
+              "11": "Có thể trộm đi 【linh cảm】 của mục tiêu, khiến mục tiêu mất toàn bộ năng lực trực giác.",
+              "12": "Có thể trộm đi 【sáng tạo lực】 của mục tiêu, khiến mục tiêu không thể dùng các kỹ năng cần \"cấu tứ\".",
+              "13": "Có thể dựng nên 【lồng ngục ác mộng】 trong mơ, khiến tinh thần mục tiêu bị nhốt trong mộng cảnh, còn ngoài hiện thực mất 3 hành động.",
+              "14": "Có thể trộm đi 【giấc mộng vận mệnh】 của mục tiêu, biết trước một biến cố trọng đại trong tương lai của mục tiêu.",
+              "15": "【Kẻ thống trị mộng cảnh】 - có thể tự do ra vào mộng cảnh của mọi sinh vật, đồng thời sở hữu quyền chi phối tuyệt đối trong mộng cảnh."
+            },
+            "阶位": "Nâng cao"
+          },
+          {
+            "名称": "Tơ vận mệnh",
+            "类型": "Đặc biệt",
+            "描述": "Amon có thể nhìn thấy và thao túng những sợi tơ của vận mệnh. Cắt đứt, nối liền, thắt nút, tùy tâm sở dục.",
+            "特殊效果": {
+              "1": "Có thể nhìn thấy 【tơ vận mệnh】 của mọi sinh vật.",
+              "2": "Có thể cắt đứt một sợi tơ vận mệnh, chặt đứt 【liên hệ nhân quả】 giữa hai mục tiêu.",
+              "3": "Có thể nối liền hai sợi tơ vận mệnh, khiến hai vận mệnh vốn không liên quan trở nên 【ràng buộc】.",
+              "4": "Có thể thắt một 【nút vận mệnh】, khiến vận mệnh của hai mục tiêu tạm thời \"đồng bộ\".",
+              "5": "Có thể gảy một sợi tơ vận mệnh, thay đổi \"tiểu vận mệnh\" của một mục tiêu.",
+              "6": "Có thể dệt nên một đoạn 【mảnh vận mệnh】, khiến mục tiêu kích hoạt vận mệnh được cài sẵn dưới điều kiện nhất định.",
+              "7": "Có thể ẩn đi tơ vận mệnh của chính mình, mọi năng lực tiên tri đều không thể định vị Amon.",
+              "8": "Có thể trộm đi một sợi tơ vận mệnh, tạm thời giành quyền sở hữu vận mệnh ấy.",
+              "9": "Có thể đồng thời thao túng 5 sợi tơ vận mệnh.",
+              "10": "Có thể dệt nên 【bẫy vận mệnh】 - khi có ai đó định nhìn trộm vận mệnh của ngươi, cái bẫy sẽ bị kích hoạt.",
+              "11": "Có thể 【nhuộm màu】 cho tơ vận mệnh, khiến vận mệnh lệch về một hướng cụ thể.",
+              "12": "Có thể cắt đứt tơ vận mệnh của chính mình, tạm thời thoát khỏi nhân quả.",
+              "13": "Có thể 【ghép nối lên】 phân thân tơ vận mệnh của chính mình.",
+              "14": "Có thể dệt nên 【vòng khép kín vận mệnh】, khiến vận mệnh của mục tiêu rơi vào vòng lặp.",
+              "15": "【Kẻ dệt vận mệnh】 - có thể dệt lại toàn bộ đường dây vận mệnh hoàn chỉnh của một con người."
+            },
+            "阶位": "Nâng cao"
+          },
+          {
+            "名称": "Xúc chạm của Amon",
+            "类型": "Chủ động",
+            "描述": "Cái chạm của Amon có thể \"trộm đi\" bất cứ thứ gì. Không chỉ là vật phẩm, mà còn là năng lực, thân phận, thậm chí cả bản thân sự tồn tại.",
+            "特殊效果": {
+              "1": "Chạm vào mục tiêu để trộm đi một vật phẩm không ma pháp.",
+              "2": "Chạm vào mục tiêu để trộm đi quyền sử dụng của một vật phẩm ma pháp.",
+              "3": "Chạm vào mục tiêu để trộm đi một 【trạng thái】.",
+              "4": "Chạm vào mục tiêu để trộm đi quyền sử dụng tạm thời của một 【kỹ năng】.",
+              "5": "Chạm vào mục tiêu để trộm đi quyền sử dụng tạm thời của một 【đặc chất】.",
+              "6": "Chạm vào mục tiêu để trộm đi một 【thân phận】.",
+              "7": "Chạm vào mục tiêu để trộm đi 【giọng nói】 của mục tiêu.",
+              "8": "Chạm vào mục tiêu để trộm đi 【cái bóng】 của mục tiêu.",
+              "9": "Chạm vào mục tiêu để trộm đi 【tên gọi】 của mục tiêu.",
+              "10": "Chạm vào mục tiêu để trộm đi 【may mắn】 của mục tiêu.",
+              "11": "Chạm vào mục tiêu để trộm đi 【ký ức】 của mục tiêu.",
+              "12": "Chạm vào mục tiêu để trộm đi 【cảm xúc】 của mục tiêu.",
+              "13": "Chạm vào mục tiêu để trộm đi 【thiên phú】 của mục tiêu.",
+              "14": "Chạm vào mục tiêu để trộm đi 【xác thực thân phận】 của mục tiêu.",
+              "15": "【Xúc chạm tối thượng】 - chạm vào mục tiêu rồi trộm đi 【sự tồn tại】 của mục tiêu."
+            },
+            "阶位": "Nâng cao"
+          }
+        ],
+        "必杀": [
+          {
+            "名称": "Lĩnh vực sai lầm",
+            "类型": "Chủ động",
+            "描述": "Triển khai một lĩnh vực của \"Sai lầm\". Trong lĩnh vực ấy, mọi quy luật, logic và nhân quả đều bị bẻ cong.",
+            "特殊效果": {
+              "1": "Triển khai lĩnh vực bán kính 20 ft, kéo dài 3 lượt. Trong lĩnh vực, đòn công kích có 20% xác suất lệch khỏi mục tiêu.",
+              "2": "Bán kính 30 ft, kéo dài 4 lượt; xác suất lệch 30%.",
+              "3": "Bán kính 40 ft, kéo dài 4 lượt; xác suất lệch 40%.",
+              "4": "Bán kính 50 ft, kéo dài 5 lượt; xác suất lệch 50%.",
+              "5": "Bán kính 60 ft, kéo dài 5 lượt; xác suất lệch 60%.",
+              "6": "Bán kính 70 ft, kéo dài 6 lượt; 【Sai lầm tràn lan】 - trong lĩnh vực, mỗi lượt sẽ ngẫu nhiên kích hoạt một hiệu ứng sai lầm.",
+              "7": "Bán kính 100 ft, kéo dài 7 lượt; 【Sai lầm tuyệt đối】 - trong lĩnh vực, Amon có thể chỉ định một \"sai lầm\" xảy ra."
+            },
+            "阶位": "Tất sát"
+          },
+          {
+            "名称": "Mắt quỷ bí",
+            "类型": "Chủ động",
+            "描述": "Bên dưới chiếc kính một tròng của Amon là con mắt có thể nhìn thấu mọi điều quỷ bí. Nó có thể nhìn xuyên chân tướng, lời nói dối, ngụy trang và mọi thứ ẩn giấu.",
+            "特殊效果": {
+              "1": "Mở 【Mắt quỷ bí】, kéo dài 3 lượt. Có thể nhìn thấu ảo thuật và ngụy trang.",
+              "2": "Kéo dài 4 lượt; có thể nhìn thấu đơn vị tàng hình.",
+              "3": "Kéo dài 4 lượt; có thể nhìn thấy 【ý đồ chân thật】 của mục tiêu.",
+              "4": "Kéo dài 5 lượt; có thể nhìn thấy hướng đi của 【tơ vận mệnh】 của mục tiêu.",
+              "5": "Kéo dài 5 lượt; có thể nhìn thấy 【mảnh ký ức】 của mục tiêu.",
+              "6": "Kéo dài 6 lượt; có thể nhìn thấy 【lỗ hổng quy tắc】.",
+              "7": "Kéo dài 6 lượt; có thể nhìn thấy 【đường nhân quả】.",
+              "8": "Kéo dài 7 lượt; có thể nhìn thấy 【nhánh thời gian】.",
+              "9": "Kéo dài 7 lượt; có thể nhìn thấy 【chân tướng】.",
+              "10": "Kéo dài 8 lượt; 【Góc nhìn toàn tri】 - có thể đồng thời nhìn thấy vận mệnh, nhân quả, thời gian, quy tắc và chân tướng."
+            },
+            "阶位": "Tất sát"
+          },
+          {
+            "名称": "Trùng thời gian · Giáng lâm",
+            "类型": "Triệu hồi",
+            "描述": "Triệu hồi vô số phân thân \"Trùng của thời gian\". Mỗi một con đều là một Amon.",
+            "召唤物名称": "Quần thể Trùng của thời gian",
+            "特殊效果": {
+              "1": "Triệu hồi 5 Trùng của thời gian, mỗi con có 10% thuộc tính bản thể, kéo dài 3 lượt.",
+              "2": "Triệu hồi 7 Trùng của thời gian, mỗi con có 12% thuộc tính bản thể, kéo dài 4 lượt.",
+              "3": "Triệu hồi 10 Trùng của thời gian, mỗi con có 15% thuộc tính bản thể, kéo dài 4 lượt.",
+              "4": "Triệu hồi 12 Trùng của thời gian, mỗi con có 18% thuộc tính bản thể, kéo dài 5 lượt.",
+              "5": "Triệu hồi 15 Trùng của thời gian, mỗi con có 20% thuộc tính bản thể, kéo dài 5 lượt.",
+              "6": "Triệu hồi 20 Trùng của thời gian, mỗi con có 25% thuộc tính bản thể, kéo dài 6 lượt.",
+              "7": "Triệu hồi 30 Trùng của thời gian, mỗi con có 30% thuộc tính bản thể, kéo dài 7 lượt."
+            },
+            "阶位": "Tất sát"
+          }
+        ],
+        "奥义": [
+          {
+            "名称": "Tính duy nhất của sai lầm · Giải phóng quyền bính",
+            "类型": "Chủ động",
+            "描述": "Tạm thời giải phóng quyền bính tính duy nhất của \"Sai lầm\". Trở thành chính bản thân sai lầm.",
+            "特殊效果": {
+              "1": "Tiến vào trạng thái 【Quyền bính sai lầm】, kéo dài 3 lượt. Mọi kỹ năng có CD giảm một nửa.",
+              "2": "Kéo dài 4 lượt; 【Ghép nối】 có thể đồng thời tác động lên ba mục tiêu.",
+              "3": "Kéo dài 4 lượt; có thể đồng thời thao túng 10 phân thân.",
+              "4": "Kéo dài 5 lượt; có thể đồng thời tiến hành ba ván 【Trò chơi lừa dối】.",
+              "5": "Kéo dài 6 lượt; 【Sai lầm tuyệt đối】 - Amon có thể phủ định một lần \"sự thật\", mỗi lượt một lần."
+            },
+            "阶位": "Áo nghĩa"
+          },
+          {
+            "名称": "Thị giả quỷ bí",
+            "类型": "Đặc biệt",
+            "描述": "Amon không chỉ có một, hắn là tập hợp của \"mọi Amon\".",
+            "特殊效果": {
+              "1": "Mọi phân thân đều tăng lên tới 50% thuộc tính bản thể.",
+              "2": "Mọi phân thân đều tăng lên tới 60% thuộc tính bản thể.",
+              "3": "Mọi phân thân đều tăng lên tới 70% thuộc tính bản thể.",
+              "4": "Mọi phân thân đều tăng lên tới 80% thuộc tính bản thể.",
+              "5": "【Tụ hợp quỷ bí】 - toàn bộ phân thân bị xem là cùng một tồn tại; chỉ cần còn một phân thân sống sót thì Amon sẽ không chết."
+            },
+            "阶位": "Áo nghĩa"
+          },
+          {
+            "名称": "Hình chiếu Nguyên Bảo",
+            "类型": "Đặc biệt",
+            "描述": "Triệu hồi hình chiếu của Nguyên Bảo. Nguyên Bảo là đầu nguồn của vận mệnh, quỷ bí và mọi \"Sai lầm\".",
+            "特殊效果": {
+              "1": "Triệu hồi hình chiếu Nguyên Bảo, kéo dài 3 lượt. Hiệu quả của mọi kỹ năng thuộc loại 【Trộm cắp】, 【Lừa dối】, 【Sai lầm】 tăng +50%.",
+              "2": "Kéo dài 4 lượt; hiệu quả +100%.",
+              "3": "Kéo dài 5 lượt; hiệu quả +150%.",
+              "4": "Kéo dài 5 lượt; hiệu quả +200%.",
+              "5": "Kéo dài 6 lượt; 【Nguyên Bảo giáng lâm】 - hình chiếu phủ trùm toàn chiến trường, Amon sở hữu 【quyền bính của thần】."
+            },
+            "阶位": "Áo nghĩa"
+          }
+        ],
+        "觉醒一": [
+          {
+            "名称": "Thức tỉnh một: Thần của sai lầm",
+            "类型": "Chủ động",
+            "阶位": "Thức tỉnh một",
+            "描述": "Hình thái cuối cùng của Amon - Thần của sai lầm. Không còn là \"nắm giữ sai lầm\", mà là \"chính là sai lầm\".",
+            "特殊效果": {
+              "1": "Biến thân thành 【Thần của sai lầm】, kéo dài 5 lượt. Toàn bộ thuộc tính +10; mọi kỹ năng không tiêu hao, không có CD; miễn nhiễm mọi năng lực thuộc loại 【Tiên tri】, 【Vận mệnh】, 【Nhân quả】; mỗi lượt có thể chỉ định một 【sai lầm】 xảy ra.",
+              "2": "Biến thân thành 【Thần của sai lầm】, kéo dài 7 lượt. Toàn bộ thuộc tính +15; có thể \"tạo ra\" một 【khái niệm sai lầm】; có thể đồng thời chỉ định hai 【sai lầm】.",
+              "3": "Biến thân thành 【Thần của sai lầm】, kéo dài 10 lượt. Toàn bộ thuộc tính +20; 【Hóa thân sai lầm】 - sự tồn tại của Amon tự thân đã là sai lầm; có thể chỉ định ba 【sai lầm】."
+            }
+          }
+        ],
+        "觉醒二": [
+          {
+            "名称": "Thức tỉnh hai: Trùng thời gian · Vô hạn",
+            "类型": "Đặc biệt",
+            "阶位": "Thức tỉnh hai",
+            "描述": "Hình thái tối thượng của Amon - \"vô hạn Amon\". Trong mỗi dòng thời gian, trong mỗi khả năng, đều tồn tại một Amon.",
+            "特殊效果": {
+              "1": "【Phân thân vô hạn】 - có thể triệu hồi những Amon thuộc các \"khả năng\" khác từ mọi đường thời gian song song. Mỗi lượt có thể triệu hồi 3 【phân thân khả năng】 (sở hữu 80% thuộc tính bản thể, kéo dài tới hết chiến đấu).",
+              "2": "【Thống hợp toàn bộ đường thời gian】 - Amon đồng thời tồn tại trong mọi đường thời gian. Mỗi lượt có thể chọn một nhánh đường thời gian để nhận lấy 【khả năng】 của nhánh đó. Miễn nhiễm mọi hiệu ứng thuộc loại 【Quay ngược thời gian】 và 【Dừng thời gian】."
+            }
+          }
+        ],
+        "觉醒三": [
+          {
+            "名称": "Thức tỉnh ba: Sai lầm · Nguồn đầu",
+            "类型": "Đặc biệt",
+            "阶位": "Thức tỉnh ba",
+            "描述": "Chạm tới nguồn đầu của \"Sai lầm\" - nơi mà \"chân thật\" và \"hư giả\" không còn khác biệt nữa.",
+            "特殊效果": {
+              "1": "Mỗi trận chiến 1 lần. Tiến vào trạng thái 【Nguồn đầu sai lầm】, kéo dài 3 lượt. Có thể chọn một trong các mục sau: 1. phủ định một \"tồn tại\"; 2. tạo ra một \"sai lầm\"; 3. trộm đi 【chân thật】; 4. trở thành 【sai lầm của vạn vật】; 5. đặt lại 【kết quả】 của một ván chơi."
+            }
+          }
+        ]
+      },
+      "skillTreeForClass": "Lữ giả quỷ bí · Amon",
+      "lockedSkillMap": {
+        "诡秘行者·阿蒙": {
+          "基础": {},
+          "转职": {},
+          "进阶": {},
+          "必杀": {},
+          "奥义": {},
+          "觉醒一": {},
+          "觉醒二": {},
+          "觉醒三": {}
+        }
+      },
+      "skillFlavorInput": "Trộm cắp / lừa dối / sai lầm / vận mệnh",
+      "teammates": [],
+      "customTeammate": null,
+      "selectedTraits": [],
+      "customTraits": [
+        {
+          "name": "Tập hợp Trùng của thời gian",
+          "effect": "Bản chất của Amon là tập hợp của vô số \"Trùng của thời gian\". Mỗi trận chiến có thể phân liệt tối đa 5 phân thân vĩnh viễn (sở hữu 50% thuộc tính bản thể, có thể hành động độc lập, chia sẻ cảm nhận). Các phân thân có thể \"nuốt\" lẫn nhau để hồi sinh mệnh (mỗi phân thân hồi 20% sinh mệnh tối đa)."
+        },
+        {
+          "name": "Kính một tròng",
+          "effect": "Chiếc kính một tròng mang tính biểu tượng của Amon. Khi đeo vào, có thể nhìn thấu mọi ảo thuật, ngụy trang, tàng hình và lừa dối. Khi tháo ra, có thể ẩn giấu tơ vận mệnh của chính mình, khiến các năng lực tiên tri không thể định vị Amon. Bản thân chiếc kính một tròng cũng là một 【vật phẩm sai lầm】 - bất kỳ ai mưu toan trộm hoặc phá hủy nó đều sẽ kích hoạt một lần 【Sai lầm ghép nối】."
+        },
+        {
+          "name": "Kẻ báng bổ thần linh",
+          "effect": "Amon khinh thường khái niệm về \"thần\". Mọi năng lực liên quan đến \"thần\", \"tín ngưỡng\", \"vận mệnh\", \"quy tắc\" chỉ có một nửa hiệu quả với Amon. Năng lực 【Trộm cắp】 của Amon có thể đánh cắp \"thần lực\", \"thần tính\", thậm chí cả \"thần vị\". Mỗi khi giết một mục tiêu sở hữu \"thần tính\", mọi thuộc tính của Amon sẽ vĩnh viễn +1."
+        }
+      ],
+      "customExpertise": [],
+      "customIdentity": {
+        "enabled": true,
+        "name": "Kẻ báng bổ thần linh · Trùng của thời gian",
+        "desc": "Con trai của Thái Dương Thần cổ xưa, kẻ nắm giữ quyền bính của sai lầm và quỷ bí. Sinh ra trong bóng tối của Nguyên Bảo, là đỉnh cao của con đường Kẻ trộm. Thích đeo kính một tròng, thích trò đùa ác ý, thích nhìn vẻ mặt kinh hoàng của con mồi.",
+        "tierIndex": 0
+      },
+      "selectedOpening": "custom",
+      "customOpeningText": "Chiếc kính một tròng xoay trên đầu ngón tay. Ngươi nhìn thế giới hỗn loạn trước mắt - quy tắc của Disbode, chiến tranh của Arad, ván cờ của các chủng tộc. Khóe môi cong lên thành một đường cung ác liệt. \"Một trò chơi thú vị.\" Ngươi nói, \"Ta đã ngửi thấy mùi của sai lầm rồi.\"",
+      "selectedDifficulty": "easy",
+      "customRace": {
+        "enabled": true,
+        "name": "Trùng của thời gian",
+        "trait1": {
+          "name": "Phân thân vô hạn",
+          "detail": "Có thể phân liệt tối đa 10 phân thân. Phân thân sở hữu 50% thuộc tính bản thể, có thể hành động độc lập, sử dụng kỹ năng độc lập. Giữa các phân thân có thể lập tức đổi chỗ cho nhau, chia sẻ cảm nhận. Khi phân thân chết, bản thể có thể thu hồi 50% năng lượng đã tiêu hao. Chỉ cần còn một phân thân sống sót, Amon sẽ không thật sự chết.",
+          "negative": false
+        },
+        "trait2": {
+          "name": "Đứa con của sai lầm",
+          "detail": "Amon là hiện thân của \"Sai lầm\". Bất kỳ hành vi nào muốn dùng quy tắc, minh ước hoặc khế ước để trói buộc Amon đều có 50% xác suất xuất hiện \"Sai lầm\" (khế ước mất hiệu lực hoặc phản phệ người lập khế ước). Amon có thể chủ động \"tạo ra sai lầm\"; mỗi lần nghỉ dài, hắn có thể khiến một hiệu quả thuộc loại quy tắc xuất hiện một \"lỗ hổng\".",
+          "negative": false
+        }
+      }
+    }
+  }
+}

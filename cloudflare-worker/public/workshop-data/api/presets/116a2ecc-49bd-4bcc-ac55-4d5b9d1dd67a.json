@@ -1,0 +1,42 @@
+{
+  "ok": true,
+  "preset": {
+    "id": "116a2ecc-49bd-4bcc-ac55-4d5b9d1dd67a",
+    "ownerId": "1463439454080467131",
+    "ownerName": "Qixing Piaochong",
+    "author": "Qixing Piaochong",
+    "authorAvatar": "https://cdn.discordapp.com/avatars/1463439454080467131/3b0fa57f9a76fd88e399c0bfbab93ee9.png?size=128",
+    "name": "Doctor Strange",
+    "title": "Doctor Strange",
+    "intro": "Chủng tộc tùy chỉnh, kỹ năng và đặc chất đều do tôi tự thiết kế. Không đến mức quá biến thái, nhưng đều khá thú vị, hy vọng mọi người sẽ thích.",
+    "coverUrl": "/api/presets/116a2ecc-49bd-4bcc-ac55-4d5b9d1dd67a/cover",
+    "className": "Pháp Sư Tối Thượng",
+    "race": "Doctor Strange",
+    "tags": [
+      "Luân hồi tuyệt cảnh",
+      "Khống chế",
+      "Dọn quái",
+      "Bộc phát"
+    ],
+    "likes": 4,
+    "liked": false,
+    "downloads": 29,
+    "status": "published",
+    "createdAt": "2026-03-19 22:31:25",
+    "updatedAt": "2026-05-24 08:12:48",
+    "lastLikedAt": "",
+    "presetData": {
+      "name": "Stephen Cumberbatch",
+      "class": "Pháp Sư Tối Thượng",
+      "customClassName": "Pháp Sư Tối Thượng",
+      "race": "__custom__",
+      "customRace": {
+        "name": "Doctor Strange"
+      },
+      "customClassStyle": "Dùng Sling Ring triệu hồi cổng dịch chuyển; Con Mắt Agamotto đeo trên cổ sở hữu năng lực điều khiển thời gian, cho phép xuyên qua nhiều chiều không gian khác nhau.",
+      "backstory": "",
+      "selectedCustomLevel": null
+    },
+    "downloadUrl": "/api/presets/116a2ecc-49bd-4bcc-ac55-4d5b9d1dd67a/file"
+  }
+}

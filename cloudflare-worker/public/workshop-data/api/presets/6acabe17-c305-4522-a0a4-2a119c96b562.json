@@ -1,0 +1,38 @@
+{
+  "ok": true,
+  "preset": {
+    "id": "6acabe17-c305-4522-a0a4-2a119c96b562",
+    "ownerId": "1428644883513606245",
+    "ownerName": "Khanh vốn giai nhân, cớ sao theo giặc",
+    "author": "Khanh vốn giai nhân, cớ sao theo giặc",
+    "authorAvatar": "https://cdn.discordapp.com/avatars/1428644883513606245/b40aa5b833c9081e4443012d3b336483.png?size=128",
+    "name": "Giáp Xingtian",
+    "title": "Giáp Xingtian",
+    "intro": "Như tiêu đề, muốn chơi kiểu Kamen Rider và võ thuật nên tôi viết một Xingtian. Số liệu chỉ là ước tính trong đầu, có thể tự chỉnh hoặc chờ tôi vừa chơi vừa sửa.",
+    "coverUrl": "/api/presets/6acabe17-c305-4522-a0a4-2a119c96b562/cover",
+    "className": "Người Triệu Hồi Giáp",
+    "race": "Nhân loại chủng",
+    "tags": [
+      "Triệu hồi",
+      "Võ thuật"
+    ],
+    "likes": 2,
+    "liked": false,
+    "downloads": 31,
+    "status": "published",
+    "createdAt": "2026-04-06 14:10:15",
+    "updatedAt": "2026-05-21 13:48:29",
+    "lastLikedAt": "",
+    "presetData": {
+      "name": "Giáp Xingtian",
+      "class": "Người Triệu Hồi Giáp",
+      "customClassName": "Người Triệu Hồi Giáp",
+      "race": "Nhân loại chủng",
+      "customRace": null,
+      "customClassStyle": "Cơ chế vận hành cốt lõi: ý năng khu động. Chuyển hóa môi giới: người triệu hồi dùng triệu hồi khí đặc định (như thắt lưng) làm môi giới, hợp thể với giáp để khuếch đại toàn diện năng lực tác chiến. Độ mạnh ý năng: giới hạn trên của sức chiến đấu do ý năng (ý chí và khí trường) quyết định. Ý năng càng mạnh, bội suất khuếch đại của giáp càng cao, thậm chí có thể kích hoạt tiến hóa hình thái \"trạng thái kịch đấu\" hoặc \"trạng thái Chiến Thần\". Khi ý năng cạn kiệt, trạng thái hợp thể giáp bị cưỡng chế giải trừ. Dung nhập võ học: các bộ giáp khác nhau thường mang phong cách cách đấu riêng; Xingtian có phong cách chặn đỡ phản kích kiểu phát sau mà đến trước. Cơ chế sát thương: sát thương phải chịu trong thời gian hợp thể giáp được ý năng triệt tiêu, phản ánh thành đau ảo ở tứ chi và trạng thái tinh thần của người triệu hồi (tinh thần sung mãn - hơi sa sút - uể oải rã rời).",
+      "backstory": "",
+      "selectedCustomLevel": 1
+    },
+    "downloadUrl": "/api/presets/6acabe17-c305-4522-a0a4-2a119c96b562/file"
+  }
+}

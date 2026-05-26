@@ -1,0 +1,43 @@
+{
+  "ok": true,
+  "preset": {
+    "id": "a4fab1b0-21b4-45fe-b59b-45a09d34d928",
+    "ownerId": "1346021951130308631",
+    "ownerName": "joker",
+    "author": "joker",
+    "authorAvatar": "",
+    "name": "Võ Tu Chân Khí",
+    "title": "Võ Tu Chân Khí",
+    "intro": "Mỗi lần phóng thích kỹ năng đều có thể nhận 【Chân khí】. Số lượng chân khí không có giới hạn trên và có thể tích lũy mãi mãi; chân khí càng nhiều thì càng mạnh (có cảm giác từng bước mạnh lên đến mức thiên hạ vô địch. Giai đoạn đầu vẫn phải đánh từng bước; khi chân khí tích được khoảng 500 điểm và đã thức tỉnh Áo nghĩa thì có thể mở độ khó ác mộng. Nếu tích đến 1000 tầng, bất kể đối phương là ai, cấp độ nào, địa vị gì, bạn mở độ khó nào, gần như mọi trận chiến đều chỉ còn là đoạn chuyển cảnh). Sau khi thức tỉnh Áo nghĩa, bảy ô kỹ năng hãy mang các kỹ năng có chữ 【bắt buộc chọn】 trong mô tả. Trước khi thức tỉnh thì không quá quan trọng; mỗi trận chiến đánh thêm vài vòng để tích chân khí là được, không mở độ khó cao cũng đánh tùy ý. Hakimi thường sẽ quên tính lượng chân khí bạn nhận được, nên nhớ tra hỏi và nhắc nhở nhiều vào.\n\nNếu biết chỉnh, trong COT preset chính thức hãy thêm vào Setp.2:\n    - Số lượng 【Chân khí】 hiện tại, số lượng 【Chân khí】 nhận được từ lần phóng thích kỹ năng này và từ các kỹ năng bị động đang sở hữu, cùng tổng số 【Chân khí】 sau khi kết toán lần phóng thích kỹ năng này,\n\nThêm vào Sept.5:\n  - Biến động số lượng 【Chân khí】: lượng tăng từ mỗi lần phóng thích kỹ năng chủ động, chân khí nhận từ [Chân Tức Lưu Chuyển] kèm theo mỗi lần tấn công, lượng chân khí tăng từ kỹ năng bị động đang tồn tại; sau khi tổng hợp toàn bộ phần tăng, sửa số lượng 【Chân khí】 được ghi trong nội dung đặc chất [Tụ Liễm Chân Khí].\n\nNếu Hakimi tính sót hiệu quả kỹ năng hoặc hiệu quả chân khí, khi chiến đấu hãy thêm vào cuối input: (đừng quên hiệu quả tăng hệ số sát thương bạo kích của 【Dòng Tâm Võ Đức】, đừng quên hiệu quả giảm ngưỡng bạo kích của 【Dòng Tâm Võ Đức】, đừng quên phụ thương của 【Chân Tức Lưu Chuyển】 là phụ thương sát thương cuối cùng, đừng quên cộng thêm trúng đích của 【Chân Tức Lưu Chuyển】, đừng quên hiệu quả bỏ qua phòng ngự và giảm trừ của 【Chân Tức Lưu Chuyển】, đừng quên giảm thương và kháng tính của tôi, đừng quên cộng thêm sinh mệnh do 【Thân Võ Thần】 mang lại)",
+    "coverUrl": "/api/presets/a4fab1b0-21b4-45fe-b59b-45a09d34d928/cover",
+    "className": "Võ tu",
+    "race": "Chủng tộc tùy chỉnh",
+    "tags": [
+      "Bộc phát",
+      "Dọn quái",
+      "Duy trì",
+      "Lên cấp",
+      "Nuôi dưỡng"
+    ],
+    "likes": 1,
+    "liked": false,
+    "downloads": 5,
+    "status": "published",
+    "createdAt": "2026-05-05 11:17:14",
+    "updatedAt": "2026-05-22 06:48:22",
+    "lastLikedAt": "",
+    "presetData": {
+      "name": "J",
+      "class": "Võ tu",
+      "customClassName": "Võ tu",
+      "race": "__custom__",
+      "customRace": {
+        "name": "Chủng tộc tùy chỉnh"
+      },
+      "customClassStyle": "Dựa vào lượng lớn kỹ năng bị động và một ít kỹ năng chủ động; mỗi lần phóng thích kỹ năng chủ động đều tích lũy [khí] để cường hóa bản thân.",
+      "backstory": "",
+      "selectedCustomLevel": null
+    },
+    "downloadUrl": "/api/presets/a4fab1b0-21b4-45fe-b59b-45a09d34d928/file"
+  }
+}

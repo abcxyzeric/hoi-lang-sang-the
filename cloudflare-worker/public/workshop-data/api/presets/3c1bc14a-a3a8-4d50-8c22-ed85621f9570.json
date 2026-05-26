@@ -1,0 +1,39 @@
+{
+  "ok": true,
+  "preset": {
+    "id": "3c1bc14a-a3a8-4d50-8c22-ed85621f9570",
+    "ownerId": "1463439454080467131",
+    "ownerName": "Bọ Rùa Bảy Sao",
+    "author": "Bọ Rùa Bảy Sao",
+    "authorAvatar": "https://cdn.discordapp.com/avatars/1463439454080467131/3b0fa57f9a76fd88e399c0bfbab93ee9.png?size=128",
+    "name": "Hãy chiến đấu bằng hình chiếu vũ trụ song song!",
+    "title": "Hãy chiến đấu bằng hình chiếu vũ trụ song song!",
+    "intro": "Về cơ bản, tôi đã cố nhét phần lớn các tác phẩm ACGN nổi tiếng vào đây. Đây có lẽ là nghề mà tôi thấy vui nhất trong số những nghề mình từng làm; cơ chế kỹ năng thú vị hơn bản trước nhiều, đặc chất cũng được cải thiện không ít.",
+    "coverUrl": "/api/presets/3c1bc14a-a3a8-4d50-8c22-ed85621f9570/cover",
+    "className": "Người Chơi Số Một",
+    "race": "Game thủ",
+    "tags": [
+      "Không vui thì cứ trách tôi"
+    ],
+    "likes": 25,
+    "liked": false,
+    "downloads": 682,
+    "status": "published",
+    "createdAt": "2026-03-31 17:40:54",
+    "updatedAt": "2026-05-25 11:05:26",
+    "lastLikedAt": "",
+    "presetData": {
+      "name": "Galahad Morris",
+      "class": "Người Chơi Số Một",
+      "customClassName": "Người Chơi Số Một",
+      "race": "__custom__",
+      "customRace": {
+        "name": "Game thủ"
+      },
+      "customClassStyle": "Chiến đấu bằng cách dùng Vòng Tay Ark triệu hồi vũ khí từ dị thứ nguyên!",
+      "backstory": "",
+      "selectedCustomLevel": null
+    },
+    "downloadUrl": "/api/presets/3c1bc14a-a3a8-4d50-8c22-ed85621f9570/file"
+  }
+}

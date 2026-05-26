@@ -1,0 +1,43 @@
+{
+  "ok": true,
+  "preset": {
+    "id": "e3af431c-1ba2-40bb-8a86-0165c68634cf",
+    "ownerId": "1485647689151414377",
+    "ownerName": "Tôi không muốn đi làm",
+    "author": "Tôi không muốn đi làm",
+    "authorAvatar": "https://cdn.discordapp.com/avatars/1485647689151414377/3a1e2ad03822b82463aaeeb6d91cd5fe.png?size=128",
+    "name": "Con của sao",
+    "title": "Con của sao",
+    "intro": "Pháp sư toàn năng lấy cảm xúc làm vật phẩm sinh tồn.\nCường độ hơi cao, giới tính có thể đổi.",
+    "coverUrl": "/api/presets/e3af431c-1ba2-40bb-8a86-0165c68634cf/cover",
+    "className": "Pháp sư Tinh Tú",
+    "race": "Con của sao",
+    "tags": [
+      "Dọn quái",
+      "Đơn mục tiêu",
+      "Duy trì",
+      "Bộc phát",
+      "Khống chế"
+    ],
+    "likes": 1,
+    "liked": false,
+    "downloads": 78,
+    "status": "published",
+    "createdAt": "2026-04-26 03:27:44",
+    "updatedAt": "2026-05-25 08:07:22",
+    "lastLikedAt": "",
+    "presetData": {
+      "name": "Mộc Hâm",
+      "class": "Pháp sư Tinh Tú",
+      "customClassName": "Pháp sư Tinh Tú",
+      "race": "__custom__",
+      "customRace": {
+        "name": "Con của sao"
+      },
+      "customClassStyle": "Thông qua việc kích phát tinh văn trên hai tay, sử dụng nhiều loại ma pháp, bao gồm nhưng không giới hạn ở sát thương đơn mục tiêu, sát thương quần thể, kỹ năng hỗ trợ, kỹ năng hồi phục và kỹ năng khống chế. Sở hữu cơ chế [dấu sao] độc đáo với kẻ địch và cơ chế [ánh sao] với đồng minh; hai cơ chế phối hợp với nhau để hình thành liên kết.",
+      "backstory": "",
+      "selectedCustomLevel": 1
+    },
+    "downloadUrl": "/api/presets/e3af431c-1ba2-40bb-8a86-0165c68634cf/file"
+  }
+}
