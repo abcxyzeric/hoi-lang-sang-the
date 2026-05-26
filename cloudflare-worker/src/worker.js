@@ -5,11 +5,34 @@ const CORS_HEADERS = {
   "Access-Control-Allow-Methods": "GET,POST,PUT,PATCH,DELETE,OPTIONS",
   "Access-Control-Allow-Headers": "Content-Type, Authorization, X-Requested-With",
 };
+const NO_STORE_HEADERS = {
+  "Cache-Control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+  "Pragma": "no-cache",
+  "Expires": "0",
+};
 const TRANSLATED_DATA_PREFIX = "/workshop-data/api";
 
 function withCors(response) {
   const headers = new Headers(response.headers);
   for (const [key, value] of Object.entries(CORS_HEADERS)) {
+    headers.set(key, value);
+  }
+  for (const [key, value] of Object.entries(NO_STORE_HEADERS)) {
+    headers.set(key, value);
+  }
+  if (String(headers.get("Content-Type") || "").includes("application/json")) {
+    headers.set("Content-Type", "application/json; charset=utf-8");
+  }
+  return new Response(response.body, {
+    status: response.status,
+    statusText: response.statusText,
+    headers,
+  });
+}
+
+function withNoStore(response) {
+  const headers = new Headers(response.headers);
+  for (const [key, value] of Object.entries(NO_STORE_HEADERS)) {
     headers.set(key, value);
   }
   return new Response(response.body, {
@@ -125,12 +148,12 @@ export default {
 
     if (url.pathname === "/") {
       url.pathname = "/index.html";
-      return env.ASSETS.fetch(new Request(url, request));
+      return withNoStore(await env.ASSETS.fetch(new Request(url, request)));
     }
 
     if (url.pathname === "/embed" || url.pathname === "/embed/") {
       url.pathname = "/embed.html";
-      return env.ASSETS.fetch(new Request(url, request));
+      return withNoStore(await env.ASSETS.fetch(new Request(url, request)));
     }
 
     return env.ASSETS.fetch(request);
