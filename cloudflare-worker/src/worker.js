@@ -11,6 +11,7 @@ const NO_STORE_HEADERS = {
   "Expires": "0",
 };
 const TRANSLATED_DATA_PREFIX = "/workshop-data/api";
+const WORKSHOP_SHELL_VERSION = "20260526-11de93cf";
 
 function withCors(response) {
   const headers = new Headers(response.headers);
@@ -39,6 +40,16 @@ function withNoStore(response) {
     status: response.status,
     statusText: response.statusText,
     headers,
+  });
+}
+
+function redirectNoStore(location, status = 302) {
+  return new Response(null, {
+    status,
+    headers: {
+      ...NO_STORE_HEADERS,
+      Location: location,
+    },
   });
 }
 
@@ -152,8 +163,7 @@ export default {
     }
 
     if (url.pathname === "/embed" || url.pathname === "/embed/") {
-      url.pathname = "/embed.html";
-      return withNoStore(await env.ASSETS.fetch(new Request(url, request)));
+      return redirectNoStore(`/?workshop_shell=${WORKSHOP_SHELL_VERSION}`);
     }
 
     return env.ASSETS.fetch(request);
