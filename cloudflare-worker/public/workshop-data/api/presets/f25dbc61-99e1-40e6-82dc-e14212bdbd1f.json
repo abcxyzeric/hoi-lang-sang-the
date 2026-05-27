@@ -1,0 +1,1101 @@
+{
+  "ok": true,
+  "preset": {
+    "id": "f25dbc61-99e1-40e6-82dc-e14212bdbd1f",
+    "ownerId": "803269066319331328",
+    "ownerName": "Ito Makoto",
+    "author": "Ito Makoto",
+    "authorAvatar": "",
+    "name": "BLOO",
+    "title": "BLOO",
+    "intro": "Dựa trên quyển kỹ năng BLOO được chắp ghép trong MUGAN, tôi chỉ làm được vài chiêu tương đối dễ hoàn nguyên. Lối chơi lấy combo liên đoạn làm đầu ra chủ lực, hãy dùng Ngôi Sao Bá Khí Lam Thẫm với đám goblin đi. BGM: \"beautiful lies\".",
+    "coverUrl": "/api/presets/f25dbc61-99e1-40e6-82dc-e14212bdbd1f/cover",
+    "className": "Đấu sĩ",
+    "race": "Chủng nhân loại",
+    "tags": [
+      "Bộc phát",
+      "Đơn mục tiêu",
+      "Khống chế",
+      "Chơi ý tưởng"
+    ],
+    "likes": 2,
+    "liked": false,
+    "downloads": 13,
+    "status": "published",
+    "createdAt": "2026-03-20 02:18:34",
+    "updatedAt": "2026-05-09 10:17:15",
+    "lastLikedAt": "",
+    "presetData": {
+      "name": "",
+      "gender": "Nam",
+      "age": 18,
+      "race": "Chủng nhân loại",
+      "identity": "__custom__",
+      "attributes": {
+        "strength": 13,
+        "dexterity": 13,
+        "constitution": 13,
+        "intelligence": 12,
+        "wisdom": 12,
+        "charisma": 12
+      },
+      "backstory": "",
+      "selectedLevelMode": "native",
+      "selectedCustomLevel": 1,
+      "selectedSpawnPoint": "Tầng dưới thành phố vách cảng Hoàn Uyên - bờ biển ngoại vi",
+      "class": "Đấu sĩ",
+      "selectedBaseClass": "Nghề tùy chỉnh",
+      "customClassName": "Đấu sĩ",
+      "customClassStyle": "BLOO là nhân vật cải biên và sáng tạo thêm dựa trên K' (K Dash) trong game đối kháng SNK The King of Fighters.\nĐịnh vị và cường độ nhân vật:\nBộ chiêu của hắn thường giữ lại phong cách của K' như một tay đút túi hay công kích bằng lửa, nhưng tốc độ và phán định thường được chỉnh rất mạnh, có nhiều chuỗi combo hiệu năng cao và thủ đoạn ép sân.\nĐặc tính quá nhiệt: mỗi lần gây sát thương sẽ tăng điểm liên kích, mỗi điểm liên kích tăng sát thương, điểm liên kích không có giới hạn; khi đạt tới một lượng nhất định sẽ tự động tiến vào trạng thái quá nhiệt, kỹ năng biến thành MAX để nối thêm chuỗi liên đoạn.",
+      "customClassWeapon": "Găng tay",
+      "customClassCombatStyle": "",
+      "skillTree": {
+        "基础": [
+          {
+            "名称": "Heat Trigger",
+            "类型": "Chủ động",
+            "描述": "Một tay quấn thương viêm bất ổn rồi bắn về phía trước; sau khi trúng đích gây vụ nổ nhỏ. Đây là thức mở đầu tuyệt đối của toàn bộ hệ thống combo, tạo cơ hội cho các phái sinh phía sau.",
+            "特殊效果": {
+              "1": "sau khi trúng đòngâyphạm vi nhỏthương viêmvụ nổ. nếuđộng táclàm lượtlần thứ mộtkích, nàylầntấn công, sát thương cuối cùng+5%.",
+              "2": "sau khi trúng đòngâyphạm vi nhỏthương viêmvụ nổ. nếuđộng táclàm lượtlần thứ mộtkích, nàylầntấn công, sát thương cuối cùng+8%.",
+              "3": "sau khi trúng đòngâyphạm vi nhỏthương viêmvụ nổ. nếuđộng táclàm lượtlần thứ mộtkích, nàylầntấn công, sát thương cuối cùng+12%.",
+              "4": "sau khi trúng đòngâyphạm vi nhỏthương viêmvụ nổ. nếuđộng táclàm lượtlần thứ mộtkích, nàylầntấn công, sát thương cuối cùng+12%, và khiếnmục tiêumiễn trừ Nhanh nhẹn-1.",
+              "5": "sau khi trúng đòngâyphạm vi nhỏthương viêmvụ nổ. nếuđộng táclàm lượtlần thứ mộtkích, nàylầntấn công, sát thương cuối cùng+15%, và khiếnmục tiêumiễn trừ Nhanh nhẹn-1.",
+              "6": "sau khi trúng đòngâyphạm vi nhỏthương viêmvụ nổ. nếuđộng táclàm lượtlần thứ mộtkích, nàylầntấn công, sát thương cuối cùng+15%, và khiếnmục tiêumiễn trừ Nhanh nhẹn-1; vụ nổphạm vimở rộnglớntới 1 ô.",
+              "7": "sau khi trúng đòngâyphạm vi nhỏthương viêmvụ nổ. nếuđộng táclàm lượtlần thứ mộtkích, nàylầntấn công, sát thương cuối cùng+20%, và khiếnmục tiêumiễn trừ Nhanh nhẹn-1; vụ nổphạm vimở rộnglớntới 1 ô.",
+              "8": "sau khi trúng đòngâyphạm vi nhỏthương viêmvụ nổ. nếuđộng táclàm lượtlần thứ mộtkích, nàylầntấn công, sát thương cuối cùng+20%, và khiếnmục tiêumiễn trừ Nhanh nhẹn-2; vụ nổphạm vimở rộnglớntới 1 ô.",
+              "9": "sau khi trúng đòngâyphạm vi nhỏthương viêmvụ nổ. nếuđộng táclàm lượtlần thứ mộtkích, nàylầntấn công, sát thương cuối cùng+25%, và khiếnmục tiêumiễn trừ Nhanh nhẹn-2; vụ nổphạm vimở rộnglớntới 1 ô.",
+              "10": "sau khi trúng đòngâyphạm vi nhỏthương viêmvụ nổ. nếuđộng táclàm lượtlần thứ mộtkích, nàylầntấn công, sát thương cuối cùng+25%, và khiếnmục tiêumiễn trừ Nhanh nhẹn-2; vụ nổphạm vimở rộnglớntới 2 ô, đi vào[quá nhiệt] trạng tháikhibiến thành M A Xhình thái: tự độngbồi thêmlần thứ hai đoạntia lửavụ nổ.",
+              "11": "sau khi trúng đòngâyphạm vi nhỏthương viêmvụ nổ. nếuđộng táclàm lượtlần thứ mộtkích, nàylầntấn công, sát thương cuối cùng+30%, và khiếnmục tiêumiễn trừ Nhanh nhẹn-2; vụ nổphạm vimở rộnglớntới 2 ô, [quá nhiệt] trạng tháikế tiếptự độngbồi thêmlần thứ hai đoạntia lửavụ nổ.",
+              "12": "sau khi trúng đòngâyphạm vi nhỏthương viêmvụ nổ. nếuđộng táclàm lượtlần thứ mộtkích, nàylầntấn công, sát thương cuối cùng+30%, và khiếnmục tiêumiễn trừ Nhanh nhẹn-3; vụ nổphạm vimở rộnglớntới 2 ô, [quá nhiệt] trạng tháikế tiếptự độngbồi thêmlần thứ hai đoạntia lửavụ nổ.",
+              "13": "sau khi trúng đòngâyphạm vi nhỏthương viêmvụ nổ. nếuđộng táclàm lượtlần thứ mộtkích, nàylầntấn công, sát thương cuối cùng+35%, và khiếnmục tiêumiễn trừ Nhanh nhẹn-3; vụ nổphạm vimở rộnglớntới 2 ô, [quá nhiệt] trạng tháikế tiếptự độngbồi thêmlần thứ hai đoạntia lửavụ nổ.",
+              "14": "sau khi trúng đòngâyphạm vi nhỏthương viêmvụ nổ. nếuđộng táclàm lượtlần thứ mộtkích, nàylầntấn công, sát thương cuối cùng+35%, và khiếnmục tiêumiễn trừ Nhanh nhẹn-3; vụ nổphạm vimở rộnglớntới 2 ô, bản thânkiểm định trúng đòn+1, [quá nhiệt] trạng tháikế tiếptự độngbồi thêmlần thứ hai đoạntia lửavụ nổ.",
+              "15": "sau khi trúng đòngâyphạm vi nhỏthương viêmvụ nổ. nếuđộng táclàm lượtlần thứ mộtkích, nàylầntấn công, sát thương cuối cùng+40%, và khiếnmục tiêumiễn trừ Nhanh nhẹn-3; vụ nổphạm vimở rộnglớntới 2 ô, bản thânkiểm định trúng đòn+2, [quá nhiệt] trạng tháikế tiếpkỹ năngbiến thànhhình thái Chân · M A X: vụ nổbỏ quamục tiêuhỏa diễmkháng tínhvàtrực tiếpgây thêm 2 tầng[đốt cháy] trạng thái."
+            },
+            "阶位": "Cơ bản"
+          },
+          {
+            "名称": "Phát Đạn Thứ Hai",
+            "类型": "Chủ động",
+            "描述": "Chuỗi phái sinh chuyên dụng sau khi Heat Trigger trúng đòn. Bắn một viên thương viêm cực nhanh, chủ yếu dùng để ngắt động tác đứng dậy của đối thủ hoặc truy kích tầm xa.",
+            "特殊效果": {
+              "1": "Heat Triggerthi triểnsau đócó thểlập tứckích hoạt, bồi thêmmột lần kiểm định tấn công tầm xakiểm định, sát thương cuối cùng+5%.",
+              "2": "Heat Triggerthi triểnsau đócó thểlập tứckích hoạt, bồi thêmmột lần kiểm định tấn công tầm xakiểm định, sát thương cuối cùng+8%.",
+              "3": "Heat Triggerthi triểnsau đócó thểlập tứckích hoạt, bồi thêmmột lần kiểm định tấn công tầm xakiểm định, sát thương cuối cùng+10%.",
+              "4": "Heat Triggerthi triểnsau đócó thểlập tứckích hoạt, bồi thêmmột lần kiểm định tấn công tầm xakiểm định, sát thương cuối cùng+10%, vào đang ởngã xuốngtrạng tháimục tiêukiểm định trúng đòncóưu thế.",
+              "5": "Heat Triggerthi triểnsau đócó thểlập tứckích hoạt, bồi thêmmột lần kiểm định tấn công tầm xakiểm định, sát thương cuối cùng+15%, vào đang ởngã xuốngtrạng tháimục tiêukiểm định trúng đòncóưu thế.",
+              "6": "Heat Triggerthi triểnsau đócó thểlập tứckích hoạt, bồi thêmmột lần kiểm định tấn công tầm xakiểm định, sát thương cuối cùng+15%, vào đang ởngã xuốngtrạng tháimục tiêukiểm định trúng đòncóưu thế, vàtầm bắntăng 1 ô.",
+              "7": "Heat Triggerthi triểnsau đócó thểlập tứckích hoạt, bồi thêmmột lần kiểm định tấn công tầm xakiểm định, sát thương cuối cùng+20%, vào đang ởngã xuốngtrạng tháimục tiêukiểm định trúng đòncóưu thế, vàtầm bắntăng 1 ô.",
+              "8": "Heat Triggerthi triểnsau đócó thểlập tứckích hoạt, bồi thêmmột lần kiểm định tấn công tầm xakiểm định, sát thương cuối cùng+20%, vào đang ởngã xuốngtrạng tháimục tiêutrúng đòncóưu thế, vàgiảmgiảm mục tiêu 1 điểmcấp giáp(AC)1 lượt.",
+              "9": "Heat Triggerthi triểnsau đócó thểlập tứckích hoạt, bồi thêmmột lần kiểm định tấn công tầm xakiểm định, sát thương cuối cùng+25%, vào đang ởngã xuốngtrạng tháimục tiêutrúng đòncóưu thế, vàgiảmgiảm mục tiêu 1 điểmcấp giáp(AC)1 lượt.",
+              "10": "Heat Triggerthi triểnsau đócó thểlập tứckích hoạt, bồi thêmmột lần kiểm định tấn công tầm xakiểm định, sát thương cuối cùng+25%, vào đang ởngã xuốngtrạng tháimục tiêutrúng đòncóưu thế, vàgiảmgiảm mục tiêu 1 điểmcấp giáp(AC)1 lượt, khi trúng đòncưỡng chếngắtmục tiêuhành động phản ứng.",
+              "11": "Heat Triggerthi triểnsau đócó thểlập tứckích hoạt, bồi thêmmột lần kiểm định tấn công tầm xakiểm định, sát thương cuối cùng+30%, vào đang ởngã xuốngtrạng tháimục tiêutrúng đòncóưu thế, vàgiảmgiảm mục tiêu 1 điểmcấp giáp(AC)1 lượt, khi trúng đòncưỡng chếngắtmục tiêuhành động phản ứng.",
+              "12": "Heat Triggerthi triểnsau đócó thểlập tứckích hoạt, bồi thêmmột lần kiểm định tấn công tầm xakiểm định, sát thương cuối cùng+30%, vào đang ởngã xuốngtrạng tháimục tiêutrúng đòncóưu thế, vàgiảmgiảm mục tiêu 2 điểmcấp giáp(AC)1 lượt, khi trúng đòncưỡng chếngắtmục tiêuhành động phản ứng.",
+              "13": "Heat Triggerthi triểnsau đócó thểlập tứckích hoạt, bồi thêmmột lần kiểm định tấn công tầm xakiểm định, sát thương cuối cùng+35%, vào đang ởngã xuốngtrạng tháimục tiêutrúng đòncóưu thế, vàgiảmgiảm mục tiêu 2 điểmcấp giáp(AC)1 lượt, khi trúng đòncưỡng chếngắtmục tiêuhành động phản ứng.",
+              "14": "Heat Triggerthi triểnsau đócó thểlập tứckích hoạt, bồi thêmmột lần kiểm định tấn công tầm xakiểm định, sát thương cuối cùng+35%, vào đang ởngã xuốngtrạng tháimục tiêutrúng đòncóưu thế, vàgiảmgiảm mục tiêu 2 điểmcấp giáp(AC)2 lượt, khi trúng đòncưỡng chếngắtmục tiêuhành động phản ứng.",
+              "15": "Heat Triggerthi triểnsau đócó thểlập tứckích hoạt, bồi thêmmột lần kiểm định tấn công tầm xakiểm định, sát thương cuối cùng+40%, vào đang ởngã xuốngtrạng tháimục tiêutrúng đòncóưu thế, vàgiảmgiảm mục tiêu 2 điểmcấp giáp(AC)2 lượt, khi trúng đòncưỡng chếngắtmục tiêuhành động phản ứng; bắnluồngsẽxuyên thấumột đườngđường thẳngtrêntất cảmục tiêu, gâycấplượng lớnsát thương."
+            },
+            "阶位": "Cơ bản"
+          },
+          {
+            "名称": "Cước Chớp Nhoáng",
+            "类型": "Chủ động",
+            "描述": "Cước pháp đột tiến cực nhanh sau Phát Đạn Thứ Hai. Dùng chân bọc lửa áp sát trong chớp mắt, cưỡng ép đá kẻ địch đang đứng vào trạng thái choáng cứng, nối hoàn hảo với liên kích phía sau.",
+            "特殊效果": {
+              "1": "dịch chuyển tức thờiáp sátmục tiêuvà Cước Kỵ Sĩkích, sát thương cuối cùng+5%, sau khi trúng đònmục tiêucầnthực hiệnmiễn trừ Thể chất, thất bại thìthìtốc độgiảm một nửa 1 lượt.",
+              "2": "dịch chuyển tức thờiáp sátmục tiêuvà Cước Kỵ Sĩkích, sát thương cuối cùng+8%, sau khi trúng đònmục tiêucầnthực hiệnmiễn trừ Thể chất, thất bại thìthìtốc độgiảm một nửa 1 lượt.",
+              "3": "dịch chuyển tức thờiáp sátmục tiêuvà Cước Kỵ Sĩkích, sát thương cuối cùng+12%, sau khi trúng đònmục tiêucầnthực hiệnmiễn trừ Thể chất, thất bại thìthìtốc độgiảm một nửa 1 lượt.",
+              "4": "dịch chuyển tức thờiáp sátmục tiêuvà Cước Kỵ Sĩkích, sát thương cuối cùng+12%, sau khi trúng đònmục tiêucầnthực hiệnmiễn trừ Thể chất, thất bại thìthìbị[đánh choáng](không thể hành động)1 lượt.",
+              "5": "dịch chuyển tức thờiáp sátmục tiêuvà Cước Kỵ Sĩkích, sát thương cuối cùng+15%, sau khi trúng đònmục tiêucầnthực hiệnmiễn trừ Thể chất, thất bại thìthìbị[đánh choáng](không thể hành động)1 lượt.",
+              "6": "dịch chuyển tức thờiáp sátmục tiêuvà Cước Kỵ Sĩkích, sát thương cuối cùng+15%, sau khi trúng đònmục tiêucầnthực hiệnmiễn trừ Thể chất(D C+1), thất bại thìthìbị[đánh choáng]1 lượt.",
+              "7": "dịch chuyển tức thờiáp sátmục tiêuvà Cước Kỵ Sĩkích, sát thương cuối cùng+20%, sau khi trúng đònmục tiêucầnthực hiệnmiễn trừ Thể chất(D C+1), thất bại thìthìbị[đánh choáng]1 lượt.",
+              "8": "dịch chuyển tức thờiáp sátmục tiêuvà Cước Kỵ Sĩkích, sát thương cuối cùng+20%, sau khi trúng đònmục tiêucầnthực hiệnmiễn trừ Thể chất(D C+1), thất bại thìthìbị[đánh choáng]1 lượt, vàkế tiếpmột lầnchịuđếntấn côngkhimất Nhanh nhẹncộng thêm.",
+              "9": "dịch chuyển tức thờiáp sátmục tiêuvà Cước Kỵ Sĩkích, sát thương cuối cùng+25%, sau khi trúng đònmục tiêucầnthực hiệnmiễn trừ Thể chất(D C+1), thất bại thìthìbị[đánh choáng]1 lượt, vàkế tiếpmột lầnchịuđếntấn côngkhimất Nhanh nhẹncộng thêm.",
+              "10": "dịch chuyển tức thờiáp sátmục tiêuvà Cước Kỵ Sĩkích, sát thương cuối cùng+25%, sau khi trúng đònmục tiêucầnthực hiệnmiễn trừ Thể chất(D C+2), thất bại thìthìbị[đánh choáng]1 lượt, vàkế tiếpmột lầnchịuđếntấn côngkhimất Nhanh nhẹncộng thêm.",
+              "11": "dịch chuyển tức thờiáp sátmục tiêuvà Cước Kỵ Sĩkích, sát thương cuối cùng+30%, sau khi trúng đònmục tiêucầnthực hiệnmiễn trừ Thể chất(D C+2), thất bại thìthìbị[đánh choáng]1 lượt, vàkế tiếpmột lầnchịuđếntấn côngkhimất Nhanh nhẹncộng thêm.",
+              "12": "dịch chuyển tức thờiáp sátmục tiêuvà Cước Kỵ Sĩkích, sát thương cuối cùng+30%, sau khi trúng đònmục tiêucầnthực hiệnmiễn trừ Thể chất(D C+3), thất bại thìthìbị[đánh choáng]1 lượt, vàkế tiếpmột lầnchịuđếntấn côngkhimất Nhanh nhẹncộng thêm.",
+              "13": "dịch chuyển tức thờiáp sátmục tiêuvà Cước Kỵ Sĩkích, sát thương cuối cùng+35%, sau khi trúng đònmục tiêucầnthực hiệnmiễn trừ Thể chất(D C+3), thất bại thìthìbị[đánh choáng]1 lượt, vàkế tiếpmột lầnchịuđếntấn côngkhimất Nhanh nhẹncộng thêm.",
+              "14": "dịch chuyển tức thờiáp sátmục tiêuvà Cước Kỵ Sĩkích, sát thương cuối cùng+35%, sau khi trúng đònmục tiêucầnthực hiệnmiễn trừ Thể chất(D C+3), thất bại thìthìbị[đánh choáng]1 lượt, trong thời gian đóchịuđếnbất kỳsát thươngđềusẽchắc chắn bạo kích.",
+              "15": "dịch chuyển tức thờiáp sátmục tiêuvà Cước Kỵ Sĩkích, sát thương cuối cùng+40%, sau khi trúng đònbỏ quamiễn trừtrực tiếpkhiếncỡ vừa và nhỏmục tiêubị[đánh choáng]1 lượt, trong thời gian đóchịuđếnbất kỳsát thươngđềuchắc chắn bạo kích; [quá nhiệt] trạng tháikế tiếp, Cước Kỵ Sĩkíchsẽtạo raxé ráchkhông giantàn ảnh, sẽxung quanh 1 ôtrongkháckẻ địchmộtvàkéo giậtvề phíamục tiêu chính."
+            },
+            "阶位": "Cơ bản"
+          },
+          {
+            "名称": "Dạng Thứ Hai: Thăng Không",
+            "类型": "Chủ động",
+            "描述": "Cú uppercut sau khi Cước Chớp Nhoáng hoàn tất áp chế. Đỉnh quyền phủ thương viêm nồng độ cao đánh mạnh từ dưới lên, cưỡng ép hất mục tiêu lên trời và mở màn chiến vực trên không.",
+            "特殊效果": {
+              "1": "kích hoạtmột lầncú móc ngược, sát thương cuối cùng+5%, sau khi trúng đònsẽcỡ vừa và nhỏmục tiêuhất bay 1 ôđộ cao.",
+              "2": "kích hoạtmột lầncú móc ngược, sát thương cuối cùng+8%, sau khi trúng đònsẽcỡ vừa và nhỏmục tiêuhất bay 1 ôđộ cao.",
+              "3": "kích hoạtmột lầncú móc ngược, sát thương cuối cùng+12%, sau khi trúng đònsẽcỡ vừa và nhỏmục tiêuhất bay 1 ôđộ cao.",
+              "4": "kích hoạtmột lầncú móc ngược, sát thương cuối cùng+12%, sau khi trúng đònsẽcỡ vừa và nhỏmục tiêuhất bay 1 ôđộ cao, vàbản thâncó thểkhông tiêu haonhảy lên truy kích.",
+              "5": "kích hoạtmột lầncú móc ngược, sát thương cuối cùng+15%, sau khi trúng đònsẽcỡ vừa và nhỏmục tiêuhất bay 1 ôđộ cao, vàbản thâncó thểkhông tiêu haonhảy lên truy kích.",
+              "6": "kích hoạtmột lầncú móc ngược, sát thương cuối cùng+15%, sau khi trúng đònsẽcỡ vừa và nhỏmục tiêuhất bay 2 ôđộ cao, vàbản thâncó thểkhông tiêu haonhảy lên truy kích.",
+              "7": "kích hoạtmột lầncú móc ngược, sát thương cuối cùng+20%, sau khi trúng đònsẽcỡ vừa và nhỏmục tiêuhất bay 2 ôđộ cao, vàbản thâncó thểkhông tiêu haonhảy lên truy kích.",
+              "8": "kích hoạtmột lầncú móc ngược, sát thương cuối cùng+20%, sau khi trúng đònsẽcỡ vừa và nhỏmục tiêuhất bay 2 ôđộ cao, vàbản thâncó thểkhông tiêu haonhảy lên truy kích, trên khôngtấn côngnhậnưu thế.",
+              "9": "kích hoạtmột lầncú móc ngược, sát thương cuối cùng+25%, sau khi trúng đònsẽcỡ vừa và nhỏmục tiêuhất bay 2 ôđộ cao, vàbản thâncó thểkhông tiêu haonhảy lên truy kích, trên khôngtấn côngnhậnưu thế.",
+              "10": "kích hoạtmột lầncú móc ngược, sát thương cuối cùng+25%, sau khi trúng đònsẽcỡ vừa và nhỏ/cỡ lớnmục tiêuhất bay 2 ôđộ cao, vàbản thâncó thểkhông tiêu haonhảy lên truy kích, trên khôngtấn côngnhậnưu thế.",
+              "11": "kích hoạtmột lầncú móc ngược, sát thương cuối cùng+30%, sau khi trúng đònsẽcỡ vừa và nhỏ/cỡ lớnmục tiêuhất bay 2 ôđộ cao, vàbản thâncó thểkhông tiêu haonhảy lên truy kích, trên khôngtấn côngnhậnưu thế.",
+              "12": "kích hoạtmột lầncú móc ngược, sát thương cuối cùng+30%, sau khi trúng đònsẽcỡ vừa và nhỏ/cỡ lớnmục tiêuhất bay 3 ôđộ cao, bản thânkhông tiêu haonhảy lênsau đónàylượttrên khôngsát thươngthêm+10%.",
+              "13": "kích hoạtmột lầncú móc ngược, sát thương cuối cùng+35%, sau khi trúng đònsẽcỡ vừa và nhỏ/cỡ lớnmục tiêuhất bay 3 ôđộ cao, bản thânkhông tiêu haonhảy lênsau đónàylượttrên khôngsát thươngthêm+10%.",
+              "14": "kích hoạtmột lầncú móc ngược, sát thương cuối cùng+35%, sau khi trúng đònsẽcỡ vừa và nhỏ/cỡ lớnmục tiêuhất bay 3 ôđộ cao, bản thânkhông tiêu haonhảy lênsau đónàylượttrên khôngsát thươngthêm+15%.",
+              "15": "kích hoạtmột lầncú móc ngược, sát thương cuối cùng+40%, cưỡng chếbỏ qua Thể chấtcỡsẽmục tiêuhất bay 3 ôđộ caovàtướcđoạtnóbảo hộ lơ lửng, bản thânnhảy lên theo sátsau đólượt nàytất cảkỹ năng trên khôngsát thương+20%; [quá nhiệt] trạng tháikế tiếp, tăngtrên khônghỏa diễmquỹ tíchsẽlưu lạimộtlượt, vào đi xuyên quakẻ địchgâykéo dàithiêu đốt."
+            },
+            "阶位": "Cơ bản"
+          },
+          {
+            "名称": "Bước Trượt",
+            "类型": "Chủ động",
+            "描述": "Thân pháp kiểm soát đầy áp lực. Cơ thể trượt ngang tiến hoặc lùi, kéo giãn để né đòn hoặc tức khắc áp sát tạo sơ hở, kèm phán định va chạm nhẹ.",
+            "特殊效果": {
+              "1": "dịch chuyển 2 ô, vào đường đitrênkẻ địchthực hiệnnhẹva chạmphán định, sát thương cuối cùng+2%.",
+              "2": "dịch chuyển 2 ô, vào đường đitrênkẻ địchthực hiệnnhẹva chạmphán định, sát thương cuối cùng+4%.",
+              "3": "dịch chuyển 2 ô, vào đường đitrênkẻ địchthực hiệnnhẹva chạmphán định, sát thương cuối cùng+6%.",
+              "4": "dịch chuyển 2 ô, vào đường đitrênkẻ địchthực hiệnnhẹva chạmphán định, sát thương cuối cùng+6%, Bước Trượttrong thời gian đónhậnvào đòn đòn đòn đánh cơ hộimiễn trừ Thể chấtưu thế.",
+              "5": "dịch chuyển 2 ô, vào đường đitrênkẻ địchthực hiệnnhẹva chạmphán định, sát thương cuối cùng+8%, Bước Trượttrong thời gian đónhậnvào đòn đòn đòn đánh cơ hộimiễn trừ Thể chấtưu thế.",
+              "6": "dịch chuyển 2 ô, vào đường đitrênkẻ địchthực hiệnnhẹva chạmphán định, sát thương cuối cùng+8%, Bước Trượttrong thời gian đómiễn nhiễmđòn đòn đòn đánh cơ hội.",
+              "7": "dịch chuyển 2 ô, vào đường đitrênkẻ địchthực hiệnnhẹva chạmphán định, sát thương cuối cùng+10%, Bước Trượttrong thời gian đómiễn nhiễmđòn đòn đòn đánh cơ hội.",
+              "8": "dịch chuyển 3 ô, vào đường đitrênkẻ địchthực hiệnnhẹva chạmphán định, sát thương cuối cùng+10%, Bước Trượttrong thời gian đómiễn nhiễmđòn đòn đòn đánh cơ hội, kết thúckhikế tiếpmộtkíchkiểm định trúng đòn+1.",
+              "9": "dịch chuyển 3 ô, vào đường đitrênkẻ địchthực hiệnnhẹva chạmphán định, sát thương cuối cùng+12%, Bước Trượttrong thời gian đómiễn nhiễmđòn đòn đòn đánh cơ hội, kết thúckhikế tiếpmộtkíchkiểm định trúng đòn+1.",
+              "10": "dịch chuyển 3 ô, vào đường đitrênkẻ địchthực hiệnnhẹva chạmphán định, sát thương cuối cùng+12%, Bước Trượttrong thời gian đómiễn nhiễmđòn đòn đòn đánh cơ hội, kết thúckhiva chạmcó thểngắtkẻ địchtụ lựchoặctập trungtrạng thái.",
+              "11": "dịch chuyển 3 ô, vào đường đitrênkẻ địchthực hiệnnhẹva chạmphán định, sát thương cuối cùng+15%, Bước Trượttrong thời gian đómiễn nhiễmđòn đòn đòn đánh cơ hội, kết thúckhiva chạmcó thểngắtkẻ địchtụ lựchoặctập trungtrạng thái.",
+              "12": "dịch chuyển 3 ô, vào đường đitrênkẻ địchthực hiệnnhẹva chạmphán định, sát thương cuối cùng+15%, Bước Trượttrong thời gian đómiễn nhiễmđòn đòn đòn đánh cơ hội, kết thúckhikế tiếpmộtkíchkiểm định trúng đòn+2vàngắttập trung.",
+              "13": "dịch chuyển 3 ô, vào đường đitrênkẻ địchthực hiệnnhẹva chạmphán định, sát thương cuối cùng+18%, Bước Trượttrong thời gian đómiễn nhiễmđòn đòn đòn đánh cơ hội, kết thúckhikế tiếpmộtkíchkiểm định trúng đòn+2vàngắttập trung.",
+              "14": "dịch chuyển 4 ô, vào đường đitrênkẻ địchthực hiệnnhẹva chạmphán định, sát thương cuối cùng+18%, Bước Trượttrong thời gian đómiễn nhiễmđòn đòn đòn đánh cơ hội, kết thúckhikế tiếpmộtkíchkiểm định trúng đòn+2vàngắttập trung.",
+              "15": "dịch chuyển 4 ô, xuyên thấukẻ địchkhiđể lạihỏa diễmtàn ảnhcắt đứt tầm nhìn, gâysát thương cuối cùng+25% va chạmvà khiếnnó[mất thăng bằng], kế tiếpmộtkíchkiểm định trúng đòn+3vàchắc chắn bạo kích; [quá nhiệt] trạng tháikế tiếp, Bước Trượtcó thểđộng táclàm bất kỳkỹ năngđộng tác thu chiêunối liền mạch, thực hiệnkhông giới hạncơ động."
+            },
+            "阶位": "Cơ bản"
+          }
+        ],
+        "转职": [
+          {
+            "名称": "Thương Viêm Quá Nhiệt",
+            "类型": "Đặc biệt nghề nghiệp",
+            "描述": "Lò động lực cốt lõi của đấu sĩ. Sức mạnh bất ổn trong cơ thể dần nóng lên theo cường độ chiến đấu; mỗi đòn liên kích hiệu quả đều chuyển hóa thành hỏa lực bá đạo hơn.",
+            "特殊效果": {
+              "1": "bịhành độngđặc tính. mỗi khi bạn lầntấn côngtrúng đònđềusẽtạo ra 1 điểm[điểm liên kích](phán định nhiều đoạnkỹ năngcó thểtức thờitối đalầncộng dồn). mỗi 1 điểmđiểm liên kíchkhiếnmọi kỹ năngsát thương cuối cùng tăng 1%, nhận điểm liên kíchkhông giới hạn. khiđiểm liên kíchtích lũy đạt tới 30 điểmkhi, bản thân Sức mạnhtràn ra, tự động đi vào[quá nhiệt] trạng thái(trạng thái M A X), mọi chínhhành độngkỹ nănghình tháitạo rabiến chấtvàbồi thêmliên tiếpđoạnphán định(xem chi tiếtcác kỹ năngnhấtsau đómộtmô tả). [quá nhiệt] trạng tháikéo dài 3 lượt, trong thời gian đóchịuđếnsát thươngthực hiệnmiễn trừ Thể chấtkhinhậnưu thế, trạng tháikết thúcsau đóđiểm liên kíchxóa về 0tính lại."
+            },
+            "阶位": "Chuyển nghề"
+          },
+          {
+            "名称": "Phản Thế Lam Thẫm",
+            "类型": "Đặc biệt",
+            "描述": "Một tay đút túi, ánh mắt khinh miệt. Bày thế phòng ngự đặc biệt; khoảnh khắc tiếp địch làm thời gian ngưng thoáng chốc, hóa thành tàn ảnh xanh vòng ra sau phản sát, là lõi chiến thuật đảo ngược thế trận.",
+            "特殊效果": {
+              "1": "kéo dài 1 lượt. chịuđếnlần đầucận chiếnvật lýtấn côngvô hiệu hóa, dịch chuyển tức thờitớikẻ tấn côngsau lưngkích hoạtphản kích, phản kíchsát thương cuối cùng+5%.",
+              "2": "kéo dài 1 lượt. chịuđếnlần đầucận chiếnvật lýtấn côngvô hiệu hóa, dịch chuyển tức thờitớikẻ tấn côngsau lưngkích hoạtphản kích, phản kíchsát thương cuối cùng+8%.",
+              "3": "kéo dài 1 lượt. chịuđếnlần đầucận chiếnvật lýtấn côngvô hiệu hóa, dịch chuyển tức thờitớikẻ tấn côngsau lưngkích hoạtphản kích, phản kíchsát thương cuối cùng+12%.",
+              "4": "kéo dài 1 lượt. chịuđếnlần đầucận chiếnvật lýtấn côngvô hiệu hóa, dịch chuyển tức thờitớikẻ tấn côngsau lưngkích hoạtphản kích, phản kíchsát thương cuối cùng+15%, và khiếnmục tiêu Nhanh nhẹnkiểm định-1.",
+              "5": "kéo dài 1 lượt. chịuđếnlần đầucận chiếnvật lýtấn côngvô hiệu hóa, dịch chuyển tức thờitớikẻ tấn côngsau lưngkích hoạtphản kích, phản kíchsát thương cuối cùng+20%, và khiếnmục tiêu Nhanh nhẹnkiểm định-1.",
+              "6": "kéo dài 2 lượt. chịuđếnlần đầucận chiếnvật lýtấn côngvô hiệu hóa, dịch chuyển tức thờitớikẻ tấn côngsau lưngkích hoạtphản kích, phản kíchsát thương cuối cùng+20%, và khiếnmục tiêu Nhanh nhẹnkiểm định-1.",
+              "7": "kéo dài 2 lượt. chịuđếnlần đầucận chiếnvật lýtấn côngvô hiệu hóa, dịch chuyển tức thờitớikẻ tấn côngsau lưngkích hoạtphản kích, phản kíchsát thương cuối cùng+25%, và khiếnmục tiêu Nhanh nhẹnkiểm định-1.",
+              "8": "kéo dài 2 lượt. chịuđếnlần đầucận chiếnvật lýtấn côngvô hiệu hóa, dịch chuyển tức thờitớikẻ tấn côngsau lưngkích hoạtphản kích, phản kíchsát thương cuối cùng+25%, và khiếnmục tiêu Nhanh nhẹnkiểm định-2.",
+              "9": "kéo dài 2 lượt. chịuđếnlần đầucận chiếnvật lýtấn côngvô hiệu hóa, dịch chuyển tức thờitớikẻ tấn côngsau lưngkích hoạtphản kích, phản kíchsát thương cuối cùng+30%, và khiếnmục tiêu Nhanh nhẹnkiểm định-2.",
+              "10": "kéo dài 2 lượt. chịuđếnlần đầucận chiếnhoặctầm xavật lýtấn côngvô hiệu hóa, dịch chuyển tức thờiphản kích, phản kíchsát thương cuối cùng+30%, và khiếnmục tiêu Nhanh nhẹnkiểm định-2, phản kíchkèmcưỡng chế[hất bay].",
+              "11": "kéo dài 2 lượt. chịuđếnlần đầucận chiếnhoặctầm xavật lýtấn côngvô hiệu hóa, dịch chuyển tức thờiphản kích, phản kíchsát thương cuối cùng+35%, và khiếnmục tiêu Nhanh nhẹnkiểm định-2, phản kíchkèmcưỡng chế[hất bay].",
+              "12": "kéo dài 2 lượt. chịuđếnlần đầucận chiếnhoặctầm xavật lýtấn côngvô hiệu hóa, dịch chuyển tức thờiphản kích, phản kíchsát thương cuối cùng+35%, và khiếnmục tiêu Nhanh nhẹnkiểm định-3, phản kíchkèmcưỡng chế[hất bay].",
+              "13": "kéo dài 2 lượt. chịuđếnlần đầucận chiếnhoặctầm xavật lýtấn côngvô hiệu hóa, dịch chuyển tức thờiphản kích, phản kíchsát thương cuối cùng+40%, và khiếnmục tiêu Nhanh nhẹnkiểm định-3, phản kíchkèmcưỡng chế[hất bay].",
+              "14": "kéo dài 3 lượt. chịuđếnlần đầucận chiếnhoặctầm xavật lýtấn côngvô hiệu hóa, dịch chuyển tức thờiphản kích, phản kíchsát thương cuối cùng+40%, và khiếnmục tiêu Nhanh nhẹnkiểm định-3, phản kíchkèmcưỡng chế[hất bay]vàđặt lạilượt nàygiới hạn.",
+              "15": "kéo dài 3 lượt. trong thời gian đóchịuđếntất cảloạicỡtấn công(nếu cóma pháp) lần đầuphán địnhđềuvô hiệu hóa, dịch chuyển tức thờitớisau lưngphản kíchgây ratối đađoạnthương viêmvụ nổ, phản kíchsát thương cuối cùng+50%, chắc chắnhất bayvàcưỡng chếtướcđoạtmục tiêukhilượtcác hành động còn lại; [quá nhiệt] trạng tháikế tiếp, phản kích phản thếkhông còntiêu haonàytư thếsố lượt duy trì."
+            },
+            "阶位": "Chuyển nghề"
+          },
+          {
+            "名称": "Crow Bite",
+            "类型": "Chủ động",
+            "描述": "Thân thể nghiêng về trước tụ lực, rồi vung một cú uppercut mãnh liệt bọc thương viêm nóng rực từ dưới lên. Quyền ý kéo cơ thể bật lên, là kỹ năng nối hất tung hoàn hảo. Mỗi lần hất bay đều có thể phái sinh.",
+            "特殊效果": {
+              "1": "vung rahỏa diễmcú móc ngược, sát thương cuối cùng+5%, sẽcỡ vừa và nhỏmục tiêuhất bay 1 ôđộ cao.",
+              "2": "vung rahỏa diễmcú móc ngược, sát thương cuối cùng+8%, sẽcỡ vừa và nhỏmục tiêuhất bay 1 ôđộ cao.",
+              "3": "vung rahỏa diễmcú móc ngược, sát thương cuối cùng+10%, sẽcỡ vừa và nhỏmục tiêuhất bay 1 ôđộ cao.",
+              "4": "vung rahỏa diễmcú móc ngược, sát thương cuối cùng+10%, sẽcỡ vừa và nhỏmục tiêuhất bay 2 ôđộ cao.",
+              "5": "vung rahỏa diễmcú móc ngược, sát thương cuối cùng+15%, sẽcỡ vừa và nhỏmục tiêuhất bay 2 ôđộ cao.",
+              "6": "vung rahỏa diễmcú móc ngược, sát thương cuối cùng+15%, sẽcỡ vừa và nhỏmục tiêuhất bay 2 ôđộ cao, vào đãđang ởlơ lửngtrạng tháimục tiêutrúng đònnhậnưu thế.",
+              "7": "vung rahỏa diễmcú móc ngược, sát thương cuối cùng+20%, sẽcỡ vừa và nhỏmục tiêuhất bay 2 ôđộ cao, vào đãđang ởlơ lửngtrạng tháimục tiêutrúng đònnhậnưu thế.",
+              "8": "vung rahỏa diễmcú móc ngược, sát thương cuối cùng+20%, sẽcỡ vừa và nhỏmục tiêuhất bay 2 ôđộ cao, vào đãđang ởlơ lửngtrạng tháimục tiêutrúng đònnhậnưu thế, động tác mở đầukèmngắn ngủikhung bất tử.",
+              "9": "vung rahỏa diễmcú móc ngược, sát thương cuối cùng+25%, sẽcỡ vừa và nhỏmục tiêuhất bay 2 ôđộ cao, vào đãđang ởlơ lửngtrạng tháimục tiêutrúng đònnhậnưu thế, động tác mở đầukèmngắn ngủikhung bất tử.",
+              "10": "vung rahỏa diễmcú móc ngược, sát thương cuối cùng+25%, bỏ qua Thể chấtcỡcưỡng chế hất bay 3 ôđộ cao, động tác mở đầukèmngắn ngủikhung bất tử.",
+              "11": "vung rahỏa diễmcú móc ngược, sát thương cuối cùng+30%, bỏ qua Thể chấtcỡcưỡng chế hất bay 3 ôđộ cao, động tác mở đầukèmngắn ngủikhung bất tử.",
+              "12": "vung rahỏa diễmcú móc ngược, sát thương cuối cùng+30%, bỏ qua Thể chấtcỡcưỡng chế hất bay 3 ôđộ cao, khi rơi xuống đấttrướcbản thâncấp giáp(AC)+1.",
+              "13": "vung rahỏa diễmcú móc ngược, sát thương cuối cùng+35%, bỏ qua Thể chấtcỡcưỡng chế hất bay 3 ôđộ cao, khi rơi xuống đấttrướcbản thâncấp giáp(AC)+1.",
+              "14": "vung rahỏa diễmcú móc ngược, sát thương cuối cùng+35%, bỏ qua Thể chấtcỡcưỡng chế hất bay 3 ôđộ cao, khi rơi xuống đấttrướcbản thâncấp giáp(AC)+2.",
+              "15": "vung rahỏa diễmcú móc ngược, sát thương cuối cùng+40%, cưỡng chế hất bay 3 ôđộ caovàđặt lạinótốc độ rơi, động tác nhảy lênhoàn toànbất tử; [quá nhiệt] trạng tháikế tiếp, cú móc ngượchỏa diễmhóa thànhmàu xanh u lam, khi trúng đònlàm suy yếumục tiêuphòng ngựcấp(AC)-2vàcó thểlập tứckhông hậu lắcnối tiếp[Bộc Đạn Trên Không]."
+            },
+            "阶位": "Chuyển nghề"
+          }
+        ],
+        "进阶": [
+          {
+            "名称": "Chain Drive · Dạng X",
+            "类型": "Chủ động",
+            "描述": "Dùng tốc độ cực cao liên tục đánh đa đoạn vào một mục tiêu hơn mười lần, quyền cước đan xen thành lưới áp chế kín mít, cuối cùng dùng một cú thăng long trọng quyền hất bay địch.",
+            "特殊效果": {
+              "1": "vào phát động lên đơn mục tiêu 5 lầnliên đả phán định nhanh, mỗi lần trúng đòn tích lũy độc lậpđiểm liên kích, sát thương cuối cùng+5%, kết chiêuđẩy lùi 1 ô.",
+              "2": "vào phát động lên đơn mục tiêu 5 lầnliên đả phán định nhanh, mỗi lần trúng đòn tích lũy độc lậpđiểm liên kích, sát thương cuối cùng+8%, kết chiêuđẩy lùi 1 ô.",
+              "3": "vào phát động lên đơn mục tiêu 5 lầnliên đả phán định nhanh, mỗi lần trúng đòn tích lũy độc lậpđiểm liên kích, sát thương cuối cùng+10%, kết chiêuđẩy lùi 1 ô.",
+              "4": "vào phát động lên đơn mục tiêu 8 lầnliên đả phán định nhanh, mỗi lần trúng đòn tích lũy độc lậpđiểm liên kích, sát thương cuối cùng+10%, kết chiêuđẩy lùi 1 ô.",
+              "5": "vào phát động lên đơn mục tiêu 8 lầnliên đả phán định nhanh, mỗi lần trúng đòn tích lũy độc lậpđiểm liên kích, sát thương cuối cùng+15%, kết chiêuđẩy lùi 1 ô.",
+              "6": "vào phát động lên đơn mục tiêu 8 lầnliên đả phán định nhanh, mỗi lần trúng đòn tích lũy độc lậpđiểm liên kích, sát thương cuối cùng+15%, liên đảtrong thời gian đómục tiêukhông thểthực hiệnhành động phản ứng.",
+              "7": "vào phát động lên đơn mục tiêu 8 lầnliên đả phán định nhanh, mỗi lần trúng đòn tích lũy độc lậpđiểm liên kích, sát thương cuối cùng+20%, liên đảtrong thời gian đómục tiêukhông thểthực hiệnhành động phản ứng.",
+              "8": "vào phát động lên đơn mục tiêu 10 lầnliên đả phán định nhanh, mỗi lần trúng đòn tích lũy độc lậpđiểm liên kích, sát thương cuối cùng+20%, liên đảtrong thời gian đómục tiêukhông thểthực hiệnhành động phản ứng.",
+              "9": "vào phát động lên đơn mục tiêu 10 lầnliên đả phán định nhanh, mỗi lần trúng đòn tích lũy độc lậpđiểm liên kích, sát thương cuối cùng+25%, liên đảtrong thời gian đómục tiêukhông thểthực hiệnhành động phản ứng.",
+              "10": "vào phát động lên đơn mục tiêu 10 lầnliên đả phán định nhanh, mỗi lần trúng đòn tích lũy độc lậpđiểm liên kích, sát thương cuối cùng+25%, liên đảtrong thời gian đómục tiêukhông thểthực hiệnhành động phản ứng, kết chiêuđổi thànhcưỡng chế hất bay 2 ô."
+            },
+            "阶位": "Nâng cao"
+          },
+          {
+            "名称": "Bom Nổ Trên Không",
+            "类型": "Chủ động",
+            "描述": "Đòn kết thúc chuyên dùng cho combo trên không. Giữa không trung bắt chính xác mục tiêu bị hất bay, khoảnh khắc cơ thể chạm địch sẽ kích nổ thương viêm mãnh liệt, nghiền nát hoàn toàn ý chí phản kháng.",
+            "特殊效果": {
+              "1": "nhảy về phíađang ởlơ lửngtrạng tháimục tiêu, bắt giữsau đókích nổthương viêm, sát thương cuối cùng+5%.",
+              "2": "nhảy về phíađang ởlơ lửngtrạng tháimục tiêu, bắt giữsau đókích nổthương viêm, sát thương cuối cùng+8%.",
+              "3": "nhảy về phíađang ởlơ lửngtrạng tháimục tiêu, bắt giữsau đókích nổthương viêm, sát thương cuối cùng+12%.",
+              "4": "nhảy về phíađang ởlơ lửngtrạng tháimục tiêu, bắt giữsau đókích nổthương viêm, sát thương cuối cùng+15%, vụ nổảnh hưởng lanxung quanh 1 ôkẻ địch.",
+              "5": "nhảy về phíađang ởlơ lửngtrạng tháimục tiêu, bắt giữsau đókích nổthương viêm, sát thương cuối cùng+20%, vụ nổảnh hưởng lanxung quanh 1 ôkẻ địch.",
+              "6": "nhảy về phíađang ởlơ lửngtrạng tháimục tiêu, bắt giữsau đókích nổthương viêm, sát thương cuối cùng+20%, kích nổsau đócó thểmượn lựcvề phíasau đónhảy lùi an toàn 1 ô.",
+              "7": "nhảy về phíađang ởlơ lửngtrạng tháimục tiêu, bắt giữsau đókích nổthương viêm, sát thương cuối cùng+25%, kích nổsau đócó thểmượn lựcvề phíasau đónhảy lùi an toàn 1 ô.",
+              "8": "nhảy về phíađang ởlơ lửngtrạng tháimục tiêu, bắt giữsau đókích nổthương viêm, sát thương cuối cùng+30%, kích nổsau đócó thểmượn lựcvề phíasau đónhảy lùi an toàn 1 ô, giảmmục tiêu 1 điểmmiễn trừ Sức mạnh.",
+              "9": "nhảy về phíađang ởlơ lửngtrạng tháimục tiêu, bắt giữsau đókích nổthương viêm, sát thương cuối cùng+35%, kích nổsau đócó thểmượn lựcvề phíasau đónhảy lùi an toàn 1 ô, giảmmục tiêu 1 điểmmiễn trừ Sức mạnh.",
+              "10": "nhảy về phíađang ởlơ lửngtrạng tháimục tiêu, bắt giữsau đókích nổthương viêm, sát thương cuối cùng+40%, vụ nổảnh hưởng lan 2 ô, kích nổsau đócó thểmượn lựcvề phíasau đónhảy lùi an toàn 2 ô, giảmmục tiêu 1 điểmmiễn trừ Sức mạnh; [quá nhiệt] trạng tháikế tiếp, bắt giữchắc chắn bạo kíchvàsẽmục tiêuđập mạnhtớimặt đất, vào mặt đấtmục tiêugâygiống cấp cấpsát thương lan."
+            },
+            "阶位": "Nâng cao"
+          },
+          {
+            "名称": "Không Kích Lam Thẫm",
+            "类型": "Chủ động",
+            "描述": "Giữa không trung lập tức hóa thành tàn ảnh lửa lam thẫm, bỏ qua chướng ngại không gian và lóe tới ngay phía trên đối thủ để tung trọng kích rơi xuống. Sau khi trúng đòn gây nổ xanh dữ dội, hất mục tiêu bật lên lần nữa.",
+            "特殊效果": {
+              "1": "nhảy về phíagiữa không trungsau đóhóađộng táctàn ảnh màu xanh, dịch chuyển tức thờitớimục tiêungay phía trêntrọng kích rơi xuống, sát thương cuối cùng+5%.",
+              "2": "nhảy về phíagiữa không trungsau đóhóađộng táctàn ảnh màu xanh, dịch chuyển tức thờitớimục tiêungay phía trêntrọng kích rơi xuống, sát thương cuối cùng+10%.",
+              "3": "nhảy về phíagiữa không trungsau đóhóađộng táctàn ảnh màu xanh, dịch chuyển tức thờitớimục tiêungay phía trêntrọng kích rơi xuống, sát thương cuối cùng+15%, khi rơi xuống đấtgây raphạm vi nhỏmàu xanhvụ nổ.",
+              "4": "nhảy về phíagiữa không trungsau đóhóađộng táctàn ảnh màu xanh, dịch chuyển tức thờitớimục tiêungay phía trêntrọng kích rơi xuống, sát thương cuối cùng+20%, khi rơi xuống đấtgây raphạm vi nhỏmàu xanhvụ nổ.",
+              "5": "nhảy về phíagiữa không trungsau đóhóađộng táctàn ảnh màu xanh, dịch chuyển tức thờitớimục tiêungay phía trêntrọng kích rơi xuống, sát thương cuối cùng+25%, vụ nổsẽmục tiêunhẹbật lên, thuận tiệnnối tiếpliên đoạn trên không.",
+              "6": "nhảy về phíagiữa không trungsau đóhóađộng táctàn ảnh màu xanh, dịch chuyển tức thờitớimục tiêungay phía trêntrọng kích rơi xuống, bỏ quađòn đòn đòn đánh cơ hội, sát thương cuối cùng+30%, vụ nổsẽmục tiêubật lên.",
+              "7": "nhảy về phíagiữa không trungsau đóhóađộng táctàn ảnh màu xanh, dịch chuyển tức thờitớimục tiêungay phía trêntrọng kích rơi xuống, bỏ quađòn đòn đòn đánh cơ hội, sát thương cuối cùng+35%, vụ nổsẽmục tiêubật lên.",
+              "8": "nhảy về phíagiữa không trungsau đóhóađộng táctàn ảnh màu xanh, dịch chuyển tức thờitớimục tiêungay phía trêntrọng kích rơi xuống, bỏ quađòn đòn đòn đánh cơ hội, sát thương cuối cùng+40%, bật lênđộ caotăng 1 ô.",
+              "9": "nhảy về phíagiữa không trungsau đóhóađộng táctàn ảnh màu xanh, dịch chuyển tức thờitớimục tiêungay phía trêntrọng kích rơi xuống, bỏ quađòn đòn đòn đánh cơ hội, sát thương cuối cùng+45%, bật lênđộ caotăng 1 ô.",
+              "10": "nhảy về phíagiữa không trungsau đóhóađộng táctàn ảnh màu xanh, dịch chuyển tức thờitớimục tiêungay phía trêntrọng kích rơi xuống, bỏ quamọikhông giancản trởvớiđòn đòn đòn đánh cơ hội, sát thương cuối cùng+50%, vụ nổcưỡng chếsẽmục tiêubật lêntớigiữa không trungvàxóa bỏnómộtlượthành động phản ứng; [quá nhiệt] trạng tháikế tiếp, trọng kích rơi xuốngsẽhoàn toànnghiền nátmục tiêuthântrênlá chắn ma phápvớisinh mệnh tạm thời."
+            },
+            "阶位": "Nâng cao"
+          }
+        ],
+        "必杀": [
+          {
+            "名称": "Lam Thẫm Tái Nhiên",
+            "类型": "Đặc biệt",
+            "描述": "Đập một tay xuống đất, bộc phát thương viêm hộ thân để đẩy lùi địch xung quanh, tạm lắng sức mạnh cuồng bạo trong cơ thể, hồi phục sinh mệnh và trạng thái chiến đấu để chuẩn bị cho chuỗi cực hạn kế tiếp.",
+            "特殊效果": {
+              "1": "tiêu hao 1 hành động, bộc phátthương viêm đẩy lùixung quanh 1 ôkẻ địch, hồi phụcbản thân 10% sinh mệnh tối đa. mỗi trận 2  lần.",
+              "2": "tiêu hao 1 hành động, bộc phátthương viêm đẩy lùixung quanh 1 ôkẻ địch, hồi phụcbản thân 15% sinh mệnh tối đa. mỗi trận 2  lần.",
+              "3": "tiêu hao 1 hành động, bộc phátthương viêm đẩy lùixung quanh 1 ôkẻ địch, hồi phụcbản thân 15% sinh mệnh tối đa, bản thânnhậnkiểm định trúng đòn+1, kéo dài 2 lượt. mỗi trận 2  lần.",
+              "4": "tiêu hao 1 hành động, bộc phátthương viêm đẩy lùixung quanh 1 ôkẻ địch, hồi phụcbản thân 20% sinh mệnh tối đa, bản thânnhậnkiểm định trúng đòn+1, kéo dài 2 lượt. mỗi trận 2  lần.",
+              "5": "tiêu hao 1 hành động, bộc phátthương viêm đẩy lùixung quanh 2 ôkẻ địch, hồi phụcbản thân 20% sinh mệnh tối đa, bản thânnhậnkiểm định trúng đòn+2, kéo dài 3 lượt. mỗi trận 2  lần.",
+              "6": "tiêu hao 1 hành động, bộc phátthương viêm đẩy lùixung quanh 2 ôkẻ địch, hồi phụcbản thân 25% sinh mệnh tối đa, bản thânnhậnkiểm định trúng đòn+2, tất cảsát thươngsát thương cuối cùng+10%, kéo dài 3 lượt. mỗi trận 2  lần.",
+              "7": "tiêu hao 1 hành động, bộc phátthương viêm đẩy lùixung quanh 2 ôkẻ địchvà khiếnnó[ngã xuống], hồi phụcbản thân 30% sinh mệnh tối đa, bản thânnhậnkiểm định trúng đòn+3, tất cảsát thươngsát thương cuối cùng+15%, vàlập tứctừ hư khôngnhận 10 điểm[điểm liên kích], kéo dài 3 lượt. mỗi trận 2  lần."
+            },
+            "阶位": "Tất sát"
+          },
+          {
+            "名称": "Bộc Động Lam Diễm",
+            "类型": "Chủ động",
+            "描述": "Dùng tư thế không sợ hãi chộp lấy địch, bộc phát thương viêm toàn thân ở cự ly bằng không, bao phủ đối thủ bằng nhiều đoạn thiêu đốt. Sau đó đấm một tay xuống đất, kích lên trận lam diễm quanh thân liên tục hất bay mọi vật cản.",
+            "特殊效果": {
+              "1": "phát động bắt giữ cận chiến, sau đókích nổthương viêm, sát thương cuối cùng+10%, đấm xuống đấthất bayxung quanh 1 ôtrongtất cảkẻ địch.",
+              "2": "phát động bắt giữ cận chiến, sau đókích nổthương viêm, sát thương cuối cùng+15%, đấm xuống đấthất bayxung quanh 1 ôtrongtất cảkẻ địch.",
+              "3": "phát động bắt giữ cận chiến, sau đókích nổthương viêm, sát thương cuối cùng+20%, đấm xuống đấthất bayxung quanh 1 ôtrongtất cảkẻ địch.",
+              "4": "áp thânbỏ qua Thể chấtcỡthửbắt giữ(miễn trừ Thể chất), kích nổthương viêm, sát thương cuối cùng+20%, đấm xuống đấthất bayxung quanh 1 ôtrongkẻ địch.",
+              "5": "áp thânbỏ qua Thể chấtcỡthửbắt giữ(miễn trừ Thể chất), kích nổthương viêm, sát thương cuối cùng+25%, đấm xuống đấthất bayxung quanh 2 ôtrongkẻ địch.",
+              "6": "áp thânbỏ qua Thể chấtcỡthửbắt giữ(miễn trừ Thể chất), kích nổthương viêm, sát thương cuối cùng+30%, đấm xuống đấthất bayxung quanh 2 ôtrongkẻ địchvàgây thêmgiảm tốc.",
+              "7": "cưỡng épbắt giữmục tiêucự ly bằng khôngtối đađoạnbộc phá, sát thương cuối cùng+50%, đấm một quyền xuống đấtgây ratoàn màn hình(3 ôphạm vi) thông thiêncột lam diễm, sẽtất cảtrong phạm vikẻ địchcưỡng chếđẩy lùi 2 ôvàgây thêm[đốt cháy]; [quá nhiệt] trạng tháikế tiếp, bắt giữhành độngkhông có thểbịmiễn trừkháng lại, vàđấm xuống đấtdư chấnsẽkhiếnnàykhu vựchóa thànhkéo dài 2 lượtbiển lửa màu xanh."
+            },
+            "阶位": "Tất sát"
+          },
+          {
+            "名称": "Heat Drive",
+            "类型": "Chủ động",
+            "描述": "Khóa mục tiêu phía trước rồi đột tiến đường thẳng cực xa. Khoảnh khắc trúng đích sinh sóng xung kích dữ dội; trong quá trình lao tới có khung vô địch và có thể liên tục quay đầu xé nát trận địch.",
+            "特殊效果": {
+              "1": "khóa địnhphía trướcmục tiêuđường thẳngđột tiến, trúng đòngây ra Xung Kíchsóngsẽmục tiêuhất bay, đột tiếncó mangkhung bất tử, sát thương cuối cùng+10%.",
+              "2": "khóa địnhphía trướcmục tiêuđường thẳngđột tiến, trúng đòngây ra Xung Kíchsóngsẽmục tiêuhất bay, đột tiếncó mangkhung bất tử, sát thương cuối cùng+15%, mục tiêuhỏa diễmkháng tính-1.",
+              "3": "khóa địnhphía trướcmục tiêuđường thẳngđột tiếnvàcó thểthực hiện 1 lầnquay lạiđột tiến(cùng 2 lầnđòn đánh), đột tiếncó mangkhung bất tử, sát thương cuối cùng+20%, mục tiêuhỏa diễmkháng tính-1.",
+              "4": "khóa địnhphía trướcmục tiêuđường thẳngđột tiếnvàcó thểthực hiện 1 lầnquay lạiđột tiến(cùng 2 lầnđòn đánh), đột tiếncó mangkhung bất tử, sát thương cuối cùng+25%, mục tiêuhỏa diễmkháng tính-2.",
+              "5": "khóa địnhphía trướcmục tiêuđường thẳngđột tiếnvàcó thểthực hiện 2 lầnquay lạiđột tiến(cùng 3 lầnđòn đánh), đột tiếncó mangkhung bất tử, sát thương cuối cùng+30%, mục tiêuhỏa diễmkháng tính-2.",
+              "6": "khóa địnhphía trướcmục tiêuđường thẳngđột tiếnvàcó thểthực hiện 2 lầnquay lạiđột tiến(cùng 3 lầnđòn đánh), đột tiếncó mangkhung bất tử, sát thương cuối cùng+40%, mục tiêuhỏa diễmkháng tính-3, nhấtsau đómột lầnđòn đánhkèmcưỡng chế hất bay.",
+              "7": "khóa địnhphía trướcmục tiêukích hoạtđột tiến toàn công suất, có thểthực hiện 3 lầnxuyên qua rồi quay lại tốc độ cao(cùng 4 lầnđòn đánh), đột tiếntoàn hành trìnhđang ởkhung bất tử tuyệt đối, sát thương cuối cùng+50%. mỗi lầnxuyên thấugiảmgiảm mục tiêu 1 điểmhỏa diễmkháng tính(tối đa-4), lần bộc phá cuốicưỡng chếsẽmục tiêunổ tung lên trời cao, nối tiếp hoàn hảoliên đoạn trên không; [quá nhiệt] trạng tháikế tiếp, đột tiếnquỹ tíchtrênsẽđể lạitường lửa lam thẫm đang cháy, chặnkẻ địchđi quavàgây thêm[đốt cháy]."
+            },
+            "阶位": "Tất sát"
+          }
+        ],
+        "奥义": [
+          {
+            "名称": "Chain Drive · Route-B",
+            "类型": "Chủ động",
+            "描述": "Áo nghĩa liên đả phá phòng. Khóa một mục tiêu rồi xung phong; trúng đòn lập tức cưỡng ép kích hoạt hơn hai mươi lần liên đả như mưa bão, cuối chuỗi tự nối Heat Drive. Đây là lối công kích tối thượng xem giáp như không.",
+            "特殊效果": {
+              "1": "khóa địnhxung kíchsau khi trúng đònkích hoạtliên đả dài, kết chiêukèmnhẹhất bay, sát thương cuối cùng+20%.",
+              "2": "khóa địnhxung kíchsau khi trúng đònkích hoạtliên đả dài, kết chiêukèmnhẹhất bay, sát thương cuối cùng+30%, trong thời gian đóbỏ quamục tiêu 10% cấp giáp.",
+              "3": "khóa địnhxung kíchsau khi trúng đònkích hoạtliên đả dài, kết chiêukèmmạnhhất bay, sát thương cuối cùng+40%, trong thời gian đóbỏ quamục tiêu 20% cấp giáp.",
+              "4": "khóa địnhxung kíchsau khi trúng đònkích hoạtkéo dài tới 20 đoạnliên đả, kết chiêutự độngnối tiếpcỡ nhỏ Heat Drive, sát thương cuối cùng+50%, trong thời gian đóbỏ quamục tiêu 30% cấp giáp.",
+              "5": "xung kíchtrúng đònlàcưỡng chếkích hoạt 25 lầnliên kích cực tốc(tức thờikiếm được 25 điểmđiểm liên kích), sát thương cuối cùng+60%. liên đảtrong thời gian đóbỏ quamọi giápcộng thêmvớigiảm trừ sát thương(phá phòng ngự chân thực), kết chiêutự độngnối tiếpmột lầntoàn bộcông suất[Heat Drive], sẽmục tiêunổ tung lên trời caovàgây thêmnóhiện tại HP 10% thêm sát thương; [quá nhiệt] trạng tháikế tiếp, thi triểntrong thời gian đóbản thânnhậnbá thểmiễn nhiễmbất kỳkhống chếvớingắt, mục tiêucũngkhông thểlợi dụngbất kỳhành động phản ứngthoát khỏi."
+            },
+            "阶位": "Áo nghĩa"
+          },
+          {
+            "名称": "Ngôi Sao Lam Thẫm Bá Khí",
+            "类型": "Chủ động",
+            "描述": "Dịch chuyển ra sau lưng, ánh sáng toàn sân tối lại và thời gian ngưng trệ. Giơ tay phải làm thủ thế xử quyết “ngón cái chĩa xuống” lạnh lùng, sau đó kích nổ thương viêm trong cơ thể mục tiêu hơn mười lần, dùng cột lửa lam thẫm thông thiên triệt để oanh sát đối thủ.",
+            "特殊效果": {
+              "1": "dịch chuyển tức thờitớimục tiêusau lưngkích hoạttối đađoạn Thể chấttrongthương viêmbộc phá, sát thương cuối cùng+30%.",
+              "2": "dịch chuyển tức thờitớimục tiêusau lưngkích hoạttối đađoạn Thể chấttrongthương viêmbộc phá, sát thương cuối cùng+45%, nhấtsau đógây racột lửa xông trời.",
+              "3": "dịch chuyển tức thờitớimục tiêusau lưngkích hoạttối đađoạn Thể chấttrongthương viêmbộc phá, sát thương cuối cùng+60%, vàtrongthi triểntrong thời gian đócưỡng épáp chếmục tiêukhiếnnókhông thể di chuyển.",
+              "4": "dịch chuyển tức thờitớimục tiêungay phía sau, xung quanhánh sángngưỡngmờ tối, mục tiêubỏ qualượt này 1 lầnhành động phản ứng. kích hoạttối đađoạnbộc phásau đógây racột lửa lam thẫm, sát thương cuối cùng+80%.",
+              "5": "khithời giannhư thể ngưng lạihoa lệxử hình. dịch chuyển tức thờivòng ra saura dấuthủ thế tử vong, gây ramục tiêu Thể chấttrongdữ dộichuỗi nổ thương viêm, sát thương cuối cùng+100%, lấy mộtluồngthông thiêncột lửa lam thẫmnuốt chửng hoàn toànvào tay, gâymục tiêusinh mệnh tối đa 15% sát thương rút máu cố định; [quá nhiệt] trạng tháikế tiếp, nhiệt độ cột lửa đủ đểxóa bỏ khái niệm, nếunàykỹ nănghoàn tất đánh giết, sẽbiến kẻ địchhóađộng táctro u lam, vàlập tức hồi phục cho bản thân 20% sinh mệnh tối đavàđặt lạilần nàykỹ năngsử dụngsố  lần."
+            },
+            "阶位": "Áo nghĩa"
+          },
+          {
+            "名称": "MAX Cancel · Ngôi Sao Lam Thẫm Bá Khí",
+            "类型": "Đặc biệt",
+            "描述": "Cơ chế hủy chiêu phá vỡ giới hạn động tác của hệ thống. Ở đòn cuối Heat Drive trong Chain Drive · Route-B, cưỡng ép cắt hậu diêu, dùng tư thế tàn ảnh nối hoàn hảo vào Ngôi Sao Lam Thẫm Bá Khí, tạo hệ thống tất sát combo tối thượng.",
+            "特殊效果": {
+              "1": "cho phépbạntrongthi triển[Chain Drive · Route-B]sau đó, tiêu haothêm 1 hành động chínhthi triển tức thời[Ngôi Sao Lam Thẫm Bá Khí], vàkỹ năng sausát thương cuối cùng+10%.",
+              "2": "cho phépbạntrongthi triển[Chain Drive · Route-B]sau đó, tiêu haothêm 1 hành động chínhthi triển tức thời[Ngôi Sao Lam Thẫm Bá Khí], vàkỹ năng sausát thương cuối cùng+20%.",
+              "3": "cho phépbạntrongthi triển[Chain Drive · Route-B]sau đó, tiêu haothêm 1 hành động tặng thêmthi triển tức thời[Ngôi Sao Lam Thẫm Bá Khí], vàkỹ năng sausát thương cuối cùng+30%.",
+              "4": "cho phépbạntrongthi triển[Chain Drive · Route-B]kết chiêutức thời, không tiêu haothi triển tức thời[Ngôi Sao Lam Thẫm Bá Khí], vàkỹ năng sausát thương cuối cùng+40%.",
+              "5": "vượt quabậc vịtối thượngliên tiếpđoạnkỹ xảo. khi[Chain Drive · Route-B]nhấtsau đómộtkíchtrúng đòntức thời, bạncó thểbỏ quamọihành độngđiểmtrị sốgiới hạn, trực tiếpcưỡng chếhủyhậu lắc hành độngvàthi triển tức thời[Ngôi Sao Lam Thẫm Bá Khí]. thông qua cách nàynối tiếp Ngôi Sao Lam Thẫm Bá Khísát thương cuối cùng cơ bảnthêm+50%, vàvàsẽtoàn phầnhưởng trọnliên đảtrong quá trìnhmới tích lũytất cả[điểm liên kích]tăng hệ số sát thương. sau khi trúng đònđốt sạch hoàn toànmục tiêuphòng ngựcơ chế, tướcđoạtnóvào hỏa diễmmọi kháng tínhcho tớichiến đấu kết thúc."
+            },
+            "阶位": "Áo nghĩa"
+          }
+        ],
+        "觉醒一": [
+          {
+            "名称": "Lam Thẫm Loạn Vũ",
+            "类型": "Chủ động",
+            "阶位": "Thức tỉnh một",
+            "描述": "Giải phóng bản năng thương viêm bị kìm nén, hóa thân thành tử thần chiến trường như một điệu múa. Trong thời gian cực ngắn trút mưa quyền cước lên mục tiêu, tuyên cáo khởi đầu thức tỉnh.",
+            "特殊效果": {
+              "1": "sau khi thức tỉnh, trong trận chiến này, mọi chínhhành độngkỹ năngsát thương cuối cùngthường trực+30%. chủ động thi triểnlần nàykỹ năngkhi, khóa địnhđơn mục tiêuphát độngmộtđoạncực nhanhquyền cước đan xenxung phong, vào mục tiêuthực hiệnlên tới 25 lầnliên kích áp chế hỗn hợp tần suất cao trên không và mặt đất, mỗi lầnphán địnhđềusẽtự độnglàm bạntích lũy 1 điểmđiểm liên kích, nhấtsau đólấy Ngôi Sao Lam Thẫm Bá Khí cỡ nhỏkết chiêu, sẽmục tiêukhông điều kiệnoanh lùitớirìa chiến trườngvà gắnhôn mê kéo dài.",
+              "2": "sau khi thức tỉnh, trong trận chiến này, mọi chínhhành độngkỹ năngsát thương cuối cùngthường trực+30%. chủ động thi triểnlần nàykỹ năngkhi, khóa địnhđơn mục tiêuphát độngmộtđoạncực nhanhquyền cước đan xenxung phong, vào mục tiêuthực hiệnlên tới 25 lầnliên kích áp chế hỗn hợp tần suất cao trên không và mặt đất, mỗi lầnphán địnhđềusẽtự độnglàm bạntích lũy 1 điểmđiểm liên kích, nhấtsau đólấy Ngôi Sao Lam Thẫm Bá Khí cỡ nhỏkết chiêu, sẽmục tiêukhông điều kiệnoanh lùitớirìa chiến trườngvà gắnhôn mê kéo dài.",
+              "3": "sau khi thức tỉnh, trong trận chiến này, mọi chínhhành độngkỹ năngsát thương cuối cùngthường trực+30%. chủ động thi triểnlần nàykỹ năngkhi, khóa địnhđơn mục tiêuphát độngmộtđoạncực nhanhquyền cước đan xenxung phong, vào mục tiêuthực hiệnlên tới 25 lầnliên kích áp chế hỗn hợp tần suất cao trên không và mặt đất, mỗi lầnphán địnhđềusẽtự độnglàm bạntích lũy 1 điểmđiểm liên kích, nhấtsau đólấy Ngôi Sao Lam Thẫm Bá Khí cỡ nhỏkết chiêu, sẽmục tiêukhông điều kiệnoanh lùitớirìa chiến trườngvà gắnhôn mê kéo dài."
+            }
+          }
+        ],
+        "觉醒二": [
+          {
+            "名称": "Đôi Cánh Phá Giới",
+            "类型": "Chủ động",
+            "阶位": "Thức tỉnh hai",
+            "描述": "Phiên bản cường hóa tối thượng của Lam Thẫm Loạn Vũ. Màu u lam phủ kín toàn thế giới; đòn dịch vị trên không vượt lẽ thường đẩy mỹ học bạo lực tới thần thoại xử quyết theo phần trăm.",
+            "特殊效果": {
+              "1": "sau khi thức tỉnh, trong trận chiến này, bạn nhận điểm liên kíchhiệu suấttăng gấp đôi, [quá nhiệt] trạng tháisát thương cuối cùngcộng thêmthêmnâng cao 50%. chủ động thi triểnlần nàykỹ năngkhi, nền toàn màn hìnhsẽhóa thànhkết giới u lam thăm thẳm, hóađộng tácquỹ đạo màu xanhthiểm hiệntớikẻ địchsau lưnghất bay, trongtrên khôngthực hiệnhoa mắthơn mười lần liên kích đan xen. sau đótrongđiểm cao nhấtlàm ramang tính biểu tượng“Thumbs Down”thủ thế, kích nổkhông gian, gâymục tiêusinh mệnh tối đa 25% rút máu tỷ lệ cố định, vàđập vỡ hoàn toànmục tiêulá chắn và tất cảbuff phòng ngự.",
+              "2": "sau khi thức tỉnh, trong trận chiến này, bạn nhận điểm liên kíchhiệu suấttăng gấp đôi, [quá nhiệt] trạng tháisát thương cuối cùngcộng thêmthêmnâng cao 50%. chủ động thi triểnlần nàykỹ năngkhi, nền toàn màn hìnhsẽhóa thànhkết giới u lam thăm thẳm, hóađộng tácquỹ đạo màu xanhthiểm hiệntớikẻ địchsau lưnghất bay, trongtrên khôngthực hiệnhoa mắthơn mười lần liên kích đan xen. sau đótrongđiểm cao nhấtlàm ramang tính biểu tượng“Thumbs Down”thủ thế, kích nổkhông gian, gâymục tiêusinh mệnh tối đa 25% rút máu tỷ lệ cố định, vàđập vỡ hoàn toànmục tiêulá chắn và tất cảbuff phòng ngự."
+            }
+          }
+        ],
+        "觉醒三": [
+          {
+            "名称": "Thức Tỉnh Lam Thẫm",
+            "类型": "Chủ động",
+            "阶位": "Thức tỉnh ba",
+            "描述": "Khi đối mặt vực thẳm tử vong, vô số ký ức và ý chí của các bản sao dòng K trào lên trong đầu. Tiếng nói của họ hóa thành hậu thuẫn bất khả chiến bại, giúp bạn hoàn thành kỳ tích tái sinh từ lửa.",
+            "特殊效果": {
+              "1": "chủ động kích hoạt, hoặctrongsinh mệnh về 0tức thờiđộng táclàm hành động phản ứngtự độngkích hoạt(mỗi trậnchỉgiới hạn 1 lần). kích hoạtsau đólập tứcmiễn nhiễm tử vong, hồi phục 100% HPvớitoàn bộphầntrạng thái, sau lưnghiện lênđông đảothể nhân bảnlam thẫmảo ảnh. trận chiến nàythời gian còn lạitrong, mọi kỹ năngsẽkhông còntiêu haohành độngđiểm, kỹ nănghồi chiêu/giới hạn bậc vịbịtạm thờixóa bỏ 2 lượt, vàlập tứctrao chobạnvô hạnđiểm liên kích, khiếnbạnđi vàoduy trì vĩnh viễn[Chân · Lam Thẫm Quá Nhiệt]hình thái, tất cảthương viêmđềukèmsát thương chuẩn và thiêu đốt cấp khái niệm, sẽchặntrongtrước mặtmọithần minhvớiác maoanh sát thành tro."
+            }
+          }
+        ]
+      },
+      "skillTreeForClass": "Đấu sĩ",
+      "lockedSkillMap": {
+        "B LO O": {
+          "基础": {
+            "Lam Thẫm Tái Nhiên": {
+              "名称": "Lam Thẫm Tái Nhiên",
+              "类型": "Đặc biệt",
+              "描述": "Đập một tay xuống đất, bộc phát thương viêm hộ thân để đẩy lùi địch xung quanh, tạm lắng sức mạnh cuồng bạo trong cơ thể, hồi phục sinh mệnh và trạng thái chiến đấu để chuẩn bị cho chuỗi cực hạn kế tiếp.",
+              "特殊效果": {
+                "1": "đẩy lùixung quanh 1 ôkẻ địch, hồi phụcbản thân 5% sinh mệnh tối đa.",
+                "2": "đẩy lùixung quanh 1 ôkẻ địch, hồi phụcbản thân 8% sinh mệnh tối đa.",
+                "3": "đẩy lùixung quanh 1 ôkẻ địch, hồi phụcbản thân 8% sinh mệnh tối đa, vàgiải trừbản thânmột mụcthườnggiảm íchtrạng thái.",
+                "4": "hất bayxung quanh 1 ôkẻ địch, hồi phụcbản thân 10% sinh mệnh tối đa, vàgiải trừbản thânmột mụcthườnggiảm íchtrạng thái.",
+                "5": "hất bayxung quanh 1 ôkẻ địch, hồi phụcbản thân 12% sinh mệnh tối đa, vàgiải trừbản thânmột mụcthườnggiảm íchtrạng thái.",
+                "6": "hất bayxung quanh 1 ôkẻ địch, và khiếnchúngmiễn trừ Nhanh nhẹnbất lợi 1 lượt; hồi phụcbản thân 15% sinh mệnh tối đa, giải trừbản thântất cảthườnggiảm ích.",
+                "7": "hất bayxung quanh 1 ôkẻ địch, và khiếnchúngmiễn trừ Nhanh nhẹnbất lợi 1 lượt; hồi phụcbản thân 15% sinh mệnh tối đa, giải trừtất cảthườnggiảm ích, nhận 1 điểmđiểm liên kích.",
+                "8": "hất bayxung quanh 1 ôkẻ địch, và khiếnchúngmiễn trừ Nhanh nhẹnbất lợi 1 lượt; hồi phụcbản thân 18% sinh mệnh tối đa, giải trừtất cảthườnggiảm ích, nhận 1 điểmđiểm liên kích.",
+                "9": "hất bayxung quanh 1 ôkẻ địch, gây thêm[thương viêm]1 lượt; hồi phụcbản thân 18% sinh mệnh tối đa, giải trừtất cảthườnggiảm ích, nhận 1 điểmđiểm liên kích.",
+                "10": "đậpmặt đấtgây racột lửa lam thẫm, sẽxung quanh 2 ôkẻ địchtoàn bộphầnhất bay; hồi phụcbản thân 20% sinh mệnh tối đa, thanh tẩytất cảkhông phảicấp thủ lĩnhkhống chếhiệu quả, lập tức nhận 2 điểmđiểm liên kích.",
+                "11": "gây racột lửa lam thẫmhất bay 2 ôkẻ địch; hồi phục 25% sinh mệnh tối đa, thanh tẩytất cảkhống chếhiệu quả, nhận 2 điểmđiểm liên kích.",
+                "12": "gây racột lửa lam thẫmhất bay 2 ôkẻ địch; hồi phục 25% sinh mệnh tối đa, thanh tẩytất cảkhống chếhiệu quả, nhận 2 điểmđiểm liên kích, vàtrongtiếp theo 1trong lượtgiảm trừ sát thương 15%.",
+                "13": "gây racột lửa lam thẫmhất bay 2 ôkẻ địch; hồi phục 30% sinh mệnh tối đa, thanh tẩytất cảkhống chếhiệu quả, nhận 2 điểmđiểm liên kích, vàtrongtiếp theo 1trong lượtgiảm trừ sát thương 20%.",
+                "14": "gây racột lửa lam thẫmhất bay 2 ôkẻ địch; hồi phục 30% sinh mệnh tối đa, thanh tẩytất cảkhống chếhiệu quả, nhận 3 điểmđiểm liên kích, vàtrongtiếp theo 1trong lượtgiảm trừ sát thương 20%.",
+                "15": "bộc phátrakhông có thểxâm phạmthần thánhthương viêm, cưỡng chếbắn bật ra 3 ôtrongmọiphe địchđơn vị; hồi phụcbản thân 40% sinh mệnh tối đavới 10% đã mấtsinh mệnh, đi vàokéo dài 2 lượt[tuyệt đốibá thể](miễn nhiễmtất cảdị trạngvớingắt), vàthuận thế hoàn thànhmột lầnkhông tiền lắctư thếđặt lại."
+              },
+              "阶位": "Cơ bản"
+            },
+            "Bước Trượt": {
+              "名称": "Bước Trượt",
+              "类型": "Đặc biệt",
+              "描述": "Thân pháp kiểm soát đầy áp lực. Cơ thể trượt ngang tiến hoặc lùi, kéo giãn để né đòn hoặc tức khắc áp sát tạo sơ hở, kèm phán định va chạm nhẹ.",
+              "特殊效果": {
+                "1": "lấy hành động tặng thêmdi chuyển 2 ô, không gây rađòn đòn đòn đánh cơ hội.",
+                "2": "lấy hành động tặng thêmdi chuyển 2 ô, không gây rađòn đòn đòn đánh cơ hội, sau đólượt này AC+1.",
+                "3": "lấy hành động tặng thêmdi chuyển 3 ô, không gây rađòn đòn đòn đánh cơ hội, sau đólượt này AC+1.",
+                "4": "lấy hành động tặng thêmdi chuyển 3 ô, không gây rađòn đòn đòn đánh cơ hội, sau đólượt này AC+1, miễn trừ Nhanh nhẹn+1.",
+                "5": "lấy hành động tặng thêmdi chuyển 3 ô, không gây rađòn đòn đòn đánh cơ hội, sau đólượt này AC+2, miễn trừ Nhanh nhẹn+1.",
+                "6": "lấy hành động tặng thêmdi chuyển 3 ô, không gây rađòn đòn đòn đánh cơ hội, vàcó thểtrong Bước Trượtsau đólập tứcthực hiện 1 lầntấn công cận chiến, AC+2.",
+                "7": "lấy hành động tặng thêmdi chuyển 4 ô, không gây rađòn đòn đòn đánh cơ hội, vàcó thểtrong Bước Trượtsau đólập tứcthực hiện 1 lầntấn công cận chiến, AC+2.",
+                "8": "lấy hành động tặng thêmdi chuyển 4 ô, không gây rađòn đòn đòn đánh cơ hội, Bước Trượtsau đókế tiếpmột lầnkiểm định trúng đòn+1, AC+2.",
+                "9": "lấy hành động tặng thêmdi chuyển 4 ô, không gây rađòn đòn đòn đánh cơ hội, Bước Trượtsau đókế tiếpmột lầnkiểm định trúng đòn+2, AC+2.",
+                "10": "lấy hành động tặng thêmdi chuyển 4 ô, không gây rađòn đòn đòn đánh cơ hội; Bước Trượttrong quá trìnhnhìnlàm nửahư vôtrạng thái(bỏ quava chạmthể tích), Bước Trượtsau đókế tiếpmột lầnkiểm định trúng đòn+2, sát thương cuối cùng+10%.",
+                "11": "lấy hành động tặng thêmdi chuyển 5 ô, không gây rađòn đòn đòn đánh cơ hội; Bước Trượttrong quá trìnhbỏ quava chạmthể tích, kế tiếpmột lầnkiểm định trúng đòn+2, sát thương cuối cùng+10%.",
+                "12": "lấy hành động tặng thêmdi chuyển 5 ô, bỏ quava chạmthể tích, kế tiếpmột lầnkiểm định trúng đòn+2, sát thương cuối cùng+15%, vàgiữ nguyên AC+2tớilượt sau.",
+                "13": "lấy hành động tặng thêmdi chuyển 5 ô, bỏ quava chạmthể tích, kế tiếpmột lầnkiểm định trúng đòn+3, sát thương cuối cùng+15%, giữ nguyên AC+2.",
+                "14": "lấy hành động tặng thêmdi chuyển 5 ô, bỏ quava chạmthể tích, kế tiếpmột lầnkiểm định trúng đòn+3, sát thương cuối cùng+20%, giữ nguyên AC+2.",
+                "15": "Bước Trượthóađộng tácu lamtàn ảnh, có thểbất kỳxuyên quatối đa 6 ôtrongkhông gian(bao gồmxuyên thấukẻ địchvớitường), không gây rađòn đòn đòn đánh cơ hội; hiện thânkhinếutiếptiếp tụcchínhhành độngkỹ năng, nàykỹ nănglập tứcnhìnđộng táctự độnghoàn thànhmột lầnhoàn mỹtrướcchếkiểm định, vàsát thương cuối cùng+30%."
+              },
+              "阶位": "Cơ bản"
+            },
+            "Heat Trigger": {
+              "名称": "Heat Trigger",
+              "类型": "Chủ động",
+              "描述": "Một tay quấn thương viêm bất ổn rồi bắn về phía trước; sau khi trúng đích gây vụ nổ nhỏ. Đây là thức mở đầu tuyệt đối của toàn bộ hệ thống combo, tạo cơ hội cho các phái sinh phía sau.",
+              "特殊效果": {
+                "1": "vào phát động lên đơn mục tiêu 1 đoạncận chiếnkiểm định, gâyhỏa diễmsát thươngvànhận 1 điểmđiểm liên kích.",
+                "2": "sát thương cuối cùng+5%, sau khi trúng đònmục tiêutốc độgiảm 1 ô, kéo dài 1 lượt.",
+                "3": "sát thương cuối cùng+10%, sau khi trúng đònbồi thêmmộtphátcỡ nhỏthương viêmbắn(Phát Đạn Thứ Haiphái sinh), gâynhẹtruy kíchsát thương.",
+                "4": "sát thương cuối cùng+10%, sau khi trúng đònbồi thêm Phát Đạn Thứ Hai, vàmục tiêutốc độgiảm 1 ô.",
+                "5": "sát thương cuối cùng+15%, sau khi trúng đònbồi thêm Phát Đạn Thứ Hai, vàcó thểchọncó hay khôngtrongsau khi trúng đònlập tức Bước Trượt 1 ô.",
+                "6": "sát thương cuối cùng+15%, sau khi trúng đònngoài Phát Đạn Thứ Hai, cònnăng lượngtiếptiếp tụcmột đòn Cước Chớp Nhoáng, vào mục tiêuthực hiệnmiễn trừ Nhanh nhẹn, thất bại thìthìbị[đẩy lùi]1 ô.",
+                "7": "sát thương cuối cùng+20%, Cước Chớp Nhoángcó thểsẽmục tiêuđẩy lùi 2 ô, nhận 2 điểmđiểm liên kích.",
+                "8": "sát thương cuối cùng+20%, Cước Chớp Nhoángsau khi trúng đòn, mục tiêulượt nàyphản ứngkiểm địnhbất lợi.",
+                "9": "sát thương cuối cùng+25%, tiếptiếp tục Phát Đạn Thứ Hai, Cước Chớp Nhoángsau đó, tăng“Dạng Thứ Hai: Thăng Không”phái sinh, vượt quacú móc ngượcsẽmục tiêunhẹhất bay.",
+                "10": "sát thương cuối cùng+30%, hoàn chỉnhthực hiện Heat Trigger->Phát Đạn Thứ Hai->Cước Chớp Nhoáng->Dạng Thứ Hai: Thăng Khôngtoàn bộchuỗiliên đả, mục tiêubịđánhvề phíatrên khôngđi vào[lơ lửng] trạng thái, nhận điểm liên kíchtăng lên thành 4 điểm.",
+                "11": "sát thương cuối cùng+35%, toàn bộchuỗiliên đảkhi trúng đòn, đang ởlơ lửngtrạng tháimục tiêumất Nhanh nhẹngiá trị cộng thêmtrênphòng ngựưu thế.",
+                "12": "sát thương cuối cùng+40%, toàn bộchuỗiliên đảmỗimộtđoạnđềucó 10% xác suấtgây thêm[bốc cháy]1 lượt.",
+                "13": "sát thương cuối cùng+45%, toàn bộchuỗiliên đảổn địnhtrao chomục tiêu[bốc cháy]2 lượt, nhận điểm liên kíchtới 5 điểm.",
+                "14": "sát thương cuối cùng+50%, nếutrướcbađoạntoàn bộ, nhấtsau đómộtđoạntăngtrên khôngchắc chắngâyhiệu lực cực hạn tầng kích(bạo kích).",
+                "15": "hoàn mỹkích hoạtthương viêmtrigger, toàn bộchuỗimở đầusát thươngtăng gấp đôivàkhông thểbịphản ứnggián đoạn; nhấtsau đótăngtrên khôngkhisẽtrongmục tiêuthântrênđể lạimột tầng“thương viêmdấu ấn”, kích nổkhigâydựa trênmục tiêuđãmất HPthêmphần trămtăng sát thương, làm các lần sautrên khôngliên tiếpchiêulót nềnchí tửdiệtcục."
+              },
+              "阶位": "Cơ bản"
+            }
+          },
+          "转职": {
+            "quá nhiệtđặc tính": {
+              "名称": "quá nhiệtđặc tính",
+              "类型": "Đặc biệt nghề nghiệp",
+              "描述": "B L O Ođộc đáochiến đấucơ chế, dùngtấn côngtích lũynhiệt lượng, đi vàobất tử M A Xquá nhiệttrạng thái.",
+              "特殊效果": {
+                "1": "mỗi lầngâysát thươngkhinhận 1 tầng [điểm liên kích], mỗi tầngđiểm liên kíchkhiếnmọi đòn tấn công, sát thương cuối cùng+2%. khiđiểm liên kíchđạt tới 15 tầngkhi, tự động đi vào[quá nhiệt] trạng thái, kéo dài 3 lượt. quá nhiệttrong thời gian đó: tất cảchínhhành độngkỹ năngbiến thành M A Xhình thái(tăngthêm sát thươngphán địnhđoạntrị số, vàsát thương cuối cùng tăng 50%), quá nhiệtkết thúckhiđiểm liên kíchxóa về 0."
+              },
+              "阶位": "Chuyển nghề"
+            },
+            "Bom Nổ Trên Không": {
+              "名称": "Bom Nổ Trên Không",
+              "类型": "Chủ động",
+              "描述": "Đòn kết thúc chuyên dùng cho combo trên không. Giữa không trung bắt chính xác mục tiêu bị hất bay, khoảnh khắc cơ thể chạm địch sẽ kích nổ thương viêm mãnh liệt, nghiền nát hoàn toàn ý chí phản kháng.",
+              "特殊效果": {
+                "1": "chỉnăng lượngtrongtrên khôngsử dụng. vào đơn mục tiêugâymột lầnvụ nổsát thương.",
+                "2": "chỉnăng lượngtrongtrên khôngsử dụng. sát thươngkèmkíchrơihiệu quả, sẽmục tiêuđậpvề phíamặt đất.",
+                "3": "sát thương cuối cùng+10%, kèmkíchrơivà khiếnmục tiêu[ngã xuống].",
+                "4": "sát thương cuối cùng+15%, kèmkíchrơivà khiếnmục tiêu[ngã xuống].",
+                "5": "kíchrơiđậpđấtsau đótạo ra 1 ôthương viêmhình chữ thậpảnh hưởng lanxung quanhkẻ địch.",
+                "6": "sát thương cuối cùng+20%, kíchrơiđậpđấtsau đótạo ra 1 ôthương viêmhình chữ thậpảnh hưởng lanxung quanhkẻ địch.",
+                "7": "sát thương cuối cùng+25%, kíchrơiđậpđấtảnh hưởng lanphạm vimở rộnglớntới 2 ô.",
+                "8": "sát thương cuối cùng+25%, khi trúng đònthêmnhận 1 tầngđiểm liên kích.",
+                "9": "sát thương cuối cùng+30%, khi trúng đònthêmnhận 1 tầngđiểm liên kích.",
+                "10": "bịkíchrơimục tiêucầnthực hiệnmiễn trừ Thể chất, thất bại thìthìthêmmất 5% sinh mệnh tối đa, vàtrongmặt đất tạo thànhlam thẫmđất cháy.",
+                "11": "sát thương cuối cùng+35%, mục tiêumiễn trừ Thể chấtthất bại thìthêmmất 5% sinh mệnh tối đa.",
+                "12": "sát thương cuối cùng+35%, thêmnhận 2 tầngđiểm liên kích, đậpđấtsau đógâyhailầnphán địnhsát thương.",
+                "13": "sát thương cuối cùng+40%, thêmnhận 2 tầngđiểm liên kích, đậpđấthailầnsát thương.",
+                "14": "sát thương cuối cùng+45%, đậpđấtảnh hưởng lantrong phạm vitất cảkẻ địchmiễn trừ Nhanh nhẹnbất lợi.",
+                "15": "trên khôngáp chếcực ý: trongtrên khôngsẽtích tụtụnhiệt lượngtoàn bộphầnrót vàomục tiêu Thể chấttrong, ầm vangsẽnónhưsao băngnhưđậpkhi rơi xuống đấtmặt, gâykinh ngườihố xung kích; bịđậpmục tiêuvớixung quanh 2 ôtrongtất cảphe địchsát thương cuối cùng tăng 50%, vàtoàn bộphầnrơi vào[ngã xuống] và [bốc cháy]hai tầngtrạng thái."
+              },
+              "阶位": "Chuyển nghề"
+            },
+            "Crow Bite": {
+              "名称": "Crow Bite",
+              "类型": "Chủ động",
+              "描述": "Thân thể nghiêng về trước tụ lực, rồi vung một cú uppercut mãnh liệt bọc thương viêm nóng rực từ dưới lên. Quyền ý kéo cơ thể bật lên, là kỹ năng nối hất tung hoàn hảo. Mỗi lần hất bay đều có thể phái sinh.",
+              "特殊效果": {
+                "1": "vào phía trướcđơn mục tiêuthực hiệnmột lầnkèmthương viêmtrảo kích thăng long, sau khi trúng đònkhiếnnó[lơ lửng].",
+                "2": "sát thương cuối cùng+5%, sau khi trúng đònkhiếnnó[lơ lửng]. vào thânởtrên khôngmục tiêukiểm định trúng đònưu thế.",
+                "3": "sát thương cuối cùng+10%, vào thânởtrên khôngmục tiêukiểm định trúng đònưu thế, vàbồi thêmmộtđoạnbổ xuốngtấn công.",
+                "4": "sát thương cuối cùng+10%, bồi thêmbổ xuốngtấn côngcó thểsẽmục tiêutrực tiếpkíchrơitớimặt đất.",
+                "5": "sát thương cuối cùng+15%, bồi thêmbổ xuốngcó thểkíchrơimục tiêu, vàtrongmặt đấtđể lại 1 ôkéo dài 1 lượttàn viêm.",
+                "6": "sát thương cuối cùng+15%, tàn viêmtrong phạm vikẻ địchmỗi lượtchịuđếnkéo dàithiêu đốtsát thương.",
+                "7": "sát thương cuối cùng+20%, mở đầukhicóngắn ngủibất tửphán định, miễn nhiễmđòn đòn đòn đánh cơ hội.",
+                "8": "sát thương cuối cùng+20%, mở đầubất tửphán định, bổ xuốngkíchrơikhithêmnhận 1 tầngđiểm liên kích.",
+                "9": "sát thương cuối cùng+25%, bổ xuốngkíchrơikhithêmnhận 2 tầngđiểm liên kích.",
+                "10": "sát thương cuối cùng+30%, nếuthành cônglấy hiệu quả nàykỹ năngchặn đánhchính diệntrongkích hoạttấn côngkẻ địch, thìgâyphản kíchsơ hở, lần nàysát thươngchắc chắn bạo kích.",
+                "11": "sát thương cuối cùng+35%, chặn đánhthành côngchắc chắn bạo kích, vàmục tiêumọi thuộc tínhmiễn trừ-1, kéo dài 1 lượt.",
+                "12": "sát thương cuối cùng+35%, tàn viêmphạm vimở rộnglớnlàm 2 ô, kéo dài 2 lượt.",
+                "13": "sát thương cuối cùng+40%, tàn viêmphạm vimở rộnglớnlàm 2 ô, đang ởtàn viêmtrênkẻ địchlực di chuyểngiảm một nửa.",
+                "14": "sát thương cuối cùng+45%, mở đầubất tửphán địnhkhithời giankéo dài, có thểlẩn tránhmột lầnpháp thuậthiệu quả.",
+                "15": "cực hạnlơ lửngliên tiếpđoạn: Crow Bitesau khi trúng đòncó thểtự dophái sinh[Bộc Đạn Trên Không], vànếuthành côngngăn chặnkẻ địchtấn công, thìtrực tiếptướcđoạtnàykẻ địchlượt saumột hành động chính, sát thương cuối cùng+60%."
+              },
+              "阶位": "Chuyển nghề"
+            }
+          },
+          "进阶": {
+            "Không Kích Lam Thẫm": {
+              "名称": "Không Kích Lam Thẫm",
+              "类型": "Chủ động",
+              "描述": "Giữa không trung lập tức hóa thành tàn ảnh lửa lam thẫm, bỏ qua chướng ngại không gian và lóe tới ngay phía trên đối thủ để tung trọng kích rơi xuống. Sau khi trúng đòn gây nổ xanh dữ dội, hất mục tiêu bật lên lần nữa.",
+              "特殊效果": {
+                "1": "nhắm vào 6 ôtrongbất kỳ mộtmục tiêu, dịch chuyển tức thờitớinóphía trênvàthực hiệnmột lầnkế tiếprơi xuốngđòn đánh.",
+                "2": "sát thương cuối cùng+10%.",
+                "3": "kế tiếprơi xuốngđòn đánhsau khi trúng đòn, mục tiêumiễn trừ Thể chấtthất bại thìthì[ngã xuống].",
+                "4": "sát thương cuối cùng+15%, mục tiêumiễn trừ Thể chấtthất bại thìthì[ngã xuống].",
+                "5": "kế tiếprơi xuốngtạo ra 1 ô Xung Kíchsóng, ảnh hưởng lanxung quanhkháckẻ địch.",
+                "6": "sát thương cuối cùng+20%, Xung Kíchsóngphạm viảnh hưởng lan 1 ô.",
+                "7": "bỏ quache chắnvàthời gianmọikhông gianchướng ngại(nhưtường), trực tiếpcưỡng chếdịch chuyển.",
+                "8": "sát thương cuối cùng+25%, Xung Kíchsóngcó thểsẽxung quanhkẻ địchbật lêngiữa không trung.",
+                "9": "sát thương cuối cùng+30%, Xung Kíchsóngsẽxung quanhkẻ địchbật lên.",
+                "10": "Xung Kíchsónghóa thànhdữ dộilam diễmvụ nổ, trúng đònmục tiêuchịuchínhsát thươngvàgiáp ACcưỡng chế-2(kéo dài 2 lượt), bịbật lênxung quanhmục tiêucó thểlập tứcbịbạnkỹ năng trên khôngtruy kích."
+              },
+              "阶位": "Nâng cao"
+            },
+            "Heat Drive": {
+              "名称": "Heat Drive",
+              "类型": "Chủ động",
+              "描述": "Khóa mục tiêu phía trước rồi đột tiến đường thẳng cực xa. Khoảnh khắc trúng đích sinh sóng xung kích dữ dội; trong quá trình lao tới có khung vô địch và có thể liên tục quay đầu xé nát trận địch.",
+              "特殊效果": {
+                "1": "về phíađường thẳnghướngvề phíađột tiếntối đa 4 ô, vào đường đitrêntất cảkẻ địchgây 3 đoạnsát thương.",
+                "2": "sát thương cuối cùng+10%, đột tiếntrong thời gian đómiễn nhiễmtất cảkhông phảitrực tiếpchỉ địnhsát thương phạm vi.",
+                "3": "sát thương cuối cùng+15%, đột tiếnkhoảng cáchnâng lên thành 5 ô.",
+                "4": "sát thương cuối cùng+15%, đột tiếntrong thời gian đócókhung bất tử, có thểxuyên thấuvật bayvớivật cản.",
+                "5": "sát thương cuối cùng+20%, đột tiếnkết thúckhitạo ramạnh Xung Kíchsóng, sẽđường đitrênmục tiêu[hất bay].",
+                "6": "sát thương cuối cùng+25%, bịhất baymục tiêuthântrênsẽphát sinhhailầnvụ nổ, bồi thêmmộtđoạnthương viêmsát thương.",
+                "7": "sát thương cuối cùng+30%, có thểtrongđột tiếnkết thúcsau đólập tứctiêu hao 1 điểmđiểm liên kích, lạilầnvề phíabất kỳhướngvề phíathi triểnmột lầnkhông bồi thêmbộc pháquay lạiđột tiến.",
+                "8": "sát thương cuối cùng+35%, quay lạiđột tiếngiống cấp kiểukèmhất bayvớibộc phá, vào lặp lạitrúng đònmục tiêugâythêm 20% sát thương.",
+                "9": "sát thương cuối cùng+40%, mỗi lần trúng đòn có thểtích góp 1 điểmđiểm liên kích, tối đatích góp 3 điểm.",
+                "10": "động cơ nhiệt năngtoàn bộmở: mở khóa đếnvềnhiệthành động, tối đacó thểliên tụcquay lạiđột tiến 3  lần. mỗi lầnxuyên thấukẻ địchkhiếnmục tiêuhỏa diễmkháng tínhkế tiếpgiáng, lần bộc phá cuốisẽmục tiêucưỡng chếnổ tung lên trời cao, nối tiếp hoàn hảoliên đoạn trên không."
+              },
+              "阶位": "Nâng cao"
+            },
+            "Phản Thế Lam Thẫm": {
+              "名称": "Phản Thế Lam Thẫm",
+              "类型": "Chủ động",
+              "描述": "Một tay đút túi, ánh mắt khinh miệt. Bày thế phòng ngự đặc biệt; khoảnh khắc tiếp địch làm thời gian ngưng thoáng chốc, hóa thành tàn ảnh xanh vòng ra sau phản sát, là lõi chiến thuật đảo ngược thế trận.",
+              "特殊效果": {
+                "1": "từ bỏchínhhành độngtấn côngđi vàophản thếtư thế, nếuchịutấn công cận chiến, miễn nhiễmnàylầnsát thươngvàvề phíamục tiêuphản kích, gây 3 đoạnthương viêmsát thương.",
+                "2": "phản kích phản thếsát thương cuối cùng+10%.",
+                "3": "phản kích phản thếsát thương cuối cùng+20%, phản kíchkèmbiên độ nhỏđẩy lùi.",
+                "4": "phản thếkhông chỉvào cận chiếncó hiệu lực, có thể ôđỡvàphản kíchvật bay.",
+                "5": "phản kích phản thếkèmcưỡng chếlơ lửnghiệu quả.",
+                "6": "phản kích phản thếsát thương cuối cùng+30%, phản kíchkèmcưỡng chếlơ lửng, nhận 1 điểmđiểm liên kích.",
+                "7": "thành côngphản thếkhi, nhận 2 điểmđiểm liên kích, mục tiêutrongphản kíchtrong quá trìnhđang ởtrói buộctrạng thái.",
+                "8": "phản kích phản thếphán địnhkhithời gianhơikéo dài, sát thương cuối cùng+40%.",
+                "9": "phản kích phản thếtăng lên thành 5 đoạnnổ liên tiếp, nhấtsau đómộtkíchcó thểtiếptiếp tụcbất kỳkhông phảiáo nghĩakỹ năng.",
+                "10": "hoàn mỹphản thếpháp tắc: phản thếthành côngtức thờikhithời giandừng lại. dịch chuyển tức thờitớikẻ tấn côngsau lưngtrực tiếp kích hoạt 7 đoạnlam thẫmtrongphầnvụ nổ, chắc chắngâybạo kích tầng kích, vàsẽmục tiêuđưa lên trời caomởkhông tìnhliên tiếpđoạn."
+              },
+              "阶位": "Nâng cao"
+            }
+          },
+          "必杀": {
+            "Chain Drive·hình thái X/Y": {
+              "名称": "Chain Drive·hình thái X/Y",
+              "类型": "Chủ động",
+              "描述": "cực nhanhđấtvào đơn mục tiêuthực hiệnhơn mười lầnquyền cước đan xenliên tiếpkích, lấy thăng long tầng quyềnkết chiêu, tạo ralưới áp chế.",
+              "特殊效果": {
+                "1": "khóa địnhđơn mục tiêumục tiêu, liên tụcthực hiện 5 lầnnhanhđòn đánhkiểm định, mỗi lần trúng đòn nhận 1 điểmđiểm liên kích.",
+                "2": "liên tiếpkíchtrị sốtăng lên thành 8 lần, nếutoàn bộphầntrúng đòn, nhấtsau đómộtkíchsát thương cuối cùng+20%.",
+                "3": "liên tiếpkíchtrị sốtăng lên thành 10 lần, thi pháptrong thời gian đómục tiêukhông thểthực hiệnbất kỳnhân cơ hộivớihành động phản ứng.",
+                "4": "liên tiếpkíchtrị sốtăng lên thành 12 lần, liên tiếpkíchtrong quá trìnhmỗitrúng đòn 3 lần, mục tiêugiáp ACthì-1(kéo dài 1 lượt).",
+                "5": "liên tiếpkíchtrị sốtăng lên thành 15 lần, sát thương cuối cùng+30%, vàtrongnhấtsau đóbồi thêmmột đònthăng long tầng quyền, sẽmục tiêuthật caohất bay.",
+                "6": "liên tiếpkíchtrị sốtăng lên thành 18 lần, thăng long tầng quyềnsát thương cuối cùng+40%, vàhất bayđộ caotăng, khiếnmục tiêurơi xuốngkhichịurơi xuốngrơisát thương.",
+                "7": "hoàn mỹ X/Yđan xenđòn đánh: cùng tính 20 đoạnliên đả. mỗi lần trúng đòn đềusẽkhiếnmục tiêu Thể chất D C miễn trừ+1(tối đacộng dồn 5 lần), thăng long tầng quyềnkích nổtất cảliên đảtích gópthương viêmnhiệt lượng, thêmgâymục tiêusinh mệnh tối đa 10% sát thương chuẩn."
+              },
+              "阶位": "Tất sát"
+            },
+            "Bộc Động Lam Diễm": {
+              "名称": "Bộc Động Lam Diễm",
+              "类型": "Chủ động",
+              "描述": "Dùng tư thế không sợ hãi chộp lấy địch, bộc phát thương viêm toàn thân ở cự ly bằng không, bao phủ đối thủ bằng nhiều đoạn thiêu đốt. Sau đó đấm một tay xuống đất, kích lên trận lam diễm quanh thân liên tục hất bay mọi vật cản.",
+              "特殊效果": {
+                "1": "vào cận chiếnphạm vi 1ngườikẻ địchthực hiện Sức mạnhđối kháng, thành côngthìsẽnóbắt giữ, gâymột lầnlửa dữbộc phát, sát thương cuối cùng+15%.",
+                "2": "bắt giữthành côngsau đóbồi thêmđấm xuống đấthành động, vào xung quanh 1 ôtrongtất cảkẻ địchgâyhailầnsát thươngvàđẩy lùi.",
+                "3": "sát thương cuối cùng+25%, đấm xuống đấttạo ralam diễmđịa hìnhkéo dài 2 lượt, kẻ bước vàomỗi lượtkết thúcchịuđếnthiêu đốt.",
+                "4": "sát thương cuối cùng+35%, đấm xuống đấtphạm vimở rộnglớntới 2 ô, trực tiếpsẽtrong phạm vitất cảkhông phảikhổng lồkẻ địchhất bay.",
+                "5": "sát thương cuối cùng+45%, bắt giữtrong thời gian đóbản thânđang ởbá thểtrạng thái; mục tiêubịlam diễmhoàn toànbao bọc, mấttầm nhìnvàkhông thểthi pháp, kéo dài 1 lượt.",
+                "6": "sát thương cuối cùng+55%, đấm xuống đấtgây ralam diễmphun trào, tối đalầnphán địnhhất baykẻ địch, mỗi lầnhất baytướcđoạtmục tiêu 1 ôlực di chuyển.",
+                "7": "liên tiếpnổ vònghành độngbộc phát: bắt giữcưỡng chếthành công(bỏ qua Thể chấtcỡ). bộc phátrakinh ngườilam thẫmlĩnh vực, bịbắt giữngườithêmchịubản thânđãmất HP 15% chémdiệtsát thương, phạm vi lớnhất baysẽkhiếntất cảchịuảnh hưởng lankẻ địchrơi vào[dễ tổn thương] trạng thái 2 lượt."
+              },
+              "阶位": "Tất sát"
+            },
+            "Chain Drive · Route-B": {
+              "名称": "Chain Drive · Route-B",
+              "类型": "Chủ động",
+              "描述": "Áo nghĩa liên đả phá phòng. Khóa một mục tiêu rồi xung phong; trúng đòn lập tức cưỡng ép kích hoạt hơn hai mươi lần liên đả như mưa bão, cuối chuỗi tự nối Heat Drive. Đây là lối công kích tối thượng xem giáp như không.",
+              "特殊效果": {
+                "1": "về phíatrướcxung kíchsau khi trúng đònkích hoạt 15 Hitđòn đánh, nhấtsau đóbồi thêmmột đònmượt màhất bay. sát thương cuối cùng+10%.",
+                "2": "liên đảtrị sốnâng lên thành 18 Hit, sau khi trúng đònmục tiêulượt nàyphòng ngự Sức mạnhkế tiếpgiáng 10%.",
+                "3": "sát thương cuối cùng+20%, liên đảcócực mạnhbám dínhtính, mục tiêukhông thểné tránhcác lần sautấn công.",
+                "4": "liên đảtrị sốnâng lên thành 20 Hit, mỗimộtkíchđềubỏ quamục tiêu 10% giápgiá trị.",
+                "5": "sát thương cuối cùng+30%, mỗimộtkíchbỏ quamục tiêu 20% giápgiá trị, kèmnhẹphá giáptrạng thái.",
+                "6": "trongliên tiếpkíchkết chiêukhitự độngnối tiếp[Heat Drive]nhấtsau đómộtđoạnvụ nổ, sẽmục tiêuđánhbay.",
+                "7": "sát thương cuối cùng+40%, phá phòng ngựnăng lượng Sức mạnhnâng lên thànhbỏ qua 30% giápgiá trị."
+              },
+              "阶位": "Tất sát"
+            }
+          },
+          "奥义": {
+            "Ngôi Sao Lam Thẫm Bá Khí": {
+              "名称": "Ngôi Sao Lam Thẫm Bá Khí",
+              "类型": "Chủ động",
+              "描述": "Dịch chuyển ra sau lưng, ánh sáng toàn sân tối lại và thời gian ngưng trệ. Giơ tay phải làm thủ thế xử quyết “ngón cái chĩa xuống” lạnh lùng, sau đó kích nổ thương viêm trong cơ thể mục tiêu hơn mười lần, dùng cột lửa lam thẫm thông thiên triệt để oanh sát đối thủ.",
+              "特殊效果": {
+                "1": "dịch chuyển tức thờitớitầm nhìntrongmộtngườikẻ địchsau lưng, tướcđoạtnó Nhanh nhẹnphòng ngựgiá trị cộng thêm, sau đótừtrongphầnkích nổthương viêm, gâycực caođơn mục tiêusát thương.",
+                "2": "gây ra 3 đoạntừtrongcònngoàiliên tiếpnổ vòngnổ. sát thương cuối cùng+30%, mỗi lầnvụ nổkhiếnmục tiêu Sức mạnhkiểm địnhbất lợi.",
+                "3": "bối cảnhbịmàu xanh u lambao phủ, xung quanhánh sángngưỡngmờ tối. kích nổđoạntrị sốtăng lên thành 10 đoạn, sát thương cuối cùng+50%. mục tiêutronghiệu quả nàytrong thời gian đóbịcưỡng chếgiam cầm.",
+                "4": "kích nổđoạntrị sốtăng lên thành 20 đoạn. nhấtsau đócột lửa lam thẫmsẽvào tayoanh bay hoàn toàn, gây thêmmục tiêusinh mệnh tối đa 15% thêm sát thương.",
+                "5": "lam thẫmphán quyết: cùng hơn 40 đoạnhủy diệtvụ nổ. trongđơntaylớnngón cái chỉ xuốngthủ thế tử vongrơikế tiếpkhi, khithời gianhoàn toànngưng lại. tổng sát thương cuối cùng+100%, bỏ quamục tiêumọi kháng tínhvớimiễn nhiễm, nếumục tiêu HPthấpở 20%, thìtrực tiếphóa thànhtro bụi(tức tửhiệu quả)."
+              },
+              "阶位": "Áo nghĩa"
+            },
+            "lam diễm-Siêu·Chain Drive": {
+              "名称": "lam diễm-Siêu·Chain Drive",
+              "类型": "Chủ động",
+              "描述": "lấy vượt quanhìnthức tỉnhgiới hạn cực hạntốc độvào đơn mục tiêuthực hiệnliên tụcthương viêmđòn đánh, hành độngmượt mànhưvũ đạokinh điểntuyệt đốidiệt.",
+              "特殊效果": {
+                "1": "khóa địnhphát động lên đơn mục tiêutần suất caotàn ảnhliên đả, thực hiện 15 lầnsát thươngphán định, mỗi lầnphán địnhkèmphạm vi nhỏvụ nổ.",
+                "2": "liên đảsố lầntăng tới 20 lần, sát thương cuối cùng+40%, xung quanh 2 ôtrongkẻ địchcũngsẽchịuđếnlan sát thươngvụ nổsát thương.",
+                "3": "liên đảsố lầntăng tới 25 lần, mỗimộtkíchtrúng đònđềusẽhấp thumục tiêunhiệt lượng, sẽnóchuyển hóalàm bản thânkéo dài 3 lượt[cấp tốc] trạng thái(thêmtăng 1 hành động tặng thêm).",
+                "4": "sát thương cuối cùng+70%, và đòn đánhtần suấtkhiếnmục tiêuhoàn toàn khôngphản kíchkhoảng trống, liên tiếpđoạntrong quá trìnhmọi phòng ngự Buffbịcưỡng épxua tan.",
+                "5": "vượt quagiới hạn cực hạnwaltz: mỗi khi bạn một lầnđòn đánhđềumang theopháp tắcbóp méotàn ảnh. tất cả 25 lầnphán địnhtoàn bộphầnnhìnlàm kiểm địnhưu thế; nhấtsau đómộtkíchkhithương viêmhóa thànhkhổng lồmàu xanhtân tinh bộc liệt, bao phủtoàn sân, sẽliên đảgâytất cảtổngsát thươnglấy 30% tỷ lệchân thựclan sát thươngchochiếntrậntrêntất cảkháckẻ địch."
+              },
+              "阶位": "Áo nghĩa"
+            },
+            "Chain Drive·Ngôi Sao Lam Thẫm Bá Khí": {
+              "名称": "Chain Drive·Ngôi Sao Lam Thẫm Bá Khí",
+              "类型": "Chủ động",
+              "描述": "M A X Cancelhủykỹ. trong Chain Drive Route-Bhoặc Heat Drivehành độngkết thúctức thời, cưỡng chếkích hoạt Ngôi Sao Lam Thẫm Bá Khí, tạo thànhliên tục 35-40 Hitlấy trêntối thượngliên tiếpchiêu.",
+              "特殊效果": {
+                "1": "chỉcó thểtrong[Chain Drive · Route-B]hoặc[Heat Drive]sau khi trúng đònđộng táclàm hành động tặng thêmkích hoạt. lập tứctiếptiếp tục Ngôi Sao Lam Thẫm Bá Khímở đầu, vànàylầnlam thẫm Chi Tinhsát thương cuối cùng+20%.",
+                "2": "nối tiếpcàngcộngmượt mà, phán địnhlàm liên tiếpkíchmộtphần, mục tiêukhông thểtronghai giữa hai kỹ năngchen vàohành động phản ứng, sát thương cuối cùng+25%.",
+                "3": "nếuđộng táclàm hủykỹkích hoạt, các lần saulam thẫm Chi Tinhliên tiếpkíchtrị sốphán địnhtăng 5 Hits, sát thương cuối cùng+30%.",
+                "4": "kỹ năngkích hoạtkhi, B L O Othântrênbộc phátrathương viêmsẽcưỡng chếđẩy lùixung quanhcố gắngquấy nhiễuliên tiếpchiêukháckẻ địch.",
+                "5": "nếuđộng táclàm hủykỹkích hoạt, các lần saulam thẫm Chi Tinhliên tiếpkíchtrị sốphán địnhtăng 10 Hits, sát thương cuối cùng+35%."
+              },
+              "阶位": "Áo nghĩa"
+            }
+          },
+          "觉醒一": {
+            "Lam Thẫm Loạn Vũ": {
+              "名称": "Lam Thẫm Loạn Vũ",
+              "类型": "Chủ động",
+              "阶位": "Thức tỉnh một",
+              "描述": "Giải phóng bản năng thương viêm bị kìm nén, hóa thân thành tử thần chiến trường như một điệu múa. Trong thời gian cực ngắn trút mưa quyền cước lên mục tiêu, tuyên cáo khởi đầu thức tỉnh.",
+              "特殊效果": {
+                "1": "thức tỉnhkỹ năng, mỗi trận giới hạn 1  lần. khóa địnhđơn mục tiêutức thờiđột tiến, kích hoạtbao gồm Heat Trigger, Crow Bite, lam diễmbộc độngtrongtrongmấy chụclầnphức hợptối đađoạnliên tiếpkích, tổng sát thương cuối cùng+80%. nhấtsau đólấy bản suy yếulam thẫm Chi Tinhkết chiêu, cưỡng chếxóa sạchmục tiêulá chắn, và gắnkéo dài tới 3 lượt tầng độ[bốc cháy] và [phá giáp].",
+                "2": "thức tỉnhkỹ năng, mỗi trận giới hạn 1  lần. khóa địnhđơn mục tiêutức thờiđột tiến, kích hoạtbao gồm Heat Trigger, Crow Bite, lam diễmbộc độngtrongtrongmấy chụclầnphức hợptối đađoạnliên tiếpkích, tổng sát thương cuối cùng+80%. nhấtsau đólấy bản suy yếulam thẫm Chi Tinhkết chiêu, cưỡng chếxóa sạchmục tiêulá chắn, và gắnkéo dài tới 3 lượt tầng độ[bốc cháy] và [phá giáp].",
+                "3": "thức tỉnhkỹ năng, mỗi trận giới hạn 1  lần. khóa địnhđơn mục tiêutức thờiđột tiến, kích hoạtbao gồm Heat Trigger, Crow Bite, lam diễmbộc độngtrongtrongmấy chụclầnphức hợptối đađoạnliên tiếpkích, tổng sát thương cuối cùng+80%. nhấtsau đólấy bản suy yếulam thẫm Chi Tinhkết chiêu, cưỡng chếxóa sạchmục tiêulá chắn, và gắnkéo dài tới 3 lượt tầng độ[bốc cháy] và [phá giáp]."
+              }
+            }
+          },
+          "觉醒二": {
+            "Đôi Cánh Phá Giới": {
+              "名称": "Đôi Cánh Phá Giới",
+              "类型": "Chủ động",
+              "阶位": "Thức tỉnh hai",
+              "描述": "Phiên bản cường hóa tối thượng của Lam Thẫm Loạn Vũ. Màu u lam phủ kín toàn thế giới; đòn dịch vị trên không vượt lẽ thường đẩy mỹ học bạo lực tới thần thoại xử quyết theo phần trăm.",
+              "特殊效果": {
+                "1": "thức tỉnhkỹ năng, mỗi trận giới hạn 1  lần. hóađộng tácquỹ đạo màu xanhdịch vịtớikẻ địchsau lưngtrực tiếpsẽnóhất baytớicaotrên không, sau đótronggiữa không trungthực hiệnvượt quamắt thườnggiới hạn cực hạnđan xenliên đả(50+ Hits). nhấtsau đólàm rabiểu tượngtính“Thumbs Down”thủ thế, mục tiêutrongtrên khôngliên tụcphát sinhtrongphầnlớnvụ nổ. cưỡng épphá bỏmục tiêumọibất tử, giảm sát thươngcơ chế, gâykhổng lồlượng lớnsát thươngvàgây thêmmục tiêusinh mệnh tối đa 25% chân thựcrút máu. mục tiêunếulàtồn tạisống, mọi thuộc tínhkiểm địnhvĩnh viễn-2.",
+                "2": "thức tỉnhkỹ năng, mỗi trận giới hạn 1  lần. hóađộng tácquỹ đạo màu xanhdịch vịtớikẻ địchsau lưngtrực tiếpsẽnóhất baytớicaotrên không, sau đótronggiữa không trungthực hiệnvượt quamắt thườnggiới hạn cực hạnđan xenliên đả(50+ Hits). nhấtsau đólàm rabiểu tượngtính“Thumbs Down”thủ thế, mục tiêutrongtrên khôngliên tụcphát sinhtrongphầnlớnvụ nổ. cưỡng épphá bỏmục tiêumọibất tử, giảm sát thươngcơ chế, gâykhổng lồlượng lớnsát thươngvàgây thêmmục tiêusinh mệnh tối đa 25% chân thựcrút máu. mục tiêunếulàtồn tạisống, mọi thuộc tínhkiểm địnhvĩnh viễn-2."
+              }
+            }
+          },
+          "觉醒三": {
+            "Thức Tỉnh Lam Thẫm": {
+              "名称": "Thức Tỉnh Lam Thẫm",
+              "类型": "Đặc biệt",
+              "阶位": "Thức tỉnh ba",
+              "描述": "Khi đối mặt vực thẳm tử vong, vô số ký ức và ý chí của các bản sao dòng K trào lên trong đầu. Tiếng nói của họ hóa thành hậu thuẫn bất khả chiến bại, giúp bạn hoàn thành kỳ tích tái sinh từ lửa.",
+              "特殊效果": {
+                "1": "bịhành độngkích hoạt: khibạn HPlần đầugiảmtới 0khi, không sẽngã xuống, cònlàhồi phục 50% HPvàcưỡng chếđi vào[Thức Tỉnh Lam Thẫm] trạng thái. nhạc nềnthay đổi, mọi tấn côngkèmảo ảnhtruy kích(Hittrị sốtăng gấp đôi), tất cảkỹ năngkhông hồi chiêukhithời gian, vàmiễn nhiễmtất cảsát thương, kéo dài 3 lượt. trạng tháikết thúckhi, nếukẻ địchchưatoàn bộtắt, bạnsẽrơi vào[Sức mạnhcạn kiệt] trạng thái. mỗi trậnchiến dịchchỉgiới hạnkích hoạtmột  lần."
+              }
+            }
+          }
+        },
+        "Đấu sĩ": {
+          "转职": {
+            "Thương Viêm Quá Nhiệt": {
+              "名称": "Thương Viêm Quá Nhiệt",
+              "类型": "Đặc biệt nghề nghiệp",
+              "描述": "Lò động lực cốt lõi của đấu sĩ. Sức mạnh bất ổn trong cơ thể dần nóng lên theo cường độ chiến đấu; mỗi đòn liên kích hiệu quả đều chuyển hóa thành hỏa lực bá đạo hơn.",
+              "特殊效果": {
+                "1": "bịhành độngđặc tính. mỗi khi bạn lầntấn côngtrúng đònđềusẽtạo ra 1 điểm[điểm liên kích](phán định nhiều đoạnkỹ năngcó thểtức thờitối đalầncộng dồn). mỗi 1 điểmđiểm liên kíchkhiếnmọi kỹ năngsát thương cuối cùng tăng 1%, nhận điểm liên kíchkhông giới hạn. khiđiểm liên kíchtích lũy đạt tới 30 điểmkhi, bản thân Sức mạnhtràn ra, tự động đi vào[quá nhiệt] trạng thái(trạng thái M A X), mọi chínhhành độngkỹ nănghình tháitạo rabiến chấtvàbồi thêmliên tiếpđoạnphán định(xem chi tiếtcác kỹ năngnhấtsau đómộtmô tả). [quá nhiệt] trạng tháikéo dài 3 lượt, trong thời gian đóchịuđếnsát thươngthực hiệnmiễn trừ Thể chấtkhinhậnưu thế, trạng tháikết thúcsau đóđiểm liên kíchxóa về 0tính lại."
+              },
+              "阶位": "Chuyển nghề"
+            },
+            "Phản Thế Lam Thẫm": {
+              "名称": "Phản Thế Lam Thẫm",
+              "类型": "Đặc biệt",
+              "描述": "Một tay đút túi, ánh mắt khinh miệt. Bày thế phòng ngự đặc biệt; khoảnh khắc tiếp địch làm thời gian ngưng thoáng chốc, hóa thành tàn ảnh xanh vòng ra sau phản sát, là lõi chiến thuật đảo ngược thế trận.",
+              "特殊效果": {
+                "1": "kéo dài 1 lượt. chịuđếnlần đầucận chiếnvật lýtấn côngvô hiệu hóa, dịch chuyển tức thờitớikẻ tấn côngsau lưngkích hoạtphản kích, phản kíchsát thương cuối cùng+5%.",
+                "2": "kéo dài 1 lượt. chịuđếnlần đầucận chiếnvật lýtấn côngvô hiệu hóa, dịch chuyển tức thờitớikẻ tấn côngsau lưngkích hoạtphản kích, phản kíchsát thương cuối cùng+8%.",
+                "3": "kéo dài 1 lượt. chịuđếnlần đầucận chiếnvật lýtấn côngvô hiệu hóa, dịch chuyển tức thờitớikẻ tấn côngsau lưngkích hoạtphản kích, phản kíchsát thương cuối cùng+12%.",
+                "4": "kéo dài 1 lượt. chịuđếnlần đầucận chiếnvật lýtấn côngvô hiệu hóa, dịch chuyển tức thờitớikẻ tấn côngsau lưngkích hoạtphản kích, phản kíchsát thương cuối cùng+15%, và khiếnmục tiêu Nhanh nhẹnkiểm định-1.",
+                "5": "kéo dài 1 lượt. chịuđếnlần đầucận chiếnvật lýtấn côngvô hiệu hóa, dịch chuyển tức thờitớikẻ tấn côngsau lưngkích hoạtphản kích, phản kíchsát thương cuối cùng+20%, và khiếnmục tiêu Nhanh nhẹnkiểm định-1.",
+                "6": "kéo dài 2 lượt. chịuđếnlần đầucận chiếnvật lýtấn côngvô hiệu hóa, dịch chuyển tức thờitớikẻ tấn côngsau lưngkích hoạtphản kích, phản kíchsát thương cuối cùng+20%, và khiếnmục tiêu Nhanh nhẹnkiểm định-1.",
+                "7": "kéo dài 2 lượt. chịuđếnlần đầucận chiếnvật lýtấn côngvô hiệu hóa, dịch chuyển tức thờitớikẻ tấn côngsau lưngkích hoạtphản kích, phản kíchsát thương cuối cùng+25%, và khiếnmục tiêu Nhanh nhẹnkiểm định-1.",
+                "8": "kéo dài 2 lượt. chịuđếnlần đầucận chiếnvật lýtấn côngvô hiệu hóa, dịch chuyển tức thờitớikẻ tấn côngsau lưngkích hoạtphản kích, phản kíchsát thương cuối cùng+25%, và khiếnmục tiêu Nhanh nhẹnkiểm định-2.",
+                "9": "kéo dài 2 lượt. chịuđếnlần đầucận chiếnvật lýtấn côngvô hiệu hóa, dịch chuyển tức thờitớikẻ tấn côngsau lưngkích hoạtphản kích, phản kíchsát thương cuối cùng+30%, và khiếnmục tiêu Nhanh nhẹnkiểm định-2.",
+                "10": "kéo dài 2 lượt. chịuđếnlần đầucận chiếnhoặctầm xavật lýtấn côngvô hiệu hóa, dịch chuyển tức thờiphản kích, phản kíchsát thương cuối cùng+30%, và khiếnmục tiêu Nhanh nhẹnkiểm định-2, phản kíchkèmcưỡng chế[hất bay].",
+                "11": "kéo dài 2 lượt. chịuđếnlần đầucận chiếnhoặctầm xavật lýtấn côngvô hiệu hóa, dịch chuyển tức thờiphản kích, phản kíchsát thương cuối cùng+35%, và khiếnmục tiêu Nhanh nhẹnkiểm định-2, phản kíchkèmcưỡng chế[hất bay].",
+                "12": "kéo dài 2 lượt. chịuđếnlần đầucận chiếnhoặctầm xavật lýtấn côngvô hiệu hóa, dịch chuyển tức thờiphản kích, phản kíchsát thương cuối cùng+35%, và khiếnmục tiêu Nhanh nhẹnkiểm định-3, phản kíchkèmcưỡng chế[hất bay].",
+                "13": "kéo dài 2 lượt. chịuđếnlần đầucận chiếnhoặctầm xavật lýtấn côngvô hiệu hóa, dịch chuyển tức thờiphản kích, phản kíchsát thương cuối cùng+40%, và khiếnmục tiêu Nhanh nhẹnkiểm định-3, phản kíchkèmcưỡng chế[hất bay].",
+                "14": "kéo dài 3 lượt. chịuđếnlần đầucận chiếnhoặctầm xavật lýtấn côngvô hiệu hóa, dịch chuyển tức thờiphản kích, phản kíchsát thương cuối cùng+40%, và khiếnmục tiêu Nhanh nhẹnkiểm định-3, phản kíchkèmcưỡng chế[hất bay]vàđặt lạilượt nàygiới hạn.",
+                "15": "kéo dài 3 lượt. trong thời gian đóchịuđếntất cảloạicỡtấn công(nếu cóma pháp) lần đầuphán địnhđềuvô hiệu hóa, dịch chuyển tức thờitớisau lưngphản kíchgây ratối đađoạnthương viêmvụ nổ, phản kíchsát thương cuối cùng+50%, chắc chắnhất bayvàcưỡng chếtướcđoạtmục tiêukhilượtcác hành động còn lại; [quá nhiệt] trạng tháikế tiếp, phản kích phản thếkhông còntiêu haonàytư thếsố lượt duy trì."
+              },
+              "阶位": "Chuyển nghề"
+            },
+            "Crow Bite": {
+              "名称": "Crow Bite",
+              "类型": "Chủ động",
+              "描述": "Thân thể nghiêng về trước tụ lực, rồi vung một cú uppercut mãnh liệt bọc thương viêm nóng rực từ dưới lên. Quyền ý kéo cơ thể bật lên, là kỹ năng nối hất tung hoàn hảo. Mỗi lần hất bay đều có thể phái sinh.",
+              "特殊效果": {
+                "1": "vung rahỏa diễmcú móc ngược, sát thương cuối cùng+5%, sẽcỡ vừa và nhỏmục tiêuhất bay 1 ôđộ cao.",
+                "2": "vung rahỏa diễmcú móc ngược, sát thương cuối cùng+8%, sẽcỡ vừa và nhỏmục tiêuhất bay 1 ôđộ cao.",
+                "3": "vung rahỏa diễmcú móc ngược, sát thương cuối cùng+10%, sẽcỡ vừa và nhỏmục tiêuhất bay 1 ôđộ cao.",
+                "4": "vung rahỏa diễmcú móc ngược, sát thương cuối cùng+10%, sẽcỡ vừa và nhỏmục tiêuhất bay 2 ôđộ cao.",
+                "5": "vung rahỏa diễmcú móc ngược, sát thương cuối cùng+15%, sẽcỡ vừa và nhỏmục tiêuhất bay 2 ôđộ cao.",
+                "6": "vung rahỏa diễmcú móc ngược, sát thương cuối cùng+15%, sẽcỡ vừa và nhỏmục tiêuhất bay 2 ôđộ cao, vào đãđang ởlơ lửngtrạng tháimục tiêutrúng đònnhậnưu thế.",
+                "7": "vung rahỏa diễmcú móc ngược, sát thương cuối cùng+20%, sẽcỡ vừa và nhỏmục tiêuhất bay 2 ôđộ cao, vào đãđang ởlơ lửngtrạng tháimục tiêutrúng đònnhậnưu thế.",
+                "8": "vung rahỏa diễmcú móc ngược, sát thương cuối cùng+20%, sẽcỡ vừa và nhỏmục tiêuhất bay 2 ôđộ cao, vào đãđang ởlơ lửngtrạng tháimục tiêutrúng đònnhậnưu thế, động tác mở đầukèmngắn ngủikhung bất tử.",
+                "9": "vung rahỏa diễmcú móc ngược, sát thương cuối cùng+25%, sẽcỡ vừa và nhỏmục tiêuhất bay 2 ôđộ cao, vào đãđang ởlơ lửngtrạng tháimục tiêutrúng đònnhậnưu thế, động tác mở đầukèmngắn ngủikhung bất tử.",
+                "10": "vung rahỏa diễmcú móc ngược, sát thương cuối cùng+25%, bỏ qua Thể chấtcỡcưỡng chế hất bay 3 ôđộ cao, động tác mở đầukèmngắn ngủikhung bất tử.",
+                "11": "vung rahỏa diễmcú móc ngược, sát thương cuối cùng+30%, bỏ qua Thể chấtcỡcưỡng chế hất bay 3 ôđộ cao, động tác mở đầukèmngắn ngủikhung bất tử.",
+                "12": "vung rahỏa diễmcú móc ngược, sát thương cuối cùng+30%, bỏ qua Thể chấtcỡcưỡng chế hất bay 3 ôđộ cao, khi rơi xuống đấttrướcbản thâncấp giáp(AC)+1.",
+                "13": "vung rahỏa diễmcú móc ngược, sát thương cuối cùng+35%, bỏ qua Thể chấtcỡcưỡng chế hất bay 3 ôđộ cao, khi rơi xuống đấttrướcbản thâncấp giáp(AC)+1.",
+                "14": "vung rahỏa diễmcú móc ngược, sát thương cuối cùng+35%, bỏ qua Thể chấtcỡcưỡng chế hất bay 3 ôđộ cao, khi rơi xuống đấttrướcbản thâncấp giáp(AC)+2.",
+                "15": "vung rahỏa diễmcú móc ngược, sát thương cuối cùng+40%, cưỡng chế hất bay 3 ôđộ caovàđặt lạinótốc độ rơi, động tác nhảy lênhoàn toànbất tử; [quá nhiệt] trạng tháikế tiếp, cú móc ngượchỏa diễmhóa thànhmàu xanh u lam, khi trúng đònlàm suy yếumục tiêuphòng ngựcấp(AC)-2vàcó thểlập tứckhông hậu lắcnối tiếp[Bộc Đạn Trên Không]."
+              },
+              "阶位": "Chuyển nghề"
+            }
+          },
+          "基础": {
+            "Heat Trigger": {
+              "名称": "Heat Trigger",
+              "类型": "Chủ động",
+              "描述": "Một tay quấn thương viêm bất ổn rồi bắn về phía trước; sau khi trúng đích gây vụ nổ nhỏ. Đây là thức mở đầu tuyệt đối của toàn bộ hệ thống combo, tạo cơ hội cho các phái sinh phía sau.",
+              "特殊效果": {
+                "1": "sau khi trúng đòngâyphạm vi nhỏthương viêmvụ nổ. nếuđộng táclàm lượtlần thứ mộtkích, nàylầntấn công, sát thương cuối cùng+5%.",
+                "2": "sau khi trúng đòngâyphạm vi nhỏthương viêmvụ nổ. nếuđộng táclàm lượtlần thứ mộtkích, nàylầntấn công, sát thương cuối cùng+8%.",
+                "3": "sau khi trúng đòngâyphạm vi nhỏthương viêmvụ nổ. nếuđộng táclàm lượtlần thứ mộtkích, nàylầntấn công, sát thương cuối cùng+12%.",
+                "4": "sau khi trúng đòngâyphạm vi nhỏthương viêmvụ nổ. nếuđộng táclàm lượtlần thứ mộtkích, nàylầntấn công, sát thương cuối cùng+12%, và khiếnmục tiêumiễn trừ Nhanh nhẹn-1.",
+                "5": "sau khi trúng đòngâyphạm vi nhỏthương viêmvụ nổ. nếuđộng táclàm lượtlần thứ mộtkích, nàylầntấn công, sát thương cuối cùng+15%, và khiếnmục tiêumiễn trừ Nhanh nhẹn-1.",
+                "6": "sau khi trúng đòngâyphạm vi nhỏthương viêmvụ nổ. nếuđộng táclàm lượtlần thứ mộtkích, nàylầntấn công, sát thương cuối cùng+15%, và khiếnmục tiêumiễn trừ Nhanh nhẹn-1; vụ nổphạm vimở rộnglớntới 1 ô.",
+                "7": "sau khi trúng đòngâyphạm vi nhỏthương viêmvụ nổ. nếuđộng táclàm lượtlần thứ mộtkích, nàylầntấn công, sát thương cuối cùng+20%, và khiếnmục tiêumiễn trừ Nhanh nhẹn-1; vụ nổphạm vimở rộnglớntới 1 ô.",
+                "8": "sau khi trúng đòngâyphạm vi nhỏthương viêmvụ nổ. nếuđộng táclàm lượtlần thứ mộtkích, nàylầntấn công, sát thương cuối cùng+20%, và khiếnmục tiêumiễn trừ Nhanh nhẹn-2; vụ nổphạm vimở rộnglớntới 1 ô.",
+                "9": "sau khi trúng đòngâyphạm vi nhỏthương viêmvụ nổ. nếuđộng táclàm lượtlần thứ mộtkích, nàylầntấn công, sát thương cuối cùng+25%, và khiếnmục tiêumiễn trừ Nhanh nhẹn-2; vụ nổphạm vimở rộnglớntới 1 ô.",
+                "10": "sau khi trúng đòngâyphạm vi nhỏthương viêmvụ nổ. nếuđộng táclàm lượtlần thứ mộtkích, nàylầntấn công, sát thương cuối cùng+25%, và khiếnmục tiêumiễn trừ Nhanh nhẹn-2; vụ nổphạm vimở rộnglớntới 2 ô, đi vào[quá nhiệt] trạng tháikhibiến thành M A Xhình thái: tự độngbồi thêmlần thứ hai đoạntia lửavụ nổ.",
+                "11": "sau khi trúng đòngâyphạm vi nhỏthương viêmvụ nổ. nếuđộng táclàm lượtlần thứ mộtkích, nàylầntấn công, sát thương cuối cùng+30%, và khiếnmục tiêumiễn trừ Nhanh nhẹn-2; vụ nổphạm vimở rộnglớntới 2 ô, [quá nhiệt] trạng tháikế tiếptự độngbồi thêmlần thứ hai đoạntia lửavụ nổ.",
+                "12": "sau khi trúng đòngâyphạm vi nhỏthương viêmvụ nổ. nếuđộng táclàm lượtlần thứ mộtkích, nàylầntấn công, sát thương cuối cùng+30%, và khiếnmục tiêumiễn trừ Nhanh nhẹn-3; vụ nổphạm vimở rộnglớntới 2 ô, [quá nhiệt] trạng tháikế tiếptự độngbồi thêmlần thứ hai đoạntia lửavụ nổ.",
+                "13": "sau khi trúng đòngâyphạm vi nhỏthương viêmvụ nổ. nếuđộng táclàm lượtlần thứ mộtkích, nàylầntấn công, sát thương cuối cùng+35%, và khiếnmục tiêumiễn trừ Nhanh nhẹn-3; vụ nổphạm vimở rộnglớntới 2 ô, [quá nhiệt] trạng tháikế tiếptự độngbồi thêmlần thứ hai đoạntia lửavụ nổ.",
+                "14": "sau khi trúng đòngâyphạm vi nhỏthương viêmvụ nổ. nếuđộng táclàm lượtlần thứ mộtkích, nàylầntấn công, sát thương cuối cùng+35%, và khiếnmục tiêumiễn trừ Nhanh nhẹn-3; vụ nổphạm vimở rộnglớntới 2 ô, bản thânkiểm định trúng đòn+1, [quá nhiệt] trạng tháikế tiếptự độngbồi thêmlần thứ hai đoạntia lửavụ nổ.",
+                "15": "sau khi trúng đòngâyphạm vi nhỏthương viêmvụ nổ. nếuđộng táclàm lượtlần thứ mộtkích, nàylầntấn công, sát thương cuối cùng+40%, và khiếnmục tiêumiễn trừ Nhanh nhẹn-3; vụ nổphạm vimở rộnglớntới 2 ô, bản thânkiểm định trúng đòn+2, [quá nhiệt] trạng tháikế tiếpkỹ năngbiến thànhhình thái Chân · M A X: vụ nổbỏ quamục tiêuhỏa diễmkháng tínhvàtrực tiếpgây thêm 2 tầng[đốt cháy] trạng thái."
+              },
+              "阶位": "Cơ bản"
+            },
+            "Phát Đạn Thứ Hai": {
+              "名称": "Phát Đạn Thứ Hai",
+              "类型": "Chủ động",
+              "描述": "Chuỗi phái sinh chuyên dụng sau khi Heat Trigger trúng đòn. Bắn một viên thương viêm cực nhanh, chủ yếu dùng để ngắt động tác đứng dậy của đối thủ hoặc truy kích tầm xa.",
+              "特殊效果": {
+                "1": "Heat Triggerthi triểnsau đócó thểlập tứckích hoạt, bồi thêmmột lần kiểm định tấn công tầm xakiểm định, sát thương cuối cùng+5%.",
+                "2": "Heat Triggerthi triểnsau đócó thểlập tứckích hoạt, bồi thêmmột lần kiểm định tấn công tầm xakiểm định, sát thương cuối cùng+8%.",
+                "3": "Heat Triggerthi triểnsau đócó thểlập tứckích hoạt, bồi thêmmột lần kiểm định tấn công tầm xakiểm định, sát thương cuối cùng+10%.",
+                "4": "Heat Triggerthi triểnsau đócó thểlập tứckích hoạt, bồi thêmmột lần kiểm định tấn công tầm xakiểm định, sát thương cuối cùng+10%, vào đang ởngã xuốngtrạng tháimục tiêukiểm định trúng đòncóưu thế.",
+                "5": "Heat Triggerthi triểnsau đócó thểlập tứckích hoạt, bồi thêmmột lần kiểm định tấn công tầm xakiểm định, sát thương cuối cùng+15%, vào đang ởngã xuốngtrạng tháimục tiêukiểm định trúng đòncóưu thế.",
+                "6": "Heat Triggerthi triểnsau đócó thểlập tứckích hoạt, bồi thêmmột lần kiểm định tấn công tầm xakiểm định, sát thương cuối cùng+15%, vào đang ởngã xuốngtrạng tháimục tiêukiểm định trúng đòncóưu thế, vàtầm bắntăng 1 ô.",
+                "7": "Heat Triggerthi triểnsau đócó thểlập tứckích hoạt, bồi thêmmột lần kiểm định tấn công tầm xakiểm định, sát thương cuối cùng+20%, vào đang ởngã xuốngtrạng tháimục tiêukiểm định trúng đòncóưu thế, vàtầm bắntăng 1 ô.",
+                "8": "Heat Triggerthi triểnsau đócó thểlập tứckích hoạt, bồi thêmmột lần kiểm định tấn công tầm xakiểm định, sát thương cuối cùng+20%, vào đang ởngã xuốngtrạng tháimục tiêutrúng đòncóưu thế, vàgiảmgiảm mục tiêu 1 điểmcấp giáp(AC)1 lượt.",
+                "9": "Heat Triggerthi triểnsau đócó thểlập tứckích hoạt, bồi thêmmột lần kiểm định tấn công tầm xakiểm định, sát thương cuối cùng+25%, vào đang ởngã xuốngtrạng tháimục tiêutrúng đòncóưu thế, vàgiảmgiảm mục tiêu 1 điểmcấp giáp(AC)1 lượt.",
+                "10": "Heat Triggerthi triểnsau đócó thểlập tứckích hoạt, bồi thêmmột lần kiểm định tấn công tầm xakiểm định, sát thương cuối cùng+25%, vào đang ởngã xuốngtrạng tháimục tiêutrúng đòncóưu thế, vàgiảmgiảm mục tiêu 1 điểmcấp giáp(AC)1 lượt, khi trúng đòncưỡng chếngắtmục tiêuhành động phản ứng.",
+                "11": "Heat Triggerthi triểnsau đócó thểlập tứckích hoạt, bồi thêmmột lần kiểm định tấn công tầm xakiểm định, sát thương cuối cùng+30%, vào đang ởngã xuốngtrạng tháimục tiêutrúng đòncóưu thế, vàgiảmgiảm mục tiêu 1 điểmcấp giáp(AC)1 lượt, khi trúng đòncưỡng chếngắtmục tiêuhành động phản ứng.",
+                "12": "Heat Triggerthi triểnsau đócó thểlập tứckích hoạt, bồi thêmmột lần kiểm định tấn công tầm xakiểm định, sát thương cuối cùng+30%, vào đang ởngã xuốngtrạng tháimục tiêutrúng đòncóưu thế, vàgiảmgiảm mục tiêu 2 điểmcấp giáp(AC)1 lượt, khi trúng đòncưỡng chếngắtmục tiêuhành động phản ứng.",
+                "13": "Heat Triggerthi triểnsau đócó thểlập tứckích hoạt, bồi thêmmột lần kiểm định tấn công tầm xakiểm định, sát thương cuối cùng+35%, vào đang ởngã xuốngtrạng tháimục tiêutrúng đòncóưu thế, vàgiảmgiảm mục tiêu 2 điểmcấp giáp(AC)1 lượt, khi trúng đòncưỡng chếngắtmục tiêuhành động phản ứng.",
+                "14": "Heat Triggerthi triểnsau đócó thểlập tứckích hoạt, bồi thêmmột lần kiểm định tấn công tầm xakiểm định, sát thương cuối cùng+35%, vào đang ởngã xuốngtrạng tháimục tiêutrúng đòncóưu thế, vàgiảmgiảm mục tiêu 2 điểmcấp giáp(AC)2 lượt, khi trúng đòncưỡng chếngắtmục tiêuhành động phản ứng.",
+                "15": "Heat Triggerthi triểnsau đócó thểlập tứckích hoạt, bồi thêmmột lần kiểm định tấn công tầm xakiểm định, sát thương cuối cùng+40%, vào đang ởngã xuốngtrạng tháimục tiêutrúng đòncóưu thế, vàgiảmgiảm mục tiêu 2 điểmcấp giáp(AC)2 lượt, khi trúng đòncưỡng chếngắtmục tiêuhành động phản ứng; bắnluồngsẽxuyên thấumột đườngđường thẳngtrêntất cảmục tiêu, gâycấplượng lớnsát thương."
+              },
+              "阶位": "Cơ bản"
+            },
+            "Cước Chớp Nhoáng": {
+              "名称": "Cước Chớp Nhoáng",
+              "类型": "Chủ động",
+              "描述": "Cước pháp đột tiến cực nhanh sau Phát Đạn Thứ Hai. Dùng chân bọc lửa áp sát trong chớp mắt, cưỡng ép đá kẻ địch đang đứng vào trạng thái choáng cứng, nối hoàn hảo với liên kích phía sau.",
+              "特殊效果": {
+                "1": "dịch chuyển tức thờiáp sátmục tiêuvà Cước Kỵ Sĩkích, sát thương cuối cùng+5%, sau khi trúng đònmục tiêucầnthực hiệnmiễn trừ Thể chất, thất bại thìthìtốc độgiảm một nửa 1 lượt.",
+                "2": "dịch chuyển tức thờiáp sátmục tiêuvà Cước Kỵ Sĩkích, sát thương cuối cùng+8%, sau khi trúng đònmục tiêucầnthực hiệnmiễn trừ Thể chất, thất bại thìthìtốc độgiảm một nửa 1 lượt.",
+                "3": "dịch chuyển tức thờiáp sátmục tiêuvà Cước Kỵ Sĩkích, sát thương cuối cùng+12%, sau khi trúng đònmục tiêucầnthực hiệnmiễn trừ Thể chất, thất bại thìthìtốc độgiảm một nửa 1 lượt.",
+                "4": "dịch chuyển tức thờiáp sátmục tiêuvà Cước Kỵ Sĩkích, sát thương cuối cùng+12%, sau khi trúng đònmục tiêucầnthực hiệnmiễn trừ Thể chất, thất bại thìthìbị[đánh choáng](không thể hành động)1 lượt.",
+                "5": "dịch chuyển tức thờiáp sátmục tiêuvà Cước Kỵ Sĩkích, sát thương cuối cùng+15%, sau khi trúng đònmục tiêucầnthực hiệnmiễn trừ Thể chất, thất bại thìthìbị[đánh choáng](không thể hành động)1 lượt.",
+                "6": "dịch chuyển tức thờiáp sátmục tiêuvà Cước Kỵ Sĩkích, sát thương cuối cùng+15%, sau khi trúng đònmục tiêucầnthực hiệnmiễn trừ Thể chất(D C+1), thất bại thìthìbị[đánh choáng]1 lượt.",
+                "7": "dịch chuyển tức thờiáp sátmục tiêuvà Cước Kỵ Sĩkích, sát thương cuối cùng+20%, sau khi trúng đònmục tiêucầnthực hiệnmiễn trừ Thể chất(D C+1), thất bại thìthìbị[đánh choáng]1 lượt.",
+                "8": "dịch chuyển tức thờiáp sátmục tiêuvà Cước Kỵ Sĩkích, sát thương cuối cùng+20%, sau khi trúng đònmục tiêucầnthực hiệnmiễn trừ Thể chất(D C+1), thất bại thìthìbị[đánh choáng]1 lượt, vàkế tiếpmột lầnchịuđếntấn côngkhimất Nhanh nhẹncộng thêm.",
+                "9": "dịch chuyển tức thờiáp sátmục tiêuvà Cước Kỵ Sĩkích, sát thương cuối cùng+25%, sau khi trúng đònmục tiêucầnthực hiệnmiễn trừ Thể chất(D C+1), thất bại thìthìbị[đánh choáng]1 lượt, vàkế tiếpmột lầnchịuđếntấn côngkhimất Nhanh nhẹncộng thêm.",
+                "10": "dịch chuyển tức thờiáp sátmục tiêuvà Cước Kỵ Sĩkích, sát thương cuối cùng+25%, sau khi trúng đònmục tiêucầnthực hiệnmiễn trừ Thể chất(D C+2), thất bại thìthìbị[đánh choáng]1 lượt, vàkế tiếpmột lầnchịuđếntấn côngkhimất Nhanh nhẹncộng thêm.",
+                "11": "dịch chuyển tức thờiáp sátmục tiêuvà Cước Kỵ Sĩkích, sát thương cuối cùng+30%, sau khi trúng đònmục tiêucầnthực hiệnmiễn trừ Thể chất(D C+2), thất bại thìthìbị[đánh choáng]1 lượt, vàkế tiếpmột lầnchịuđếntấn côngkhimất Nhanh nhẹncộng thêm.",
+                "12": "dịch chuyển tức thờiáp sátmục tiêuvà Cước Kỵ Sĩkích, sát thương cuối cùng+30%, sau khi trúng đònmục tiêucầnthực hiệnmiễn trừ Thể chất(D C+3), thất bại thìthìbị[đánh choáng]1 lượt, vàkế tiếpmột lầnchịuđếntấn côngkhimất Nhanh nhẹncộng thêm.",
+                "13": "dịch chuyển tức thờiáp sátmục tiêuvà Cước Kỵ Sĩkích, sát thương cuối cùng+35%, sau khi trúng đònmục tiêucầnthực hiệnmiễn trừ Thể chất(D C+3), thất bại thìthìbị[đánh choáng]1 lượt, vàkế tiếpmột lầnchịuđếntấn côngkhimất Nhanh nhẹncộng thêm.",
+                "14": "dịch chuyển tức thờiáp sátmục tiêuvà Cước Kỵ Sĩkích, sát thương cuối cùng+35%, sau khi trúng đònmục tiêucầnthực hiệnmiễn trừ Thể chất(D C+3), thất bại thìthìbị[đánh choáng]1 lượt, trong thời gian đóchịuđếnbất kỳsát thươngđềusẽchắc chắn bạo kích.",
+                "15": "dịch chuyển tức thờiáp sátmục tiêuvà Cước Kỵ Sĩkích, sát thương cuối cùng+40%, sau khi trúng đònbỏ quamiễn trừtrực tiếpkhiếncỡ vừa và nhỏmục tiêubị[đánh choáng]1 lượt, trong thời gian đóchịuđếnbất kỳsát thươngđềuchắc chắn bạo kích; [quá nhiệt] trạng tháikế tiếp, Cước Kỵ Sĩkíchsẽtạo raxé ráchkhông giantàn ảnh, sẽxung quanh 1 ôtrongkháckẻ địchmộtvàkéo giậtvề phíamục tiêu chính."
+              },
+              "阶位": "Cơ bản"
+            },
+            "Dạng Thứ Hai: Thăng Không": {
+              "名称": "Dạng Thứ Hai: Thăng Không",
+              "类型": "Chủ động",
+              "描述": "Cú uppercut sau khi Cước Chớp Nhoáng hoàn tất áp chế. Đỉnh quyền phủ thương viêm nồng độ cao đánh mạnh từ dưới lên, cưỡng ép hất mục tiêu lên trời và mở màn chiến vực trên không.",
+              "特殊效果": {
+                "1": "kích hoạtmột lầncú móc ngược, sát thương cuối cùng+5%, sau khi trúng đònsẽcỡ vừa và nhỏmục tiêuhất bay 1 ôđộ cao.",
+                "2": "kích hoạtmột lầncú móc ngược, sát thương cuối cùng+8%, sau khi trúng đònsẽcỡ vừa và nhỏmục tiêuhất bay 1 ôđộ cao.",
+                "3": "kích hoạtmột lầncú móc ngược, sát thương cuối cùng+12%, sau khi trúng đònsẽcỡ vừa và nhỏmục tiêuhất bay 1 ôđộ cao.",
+                "4": "kích hoạtmột lầncú móc ngược, sát thương cuối cùng+12%, sau khi trúng đònsẽcỡ vừa và nhỏmục tiêuhất bay 1 ôđộ cao, vàbản thâncó thểkhông tiêu haonhảy lên truy kích.",
+                "5": "kích hoạtmột lầncú móc ngược, sát thương cuối cùng+15%, sau khi trúng đònsẽcỡ vừa và nhỏmục tiêuhất bay 1 ôđộ cao, vàbản thâncó thểkhông tiêu haonhảy lên truy kích.",
+                "6": "kích hoạtmột lầncú móc ngược, sát thương cuối cùng+15%, sau khi trúng đònsẽcỡ vừa và nhỏmục tiêuhất bay 2 ôđộ cao, vàbản thâncó thểkhông tiêu haonhảy lên truy kích.",
+                "7": "kích hoạtmột lầncú móc ngược, sát thương cuối cùng+20%, sau khi trúng đònsẽcỡ vừa và nhỏmục tiêuhất bay 2 ôđộ cao, vàbản thâncó thểkhông tiêu haonhảy lên truy kích.",
+                "8": "kích hoạtmột lầncú móc ngược, sát thương cuối cùng+20%, sau khi trúng đònsẽcỡ vừa và nhỏmục tiêuhất bay 2 ôđộ cao, vàbản thâncó thểkhông tiêu haonhảy lên truy kích, trên khôngtấn côngnhậnưu thế.",
+                "9": "kích hoạtmột lầncú móc ngược, sát thương cuối cùng+25%, sau khi trúng đònsẽcỡ vừa và nhỏmục tiêuhất bay 2 ôđộ cao, vàbản thâncó thểkhông tiêu haonhảy lên truy kích, trên khôngtấn côngnhậnưu thế.",
+                "10": "kích hoạtmột lầncú móc ngược, sát thương cuối cùng+25%, sau khi trúng đònsẽcỡ vừa và nhỏ/cỡ lớnmục tiêuhất bay 2 ôđộ cao, vàbản thâncó thểkhông tiêu haonhảy lên truy kích, trên khôngtấn côngnhậnưu thế.",
+                "11": "kích hoạtmột lầncú móc ngược, sát thương cuối cùng+30%, sau khi trúng đònsẽcỡ vừa và nhỏ/cỡ lớnmục tiêuhất bay 2 ôđộ cao, vàbản thâncó thểkhông tiêu haonhảy lên truy kích, trên khôngtấn côngnhậnưu thế.",
+                "12": "kích hoạtmột lầncú móc ngược, sát thương cuối cùng+30%, sau khi trúng đònsẽcỡ vừa và nhỏ/cỡ lớnmục tiêuhất bay 3 ôđộ cao, bản thânkhông tiêu haonhảy lênsau đónàylượttrên khôngsát thươngthêm+10%.",
+                "13": "kích hoạtmột lầncú móc ngược, sát thương cuối cùng+35%, sau khi trúng đònsẽcỡ vừa và nhỏ/cỡ lớnmục tiêuhất bay 3 ôđộ cao, bản thânkhông tiêu haonhảy lênsau đónàylượttrên khôngsát thươngthêm+10%.",
+                "14": "kích hoạtmột lầncú móc ngược, sát thương cuối cùng+35%, sau khi trúng đònsẽcỡ vừa và nhỏ/cỡ lớnmục tiêuhất bay 3 ôđộ cao, bản thânkhông tiêu haonhảy lênsau đónàylượttrên khôngsát thươngthêm+15%.",
+                "15": "kích hoạtmột lầncú móc ngược, sát thương cuối cùng+40%, cưỡng chếbỏ qua Thể chấtcỡsẽmục tiêuhất bay 3 ôđộ caovàtướcđoạtnóbảo hộ lơ lửng, bản thânnhảy lên theo sátsau đólượt nàytất cảkỹ năng trên khôngsát thương+20%; [quá nhiệt] trạng tháikế tiếp, tăngtrên khônghỏa diễmquỹ tíchsẽlưu lạimộtlượt, vào đi xuyên quakẻ địchgâykéo dàithiêu đốt."
+              },
+              "阶位": "Cơ bản"
+            },
+            "Bước Trượt": {
+              "名称": "Bước Trượt",
+              "类型": "Chủ động",
+              "描述": "Thân pháp kiểm soát đầy áp lực. Cơ thể trượt ngang tiến hoặc lùi, kéo giãn để né đòn hoặc tức khắc áp sát tạo sơ hở, kèm phán định va chạm nhẹ.",
+              "特殊效果": {
+                "1": "dịch chuyển 2 ô, vào đường đitrênkẻ địchthực hiệnnhẹva chạmphán định, sát thương cuối cùng+2%.",
+                "2": "dịch chuyển 2 ô, vào đường đitrênkẻ địchthực hiệnnhẹva chạmphán định, sát thương cuối cùng+4%.",
+                "3": "dịch chuyển 2 ô, vào đường đitrênkẻ địchthực hiệnnhẹva chạmphán định, sát thương cuối cùng+6%.",
+                "4": "dịch chuyển 2 ô, vào đường đitrênkẻ địchthực hiệnnhẹva chạmphán định, sát thương cuối cùng+6%, Bước Trượttrong thời gian đónhậnvào đòn đòn đòn đánh cơ hộimiễn trừ Thể chấtưu thế.",
+                "5": "dịch chuyển 2 ô, vào đường đitrênkẻ địchthực hiệnnhẹva chạmphán định, sát thương cuối cùng+8%, Bước Trượttrong thời gian đónhậnvào đòn đòn đòn đánh cơ hộimiễn trừ Thể chấtưu thế.",
+                "6": "dịch chuyển 2 ô, vào đường đitrênkẻ địchthực hiệnnhẹva chạmphán định, sát thương cuối cùng+8%, Bước Trượttrong thời gian đómiễn nhiễmđòn đòn đòn đánh cơ hội.",
+                "7": "dịch chuyển 2 ô, vào đường đitrênkẻ địchthực hiệnnhẹva chạmphán định, sát thương cuối cùng+10%, Bước Trượttrong thời gian đómiễn nhiễmđòn đòn đòn đánh cơ hội.",
+                "8": "dịch chuyển 3 ô, vào đường đitrênkẻ địchthực hiệnnhẹva chạmphán định, sát thương cuối cùng+10%, Bước Trượttrong thời gian đómiễn nhiễmđòn đòn đòn đánh cơ hội, kết thúckhikế tiếpmộtkíchkiểm định trúng đòn+1.",
+                "9": "dịch chuyển 3 ô, vào đường đitrênkẻ địchthực hiệnnhẹva chạmphán định, sát thương cuối cùng+12%, Bước Trượttrong thời gian đómiễn nhiễmđòn đòn đòn đánh cơ hội, kết thúckhikế tiếpmộtkíchkiểm định trúng đòn+1.",
+                "10": "dịch chuyển 3 ô, vào đường đitrênkẻ địchthực hiệnnhẹva chạmphán định, sát thương cuối cùng+12%, Bước Trượttrong thời gian đómiễn nhiễmđòn đòn đòn đánh cơ hội, kết thúckhiva chạmcó thểngắtkẻ địchtụ lựchoặctập trungtrạng thái.",
+                "11": "dịch chuyển 3 ô, vào đường đitrênkẻ địchthực hiệnnhẹva chạmphán định, sát thương cuối cùng+15%, Bước Trượttrong thời gian đómiễn nhiễmđòn đòn đòn đánh cơ hội, kết thúckhiva chạmcó thểngắtkẻ địchtụ lựchoặctập trungtrạng thái.",
+                "12": "dịch chuyển 3 ô, vào đường đitrênkẻ địchthực hiệnnhẹva chạmphán định, sát thương cuối cùng+15%, Bước Trượttrong thời gian đómiễn nhiễmđòn đòn đòn đánh cơ hội, kết thúckhikế tiếpmộtkíchkiểm định trúng đòn+2vàngắttập trung.",
+                "13": "dịch chuyển 3 ô, vào đường đitrênkẻ địchthực hiệnnhẹva chạmphán định, sát thương cuối cùng+18%, Bước Trượttrong thời gian đómiễn nhiễmđòn đòn đòn đánh cơ hội, kết thúckhikế tiếpmộtkíchkiểm định trúng đòn+2vàngắttập trung.",
+                "14": "dịch chuyển 4 ô, vào đường đitrênkẻ địchthực hiệnnhẹva chạmphán định, sát thương cuối cùng+18%, Bước Trượttrong thời gian đómiễn nhiễmđòn đòn đòn đánh cơ hội, kết thúckhikế tiếpmộtkíchkiểm định trúng đòn+2vàngắttập trung.",
+                "15": "dịch chuyển 4 ô, xuyên thấukẻ địchkhiđể lạihỏa diễmtàn ảnhcắt đứt tầm nhìn, gâysát thương cuối cùng+25% va chạmvà khiếnnó[mất thăng bằng], kế tiếpmộtkíchkiểm định trúng đòn+3vàchắc chắn bạo kích; [quá nhiệt] trạng tháikế tiếp, Bước Trượtcó thểđộng táclàm bất kỳkỹ năngđộng tác thu chiêunối liền mạch, thực hiệnkhông giới hạncơ động."
+              },
+              "阶位": "Cơ bản"
+            }
+          },
+          "觉醒一": {
+            "Lam Thẫm Loạn Vũ": {
+              "名称": "Lam Thẫm Loạn Vũ",
+              "类型": "Chủ động",
+              "阶位": "Thức tỉnh một",
+              "描述": "Giải phóng bản năng thương viêm bị kìm nén, hóa thân thành tử thần chiến trường như một điệu múa. Trong thời gian cực ngắn trút mưa quyền cước lên mục tiêu, tuyên cáo khởi đầu thức tỉnh.",
+              "特殊效果": {
+                "1": "sau khi thức tỉnh, trong trận chiến này, mọi chínhhành độngkỹ năngsát thương cuối cùngthường trực+30%. chủ động thi triểnlần nàykỹ năngkhi, khóa địnhđơn mục tiêuphát độngmộtđoạncực nhanhquyền cước đan xenxung phong, vào mục tiêuthực hiệnlên tới 25 lầnliên kích áp chế hỗn hợp tần suất cao trên không và mặt đất, mỗi lầnphán địnhđềusẽtự độnglàm bạntích lũy 1 điểmđiểm liên kích, nhấtsau đólấy Ngôi Sao Lam Thẫm Bá Khí cỡ nhỏkết chiêu, sẽmục tiêukhông điều kiệnoanh lùitớirìa chiến trườngvà gắnhôn mê kéo dài.",
+                "2": "sau khi thức tỉnh, trong trận chiến này, mọi chínhhành độngkỹ năngsát thương cuối cùngthường trực+30%. chủ động thi triểnlần nàykỹ năngkhi, khóa địnhđơn mục tiêuphát độngmộtđoạncực nhanhquyền cước đan xenxung phong, vào mục tiêuthực hiệnlên tới 25 lầnliên kích áp chế hỗn hợp tần suất cao trên không và mặt đất, mỗi lầnphán địnhđềusẽtự độnglàm bạntích lũy 1 điểmđiểm liên kích, nhấtsau đólấy Ngôi Sao Lam Thẫm Bá Khí cỡ nhỏkết chiêu, sẽmục tiêukhông điều kiệnoanh lùitớirìa chiến trườngvà gắnhôn mê kéo dài.",
+                "3": "sau khi thức tỉnh, trong trận chiến này, mọi chínhhành độngkỹ năngsát thương cuối cùngthường trực+30%. chủ động thi triểnlần nàykỹ năngkhi, khóa địnhđơn mục tiêuphát độngmộtđoạncực nhanhquyền cước đan xenxung phong, vào mục tiêuthực hiệnlên tới 25 lầnliên kích áp chế hỗn hợp tần suất cao trên không và mặt đất, mỗi lầnphán địnhđềusẽtự độnglàm bạntích lũy 1 điểmđiểm liên kích, nhấtsau đólấy Ngôi Sao Lam Thẫm Bá Khí cỡ nhỏkết chiêu, sẽmục tiêukhông điều kiệnoanh lùitớirìa chiến trườngvà gắnhôn mê kéo dài."
+              }
+            }
+          },
+          "觉醒二": {
+            "Đôi Cánh Phá Giới": {
+              "名称": "Đôi Cánh Phá Giới",
+              "类型": "Chủ động",
+              "阶位": "Thức tỉnh hai",
+              "描述": "Phiên bản cường hóa tối thượng của Lam Thẫm Loạn Vũ. Màu u lam phủ kín toàn thế giới; đòn dịch vị trên không vượt lẽ thường đẩy mỹ học bạo lực tới thần thoại xử quyết theo phần trăm.",
+              "特殊效果": {
+                "1": "sau khi thức tỉnh, trong trận chiến này, bạn nhận điểm liên kíchhiệu suấttăng gấp đôi, [quá nhiệt] trạng tháisát thương cuối cùngcộng thêmthêmnâng cao 50%. chủ động thi triểnlần nàykỹ năngkhi, nền toàn màn hìnhsẽhóa thànhkết giới u lam thăm thẳm, hóađộng tácquỹ đạo màu xanhthiểm hiệntớikẻ địchsau lưnghất bay, trongtrên khôngthực hiệnhoa mắthơn mười lần liên kích đan xen. sau đótrongđiểm cao nhấtlàm ramang tính biểu tượng“Thumbs Down”thủ thế, kích nổkhông gian, gâymục tiêusinh mệnh tối đa 25% rút máu tỷ lệ cố định, vàđập vỡ hoàn toànmục tiêulá chắn và tất cảbuff phòng ngự.",
+                "2": "sau khi thức tỉnh, trong trận chiến này, bạn nhận điểm liên kíchhiệu suấttăng gấp đôi, [quá nhiệt] trạng tháisát thương cuối cùngcộng thêmthêmnâng cao 50%. chủ động thi triểnlần nàykỹ năngkhi, nền toàn màn hìnhsẽhóa thànhkết giới u lam thăm thẳm, hóađộng tácquỹ đạo màu xanhthiểm hiệntớikẻ địchsau lưnghất bay, trongtrên khôngthực hiệnhoa mắthơn mười lần liên kích đan xen. sau đótrongđiểm cao nhấtlàm ramang tính biểu tượng“Thumbs Down”thủ thế, kích nổkhông gian, gâymục tiêusinh mệnh tối đa 25% rút máu tỷ lệ cố định, vàđập vỡ hoàn toànmục tiêulá chắn và tất cảbuff phòng ngự."
+              }
+            }
+          },
+          "觉醒三": {
+            "Thức Tỉnh Lam Thẫm": {
+              "名称": "Thức Tỉnh Lam Thẫm",
+              "类型": "Chủ động",
+              "阶位": "Thức tỉnh ba",
+              "描述": "Khi đối mặt vực thẳm tử vong, vô số ký ức và ý chí của các bản sao dòng K trào lên trong đầu. Tiếng nói của họ hóa thành hậu thuẫn bất khả chiến bại, giúp bạn hoàn thành kỳ tích tái sinh từ lửa.",
+              "特殊效果": {
+                "1": "chủ động kích hoạt, hoặctrongsinh mệnh về 0tức thờiđộng táclàm hành động phản ứngtự độngkích hoạt(mỗi trậnchỉgiới hạn 1 lần). kích hoạtsau đólập tứcmiễn nhiễm tử vong, hồi phục 100% HPvớitoàn bộphầntrạng thái, sau lưnghiện lênđông đảothể nhân bảnlam thẫmảo ảnh. trận chiến nàythời gian còn lạitrong, mọi kỹ năngsẽkhông còntiêu haohành độngđiểm, kỹ nănghồi chiêu/giới hạn bậc vịbịtạm thờixóa bỏ 2 lượt, vàlập tứctrao chobạnvô hạnđiểm liên kích, khiếnbạnđi vàoduy trì vĩnh viễn[Chân · Lam Thẫm Quá Nhiệt]hình thái, tất cảthương viêmđềukèmsát thương chuẩn và thiêu đốt cấp khái niệm, sẽchặntrongtrước mặtmọithần minhvớiác maoanh sát thành tro."
+              }
+            }
+          },
+          "必杀": {
+            "Lam Thẫm Tái Nhiên": {
+              "名称": "Lam Thẫm Tái Nhiên",
+              "类型": "Đặc biệt",
+              "描述": "Đập một tay xuống đất, bộc phát thương viêm hộ thân để đẩy lùi địch xung quanh, tạm lắng sức mạnh cuồng bạo trong cơ thể, hồi phục sinh mệnh và trạng thái chiến đấu để chuẩn bị cho chuỗi cực hạn kế tiếp.",
+              "特殊效果": {
+                "1": "tiêu hao 1 hành động, bộc phátthương viêm đẩy lùixung quanh 1 ôkẻ địch, hồi phụcbản thân 10% sinh mệnh tối đa. mỗi trận 2  lần.",
+                "2": "tiêu hao 1 hành động, bộc phátthương viêm đẩy lùixung quanh 1 ôkẻ địch, hồi phụcbản thân 15% sinh mệnh tối đa. mỗi trận 2  lần.",
+                "3": "tiêu hao 1 hành động, bộc phátthương viêm đẩy lùixung quanh 1 ôkẻ địch, hồi phụcbản thân 15% sinh mệnh tối đa, bản thânnhậnkiểm định trúng đòn+1, kéo dài 2 lượt. mỗi trận 2  lần.",
+                "4": "tiêu hao 1 hành động, bộc phátthương viêm đẩy lùixung quanh 1 ôkẻ địch, hồi phụcbản thân 20% sinh mệnh tối đa, bản thânnhậnkiểm định trúng đòn+1, kéo dài 2 lượt. mỗi trận 2  lần.",
+                "5": "tiêu hao 1 hành động, bộc phátthương viêm đẩy lùixung quanh 2 ôkẻ địch, hồi phụcbản thân 20% sinh mệnh tối đa, bản thânnhậnkiểm định trúng đòn+2, kéo dài 3 lượt. mỗi trận 2  lần.",
+                "6": "tiêu hao 1 hành động, bộc phátthương viêm đẩy lùixung quanh 2 ôkẻ địch, hồi phụcbản thân 25% sinh mệnh tối đa, bản thânnhậnkiểm định trúng đòn+2, tất cảsát thươngsát thương cuối cùng+10%, kéo dài 3 lượt. mỗi trận 2  lần.",
+                "7": "tiêu hao 1 hành động, bộc phátthương viêm đẩy lùixung quanh 2 ôkẻ địchvà khiếnnó[ngã xuống], hồi phụcbản thân 30% sinh mệnh tối đa, bản thânnhậnkiểm định trúng đòn+3, tất cảsát thươngsát thương cuối cùng+15%, vàlập tứctừ hư khôngnhận 10 điểm[điểm liên kích], kéo dài 3 lượt. mỗi trận 2  lần."
+              },
+              "阶位": "Tất sát"
+            },
+            "Bộc Động Lam Diễm": {
+              "名称": "Bộc Động Lam Diễm",
+              "类型": "Chủ động",
+              "描述": "Dùng tư thế không sợ hãi chộp lấy địch, bộc phát thương viêm toàn thân ở cự ly bằng không, bao phủ đối thủ bằng nhiều đoạn thiêu đốt. Sau đó đấm một tay xuống đất, kích lên trận lam diễm quanh thân liên tục hất bay mọi vật cản.",
+              "特殊效果": {
+                "1": "phát động bắt giữ cận chiến, sau đókích nổthương viêm, sát thương cuối cùng+10%, đấm xuống đấthất bayxung quanh 1 ôtrongtất cảkẻ địch.",
+                "2": "phát động bắt giữ cận chiến, sau đókích nổthương viêm, sát thương cuối cùng+15%, đấm xuống đấthất bayxung quanh 1 ôtrongtất cảkẻ địch.",
+                "3": "phát động bắt giữ cận chiến, sau đókích nổthương viêm, sát thương cuối cùng+20%, đấm xuống đấthất bayxung quanh 1 ôtrongtất cảkẻ địch.",
+                "4": "áp thânbỏ qua Thể chấtcỡthửbắt giữ(miễn trừ Thể chất), kích nổthương viêm, sát thương cuối cùng+20%, đấm xuống đấthất bayxung quanh 1 ôtrongkẻ địch.",
+                "5": "áp thânbỏ qua Thể chấtcỡthửbắt giữ(miễn trừ Thể chất), kích nổthương viêm, sát thương cuối cùng+25%, đấm xuống đấthất bayxung quanh 2 ôtrongkẻ địch.",
+                "6": "áp thânbỏ qua Thể chấtcỡthửbắt giữ(miễn trừ Thể chất), kích nổthương viêm, sát thương cuối cùng+30%, đấm xuống đấthất bayxung quanh 2 ôtrongkẻ địchvàgây thêmgiảm tốc.",
+                "7": "cưỡng épbắt giữmục tiêucự ly bằng khôngtối đađoạnbộc phá, sát thương cuối cùng+50%, đấm một quyền xuống đấtgây ratoàn màn hình(3 ôphạm vi) thông thiêncột lam diễm, sẽtất cảtrong phạm vikẻ địchcưỡng chếđẩy lùi 2 ôvàgây thêm[đốt cháy]; [quá nhiệt] trạng tháikế tiếp, bắt giữhành độngkhông có thểbịmiễn trừkháng lại, vàđấm xuống đấtdư chấnsẽkhiếnnàykhu vựchóa thànhkéo dài 2 lượtbiển lửa màu xanh."
+              },
+              "阶位": "Tất sát"
+            },
+            "Heat Drive": {
+              "名称": "Heat Drive",
+              "类型": "Chủ động",
+              "描述": "Khóa mục tiêu phía trước rồi đột tiến đường thẳng cực xa. Khoảnh khắc trúng đích sinh sóng xung kích dữ dội; trong quá trình lao tới có khung vô địch và có thể liên tục quay đầu xé nát trận địch.",
+              "特殊效果": {
+                "1": "khóa địnhphía trướcmục tiêuđường thẳngđột tiến, trúng đòngây ra Xung Kíchsóngsẽmục tiêuhất bay, đột tiếncó mangkhung bất tử, sát thương cuối cùng+10%.",
+                "2": "khóa địnhphía trướcmục tiêuđường thẳngđột tiến, trúng đòngây ra Xung Kíchsóngsẽmục tiêuhất bay, đột tiếncó mangkhung bất tử, sát thương cuối cùng+15%, mục tiêuhỏa diễmkháng tính-1.",
+                "3": "khóa địnhphía trướcmục tiêuđường thẳngđột tiếnvàcó thểthực hiện 1 lầnquay lạiđột tiến(cùng 2 lầnđòn đánh), đột tiếncó mangkhung bất tử, sát thương cuối cùng+20%, mục tiêuhỏa diễmkháng tính-1.",
+                "4": "khóa địnhphía trướcmục tiêuđường thẳngđột tiếnvàcó thểthực hiện 1 lầnquay lạiđột tiến(cùng 2 lầnđòn đánh), đột tiếncó mangkhung bất tử, sát thương cuối cùng+25%, mục tiêuhỏa diễmkháng tính-2.",
+                "5": "khóa địnhphía trướcmục tiêuđường thẳngđột tiếnvàcó thểthực hiện 2 lầnquay lạiđột tiến(cùng 3 lầnđòn đánh), đột tiếncó mangkhung bất tử, sát thương cuối cùng+30%, mục tiêuhỏa diễmkháng tính-2.",
+                "6": "khóa địnhphía trướcmục tiêuđường thẳngđột tiếnvàcó thểthực hiện 2 lầnquay lạiđột tiến(cùng 3 lầnđòn đánh), đột tiếncó mangkhung bất tử, sát thương cuối cùng+40%, mục tiêuhỏa diễmkháng tính-3, nhấtsau đómột lầnđòn đánhkèmcưỡng chế hất bay.",
+                "7": "khóa địnhphía trướcmục tiêukích hoạtđột tiến toàn công suất, có thểthực hiện 3 lầnxuyên qua rồi quay lại tốc độ cao(cùng 4 lầnđòn đánh), đột tiếntoàn hành trìnhđang ởkhung bất tử tuyệt đối, sát thương cuối cùng+50%. mỗi lầnxuyên thấugiảmgiảm mục tiêu 1 điểmhỏa diễmkháng tính(tối đa-4), lần bộc phá cuốicưỡng chếsẽmục tiêunổ tung lên trời cao, nối tiếp hoàn hảoliên đoạn trên không; [quá nhiệt] trạng tháikế tiếp, đột tiếnquỹ tíchtrênsẽđể lạitường lửa lam thẫm đang cháy, chặnkẻ địchđi quavàgây thêm[đốt cháy]."
+              },
+              "阶位": "Tất sát"
+            }
+          },
+          "进阶": {
+            "Chain Drive · Dạng X": {
+              "名称": "Chain Drive · Dạng X",
+              "类型": "Chủ động",
+              "描述": "Dùng tốc độ cực cao liên tục đánh đa đoạn vào một mục tiêu hơn mười lần, quyền cước đan xen thành lưới áp chế kín mít, cuối cùng dùng một cú thăng long trọng quyền hất bay địch.",
+              "特殊效果": {
+                "1": "vào phát động lên đơn mục tiêu 5 lầnliên đả phán định nhanh, mỗi lần trúng đòn tích lũy độc lậpđiểm liên kích, sát thương cuối cùng+5%, kết chiêuđẩy lùi 1 ô.",
+                "2": "vào phát động lên đơn mục tiêu 5 lầnliên đả phán định nhanh, mỗi lần trúng đòn tích lũy độc lậpđiểm liên kích, sát thương cuối cùng+8%, kết chiêuđẩy lùi 1 ô.",
+                "3": "vào phát động lên đơn mục tiêu 5 lầnliên đả phán định nhanh, mỗi lần trúng đòn tích lũy độc lậpđiểm liên kích, sát thương cuối cùng+10%, kết chiêuđẩy lùi 1 ô.",
+                "4": "vào phát động lên đơn mục tiêu 8 lầnliên đả phán định nhanh, mỗi lần trúng đòn tích lũy độc lậpđiểm liên kích, sát thương cuối cùng+10%, kết chiêuđẩy lùi 1 ô.",
+                "5": "vào phát động lên đơn mục tiêu 8 lầnliên đả phán định nhanh, mỗi lần trúng đòn tích lũy độc lậpđiểm liên kích, sát thương cuối cùng+15%, kết chiêuđẩy lùi 1 ô.",
+                "6": "vào phát động lên đơn mục tiêu 8 lầnliên đả phán định nhanh, mỗi lần trúng đòn tích lũy độc lậpđiểm liên kích, sát thương cuối cùng+15%, liên đảtrong thời gian đómục tiêukhông thểthực hiệnhành động phản ứng.",
+                "7": "vào phát động lên đơn mục tiêu 8 lầnliên đả phán định nhanh, mỗi lần trúng đòn tích lũy độc lậpđiểm liên kích, sát thương cuối cùng+20%, liên đảtrong thời gian đómục tiêukhông thểthực hiệnhành động phản ứng.",
+                "8": "vào phát động lên đơn mục tiêu 10 lầnliên đả phán định nhanh, mỗi lần trúng đòn tích lũy độc lậpđiểm liên kích, sát thương cuối cùng+20%, liên đảtrong thời gian đómục tiêukhông thểthực hiệnhành động phản ứng.",
+                "9": "vào phát động lên đơn mục tiêu 10 lầnliên đả phán định nhanh, mỗi lần trúng đòn tích lũy độc lậpđiểm liên kích, sát thương cuối cùng+25%, liên đảtrong thời gian đómục tiêukhông thểthực hiệnhành động phản ứng.",
+                "10": "vào phát động lên đơn mục tiêu 10 lầnliên đả phán định nhanh, mỗi lần trúng đòn tích lũy độc lậpđiểm liên kích, sát thương cuối cùng+25%, liên đảtrong thời gian đómục tiêukhông thểthực hiệnhành động phản ứng, kết chiêuđổi thànhcưỡng chế hất bay 2 ô."
+              },
+              "阶位": "Nâng cao"
+            },
+            "Không Kích Lam Thẫm": {
+              "名称": "Không Kích Lam Thẫm",
+              "类型": "Chủ động",
+              "描述": "Giữa không trung lập tức hóa thành tàn ảnh lửa lam thẫm, bỏ qua chướng ngại không gian và lóe tới ngay phía trên đối thủ để tung trọng kích rơi xuống. Sau khi trúng đòn gây nổ xanh dữ dội, hất mục tiêu bật lên lần nữa.",
+              "特殊效果": {
+                "1": "nhảy về phíagiữa không trungsau đóhóađộng táctàn ảnh màu xanh, dịch chuyển tức thờitớimục tiêungay phía trêntrọng kích rơi xuống, sát thương cuối cùng+5%.",
+                "2": "nhảy về phíagiữa không trungsau đóhóađộng táctàn ảnh màu xanh, dịch chuyển tức thờitớimục tiêungay phía trêntrọng kích rơi xuống, sát thương cuối cùng+10%.",
+                "3": "nhảy về phíagiữa không trungsau đóhóađộng táctàn ảnh màu xanh, dịch chuyển tức thờitớimục tiêungay phía trêntrọng kích rơi xuống, sát thương cuối cùng+15%, khi rơi xuống đấtgây raphạm vi nhỏmàu xanhvụ nổ.",
+                "4": "nhảy về phíagiữa không trungsau đóhóađộng táctàn ảnh màu xanh, dịch chuyển tức thờitớimục tiêungay phía trêntrọng kích rơi xuống, sát thương cuối cùng+20%, khi rơi xuống đấtgây raphạm vi nhỏmàu xanhvụ nổ.",
+                "5": "nhảy về phíagiữa không trungsau đóhóađộng táctàn ảnh màu xanh, dịch chuyển tức thờitớimục tiêungay phía trêntrọng kích rơi xuống, sát thương cuối cùng+25%, vụ nổsẽmục tiêunhẹbật lên, thuận tiệnnối tiếpliên đoạn trên không.",
+                "6": "nhảy về phíagiữa không trungsau đóhóađộng táctàn ảnh màu xanh, dịch chuyển tức thờitớimục tiêungay phía trêntrọng kích rơi xuống, bỏ quađòn đòn đòn đánh cơ hội, sát thương cuối cùng+30%, vụ nổsẽmục tiêubật lên.",
+                "7": "nhảy về phíagiữa không trungsau đóhóađộng táctàn ảnh màu xanh, dịch chuyển tức thờitớimục tiêungay phía trêntrọng kích rơi xuống, bỏ quađòn đòn đòn đánh cơ hội, sát thương cuối cùng+35%, vụ nổsẽmục tiêubật lên.",
+                "8": "nhảy về phíagiữa không trungsau đóhóađộng táctàn ảnh màu xanh, dịch chuyển tức thờitớimục tiêungay phía trêntrọng kích rơi xuống, bỏ quađòn đòn đòn đánh cơ hội, sát thương cuối cùng+40%, bật lênđộ caotăng 1 ô.",
+                "9": "nhảy về phíagiữa không trungsau đóhóađộng táctàn ảnh màu xanh, dịch chuyển tức thờitớimục tiêungay phía trêntrọng kích rơi xuống, bỏ quađòn đòn đòn đánh cơ hội, sát thương cuối cùng+45%, bật lênđộ caotăng 1 ô.",
+                "10": "nhảy về phíagiữa không trungsau đóhóađộng táctàn ảnh màu xanh, dịch chuyển tức thờitớimục tiêungay phía trêntrọng kích rơi xuống, bỏ quamọikhông giancản trởvớiđòn đòn đòn đánh cơ hội, sát thương cuối cùng+50%, vụ nổcưỡng chếsẽmục tiêubật lêntớigiữa không trungvàxóa bỏnómộtlượthành động phản ứng; [quá nhiệt] trạng tháikế tiếp, trọng kích rơi xuốngsẽhoàn toànnghiền nátmục tiêuthântrênlá chắn ma phápvớisinh mệnh tạm thời."
+              },
+              "阶位": "Nâng cao"
+            },
+            "Bom Nổ Trên Không": {
+              "名称": "Bom Nổ Trên Không",
+              "类型": "Chủ động",
+              "描述": "Đòn kết thúc chuyên dùng cho combo trên không. Giữa không trung bắt chính xác mục tiêu bị hất bay, khoảnh khắc cơ thể chạm địch sẽ kích nổ thương viêm mãnh liệt, nghiền nát hoàn toàn ý chí phản kháng.",
+              "特殊效果": {
+                "1": "nhảy về phíađang ởlơ lửngtrạng tháimục tiêu, bắt giữsau đókích nổthương viêm, sát thương cuối cùng+5%.",
+                "2": "nhảy về phíađang ởlơ lửngtrạng tháimục tiêu, bắt giữsau đókích nổthương viêm, sát thương cuối cùng+8%.",
+                "3": "nhảy về phíađang ởlơ lửngtrạng tháimục tiêu, bắt giữsau đókích nổthương viêm, sát thương cuối cùng+12%.",
+                "4": "nhảy về phíađang ởlơ lửngtrạng tháimục tiêu, bắt giữsau đókích nổthương viêm, sát thương cuối cùng+15%, vụ nổảnh hưởng lanxung quanh 1 ôkẻ địch.",
+                "5": "nhảy về phíađang ởlơ lửngtrạng tháimục tiêu, bắt giữsau đókích nổthương viêm, sát thương cuối cùng+20%, vụ nổảnh hưởng lanxung quanh 1 ôkẻ địch.",
+                "6": "nhảy về phíađang ởlơ lửngtrạng tháimục tiêu, bắt giữsau đókích nổthương viêm, sát thương cuối cùng+20%, kích nổsau đócó thểmượn lựcvề phíasau đónhảy lùi an toàn 1 ô.",
+                "7": "nhảy về phíađang ởlơ lửngtrạng tháimục tiêu, bắt giữsau đókích nổthương viêm, sát thương cuối cùng+25%, kích nổsau đócó thểmượn lựcvề phíasau đónhảy lùi an toàn 1 ô.",
+                "8": "nhảy về phíađang ởlơ lửngtrạng tháimục tiêu, bắt giữsau đókích nổthương viêm, sát thương cuối cùng+30%, kích nổsau đócó thểmượn lựcvề phíasau đónhảy lùi an toàn 1 ô, giảmmục tiêu 1 điểmmiễn trừ Sức mạnh.",
+                "9": "nhảy về phíađang ởlơ lửngtrạng tháimục tiêu, bắt giữsau đókích nổthương viêm, sát thương cuối cùng+35%, kích nổsau đócó thểmượn lựcvề phíasau đónhảy lùi an toàn 1 ô, giảmmục tiêu 1 điểmmiễn trừ Sức mạnh.",
+                "10": "nhảy về phíađang ởlơ lửngtrạng tháimục tiêu, bắt giữsau đókích nổthương viêm, sát thương cuối cùng+40%, vụ nổảnh hưởng lan 2 ô, kích nổsau đócó thểmượn lựcvề phíasau đónhảy lùi an toàn 2 ô, giảmmục tiêu 1 điểmmiễn trừ Sức mạnh; [quá nhiệt] trạng tháikế tiếp, bắt giữchắc chắn bạo kíchvàsẽmục tiêuđập mạnhtớimặt đất, vào mặt đấtmục tiêugâygiống cấp cấpsát thương lan."
+              },
+              "阶位": "Nâng cao"
+            }
+          },
+          "奥义": {
+            "Chain Drive · Route-B": {
+              "名称": "Chain Drive · Route-B",
+              "类型": "Chủ động",
+              "描述": "Áo nghĩa liên đả phá phòng. Khóa một mục tiêu rồi xung phong; trúng đòn lập tức cưỡng ép kích hoạt hơn hai mươi lần liên đả như mưa bão, cuối chuỗi tự nối Heat Drive. Đây là lối công kích tối thượng xem giáp như không.",
+              "特殊效果": {
+                "1": "khóa địnhxung kíchsau khi trúng đònkích hoạtliên đả dài, kết chiêukèmnhẹhất bay, sát thương cuối cùng+20%.",
+                "2": "khóa địnhxung kíchsau khi trúng đònkích hoạtliên đả dài, kết chiêukèmnhẹhất bay, sát thương cuối cùng+30%, trong thời gian đóbỏ quamục tiêu 10% cấp giáp.",
+                "3": "khóa địnhxung kíchsau khi trúng đònkích hoạtliên đả dài, kết chiêukèmmạnhhất bay, sát thương cuối cùng+40%, trong thời gian đóbỏ quamục tiêu 20% cấp giáp.",
+                "4": "khóa địnhxung kíchsau khi trúng đònkích hoạtkéo dài tới 20 đoạnliên đả, kết chiêutự độngnối tiếpcỡ nhỏ Heat Drive, sát thương cuối cùng+50%, trong thời gian đóbỏ quamục tiêu 30% cấp giáp.",
+                "5": "xung kíchtrúng đònlàcưỡng chếkích hoạt 25 lầnliên kích cực tốc(tức thờikiếm được 25 điểmđiểm liên kích), sát thương cuối cùng+60%. liên đảtrong thời gian đóbỏ quamọi giápcộng thêmvớigiảm trừ sát thương(phá phòng ngự chân thực), kết chiêutự độngnối tiếpmột lầntoàn bộcông suất[Heat Drive], sẽmục tiêunổ tung lên trời caovàgây thêmnóhiện tại HP 10% thêm sát thương; [quá nhiệt] trạng tháikế tiếp, thi triểntrong thời gian đóbản thânnhậnbá thểmiễn nhiễmbất kỳkhống chếvớingắt, mục tiêucũngkhông thểlợi dụngbất kỳhành động phản ứngthoát khỏi."
+              },
+              "阶位": "Áo nghĩa"
+            },
+            "Ngôi Sao Lam Thẫm Bá Khí": {
+              "名称": "Ngôi Sao Lam Thẫm Bá Khí",
+              "类型": "Chủ động",
+              "描述": "Dịch chuyển ra sau lưng, ánh sáng toàn sân tối lại và thời gian ngưng trệ. Giơ tay phải làm thủ thế xử quyết “ngón cái chĩa xuống” lạnh lùng, sau đó kích nổ thương viêm trong cơ thể mục tiêu hơn mười lần, dùng cột lửa lam thẫm thông thiên triệt để oanh sát đối thủ.",
+              "特殊效果": {
+                "1": "dịch chuyển tức thờitớimục tiêusau lưngkích hoạttối đađoạn Thể chấttrongthương viêmbộc phá, sát thương cuối cùng+30%.",
+                "2": "dịch chuyển tức thờitớimục tiêusau lưngkích hoạttối đađoạn Thể chấttrongthương viêmbộc phá, sát thương cuối cùng+45%, nhấtsau đógây racột lửa xông trời.",
+                "3": "dịch chuyển tức thờitớimục tiêusau lưngkích hoạttối đađoạn Thể chấttrongthương viêmbộc phá, sát thương cuối cùng+60%, vàtrongthi triểntrong thời gian đócưỡng épáp chếmục tiêukhiếnnókhông thể di chuyển.",
+                "4": "dịch chuyển tức thờitớimục tiêungay phía sau, xung quanhánh sángngưỡngmờ tối, mục tiêubỏ qualượt này 1 lầnhành động phản ứng. kích hoạttối đađoạnbộc phásau đógây racột lửa lam thẫm, sát thương cuối cùng+80%.",
+                "5": "khithời giannhư thể ngưng lạihoa lệxử hình. dịch chuyển tức thờivòng ra saura dấuthủ thế tử vong, gây ramục tiêu Thể chấttrongdữ dộichuỗi nổ thương viêm, sát thương cuối cùng+100%, lấy mộtluồngthông thiêncột lửa lam thẫmnuốt chửng hoàn toànvào tay, gâymục tiêusinh mệnh tối đa 15% sát thương rút máu cố định; [quá nhiệt] trạng tháikế tiếp, nhiệt độ cột lửa đủ đểxóa bỏ khái niệm, nếunàykỹ nănghoàn tất đánh giết, sẽbiến kẻ địchhóađộng táctro u lam, vàlập tức hồi phục cho bản thân 20% sinh mệnh tối đavàđặt lạilần nàykỹ năngsử dụngsố  lần."
+              },
+              "阶位": "Áo nghĩa"
+            },
+            "MAX Cancel · Ngôi Sao Lam Thẫm Bá Khí": {
+              "名称": "MAX Cancel · Ngôi Sao Lam Thẫm Bá Khí",
+              "类型": "Đặc biệt",
+              "描述": "Cơ chế hủy chiêu phá vỡ giới hạn động tác của hệ thống. Ở đòn cuối Heat Drive trong Chain Drive · Route-B, cưỡng ép cắt hậu diêu, dùng tư thế tàn ảnh nối hoàn hảo vào Ngôi Sao Lam Thẫm Bá Khí, tạo hệ thống tất sát combo tối thượng.",
+              "特殊效果": {
+                "1": "cho phépbạntrongthi triển[Chain Drive · Route-B]sau đó, tiêu haothêm 1 hành động chínhthi triển tức thời[Ngôi Sao Lam Thẫm Bá Khí], vàkỹ năng sausát thương cuối cùng+10%.",
+                "2": "cho phépbạntrongthi triển[Chain Drive · Route-B]sau đó, tiêu haothêm 1 hành động chínhthi triển tức thời[Ngôi Sao Lam Thẫm Bá Khí], vàkỹ năng sausát thương cuối cùng+20%.",
+                "3": "cho phépbạntrongthi triển[Chain Drive · Route-B]sau đó, tiêu haothêm 1 hành động tặng thêmthi triển tức thời[Ngôi Sao Lam Thẫm Bá Khí], vàkỹ năng sausát thương cuối cùng+30%.",
+                "4": "cho phépbạntrongthi triển[Chain Drive · Route-B]kết chiêutức thời, không tiêu haothi triển tức thời[Ngôi Sao Lam Thẫm Bá Khí], vàkỹ năng sausát thương cuối cùng+40%.",
+                "5": "vượt quabậc vịtối thượngliên tiếpđoạnkỹ xảo. khi[Chain Drive · Route-B]nhấtsau đómộtkíchtrúng đòntức thời, bạncó thểbỏ quamọihành độngđiểmtrị sốgiới hạn, trực tiếpcưỡng chếhủyhậu lắc hành độngvàthi triển tức thời[Ngôi Sao Lam Thẫm Bá Khí]. thông qua cách nàynối tiếp Ngôi Sao Lam Thẫm Bá Khísát thương cuối cùng cơ bảnthêm+50%, vàvàsẽtoàn phầnhưởng trọnliên đảtrong quá trìnhmới tích lũytất cả[điểm liên kích]tăng hệ số sát thương. sau khi trúng đònđốt sạch hoàn toànmục tiêuphòng ngựcơ chế, tướcđoạtnóvào hỏa diễmmọi kháng tínhcho tớichiến đấu kết thúc."
+              },
+              "阶位": "Áo nghĩa"
+            }
+          }
+        }
+      },
+      "skillFlavorInput": "Kỹ năng cơ bản đổi thành 5 kỹ năng, gồm Heat Trigger và kỹ năng liên đoạn.\nThông qua thế mở đầu để đi vào trạng thái cường hóa, sau đó thực hiện nhiều loại phái sinh. Về mặt trị số, mỗi cấp nên tăng lên; ví dụ AC+1 thì cấp kế tiếp nên cộng 2.\n1. Tất sát cơ bản: Heat Trigger (5 liên kích). Khóa mục tiêu phía trước, cánh tay quấn thương viêm bất ổn rồi bắn lửa về phía trước. Sau khi trúng đòn tạo vụ nổ phạm vi nhỏ, có thể dùng làm thế mở đầu cho nhiều chuỗi liên chiêu. Số liên kích: 1-2 Hits. Ghi chú: kỹ mở đầu cốt lõi, có thể phái sinh nhiều đòn tiếp theo.\n2. Kỹ phái sinh từ Heat Trigger: Phát Đạn Thứ Hai là sau khi Heat Trigger trúng đòn sẽ bồi thêm một viên đạn thương viêm cỡ nhỏ, tốc độ cực nhanh, dùng để truy kích tầm xa hoặc ngắt động tác bật dậy. Cước Chớp Nhoáng là sau khi Phát Đạn Thứ Hai trúng đòn sẽ áp sát nhanh, dùng chân bọc lửa đá liên tục để kéo dài liên đoạn và kèm đánh choáng. Dạng Thứ Hai: Thăng Không là sau khi Cước Chớp Nhoáng trúng đòn, nối bằng trọng quyền phủ thương viêm tung cú móc từ dưới lên, cưỡng chế đánh đối thủ lên không để mở liên chiêu trên không. Số liên kích: 1 Hit. Ghi chú: lõi nối tiếp liên chiêu.\nBộc Đạn Trên Không: khóa mục tiêu trên không, thân thể bắt lấy kẻ địch rồi cho thương viêm phát nổ, dùng để áp chế trên không. Số liên kích: 1-2 Hits. Ghi chú: chuyên dùng trên không; mỗi lần kỹ năng khác hất bay đều có thể nối Bộc Đạn Trên Không.\nCrow Bite: thân thể nghiêng về trước tụ lực, ngay sau đó vung một cú móc dữ dội từ dưới lên; nắm đấm bọc lửa nóng rực, thân thể nhảy vọt theo, tạo một đòn thăng không mạnh mẽ. Số liên kích: 1-3 Hits. Ghi chú: mỗi lần hất bay đều có thể nối Bộc Đạn Trên Không.\nBước Trượt: thân thể trượt bước về trước hoặc về sau, dùng để áp sát đối thủ hoặc né đòn tấn công của kẻ địch. Số liên kích: 0. Ghi chú: khống chế khoảng cách.\nHeat Drive: khóa mục tiêu phía trước, tiến hành đột tiến đường thẳng siêu xa. Khoảnh khắc trúng đòn sinh ra vụ nổ dữ dội, cưỡng chế hất đối thủ lên trời cao; trong quá trình đột tiến có khung bất tử. Khi nâng cấp sẽ mở khóa chuyển động nhiệt qua lại, tối đa có thể liên tục quay đầu đột tiến 3 lần. Mỗi lần xuyên qua kẻ địch sẽ làm kháng lửa của mục tiêu giảm; lần bộc phá cuối cưỡng chế nổ mục tiêu lên không, nối hoàn hảo với liên đoạn trên không. Số liên kích: 3-5 Hits.\nChain Drive - hình thái X/Y: dùng tốc độ cực nhanh thực hiện hơn mười lần liên kích nhiều đoạn lên đơn mục tiêu; quyền cước đan xen tạo lưới áp chế kín mít, cuối cùng dùng một trọng quyền thăng long đánh bay kẻ địch để kết thúc. Số liên kích: 15-20 Hits.\nLam Diễm Bộc Động: bắt giữ kẻ địch, bộc phát toàn bộ thương viêm trên người trong một lần, bao bọc hoàn toàn đối thủ để thực hiện nhiều đoạn thiêu đốt và nổ. Sau đó lại dùng một tay đấm xuống đất, khiến lam diễm trong phạm vi bản thân không ngừng thiêu đốt và liên tục hất bay kẻ địch xung quanh.\nAzure Air Raid: trên không, thân thể trong chớp mắt hóa thành tàn ảnh lửa lam thẫm cực nhanh; tàn ảnh vượt qua khoảng cách màn hình với tốc độ vượt khỏi khả năng bắt của thị giác, bỏ qua chướng ngại không gian ở giữa, trực tiếp cưỡng chế dịch chuyển tới ngay phía trên đối thủ, phát động trọng kích rơi thẳng đứng. Sau khi trúng đòn dẫn phát vụ nổ xanh dữ dội, sóng xung kích có thể hất đối thủ bật lên để nối liên đoạn trên không. Số liên kích: 1 Hit (bản thể va chạm) + 3-5 Hits (dư chấn vụ nổ).\nPhản Thế Lam Thẫm: BLOO bày ra tư thế phòng ngự đặc biệt, thường là một tay đút túi, tay kia hơi nâng lên. Khi phản thế thành công, thời gian ngưng ngắn ngủi, BLOO dịch chuyển tức thời ra sau lưng hoặc trước mặt đối thủ rồi kích hoạt phản kích bằng lửa xanh, đánh bay đối thủ vào vụ nổ thương viêm nhiều đoạn. Số liên kích: 5-10 Hits. Ghi chú: dùng để phòng thủ phản kích, sau khi thành công có thể phái sinh liên chiêu.\nTái Cháy Lam Thẫm: một tay đấm xuống mặt đất, hất bay kẻ địch xung quanh, hồi phục sinh mệnh và trạng thái của bản thân.\n7. MAX tất sát: Chain Drive · Route-B. Khóa một mục tiêu đơn lẻ rồi xung phong; khi trúng đòn cưỡng chế kích hoạt chuỗi liên đả dài 20-25 hit. Ở đoạn kết liên kích tự động nối [Heat Drive], đánh bay mục tiêu; sát thương rút máu theo phần trăm, bỏ qua phòng ngự của đối thủ. Ghi chú: kỹ phá phòng ngự.\n9. NEOMAX tất sát: Ngôi Sao Lam Thẫm Bá Khí. Dịch chuyển vòng ra sau: khóa một mục tiêu đơn lẻ, thân thể hóa thành tàn ảnh lam thẫm trượt tới ngay phía sau đối thủ. Thủ thế xử quyết: BLOO lạnh lùng nâng tay phải, làm thủ thế “ngón cái chỉ xuống”, ánh mắt lộ ý phán quyết vô tình. Khi thủ thế hạ xuống, trên người đối thủ từ chân tới đầu lần lượt kích hoạt hơn mười vụ nổ thương viêm bên trong; lửa chồng chất và nuốt chửng trong không gian hẹp, cuối cùng dùng cột lửa lam thẫm xông trời để oanh bay hoàn toàn đối thủ, gây sát thương rút máu theo phần trăm mang tính hủy diệt. Số liên kích: 40-50+ Hits.\n10. Kỹ MAX Cancel: Chain Drive · Ngôi Sao Lam Thẫm Bá Khí. Sau đòn cuối Heat Drive của Chain Drive Route-B, nối Ngôi Sao Lam Thẫm Bá Khí, hình thành chuỗi liên chiêu tối thượng trên 35-40 Hit, sát thương thương viêm chồng tới cực hạn. Ghi chú: đòn kết thúc tối thượng của liên chiêu.\n11. Thức tỉnh: Lam Thẫm Loạn Vũ là sau khi khóa đơn mục tiêu, dùng quyền cước đan xen cực nhanh thực hiện mấy chục lần liên kích nhiều đoạn, cuối cùng kết thúc bằng Ngôi Sao Lam Thẫm Bá Khí. Đôi Cánh Phá Giới là bản cường hóa tối thượng của Lam Thẫm Loạn Vũ: khóa đơn mục tiêu rồi xung phong, dùng quỹ đạo xanh dịch vị tới sau lưng kẻ địch, nền màn hình chuyển thành u lam thăm thẳm, đá kích cực nhanh đan xen đánh bay mục tiêu và thực hiện hơn mười lần liên kích trên không, sau đó làm thủ thế “Thumbs Down”; cuối cùng kẻ địch liên tục nổ tung trên không, phá phòng ngự kèm rút máu theo phần trăm. Thức Tỉnh Lam Thẫm kích hoạt ở trạng thái tử vong: vô số ký ức trào lên, nhiều ảo ảnh bản sao dòng K xuất hiện bên cạnh, ý chí của họ truyền tới bạn, từ đây Lam Thẫm thức tỉnh.",
+      "teammates": [],
+      "customTeammate": null,
+      "selectedTraits": [],
+      "customTraits": [
+        {
+          "name": "Ngồi xuống, tôi bắt đầu làm màu đây",
+          "effect": "Khi bạn nói ra câu “một mình tôi là đủ rồi”, bên cạnh vang lên BGM beautiful lies. Trong thời gian BGM duy trì, toàn bộ kỹ năng được mở khóa, chắc chắn trúng và không thể bị ngắt.\nKhi bạn chịu tấn công, tự động phát động Phản Thế Lam Thẫm."
+        }
+      ],
+      "customExpertise": [],
+      "customIdentity": {
+        "enabled": true,
+        "name": "Xuất thân tùy chỉnh",
+        "desc": "Là một trong rất nhiều bản sao dòng K do NESTS chế tạo. Vì năng lực khống chế lửa kém, cậu vốn bị định đem tiêu hủy như phế phẩm; về sau, nhờ sự kiên trì không ngừng khiến các nghiên cứu viên cảm động, cậu nhận được đôi găng tay khống chế lửa rồi trốn khỏi NESTS. Sau đó, cậu bắt đầu con đường phục thù. Là thiên tài kiểu nỗ lực, nên không có thiện cảm với những thiên tài bẩm sinh, chẳng hạn như Nao.",
+        "tierIndex": 0
+      },
+      "selectedOpening": "traverse",
+      "customOpeningText": "",
+      "selectedDifficulty": "easy",
+      "customRace": null
+    },
+    "downloadUrl": "/api/presets/f25dbc61-99e1-40e6-82dc-e14212bdbd1f/file"
+  }
+}

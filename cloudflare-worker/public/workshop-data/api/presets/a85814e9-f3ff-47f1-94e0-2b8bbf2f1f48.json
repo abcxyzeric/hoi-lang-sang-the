@@ -1,0 +1,403 @@
+{
+  "ok": true,
+  "preset": {
+    "id": "a85814e9-f3ff-47f1-94e0-2b8bbf2f1f48",
+    "ownerId": "1439510077563469855",
+    "ownerName": "Havvkman",
+    "author": "Havvkman",
+    "authorAvatar": "https://cdn.discordapp.com/avatars/1439510077563469855/307833b9aeb69d31ec41fc6ccebd07e4.png?size=128",
+    "name": "Kẻ Giác Ngộ Chư Giới - Sirius",
+    "title": "Kẻ Giác Ngộ Chư Giới - Sirius",
+    "intro": "Lấy cảm hứng từ thủ lĩnh dị giới cuối cùng trong 《Path of Exile 1》: Kẻ Giác Ngộ Chư Giới - Sirius, chỉ là bốn hộ vệ cổng của hắn không được mang sang đây. Thiên về chiến đấu, toàn bộ là bộ kỹ năng pháp thuật, kỹ năng chủ yếu là đủ loại debuff, AOE, ép kẻ địch qua kiểm định và dồn sát thương. Nếu có ý tưởng gì với bộ kỹ năng thì cứ tự do viết thêm vào, tôi thấy phần AI sinh ra cũng ổn, tính liên động cũng khá được.",
+    "coverUrl": "/api/presets/a85814e9-f3ff-47f1-94e0-2b8bbf2f1f48/cover",
+    "className": "Chúa Tể Ám Diệt",
+    "race": "Kẻ Giác Tỉnh",
+    "tags": [
+      "Khống chế",
+      "Bộc phát",
+      "Ép địch qua kiểm định",
+      "Duy trì"
+    ],
+    "likes": 2,
+    "liked": false,
+    "downloads": 8,
+    "status": "published",
+    "createdAt": "2026-03-19 14:50:09",
+    "updatedAt": "2026-05-13 10:29:17",
+    "lastLikedAt": "",
+    "presetData": {
+      "name": "Sirius",
+      "gender": "Nam",
+      "age": 21,
+      "race": "__custom__",
+      "identity": "__custom__",
+      "attributes": {
+        "strength": 12,
+        "dexterity": 12,
+        "constitution": 12,
+        "intelligence": 12,
+        "wisdom": 14,
+        "charisma": 12
+      },
+      "backstory": "",
+      "selectedLevelMode": "native",
+      "selectedCustomLevel": null,
+      "selectedSpawnPoint": "Đảo nổi trung tâm - hẻm sau thành bang Bạch Thạch",
+      "class": "Chúa Tể Ám Diệt",
+      "selectedBaseClass": "Nghề tùy chỉnh",
+      "customClassName": "Chúa Tể Ám Diệt",
+      "customClassStyle": "Vận dụng sức mạnh bắt nguồn từ nơi sâu thẳm vũ trụ trong cơ thể, bắn ra ám diễm và chùm sáng bộc phá, làm sụp đổ địa hình, triệu hồi sao băng thiên thạch và núi lửa, gọi ra cơn bão phân rã xé nát mọi thứ. Là kẻ thi pháp không dùng ma lực, chủ yếu gây hỗn hợp sát thương vật lý, hỏa diễm và xâm thực hỗn độn.",
+      "customClassWeapon": "trên khôngtay",
+      "customClassCombatStyle": "Hỗn hợp",
+      "skillTree": {
+        "基础": [
+          {
+            "名称": "Bộc Phá Chùm Sáng",
+            "类型": "Chủ động",
+            "描述": "Bắn một chùm sáng năng lượng cao từ đầu ngón tay, gây sát thương hỗn hợp vật lý và hỏa diễm. Phối hợp với Dung Hỏa Bộc Phát có thể đẩy địch vào địa hình nguy hiểm.",
+            "特殊效果": {
+              "1": "sau khi trúng đònmục tiêuthực hiệnmiễn trừ Sức mạnh, thất bại thìthìbịđẩy lùi 5 thước.",
+              "2": "sau khi trúng đònmục tiêuthực hiệnmiễn trừ Sức mạnh, thất bại thìthìbịđẩy lùi 5 thước; vào đang ởbốc cháytrạng tháimục tiêusát thương cuối cùng+2%.",
+              "3": "sau khi trúng đònmục tiêuthực hiệnmiễn trừ Sức mạnh, thất bại thìthìbịđẩy lùi 5 thước; vào đang ởbốc cháytrạng tháimục tiêusát thương cuối cùng+4%.",
+              "4": "sau khi trúng đònmục tiêuthực hiệnmiễn trừ Sức mạnh, thất bại thìthìbịđẩy lùi 5 thước; vào đang ởbốc cháytrạng tháimục tiêusát thương cuối cùng+6%.",
+              "5": "sau khi trúng đònmục tiêuthực hiệnmiễn trừ Sức mạnh, thất bại thìthìbịđẩy lùi 10 thước; vào đang ởbốc cháytrạng tháimục tiêusát thương cuối cùng+8%, vàgây thêm 1 lượt[ánh sáng mờ] dấu ấn, khiếnnótàng hình mất hiệu lực.",
+              "6": "sau khi trúng đònmục tiêuthực hiệnmiễn trừ Sức mạnh, thất bại thìthìbịđẩy lùi 10 thước; vào đang ởbốc cháytrạng tháimục tiêusát thương cuối cùng+10%, vàgây thêm 1 lượt[ánh sáng mờ] dấu ấn, khiếnnótàng hình mất hiệu lực.",
+              "7": "sau khi trúng đònmục tiêuthực hiệnmiễn trừ Sức mạnh, thất bại thìthìbịđẩy lùi 10 thước; vào đang ởbốc cháytrạng tháimục tiêusát thương cuối cùng+12%, vàgây thêm 1 lượt[ánh sáng mờ] dấu ấn, khiếnnótàng hình mất hiệu lực.",
+              "8": "sau khi trúng đònmục tiêuthực hiệnmiễn trừ Sức mạnh, thất bại thìthìbịđẩy lùi 10 thước; vào đang ởbốc cháytrạng tháimục tiêusát thương cuối cùng+14%, vàgây thêm 2 lượt[ánh sáng mờ] dấu ấn, khiếnnótàng hình mất hiệu lực.",
+              "9": "sau khi trúng đònmục tiêuthực hiệnmiễn trừ Sức mạnh, thất bại thìthìbịđẩy lùi 10 thước; vào đang ởbốc cháytrạng tháimục tiêusát thương cuối cùng+16%, vàgây thêm 2 lượt[ánh sáng mờ] dấu ấn, khiếnnótàng hình mất hiệu lực.",
+              "10": "sau khi trúng đònmục tiêuthực hiệnmiễn trừ Sức mạnh, thất bại thìthìbịđẩy lùi 15 thướcvà[ngã xuống]; vào đang ởbốc cháytrạng tháimục tiêusát thương cuối cùng+20%, vàgây thêm 2 lượt[ánh sáng mờ] dấu ấn, khiếnnótàng hình mất hiệu lực.",
+              "11": "sau khi trúng đònmục tiêuthực hiệnmiễn trừ Sức mạnh, thất bại thìthìbịđẩy lùi 15 thướcvà[ngã xuống]; vào đang ởbốc cháytrạng tháimục tiêusát thương cuối cùng+22%, gây thêm 2 lượt[ánh sáng mờ] dấu ấn.",
+              "12": "sau khi trúng đònmục tiêuthực hiệnmiễn trừ Sức mạnh, thất bại thìthìbịđẩy lùi 15 thướcvà[ngã xuống]; vào đang ởbốc cháytrạng tháimục tiêusát thương cuối cùng+24%, gây thêm 2 lượt[ánh sáng mờ] dấu ấn.",
+              "13": "sau khi trúng đònmục tiêuthực hiệnmiễn trừ Sức mạnh, thất bại thìthìbịđẩy lùi 15 thướcvà[ngã xuống]; vào đang ởbốc cháytrạng tháimục tiêusát thương cuối cùng+26%, gây thêm 2 lượt[ánh sáng mờ] dấu ấn.",
+              "14": "sau khi trúng đònmục tiêuthực hiệnmiễn trừ Sức mạnh, thất bại thìthìbịđẩy lùi 15 thướcvà[ngã xuống]; vào đang ởbốc cháytrạng tháimục tiêusát thương cuối cùng+28%, gây thêm 3 lượt[ánh sáng mờ] dấu ấn.",
+              "15": "sau khi trúng đònmục tiêuthực hiệnmiễn trừ Sức mạnh, thất bại thìthìbịđẩy lùi 20 thướcvà[ngã xuống]; vào đang ởbốc cháytrạng tháimục tiêusát thương cuối cùng+35%, gây thêm 3 lượt[ánh sáng mờ] dấu ấn; nếumục tiêuva vào vật cản, thêmbồi thêmmột lầnvật lýva chạmsát thươngkiểm định."
+            },
+            "阶位": "Cơ bản"
+          },
+          {
+            "名称": "Mưa Sao",
+            "类型": "Chủ động",
+            "描述": "Triệu một trận mưa sao băng cỡ nhỏ oanh kích khu vực chỉ định, gây sát thương vật lý và hỏa diễm diện rộng. Dùng để áp chế diện rộng và gắn trạng thái bốc cháy.",
+            "特殊效果": {
+              "1": "trongchỉ địnhkhu vựcgiángkế tiếpsao băng, sau khi trúng đòncó xác suấtkhiếnmục tiêu[đốt cháy]1 lượt.",
+              "2": "trongchỉ địnhkhu vựcgiángkế tiếpsao băng, sau khi trúng đòncó xác suấtkhiếnmục tiêu[đốt cháy]1 lượt; đang ởkhu vực trung tâmmục tiêusát thương cuối cùng+2%.",
+              "3": "trongchỉ địnhkhu vựcgiángkế tiếpsao băng, sau khi trúng đòncó xác suấtkhiếnmục tiêu[đốt cháy]1 lượt; đang ởkhu vực trung tâmmục tiêusát thương cuối cùng+4%.",
+              "4": "trongchỉ địnhkhu vựcgiángkế tiếpsao băng, sau khi trúng đòncó xác suấtkhiếnmục tiêu[đốt cháy]1 lượt; đang ởkhu vực trung tâmmục tiêusát thương cuối cùng+6%.",
+              "5": "trongchỉ địnhkhu vựcgiángkế tiếpsao băng, sau khi trúng đònchắc chắnkhiếnmục tiêu[đốt cháy]2 lượt; đang ởkhu vực trung tâmmục tiêusát thương cuối cùng+8%, vàbịđốt cháymục tiêumiễn trừ Nhanh nhẹn-1.",
+              "6": "trongchỉ địnhkhu vựcgiángkế tiếpsao băng, sau khi trúng đònchắc chắnkhiếnmục tiêu[đốt cháy]2 lượt; đang ởkhu vực trung tâmmục tiêusát thương cuối cùng+10%, vàbịđốt cháymục tiêumiễn trừ Nhanh nhẹn-1.",
+              "7": "trongchỉ địnhkhu vựcgiángkế tiếpsao băng, sau khi trúng đònchắc chắnkhiếnmục tiêu[đốt cháy]2 lượt; đang ởkhu vực trung tâmmục tiêusát thương cuối cùng+12%, vàbịđốt cháymục tiêumiễn trừ Nhanh nhẹn-1.",
+              "8": "trongchỉ địnhkhu vựcgiángkế tiếpsao băng, sau khi trúng đònchắc chắnkhiếnmục tiêu[đốt cháy]2 lượt; đang ởkhu vực trung tâmmục tiêusát thương cuối cùng+14%, vàbịđốt cháymục tiêumiễn trừ Nhanh nhẹn-2.",
+              "9": "trongchỉ địnhkhu vựcgiángkế tiếpsao băng, sau khi trúng đònchắc chắnkhiếnmục tiêu[đốt cháy]2 lượt; đang ởkhu vực trung tâmmục tiêusát thương cuối cùng+16%, vàbịđốt cháymục tiêumiễn trừ Nhanh nhẹn-2.",
+              "10": "trongchỉ địnhkhu vựcgiángkế tiếpkhổng lồsao băng, sau khi trúng đònchắc chắnkhiếnmục tiêu[đốt cháy]3 lượt; đang ởkhu vực trung tâmmục tiêusát thương cuối cùng+20%, vàbịđốt cháymục tiêumiễn trừ Nhanh nhẹn-2; sao băngđập xuống mặt đất tạo thànhkéo dài 2 lượt[gồ ghềđịa hình].",
+              "11": "trongchỉ địnhkhu vựcgiángkế tiếpkhổng lồsao băng, sau khi trúng đònchắc chắnkhiếnmục tiêu[đốt cháy]3 lượt; đang ởkhu vực trung tâmmục tiêusát thương cuối cùng+22%, vàbịđốt cháymục tiêumiễn trừ Nhanh nhẹn-2; sao băngđập xuống mặt đất tạo thànhkéo dài 2 lượt[gồ ghềđịa hình].",
+              "12": "trongchỉ địnhkhu vựcgiángkế tiếpkhổng lồsao băng, sau khi trúng đònchắc chắnkhiếnmục tiêu[đốt cháy]3 lượt; đang ởkhu vực trung tâmmục tiêusát thương cuối cùng+24%, vàbịđốt cháymục tiêumiễn trừ Nhanh nhẹn-2; sao băngđập xuống mặt đất tạo thànhkéo dài 2 lượt[gồ ghềđịa hình].",
+              "13": "trongchỉ địnhkhu vựcgiángkế tiếpkhổng lồsao băng, sau khi trúng đònchắc chắnkhiếnmục tiêu[đốt cháy]3 lượt; đang ởkhu vực trung tâmmục tiêusát thương cuối cùng+26%, vàbịđốt cháymục tiêumiễn trừ Nhanh nhẹn-2; sao băngđập xuống mặt đất tạo thànhkéo dài 3 lượt[gồ ghềđịa hình].",
+              "14": "trongchỉ địnhkhu vựcgiángkế tiếpkhổng lồsao băng, sau khi trúng đònchắc chắnkhiếnmục tiêu[đốt cháy]3 lượt; đang ởkhu vực trung tâmmục tiêusát thương cuối cùng+28%, vàbịđốt cháymục tiêumiễn trừ Nhanh nhẹn-3; sao băngđập xuống mặt đất tạo thànhkéo dài 3 lượt[gồ ghềđịa hình].",
+              "15": "trongchỉ địnhkhu vựcgiángkế tiếpbão sao vỡ, sau khi trúng đònchắc chắnkhiếnmục tiêu[đốt cháy]4 lượt; đang ởkhu vực trung tâmmục tiêusát thương cuối cùng+35%, vàbịđốt cháymục tiêumiễn trừ Nhanh nhẹn-3; sao băngđập xuống mặt đất tạo thànhkéo dài 3 lượt[bốc cháygồ ghềđịa hình], đi vàonàyđịa hìnhkẻ địchdi chuyểntốc độgiảm một nửavàlập tứcchịuđếnmột lầnhỏa diễmphản phệ."
+            },
+            "阶位": "Cơ bản"
+          },
+          {
+            "名称": "Hư Vô Thiểm Thước",
+            "类型": "Đặc biệt",
+            "描述": "Trong chớp mắt đưa cơ thể lẩn vào hư không vũ trụ, dịch chuyển tức thời tới vị trí khác và để lại tàn ảnh hư vô mê hoặc kẻ địch.",
+            "特殊效果": {
+              "1": "tức thờidi chuyểntớitối đa 30 thước, thiểm hiệnsau đó 1trong lượt AC+1.",
+              "2": "tức thờidi chuyểntớitối đa 30 thước, thiểm hiệnsau đó 1trong lượt AC+1, vàkế tiếpmột lầnmiễn trừ Nhanh nhẹnnhậnưu thế.",
+              "3": "tức thờidi chuyểntớitối đa 30 thước, thiểm hiệnsau đó 1trong lượt AC+1, vàkế tiếpmột lầnmiễn trừ Nhanh nhẹnnhậnưu thế, thiểm hiệnsau đókế tiếpmột lầnkiểm định trúng đòn+1.",
+              "4": "tức thờidi chuyểntớitối đa 40 thước, thiểm hiệnsau đó 1trong lượt AC+1, vàkế tiếpmột lầnmiễn trừ Nhanh nhẹnnhậnưu thế, thiểm hiệnsau đókế tiếpmột lầnkiểm định trúng đòn+1.",
+              "5": "tức thờidi chuyểntớitối đa 40 thước, thiểm hiệnsau đó 1trong lượt AC+2, vàkế tiếpmột lầnmiễn trừ Nhanh nhẹnnhậnưu thế; thiểm hiệnsau đónhận 1 lần[tự động né]phán định: trongbịtấn côngkhi trúng đòncó thểtiêu haophản ứngcưỡng chếkhiếnnàylầntấn côngđánh hụt.",
+              "6": "tức thờidi chuyểntớitối đa 40 thước, thiểm hiệnsau đó 1trong lượt AC+2, vàkế tiếpmột lầnmiễn trừ Nhanh nhẹnnhậnưu thế, thiểm hiệnsau đókế tiếpmột lầnkiểm định trúng đòn+2; nhận 1 lần[tự động né]phán định.",
+              "7": "tức thờidi chuyểntớitối đa 50 thước, thiểm hiệnsau đó 1trong lượt AC+2, vàkế tiếpmột lầnmiễn trừ Nhanh nhẹnnhậnưu thế, thiểm hiệnsau đókế tiếpmột lầnkiểm định trúng đòn+2; nhận 1 lần[tự động né]phán định.",
+              "8": "tức thờidi chuyểntớitối đa 50 thước, thiểm hiệnsau đó 1trong lượt AC+2, vàkế tiếpmột lầnmiễn trừ Nhanh nhẹnnhậnưu thế, thiểm hiệnsau đókế tiếpmột lầnkiểm định trúng đòn+2, và khiếnkế tiếpmột lầntấn công, sát thương cuối cùng+10%; nhận 1 lần[tự động né]phán định.",
+              "9": "tức thờidi chuyểntớitối đa 50 thước, thiểm hiệnsau đó 1trong lượt AC+2, vàkế tiếpmột lầnmiễn trừ Nhanh nhẹnnhậnưu thế, thiểm hiệnsau đókế tiếpmột lầnkiểm định trúng đòn+2, và khiếnkế tiếpmột lầntấn công, sát thương cuối cùng+15%; nhận 1 lần[tự động né]phán định.",
+              "10": "tức thờidi chuyểntớitối đa 60 thước, thiểm hiệnsau đó 1trong lượt AC+3, vàkế tiếpmột lầnmiễn trừ Nhanh nhẹnnhậnưu thế, thiểm hiệnsau đókế tiếpmột lầnkiểm định trúng đòn+3, và khiếnkế tiếpmột lầntấn công, sát thương cuối cùng+20%; nhận 2 lần[tự động né]phán định, kéo dài 2 lượthoặckích hoạtxongsau đóbiến mất.",
+              "11": "tức thờidi chuyểntớitối đa 60 thước, thiểm hiệnsau đó 1trong lượt AC+3, vàkế tiếpmột lầnmiễn trừ Nhanh nhẹnnhậnưu thế, thiểm hiệnsau đókế tiếpmột lầnkiểm định trúng đòn+3, và khiếnkế tiếpmột lầntấn công, sát thương cuối cùng+20%; nhận 2 lần[tự động né]phán định, kéo dài 2 lượthoặckích hoạtxongsau đóbiến mất.",
+              "12": "tức thờidi chuyểntớitối đa 60 thước, thiểm hiệnsau đó 1trong lượt AC+3, vàkế tiếpmột lầnmiễn trừ Nhanh nhẹnnhậnưu thế, thiểm hiệnsau đókế tiếpmột lầnkiểm định trúng đòn+3, và khiếnkế tiếpmột lầntấn công, sát thương cuối cùng+20%; nhận 2 lần[tự động né]phán định, kéo dài 2 lượthoặckích hoạtxongsau đóbiến mất.",
+              "13": "tức thờidi chuyểntớitối đa 60 thước, thiểm hiệnsau đó 1trong lượt AC+3, vàkế tiếpmột lầnmiễn trừ Nhanh nhẹnnhậnưu thế, thiểm hiệnsau đókế tiếpmột lầnkiểm định trúng đòn+3, và khiếnkế tiếpmột lầntấn công, sát thương cuối cùng+20%; nhận 2 lần[tự động né]phán định, kéo dài 2 lượthoặckích hoạtxongsau đóbiến mất.",
+              "14": "tức thờidi chuyểntớitối đa 60 thước, thiểm hiệnsau đó 1trong lượt AC+3, vàkế tiếpmột lầnmiễn trừ Nhanh nhẹnnhậnưu thế, thiểm hiệnsau đókế tiếpmột lầnkiểm định trúng đòn+3, và khiếnkế tiếpmột lầntấn công, sát thương cuối cùng+20%; nhận 2 lần[tự động né]phán định, kéo dài 2 lượthoặckích hoạtxongsau đóbiến mất.",
+              "15": "tức thờidi chuyểntớitối đa 60 thước, thiểm hiệnsau đó 1trong lượt AC+3, vàkế tiếpmột lầnmiễn trừ Nhanh nhẹnnhậnưu thế, thiểm hiệnsau đókế tiếpmột lầnkiểm định trúng đòn+3, và khiếnkế tiếpmột lầntấn công, sát thương cuối cùng+20%; nhận 2 lần[tự động né]phán định, kéo dài 2 lượthoặckích hoạtxongsau đóbiến mất."
+            },
+            "阶位": "Cơ bản"
+          }
+        ],
+        "转职": [
+          {
+            "名称": "Dung Hỏa Bộc Phát",
+            "类型": "Chủ động",
+            "描述": "Xé toạc mặt đất, khiến lửa hỗn độn u ám phun trào. Trong thời gian duy trì, kẻ địch trong khu vực mỗi lần hành động đều chịu phản phệ.",
+            "特殊效果": {
+              "1": "tạo ramộtvùngkéo dài 2 lượtdung hỏakhu vực, kẻ địchtronghiệu quả nàykhu vựctrongmỗi lầnthực hiệntấn cônghoặcđộng tác thi phápkhi, sẽchịuđếnmột lầnhỏa diễmphản phệsát thương.",
+              "2": "tạo ramộtvùngkéo dài 2 lượtdung hỏakhu vực, kẻ địchtronghiệu quả nàykhu vựctrongmỗi lầnthực hiệntấn cônghoặcđộng tác thi phápkhi, sẽchịuđếnmột lầnhỏa diễmphản phệsát thương, phản phệsát thương cuối cùng+2%.",
+              "3": "tạo ramộtvùngkéo dài 2 lượtdung hỏakhu vực, kẻ địchtronghiệu quả nàykhu vựctrongmỗi lầnthực hiệnhành độngkhi, sẽchịuđếnmột lầnhỏa diễmphản phệsát thương, phản phệsát thương cuối cùng+4%.",
+              "4": "tạo ramộtvùngkéo dài 3 lượtdung hỏakhu vực, kẻ địchtronghiệu quả nàykhu vựctrongmỗi lầnthực hiệnhành độngkhi, sẽchịuđếnmột lầnhỏa diễmphản phệsát thương, phản phệsát thương cuối cùng+6%.",
+              "5": "tạo ramộtvùngkéo dài 3 lượtdung hỏakhu vực, kẻ địchtronghiệu quả nàykhu vựctrongmỗi lầnthực hiệnhành độnghoặcdi chuyểnvượt quá 10 thướckhi, sẽchịuđếnmột lầnphản phệsát thương, phản phệsát thương cuối cùng+10%; vàkèm[hỗn độnxâm thực]: khiếnnógâysát thươnggiảm 5%, kéo dài 1 lượt.",
+              "6": "tạo ramộtvùngkéo dài 3 lượtdung hỏakhu vực, phản phệkích hoạtđiều kiệngiống cấp trên, phản phệsát thương cuối cùng+12%; vàkèm[hỗn độnxâm thực]: khiếnnógâysát thươnggiảm 5%, kéo dài 1 lượt.",
+              "7": "tạo ramộtvùngkéo dài 3 lượtdung hỏakhu vực, phản phệkích hoạtđiều kiệngiống cấp trên, phản phệsát thương cuối cùng+14%; vàkèm[hỗn độnxâm thực]: khiếnnógâysát thươnggiảm 5%, kéo dài 1 lượt.",
+              "8": "tạo ramộtvùngkéo dài 4 lượtdung hỏakhu vực, phản phệkích hoạtđiều kiệngiống cấp trên, phản phệsát thương cuối cùng+16%; vàkèm[hỗn độnxâm thực]: khiếnnógâysát thươnggiảm 10%, kéo dài 1 lượt.",
+              "9": "tạo ramộtvùngkéo dài 4 lượtdung hỏakhu vực, phản phệkích hoạtđiều kiệngiống cấp trên, phản phệsát thương cuối cùng+18%; vàkèm[hỗn độnxâm thực]: khiếnnógâysát thươnggiảm 10%, kéo dài 1 lượt.",
+              "10": "tạo ramộtvùngkéo dài 4 lượtcực nóngdung hỏakhu vực, kẻ địchtronghiệu quả nàykhu vựctrongbất kỳhành động rất nhỏ(bao gồmhành động tặng thêm) đềusẽkích hoạtphản phệ, phản phệsát thương cuối cùng+25%; [hỗn độnxâm thực]hiệu quảnâng lên thànhgiảm 15% sát thương, vàmỗi lầnkích hoạtphản phệsẽkhiếnnó AC-1(cộng dồn tối đa 3 tầng).",
+              "11": "tạo ramộtvùngkéo dài 4 lượtcực nóngdung hỏakhu vực, phản phệkích hoạtgiống cấp trên, phản phệsát thương cuối cùng+28%; [hỗn độnxâm thực]giảm 15% sát thương, kích hoạtphản phệkhiếnnó AC-1(cộng dồn tối đa 3 tầng).",
+              "12": "tạo ramộtvùngkéo dài 4 lượtcực nóngdung hỏakhu vực, phản phệkích hoạtgiống cấp trên, phản phệsát thương cuối cùng+31%; [hỗn độnxâm thực]giảm 15% sát thương, kích hoạtphản phệkhiếnnó AC-1(cộng dồn tối đa 3 tầng).",
+              "13": "tạo ramộtvùngkéo dài 5 lượtcực nóngdung hỏakhu vực, phản phệkích hoạtgiống cấp trên, phản phệsát thương cuối cùng+34%; [hỗn độnxâm thực]giảm 15% sát thương, kích hoạtphản phệkhiếnnó AC-1(cộng dồn tối đa 3 tầng).",
+              "14": "tạo ramộtvùngkéo dài 5 lượtcực nóngdung hỏakhu vực, phản phệkích hoạtgiống cấp trên, phản phệsát thương cuối cùng+37%; [hỗn độnxâm thực]giảm 20% sát thương, kích hoạtphản phệkhiếnnó AC-1(cộng dồn tối đa 3 tầng).",
+              "15": "tạo ramộtvùngkéo dài 5 lượthủy diệtdung hỏakhu vực, kẻ địchtronghiệu quả nàykhu vựctrongtất cảhành độngđềusẽkích hoạtchắc chắn bạo kíchphản phệsát thương, phản phệsát thương cuối cùng+45%; [hỗn độnxâm thực]giảm 20% sát thương, kích hoạtphản phệkhiếnnó AC-1(cộng dồn tối đa 3 tầng) vàtướcđoạtnósinh mệnhhồi phụcnăng lượng Sức mạnh."
+            },
+            "阶位": "Chuyển nghề"
+          },
+          {
+            "名称": "Quét Ngang Hỗn Độn",
+            "类型": "Chủ động",
+            "描述": "Hai tay ngưng tụ chùm sáng hỗn độn rồi quét hủy diệt theo vùng hình quạt phía trước. Dùng để gom quái và châm ngòi dị trạng.",
+            "特殊效果": {
+              "1": "vào phía trướchình quạtkhu vựcgâysát thương, sau khi trúng đònmục tiêuvề phíatrung tâmđiểmtạo dịch chuyển nhẹ.",
+              "2": "vào phía trướchình quạtkhu vựcgâysát thương, sau khi trúng đònmục tiêuvề phíatrung tâmđiểmtạo dịch chuyển nhẹ; sát thương cuối cùng+3%.",
+              "3": "vào phía trướchình quạtkhu vựcgâysát thương, sau khi trúng đònmục tiêuvề phíatrung tâmđiểmtạo dịch chuyển nhẹ; sát thương cuối cùng+6%.",
+              "4": "vào phía trướchình quạtkhu vựcgâysát thương, sau khi trúng đònmục tiêuvề phíatrung tâmđiểmtạo dịch chuyển nhẹ; sát thương cuối cùng+9%.",
+              "5": "vào phía trướchình quạtkhu vựcgâysát thương, sau khi trúng đòncưỡng ép kéotất cảcỡ vừa và nhỏmục tiêuvề phíatrung tâmđiểmkéo giật 10 thước; sát thương cuối cùng+15%; nếumục tiêuđang ở[đốt cháy] trạng thái, thìlập tứckích nổnàytrạng tháigâymột lầnthêmhỏa diễmbộc phá.",
+              "6": "vào phía trướchình quạtkhu vựcgâysát thương, cưỡng ép kéo 10 thước; sát thương cuối cùng+18%; kích nổ[đốt cháy]gâythêmbộc phá.",
+              "7": "vào phía trướchình quạtkhu vựcgâysát thương, cưỡng ép kéo 10 thước; sát thương cuối cùng+21%; kích nổ[đốt cháy]gâythêmbộc phá.",
+              "8": "vào phía trướchình quạtkhu vựcgâysát thương, cưỡng ép kéo 15 thước; sát thương cuối cùng+24%; kích nổ[đốt cháy]gâythêmbộc phávà khiếnnórơi vào[mù]1 lượt.",
+              "9": "vào phía trướchình quạtkhu vựcgâysát thương, cưỡng ép kéo 15 thước; sát thương cuối cùng+27%; kích nổ[đốt cháy]gâythêmbộc phávà khiếnnórơi vào[mù]1 lượt.",
+              "10": "vào phía trướchình quạtkhu vựcgâykhổng lồlớnsát thương, cưỡng ép kéo 20 thước(vào cỡ lớnmục tiêugiống cấp kiểucó hiệu lực); sát thương cuối cùng+35%; kích nổ[đốt cháy] và [hỗn độnxâm thực] trạng thái, gâycực lớnhỗn hợpbộc phását thương, và khiếnnórơi vào[mù]2 lượt.",
+              "11": "vào phía trướchình quạtkhu vựcgâykhổng lồlớnsát thương, cưỡng ép kéo 20 thước; sát thương cuối cùng+38%; kích nổtrạng tháigâycực lớnbộc phá, rơi vào[mù]2 lượt.",
+              "12": "vào phía trướchình quạtkhu vựcgâykhổng lồlớnsát thương, cưỡng ép kéo 20 thước; sát thương cuối cùng+41%; kích nổtrạng tháigâycực lớnbộc phá, rơi vào[mù]2 lượt.",
+              "13": "vào phía trướchình quạtkhu vựcgâykhổng lồlớnsát thương, cưỡng ép kéo 20 thước; sát thương cuối cùng+44%; kích nổtrạng tháigâycực lớnbộc phá, rơi vào[mù]2 lượt.",
+              "14": "vào phía trướchình quạtkhu vựcgâykhổng lồlớnsát thương, cưỡng ép kéo 20 thước; sát thương cuối cùng+47%; kích nổtrạng tháigâycực lớnbộc phá, rơi vào[mù]3 lượt.",
+              "15": "vào phía trướcnửa vòng trònkhu vựcgâyxé ráchkhông gianquét ngang, cưỡng ép kéo 30 thướcgom vềmộtđiểm; sát thương cuối cùng+55%; kích nổtất cảbất lợitrạng thái, mỗi lầnkích nổđềusẽliên kết dây chuyềnkích hoạtmột lầnchấn động hư không, mục tiêutrongtiếp theo 1trong lượt Sức mạnhvới Nhanh nhẹnkiểm địnhđang ởbất lợi."
+            },
+            "阶位": "Chuyển nghề"
+          },
+          {
+            "名称": "Cảm Nhận Hư Vô!",
+            "类型": "Đặc biệt nghề nghiệp",
+            "描述": "Giải phóng bản chất hư vô vũ trụ sâu trong cơ thể, hình thành trường lực áp chế tuyệt đối quanh thân. Đây là kỹ năng tăng/giảm ích cốt lõi của nghề, không thể nâng cấp.",
+            "特殊效果": {
+              "1": "chủ động mởsau đó, đi vàokéo dài 3 lượt[hư vô] trạng thái: trong thời gian đóbản thângâytất cảsát thương cuối cùng tăng 25%, vàtấn côngbỏ quamục tiêu 10% vật lývớima phápgiảm sát thương; giống cấp trước, khi , lấy bản thânlàm trung tâm 30 thướctrong phạm vitất cảkẻ địchrơi vào[hư vôáp chế], nótất cảthuộc tínhkiểm định miễn trừ-3, di chuyểntốc độcưỡng chếgiảm 10 thước. mỗi trận chiếnchỉcó thểsử dụng 1  lần."
+            },
+            "阶位": "Chuyển nghề"
+          }
+        ],
+        "进阶": [
+          {
+            "名称": "Liệt Diễm Vinh Quang",
+            "类型": "Chủ động",
+            "描述": "Triệu nhiều quả cầu lửa hỗn độn bắn loạt, hỏa lực phủ lên khu vực mục tiêu, để lại mặt đất bốc cháy và trao buff vinh quang cho bản thân.",
+            "特殊效果": {
+              "1": "phóng 3quảcầu lửa, trongđiểm rơiđể lạikéo dài 1 lượtbốc cháymặt đất; thi triểnsau đóbản thânnhận[vinh quang]: kiểm định trúng đòn+1, kéo dài 2 lượt.",
+              "2": "phóng 3quảcầu lửa, để lạikéo dài 1 lượtbốc cháymặt đất; thi triểnsau đóbản thânnhận[vinh quang]: kiểm định trúng đòn+1, sát thương cuối cùng+3%, kéo dài 2 lượt.",
+              "3": "phóng 4quảcầu lửa, để lạikéo dài 1 lượtbốc cháymặt đất; thi triểnsau đóbản thânnhận[vinh quang]: kiểm định trúng đòn+1, sát thương cuối cùng+6%, kéo dài 2 lượt.",
+              "4": "phóng 4quảcầu lửa, để lạikéo dài 2 lượtbốc cháymặt đất; thi triểnsau đóbản thânnhận[vinh quang]: kiểm định trúng đòn+1, sát thương cuối cùng+9%, kéo dài 2 lượt.",
+              "5": "phóng 5quảcầu lửa, để lạikéo dài 2 lượtbốc cháymặt đất; thi triểnsau đóbản thânnhận[vinh quang]: kiểm định trúng đòn+2, sát thương cuối cùng+15%, kéo dài 3 lượt; đang ởbốc cháymặt đấtkẻ địchhỏa diễmkháng tínhgiảm 10%.",
+              "6": "phóng 5quảcầu lửa, để lạikéo dài 2 lượtbốc cháymặt đất; thi triểnsau đóbản thânnhận[vinh quang]: kiểm định trúng đòn+2, sát thương cuối cùng+18%, kéo dài 3 lượt; đang ởbốc cháymặt đấtkẻ địchhỏa diễmkháng tínhgiảm 10%.",
+              "7": "phóng 6quảcầu lửa, để lạikéo dài 2 lượtbốc cháymặt đất; thi triểnsau đóbản thânnhận[vinh quang]: kiểm định trúng đòn+2, sát thương cuối cùng+21%, kéo dài 3 lượt; đang ởbốc cháymặt đấtkẻ địchhỏa diễmkháng tínhgiảm 10%.",
+              "8": "phóng 6quảcầu lửa, để lạikéo dài 3 lượtbốc cháymặt đất; thi triểnsau đóbản thânnhận[vinh quang]: kiểm định trúng đòn+2, sát thương cuối cùng+24%, kéo dài 3 lượt; đang ởbốc cháymặt đấtkẻ địchhỏa diễmkháng tínhgiảm 15%.",
+              "9": "phóng 7quảcầu lửa, để lạikéo dài 3 lượtbốc cháymặt đất; thi triểnsau đóbản thânnhận[vinh quang]: kiểm định trúng đòn+2, sát thương cuối cùng+27%, kéo dài 3 lượt; đang ởbốc cháymặt đấtkẻ địchhỏa diễmkháng tínhgiảm 15%.",
+              "10": "phóng 8quảtruy tungcầu lửa, để lạikéo dài 3 lượtdữ dộibốc cháymặt đất; thi triểnsau đóbản thânnhận[vinh quang]: kiểm định trúng đòn+3, sát thương cuối cùng+35%, tỷ lệ bạo kích tăng 10%, kéo dài 4 lượt; đang ởbốc cháymặt đấtkẻ địchhỏa diễmkháng tínhgiảm 20% vàkhông thểnhậnsinh mệnh tạm thời."
+            },
+            "阶位": "Nâng cao"
+          },
+          {
+            "名称": "Bão Phân Rã",
+            "类型": "Chủ động",
+            "描述": "Gọi một cơn bão vũ trụ xé rách cấu trúc vật chất tại khu vực mục tiêu. Cơn bão dần phình rộng, gây sát thương duy trì cao và tuyệt đối cấm kẻ địch hồi phục.",
+            "特殊效果": {
+              "1": "tạo rabán kính 10 thướcbão, kéo dài 2 lượt. bãotrongkẻ địchchịuđếnkéo dàisát thương, vàtrị liệuhiệu quảgiảm một nửa.",
+              "2": "tạo rabán kính 10 thướcbão, kéo dài 2 lượt. bãotrongkẻ địchchịuđếnkéo dàisát thươngvàsát thương cuối cùng+4%, trị liệuhiệu quảgiảm một nửa.",
+              "3": "tạo rabán kính 15 thướcbão, kéo dài 2 lượt. bãotrongkẻ địchchịuđếnkéo dàisát thươngvàsát thương cuối cùng+8%, trị liệuhiệu quảgiảm một nửa.",
+              "4": "tạo rabán kính 15 thướcbão, kéo dài 3 lượt. bãotrongkẻ địchchịuđếnkéo dàisát thươngvàsát thương cuối cùng+12%, trị liệuhiệu quảgiảm một nửa.",
+              "5": "tạo raban đầu 15 thước, mỗi lượtvề phíangoàiphình rộng 5 thướcbão, kéo dài 3 lượt. bãotrongkẻ địchchịuđếnkéo dàisát thươngvàsát thương cuối cùng+18%; đang ởbãotrongkẻ địch[tuyệt đối cấm trị liệu](bất kỳhình thứcsinh mệnhhồi phụcđềukhông hiệu lực), vàdi chuyểntốc độgiảm 30%.",
+              "6": "tạo raban đầu 15 thước, mỗi lượtvề phíangoàiphình rộng 5 thướcbão, kéo dài 3 lượt. bãotrongsát thương cuối cùng+22%; bãotrong[tuyệt đối cấm trị liệu], di chuyểntốc độgiảm 30%.",
+              "7": "tạo raban đầu 15 thước, mỗi lượtvề phíangoàiphình rộng 5 thướcbão, kéo dài 3 lượt. bãotrongsát thương cuối cùng+26%; bãotrong[tuyệt đối cấm trị liệu], di chuyểntốc độgiảm 30%.",
+              "8": "tạo raban đầu 20 thước, mỗi lượtvề phíangoàiphình rộng 5 thướcbão, kéo dài 4 lượt. bãotrongsát thương cuối cùng+30%; bãotrong[tuyệt đối cấm trị liệu], di chuyểntốc độgiảm 40%.",
+              "9": "tạo raban đầu 20 thước, mỗi lượtvề phíangoàiphình rộng 5 thướcbão, kéo dài 4 lượt. bãotrongsát thương cuối cùng+34%; bãotrong[tuyệt đối cấm trị liệu], di chuyểntốc độgiảm 40%.",
+              "10": "tạo raban đầu 20 thước, mỗi lượtvề phíangoàiphình rộng 10 thướckhổng lồbão, kéo dài 4 lượt. bãotrongsát thương cuối cùng+45%; bãotrong[tuyệt đối cấm trị liệu], tốc độ di chuyểngiảm 50%, vàđang ởbãotrung tâmkẻ địchmỗi lượtcầnthực hiệnmiễn trừ Thể chất, thất bại thìthìbị[câm lặng]không thểthi pháp."
+            },
+            "阶位": "Nâng cao"
+          },
+          {
+            "名称": "Núi Lửa Thâm Uyên",
+            "类型": "Triệu hồi",
+            "描述": "Cưỡng ép thông linh một núi lửa sống ngoài hành tinh xuống chiến trường. Núi lửa liên tục phun thiên thạch và dung nham để áp chế toàn sân.",
+            "召唤物名称": "Núi lửa Tử Tinh cỡ nhỏ",
+            "特殊效果": {
+              "1": "triệu hồimộttòacóbản thân 20% HPnúi lửa, kéo dài 3 lượt. khi kết thúc mỗi lượtvề phíangẫu nhiênkẻ địchphun 1quảđạn dung nham.",
+              "2": "triệu hồimộttòacóbản thân 25% HPnúi lửa, kéo dài 3 lượt. khi kết thúc mỗi lượtvề phíangẫu nhiênkẻ địchphun 1quảđạn dung nham, đạn dung nhamsát thương cuối cùng+5%.",
+              "3": "triệu hồimộttòacóbản thân 30% HPnúi lửa, kéo dài 3 lượt. khi kết thúc mỗi lượtvề phíangẫu nhiênkẻ địchphun 1quảđạn dung nham, đạn dung nhamsát thương cuối cùng+10%.",
+              "4": "triệu hồimộttòacóbản thân 35% HPnúi lửa, kéo dài 4 lượt. khi kết thúc mỗi lượtvề phíangẫu nhiênkẻ địchphun 1quảđạn dung nham, đạn dung nhamsát thương cuối cùng+15%.",
+              "5": "triệu hồimộttòacóbản thân 40% HPnúi lửa, kéo dài 4 lượt. mỗi lượtvề phíakẻ địchphun 2quảđạn dung nham, đạn dung nhamsát thương cuối cùng+25%; núi lửaxung quanh 15 thướctạo thành[nhiệt độ caohào quang], đi vàokẻ địchmỗi lượtchịuđếnnhẹhỏa diễmsát thương.",
+              "6": "triệu hồimộttòacóbản thân 45% HPnúi lửa, kéo dài 4 lượt. mỗi lượtphun 2quảđạn dung nham, đạn dung nhamsát thương cuối cùng+30%; có[nhiệt độ caohào quang].",
+              "7": "triệu hồimộttòacóbản thân 50% HPnúi lửa, kéo dài 4 lượt. mỗi lượtphun 2quảđạn dung nham, đạn dung nhamsát thương cuối cùng+35%; có[nhiệt độ caohào quang].",
+              "8": "triệu hồimộttòacóbản thân 55% HPnúi lửa, kéo dài 5 lượt. mỗi lượtphun 2quảđạn dung nham, đạn dung nhamsát thương cuối cùng+40%; [nhiệt độ caohào quang]phạm vimở rộnglớntới 20 thước.",
+              "9": "triệu hồimộttòacóbản thân 60% HPnúi lửa, kéo dài 5 lượt. mỗi lượtphun 2quảđạn dung nham, đạn dung nhamsát thương cuối cùng+45%; [nhiệt độ caohào quang]phạm vimở rộnglớntới 20 thước.",
+              "10": "triệu hồimộttòacóbản thân 70% HPsốngnúi lửa, kéo dài 5 lượt. mỗi lượtphun 3quảđạn dung nham, đạn dung nhamsát thương cuối cùng+60% và khi rơi xuống đấttạo racỡ nhỏao dung nham; [nhiệt độ caohào quang]sẽkhiếnkẻ địchhỏa diễmkháng tínhgiảm 10%."
+            },
+            "阶位": "Nâng cao"
+          }
+        ],
+        "必杀": [
+          {
+            "名称": "Quyết Đấu Sinh Tồn",
+            "类型": "Chủ động",
+            "描述": "Tạo hai bức tường đá chọc trời không thể vượt qua, nhốt bản thân và mục tiêu ở hai đầu thành môi trường đơn đấu tuyệt đối, rồi liên tục bắn các quả cầu lửa hỗn độn khổng lồ để tiêu diệt mục tiêu.",
+            "特殊效果": {
+              "1": "dựng vách đá cô lậpmục tiêu 2 lượt(vách đácómột lượng nhất định HP), cô lậptrong thời gian đóvề phíamục tiêuphóng 2quảkhổng lồcầu lửa.",
+              "2": "dựng vách đá cô lậpmục tiêu 2 lượt, phóng 2quảkhổng lồcầu lửa, cầu lửasát thương cuối cùng+5%.",
+              "3": "dựng vách đá cô lậpmục tiêu 2 lượt, phóng 3quảkhổng lồcầu lửa, cầu lửasát thương cuối cùng+10%.",
+              "4": "dựng vách đá cô lậpmục tiêu 3 lượt, phóng 3quảkhổng lồcầu lửa, cầu lửasát thương cuối cùng+15%.",
+              "5": "dựng vách đá kiên cố cô lậpmục tiêu 3 lượt, phóng 4quảkhổng lồcầu lửa, cầu lửasát thương cuối cùng+25%; trongcô lậpmôi trường, mục tiêukhông thểchịuđếnbên ngoàibất kỳtrị liệuhoặchiệu ứng tăng íchma pháp, vàbạn đối vớinàymọi kiểm định trúng đòn nhận ưu thế.",
+              "6": "dựng vách đá kiên cố cô lậpmục tiêu 3 lượt, phóng 4quảkhổng lồcầu lửa, cầu lửasát thương cuối cùng+30%; cô lậpmôi trườngcấm trị liệucấmhiệu ứng tăng ích, bạn nhậntrúng đònưu thế.",
+              "7": "dựng vách đá kiên cố cô lậpmục tiêu 3 lượt, phóng 4quảkhổng lồcầu lửa, cầu lửasát thương cuối cùng+35%; cô lậpmôi trườngcấm trị liệucấmhiệu ứng tăng ích, bạn nhậntrúng đònưu thế."
+            },
+            "阶位": "Tất sát"
+          },
+          {
+            "名称": "Bộc Phá Hủy Diệt",
+            "类型": "Chủ động",
+            "描述": "Tất sát. Hai tay bắn hai chùm sáng năng lượng cao sang hai bên, sau đó khép hai tay về phía trước để hai chùm sáng giao nhau, gây vụ nổ hủy diệt ba thuộc tính vật lý, hỏa diễm và hỗn độn.",
+            "特殊效果": {
+              "1": "các chùm sáng giao nhau gây raphạm vivụ nổ, gâyba tầng hỗn hợpsát thương.",
+              "2": "các chùm sáng giao nhau gây raphạm vivụ nổ, ba tầng hỗn hợpsát thươngsát thương cuối cùng+5%.",
+              "3": "các chùm sáng giao nhau gây raphạm vivụ nổ, ba tầng hỗn hợpsát thươngsát thương cuối cùng+10%.",
+              "4": "các chùm sáng giao nhau gây raphạm vivụ nổ, vụ nổbán kínhtăng 5 thước, sát thương cuối cùng+15%.",
+              "5": "các chùm sáng giao nhau gây raphạm vi lớnvụ nổ, sát thương cuối cùng+25%; vụ nổsát thươngbỏ quamục tiêu 15% tất cảthuộc tínhkháng tính; nếumục tiêuđang ở[ngã xuống]hoặcbịkhống chếtrạng thái, nàykỹ năngkiểm định trúng đòn+2.",
+              "6": "các chùm sáng giao nhau gây raphạm vi lớnvụ nổ, sát thương cuối cùng+30%; bỏ qua 15% kháng tính, vào bị khống chếmục tiêukiểm định trúng đòn+2.",
+              "7": "các chùm sáng giao nhau gây raphạm vi lớnvụ nổ, sát thương cuối cùng+35%; bỏ qua 15% kháng tính, vào bị khống chếmục tiêukiểm định trúng đòn+2."
+            },
+            "阶位": "Tất sát"
+          },
+          {
+            "名称": "Tinh Hạch Sụp Đổ",
+            "类型": "Chủ động",
+            "描述": "Ném một tinh hạch mật độ cao vào giữa bầy địch, tạo lực hấp dẫn cực mạnh kéo kẻ địch lại, rồi tinh hạch sụp đổ gây nội bạo. Kỹ năng gom quái và nối chiêu hoàn hảo.",
+            "特殊效果": {
+              "1": "tạo ratinh hạchlôi kéoxung quanhkẻ địch, kéo dài 2 lượt, sau đóvụ nổgâyvật lýsát thương.",
+              "2": "tạo ratinh hạchlôi kéokẻ địch, kéo dài 2 lượt, vụ nổsát thương cuối cùng+5%.",
+              "3": "tạo ratinh hạchlôi kéokẻ địch, kéo dài 2 lượt, vụ nổsát thương cuối cùng+10%.",
+              "4": "tạo ratinh hạchlôi kéokẻ địch, kéo dài 2 lượt, vụ nổsát thương cuối cùng+15%, lôi kéophạm vimở rộnglớn 5 thước.",
+              "5": "tạo ratinh hạchmạnhlôi kéokẻ địch, kéo dài 2 lượt, vụ nổsát thương cuối cùng+25%; tinh hạchtồn tạitrong thời gian đó, trong phạm vikẻ địchmiễn trừ Nhanh nhẹn-2, vàkhông thểsử dụngloại dịch chuyểnkỹ năng(nhưdịch chuyển tức thời, xung kích).",
+              "6": "tạo ratinh hạchmạnhlôi kéokẻ địch, kéo dài 2 lượt, vụ nổsát thương cuối cùng+30%; cấmdịch chuyển, miễn trừ Nhanh nhẹn-2.",
+              "7": "tạo ratinh hạchmạnhlôi kéokẻ địch, kéo dài 2 lượt, vụ nổsát thương cuối cùng+35%; cấmdịch chuyển, miễn trừ Nhanh nhẹn-2."
+            },
+            "阶位": "Tất sát"
+          }
+        ],
+        "奥义": [
+          {
+            "名称": "Cơn Thịnh Nộ Của Vũ Trụ",
+            "类型": "Chủ động",
+            "描述": "Áo nghĩa. Bằng cách thay đổi cấu trúc vỏ đất, lập tức tạo ba vòng núi khép chặt bao vây địch. Kẻ địch phải liên tiếp vượt qua ba lần hiểm cảnh, nếu không sẽ trực diện thiên thạch cháy khổng lồ giáng xuống.",
+            "特殊效果": {
+              "1": "tạo raba tầng vòng núi lửa nhốtmục tiêu, mục tiêucầnvượt qua 1 lần Nhanh nhẹnhoặc Sức mạnhkiểm địnhthoát khỏi, thất bại thìthìbịthiên thạchđậpchịuđếnkhổng lồlượng lớnsát thương.",
+              "2": "mục tiêucầnvượt qua 2 lầnkiểm địnhthoát khỏi, mỗi lầnthất bại thìđềusẽcộng dồn[chậm chạp], cuối cùngthiên thạchsát thương+15%.",
+              "3": "mục tiêucầnvượt qua 3 lầnkiểm địnhthoát khỏi, mỗi lầnthất bại thìcộng dồn[chậm chạp]vàchịuđếnmột lầnhỏa diễmthiêu đốt, cuối cùngthiên thạchsát thương+30%.",
+              "4": "mục tiêucầnvượt qua 3 lầnkhókiểm định(D C+2) thoát khỏi, nếu 3 lầntoàn bộbạithìbị[trói buộc]không thểhành độngbắn; khổng lồthiên thạchsát thương cuối cùng+50%, vàvào HPthấpở 20% mục tiêuthêmgâymột lầnxử hìnhsát thương.",
+              "5": "mục tiêucầnvượt qua 3 lầncực khókiểm định(D C+4) thoát khỏi, bất kỳmột lầnthất bại thìđềusẽtrực tiếpngắtnóhiện tạihành độngvà khiếnnó[choáng]1 lượt; diệt thếthiên thạchsát thương cuối cùng+80%; nếumục tiêutrongthiên thạchgiángkế tiếpkhi HPthấpở 30%, sẽbịtrực tiếpchémdiệt(tức tửphán định) hóa thànhbụi vũ trụ."
+            },
+            "阶位": "Áo nghĩa"
+          },
+          {
+            "名称": "Bản Thân Tạo Hóa",
+            "类型": "Chủ động",
+            "描述": "Áo nghĩa. Dùng năng lượng bản nguyên vũ trụ tạo 8 ảo ảnh sao chép hoàn hảo vây quanh bản thân và mục tiêu. Ảo ảnh không chỉ cung cấp phòng hộ cực hạn mà còn có thể bắn loạt chùm sáng hủy thiên diệt địa.",
+            "特殊效果": {
+              "1": "triệu hồi 8 ảo ảnh, tồn tạitrong thời gian đóbản thân AC+2; ảo ảnhsẽvề phíamục tiêuphóngmột lầnchùm sángbắn loạt, mục tiêucầnvượt qua 1 lầnmiễn trừ Thể chất, thất bại thìchịutoàn phầnsát thương.",
+              "2": "triệu hồi 8 ảo ảnh, bản thân AC+2; ảo ảnhchùm sángbắn loạtsát thương cuối cùng+20%, mục tiêucầnvượt qua 2 lầnmiễn trừ, thất bại thìchịutoàn phầnsát thươngvàbị[mù]1 lượt.",
+              "3": "triệu hồi 8 ảo ảnh, bản thân AC+3; ảo ảnhchùm sángbắn loạtsát thương cuối cùng+40%, mục tiêucầnvượt qua 3 lầnmiễn trừ, bất kỳmột lầnthất bại thìđềusẽcộng dồn[yếu ớt] dấu ấn(chịukíchsát thươngtăng).",
+              "4": "triệu hồi 8 ảo ảnh, bản thân AC+4vàmiễn nhiễmkhông phảima phápvật lýtấn công; ảo ảnhchùm sángbắn loạtsát thương cuối cùng+60%, mục tiêucầnvượt qua 3 lầnbất lợimiễn trừ, thất bại thìthìbị[mù]vàmọi kháng tínhvề 0, kéo dài 2 lượt.",
+              "5": "triệu hồi 8 chân lýảo ảnh, bản thân AC+5vàmiễn nhiễmmọitrực tiếpđịnh hướngpháp thuật; 8luồngchùm sángđan thànhtuyệt đốilưới phán quyết, sát thương cuối cùng+100%; mục tiêucầnliên tụcvượt qua 3 lầncực khómiễn trừ Thể chất(D C+3), chỉ cầncó 1 lầnthất bại thì, nóvật lýthân thểsẽrơi vào[phân rã] trạng thái(mọi thuộc tínhkiểm địnhcưỡng chếbất lợi, vàmỗi lượtmất 10% sinh mệnh tối đa, kéo dài 3 lượt)."
+            },
+            "阶位": "Áo nghĩa"
+          },
+          {
+            "名称": "Quá Tải Hỗn Độn",
+            "类型": "Đặc biệt",
+            "描述": "Chủ động mở van giới hạn năng lượng trong cơ thể, để hỗn độn thuần túy chảy trong huyết quản. Nâng mạnh lực phá hoại nhưng phải trả giá bằng sinh mệnh.",
+            "特殊效果": {
+              "1": "tiêu hao 15% hiện tại HP, khiếnbản thântiếp theotất cảchínhhành độngkỹ năngsát thương cuối cùng+20%, kéo dài 3 lượt.",
+              "2": "tiêu hao 15% hiện tại HP, khiếnbản thântiếp theotất cảchínhhành độngkỹ năngsát thương cuối cùng+30%, vàtrongtrong thời gian đónhậnkiểm định trúng đònưu thế, kéo dài 3 lượt.",
+              "3": "tiêu hao 20% hiện tại HP, khiếnbản thântiếp theotất cảchínhhành độngkỹ năngsát thương cuối cùng+40%, nhậnkiểm định trúng đònưu thế, và bỏ quamục tiêu 20% phòng ngự, kéo dài 4 lượt.",
+              "4": "tiêu hao 20% hiện tại HP, khiếnbản thântiếp theotất cảchínhhành độngkỹ năngsát thương cuối cùng+55%, nhậnkiểm định trúng đònưu thế, bỏ quamục tiêu 30% phòng ngự; quá tảitrong thời gian đótiêu diệtbất kỳkẻ địchđềusẽhồi phụcbản thân 10% sinh mệnh tối đa, kéo dài 4 lượt.",
+              "5": "tiêu hao 30% hiện tại HPđi vào[tuyệt đốiquá tải]: bản thântiếp theotất cảchínhhành độngkỹ năngsát thương cuối cùng+80%, tấn côngchắc chắn trúng đòn(bỏ quakiểm định trúng đòntrực tiếpkết toánsát thương), bỏ quamục tiêu 50% phòng ngựvớilá chắn; quá tảitrong thời gian đótất cảkỹ năngkèm 50% sinh mệnhđánh cắphiệu quả, kéo dài 5 lượt."
+            },
+            "阶位": "Áo nghĩa"
+          }
+        ],
+        "觉醒一": [
+          {
+            "名称": "Bạo Quân Tinh Hải",
+            "类型": "Chủ động",
+            "阶位": "Thức tỉnh một",
+            "描述": "Giải phóng quyền năng vũ trụ giai đoạn đầu, đồng hóa địa hình xung quanh thành tinh hải ám diệt và chi phối quy tắc chiến trường.",
+            "特殊效果": {
+              "1": "sau khi thức tỉnh, trong trận chiến này, bạntạo ratất cảđịa hình(dung hỏa, bão, bốc cháymặt đất) phạm vităng gấp đôivàkéo dàikhithời gian+2 lượt; đang ởbạnđịa hìnhtrongkẻ địch, nótấn côngtung xúc xắcvĩnh viễnkhông thểbạo kích; mọi vật lýsát thươngcưỡng chếchuyển hóalàm hỗn độnsát thương chuẩn, bỏ quamọithông thườnggiáp.",
+              "2": "sau khi thức tỉnh, trong trận chiến này, bạntạo ratất cảđịa hình(dung hỏa, bão, bốc cháymặt đất) phạm vităng gấp đôivàkéo dàikhithời gian+2 lượt; đang ởbạnđịa hìnhtrongkẻ địch, nótấn côngtung xúc xắcvĩnh viễnkhông thểbạo kích; mọi vật lýsát thươngcưỡng chếchuyển hóalàm hỗn độnsát thương chuẩn, bỏ quamọithông thườnggiáp.",
+              "3": "sau khi thức tỉnh, trong trận chiến này, bạntạo ratất cảđịa hình(dung hỏa, bão, bốc cháymặt đất) phạm vităng gấp đôivàkéo dàikhithời gian+2 lượt; đang ởbạnđịa hìnhtrongkẻ địch, nótấn côngtung xúc xắcvĩnh viễnkhông thểbạo kích; mọi vật lýsát thươngcưỡng chếchuyển hóalàm hỗn độnsát thương chuẩn, bỏ quamọithông thườnggiáp."
+            }
+          }
+        ],
+        "觉醒二": [
+          {
+            "名称": "Kẻ Kết Thúc Hư Không",
+            "类型": "Chủ động",
+            "阶位": "Thức tỉnh hai",
+            "描述": "Hóa thân thành thực thể hư không mang tới kết thúc, triệu thiên thể đen tối đủ che kín bầu trời rơi xuống chiến trường.",
+            "特殊效果": {
+              "1": "thức tỉnhsau đólập tứcđặt lại[phân rãbão] và [Quyết Đấu Sinh Tồn]sử dụngsố lần; trận chiến nàytrong, bạnchùm sángvớihỏa diễmkỹ năngtrúng đònkẻ địchkhi, sẽgiảm vĩnh viễnnó 1 điểmmọi thuộc tính(thấp nhấtgiángtới 1); có thểtiêu hao toàn bộ C Pthi triểnmột lầnkết liễukỹ[u ámđentrời Thể chấtrơi xuốngrơi], vào toàn sânkẻ địchgâydựa trênbạnđã mất HPphần trămkhổng lồlượng lớncộng thêm sát thương, vàtrongtàn tíchtrêntạo ramộtvùngvĩnh viễn[hư vôcấmvùng].",
+              "2": "thức tỉnhsau đólập tứcđặt lại[phân rãbão] và [Quyết Đấu Sinh Tồn]sử dụngsố lần; trận chiến nàytrong, bạnchùm sángvớihỏa diễmkỹ năngtrúng đònkẻ địchkhi, sẽgiảm vĩnh viễnnó 1 điểmmọi thuộc tính(thấp nhấtgiángtới 1); có thểtiêu hao toàn bộ C Pthi triểnmột lầnkết liễukỹ[u ámđentrời Thể chấtrơi xuốngrơi], vào toàn sânkẻ địchgâydựa trênbạnđã mất HPphần trămkhổng lồlượng lớncộng thêm sát thương, vàtrongtàn tíchtrêntạo ramộtvùngvĩnh viễn[hư vôcấmvùng]."
+            }
+          }
+        ],
+        "觉醒三": [
+          {
+            "名称": "Thức Tỉnh Chư Giới",
+            "类型": "Chủ động",
+            "阶位": "Thức tỉnh ba",
+            "描述": "Giải phóng hoàn toàn chân dạng của Chúa Tể Ám Diệt. Bạn chính là tạo hóa, cũng chính là hủy diệt. Sinh diệt của vũ trụ đều nằm trong một ý niệm của bạn.",
+            "特殊效果": {
+              "1": "thức tỉnhsau đóđi vào[Sáng Thế và Hủy Diệt]hình thái: trận chiến nàytrong, bạnsinh mệnh tối đatăng gấp đôi, AC+5; bạnmiễn nhiễmmọitrạng thái bất thườngvớitức tửhiệu quả. khibạnsử dụngbất kỳkỹ năngkhi, đềusẽtự độngtrongmục tiêuvị tríkèmmột lầnkhông tiêu haohành động[Mưa Sao]hoặc[chùm sángbộc phá]; nếukẻ địchtrongbạnkỹ năngliên tiếpđoạn HPgiángtới 15% trở xuống, vũ trụpháp tắcsẽtrực tiếpsẽnóxóa bỏ, không để lạibất kỳdấu vết."
+            }
+          }
+        ]
+      },
+      "skillTreeForClass": "u ámtắtchi phối",
+      "lockedSkillMap": {},
+      "skillFlavorInput": "Bộc Phá Chùm Sáng (cơ bản)\nMưa Sao (cơ bản, mưa sao băng gây sát thương phạm vi, hỏa diễm vật lý)\nThiểm Hiện Hư Vô (cơ bản, dịch chuyển, tự động phán định né tránh)\nDung Hỏa Bộc Phát (chuyển nghề, mặt đất phun trào hỏa diễm; trong thời gian duy trì, mỗi lần kẻ địch hành động đều phải phán định xem có chịu sát thương từ kỹ năng này hay không)\nQuét Ngang Hỗn Độn (chuyển nghề, chùm sáng quét ngang)\nLiệt Diễm Vinh Quang (nâng cao, nhiều hỏa cầu bắn đồng loạt, để lại mặt đất bốc cháy và tạo buff cho bản thân)\nBão Giải Thể (nâng cao, vùng sát thương duy trì cao dần phình to, đồng thời cấm mọi hình thức hồi phục của kẻ địch)\nCơn Giận Vũ Trụ (áo nghĩa, tạo ba vòng núi miệng hố bao vây kẻ địch; kẻ địch cần vượt qua ba lần kiểm định thuộc tính, sau đó thiên thạch cháy khổng lồ giáng xuống)\nCảm Nhận Hư Vô! (chuyển nghề, tạo ích lợi và tạo bất lợi)\nBản Thân Tạo Hóa (áo nghĩa, tạo 8 ảo ảnh, tăng AC; ảo ảnh bao vây mục tiêu, tụ lực bắn chùm sáng đồng loạt, kẻ địch cần vượt qua ba lần kiểm định miễn trừ)\nĐối Quyết Sinh Tồn (tất sát, tạo hai bức tường đá thẳng, bản thân và mục tiêu đứng ở hai đầu, cưỡng chế đơn đấu, liên tục bắn nhiều hỏa cầu hỗn độn khổng lồ)\nBộc Phá Hủy Diệt (tất sát, hai tay bắn hai chùm sáng sang hai bên rồi hội tụ về phía trước tạo vụ nổ, gây nhiều tầng sát thương vật lý, nguyên tố và hỗn độn)\nThức Tỉnh Chư Giới (thức tỉnh 3)",
+      "teammates": [],
+      "customTeammate": null,
+      "selectedTraits": [
+        "Nhà chiêm tinh",
+        "Kẻ mật ngữ",
+        "Kẻ thích sưu tầm",
+        "Uyên bác nhớ dai",
+        "Kẻ cố chấp"
+      ],
+      "customTraits": [],
+      "customExpertise": [],
+      "customIdentity": {
+        "enabled": true,
+        "name": "Thức Tỉnh Chư Giới",
+        "desc": "Từng có thời, bạn là sao mai rực rỡ nhất trong các chinh phạt giả vị diện, thề lấy thân tàn làm khiên, chặn Ma Thần bên ngoài bức tường vị diện. Nhưng khi bạn dùng sinh mệnh xé toạc lồng ngực Ma Thần, thứ đổi lại lại là sự phản bội lạnh băng của đồng đội: họ khóa chặt bạn, kẻ chỉ còn một hơi thở, cùng Ma Thần hấp hối vào nơi sâu thẳm vĩnh hằng của hoàn vũ.\n\nTrong tĩnh mịch chết chóc kéo dài nghìn vạn năm, tôn nghiêm của anh hùng và lời nguyền của Ma Thần bị thời gian nghiền mòn rồi dung hợp. Khi phong ấn một lần nữa vỡ nát, kẻ trở về không còn là vị cứu thế, mà là nghịch lý mang tên **“Chúa Tể Ám Diệt”**. Bạn tùy ý giẫm đạp văn minh, biến sinh linh thành nô bộc quỳ phục, nhưng lại như chó điên săn đuổi những quái vật hoang tàn; bạn căm ghét chư thần giả thiện, càng oán hận đám phàm nhân từng được bạn cứu rỗi nhưng lại vứt bỏ bạn như giẻ rách.\n\nCho tới khi vòng xoay vận mệnh đẩy bạn đến hồi kết, thế hệ anh hùng mới đâm xuyên trái tim bạn. Khi thần thể sụp đổ, linh hồn từng bị thù hận và vinh quang tôi luyện đi luyện lại của bạn mất đi ngai vàng và tên gọi, hóa thành một vệt lưu hỏa tàn khuyết, lần nữa rơi vào hư không lạnh lẽo.",
+        "tierIndex": 1
+      },
+      "selectedOpening": "traverse",
+      "customOpeningText": "",
+      "selectedDifficulty": "normal",
+      "customRace": {
+        "enabled": true,
+        "name": "Kẻ Giác Tỉnh",
+        "trait1": {
+          "name": "Đồ sát Ma Thần",
+          "detail": "Giá trị AC cơ bản là 18, miễn nhiễm hiệu ứng chết tức thì, sát thương bạo kích phải chịu giảm 50%, tỷ lệ bạo kích cơ bản của nhân vật là 8%; khi đang chiến đấu, nếu sinh mệnh thấp hơn 15%, sát thương phải chịu trong ba lượt kế tiếp được giảm 99%. Khi đối kháng các mục tiêu sử thi và truyền kỳ (chư thần, đơn vị thần thoại và các tồn tại vượt khỏi lẽ thường), mọi kiểm định đều nhận ưu thế.",
+          "negative": false
+        },
+        "trait2": {
+          "name": "Hợp nhất chư giới",
+          "detail": "Cá thể thức tỉnh đồng thời tồn tại trong mọi chiều không gian, tốc độ trưởng thành của họ luôn vượt khỏi lẽ thường. Khi đánh bại kẻ địch có cấp cao hơn hoặc bằng bản thân, nhận thêm 100% kinh nghiệm; mỗi lần lên cấp, mọi thuộc tính +1; khi sinh mệnh thấp hơn 25%: lập tức hồi phục tới 80% sinh mệnh tối đa, và cho tới khi chiến đấu kết thúc, mọi thuộc tính của bạn +8. Hiệu ứng này mỗi trận chiến chỉ có thể kích hoạt một lần.",
+          "negative": false
+        }
+      }
+    },
+    "downloadUrl": "/api/presets/a85814e9-f3ff-47f1-94e0-2b8bbf2f1f48/file"
+  }
+}

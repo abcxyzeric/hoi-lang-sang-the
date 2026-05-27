@@ -1,0 +1,436 @@
+{
+  "exportedAt": "2026-04-29T11:26:46.204Z",
+  "version": "1.0",
+  "preset": {
+    "id": "1777462003806",
+    "name": "Kamen Rider Zeztz Vô Địch",
+    "timestamp": 1777462003806,
+    "createdAt": 1777462003806,
+    "updatedAt": 1777462003806,
+    "data": {
+      "name": "Lâm Mạc",
+      "gender": "Nam",
+      "age": 20,
+      "race": "__custom__",
+      "identity": "__custom__",
+      "avatar": "",
+      "attributes": {
+        "strength": 13,
+        "dexterity": 12,
+        "constitution": 10,
+        "intelligence": 14,
+        "wisdom": 12,
+        "charisma": 13
+      },
+      "backstory": "",
+      "selectedLevelMode": "custom",
+      "selectedCustomLevel": 1,
+      "selectedSpawnPoint": "Tầng dưới thành ven vực Cảng Hoàn Uyên · bờ biển vòng ngoài",
+      "class": "Kamen Rider Zeztz (Đặc vụ)",
+      "selectedBaseClass": "Nghề nghiệp tùy chỉnh",
+      "customClassName": "Kamen Rider Zeztz (Đặc vụ)",
+      "customClassStyle": "",
+      "customClassWeapon": "ZZZ Driver / nắm đấm, chân",
+      "customClassCombatStyle": "Hỗn hợp",
+      "skillTree": {
+        "基础": [
+          {
+            "名称": "Bộ điều khiển Viên Mộng",
+            "类型": "Đặc biệt",
+            "描述": "Zeztz Driver đeo bên hông có thể lắp và chuyển đổi nhiều loại Viên Mộng khác nhau. Chuyển đổi là hành động tự do, tối đa một lần mỗi lượt. Lv.1~9 chỉ dùng được Viên Mộng Xung Kích; Lv.10 mở khóa Hình Chiếu Công Nghệ; Lv.15 mở khóa Hồi Phục.",
+            "特殊效果": {
+              "1": "Viên Mộng Xung Kích: Sức mạnh+3. đấm/đását thươngthêmx 1.1(vùng nhân riêng). tăng sát thương gấp đôi: Quyền Kỵ Sĩ và Cước Kỵ Sĩsát thương cuối cùngx 2.",
+              "2": "Viên Mộng Xung Kích: Sức mạnh+4. tăng sát thương gấp đôigiữ nguyên.",
+              "3": "Viên Mộng Xung Kích: Sức mạnh+4. tăng sát thương gấp đôigiữ nguyên.",
+              "4": "Viên Mộng Xung Kích: Sức mạnh+5. tăng sát thương gấp đôigiữ nguyên.",
+              "5": "Viên Mộng Xung Kích: Sức mạnh+5. tăng sát thương gấp đôigiữ nguyên.",
+              "6": "Viên Mộng Xung Kích: Sức mạnh+6. tăng sát thương gấp đôigiữ nguyên.",
+              "7": "Viên Mộng Xung Kích: Sức mạnh+6. tăng sát thương gấp đôigiữ nguyên.",
+              "8": "Viên Mộng Xung Kích: Sức mạnh+7. tăng sát thương gấp đôigiữ nguyên.",
+              "9": "Viên Mộng Xung Kích: Sức mạnh+7. tăng sát thương gấp đôigiữ nguyên.",
+              "10": "mở khóa Viên Mộng Hình Chiếu Công Nghệ. Xung Kích Sức mạnh+8; Hình Chiếu Công Nghệ: Nhanh nhẹn+3, tạo ra phân thân hình chiếu, tỷ lệ né tránh+30%, hình chiếu vũ khíkhi trúng đònthêmthực hiệnmột lần 50% sát thươngphán định.",
+              "11": "Xung Kích Sức mạnh+8; Hình Chiếu Công Nghệ Nhanh nhẹn+4.",
+              "12": "Xung Kích Sức mạnh+9; Hình Chiếu Công Nghệ Nhanh nhẹn+4.",
+              "13": "Xung Kích Sức mạnh+9; Hình Chiếu Công Nghệ Nhanh nhẹn+5.",
+              "14": "Xung Kích Sức mạnh+10; Hình Chiếu Công Nghệ Nhanh nhẹn+5.",
+              "15": "mở khóa Viên Mộng Hồi Phục. Xung Kích Sức mạnh+10; Hình Chiếu Công Nghệ Nhanh nhẹn+6; hồi phục: Thể chất+3, mỗi lượt hồi phụcsinh mệnh tối đa 10%, tất cảgiảm trừ sát thương 20%."
+            },
+            "阶位": "Cơ bản"
+          },
+          {
+            "名称": "Quyền Kỵ Sĩ · Xung Kích Phá",
+            "类型": "Chủ động",
+            "描述": "Dùng Driver dồn năng lượng Viên Mộng vào cổ tay, rồi tung một cú toàn lực đúng khoảnh khắc vận hành đạt đỉnh. Hệ số 150%~400%. Khi lắp viên Xung Kích, sát thương cuối cùng x2.",
+            "特殊效果": {
+              "1": "2d 8+Sức mạnh, hệ số 170%. Sức mạnh D C miễn trừ=8+Sức mạnhđiều chỉnh, thất bại thìđẩy lùi+mất thăng bằng(tấn côngbất lợi 1 lượt).",
+              "2": "2d 8+Sức mạnh, hệ số 180%.",
+              "3": "3d 8+Sức mạnh, hệ số 190%. mất thăng bằngkéo dài tới 2 lượt.",
+              "4": "3d 8+Sức mạnh, hệ số 200%.",
+              "5": "3d 10+Sức mạnh, hệ số 210%. D C miễn trừ+1.",
+              "6": "3d 10+Sức mạnh, hệ số 225%.",
+              "7": "4d 10+Sức mạnh, hệ số 240%. đẩy lùităng gấp đôi.",
+              "8": "4d 10+Sức mạnh, hệ số 255%.",
+              "9": "4d 12+Sức mạnh, hệ số 270%. D C miễn trừ+2.",
+              "10": "4d 12+Sức mạnh, hệ số 285%. Hình Chiếu Công Nghệliên động: sau khi trúng đònbồi thêmhình chiếuphán định(50% sát thương).",
+              "11": "5d 12+Sức mạnh, hệ số 300%.",
+              "12": "5d 12+Sức mạnh, hệ số 315%. mất thăng bằngmục tiêumọi miễn trừ-2.",
+              "13": "6d 12+Sức mạnh, hệ số 330%.",
+              "14": "6d 12+Sức mạnh, hệ số 350%. D C miễn trừ+3.",
+              "15": "7d 12+Sức mạnh, hệ số 400%. đòn kép: mục tiêu chínhsát thương toàn phần, sau đó Xung Kíchsóngxuyên thấu mục tiêu khác kề bên(xúc xắc sát thươnggiảm một nửa)."
+            },
+            "阶位": "Cơ bản"
+          },
+          {
+            "名称": "Cước Kỵ Sĩ · Băng Diệt",
+            "类型": "Chủ động",
+            "描述": "Nhảy lên tụ lực, dồn năng lượng vào chân và tung một cú đá chí mạng giữa không trung. Hệ số 180%~450%. Khi lắp viên Xung Kích, sát thương cuối cùng x2.",
+            "特殊效果": {
+              "1": "2d 10+Sức mạnh, hệ số 180%. xuyên thấu lá chắn 50%, đẩy lùi.",
+              "2": "2d 10+Sức mạnh, hệ số 195%.",
+              "3": "3d 10+Sức mạnh, hệ số 210%. xuyên thấu 60%.",
+              "4": "3d 10+Sức mạnh, hệ số 225%.",
+              "5": "3d 12+Sức mạnh, hệ số 240%. hình nónlan sát thương 15 thước.",
+              "6": "3d 12+Sức mạnh, hệ số 255%.",
+              "7": "4d 12+Sức mạnh, hệ số 270%. xuyên thấu 70%.",
+              "8": "4d 12+Sức mạnh, hệ số 285%.",
+              "9": "5d 12+Sức mạnh, hệ số 300%. lan sát thương 20 thước.",
+              "10": "5d 12+Sức mạnh, hệ số 315%. Hình Chiếu Công Nghệliên động: nhảy lên để lại tàn ảnh, bịtấn công kích nổ 2d 8sát thương phạm vi.",
+              "11": "6d 12+Sức mạnh, hệ số 330%.",
+              "12": "6d 12+Sức mạnh, hệ số 350%. xuyên thấu 85%.",
+              "13": "7d 12+Sức mạnh, hệ số 375%.",
+              "14": "7d 12+Sức mạnh, hệ số 400%. lan sát thương 30 thước.",
+              "15": "8d 12+Sức mạnh, hệ số 450%. phá diệtmộtkích: lá chắn vỡ vụn, xuyên thấu 100%+đã mất HPx 1.5thêm sát thương."
+            },
+            "阶位": "Cơ bản"
+          }
+        ],
+        "转职": [
+          {
+            "名称": "Xung Kích Khu Động · Bộc Phát Duy Tâm",
+            "类型": "Đặc biệt",
+            "描述": "Sức mạnh chỉ thật sự bùng nổ khi kỵ sĩ rơi vào tuyệt cảnh. Tự kích hoạt khi HP thấp hơn 20%, kéo dài 3 lượt. Hồi chiêu nửa ngày.",
+            "特殊效果": {
+              "1": "nhận 40% mọi giảm trừ sát thương(với viên Hồi Phụcnhân chồng). mỗi lượt nhận điều chỉnh Thể chấtx 5lá chắn tạm thời. Quyền Kỵ Sĩ gây mất thăng bằng/Cước Kỵ Sĩ xuyên thấuchắc chắnkích hoạt. hồi chiêunửa ngày."
+            },
+            "阶位": "Chuyển nghề"
+          },
+          {
+            "名称": "Thức Tỉnh Của Mộng",
+            "类型": "Đặc biệt",
+            "描述": "Sau khi đồng bộ sâu với Viên Mộng, cơ thể sẽ theo bản năng tìm ra đường tấn công và nhịp học tập tối ưu.",
+            "特殊效果": {
+              "1": "mọi đòn tấn công cận chiếnphán định trúng đòn+5. kinh nghiệm chiến đấu nhận được+30%(vùng nhân riêng)."
+            },
+            "阶位": "Chuyển nghề"
+          },
+          {
+            "名称": "Cước Kỵ Sĩ · Băng Diệt (bản cường hóa)",
+            "类型": "Chủ động",
+            "描述": "Dựa trên Cước Kỵ Sĩ ban đầu, năng lượng được nén qua dòng chất lưu thứ nguyên kép. Kênh cường hóa ở chân phun ra vệt năng lượng, giữa không trung mở ba vòng xoáy ZZZ chồng nhau. Hệ số 500%~1000%. Khi lắp viên Xung Kích, sát thương x2.",
+            "特殊效果": {
+              "1": "5d 12+Sức mạnh, hệ số 500%. xuyên thấu lá chắn 60%; đẩy lùi; lan sát thương 20 thước. mỗi trận giới hạn một  lần.",
+              "2": "5d 12+Sức mạnh, hệ số 530%.",
+              "3": "6d 12+Sức mạnh, hệ số 560%. xuyên thấu 70%.",
+              "4": "6d 12+Sức mạnh, hệ số 590%.",
+              "5": "6d 12+Sức mạnh, hệ số 620%. lan sát thươngmở rộng tới 25 thước.",
+              "6": "7d 12+Sức mạnh, hệ số 650%.",
+              "7": "7d 12+Sức mạnh, hệ số 680%. xuyên thấu 80%.",
+              "8": "7d 12+Sức mạnh, hệ số 710%. lan sát thươngmở rộng tới 30 thước.",
+              "9": "8d 12+Sức mạnh, hệ số 740%.",
+              "10": "8d 12+Sức mạnh, hệ số 770%. xuyên thấu 90%.",
+              "11": "8d 12+Sức mạnh, hệ số 800%. ba vòng xoáy: lan sát thương trong phạm viđịchmiễn trừ Sức mạnh(D C=8+Sức mạnh), thất bại thìchịu 2d 10sát thương trường lực.",
+              "12": "9d 12+Sức mạnh, hệ số 850%.",
+              "13": "9d 12+Sức mạnh, hệ số 900%. xuyên thấu 100%.",
+              "14": "10d 12+Sức mạnh, hệ số 950%.",
+              "15": "10d 12+Sức mạnh, hệ số 1000%. ba vòng xoáysát thươngtăng lên 4d 10; xuyên thấu lá chắn+đã mất HPx 2thêm sát thương chuẩn. mỗi trậncó thể dùng 2  lần."
+            },
+            "阶位": "Chuyển nghề"
+          }
+        ],
+        "进阶": [
+          {
+            "名称": "Viên Mộng Plasma",
+            "类型": "Đặc biệt",
+            "描述": "Khi chuyển sang Viên Mộng Plasma, toàn thân phủ những đường sét vàng bạc, sở hữu năng lực di chuyển siêu tốc và phóng điện. Sát thương sét của viên Plasma x1.5 (tất sát Cung Bộc Phá Sấm Chớp x2).",
+            "特殊效果": {
+              "1": "Nhanh nhẹn+2; plasma hóadi chuyển(bỏ qua cản trở địa hình); tấn côngkèm 1d 6sát thương sấm sét.",
+              "2": "Nhanh nhẹn+2.",
+              "3": "Nhanh nhẹn+3.",
+              "4": "Nhanh nhẹn+3; sát thương sấm séttăng lên 2d 6.",
+              "5": "Nhanh nhẹn+3; tỷ lệ né tránh+10%.",
+              "6": "Nhanh nhẹn+4.",
+              "7": "Nhanh nhẹn+4; sát thương sấm séttăng lên 3d 6.",
+              "8": "Nhanh nhẹn+4.",
+              "9": "Nhanh nhẹn+5; tỷ lệ né tránh+15%.",
+              "10": "Nhanh nhẹn+5; sát thương sấm séttăng lên 4d 6; khoảng cách di chuyểntăng gấp đôi.",
+              "11": "Nhanh nhẹn+5.",
+              "12": "Nhanh nhẹn+6.",
+              "13": "Nhanh nhẹn+6; sát thương sấm séttăng lên 5d 6.",
+              "14": "Nhanh nhẹn+6; tỷ lệ né tránh+20%.",
+              "15": "Nhanh nhẹn+6; sát thương sấm séttăng lên 6d 6; có thể xuyên quakẻ địchcơ thể(kích hoạtmiễn phísát thương sấm sétphán định)."
+            },
+            "阶位": "Nâng cao"
+          },
+          {
+            "名称": "Cung Bộc Phá Sấm Chớp · Plasma Lôi Kích",
+            "类型": "Chủ động",
+            "描述": "Vũ trang mở rộng của viên Plasma. Chế độ cung bắn tên sét nén mật độ cao; mỗi lần trúng đòn cộng dồn [dấu ấn sấm chớp] (giới hạn 5~8 tầng). Tất sát “Plasma Lightning Destroyer” kích nổ toàn bộ dấu ấn, mỗi tầng gây 2d12+Nhanh nhẹn sát thương sét và làm mục tiêu tê liệt một lượt. Hệ số 1500%~2500%.",
+            "特殊效果": {
+              "1": "3d 10+Nhanh nhẹn, hệ số 1500%. giới hạn dấu ấn 5 tầng; có thểnảy sang mục tiêu khác 1  lần.",
+              "2": "3d 10+Nhanh nhẹn, hệ số 1550%.",
+              "3": "4d 10+Nhanh nhẹn, hệ số 1600%. nảy sang mục tiêu khácsố lần+1.",
+              "4": "4d 10+Nhanh nhẹn, hệ số 1650%.",
+              "5": "4d 12+Nhanh nhẹn, hệ số 1700%. giới hạn dấu ấn 6 tầng.",
+              "6": "5d 12+Nhanh nhẹn, hệ số 1750%.",
+              "7": "5d 12+Nhanh nhẹn, hệ số 1800%. nảy sang mục tiêu khácsố lần+1.",
+              "8": "5d 12+Nhanh nhẹn, hệ số 1850%. dấu ấn sấm chớpmỗi tầngkhiếnmục tiêu, kháng sétkháng tính-5%.",
+              "9": "6d 12+Nhanh nhẹn, hệ số 1900%.",
+              "10": "6d 12+Nhanh nhẹn, hệ số 1950%. giới hạn dấu ấn 7 tầng; mỗi tầngbồi thêm phán định tê liệtphán định.",
+              "11": "6d 12+Nhanh nhẹn, hệ số 2000%.",
+              "12": "7d 12+Nhanh nhẹn, hệ số 2100%. nảy sang mục tiêu khácsố lần+1.",
+              "13": "7d 12+Nhanh nhẹn, hệ số 2250%. dấu ấn sấm chớpmỗi tầngkhiếnmục tiêumọi miễn trừ-1.",
+              "14": "8d 12+Nhanh nhẹn, hệ số 2400%.",
+              "15": "8d 12+Nhanh nhẹn, hệ số 2500%. giới hạn dấu ấn 8 tầng; nảy sang mục tiêu kháckhông còngiảm sát thương."
+            },
+            "阶位": "Nâng cao"
+          },
+          {
+            "名称": "Cước Kỵ Sĩ Sấm Chớp · Lôi Giáng Băng Diệt",
+            "类型": "Chủ động",
+            "描述": "Triệu mây đen và sấm chớp, hút một tia sét bám vào chân phải rồi hóa thành sao băng vàng lao xuống xuyên qua mục tiêu. Hệ số 2000%~3000%. Đây là kỹ năng độc quyền của viên Plasma, không hưởng tăng gấp đôi từ viên Xung Kích. Mỗi trận dùng một lần.",
+            "特殊效果": {
+              "1": "5d 12+Nhanh nhẹn, hệ số 2000%. xuyên thấu 70%; lan sát thương 10 thước(40%); bồi thêm 3d 10sát thương sấm sét.",
+              "2": "5d 12+Nhanh nhẹn, hệ số 2050%.",
+              "3": "6d 12+Nhanh nhẹn, hệ số 2100%. xuyên thấu 80%.",
+              "4": "6d 12+Nhanh nhẹn, hệ số 2150%.",
+              "5": "6d 12+Nhanh nhẹn, hệ số 2200%. lan sát thương 15 thước.",
+              "6": "7d 12+Nhanh nhẹn, hệ số 2250%.",
+              "7": "7d 12+Nhanh nhẹn, hệ số 2300%. xuyên thấu 90%; bồi thêm sét 4d 10.",
+              "8": "7d 12+Nhanh nhẹn, hệ số 2350%.",
+              "9": "8d 12+Nhanh nhẹn, hệ số 2400%. lan sát thươngtỷ lệtăng lên 50%.",
+              "10": "8d 12+Nhanh nhẹn, hệ số 2450%. xuyên thấu 100%; bồi thêm sét 5d 10.",
+              "11": "9d 12+Nhanh nhẹn, hệ số 2500%. lan sát thương 20 thước.",
+              "12": "9d 12+Nhanh nhẹn, hệ số 2600%.",
+              "13": "10d 12+Nhanh nhẹn, hệ số 2750%. bồi thêm sét 6d 10; nếu códấu ấn sấm chớpmục tiêu mỗi tầng+2d 8.",
+              "14": "10d 12+Nhanh nhẹn, hệ số 2900%.",
+              "15": "10d 12+Nhanh nhẹn, hệ số 3000%. xuyên thấu 150%(phần vượt chuyển thành sát thương chuẩn); lan sát thương 30 thước; toàn sân bồi thêmtrường sét 2 lượt."
+            },
+            "阶位": "Nâng cao"
+          }
+        ],
+        "必杀": [
+          {
+            "名称": "Viên Mộng Kép · Song Hạch Băng Hoại Và Trật Tự",
+            "类型": "Đặc biệt",
+            "描述": "Viên Mộng Song Ác Mộng phong nhập hai lõi sức mạnh biến ước mơ thành hiện thực: Băng Hoại và Trật Tự. Chuyển hình thái là hành động tự do, tối đa một lần mỗi lượt.",
+            "特殊效果": {
+              "1": "Tai Ách: Quyền Kỵ Sĩ và Cước Kỵ Sĩ hưởng Xung Kích cùng kiểu tăng sát thương gấp đôi(loại trừ lẫn nhau). mỗi lần trúng đòn tự cộng dồn [Băng Hoại] dấu ấn(giới hạn 5 tầng), mỗi tầngmỗi lượt 2d 6sát thương tuyệt đối. Trật Tự: sử dụng Trật Tựmệnh lệnh 2 lần/trậnkhống chếchiếntrận(tái cấu trúc địa hình/buff bản thân).",
+              "2": "Băng Hoại mỗi tầng 2d 6, giới hạn 5 tầng. mệnh lệnh 2 lần/trận.",
+              "3": "Băng Hoại mỗi tầng 2d 8, giới hạn 5 tầng; bỏ qua lá chắn. mệnh lệnh 3 lần/trận; buff bản thân: xóa trạng thái xấu, lượt sau Sức mạnh+4.",
+              "4": "Băng Hoại mỗi tầng 2d 8, giới hạn 5 tầng. mệnh lệnh 3 lần/trận.",
+              "5": "Băng Hoại mỗi tầng 2d 8, giới hạn 6 tầng; chuyển lan dây chuyềnphạm vi 20 thước. mệnh lệnh 3 lần/trận; tái cấu trúc địa hình, phạm vimở rộng tới 30x 30 thước.",
+              "6": "Băng Hoại mỗi tầng 3d 6, giới hạn 6 tầng. mệnh lệnh 4 lần/trận.",
+              "7": "Băng Hoại mỗi tầng 3d 6, giới hạn 6 tầng; bỏ qua kháng tính. mệnh lệnh 4 lần/trận; thanh tẩyđịa hình hồi phục 3d 6; địa hình giảm tốcbồi thêm 1d 6sát thương.",
+              "8": "Băng Hoại mỗi tầng 3d 8, giới hạn 6 tầng. mệnh lệnh 5 lần/trận.",
+              "9": "Băng Hoại mỗi tầng 3d 8, giới hạn 7 tầng; giảm một nửa đổi thành giảm 1/3. mệnh lệnh 5 lần/trận; buff bản thân kéo dài tới 2 lượt, Sức mạnh+4 Nhanh nhẹn+2.",
+              "10": "Băng Hoại mỗi tầng 3d 10, giới hạn 7 tầng; khi đầy tầng, giảm một nửasau đó giữ nguyênít nhất 3 tầng. mệnh lệnh 5 lần/trận; bồi thêm phản kíchđịa hình.",
+              "11": "Băng Hoại mỗi tầng 3d 10, giới hạn 7 tầng; liên kết dây chuyền toàn phầnchuyển dời. mệnh lệnh 6 lần/trận.",
+              "12": "Băng Hoại mỗi tầng 4d 8, giới hạn 7 tầng. mệnh lệnh 6 lần/trận.",
+              "13": "Băng Hoại mỗi tầng 4d 8, giới hạn 7 tầng; bỏ quakhung bất tử. mệnh lệnh 7 lần/trận; buff bản thân kéo dài tới 3 lượt, Sức mạnh+5 Nhanh nhẹn+3 Thể chất+2.",
+              "14": "Băng Hoại mỗi tầng 4d 10, giới hạn 7 tầng. mệnh lệnh 7 lần/trận.",
+              "15": "Băng Hoại mỗi tầng 4d 10, giới hạn 7 tầng; đầy tầngmiễn trừ Thể chất(D C=8+Sức mạnh), thất bại thìduy trìđầy tầng. mệnh lệnh 8 lần/trận; buff bản thânkhông tiêu haosố lần mệnh lệnh."
+            },
+            "阶位": "Tất sát"
+          },
+          {
+            "名称": "Viên Mộng Kép · Cước Tai Ách Băng Diệt",
+            "类型": "Chủ động",
+            "描述": "Kỹ năng độc quyền hình thái Tai Ách. Triệu con thú cưỡi ác mộng khổng lồ Băng Diệt Khung Chu nhảy lên không, rồi lao xuống tung Cước Kỵ Sĩ với lực phá hoại cực đại. Hệ số 3000%~5000%. Mỗi trận một lần (Lv.15 hai lần).",
+            "特殊效果": {
+              "1": "8d 12+Sức mạnh, hệ số 3000%. xuyên thấu 80%; lan sát thương 20 thước(30%); Băng Hoạisố tầng+3.",
+              "2": "8d 12+Sức mạnh, hệ số 3150%.",
+              "3": "9d 12+Sức mạnh, hệ số 3300%. xuyên thấu 85%.",
+              "4": "9d 12+Sức mạnh, hệ số 3450%.",
+              "5": "9d 12+Sức mạnh, hệ số 3600%. lan sát thươngmở rộng tới 25 thước.",
+              "6": "10d 12+Sức mạnh, hệ số 3750%.",
+              "7": "10d 12+Sức mạnh, hệ số 3900%. xuyên thấu 90%; Băng Hoại giảm trừ giáptăng lên 25%.",
+              "8": "10d 12+Sức mạnh, hệ số 4050%.",
+              "9": "11d 12+Sức mạnh, hệ số 4200%. lan sát thươngtỷ lệtăng lên 40%.",
+              "10": "11d 12+Sức mạnh, hệ số 4350%. xuyên thấu 95%; hai đoạnsát thương động đất 3d 10.",
+              "11": "12d 12+Sức mạnh, hệ số 4500%.",
+              "12": "12d 12+Sức mạnh, hệ số 4600%. lan sát thươngmở rộng tới 30 thước.",
+              "13": "13d 12+Sức mạnh, hệ số 4750%. xuyên thấu 100%; Băng Hoạisố tầng+5.",
+              "14": "13d 12+Sức mạnh, hệ số 4850%. Băng Hoại giảm trừ giáp 30%; sát thương động đấttăng lên 5d 10.",
+              "15": "14d 12+Sức mạnh, hệ số 5000%. xuyên thấu 150%(phần vượt chuyển thành sát thương chuẩn); lan sát thương 50%; đầy tầng Băng Hoạitrực tiếp kích hoạtmột lần Băng Hoạisát thương. mỗi trậncó thể dùng 2  lần."
+            },
+            "阶位": "Tất sát"
+          },
+          {
+            "名称": "Tam Trọng Tuyệt Pháo · Chung Kết Nghiền Nát Ba Lần",
+            "类型": "Chủ động",
+            "描述": "Vũ khí độc quyền hình thái Tai Ách. Lần lượt nạp ba viên mộng kỵ sĩ, bóp cò bắn ra quang đạn phá hoại siêu mạnh. Hệ số 3000%~4000%. Mỗi trận một lần (từ Lv.10 trở đi hai lần).",
+            "特殊效果": {
+              "1": "6d 12+Sức mạnh, hệ số 3000%. xuyên thấu 80%; lan sát thương 20 thước; Băng Hoại+2 tầng/tê liệtphán định/mệnh lệnh+1  lần.",
+              "2": "6d 12+Sức mạnh, hệ số 3100%.",
+              "3": "7d 12+Sức mạnh, hệ số 3200%. xuyên thấu 85%.",
+              "4": "7d 12+Sức mạnh, hệ số 3300%. lan sát thươngmở rộng tới 25 thước.",
+              "5": "8d 12+Sức mạnh, hệ số 3400%. cường hóa ba quỹ đạo: Băng Hoại+3 tầng/tê liệt D C-2/mệnh lệnh+2  lần.",
+              "6": "8d 12+Sức mạnh, hệ số 3500%.",
+              "7": "9d 12+Sức mạnh, hệ số 3600%. xuyên thấu 90%.",
+              "8": "9d 12+Sức mạnh, hệ số 3700%. lan sát thươngtỷ lệtăng lên 40%.",
+              "9": "10d 12+Sức mạnh, hệ số 3800%.",
+              "10": "10d 12+Sức mạnh, hệ số 3900%. xuyên thấu 95%; nếu có Song Ác Mộng thì Ultimate·Over·Finish(hệ sốx 1.3).",
+              "11": "11d 12+Sức mạnh, hệ số 3950%.",
+              "12": "11d 12+Sức mạnh, hệ số 4000%. lan sát thươngmở rộng tới 30 thước.",
+              "13": "12d 12+Sức mạnh, hệ số 4000%. xuyên thấu 100%; hiệu quả đầy đủ của ba quỹ đạo: Băng Hoại+5 tầng/tê liệtchắc chắn/mệnh lệnh+3  lần.",
+              "14": "12d 12+Sức mạnh, hệ số 4000%. lan sát thươngtỷ lệ 50%.",
+              "15": "13d 12+Sức mạnh, hệ số 4000%. Ultimate·Over·Finishhệ sốx 1.5; toàn bộ đoạnbỏ quagiảm sát thương. mỗi trậncó thể dùng 2  lần."
+            },
+            "阶位": "Tất sát"
+          }
+        ],
+        "奥义": [
+          {
+            "名称": "Siêu Mộng",
+            "类型": "Đặc biệt",
+            "描述": "Hiện thân cuối cùng của giấc mộng tối thượng. Hóa thành hình thái Siêu Mộng, mọi giới hạn hình thái được gỡ bỏ. Lĩnh vực Siêu Mộng có thể thao túng môi trường xung quanh, đòn tấn công của địch chịu bất lợi (Lv.15 bất lợi kép).",
+            "特殊效果": {
+              "1": "Sức mạnh+2, Nhanh nhẹn+2, Cảm nhận+3. lĩnh vực Siêu Mộng: hành động tự do thay đổiđịa hình; đòn tấn công của phe địch bất lợi.",
+              "2": "thuộc tính giống cấp 1.",
+              "3": "Sức mạnh+3, Nhanh nhẹn+3, Cảm nhận+4.",
+              "4": "Sức mạnh+3, Nhanh nhẹn+3, Cảm nhận+4. khống chế môi trường phạm vi+50%.",
+              "5": "thuộc tính giống cấp 4.",
+              "6": "Sức mạnh+4, Nhanh nhẹn+4, Cảm nhận+5.",
+              "7": "Sức mạnh+4, Nhanh nhẹn+4, Cảm nhận+5. khống chế môi trường có thểảnh hưởngtrọng lực.",
+              "8": "thuộc tính giống cấp 7.",
+              "9": "Sức mạnh+5, Nhanh nhẹn+5, Cảm nhận+6.",
+              "10": "Sức mạnh+5, Nhanh nhẹn+5, Cảm nhận+6. khống chế môi trường có thể như cấp trước, khi tạo hai loạiđịa hình.",
+              "11": "thuộc tính giống cấp 10.",
+              "12": "Sức mạnh+6, Nhanh nhẹn+6, Cảm nhận+7.",
+              "13": "Sức mạnh+6, Nhanh nhẹn+6, Cảm nhận+7. khống chế môi trường tự động có hiệu lực, không cần hành động.",
+              "14": "thuộc tính giống cấp 13.",
+              "15": "Sức mạnh+6, Nhanh nhẹn+6, Cảm nhận+9. đòn tấn công của phe địch bất lợi kép(lấy kết quả thấp nhất)."
+            },
+            "阶位": "Áo nghĩa"
+          },
+          {
+            "名称": "Cước Kỵ Sĩ Trật Tự · Kiến Tạo Băng Diệt",
+            "类型": "Chủ động",
+            "描述": "Đòn tối thượng của sức mạnh Trật Tự trong hình thái Siêu Mộng. Thao túng trọng lực bay lên không, chồng nhiều buff dùng một lần rồi lao xuống xuyên qua mục tiêu. Hệ số 3000%~5000%. Mỗi trận chỉ một lần.",
+            "特殊效果": {
+              "1": "15d 12+Sức mạnh, hệ số 3000%. bỏ qua 100% lá chắn và kháng tính; hệ số sát thươngthêmx 1.5; mục tiêukhông thể phản ứng/không miễn trừ; lan sát thương 25 thước(80% tỷ lệ).",
+              "2": "15d 12+Sức mạnh, hệ số 3100%.",
+              "3": "16d 12+Sức mạnh, hệ số 3200%. lan sát thươngmở rộng tới 30 thước.",
+              "4": "16d 12+Sức mạnh, hệ số 3300%.",
+              "5": "17d 12+Sức mạnh, hệ số 3400%. sát thương langiống cấp kiểubỏ qua kháng tính.",
+              "6": "17d 12+Sức mạnh, hệ số 3500%.",
+              "7": "18d 12+Sức mạnh, hệ số 3600%. lan sát thươngtỷ lệtăng lên 90%.",
+              "8": "18d 12+Sức mạnh, hệ số 3700%.",
+              "9": "19d 12+Sức mạnh, hệ số 3800%. Siêu Mộngquá tảivùng nhân riêngtăng lênx 1.8.",
+              "10": "19d 12+Sức mạnh, hệ số 3900%. lan sát thươngmở rộng tới 40 thước.",
+              "11": "20d 12+Sức mạnh, hệ số 4000%.",
+              "12": "20d 12+Sức mạnh, hệ số 4100%. lan sát thươngtỷ lệtăng lên 100%.",
+              "13": "21d 12+Sức mạnh, hệ số 4300%. mục tiêuchếtsau đótái cấu trúc thànhthanh tẩyđịa hình(đồng minhmỗi lượt hồi phục 5d 6sinh mệnh).",
+              "14": "21d 12+Sức mạnh, hệ số 4600%.",
+              "15": "22d 12+Sức mạnh, hệ số 5000%. Siêu Mộngquá tảivùng nhân riêngtăng lênx 2.0; lan sát thươngtoàn màn hình; thanh tẩyđịa hình hồi phục 8d 6."
+            },
+            "阶位": "Áo nghĩa"
+          },
+          {
+            "名称": "Dung Hợp Siêu Mộng · Khả Năng Vô Hạn",
+            "类型": "Chủ động",
+            "描述": "Dựa trên hình thái Paradigm Wonder. Giải phóng quyền hạn cuối của Siêu Mộng Driver, cộng hưởng giấc mộng với toàn bộ đơn vị đồng minh. Mỗi trận chỉ một lần.",
+            "特殊效果": {
+              "1": "toàn độicộng hưởng 3 lượt: tấn công+30%, giảm sát thương+30%, mỗi lượt hồi phục 15% sinh mệnh. bản thândung hợp Siêu Mộng 2 lượt: có thể dùngbất kỳ kỹ năng viên nàokỹ năngkhông hồi chiêu, 15% trúng tuyệt đối. kết liễutức tửphán định 20% trở xuống.",
+              "5": "hiệu ứng tăng ích nâng lêntớitấn công+40%, giảm sát thương+40%, hồi phục 20%. kết liễungưỡng tức tửtăng lên 25%.",
+              "10": "hiệu ứng tăng íchtấn công+50%, giảm sát thương+50%, hồi phục 25%. kết liễungưỡng tức tử 30%. bản thânmọi thuộc tính+3.",
+              "15": "hiệu ứng tăng íchtấn công+60%, giảm sát thương+60%, hồi phục 30%. kết liễungưỡng tức tửduy trì 30%(Bosssát thương 35%). bản thânmọi thuộc tính+5; trúng tuyệt đốixác suất 25%."
+            },
+            "阶位": "Áo nghĩa"
+          }
+        ],
+        "觉醒一": [
+          {
+            "名称": "Dung Hợp Ba Lần · Quá Tải Kỳ Tích",
+            "类型": "Đặc biệt",
+            "阶位": "Thức tỉnh một",
+            "描述": "Ba viên mộng cùng loại cộng hưởng dung hợp. Hai viên sau hóa thành năng lượng thuần túy truyền vào viên đầu tiên, thăng hoa thành viên dung hợp ba lần. Hệ số 2000%. Chủ động quá tải mỗi trận một lần.",
+            "特殊效果": {
+              "1": "ba tầng Xung Kích: Sức mạnh+10/Thể chất+10; bốnlầntăng sát thương(Quyền Kỵ Sĩ/Cước Kỵ Sĩx 4); tấn côngkèm Băng Hoại Xung Kíchsónglan sát thương 50%. chủ động quá tải 2 lượt: thuộc tínhtăng gấp đôi, trúng tuyệt đốilấy giá trị lớn nhấtsát thương. hồi chiêu 2 lượt."
+            }
+          }
+        ],
+        "觉醒二": [
+          {
+            "名称": "Lĩnh Vực Mộng Cảnh · Đêm Dài Minh Tỉnh",
+            "类型": "Chủ động",
+            "阶位": "Thức tỉnh hai",
+            "描述": "Giải phóng quyền hạn cuối của lucid dream, kéo mọi đơn vị trên sân vào Lĩnh Vực Mộng Minh Tỉnh do bạn hoàn toàn khống chế. Hệ số 3000%. Mỗi trận chỉ một lần.",
+            "特殊效果": {
+              "1": "lĩnh vực thời gian vô hạn; môi trườnghoàn toànchi phối; bay+dịch chuyển toàn vùng; kỹ nănghồi chiêugiảm một nửa; bịđơn vị bị kéo vàokhông thể thoát khỏi; bản thânbịđánh gụcthìlĩnh vựcsụp đổ rồi hôn mê 2 lượt; lĩnh vựctrongdung hợp Siêu Mộng/quá tải kỳ tíchkéo dàităng gấp đôi; Cước Kỵ Sĩsau khi trúng đònmục tiêukhông thểhồi phụcsinh mệnh."
+            }
+          }
+        ],
+        "觉醒三": [
+          {
+            "名称": "Thần · Mộng Cảnh Chính Là Hiện Thực",
+            "类型": "Đặc biệt",
+            "阶位": "Thức tỉnh ba",
+            "描述": "Cảnh giới tối thượng của lucid dream, nơi mộng cảnh trực tiếp phủ lên hiện thực. Hệ số 4000%. Luôn có hiệu lực, chỉ tạm lắng khi hoàn toàn hôn mê.",
+            "特殊效果": {
+              "1": "khống chế môi trường tầm nhìn toàn khu vựctự doviết lại; đòn tấn công của phe địch bất lợi ba tầng+tự động nélần đầuđòn gần/xa; miễn nhiễmtoàn bộkhống chế/bất lợitrạng thái; dịch chuyển tức thờichịu sát thương thay đồng minh; 60 thướchào quangđồng minhcùng hưởnggiảm sát thương 30%/trúng đòn+3/mỗi lượt hồi phục 8%."
+            }
+          }
+        ]
+      },
+      "skillTreeForClass": "Kamen Rider Zeztz (Đặc vụ)",
+      "lockedSkillMap": {},
+      "skillFlavorInput": "",
+      "teammates": [
+        {
+          "id": "t8"
+        }
+      ],
+      "customTeammate": null,
+      "selectedTraits": [],
+      "customTraits": [
+        {
+          "name": "Đặc vụ vô địch",
+          "effect": "Bạn đồng thời có hai thân phận nhận thức là hiện thực và mộng cảnh, có thể chuyển đổi liền mạch giữa hai kiểu tư duy. Sự quan sát thận trọng trong hiện thực khiến bạn miễn nhiễm mọi hiệu ứng dò xét và đọc tâm; niềm tự tin tuyệt đối trong mộng cảnh khiến miễn trừ trước các trạng thái xấu như sợ hãi, mê hoặc và hỗn loạn có ưu thế. Dư dả của giấc mộng tỉnh (mỗi trận giới hạn một lần): khi HP thấp hơn 50% thì kích hoạt, xóa toàn bộ trạng thái xấu có thể bị xua tan trên bản thân, đồng thời bỏ qua mọi sát thương chí tử trong lượt này. Thức tỉnh vô địch (mỗi trận giới hạn một lần, hành động tự do): trong 2 lượt, bạn không thể bị chỉ định làm mục tiêu trực tiếp (trừ tấn công diện rộng). Đòn tấn công đầu tiên của bạn chắc chắn trúng và chắc chắn trọng kích. Trong thời gian đó, nếu đánh giết bất kỳ mục tiêu nào thì thức tỉnh kéo dài thêm 1 lượt."
+        },
+        {
+          "name": "Giấc mộng tuyệt cảnh",
+          "effect": "Kích hoạt khi HP thấp hơn 20%: mọi sát thương tăng 50% (vùng nhân riêng); nhận 25% giảm trừ mọi sát thương (nhân chồng với Bộc Phát Duy Tâm/Viên Hồi Phục); khoảnh khắc kích hoạt hồi 5% sinh mệnh tối đa và nhận một lần dịch chuyển tức thời 15 thước theo hướng bất kỳ. Không hồi chiêu; khi HP hồi lên trên 20% thì tự động giải trừ, nếu bị ép xuống thấp lần nữa sẽ kích hoạt lại."
+        },
+        {
+          "name": "Kẻ thì thầm trong biển ý thức",
+          "effect": "Bạn sẽ không bị tập kích. Khi phe địch lần đầu tấn công bạn, hai bên tiến hành đối kháng Trí lực (đối phương lấy chỉ số cao hơn giữa Nhanh nhẹn và Sức hấp dẫn); nếu bạn thắng, mọi đòn tấn công của kẻ địch đó trong lượt này sẽ tự động đánh trượt bạn. Mỗi trận chiến, hiệu lực một lần riêng cho từng kẻ địch."
+        }
+      ],
+      "customExpertise": [],
+      "customIdentity": {
+        "enabled": true,
+        "name": "Thế giới Kamen Rider",
+        "desc": "Là một đặc vụ của thế giới mộng cảnh, nhưng trong hiện thực chỉ là người bình thường. Sau kết cục, mộng và hiện thực đều trở nên giống nhau; vào lúc đó, cậu được Tetto mời tới thế giới này.",
+        "tierIndex": 3
+      },
+      "selectedOpening": "traverse",
+      "customOpeningText": "",
+      "selectedDifficulty": "easy",
+      "customRace": {
+        "enabled": true,
+        "name": "Người dị giới",
+        "trait1": {
+          "name": "Kẻ thích hợp với giấc mộng vô hạn",
+          "detail": "Độc quyền Xung Kích - tăng sát thương gấp đôi (bị động thường trú): khi bạn dùng Quyền Kỵ Sĩ hoặc Cước Kỵ Sĩ (bao gồm bản cơ bản, bản cường hóa và mọi hành động lấy quyền kích/đá kích làm cốt lõi), nếu bạn đang nạp Viên Mộng Xung Kích, sát thương cuối cùng của đòn tấn công đó x2. Hiệu ứng này do đặc tính chủng tộc trao cho, độc lập với cơ chế chuyển Viên Mộng của driver, không thể bị bất kỳ hiệu ứng bên ngoài nào phong ấn, trộm lấy hoặc vô hiệu hóa. Trao đổi chất của giấc mộng tỉnh (bị động thường trú): tiêu hao thể lực của bạn cực thấp, tốc độ hồi phục vượt xa người thường. Mọi hành vi giảm 50% tiêu hao thể lực. Đầu mỗi lượt tự động hồi 5% sinh mệnh tối đa. Nghỉ cực ngắn (5 phút) là đủ hồi phục thể lực tương đương nghỉ dài bình thường (8 giờ).",
+          "negative": false
+        },
+        "trait2": {
+          "name": "Thân thể hoàn mỹ của minh mộng",
+          "detail": "Tetto, đừng quên cộng thuộc tính vĩnh viễn! Phán định trúng đòn +5 (đòn tấn công của bạn giống như tất yếu trong mộng cảnh, gần như không bao giờ hụt). Thể chất +5. Sức mạnh +5. Nhanh nhẹn +5. Cảm nhận +5. Sức hấp dẫn +5. Khi bạn chuyển Viên Mộng, mức tăng thuộc tính của viên mới sẽ cộng dồn với cộng thêm thuộc tính từ đặc tính chủng tộc này. Nếu bạn đang ở hình thái Siêu Mộng hoặc bất kỳ trạng thái thức tỉnh nào, giá trị cộng phán định trúng đòn tăng từ +5 lên +10, đồng thời mọi giá trị cộng thuộc tính được thêm +2. Trực giác của minh mộng: bạn không thể bị đánh lén; bất kỳ đòn tấn công phủ đầu nào nhắm vào bạn đều sẽ bị bạn cảm nhận ngay trước khi trúng và kịp phản ứng.",
+          "negative": false
+        }
+      }
+    }
+  }
+}

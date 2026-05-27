@@ -1,0 +1,415 @@
+{
+  "ok": true,
+  "preset": {
+    "id": "714329d7-3ccc-40de-84a5-0f3fcfdf30ec",
+    "ownerId": "1433939604439830690",
+    "ownerName": "ヾ(๑╹ヮ╹๑)ﾉ”-yuyu-Não Cá",
+    "author": "ヾ(๑╹ヮ╹๑)ﾉ”-yuyu-Não Cá",
+    "authorAvatar": "https://cdn.discordapp.com/avatars/1433939604439830690/74b35ddb207667a6006012f58042ceb9.png?size=128",
+    "name": "Trữ Quân",
+    "title": "Trữ Quân",
+    "intro": "Kết hợp bộ kỹ năng của Trữ Quân trong Slay the Spire 2, nhưng vì tôi hiểu chưa đủ sâu nên giữa các kỹ năng có thể không liên động nhiều lắm, còn có cả mấy kỹ năng bịa lung tung nữa, hì hì~ Không đảm bảo chơi sẽ thật đã đâu >ᴗoಣ\norz Chú Kiếm ơi, hãy quật khởi đi nào! ´ᯅ`\nChú ý!! Mô hình có thể tính sai tầng kỹ năng, nên lúc chơi đôi khi sẽ khá bí bách.",
+    "coverUrl": "/api/presets/714329d7-3ccc-40de-84a5-0f3fcfdf30ec/cover",
+    "className": "Trữ Quân Tinh Thần",
+    "race": "Chủng Quần Tinh",
+    "tags": [
+      "Chơi ý tưởng",
+      "Triệu hồi",
+      "Hy vọng mô hình thông minh hơn chút"
+    ],
+    "likes": 0,
+    "liked": false,
+    "downloads": 19,
+    "status": "published",
+    "createdAt": "2026-03-16 12:54:26",
+    "updatedAt": "2026-05-10 22:22:41",
+    "lastLikedAt": "",
+    "presetData": {
+      "name": "",
+      "gender": "Nam",
+      "age": 18,
+      "race": "__custom__",
+      "identity": "Kẻ bại trận vô danh",
+      "attributes": {
+        "strength": 10,
+        "dexterity": 14,
+        "constitution": 10,
+        "intelligence": 15,
+        "wisdom": 11,
+        "charisma": 11
+      },
+      "backstory": "",
+      "selectedLevelMode": "native",
+      "selectedCustomLevel": null,
+      "selectedSpawnPoint": "Đảo nổi trung tâm - hẻm sau thành bang Bạch Thạch",
+      "class": "Trữ Quân Tinh Thần",
+      "selectedBaseClass": "Nghề tùy chỉnh",
+      "customClassName": "Trữ Quân Tinh Thần",
+      "customClassStyle": "Slay the Spire 2 · Trữ Quân",
+      "customClassWeapon": "Pháp trượng",
+      "customClassCombatStyle": "Triệu hồi/Hỗ trợ",
+      "skillTree": {
+        "基础": [
+          {
+            "名称": "Ngôi Sao Dẫn Lối",
+            "类型": "Chủ động",
+            "描述": "Dẫn ánh sáng từ vì sao sáng đầu tiên trên trời cao để tấn công chính xác. Có thể tiêu hao tài nguyên sao để tăng thêm lực phá hoại.",
+            "特殊效果": {
+              "1": "tiêu hao 1 tầng「Huy Tinh」với 1 tầng「Nhật Diệu」, đòn tấn công nàygâytương đươngsát thương cơ bản 12% thêm sát thương cuối cùng.",
+              "2": "tiêu hao 1 tầng「Huy Tinh」với 1 tầng「Nhật Diệu」, đòn tấn công nàygâytương đươngsát thương cơ bản 12% thêm sát thương cuối cùng.",
+              "3": "tiêu hao 1 tầng「Huy Tinh」với 1 tầng「Nhật Diệu」, đòn tấn công nàygâytương đươngsát thương cơ bản 12% thêm sát thương cuối cùng.",
+              "4": "tiêu hao 1 tầng「Huy Tinh」với 1 tầng「Nhật Diệu」, đòn tấn công nàygâytương đươngsát thương cơ bản 12% thêm sát thương cuối cùng.",
+              "5": "tiêu hao 1 tầng「Huy Tinh」với 1 tầng「Nhật Diệu」, đòn tấn công nàygâytương đươngsát thương cơ bản 12% thêm sát thương cuối cùng.",
+              "6": "tiêu hao 1 tầng「Huy Tinh」với 1 tầng「Nhật Diệu」, đòn tấn công nàygâytương đươngsát thương cơ bản 12% thêm sát thương cuối cùng.",
+              "7": "tiêu hao 1 tầng「Huy Tinh」với 1 tầng「Nhật Diệu」, đòn tấn công nàygâytương đươngsát thương cơ bản 12% thêm sát thương cuối cùng.",
+              "8": "tiêu hao 1 tầng「Huy Tinh」với 1 tầng「Nhật Diệu」gâythêm sát thương cuối cùngnâng lên thành 15%, vàtrongtrúng đònkhu vựctạo raánh sáng mờtầm nhìn.",
+              "9": "tiêu hao 1 tầng「Huy Tinh」với 1 tầng「Nhật Diệu」gâythêm sát thương cuối cùngnâng lên thành 15%, vàtrongtrúng đònkhu vựctạo raánh sáng mờtầm nhìn.",
+              "10": "tiêu hao 1 tầng「Huy Tinh」với 1 tầng「Nhật Diệu」gâythêm sát thương cuối cùngnâng lên thành 15%, vàtrongtrúng đònkhu vựctạo raánh sáng mờtầm nhìn.",
+              "11": "tiêu hao 1 tầng「Huy Tinh」với 1 tầng「Nhật Diệu」gâythêm sát thương cuối cùngnâng lên thành 15%, vàtrongtrúng đònkhu vựctạo raánh sáng mờtầm nhìn.",
+              "12": "tiêu hao 1 tầng「Huy Tinh」với 1 tầng「Nhật Diệu」gâythêm sát thương cuối cùngnâng lên thành 15%, vàtrongtrúng đònkhu vựctạo raánh sáng mờtầm nhìn.",
+              "13": "tiêu hao 1 tầng「Huy Tinh」với 1 tầng「Nhật Diệu」gâythêm sát thương cuối cùngnâng lên thành 15%, vàtrongtrúng đònkhu vựctạo raánh sáng mờtầm nhìn.",
+              "14": "tiêu hao 1 tầng「Huy Tinh」với 1 tầng「Nhật Diệu」gâythêm sát thương cuối cùngnâng lên thành 15%, vàtrongtrúng đònkhu vựctạo raánh sáng mờtầm nhìn.",
+              "15": "tiêu hao 1 tầng「Huy Tinh」với 1 tầng「Nhật Diệu」gâythêm sát thương cuối cùngnâng lên thành 20%, và khiếnmục tiêu Nhanh nhẹnkiểm định miễn trừđang ởbất lợi."
+            },
+            "阶位": "Cơ bản"
+          },
+          {
+            "名称": "Huy Quang",
+            "类型": "Đặc biệt",
+            "描述": "Rút dư huy của mặt trời chuyển hóa thành ánh sáng sao, là kỹ năng chuyển hóa tài nguyên nền tảng duy trì hệ thống ma pháp tinh tú của Trữ Quân.",
+            "特殊效果": {
+              "1": "chínhhành độngthi triển, kéo dài 1 lượt. tiêu hao 1 tầng「Nhật Diệu」, lập tức nhận 3 tầng「Huy Tinh」.",
+              "2": "chínhhành độngthi triển, kéo dài 1 lượt. tiêu hao 1 tầng「Nhật Diệu」, lập tức nhận 3 tầng「Huy Tinh」, trong lượt D C miễn trừ+1.",
+              "3": "chínhhành độngthi triển, kéo dài 1 lượt. tiêu hao 1 tầng「Nhật Diệu」, lập tức nhận 5 tầng「Huy Tinh」, trong lượt D C miễn trừ+1.",
+              "4": "chínhhành độngthi triển, kéo dài 1 lượt. tiêu hao 1 tầng「Nhật Diệu」, lập tức nhận 5 tầng「Huy Tinh」, trong lượt D C miễn trừ+1, cấp giáp+1.",
+              "5": "chínhhành độngthi triển, kéo dài 1 lượt. tiêu hao 1 tầng「Nhật Diệu」, lập tức nhận 5 tầng「Huy Tinh」, trong lượt D C miễn trừ+1, cấp giáp+1.",
+              "6": "chínhhành độngthi triển, kéo dài 1 lượt. tiêu hao 1 tầng「Nhật Diệu」, lập tức nhận 7 tầng「Huy Tinh」, trong lượt D C miễn trừ+1, cấp giáp+1.",
+              "7": "chínhhành độngthi triển, kéo dài 1 lượt. tiêu hao 1 tầng「Nhật Diệu」, lập tức nhận 7 tầng「Huy Tinh」, trong lượt D C miễn trừ+2, cấp giáp+1.",
+              "8": "chínhhành độngthi triển, kéo dài 1 lượt. tiêu hao 1 tầng「Nhật Diệu」, lập tức nhận 7 tầng「Huy Tinh」, trong lượt D C miễn trừ+2, cấp giáp+1.",
+              "9": "chínhhành độngthi triển, kéo dài 1 lượt. tiêu hao 1 tầng「Nhật Diệu」, lập tức nhận 9 tầng「Huy Tinh」, trong lượt D C miễn trừ+2, cấp giáp+1.",
+              "10": "chínhhành độngthi triển, kéo dài 1 lượt. tiêu hao 1 tầng「Nhật Diệu」, lập tức nhận 9 tầng「Huy Tinh」, trong lượt D C miễn trừ+2, cấp giáp+2.",
+              "11": "chínhhành độngthi triển, kéo dài 1 lượt. tiêu hao 1 tầng「Nhật Diệu」, lập tức nhận 9 tầng「Huy Tinh」, trong lượt D C miễn trừ+2, cấp giáp+2.",
+              "12": "chínhhành độngthi triển, kéo dài 1 lượt. lần nàytạo rabiến chất, tiêu hao 0 tầng「Nhật Diệu」, lập tức nhận 11 tầng「Huy Tinh」, trong lượt D C miễn trừ+3, cấp giáp+2.",
+              "13": "chínhhành độngthi triển, kéo dài 1 lượt. tiêu hao 0 tầng「Nhật Diệu」, lập tức nhận 11 tầng「Huy Tinh」, trong lượt D C miễn trừ+3, cấp giáp+2, chịuđếnsát thương cuối cùnggiảm 5%.",
+              "14": "chínhhành độngthi triển, kéo dài 1 lượt. tiêu hao 0 tầng「Nhật Diệu」, lập tức nhận 11 tầng「Huy Tinh」, trong lượt D C miễn trừ+3, cấp giáp+2, chịuđếnsát thương cuối cùnggiảm 5%.",
+              "15": "chínhhành độngthi triển, kéo dài 1 lượt. tiêu hao 0 tầng「Nhật Diệu」, lập tức nhận 13 tầng「Huy Tinh」, trong lượt D C miễn trừ+3, cấp giáp+3, chịuđếnsát thương cuối cùnggiảm 10%."
+            },
+            "阶位": "Cơ bản"
+          },
+          {
+            "名称": "Chuỗi Tinh Vị",
+            "类型": "Đặc biệt",
+            "描述": "Sắp xếp lại quỹ đạo các vì sao, hy sinh số lượng sao để ngưng tụ huy quang rực rỡ như liệt dương.",
+            "特殊效果": {
+              "1": "chínhhành độngthi triển, kéo dài 1 lượt. tiêu hao 2 tầng「Huy Tinh」, nhận 2 tầng「Nhật Diệu」.",
+              "2": "chínhhành độngthi triển, kéo dài 1 lượt. tiêu hao 2 tầng「Huy Tinh」, nhận 2 tầng「Nhật Diệu」, kế tiếpmột lầnkiểm định tấn côngnhậnưu thế.",
+              "3": "chínhhành độngthi triển, kéo dài 1 lượt. tiêu hao 2 tầng「Huy Tinh」, nhận 4 tầng「Nhật Diệu」, kế tiếpmột lầnkiểm định tấn côngnhậnưu thế.",
+              "4": "chínhhành độngthi triển, kéo dài 1 lượt. tiêu hao 2 tầng「Huy Tinh」, nhận 4 tầng「Nhật Diệu」, kế tiếpmột lầnkiểm định tấn côngnhậnưu thếvàsát thương cuối cùng tăng 5%.",
+              "5": "chínhhành độngthi triển, kéo dài 1 lượt. tiêu hao 2 tầng「Huy Tinh」, nhận 4 tầng「Nhật Diệu」, kế tiếpmột lầnkiểm định tấn côngnhậnưu thếvàsát thương cuối cùng tăng 5%.",
+              "6": "chínhhành độngthi triển, kéo dài 1 lượt. tiêu hao 2 tầng「Huy Tinh」, nhận 6 tầng「Nhật Diệu」, kế tiếpmột lầnkiểm định tấn côngnhậnưu thếvàsát thương cuối cùng tăng 5%.",
+              "7": "chínhhành độngthi triển, kéo dài 1 lượt. tiêu hao 2 tầng「Huy Tinh」, nhận 6 tầng「Nhật Diệu」, kế tiếpmột lầnkiểm định tấn côngnhậnưu thếvàsát thương cuối cùng tăng 8%.",
+              "8": "chínhhành độngthi triển, kéo dài 1 lượt. tiêu hao 2 tầng「Huy Tinh」, nhận 6 tầng「Nhật Diệu」, kế tiếpmột lầnkiểm định tấn côngnhậnưu thếvàsát thương cuối cùng tăng 8%.",
+              "9": "chínhhành độngthi triển, kéo dài 1 lượt. tiêu hao 2 tầng「Huy Tinh」, nhận 8 tầng「Nhật Diệu」, kế tiếpmột lầnkiểm định tấn côngnhậnưu thếvàsát thương cuối cùng tăng 8%.",
+              "10": "chínhhành độngthi triển, kéo dài 1 lượt. tiêu hao 2 tầng「Huy Tinh」, nhận 8 tầng「Nhật Diệu」, kế tiếpmột lầnkiểm định tấn côngnhậnưu thếvàsát thương cuối cùng tăng 10%.",
+              "11": "chínhhành độngthi triển, kéo dài 1 lượt. tiêu hao 2 tầng「Huy Tinh」, nhận 8 tầng「Nhật Diệu」, kế tiếpmột lầnkiểm định tấn côngnhậnưu thếvàsát thương cuối cùng tăng 10%.",
+              "12": "chínhhành độngthi triển, kéo dài 1 lượt. lần nàytạo rabiến chất, tiêu hao 0 tầng「Huy Tinh」, nhận 10 tầng「Nhật Diệu」, kế tiếpmột lầnkiểm định tấn côngnhậnưu thếvàsát thương cuối cùng tăng 15%.",
+              "13": "chínhhành độngthi triển, kéo dài 1 lượt. tiêu hao 0 tầng「Huy Tinh」, nhận 10 tầng「Nhật Diệu」, kế tiếpmột lầnkiểm định tấn côngnhậnưu thếvàsát thương cuối cùng tăng 15%, bạo kíchphạm vimở rộnglớntới 19-20.",
+              "14": "chínhhành độngthi triển, kéo dài 1 lượt. tiêu hao 0 tầng「Huy Tinh」, nhận 10 tầng「Nhật Diệu」, kế tiếpmột lầnkiểm định tấn côngnhậnưu thếvàsát thương cuối cùng tăng 15%, bạo kíchphạm vimở rộnglớntới 19-20.",
+              "15": "chínhhành độngthi triển, kéo dài 1 lượt. tiêu hao 0 tầng「Huy Tinh」, nhận 12 tầng「Nhật Diệu」, kế tiếpmột lầnkiểm định tấn côngnhậnưu thếvàsát thương cuối cùng tăng 20%, bạo kíchphạm vimở rộnglớntới 19-20."
+            },
+            "阶位": "Cơ bản"
+          }
+        ],
+        "转职": [
+          {
+            "名称": "Lưỡi Kiếm Truy Tung",
+            "类型": "Đặc biệt nghề nghiệp",
+            "描述": "Trữ Quân dùng quyền bính thay đổi logic tìm địch của kiếm trận, biến một lần ám sát đơn lẻ thành chiến pháp trận liệt quét ngang ngàn quân.",
+            "特殊效果": {
+              "1": "chínhhành độngthi phápsau đólập tức nhận 7 tầng「Chú Kiếm」. bản thântrậntrêntất cả「kiếm của quân vương」chế độ tấn côngvĩnh viễntừđơn mục tiêusát thươngchuyển hóalàm AOEchém quétsát thương."
+            },
+            "阶位": "Chuyển nghề"
+          },
+          {
+            "名称": "Bức Xạ",
+            "类型": "Chủ động",
+            "描述": "Kích nổ tinh huy còn lưu trong cơ thể, ánh sáng lan ra như gợn nước, gây xung kích không phân biệt lên phạm vi lớn kẻ địch.",
+            "特殊效果": {
+              "1": "dựa trênbản thâncó「Huy Tinh」số tầng, mỗicó 1 tầng「Huy Tinh」, vào trong phạm vikẻ địchgâytương đương「Huy Tinh」số tầng× 3% sát thương AOE bổ sung.",
+              "2": "dựa trênbản thâncó「Huy Tinh」số tầng, mỗicó 1 tầng「Huy Tinh」, vào trong phạm vikẻ địchgâytương đương「Huy Tinh」số tầng× 3% sát thương AOE bổ sung.",
+              "3": "dựa trênbản thâncó「Huy Tinh」số tầng, mỗicó 1 tầng「Huy Tinh」, vào trong phạm vikẻ địchgâytương đương「Huy Tinh」số tầng× 3% sát thương AOE bổ sung.",
+              "4": "cơ bảnhệ sốtăng: mỗicó 1 tầng「Huy Tinh」, gâysát thương AOE bổ sunghệ sốnâng lên thành「Huy Tinh」số tầng× 4%.",
+              "5": "cơ bảnhệ sốtăng: mỗicó 1 tầng「Huy Tinh」, gâysát thương AOE bổ sunghệ sốnâng lên thành「Huy Tinh」số tầng× 4%.",
+              "6": "cơ bảnhệ sốtăng: mỗicó 1 tầng「Huy Tinh」, gâysát thương AOE bổ sunghệ sốnâng lên thành「Huy Tinh」số tầng× 4%.",
+              "7": "cơ bảnhệ sốtăng: mỗicó 1 tầng「Huy Tinh」, gâysát thương AOE bổ sunghệ sốnâng lên thành「Huy Tinh」số tầng× 5%.",
+              "8": "cơ bảnhệ sốtăng: mỗicó 1 tầng「Huy Tinh」, gâysát thương AOE bổ sunghệ sốnâng lên thành「Huy Tinh」số tầng× 5%.",
+              "9": "cơ bảnhệ sốtăng: mỗicó 1 tầng「Huy Tinh」, gâysát thương AOE bổ sunghệ sốnâng lên thành「Huy Tinh」số tầng× 5%.",
+              "10": "cơ bảnhệ sốtăng: gâysát thương AOE bổ sunghệ sốnâng lên thành「Huy Tinh」số tầng× 6%, vàsau khi trúng đònkhiếnmục tiêutốc độgiảm một nửa 1 lượt.",
+              "11": "cơ bảnhệ sốtăng: gâysát thương AOE bổ sunghệ sốnâng lên thành「Huy Tinh」số tầng× 6%, vàsau khi trúng đònkhiếnmục tiêutốc độgiảm một nửa 1 lượt.",
+              "12": "cơ bảnhệ sốtăng: gâysát thương AOE bổ sunghệ sốnâng lên thành「Huy Tinh」số tầng× 6%, vàsau khi trúng đònkhiếnmục tiêutốc độgiảm một nửa 1 lượt.",
+              "13": "cơ bảnhệ sốtăng: gâysát thương AOE bổ sunghệ sốnâng lên thành「Huy Tinh」số tầng× 6%, vàsau khi trúng đònkhiếnmục tiêutốc độgiảm một nửa 1 lượt.",
+              "14": "cơ bảnhệ sốtăng: gâysát thương AOE bổ sunghệ sốnâng lên thành「Huy Tinh」số tầng× 6%, vàsau khi trúng đònkhiếnmục tiêutốc độgiảm một nửa 1 lượt.",
+              "15": "gâysát thương AOE bổ sunghệ sốnâng lên thành「Huy Tinh」số tầng× 7%, bịkẻ địch trúng đònbắt buộcthực hiệnmiễn trừ Thể chất, thất bại thìthìrơi vào[mù]1 lượt."
+            },
+            "阶位": "Chuyển nghề"
+          },
+          {
+            "名称": "Sao Chổi",
+            "类型": "Chủ động",
+            "描述": "Triệu một sao chổi nặng từ quỹ đạo ngoài rơi xuống mặt đất, triệt để nghiền nát đội hình và hệ thống phòng ngự của địch.",
+            "特殊效果": {
+              "1": "tiêu hao 5 tầng「Huy Tinh」. khi trúng đònthêmgắn 3 tầng[suy yếu](Sức mạnhkiểm địnhbất lợi) với 3 tầng[dễ tổn thương](chịuđếnsát thương cuối cùng tăng 5%), kéo dài 2 lượt.",
+              "2": "tiêu hao 5 tầng「Huy Tinh」. khi trúng đònthêmgắn 3 tầng[suy yếu](Sức mạnhkiểm địnhbất lợi) với 3 tầng[dễ tổn thương](chịuđếnsát thương cuối cùng tăng 5%), kéo dài 2 lượt.",
+              "3": "tiêu hao 5 tầng「Huy Tinh」. khi trúng đònthêmgắn 3 tầng[suy yếu](Sức mạnhkiểm địnhbất lợi) với 3 tầng[dễ tổn thương](chịuđếnsát thương cuối cùng tăng 5%), kéo dài 2 lượt.",
+              "4": "gắn[suy yếu] và [dễ tổn thương] số tầngtăng lên thành 7 tầng(dễ tổn thươngmức khuếch đại đạt 10%).",
+              "5": "gắn[suy yếu] và [dễ tổn thương] số tầngtăng lên thành 7 tầng(dễ tổn thươngmức khuếch đại đạt 10%).",
+              "6": "gắn[suy yếu] và [dễ tổn thương] số tầngtăng lên thành 7 tầng(dễ tổn thươngmức khuếch đại đạt 10%).",
+              "7": "gắn[suy yếu] và [dễ tổn thương] số tầngtăng lên thành 11 tầng(dễ tổn thươngmức khuếch đại đạt 15%), và khi rơi xuống đấttạo ra 1 lượtchấn nhiếpkhống chế.",
+              "8": "gắn[suy yếu] và [dễ tổn thương] số tầngtăng lên thành 11 tầng(dễ tổn thươngmức khuếch đại đạt 15%), và khi rơi xuống đấttạo ra 1 lượtchấn nhiếpkhống chế.",
+              "9": "gắn[suy yếu] và [dễ tổn thương] số tầngtăng lên thành 11 tầng(dễ tổn thươngmức khuếch đại đạt 15%), và khi rơi xuống đấttạo ra 1 lượtchấn nhiếpkhống chế.",
+              "10": "gắn[suy yếu] và [dễ tổn thương] số tầngtăng lên thành 11 tầng(dễ tổn thươngmức khuếch đại đạt 15%), và khi rơi xuống đấttạo ra 1 lượtchấn nhiếpkhống chế.",
+              "11": "gắn[suy yếu] và [dễ tổn thương] số tầngtăng lên thành 11 tầng(dễ tổn thươngmức khuếch đại đạt 15%), và khi rơi xuống đấttạo ra 1 lượtchấn nhiếpkhống chế.",
+              "12": "gắn[suy yếu] và [dễ tổn thương] số tầngtăng lên thành 11 tầng(dễ tổn thươngmức khuếch đại đạt 15%), và khi rơi xuống đấttạo ra 1 lượtchấn nhiếpkhống chế.",
+              "13": "gắn[suy yếu] và [dễ tổn thương] số tầngtăng lên thành 11 tầng(dễ tổn thươngmức khuếch đại đạt 15%), và khi rơi xuống đấttạo ra 1 lượtchấn nhiếpkhống chế.",
+              "14": "gắn[suy yếu] và [dễ tổn thương] số tầngtăng lên thành 11 tầng(dễ tổn thươngmức khuếch đại đạt 15%), và khi rơi xuống đấttạo ra 1 lượtchấn nhiếpkhống chế.",
+              "15": "gắn[suy yếu] và [dễ tổn thương] số tầngtăng lên thành 15 tầng(dễ tổn thươngmức khuếch đại đạt 25%), vàkhu vực trung tâmkẻ địchbịcưỡng chế đánh gục."
+            },
+            "阶位": "Chuyển nghề"
+          },
+          {
+            "名称": "Vương Tọa Phong Ấn",
+            "类型": "Đặc biệt",
+            "描述": "Ngồi lên vương tọa phong ấn giữa hư không, cưỡng ép đồng hóa pháp tắc quanh thân thành luống ươm của quần tinh.",
+            "特殊效果": {
+              "1": "tiêu hao 1 tầng「Huy Tinh」với 3 tầng「Nhật Diệu」, nhận[vương tọa] trạng thái, kéo dài 3 lượt. trong thời gian đókhi bắt đầu mỗi lượttự độngnhận 3 tầng「Huy Tinh」.",
+              "2": "tiêu hao 1 tầng「Huy Tinh」với 3 tầng「Nhật Diệu」, nhận[vương tọa] trạng thái, kéo dài 3 lượt. trong thời gian đókhi bắt đầu mỗi lượttự độngnhận 4 tầng「Huy Tinh」.",
+              "3": "tiêu hao 1 tầng「Huy Tinh」với 3 tầng「Nhật Diệu」, nhận[vương tọa] trạng thái, kéo dài 4 lượt. trong thời gian đókhi bắt đầu mỗi lượttự độngnhận 4 tầng「Huy Tinh」.",
+              "4": "tiêu hao 1 tầng「Huy Tinh」với 3 tầng「Nhật Diệu」, nhận[vương tọa] trạng thái, kéo dài 4 lượt. trong thời gian đókhi bắt đầu mỗi lượttự độngnhận 4 tầng「Huy Tinh」, đang ở[vương tọa]khi Trí lựckiểm định+1.",
+              "5": "tiêu hao 1 tầng「Huy Tinh」với 3 tầng「Nhật Diệu」, nhận[vương tọa] trạng thái, kéo dài 4 lượt. trong thời gian đókhi bắt đầu mỗi lượttự độngnhận 5 tầng「Huy Tinh」, đang ở[vương tọa]khi Trí lựckiểm định+1.",
+              "6": "tiêu hao 1 tầng「Huy Tinh」với 3 tầng「Nhật Diệu」, nhận[vương tọa] trạng thái, kéo dài 4 lượt. trong thời gian đókhi bắt đầu mỗi lượttự độngnhận 5 tầng「Huy Tinh」, đang ở[vương tọa]khi Trí lựckiểm định+1.",
+              "7": "tiêu hao 1 tầng「Huy Tinh」với 3 tầng「Nhật Diệu」, nhận[vương tọa] trạng thái, kéo dài 5 lượt. trong thời gian đókhi bắt đầu mỗi lượttự độngnhận 5 tầng「Huy Tinh」, đang ở[vương tọa]khi Trí lựckiểm định+2.",
+              "8": "tiêu hao 1 tầng「Huy Tinh」với 3 tầng「Nhật Diệu」, nhận[vương tọa] trạng thái, kéo dài 5 lượt. trong thời gian đókhi bắt đầu mỗi lượttự độngnhận 6 tầng「Huy Tinh」, đang ở[vương tọa]khi Trí lựckiểm định+2.",
+              "9": "tiêu hao 1 tầng「Huy Tinh」với 3 tầng「Nhật Diệu」, nhận[vương tọa] trạng thái, kéo dài 5 lượt. trong thời gian đókhi bắt đầu mỗi lượttự độngnhận 6 tầng「Huy Tinh」, đang ở[vương tọa]khi Trí lựckiểm định+2.",
+              "10": "tiêu hao 1 tầng「Huy Tinh」với 3 tầng「Nhật Diệu」, nhận[vương tọa] trạng thái, kéo dài 5 lượt. trong thời gian đókhi bắt đầu mỗi lượttự độngnhận 6 tầng「Huy Tinh」, đang ở[vương tọa]khi Trí lựckiểm định+3.",
+              "11": "tiêu hao 1 tầng「Huy Tinh」với 3 tầng「Nhật Diệu」, nhận[vương tọa] trạng thái, kéo dài 6 lượt. trong thời gian đókhi bắt đầu mỗi lượttự độngnhận 7 tầng「Huy Tinh」, đang ở[vương tọa]khi Trí lựckiểm định+3.",
+              "12": "tiêu hao 1 tầng「Huy Tinh」với 3 tầng「Nhật Diệu」, nhận[vương tọa] trạng thái, kéo dài 6 lượt. trong thời gian đókhi bắt đầu mỗi lượttự độngnhận 7 tầng「Huy Tinh」, đang ở[vương tọa]khi Trí lựckiểm định+3.",
+              "13": "tiêu hao 1 tầng「Huy Tinh」với 3 tầng「Nhật Diệu」, nhận[vương tọa] trạng thái, kéo dài 6 lượt. trong thời gian đókhi bắt đầu mỗi lượttự độngnhận 8 tầng「Huy Tinh」, đang ở[vương tọa]khi Trí lựckiểm định+4.",
+              "14": "tiêu hao 1 tầng「Huy Tinh」với 3 tầng「Nhật Diệu」, nhận[vương tọa] trạng thái, kéo dài 7 lượt. trong thời gian đókhi bắt đầu mỗi lượttự độngnhận 8 tầng「Huy Tinh」, đang ở[vương tọa]khi Trí lựckiểm định+4.",
+              "15": "tiêu hao 1 tầng「Huy Tinh」với 3 tầng「Nhật Diệu」, nhận[vương tọa] trạng thái, kéo dài 7 lượt. trong thời gian đókhi bắt đầu mỗi lượttự độngnhận 9 tầng「Huy Tinh」, đang ở[vương tọa]khi Trí lựckiểm định+4, miễn nhiễmtất cảvị trídịch chuyểnvàcưỡng chếkhống chếtrạng thái."
+            },
+            "阶位": "Chuyển nghề"
+          }
+        ],
+        "进阶": [
+          {
+            "名称": "Trưng Triệu Tiến Lên",
+            "类型": "Triệu hồi",
+            "描述": "Mở khe nứt kho vũ khí hư không, gọi thanh danh kiếm tượng trưng cho quyền lực tuyệt đối giáng xuống chiến trường.",
+            "召唤物名称": "kiếm của quân vương",
+            "特殊效果": {
+              "1": "trongô chỉ địnhtriệu hồi 1thanh「kiếm của quân vương」, nócólượt hành động độc lập. triệu hồikhibản thânlập tức nhận 8 tầng「Chú Kiếm」.",
+              "2": "trongô chỉ địnhtriệu hồi 1thanh「kiếm của quân vương」, nócólượt hành động độc lập. triệu hồikhibản thânlập tức nhận 8 tầng「Chú Kiếm」.",
+              "3": "trongô chỉ địnhtriệu hồi 1thanh「kiếm của quân vương」, nócólượt hành động độc lập. triệu hồikhibản thânlập tức nhận 8 tầng「Chú Kiếm」.",
+              "4": "triệu hồi 2thanh「kiếm của quân vương」, và「kiếm của quân vương」kiểm định trúng đòn+1. bản thânlập tức nhận 8 tầng「Chú Kiếm」.",
+              "5": "triệu hồi 2thanh「kiếm của quân vương」, và「kiếm của quân vương」kiểm định trúng đòn+1. bản thânlập tức nhận 8 tầng「Chú Kiếm」.",
+              "6": "triệu hồi 2thanh「kiếm của quân vương」, và「kiếm của quân vương」kiểm định trúng đòn+1. bản thânlập tức nhận 8 tầng「Chú Kiếm」.",
+              "7": "triệu hồi 3thanh「kiếm của quân vương」, 「kiếm của quân vương」kiểm định trúng đòn+2vànhậnlá chắn ánh sáng mờ. bản thânlập tức nhận 8 tầng「Chú Kiếm」.",
+              "8": "triệu hồi 3thanh「kiếm của quân vương」, 「kiếm của quân vương」kiểm định trúng đòn+2vànhậnlá chắn ánh sáng mờ. bản thânlập tức nhận 8 tầng「Chú Kiếm」.",
+              "9": "triệu hồi 3thanh「kiếm của quân vương」, 「kiếm của quân vương」kiểm định trúng đòn+2vànhậnlá chắn ánh sáng mờ. bản thânlập tức nhận 8 tầng「Chú Kiếm」.",
+              "10": "triệu hồi 3thanh「kiếm của quân vương」, 「kiếm của quân vương」kiểm định trúng đòn+2vànhậnlá chắn ánh sáng mờ. bản thânlập tức nhận 8 tầng「Chú Kiếm」."
+            },
+            "阶位": "Nâng cao"
+          },
+          {
+            "名称": "Kẻ Chinh Phục",
+            "类型": "Đặc biệt",
+            "描述": "Tuyên bố chủ quyền lãnh thổ của quân vương, dùng uy áp vương quyền mãnh liệt để trong thời gian rất ngắn rút lấy ý chí binh khí trên chiến trường, chuyển hóa thành lượng lớn dự trữ Chú Kiếm.",
+            "特殊效果": {
+              "1": "chínhhành độngthi pháp, lập tức nhận 5 tầng「Chú Kiếm」, kéo dài 3 lượt. trong thời gian đótất cảvật triệu hồigâysát thương cuối cùng tăng 5%.",
+              "2": "chínhhành độngthi pháp, lập tức nhận 6 tầng「Chú Kiếm」, kéo dài 3 lượt. trong thời gian đótất cảvật triệu hồigâysát thương cuối cùng tăng 5%.",
+              "3": "chínhhành độngthi pháp, lập tức nhận 8 tầng「Chú Kiếm」, kéo dài 3 lượt. trong thời gian đótất cảvật triệu hồigâysát thương cuối cùng tăng 8%.",
+              "4": "chínhhành độngthi pháp, lập tức nhận 9 tầng「Chú Kiếm」, kéo dài 3 lượt. trong thời gian đótất cảvật triệu hồigâysát thương cuối cùng tăng 8%.",
+              "5": "chínhhành độngthi pháp, lập tức nhận 11 tầng「Chú Kiếm」, kéo dài 4 lượt. trong thời gian đótất cảvật triệu hồigâysát thương cuối cùng tăng 10%.",
+              "6": "chínhhành độngthi pháp, lập tức nhận 12 tầng「Chú Kiếm」, kéo dài 4 lượt. trong thời gian đótất cảvật triệu hồigâysát thương cuối cùng tăng 10%.",
+              "7": "chínhhành độngthi pháp, lập tức nhận 14 tầng「Chú Kiếm」, kéo dài 4 lượt. trong thời gian đótất cảvật triệu hồigâysát thương cuối cùng tăng 12%.",
+              "8": "chínhhành độngthi pháp, lập tức nhận 15 tầng「Chú Kiếm」, kéo dài 4 lượt. trong thời gian đótất cảvật triệu hồigâysát thương cuối cùng tăng 12%.",
+              "9": "chínhhành độngthi pháp, lập tức nhận 17 tầng「Chú Kiếm」, kéo dài 5 lượt. trong thời gian đótất cảvật triệu hồigâysát thương cuối cùng tăng 15%.",
+              "10": "chínhhành độngthi pháp, lập tức nhận 20 tầng「Chú Kiếm」, kéo dài 5 lượt. trong thời gian đótất cảvật triệu hồigâysát thương cuối cùng tăng 15%."
+            },
+            "阶位": "Nâng cao"
+          },
+          {
+            "名称": "Phán Quyết Mưa Kiếm",
+            "类型": "Chủ động",
+            "描述": "Nâng trượng hạ lệnh xóa sổ; toàn bộ kiếm của quân vương nghe lệnh lao tới khu vực chỉ định, phát động phối hợp đâm xuyên như mưa bão.",
+            "特殊效果": {
+              "1": "tiêu hao toàn bộ「Chú Kiếm」số tầng. mỗitiêu hao 1 tầng, trậntrên「kiếm của quân vương」bồi thêmmột lầnphán địnhsát thương. nếumục tiêuđang ở[dễ tổn thương], mỗimộtkíchkèmgiảm tốchiệu quả.",
+              "2": "tiêu hao toàn bộ「Chú Kiếm」số tầng. mỗitiêu hao 1 tầng, trậntrên「kiếm của quân vương」bồi thêmmột lầnphán địnhsát thương. nếumục tiêuđang ở[dễ tổn thương], mỗimộtkíchkèmgiảm tốchiệu quả.",
+              "3": "tiêu hao toàn bộ「Chú Kiếm」số tầng. mỗitiêu hao 1 tầng, trậntrên「kiếm của quân vương」bồi thêmmột lầnphán địnhsát thương. nếumục tiêuđang ở[dễ tổn thương], mỗimộtkíchkèmgiảm tốchiệu quả.",
+              "4": "tiêu hao toàn bộ「Chú Kiếm」số tầng. mỗitiêu hao 1 tầng, trậntrên「kiếm của quân vương」bồi thêmmột lầnphán địnhsát thương. nếumục tiêuđang ở[dễ tổn thương], mỗimộtkíchkèmgiảm tốchiệu quả.",
+              "5": "tiêu hao toàn bộ「Chú Kiếm」số tầng. mỗitiêu hao 1 tầng, trậntrên「kiếm của quân vương」bồi thêmmột lầnphán địnhsát thương. nếumục tiêuđang ở[dễ tổn thương], mỗimộtkíchkèmgiảm tốchiệu quả.",
+              "6": "tiêu hao toàn bộ「Chú Kiếm」số tầng. mỗitiêu hao 1 tầng, trậntrên「kiếm của quân vương」bồi thêmmột lầnphán địnhsát thương. nếumục tiêuđang ở[dễ tổn thương], mỗimộtkíchkèmgiảm tốchiệu quả.",
+              "7": "tiêu hao toàn bộ「Chú Kiếm」số tầng. mỗitiêu hao 1 tầng, trậntrên「kiếm của quân vương」bồi thêmmột lầnphán địnhsát thương. nếumục tiêuđang ở[dễ tổn thương], mỗimộtkíchkèmgiảm tốchiệu quả.",
+              "8": "tiêu hao toàn bộ「Chú Kiếm」số tầng. mỗitiêu hao 1 tầng, trậntrên「kiếm của quân vương」bồi thêmmột lầnphán địnhsát thương. nếumục tiêuđang ở[dễ tổn thương], mỗimộtkíchkèmgiảm tốchiệu quả.",
+              "9": "tiêu hao toàn bộ「Chú Kiếm」số tầng. mỗitiêu hao 1 tầng, trậntrên「kiếm của quân vương」bồi thêmmột lầnphán địnhsát thương. nếumục tiêuđang ở[dễ tổn thương], mỗimộtkíchkèmgiảm tốchiệu quả.",
+              "10": "tiêu hao toàn bộ「Chú Kiếm」số tầng. mỗitiêu hao 1 tầng, trậntrên「kiếm của quân vương」bồi thêmmột lầnphán địnhsát thương. nếumục tiêuđang ở[dễ tổn thương], mỗimộtkíchkèmgiảm tốchiệu quả."
+            },
+            "阶位": "Nâng cao"
+          }
+        ],
+        "必杀": [
+          {
+            "名称": "Thất Tinh",
+            "类型": "Chủ động",
+            "描述": "Thắp sáng mệnh cách Bắc Đẩu Thất Tinh, trút bảy luồng quỹ đạo không thể ngăn cản xuống hiện thế. Đây là thủ đoạn hủy diệt thuần túy nhất của Trữ Quân.",
+            "特殊效果": {
+              "1": "tiêu hao 7 tầng「Huy Tinh」với 2 tầng「Nhật Diệu」, vào phạm vi lớnkhu vựcthực hiệnliên tục 7 lầnsát thương AOEkiểm định. vào đang ở[suy yếu]mục tiêu, mỗimột lầnkiểm định D C miễn trừthêm+2.",
+              "2": "tiêu hao 7 tầng「Huy Tinh」với 2 tầng「Nhật Diệu」, vào phạm vi lớnkhu vựcthực hiệnliên tục 7 lầnsát thương AOEkiểm định. vào đang ở[suy yếu]mục tiêu, mỗimột lầnkiểm định D C miễn trừthêm+2.",
+              "3": "tiêu hao 7 tầng「Huy Tinh」với 2 tầng「Nhật Diệu」, vào phạm vi lớnkhu vựcthực hiệnliên tục 7 lầnsát thương AOEkiểm định. vào đang ở[suy yếu]mục tiêu, mỗimột lầnkiểm định D C miễn trừthêm+2.",
+              "4": "tiêu hao 7 tầng「Huy Tinh」với 2 tầng「Nhật Diệu」, vào phạm vi lớnkhu vựcthực hiệnliên tục 7 lầnsát thương AOEkiểm định. vào đang ở[suy yếu]mục tiêu, mỗimột lầnkiểm định D C miễn trừthêm+2.",
+              "5": "tiêu hao 7 tầng「Huy Tinh」với 2 tầng「Nhật Diệu」, vào phạm vi lớnkhu vựcthực hiệnliên tục 7 lầnsát thương AOEkiểm định. vào đang ở[suy yếu]mục tiêu, mỗimột lầnkiểm định D C miễn trừthêm+2.",
+              "6": "tiêu hao 7 tầng「Huy Tinh」với 2 tầng「Nhật Diệu」, vào phạm vi lớnkhu vựcthực hiệnliên tục 7 lầnsát thương AOEkiểm định. vào đang ở[suy yếu]mục tiêu, mỗimột lầnkiểm định D C miễn trừthêm+2.",
+              "7": "tiêu hao 7 tầng「Huy Tinh」với 2 tầng「Nhật Diệu」, vào phạm vi lớnkhu vựcthực hiệnliên tục 7 lầnsát thương AOEkiểm định. vào đang ở[suy yếu]mục tiêu, mỗimột lầnkiểm định D C miễn trừthêm+2."
+            },
+            "阶位": "Tất sát"
+          },
+          {
+            "名称": "Dẫn Lực Tinh Thể",
+            "类型": "Chủ động",
+            "描述": "Bóp nặn một hố đen vi mô trong không gian chỉ định, vô tình kéo mọi vật chất và kẻ phản nghịch xung quanh về trung tâm.",
+            "特殊效果": {
+              "1": "tiêu hao 3 tầng「Nhật Diệu」, tạo ramột kéo dài 2 lượtvòng xoáy hấp dẫn. trong phạm vikẻ địchmỗi lượtcầnthực hiệnmiễn trừ Sức mạnh, thất bại thìthìbịbị cưỡng chế kéo về trung tâm 2 ôvà[trói buộc].",
+              "2": "tiêu hao 3 tầng「Nhật Diệu」, tạo ramột kéo dài 2 lượtvòng xoáy hấp dẫn. trong phạm vikẻ địchmỗi lượtcầnthực hiệnmiễn trừ Sức mạnh, thất bại thìthìbịbị cưỡng chế kéo về trung tâm 2 ôvà[trói buộc].",
+              "3": "tiêu hao 3 tầng「Nhật Diệu」, tạo ramột kéo dài 2 lượtvòng xoáy hấp dẫn. trong phạm vikẻ địchmỗi lượtcầnthực hiệnmiễn trừ Sức mạnh, thất bại thìthìbịbị cưỡng chế kéo về trung tâm 2 ôvà[trói buộc].",
+              "4": "tiêu hao 3 tầng「Nhật Diệu」, tạo ramột kéo dài 2 lượtvòng xoáy hấp dẫn. trong phạm vikẻ địchmỗi lượtcầnthực hiệnmiễn trừ Sức mạnh, thất bại thìthìbịbị cưỡng chế kéo về trung tâm 2 ôvà[trói buộc].",
+              "5": "tiêu hao 3 tầng「Nhật Diệu」, tạo ramột kéo dài 2 lượtvòng xoáy hấp dẫn. trong phạm vikẻ địchmỗi lượtcầnthực hiệnmiễn trừ Sức mạnh, thất bại thìthìbịbị cưỡng chế kéo về trung tâm 2 ôvà[trói buộc].",
+              "6": "tiêu hao 3 tầng「Nhật Diệu」, tạo ramột kéo dài 2 lượtvòng xoáy hấp dẫn. trong phạm vikẻ địchmỗi lượtcầnthực hiệnmiễn trừ Sức mạnh, thất bại thìthìbịbị cưỡng chế kéo về trung tâm 2 ôvà[trói buộc].",
+              "7": "tiêu hao 3 tầng「Nhật Diệu」, tạo ramột kéo dài 2 lượtvòng xoáy hấp dẫn. trong phạm vikẻ địchmỗi lượtcầnthực hiệnmiễn trừ Sức mạnh, thất bại thìthìbịbị cưỡng chế kéo về trung tâm 2 ôvà[trói buộc]."
+            },
+            "阶位": "Tất sát"
+          },
+          {
+            "名称": "Quân Thế Của Vua",
+            "类型": "Triệu hồi",
+            "描述": "Thổi vang tù và hư không; những bóng ma kỵ sĩ hoàng kim từng thề trung thành với Vương Tọa Tinh Thần sẽ cưỡi chiến mã ánh sao nghiền nát trận địch.",
+            "召唤物名称": "Kỵ Sĩ Tinh Túcụm",
+            "特殊效果": {
+              "1": "tiêu hao toàn bộ「Nhật Diệu」, mỗitiêu hao 2 tầngtriệu hồi 1người「Kỵ Sĩ Tinh Tú」. kỵ sĩcócực caosát thương xung phongvàcó thểcưỡng chếthay đổidịch chuyển phe địch.",
+              "2": "tiêu hao toàn bộ「Nhật Diệu」, mỗitiêu hao 2 tầngtriệu hồi 1người「Kỵ Sĩ Tinh Tú」. kỵ sĩcócực caosát thương xung phongvàcó thểcưỡng chếthay đổidịch chuyển phe địch.",
+              "3": "tiêu hao toàn bộ「Nhật Diệu」, mỗitiêu hao 2 tầngtriệu hồi 1người「Kỵ Sĩ Tinh Tú」. kỵ sĩcócực caosát thương xung phongvàcó thểcưỡng chếthay đổidịch chuyển phe địch.",
+              "4": "tiêu hao toàn bộ「Nhật Diệu」, mỗitiêu hao 2 tầngtriệu hồi 1người「Kỵ Sĩ Tinh Tú」. kỵ sĩcócực caosát thương xung phongvàcó thểcưỡng chếthay đổidịch chuyển phe địch.",
+              "5": "tiêu hao toàn bộ「Nhật Diệu」, mỗitiêu hao 2 tầngtriệu hồi 1người「Kỵ Sĩ Tinh Tú」. kỵ sĩcócực caosát thương xung phongvàcó thểcưỡng chếthay đổidịch chuyển phe địch.",
+              "6": "tiêu hao toàn bộ「Nhật Diệu」, mỗitiêu hao 2 tầngtriệu hồi 1người「Kỵ Sĩ Tinh Tú」. kỵ sĩcócực caosát thương xung phongvàcó thểcưỡng chếthay đổidịch chuyển phe địch.",
+              "7": "tiêu hao toàn bộ「Nhật Diệu」, mỗitiêu hao 2 tầngtriệu hồi 1người「Kỵ Sĩ Tinh Tú」. kỵ sĩcócực caosát thương xung phongvàcó thểcưỡng chếthay đổidịch chuyển phe địch."
+            },
+            "阶位": "Tất sát"
+          }
+        ],
+        "奥义": [
+          {
+            "名称": "Vũ Trụ Sụp Đổ",
+            "类型": "Chủ động",
+            "描述": "Tước đoạt pháp tắc không gian trong khu vực chỉ định, mô phỏng điểm kết thúc khi vũ trụ tiến tới nhiệt tịch và sụp đổ. Sức mạnh này đủ nghiền nát lý trí lẫn thân thể phàm nhân.",
+            "特殊效果": {
+              "1": "tiêu hao toàn bộ「Huy Tinh」, mỗi tầngkhiếnsát thương cơ bảnhệ sốtăng 5%. vào khu vực mục tiêugâymang tính hủy diệtsát thương trường lực, trực tiếpphá hủykhu vựctrongtất cảkhông phảitường ma phápvớivật che chắn.",
+              "2": "tiêu hao toàn bộ「Huy Tinh」, mỗi tầngkhiếnsát thương cơ bảnhệ sốtăng 5%. vào khu vực mục tiêugâymang tính hủy diệtsát thương trường lực, trực tiếpphá hủykhu vựctrongtất cảkhông phảitường ma phápvớivật che chắn.",
+              "3": "tiêu hao toàn bộ「Huy Tinh」, mỗi tầngkhiếnsát thương cơ bảnhệ sốtăng 5%. vào khu vực mục tiêugâymang tính hủy diệtsát thương trường lực, trực tiếpphá hủykhu vựctrongtất cảkhông phảitường ma phápvớivật che chắn.",
+              "4": "tiêu hao toàn bộ「Huy Tinh」, mỗi tầngkhiếnsát thương cơ bảnhệ sốtăng 5%. vào khu vực mục tiêugâymang tính hủy diệtsát thương trường lực, trực tiếpphá hủykhu vựctrongtất cảkhông phảitường ma phápvớivật che chắn.",
+              "5": "tiêu hao toàn bộ「Huy Tinh」, mỗi tầngkhiếnsát thương cơ bảnhệ sốtăng 5%. vào khu vực mục tiêugâymang tính hủy diệtsát thương trường lực, trực tiếpphá hủykhu vựctrongtất cảkhông phảitường ma phápvớivật che chắn."
+            },
+            "阶位": "Áo nghĩa"
+          },
+          {
+            "名称": "Tinh Trận Tử Tuyệt",
+            "类型": "Chủ động",
+            "描述": "Dùng quyền trượng khắc pháp trận chỉ hoàng tộc tinh tú mới có thể giải đọc xuống mặt đất. Kẻ tự tiện bước vào cấm khu tất sẽ đón nhận phán quyết của tinh huy.",
+            "特殊效果": {
+              "1": "bố trímộtvùngbán kính 40 thướctrận pháp tinh tú, kéo dài 4 lượt. đang ởnókẻ địchmỗi lượtcộng dồn 1 tầngkhông thể xua tan[suy yếu], vàtrongcố gắngbước ra khỏiranh giới pháp trậnkhigây ravụ nổ dữ dộibịđẩy lùivềtrung tâm.",
+              "2": "bố trímộtvùngbán kính 40 thướctrận pháp tinh tú, kéo dài 4 lượt. đang ởnókẻ địchmỗi lượtcộng dồn 1 tầngkhông thể xua tan[suy yếu], vàtrongcố gắngbước ra khỏiranh giới pháp trậnkhigây ravụ nổ dữ dộibịđẩy lùivềtrung tâm.",
+              "3": "bố trímộtvùngbán kính 40 thướctrận pháp tinh tú, kéo dài 4 lượt. đang ởnókẻ địchmỗi lượtcộng dồn 1 tầngkhông thể xua tan[suy yếu], vàtrongcố gắngbước ra khỏiranh giới pháp trậnkhigây ravụ nổ dữ dộibịđẩy lùivềtrung tâm.",
+              "4": "bố trímộtvùngbán kính 40 thướctrận pháp tinh tú, kéo dài 4 lượt. đang ởnókẻ địchmỗi lượtcộng dồn 1 tầngkhông thể xua tan[suy yếu], vàtrongcố gắngbước ra khỏiranh giới pháp trậnkhigây ravụ nổ dữ dộibịđẩy lùivềtrung tâm.",
+              "5": "bố trímộtvùngbán kính 40 thướctrận pháp tinh tú, kéo dài 4 lượt. đang ởnókẻ địchmỗi lượtcộng dồn 1 tầngkhông thể xua tan[suy yếu], vàtrongcố gắngbước ra khỏiranh giới pháp trậnkhigây ravụ nổ dữ dộibịđẩy lùivềtrung tâm."
+            },
+            "阶位": "Áo nghĩa"
+          },
+          {
+            "名称": "Quân Lâm Thiên Hạ",
+            "类型": "Triệu hồi",
+            "描述": "Trực tiếp triệu phần hình chiếu cục bộ của mẫu hạm tinh không hoặc vũ trang tinh hạch khổng lồ giáng lâm; cái bóng đồ sộ của nó bao phủ toàn bộ chiến trường.",
+            "召唤物名称": "nền tảng tiêu diệt tinh hạch",
+            "特殊效果": {
+              "1": "mỗi trận chiếngiới hạn 1  lần. triệu hồikhổng lồlớnnền tảng tinh hạchchiếm giữchiếntrậnphía trên, nền tảngmỗi lượttự độngtiêu hao「Nhật Diệu」phóngtia truy dấu, vàtất cả「kiếm của quân vương」nhận[lơ lửng] và [bất tử] trạng thái.",
+              "2": "mỗi trận chiếngiới hạn 1  lần. triệu hồikhổng lồlớnnền tảng tinh hạchchiếm giữchiếntrậnphía trên, nền tảngmỗi lượttự độngtiêu hao「Nhật Diệu」phóngtia truy dấu, vàtất cả「kiếm của quân vương」nhận[lơ lửng] và [bất tử] trạng thái.",
+              "3": "mỗi trận chiếngiới hạn 1  lần. triệu hồikhổng lồlớnnền tảng tinh hạchchiếm giữchiếntrậnphía trên, nền tảngmỗi lượttự độngtiêu hao「Nhật Diệu」phóngtia truy dấu, vàtất cả「kiếm của quân vương」nhận[lơ lửng] và [bất tử] trạng thái.",
+              "4": "mỗi trận chiếngiới hạn 1  lần. triệu hồikhổng lồlớnnền tảng tinh hạchchiếm giữchiếntrậnphía trên, nền tảngmỗi lượttự độngtiêu hao「Nhật Diệu」phóngtia truy dấu, vàtất cả「kiếm của quân vương」nhận[lơ lửng] và [bất tử] trạng thái.",
+              "5": "mỗi trận chiếngiới hạn 1  lần. triệu hồikhổng lồlớnnền tảng tinh hạchchiếm giữchiếntrậnphía trên, nền tảngmỗi lượttự độngtiêu hao「Nhật Diệu」phóngtia truy dấu, vàtất cả「kiếm của quân vương」nhận[lơ lửng] và [bất tử] trạng thái."
+            },
+            "阶位": "Áo nghĩa"
+          }
+        ],
+        "觉醒一": [
+          {
+            "名称": "Tinh Hà Rực Rỡ · Con Đường Gia Miện",
+            "类型": "Chủ động",
+            "阶位": "Thức tỉnh một",
+            "描述": "Cởi bỏ lớp áo non trẻ của “Trữ Quân” và chính thức nhận gia miện của quần tinh. Kích nổ toàn bộ Huy Tinh, Nhật Diệu và tầng Chú Kiếm trên sân, dựa vào tổng tài nguyên tiêu hao để giáng một lần chế tài chân lý phủ toàn bản đồ.",
+            "特殊效果": {
+              "1": "không"
+            }
+          }
+        ],
+        "觉醒二": [
+          {
+            "名称": "Chúa Tể Ngân Hà · Vương Tọa Tinh Khung",
+            "类型": "Chủ động",
+            "阶位": "Thức tỉnh hai",
+            "描述": "Vương tọa chân lý rơi xuống từ tinh khung bị xé mở, thay đổi màu nền căn bản của toàn bộ chiến dịch. Trong lĩnh vực tinh khung này, bạn không cần bất kỳ vòng tuần hoàn tài nguyên tiền đề nào; mỗi lần vung trượng đều tương đương ném ra trọng lượng của cả một hệ sao.",
+            "特殊效果": {
+              "1": "không"
+            }
+          }
+        ],
+        "觉醒三": [
+          {
+            "名称": "Vạn Giới Quy Nhất · Trụ Sáng Thế",
+            "类型": "Chủ động",
+            "阶位": "Thức tỉnh ba",
+            "描述": "Vượt qua cực hạn của vương quyền, trở thành người đại hành cho chính khái niệm vũ trụ. Từ hư vô triệu Trụ Sáng Thế thai nghén vạn vật, vừa sáng tạo thế giới mới vừa xóa sạch khỏi vị diện hiện tại mọi tồn tại bất kính với bạn.",
+            "特殊效果": {
+              "1": "không"
+            }
+          }
+        ]
+      },
+      "skillTreeForClass": "Trữ quân tinh tú",
+      "lockedSkillMap": {},
+      "skillFlavorInput": "Kỹ năng cơ bản\nHuy Quang (hiệu ứng đặc biệt)\nTiêu hao 1 tầng 「Nhật Diệu」 để nhận 3 tầng 「Huy Tinh」.\nMỗi 3 cấp, số tầng 「Huy Tinh」 cộng thêm 2.\nTừ cấp 12-15, tiêu hao 「Nhật Diệu」 bằng 0.\nChuỗi Vị Trí Sao (hiệu ứng đặc biệt)\nTiêu hao 2 tầng 「Huy Tinh」 để nhận 2 tầng 「Nhật Diệu」.\nMỗi khi tăng 3 cấp, số tầng 「Nhật Diệu」 cộng thêm 2.\nTừ cấp 12-15, tiêu hao 「Huy Tinh」 bằng 0.\nSao Dẫn Đường (kỹ năng sát thương)\nTiêu hao 1 tầng 「Huy Tinh」 và 1 tầng 「Nhật Diệu」.\nGây 12 điểm sát thương phụ.\nKỹ năng chuyển nghề\nBức Xạ (kỹ năng sát thương)\nMỗi khi có 1 tầng 「Huy Tinh」, gây sát thương phụ AOE bằng 「Huy Tinh」*3.\nMỗi khi tăng 3 cấp, sát thương phụ AOE được tính bằng 「Huy Tinh」*(3+1).\nPhong Ấn Vương Tọa (hiệu ứng đặc biệt)\nTiêu hao 1 tầng 「Huy Tinh」 và 3 tầng 「Nhật Diệu」 để nhận 「Vương Tọa」.\n「Vương Tọa」 mỗi lượt tăng 3 tầng 「Huy Tinh」.\nSao Chổi (kỹ năng sát thương)\nTiêu hao 5 tầng 「Huy Tinh」, gây 33 điểm sát thương và trao cho phe địch 3 tầng hư nhược cùng 3 tầng dễ tổn thương.\nMỗi khi tăng 3 cấp, hư nhược và dễ tổn thương tăng thêm 4 tầng.\nKỹ năng nâng cao\nTrưng Triệu Tiến Lên (kỹ năng triệu hồi)\nTriệu hồi 「Kiếm Quân Vương」 và nhận 8 tầng 「Chú Kiếm」.\nMỗi khi tăng 3 cấp, số 「Kiếm Quân Vương」 được triệu hồi tăng thêm 1 thanh.\nLưỡi Đao Truy Tung (hiệu ứng đặc biệt, không thể nâng cấp)\nNhận 7 tầng 「Chú Kiếm」, khiến 「Kiếm Quân Vương」 từ sát thương đơn mục tiêu chuyển thành sát thương AOE.\nKẻ Chinh Phục (hiệu ứng đặc biệt)\nNhận 20 tầng 「Chú Kiếm」.\nKỹ năng tất sát\nThất Tinh (kỹ năng sát thương)\nTiêu hao 7 tầng 「Huy Tinh」 và 2 tầng 「Nhật Diệu」, gây sát thương AOE *7.",
+      "teammates": [],
+      "customTeammate": null,
+      "selectedTraits": [
+        "Quý duệ bẩm sinh"
+      ],
+      "customTraits": [],
+      "customExpertise": [],
+      "customIdentity": null,
+      "selectedOpening": "traverse",
+      "customOpeningText": "",
+      "selectedDifficulty": "normal",
+      "customRace": {
+        "enabled": true,
+        "name": "Chủng Quần Tinh",
+        "trait1": {
+          "name": "Nhật Diệu và Huy Tinh",
+          "detail": "Mỗi tầng 「Nhật Diệu」 nhận 1% miễn thương vật lý, mỗi tầng 「Huy Tinh」 nhận 1% miễn thương ma pháp. Giới hạn số tầng của 「Huy Tinh」 và 「Nhật Diệu」 là 60 tầng.\nMỗi lượt chiến đấu bắt đầu tăng 3 tầng 「Nhật Diệu」 và 4 tầng 「Huy Tinh」.\nSau khi chiến đấu kết thúc, số tầng 「Huy Tinh」 và 「Nhật Diệu」 được xóa về 0.",
+          "negative": false
+        },
+        "trait2": {
+          "name": "Chú Kiếm",
+          "detail": "Mỗi tầng 「Chú Kiếm」 cung cấp 10% tăng sát thương triệu hồi; sau khi chiến đấu kết thúc, số tầng được xóa về 0.",
+          "negative": false
+        }
+      }
+    },
+    "downloadUrl": "/api/presets/714329d7-3ccc-40de-84a5-0f3fcfdf30ec/file"
+  }
+}

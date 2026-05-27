@@ -1,0 +1,448 @@
+{
+  "ok": true,
+  "preset": {
+    "id": "33e0e5a0-39e4-4eb2-aa88-ca0c9f172796",
+    "ownerId": "1463439454080467131",
+    "ownerName": "Bọ Rùa Bảy Sao",
+    "author": "Bọ Rùa Bảy Sao",
+    "authorAvatar": "https://cdn.discordapp.com/avatars/1463439454080467131/3b0fa57f9a76fd88e399c0bfbab93ee9.png?size=128",
+    "name": "Attack on Titan",
+    "title": "Attack on Titan",
+    "intro": "Bộ kỹ năng cực giản, chuyên thích phối 3.1. Bản thân nghề nghiệp có lẽ chỉ là người bình thường, có thể biến thành titan nhưng có hiệu ứng phụ. Đi kèm đồng đội Mikasa Ackerman, hình như hơi mạnh... cứ ăn bám đi!",
+    "coverUrl": "/api/presets/33e0e5a0-39e4-4eb2-aa88-ca0c9f172796/cover",
+    "className": "Quân Đoàn Trinh Sát",
+    "race": "Hậu duệ của Ymir",
+    "tags": [
+      "Bộc phát",
+      "Dọn quái"
+    ],
+    "likes": 1,
+    "liked": false,
+    "downloads": 15,
+    "status": "published",
+    "createdAt": "2026-04-03 11:03:02",
+    "updatedAt": "2026-05-10 02:56:16",
+    "lastLikedAt": "",
+    "presetData": {
+      "name": "Chris Wu",
+      "gender": "Nam",
+      "age": 18,
+      "race": "__custom__",
+      "identity": "__custom__",
+      "attributes": {
+        "strength": 15,
+        "dexterity": 15,
+        "constitution": 11,
+        "intelligence": 10,
+        "wisdom": 10,
+        "charisma": 10
+      },
+      "backstory": "",
+      "selectedLevelMode": "custom",
+      "selectedCustomLevel": 1,
+      "selectedSpawnPoint": "Khu mâm tán cây · hành lang lá xanh",
+      "class": "Quân Đoàn Trinh Sát",
+      "selectedBaseClass": "Nghề nghiệp tùy chỉnh",
+      "customClassName": "Quân Đoàn Trinh Sát",
+      "customClassStyle": "Yêu cầu sinh kỹ năng:\n1. Hiệu quả kỹ năng bắt buộc nhấn rõ đó là đòn đơn mục tiêu, kỹ năng AOE toàn sân hay AOE nhiều mục tiêu; tuyệt đối không sinh kỹ năng cần nhiều đoạn phán định và nhiều lần tấn công; không sinh bất kỳ kỹ năng nào liên quan tới giảm hồi chiêu.\n2. Kỹ năng được sinh phải ghi rõ trị số. Nếu sau khi tấn công có gắn debuff, bắt buộc ghi rõ trị số miễn trừ của debuff đó, ví dụ miễn trừ Thể chất DC15. Nếu gắn theo xác suất, phải viết trị số xác suất cụ thể.\n3. Tổng số debuff do mọi kỹ năng tạo ra không vượt quá 3 loại, buff trao cho bản thân không vượt quá 3 loại.\n4. Kỹ năng cần ghi rõ phạm vi tấn công và số ô di chuyển.\n5. Các trị số liên quan sát thương không viết bằng phần trăm: ví dụ tăng 10% tỷ lệ bạo kích = ngưỡng bạo kích -1, tăng 25% sát thương bạo kích = sát thương bạo kích +0.25. Không có kiểm định né tránh, chỉ có tăng AC. Trừ khi phán định của kỹ năng bản thân cần địch thực hiện miễn trừ thuộc tính, ví dụ khi trúng mục tiêu để gắn trạng thái cần miễn trừ Thể chất, nếu không thì không sinh hiệu quả khiến miễn trừ thuộc tính của địch chịu bất lợi; tăng ích cũng tương tự.\n6. Kỹ năng không được tăng sinh mệnh tối đa, chỉ có thể hồi phục sinh mệnh hoặc cung cấp sinh mệnh tạm thời.\n7. Mô tả kỹ năng không phóng đại, không dùng văn phong tô vẽ, không đánh giá chủ quan, chỉ mô tả khách quan cách tấn công. Mô tả kỹ năng không viết trị số chi tiết; trị số chỉ ghi trong hiệu quả đặc biệt.\n8. Trong hiệu quả đặc biệt của kỹ năng, tên trạng thái cần bọc bằng [], trước [] ghi rõ thời gian duy trì trạng thái, sau [] dùng ngoặc () ghi rõ hiệu quả trạng thái. Ví dụ với kỹ năng “X”:\n- Mô tả: Đòn đơn mục tiêu, dùng thiết bị cơ động lập thể áp sát nhanh mục tiêu địch, rút song đao chém về phía trước, có xác suất khiến địch tàn phế.\n- Hiệu quả đặc biệt (hiệu quả khi đầy cấp): Đột tiến 8 ô, sau khi tấn công trúng đòn, địch cần thực hiện miễn trừ Thể chất DC17; thất bại thì nhận 3 lượt [Tàn phế] (thứ tự hành động lùi lại 1 vị trí).\n- Chú ý: Hiệu quả trạng thái, sát thương DOT và giới hạn tầng đều cố định để tránh AI treo máy; nâng cấp kỹ năng chỉ tăng sát thương kỹ năng và số lượt duy trì trạng thái.\n9. Nếu xét liên động kỹ năng, thì dù là cơ bản, chuyển nghề, tất sát hay áo nghĩa, ba kỹ năng trong nhóm lần này đều phải hình thành vòng liên động kỹ năng hoàn chỉnh. Không được để cơ chế trong ba kỹ năng tất sát còn cần phát động kỹ năng cơ bản mới kích hoạt. Kỹ năng thức tỉnh chỉ cần xét liên động với tất sát và áo nghĩa.",
+      "customClassWeapon": "Song nhận hợp kim",
+      "customClassCombatStyle": "Cận chiến vật lý",
+      "skillTree": {
+        "基础": [
+          {
+            "名称": "Triển Khai Cơ Động Lập Thể",
+            "类型": "Đặc biệt",
+            "描述": "Bắn móc neo lên cao và kéo bản thân vút lên để giành quyền khống chế trên không. Cung cấp tư thế tác chiến cơ bản và tạo môi trường cho các chuỗi liên chiêu phía sau.",
+            "特殊效果": {
+              "1": "chủ động mởsau đó, nhận 2 lượt[ưu thế trên cao](khi di chuyển bỏ qua cản trở địa hình, AC+1).",
+              "2": "chủ động mởsau đó, nhận 2 lượt[ưu thế trên cao](khi di chuyển bỏ qua cản trở địa hình, AC+1).",
+              "3": "chủ động mởsau đó, nhận 3 lượt[ưu thế trên cao](khi di chuyển bỏ qua cản trở địa hình, AC+1).",
+              "4": "chủ động mởsau đó, nhận 3 lượt[ưu thế trên cao](khi di chuyển bỏ qua cản trở địa hình, AC+1).",
+              "5": "chủ động mởsau đó, nhận 3 lượt[ưu thế trên cao](khi di chuyển bỏ qua cản trở địa hình, AC+2).",
+              "6": "chủ động mởsau đó, nhận 3 lượt[ưu thế trên cao](khi di chuyển bỏ qua cản trở địa hình, AC+2).",
+              "7": "chủ động mởsau đó, nhận 4 lượt[ưu thế trên cao](khi di chuyển bỏ qua cản trở địa hình, AC+2).",
+              "8": "chủ động mởsau đó, nhận 4 lượt[ưu thế trên cao](khi di chuyển bỏ qua cản trở địa hình, AC+2).",
+              "9": "chủ động mởsau đó, nhận 4 lượt[ưu thế trên cao](khi di chuyển bỏ qua cản trở địa hình, AC+2, ngưỡng bạo kích-1).",
+              "10": "chủ động mởsau đó, nhận 4 lượt[ưu thế trên cao](khi di chuyển bỏ qua cản trở địa hình, AC+2, ngưỡng bạo kích-1).",
+              "11": "chủ động mởsau đó, nhận 5 lượt[ưu thế trên cao](khi di chuyển bỏ qua cản trở địa hình, AC+2, ngưỡng bạo kích-1).",
+              "12": "chủ động mởsau đó, nhận 5 lượt[ưu thế trên cao](khi di chuyển bỏ qua cản trở địa hình, AC+3, ngưỡng bạo kích-1).",
+              "13": "chủ động mởsau đó, nhận 5 lượt[ưu thế trên cao](khi di chuyển bỏ qua cản trở địa hình, AC+3, ngưỡng bạo kích-1).",
+              "14": "chủ động mởsau đó, nhận 6 lượt[ưu thế trên cao](khi di chuyển bỏ qua cản trở địa hình, AC+3, ngưỡng bạo kích-1).",
+              "15": "chủ động mởsau đó, nhận 6 lượt[ưu thế trên cao](khi di chuyển bỏ qua cản trở địa hình, AC+3, ngưỡng bạo kích-1, phán định trúng đòncóưu thế)."
+            },
+            "阶位": "Cơ bản"
+          },
+          {
+            "名称": "Bắn Móc Neo",
+            "类型": "Chủ động",
+            "描述": "Đòn đơn mục tiêu: bắn neo cố định vào cơ thể mục tiêu, sau đó dùng gas thu dây để áp sát nhanh, làm lộ sơ hở phòng thủ của nó.",
+            "特殊效果": {
+              "1": "phạm vi tấn công 6 ô. đòn tấn công đơn lẻsau khi trúng đòn, gâysát thương vật lý cơ bản, có 50% xác suấtgắn 1 lượt[lộ điểm yếu](chịuđếnsát thương cuối cùng+10%).",
+              "2": "phạm vi tấn công 6 ô. đòn tấn công đơn lẻsau khi trúng đòn, gâysát thương vật lý cơ bản, sát thương cuối cùng+5%, có 55% xác suấtgắn 1 lượt[lộ điểm yếu](chịuđếnsát thương cuối cùng+10%).",
+              "3": "phạm vi tấn công 6 ô. đòn tấn công đơn lẻsau khi trúng đòn, gâysát thương vật lý cơ bản, sát thương cuối cùng+10%, có 60% xác suấtgắn 1 lượt[lộ điểm yếu](chịuđếnsát thương cuối cùng+10%).",
+              "4": "phạm vi tấn công 6 ô. đòn tấn công đơn lẻsau khi trúng đòn, gâysát thương vật lý cơ bản, sát thương cuối cùng+10%, có 65% xác suấtgắn 2 lượt[lộ điểm yếu](chịuđếnsát thương cuối cùng+10%).",
+              "5": "phạm vi tấn công 6 ô. đòn tấn công đơn lẻsau khi trúng đòn, gâysát thương vật lý cơ bản, sát thương cuối cùng+15%, có 70% xác suấtgắn 2 lượt[lộ điểm yếu](chịuđếnsát thương cuối cùng+10%).",
+              "6": "phạm vi tấn công 7 ô. đòn tấn công đơn lẻsau khi trúng đòn, gâysát thương vật lý cơ bản, sát thương cuối cùng+15%, có 75% xác suấtgắn 2 lượt[lộ điểm yếu](chịuđếnsát thương cuối cùng+10%).",
+              "7": "phạm vi tấn công 7 ô. đòn tấn công đơn lẻsau khi trúng đòn, gâysát thương vật lý cơ bản, sát thương cuối cùng+20%, có 80% xác suấtgắn 2 lượt[lộ điểm yếu](chịuđếnsát thương cuối cùng+10%).",
+              "8": "phạm vi tấn công 7 ô. đòn tấn công đơn lẻsau khi trúng đòn, gâysát thương vật lý cơ bản, sát thương cuối cùng+20%, có 85% xác suấtgắn 3 lượt[lộ điểm yếu](chịuđếnsát thương cuối cùng+10%).",
+              "9": "phạm vi tấn công 7 ô. đòn tấn công đơn lẻsau khi trúng đòn, gâysát thương vật lý cơ bản, sát thương cuối cùng+25%, có 90% xác suấtgắn 3 lượt[lộ điểm yếu](chịuđếnsát thương cuối cùng+10%).",
+              "10": "phạm vi tấn công 8 ô. đòn tấn công đơn lẻsau khi trúng đòn, gâysát thương vật lý cơ bản, sát thương cuối cùng+30%, nếubản thânđang ở[ưu thế trên cao] trạng thái, chắc chắngắn 3 lượt[lộ điểm yếu](chịuđếnsát thương cuối cùng+10%).",
+              "11": "phạm vi tấn công 8 ô. đòn tấn công đơn lẻsau khi trúng đòn, gâysát thương vật lý cơ bản, sát thương cuối cùng+35%, nếubản thânđang ở[ưu thế trên cao] trạng thái, chắc chắngắn 3 lượt[lộ điểm yếu](chịuđếnsát thương cuối cùng+10%).",
+              "12": "phạm vi tấn công 8 ô. đòn tấn công đơn lẻsau khi trúng đòn, gâysát thương vật lý cơ bản, sát thương cuối cùng+40%, nếubản thânđang ở[ưu thế trên cao] trạng thái, chắc chắngắn 4 lượt[lộ điểm yếu](chịuđếnsát thương cuối cùng+10%).",
+              "13": "phạm vi tấn công 8 ô. đòn tấn công đơn lẻsau khi trúng đòn, gâysát thương vật lý cơ bản, sát thương cuối cùng+45%, nếubản thânđang ở[ưu thế trên cao] trạng thái, chắc chắngắn 4 lượt[lộ điểm yếu](chịuđếnsát thương cuối cùng+10%).",
+              "14": "phạm vi tấn công 8 ô. đòn tấn công đơn lẻsau khi trúng đòn, gâysát thương vật lý cơ bản, sát thương cuối cùng+50%, nếubản thânđang ở[ưu thế trên cao] trạng thái, chắc chắngắn 4 lượt[lộ điểm yếu](chịuđếnsát thương cuối cùng+10%).",
+              "15": "phạm vi tấn công 10 ô. đòn tấn công đơn lẻsau khi trúng đòn, gâysát thương vật lý cơ bản, sát thương cuối cùng+60%, nếubản thânđang ở[ưu thế trên cao] trạng thái, chắc chắngắn 4 lượt[lộ điểm yếu](chịuđếnsát thương cuối cùng+10%), vàsẽbản thânlập tứckéo tớimục tiêuô cận chiến."
+            },
+            "阶位": "Cơ bản"
+          },
+          {
+            "名称": "Trảm Kích Xoay Vòng",
+            "类型": "Chủ động",
+            "描述": "AOE nhiều mục tiêu: rút song nhận, mượn quán tính của bộ cơ động để thực hiện một vòng chém ngang phạm vi rộng. Dùng để kích nổ dấu yếu điểm.",
+            "特殊效果": {
+              "1": "đột tiến 3 ô, vào xung quanh bản thân 1 ôtrong phạm vitất cảkẻ địchgâymột lầnvật lýsát thương.",
+              "2": "đột tiến 3 ô, vào xung quanh bản thân 1 ôtrong phạm vitất cảkẻ địchgâymột lầnvật lýsát thương, sát thương cuối cùng+5%.",
+              "3": "đột tiến 3 ô, vào xung quanh bản thân 1 ôtrong phạm vitất cảkẻ địchgâymột lầnvật lýsát thương, sát thương cuối cùng+10%.",
+              "4": "đột tiến 3 ô, vào xung quanh bản thân 1 ôtrong phạm vitất cảkẻ địchgâymột lầnvật lýsát thương, nếumục tiêucó mang[lộ điểm yếu], sát thương cuối cùngthêm+5%.",
+              "5": "đột tiến 4 ô, vào xung quanh bản thân 1 ôtrong phạm vitất cảkẻ địchgâymột lầnvật lýsát thương, nếumục tiêucó mang[lộ điểm yếu], sát thương cuối cùngthêm+5%.",
+              "6": "đột tiến 4 ô, vào xung quanh bản thân 1 ôtrong phạm vitất cảkẻ địchgâymột lầnvật lýsát thương, nếumục tiêucó mang[lộ điểm yếu], sát thương cuối cùngthêm+10%.",
+              "7": "đột tiến 4 ô, vào xung quanh bản thân 1 ôtrong phạm vitất cảkẻ địchgâymột lầnvật lýsát thương, nếumục tiêucó mang[lộ điểm yếu], sát thương cuối cùngthêm+10%.",
+              "8": "đột tiến 4 ô, vào xung quanh bản thân 2 ôtrong phạm vitất cảkẻ địchgâymột lầnvật lýsát thương, nếumục tiêucó mang[lộ điểm yếu], sát thương cuối cùngthêm+15%.",
+              "9": "đột tiến 4 ô, vào xung quanh bản thân 2 ôtrong phạm vitất cảkẻ địchgâymột lầnvật lýsát thương, nếumục tiêucó mang[lộ điểm yếu], sát thương cuối cùngthêm+15%.",
+              "10": "đột tiến 5 ô, vào xung quanh bản thân 2 ôtrong phạm vitất cảkẻ địchgâymột lầnvật lýsát thương, nếumục tiêucó mang[lộ điểm yếu], sát thương cuối cùngthêm+20%, và khiếnnó Thể chất D C miễn trừ 14, thất bại thìthìloại bỏ[lộ điểm yếu]vàgâyđịnh thân ngắn.",
+              "11": "đột tiến 5 ô, vào xung quanh bản thân 2 ôtrong phạm vitất cảkẻ địchgâymột lầnvật lýsát thương, nếumục tiêucó mang[lộ điểm yếu], sát thương cuối cùngthêm+25%, và khiếnnó Thể chất D C miễn trừ 14, thất bại thìthìloại bỏ[lộ điểm yếu]vàgâyđịnh thân ngắn.",
+              "12": "đột tiến 5 ô, vào xung quanh bản thân 2 ôtrong phạm vitất cảkẻ địchgâymột lầnvật lýsát thương, nếumục tiêucó mang[lộ điểm yếu], sát thương cuối cùngthêm+30%, và khiếnnó Thể chất D C miễn trừ 15, thất bại thìthìloại bỏ[lộ điểm yếu]vàgâyđịnh thân ngắn.",
+              "13": "đột tiến 6 ô, vào xung quanh bản thân 2 ôtrong phạm vitất cảkẻ địchgâymột lầnvật lýsát thương, nếumục tiêucó mang[lộ điểm yếu], sát thương cuối cùngthêm+35%, và khiếnnó Thể chất D C miễn trừ 16, thất bại thìthìloại bỏ[lộ điểm yếu]vàgâyđịnh thân ngắn.",
+              "14": "đột tiến 6 ô, vào xung quanh bản thân 2 ôtrong phạm vitất cảkẻ địchgâymột lầnvật lýsát thương, nếumục tiêucó mang[lộ điểm yếu], sát thương cuối cùngthêm+40%, và khiếnnó Thể chất D C miễn trừ 17, thất bại thìthìloại bỏ[lộ điểm yếu]vàgâyđịnh thân ngắn.",
+              "15": "đột tiến 6 ô, vào xung quanh bản thân 2 ôtrong phạm vitất cảkẻ địchgâymột lầnvật lýsát thương, nếumục tiêucó mang[lộ điểm yếu], sát thương cuối cùngthêm+50%, và khiếnnó Thể chất D C miễn trừ 18, thất bại thìthìloại bỏ[lộ điểm yếu]vàgây thêmtrảm kích chí mạng, bịkẻ địch trúng đònkế tiếpmột lầntấn côngphán địnhchịu bất lợi."
+            },
+            "阶位": "Cơ bản"
+          }
+        ],
+        "转职": [
+          {
+            "名称": "Khí Gas Cao Áp",
+            "类型": "Đặc biệt",
+            "描述": "Mở giới hạn phun khí gas, trong thời gian ngắn đẩy cơ động lực tới cực hạn, cường hóa sinh tồn và bộc phát, là kỹ năng khởi động Tier 2.",
+            "特殊效果": {
+              "1": "nhận 2 lượt[gas chấn động](khoảng cách di chuyển+2 ô, miễn nhiễmđòn đòn đòn đánh cơ hội).",
+              "2": "nhận 2 lượt[gas chấn động](khoảng cách di chuyển+2 ô, miễn nhiễmđòn đòn đòn đánh cơ hội), mởkhihồi phụcbản thân 5 điểm HP.",
+              "3": "nhận 3 lượt[gas chấn động](khoảng cách di chuyển+2 ô, miễn nhiễmđòn đòn đòn đánh cơ hội), mởkhihồi phụcbản thân 5 điểm HP.",
+              "4": "nhận 3 lượt[gas chấn động](khoảng cách di chuyển+3 ô, miễn nhiễmđòn đòn đòn đánh cơ hội), mởkhihồi phụcbản thân 8 điểm HP.",
+              "5": "nhận 3 lượt[gas chấn động](khoảng cách di chuyển+3 ô, miễn nhiễmđòn đòn đòn đánh cơ hội), mởkhihồi phụcbản thân 10 điểm HP.",
+              "6": "nhận 4 lượt[gas chấn động](khoảng cách di chuyển+3 ô, miễn nhiễmđòn đòn đòn đánh cơ hội), mởkhihồi phụcbản thân 10 điểm HP.",
+              "7": "nhận 4 lượt[gas chấn động](khoảng cách di chuyển+4 ô, miễn nhiễmđòn đòn đòn đánh cơ hội), mởkhihồi phụcbản thân 15 điểm HP.",
+              "8": "nhận 4 lượt[gas chấn động](khoảng cách di chuyển+4 ô, miễn nhiễmđòn đòn đòn đánh cơ hội), mởkhihồi phụcbản thân 15 điểm HP, trong thời gian đócận chiếnkiểm định trúng đòn+1.",
+              "9": "nhận 4 lượt[gas chấn động](khoảng cách di chuyển+4 ô, miễn nhiễmđòn đòn đòn đánh cơ hội), mởkhihồi phụcbản thân 20 điểm HP, trong thời gian đócận chiếnkiểm định trúng đòn+1.",
+              "10": "nhận 5 lượt[gas chấn động](khoảng cách di chuyển+4 ô, miễn nhiễmđòn đòn đòn đánh cơ hội, Thể chấtkiểm định+1), mởkhihồi phụcbản thân 20 điểm HP, trong thời gian đócận chiếnkiểm định trúng đòn+2.",
+              "11": "nhận 5 lượt[gas chấn động](khoảng cách di chuyển+4 ô, miễn nhiễmđòn đòn đòn đánh cơ hội, Thể chấtkiểm định+1), mởkhihồi phụcbản thân 25 điểm HP, trong thời gian đócận chiếnkiểm định trúng đòn+2.",
+              "12": "nhận 5 lượt[gas chấn động](khoảng cách di chuyển+5 ô, miễn nhiễmđòn đòn đòn đánh cơ hội, Thể chấtkiểm định+1), mởkhihồi phụcbản thân 25 điểm HP, trong thời gian đócận chiếnkiểm định trúng đòn+2.",
+              "13": "nhận 6 lượt[gas chấn động](khoảng cách di chuyển+5 ô, miễn nhiễmđòn đòn đòn đánh cơ hội, Thể chấtkiểm định+2), mởkhihồi phụcbản thân 30 điểm HP, trong thời gian đócận chiếnkiểm định trúng đòn+2.",
+              "14": "nhận 6 lượt[gas chấn động](khoảng cách di chuyển+5 ô, miễn nhiễmđòn đòn đòn đánh cơ hội, Thể chấtkiểm định+2), mởkhihồi phụcbản thân 35 điểm HP, trong thời gian đócận chiếnkiểm định trúng đòn+3.",
+              "15": "nhận 6 lượt[gas chấn động](khoảng cách di chuyển+6 ô, miễn nhiễmđòn đòn đòn đánh cơ hội, Thể chấtkiểm định+2, tự có bay cự ly ngắnvượt quachướng ngại), mởkhihồi phụcbản thân 40 điểm HP, trong thời gian đócận chiếnkiểm định trúng đòn+3, ngưỡng bạo kích-1."
+            },
+            "阶位": "Chuyển nghề"
+          },
+          {
+            "名称": "Bán Nguyệt Phá Trảm",
+            "类型": "Chủ động",
+            "描述": "AOE toàn sân: dựa vào tốc độ cực cao vẽ ra một quỹ đạo hình bán nguyệt trên chiến trường, gây sát thương cắt xé cho toàn bộ địch nằm trên đường cắt.",
+            "特殊效果": {
+              "1": "chọnphía trướchình quạt 4 ôphạm vi, vào khu vựctrongtất cảkẻ địchgâymột lầnmột đoạnvật lýsát thương.",
+              "2": "chọnphía trướchình quạt 4 ôphạm vi, vào khu vựctrongtất cảkẻ địchgâymột lầnmột đoạnvật lýsát thương, sát thương cuối cùng+5%.",
+              "3": "chọnphía trướchình quạt 5 ôphạm vi, vào khu vựctrongtất cảkẻ địchgâymột lầnmột đoạnvật lýsát thương, sát thương cuối cùng+10%.",
+              "4": "chọnphía trướchình quạt 5 ôphạm vi, vào khu vựctrongtất cảkẻ địchgâymột lầnmột đoạnvật lýsát thương, sát thương cuối cùng+15%.",
+              "5": "chọnphía trướchình quạt 5 ôphạm vi, vào khu vựctrongtất cảkẻ địchgâymột lầnmột đoạnvật lýsát thương, sát thương cuối cùng+20%.",
+              "6": "chọnphía trướchình quạt 6 ôphạm vi, vào khu vựctrongtất cảkẻ địchgâymột lầnmột đoạnvật lýsát thương, sát thương cuối cùng+25%.",
+              "7": "chọnphía trướchình quạt 6 ôphạm vi, vào khu vựctrongtất cảkẻ địchgâymột lầnmột đoạnvật lýsát thương, sát thương cuối cùng+30%.",
+              "8": "chọnphía trướchình quạt 6 ôphạm vi, vào khu vựctrongtất cảkẻ địchgâymột lầnmột đoạnvật lýsát thương, sát thương cuối cùng+35%.",
+              "9": "chọnphía trướchình quạt 7 ôphạm vi, vào khu vựctrongtất cảkẻ địchgâymột lầnmột đoạnvật lýsát thương, sát thương cuối cùng+40%.",
+              "10": "chọnphía trướchình quạt 7 ôphạm vi, vào khu vựctrongtất cảkẻ địchgâymột lầnmột đoạnvật lýsát thương, sát thương cuối cùng+50%, nếubản thânđang ở[gas chấn động] trạng thái, kèmđẩy lùi 1 ôhiệu quả.",
+              "11": "chọnphía trướchình quạt 7 ôphạm vi, vào khu vựctrongtất cảkẻ địchgâymột lầnmột đoạnvật lýsát thương, sát thương cuối cùng+55%, nếubản thânđang ở[gas chấn động] trạng thái, kèmđẩy lùi 1 ôhiệu quả.",
+              "12": "chọnphía trướchình quạt 8 ôphạm vi, vào khu vựctrongtất cảkẻ địchgâymột lầnmột đoạnvật lýsát thương, sát thương cuối cùng+60%, nếubản thânđang ở[gas chấn động] trạng thái, kèmđẩy lùi 1 ôhiệu quả.",
+              "13": "chọnphía trướchình quạt 8 ôphạm vi, vào khu vựctrongtất cảkẻ địchgâymột lầnmột đoạnvật lýsát thương, sát thương cuối cùng+65%, nếubản thânđang ở[gas chấn động] trạng thái, kèmđẩy lùi 2 ôhiệu quả.",
+              "14": "chọnphía trướchình quạt 8 ôphạm vi, vào khu vựctrongtất cảkẻ địchgâymột lầnmột đoạnvật lýsát thương, sát thương cuối cùng+70%, nếubản thânđang ở[gas chấn động] trạng thái, kèmđẩy lùi 2 ôhiệu quả.",
+              "15": "chọnphía trướchình quạt 10 ôphạm vi, vào khu vựctrongtất cảkẻ địchgâymột lầnmột đoạnvật lýsát thương, sát thương cuối cùng+80%, nếubản thânđang ở[gas chấn động] trạng thái, kèmđẩy lùi 2 ôvàphán định trúng đòn+2."
+            },
+            "阶位": "Chuyển nghề"
+          },
+          {
+            "名称": "Song Nhận Siêu Cứng",
+            "类型": "Đặc biệt nghề nghiệp",
+            "描述": "Thay lưỡi dao đặc chế, vĩnh viễn thay đổi tư thế tấn công và đặt nền cho lõi sát thương của nghề, khiến mọi kỹ năng chém trở nên chí mạng hơn và cực dễ chặt đứt thân thể.",
+            "特殊效果": {
+              "1": "bịhành độngcó hiệu lực, bản thâncơ bảntấn công cận chiếnsát thương bạo kích+0.5. khitấn côngvào kẻ địchgâybạo kíchkhi, gắn 2 lượt[chảy máu](khi kết thúc mỗi lượtmấthiện tại HP 5%), không có thểcộng dồn."
+            },
+            "阶位": "Chuyển nghề"
+          }
+        ],
+        "进阶": [
+          {
+            "名称": "Xung Phong Quyết Tử",
+            "类型": "Đặc biệt",
+            "描述": "Từ bỏ mọi ý nghĩ rút lui, đánh thức huyết tính, cung cấp tăng ích thuộc tính cao cho chuỗi liên đoạn chí mạng kế tiếp.",
+            "特殊效果": {
+              "1": "chủ động mởsau đó, nhận 2 lượt[ý chí quyết tử](miễn nhiễmsợ hãi, sinh mệnh thấp hơn 50% khisát thương cuối cùng+10%).",
+              "2": "chủ động mởsau đó, nhận 2 lượt[ý chí quyết tử](miễn nhiễmsợ hãi, sinh mệnh thấp hơn 50% khisát thương cuối cùng+12%).",
+              "3": "chủ động mởsau đó, nhận 3 lượt[ý chí quyết tử](miễn nhiễmsợ hãi, sinh mệnh thấp hơn 50% khisát thương cuối cùng+15%).",
+              "4": "chủ động mởsau đó, nhận 3 lượt[ý chí quyết tử](miễn nhiễmsợ hãi, sinh mệnh thấp hơn 50% khisát thương cuối cùng+18%).",
+              "5": "chủ động mởsau đó, nhận 3 lượt[ý chí quyết tử](miễn nhiễmsợ hãi, sinh mệnh thấp hơn 50% khisát thương cuối cùng+20%).",
+              "6": "chủ động mởsau đó, nhận 4 lượt[ý chí quyết tử](miễn nhiễmsợ hãi, sinh mệnh thấp hơn 50% khisát thương cuối cùng+20%).",
+              "7": "chủ động mởsau đó, nhận 4 lượt[ý chí quyết tử](miễn nhiễmsợ hãi, sinh mệnh thấp hơn 50% khisát thương cuối cùng+25%).",
+              "8": "chủ động mởsau đó, nhận 4 lượt[ý chí quyết tử](miễn nhiễmsợ hãi, sinh mệnh thấp hơn 50% khisát thương cuối cùng+25%, khoảng cách di chuyển+1).",
+              "9": "chủ động mởsau đó, nhận 5 lượt[ý chí quyết tử](miễn nhiễmsợ hãi, sinh mệnh thấp hơn 50% khisát thương cuối cùng+28%, khoảng cách di chuyển+1).",
+              "10": "chủ động mởsau đó, nhận 5 lượt[ý chí quyết tử](miễn nhiễmsợ hãi, sinh mệnh thấp hơn 50% khisát thương cuối cùng+30%, khoảng cách di chuyển+2), ngay khoảnh khắc mởnhận 10 điểmsinh mệnh tạm thời."
+            },
+            "阶位": "Nâng cao"
+          },
+          {
+            "名称": "Khí Gas Bộc Liệt",
+            "类型": "Chủ động",
+            "描述": "AOE nhiều mục tiêu: xả lượng lớn gas từ bộ cơ động rồi dùng tia lửa từ lưỡi dao châm cháy, gây xung kích phạm vi, phá hỏng vị trí đứng và chức năng cơ thể của địch.",
+            "特殊效果": {
+              "1": "vào xung quanh bản thân 2 ôphạm vigâyđơnlầnsát thương, kẻ địch trúng đòncầnthực hiện Thể chất D C miễn trừ 12, thất bại thìgắn 1 lượt[tàn phế](khoảng cách di chuyển giảm một nửa, AC-1).",
+              "2": "vào xung quanh bản thân 2 ôphạm vigâyđơnlầnsát thương, sát thương cuối cùng+5%, kẻ địch trúng đòncầnthực hiện Thể chất D C miễn trừ 12, thất bại thìgắn 1 lượt[tàn phế](khoảng cách di chuyển giảm một nửa, AC-1).",
+              "3": "vào xung quanh bản thân 2 ôphạm vigâyđơnlầnsát thương, sát thương cuối cùng+10%, kẻ địch trúng đòncầnthực hiện Thể chất D C miễn trừ 13, thất bại thìgắn 2 lượt[tàn phế](khoảng cách di chuyển giảm một nửa, AC-1).",
+              "4": "vào xung quanh bản thân 2 ôphạm vigâyđơnlầnsát thương, sát thương cuối cùng+15%, kẻ địch trúng đòncầnthực hiện Thể chất D C miễn trừ 13, thất bại thìgắn 2 lượt[tàn phế](khoảng cách di chuyển giảm một nửa, AC-1).",
+              "5": "vào xung quanh bản thân 3 ôphạm vigâyđơnlầnsát thương, sát thương cuối cùng+20%, kẻ địch trúng đòncầnthực hiện Thể chất D C miễn trừ 14, thất bại thìgắn 2 lượt[tàn phế](khoảng cách di chuyển giảm một nửa, AC-1).",
+              "6": "vào xung quanh bản thân 3 ôphạm vigâyđơnlầnsát thương, sát thương cuối cùng+25%, kẻ địch trúng đòncầnthực hiện Thể chất D C miễn trừ 14, thất bại thìgắn 2 lượt[tàn phế](khoảng cách di chuyển giảm một nửa, AC-1).",
+              "7": "vào xung quanh bản thân 3 ôphạm vigâyđơnlầnsát thương, sát thương cuối cùng+30%, kẻ địch trúng đòncầnthực hiện Thể chất D C miễn trừ 15, thất bại thìgắn 3 lượt[tàn phế](khoảng cách di chuyển giảm một nửa, AC-1).",
+              "8": "vào xung quanh bản thân 3 ôphạm vigâyđơnlầnsát thương, sát thương cuối cùng+35%, kẻ địch trúng đòncầnthực hiện Thể chất D C miễn trừ 15, thất bại thìgắn 3 lượt[tàn phế](khoảng cách di chuyển giảm một nửa, AC-2).",
+              "9": "vào xung quanh bản thân 3 ôphạm vigâyđơnlầnsát thương, sát thương cuối cùng+40%, kẻ địch trúng đòncầnthực hiện Thể chất D C miễn trừ 16, thất bại thìgắn 3 lượt[tàn phế](khoảng cách di chuyển giảm một nửa, AC-2).",
+              "10": "vào xung quanh bản thân 4 ôphạm vigâyđơnlầnsát thương, sát thương cuối cùng+50%, kẻ địch trúng đòncầnthực hiện Thể chất D C miễn trừ 16, thất bại thìgắn 3 lượt[tàn phế](khoảng cách di chuyển giảm một nửa, AC-2), đang ở[ý chí quyết tử] trạng tháikế tiếp D Cphán địnhyêu cầutăng 2 điểm."
+            },
+            "阶位": "Nâng cao"
+          },
+          {
+            "名称": "Loại Bỏ Yếu Huyệt",
+            "类型": "Chủ động",
+            "描述": "Đòn đơn mục tiêu: chập song đao, nhắm vào yếu huyệt của mục tiêu đã tàn phế hoặc bị làm chậm, đâm chuẩn xác rồi rút lưỡi, hoàn thành sát thương xuyên thấu.",
+            "特殊效果": {
+              "1": "vào cận chiến 1 ôđơn mục tiêugâyvật lýsát thương; mục tiêunếucó mang[tàn phế] trạng thái, nàylầntấn công, sát thương cuối cùng+10%.",
+              "2": "vào cận chiến 1 ôđơn mục tiêugâyvật lýsát thương; mục tiêunếucó mang[tàn phế] trạng thái, nàylầntấn công, sát thương cuối cùng+15%.",
+              "3": "vào cận chiến 1 ôđơn mục tiêugâyvật lýsát thương; mục tiêunếucó mang[tàn phế] trạng thái, nàylầntấn công, sát thương cuối cùng+20%.",
+              "4": "vào cận chiến 1 ôđơn mục tiêugâyvật lýsát thương; mục tiêunếucó mang[tàn phế] trạng thái, nàylầntấn công, sát thương cuối cùng+25%, ngưỡng bạo kích-1.",
+              "5": "vào cận chiến 1 ôđơn mục tiêugâyvật lýsát thương; mục tiêunếucó mang[tàn phế] trạng thái, nàylầntấn công, sát thương cuối cùng+30%, ngưỡng bạo kích-1.",
+              "6": "vào cận chiến 1 ôđơn mục tiêugâyvật lýsát thương; mục tiêunếucó mang[tàn phế] trạng thái, nàylầntấn công, sát thương cuối cùng+35%, ngưỡng bạo kích-1.",
+              "7": "vào cận chiến 1 ôđơn mục tiêugâyvật lýsát thương; mục tiêunếucó mang[tàn phế] trạng thái, nàylầntấn công, sát thương cuối cùng+40%, ngưỡng bạo kích-1.",
+              "8": "vào cận chiến 1 ôđơn mục tiêugâyvật lýsát thương; đột tiếncó thể đạt tới 2 ô. mục tiêunếucó mang[tàn phế] trạng thái, nàylầntấn công, sát thương cuối cùng+45%, ngưỡng bạo kích-2.",
+              "9": "vào cận chiến 1 ôđơn mục tiêugâyvật lýsát thương; đột tiếncó thể đạt tới 2 ô. mục tiêunếucó mang[tàn phế] trạng thái, nàylầntấn công, sát thương cuối cùng+50%, ngưỡng bạo kích-2.",
+              "10": "vào cận chiến 1 ôđơn mục tiêugâyvật lýsát thương; đột tiếncó thể đạt tới 3 ô. mục tiêunếucó mang[tàn phế] trạng thái, nàylầntấn công, sát thương cuối cùng+60%, ngưỡng bạo kích-2, sát thương bạo kích+0.5."
+            },
+            "阶位": "Nâng cao"
+          }
+        ],
+        "必杀": [
+          {
+            "名称": "Bắn Pháo Hiệu",
+            "类型": "Đặc biệt",
+            "描述": "Bắn pháo hiệu ánh sáng mạnh vào khu vực chỉ định, dùng để chỉ huy chiến trường và làm mù vùng lõi, tạo không gian an ổn cho việc lao vào đồ sát.",
+            "特殊效果": {
+              "1": "chỉ định vị trí bất kỳ trên sân, 5 ôtrong bán kínhkẻ địchcầnthực hiện Nhanh nhẹn D C miễn trừ 13, thất bại thìthìnhận 1 lượt[mù mắt](kiểm định trúng đòn-1).",
+              "2": "chỉ định vị trí bất kỳ trên sân, 5 ôtrong bán kínhkẻ địchcầnthực hiện Nhanh nhẹn D C miễn trừ 13, thất bại thìthìnhận 1 lượt[mù mắt](kiểm định trúng đòn-2).",
+              "3": "chỉ định vị trí bất kỳ trên sân, 5 ôtrong bán kínhkẻ địchcầnthực hiện Nhanh nhẹn D C miễn trừ 14, thất bại thìthìnhận 2 lượt[mù mắt](kiểm định trúng đòn-2).",
+              "4": "chỉ định vị trí bất kỳ trên sân, 5 ôtrong bán kínhkẻ địchcầnthực hiện Nhanh nhẹn D C miễn trừ 14, thất bại thìthìnhận 2 lượt[mù mắt](kiểm định trúng đòn-3).",
+              "5": "chỉ định vị trí bất kỳ trên sân, 6 ôtrong bán kínhkẻ địchcầnthực hiện Nhanh nhẹn D C miễn trừ 15, thất bại thìthìnhận 2 lượt[mù mắt](kiểm định trúng đòn-3).",
+              "6": "chỉ định vị trí bất kỳ trên sân, 6 ôtrong bán kínhkẻ địchcầnthực hiện Nhanh nhẹn D C miễn trừ 15, thất bại thìthìnhận 3 lượt[mù mắt](kiểm định trúng đòn-3).",
+              "7": "chỉ định vị trí bất kỳ trên sân, 6 ôtrong bán kínhkẻ địchcầnthực hiện Nhanh nhẹn D C miễn trừ 16, thất bại thìthìnhận 3 lượt[mù mắt](kiểm định trúng đòn-4)."
+            },
+            "阶位": "Tất sát"
+          },
+          {
+            "名称": "Bổ Xuống Xoắn Ốc",
+            "类型": "Chủ động",
+            "描述": "AOE nhiều mục tiêu: từ trên cao mượn trọng lực xoay người, hóa thành máy xay thịt rơi vào bầy địch, gây đòn nghiền nát cho kẻ địch trong phạm vi lớn.",
+            "特殊效果": {
+              "1": "có[ưu thế trên cao]mới có thểthi triển, chọn 8 ôtrongmộtđiểmrơi xuốngrơi, vào điểm rơixung quanh 2 ôgâysát thương, sát thương cuối cùng+10%, tấn côngsau đómất[ưu thế trên cao].",
+              "2": "có[ưu thế trên cao]mới có thểthi triển, chọn 8 ôtrongmộtđiểmrơi xuốngrơi, vào điểm rơixung quanh 2 ôgâysát thương, sát thương cuối cùng+20%, tấn côngsau đómất[ưu thế trên cao].",
+              "3": "có[ưu thế trên cao]mới có thểthi triển, chọn 8 ôtrongmộtđiểmrơi xuốngrơi, vào điểm rơixung quanh 2 ôgâysát thương, sát thương cuối cùng+30%, tấn côngsau đómất[ưu thế trên cao].",
+              "4": "có[ưu thế trên cao]mới có thểthi triển, chọn 10 ôtrongmộtđiểmrơi xuốngrơi, vào điểm rơixung quanh 2 ôgâysát thương, sát thương cuối cùng+40%, tấn côngsau đómất[ưu thế trên cao].",
+              "5": "có[ưu thế trên cao]mới có thểthi triển, chọn 10 ôtrongmộtđiểmrơi xuốngrơi, vào điểm rơixung quanh 2 ôgâysát thương, sát thương cuối cùng+50%, tấn côngsau đómất[ưu thế trên cao].",
+              "6": "có[ưu thế trên cao]mới có thểthi triển, chọn 10 ôtrongmộtđiểmrơi xuốngrơi, vào điểm rơixung quanh 2 ôgâysát thương, sát thương cuối cùng+60%, tấn côngsau đómất[ưu thế trên cao].",
+              "7": "có[ưu thế trên cao]mới có thểthi triển, chọn 10 ôtrongmộtđiểmrơi xuốngrơi, vào điểm rơixung quanh 2 ôgâysát thương, sát thương cuối cùng+70%, tấn côngsau đómất[ưu thế trên cao]."
+            },
+            "阶位": "Tất sát"
+          },
+          {
+            "名称": "Cơn Giận Của Binh Trưởng",
+            "类型": "Chủ động",
+            "描述": "Đòn đơn mục tiêu: hóa phẫn nộ thành trảm kích cực tốc, khóa một mục tiêu rồi liên tục chém tức thời vào tử huyệt của nó, thể hiện năng lực xử quyết đơn thể cực hạn.",
+            "特殊效果": {
+              "1": "khóa định 3 ôtrongđơn mục tiêumục tiêugâymột lầnsát thương vật lý cực lớn. mục tiêu mỗicó 1 trạng thái bất thường, sát thương cuối cùng+10%.",
+              "2": "khóa định 3 ôtrongđơn mục tiêumục tiêugâymột lầnsát thương vật lý cực lớn. mục tiêu mỗicó 1 trạng thái bất thường, sát thương cuối cùng+15%.",
+              "3": "khóa định 3 ôtrongđơn mục tiêumục tiêugâymột lầnsát thương vật lý cực lớn. mục tiêu mỗicó 1 trạng thái bất thường, sát thương cuối cùng+20%.",
+              "4": "khóa định 4 ôtrongđơn mục tiêumục tiêugâymột lầnsát thương vật lý cực lớn. mục tiêu mỗicó 1 trạng thái bất thường, sát thương cuối cùng+25%.",
+              "5": "khóa định 4 ôtrongđơn mục tiêumục tiêugâymột lầnsát thương vật lý cực lớn. mục tiêu mỗicó 1 trạng thái bất thường, sát thương cuối cùng+30%.",
+              "6": "khóa định 4 ôtrongđơn mục tiêumục tiêugâymột lầnsát thương vật lý cực lớn. mục tiêu mỗicó 1 trạng thái bất thường, sát thương cuối cùng+35%.",
+              "7": "khóa định 5 ôtrongđơn mục tiêumục tiêugâymột lầnsát thương vật lý cực lớn. mục tiêu mỗicó 1 trạng thái bất thường, sát thương cuối cùng+40%."
+            },
+            "阶位": "Tất sát"
+          }
+        ],
+        "觉醒一": [
+          {
+            "名称": "Dâng Hiến Trái Tim",
+            "类型": "Đặc biệt",
+            "阶位": "Thức tỉnh một",
+            "描述": "Đưa ra giác ngộ cuối cùng, đặt sinh tử ra ngoài suy tính. Tăng mạnh độ khoan lỗi cho sinh tồn bộc phát và chuỗi trạng thái.",
+            "特殊效果": {
+              "1": "sau khi thức tỉnh, trong trận chiến này, miễn nhiễmtoàn bộphầnkhống chế tinh thầnvớisợ hãihiệu quả; khibản thân HPthấpở 50% khi, [lộ điểm yếu] và [tàn phế]D C miễn trừcưỡng chếphán địnhlàm thất bại thì; vàtất cảchínhhành độngkỹ năngsát thương cuối cùngthêmtăng 30%.",
+              "2": "sau khi thức tỉnh, trong trận chiến này, miễn nhiễmtoàn bộphầnkhống chế tinh thầnvớisợ hãihiệu quả; khibản thân HPthấpở 50% khi, [lộ điểm yếu] và [tàn phế]D C miễn trừcưỡng chếphán địnhlàm thất bại thì; vàtất cảchínhhành độngkỹ năngsát thương cuối cùngthêmtăng 30%.",
+              "3": "sau khi thức tỉnh, trong trận chiến này, miễn nhiễmtoàn bộphầnkhống chế tinh thầnvớisợ hãihiệu quả; khibản thân HPthấpở 50% khi, [lộ điểm yếu] và [tàn phế]D C miễn trừcưỡng chếphán địnhlàm thất bại thì; vàtất cảchínhhành độngkỹ năngsát thương cuối cùngthêmtăng 30%."
+            }
+          }
+        ],
+        "觉醒二": [
+          {
+            "名称": "Mạnh Nhất Nhân Loại",
+            "类型": "Chủ động",
+            "阶位": "Thức tỉnh hai",
+            "描述": "AOE toàn sân: hóa thân tử thần chiến trường, dùng tốc độ mắt thường không thể bắt kịp để thu hoạch cổ chí mạng từng mục tiêu địch trên toàn sân.",
+            "特殊效果": {
+              "1": "thức tỉnhsau đótrận chiến nàygiới hạnnhất địnhsử dụng 1 lần, vào trong tầm nhìntất cảkẻ địchgâymột lầnchắc chắn trúng đònkhổng lồlượng lớnchémkíchsát thương; nếumục tiêuđang ở[chảy máu]hoặc[tàn phế] trạng thái, nàylầnsát thươngchắc chắn bạo kích, và bỏ quabất kỳgiảm trừ sát thươngvớilá chắn.",
+              "2": "thức tỉnhsau đótrận chiến nàygiới hạnnhất địnhsử dụng 1 lần, vào trong tầm nhìntất cảkẻ địchgâymột lầnchắc chắn trúng đònkhổng lồlượng lớnchémkíchsát thương; nếumục tiêuđang ở[chảy máu]hoặc[tàn phế] trạng thái, nàylầnsát thươngchắc chắn bạo kích, và bỏ quabất kỳgiảm trừ sát thươngvớilá chắn."
+            }
+          }
+        ],
+        "觉醒三": [
+          {
+            "名称": "Đôi Cánh Tự Do",
+            "类型": "Chủ động",
+            "阶位": "Thức tỉnh ba",
+            "描述": "Phá xiềng xích trọng lực và vận mệnh, mở Đôi Cánh Tự Do, tiến vào hình thái áo nghĩa tối thượng của cơ động lập thể.",
+            "特殊效果": {
+              "1": "thức tỉnhsau đónhậntrạng thái[Đôi Cánh Tự Do]: trận chiến nàytrong, tất cảkỹ năng đặc biệtthi triểnkhông tiêu haobất kỳlực di chuyển, ACvĩnh viễn+5; mỗikhibạnsử dụngđơn mục tiêutấn côngtiêu diệtbất kỳmục tiêusau đó, sẽlập tứcvề phía 3 ôtrongmục tiêu khácmiễn phíthi triểnmột lầnkhông chiếm lượt hành động[Trảm Kích Xoay Vòng](kế thừađầyhiệu quả)."
+            }
+          }
+        ]
+      },
+      "skillTreeForClass": "Quân Đoàn Trinh Sát",
+      "lockedSkillMap": {},
+      "skillFlavorInput": "Quân Đoàn Trinh Sát từ Attack on Titan!",
+      "teammates": [
+        {
+          "id": "__custom__"
+        }
+      ],
+      "customTeammate": {
+        "enabled": true,
+        "name": "Mikasa Ackerman",
+        "gender": "Nữ",
+        "race": "Chủng nhân loại",
+        "affinity": 80,
+        "oath": true,
+        "appearance": "Mỹ thiếu nữ lạnh lùng với tóc ngắn màu đen và đôi mắt đen.",
+        "outfit": "Đồng phục Quân Đoàn Trinh Sát, tất trắng ngắn, bốt đen quá gối, trên cổ quấn một chiếc khăn đỏ.",
+        "background": "Mikasa Ackerman từ Attack on Titan. Sau khi Eren chọn hy sinh, nàng và bạn rơi vào tình yêu, một lòng một dạ đi theo bạn, cuối cùng chọn kết hôn với bạn.",
+        "attributes": {
+          "strength": 15,
+          "dexterity": 15,
+          "constitution": 11,
+          "intelligence": 10,
+          "wisdom": 10,
+          "charisma": 10
+        },
+        "equipment": [
+          {
+            "name": "Lưỡi dao Ackerman",
+            "type": "vũ khí",
+            "slot": "chínhtay",
+            "quality": "Thần khí",
+            "effect": "[Đánh chính xác] kiểm định trúng đòn +2; [Bản năng chiến đấu] số lần hành động mỗi lượt +1",
+            "desc": "Lưỡi dao sắc bén của Quân Đoàn Trinh Sát; trong tay Mikasa, nó là vũ khí chí mạng nhất.",
+            "bonuses": {
+              "力量": 4,
+              "敏捷": 4,
+              "体质": 0,
+              "智力": 0,
+              "感知": 0,
+              "魅力": 0,
+              "暴击率": 4,
+              "暴击伤害": 1.5,
+              "物理减伤": 0,
+              "魔法减伤": 0,
+              "生命值上限": 0
+            }
+          },
+          {
+            "name": "Thiết bị cơ động lập thể",
+            "type": "Phòng cụ",
+            "slot": "Dây lưng",
+            "quality": "Truyền thuyết",
+            "effect": "[Cơ động lập thể] AC+4; [Nhanh như chớp] luôn hành động đầu tiên khi chiến đấu; [Bóng quỷ trùng trùng] lần né đòn đầu tiên mỗi lượt lập tức phản kích địch 1 lần.",
+            "desc": "Thiết bị cơ động lập thể của Quân Đoàn Trinh Sát.",
+            "bonuses": {
+              "力量": 0,
+              "敏捷": 2,
+              "体质": 0,
+              "智力": 0,
+              "感知": 2,
+              "魅力": 0,
+              "暴击率": 0,
+              "暴击伤害": 0,
+              "物理减伤": 0,
+              "魔法减伤": 0,
+              "生命值上限": 0
+            }
+          }
+        ],
+        "skills": [
+          {
+            "name": "Lưỡi dao hợp kim",
+            "type": "Hỗ trợ",
+            "effect": "Sau khi phát động, 3 lần tấn công tiếp theo có sát thương cuối cùng +40%.",
+            "desc": "Thay lưỡi dao sắc làm từ hợp kim để chuẩn bị cho các đòn tấn công tiếp theo."
+          },
+          {
+            "name": "Trảm Kích Xoay Vòng",
+            "type": "sát thương",
+            "effect": "Đột tiến 8 ô, đồng thời gây một đòn AOE chém xoay theo hệ số Sức mạnh lên kẻ địch quanh bản thân 3 ô. Có 10% xác suất gắn cho địch 2 lượt [Chảy máu] (mỗi khi kết thúc lượt mất 5% sinh mệnh hiện tại), không cộng dồn.",
+            "desc": "Mikasa dùng thiết bị cơ động lập thể di chuyển nhanh và hoàn thành một cú trảm xoay đẹp mắt."
+          }
+        ],
+        "combo": {
+          "name": "Có vẻ phải lật con át chủ bài cuối cùng rồi",
+          "type": "sát thương",
+          "effect": "Tiêu hao 100 CP để phát động. Gây sát thương vật lý bằng 2000% lực tấn công cơ bản của Mikasa, bỏ qua 50% kháng vật lý của đối phương. Sau khi phát động, Mikasa nhận 3 lượt trạng thái [Cơn giận băng sơn] (ngưỡng bạo kích -4, kiểm định trúng đòn +4).",
+          "desc": "Mikasa ném bỏ lưỡi dao đã quăn trên tay, thay bằng lưỡi dao mới tinh, hô lớn “Có vẻ phải lật con át chủ bài cuối cùng rồi!”, sau đó lao tới địch nhanh như sấm và hoàn thành trảm kích."
+        }
+      },
+      "selectedTraits": [],
+      "customTraits": [
+        {
+          "name": "Đào hoa rắc rối",
+          "effect": "Bạn rất đẹp trai, nói chuyện cũng dễ mến, luôn được phụ nữ xung quanh ưu ái, thỉnh thoảng còn có cô gái không hiểu từ đâu tới bắt chuyện. Độ thiện cảm cơ bản của mọi nhân vật nữ +30, về sau độ thiện cảm cũng dễ tăng hơn. Nhưng... tốt nhất bạn nên cẩn thận, vợ bạn đang đứng bên cạnh nhìn đấy!"
+        },
+        {
+          "name": "Thể chất ăn bám may mắn",
+          "effect": "Từ khi sinh ra bạn đã rất xui xẻo, luôn không hiểu sao gặp phải kẻ địch cực mạnh, xác suất nhận nguyên liệu hiếm cũng tăng. Khi gặp khó khăn, luôn có cô gái xuất hiện cứu nguy cho bạn; thậm chí lúc bạn cấp thiết cần giúp đỡ, cũng sẽ bất ngờ có cô gái nhảy ra giúp. “... Lại là ai nữa!” Mikasa Ackerman giận dữ nói."
+        }
+      ],
+      "customExpertise": [],
+      "customIdentity": {
+        "enabled": true,
+        "name": "Hậu duệ của titan",
+        "desc": "Bạn sinh ra trên đảo Eldia. Sau khi Rung Chấn kết thúc, bạn quen biết Mikasa Ackerman và kết làm vợ chồng. Nhưng không may, khi hai người trở lại tầng hầm mở cánh cửa lớn, chẳng hiểu sao lại đến thế giới này.",
+        "tierIndex": 3
+      },
+      "selectedOpening": "traverse",
+      "customOpeningText": "",
+      "selectedDifficulty": "easy",
+      "customRace": {
+        "enabled": true,
+        "name": "Hậu duệ của Ymir",
+        "trait1": {
+          "name": "Săn titan",
+          "detail": "Bạn tự mang 1 trang bị có thể tăng cấp theo cấp bản thân [Thiết bị cơ động lập thể] (mặc định là dây lưng, cấp 1, phẩm chất Thần khí). Khi trang bị, nhận trạng thái [Sẵn sàng xuất kích]: ngưỡng bạo kích thường trực -2, sát thương bạo kích +0.25. Nếu kẻ địch là quái vật cỡ lớn (trên 5 mét), ngưỡng bạo kích giảm thêm 2, sát thương bạo kích tăng thêm +0.25. Đồng thời, khi bạn trang bị [Thiết bị cơ động lập thể], di chuyển không bị địa hình giới hạn.",
+          "negative": false
+        },
+        "trait2": {
+          "name": "Attack on Titan",
+          "detail": "1 lần/1 trận (kích hoạt): Khi sinh mệnh của bạn giảm xuống dưới 10% hoặc chịu sát thương chí tử, huyết mạch viễn cổ sẽ khiến bạn biến thành titan. Hồi phục toàn bộ sinh mệnh và mỗi lượt hồi 20% sinh mệnh tối đa, nhưng sẽ mất toàn bộ lý trí, không thể khống chế bản thể và không phân biệt địch ta; miễn trừ Trí lực -4 và chịu bất lợi, không thể chủ động thi triển kỹ năng. Mỗi lượt chỉ có thể hành động 1 lần, tự động dùng kỹ năng [Nứt đất]: mọi đơn vị trong phạm vi 25 ô quanh thân thực hiện kiểm định Nhanh nhẹn DC19; thất bại thì nhận 1 lượt trạng thái [Tàn phế] (số ô di chuyển giảm một nửa, miễn trừ Nhanh nhẹn -4), đồng thời chịu sát thương vật lý bằng 1200% lực tấn công người chơi.",
+          "negative": true
+        }
+      }
+    },
+    "downloadUrl": "/api/presets/33e0e5a0-39e4-4eb2-aa88-ca0c9f172796/file"
+  }
+}

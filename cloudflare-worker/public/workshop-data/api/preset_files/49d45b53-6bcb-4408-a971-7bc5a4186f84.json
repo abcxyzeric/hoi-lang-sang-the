@@ -1,0 +1,370 @@
+{
+  "exportedAt": "2026-03-20T01:27:22.398Z",
+  "version": "1.0",
+  "preset": {
+    "id": "1773970036381",
+    "name": "Kamen Rider Kabuto",
+    "timestamp": 1773970036381,
+    "createdAt": 1773970036381,
+    "updatedAt": 1773970036381,
+    "data": {
+      "name": "",
+      "gender": "Nam",
+      "age": 18,
+      "race": "Chủng nhân loại",
+      "identity": "Kẻ bại trận vô danh",
+      "avatar": "",
+      "attributes": {
+        "strength": 14,
+        "dexterity": 14,
+        "constitution": 8,
+        "intelligence": 10,
+        "wisdom": 10,
+        "charisma": 15
+      },
+      "backstory": "",
+      "selectedLevelMode": "native",
+      "selectedCustomLevel": 1,
+      "selectedSpawnPoint": "Tầng dưới thành phố vách cảng Hoàn Uyên - bờ biển ngoại vi",
+      "class": "Kamen Rider Kabuto",
+      "selectedBaseClass": "Nghề tùy chỉnh",
+      "customClassName": "Kamen Rider Kabuto",
+      "customClassStyle": "“Người chấp hành chiến thuật tốc độ cao và chính xác”.\nĐặc trưng cốt lõi của nghề này nằm ở việc dùng năng lực di chuyển siêu tốc để chi phối chiến trường, kết hợp hệ thống vũ khí được đặc hóa cao độ cùng tư duy chiến thuật lạnh tĩnh và chặt chẽ để tác chiến.",
+      "customClassWeapon": "Quyền cước, Kunai Gun",
+      "customClassCombatStyle": "Dạng hỗn hợp",
+      "skillTree": {
+        "基础": [
+          {
+            "名称": "Chuyển Đổi Hình Thái",
+            "类型": "Đặc biệt",
+            "描述": "Chuyển hình thái chiến đấu. Khi bắt đầu chiến đấu mặc định ở [hình thái Masked]. Khi dùng kỹ năng này, nếu hiện tại là [hình thái Masked] thì chuyển sang [hình thái Rider], và ngược lại.",
+            "特殊效果": {
+              "1": "gắn cho bạn [Thay đổi hình thái] trạng thái, kéo dài tới khi chiến đấu kết thúc. [Thay đổi hình thái]:nếu chuyển sang [hình thái Masked], nhận kiểm định AC+1, kéo dài tới lần chuyển tiếp theo; nếu chuyển sang [hình thái Rider], nhận kiểm định Nhanh nhẹn+1, và khi bắt đầu mỗi lượt nhận 1 tầng [tachyon siêu tốc], kéo dài tới lần chuyển tiếp theo.",
+              "2": "gắn cho bạn [Thay đổi hình thái] trạng thái, kéo dài tới khi chiến đấu kết thúc. [Thay đổi hình thái]:nếu chuyển sang [hình thái Masked], nhận kiểm định AC+1, kéo dài tới lần chuyển tiếp theo; nếu chuyển sang [hình thái Rider], nhận kiểm định Nhanh nhẹn+1, và khi bắt đầu mỗi lượt nhận 2 tầng [tachyon siêu tốc], kéo dài tới lần chuyển tiếp theo.",
+              "3": "gắn cho bạn [Thay đổi hình thái] trạng thái, kéo dài tới khi chiến đấu kết thúc. [Thay đổi hình thái]:nếu chuyển sang [hình thái Masked], nhận kiểm định AC+2, kéo dài tới lần chuyển tiếp theo; nếu chuyển sang [hình thái Rider], nhận kiểm định Nhanh nhẹn+1, và khi bắt đầu mỗi lượt nhận 2 tầng [tachyon siêu tốc], kéo dài tới lần chuyển tiếp theo.",
+              "4": "gắn cho bạn [Thay đổi hình thái] trạng thái, kéo dài tới khi chiến đấu kết thúc. [Thay đổi hình thái]:nếu chuyển sang [hình thái Masked], nhận kiểm định AC+2, kéo dài tới lần chuyển tiếp theo; nếu chuyển sang [hình thái Rider], nhận kiểm định Nhanh nhẹn+1, và khi bắt đầu mỗi lượt nhận 3 tầng [tachyon siêu tốc], kéo dài tới lần chuyển tiếp theo.",
+              "5": "gắn cho bạn [Thay đổi hình thái] trạng thái, kéo dài tới khi chiến đấu kết thúc. [Thay đổi hình thái]:nếu chuyển sang [hình thái Masked], nhận kiểm định AC+2, kéo dài tới lần chuyển tiếp theo; nếu chuyển sang [hình thái Rider], nhận kiểm định Nhanh nhẹn+2, và khi bắt đầu mỗi lượt nhận 3 tầng [tachyon siêu tốc], kéo dài tới lần chuyển tiếp theo.",
+              "6": "gắn cho bạn [Thay đổi hình thái] trạng thái, kéo dài tới khi chiến đấu kết thúc. [Thay đổi hình thái]:nếu chuyển sang [hình thái Masked], nhận kiểm định AC+3, kéo dài tới lần chuyển tiếp theo; nếu chuyển sang [hình thái Rider], nhận kiểm định Nhanh nhẹn+2, và khi bắt đầu mỗi lượt nhận 3 tầng [tachyon siêu tốc], kéo dài tới lần chuyển tiếp theo.",
+              "7": "gắn cho bạn [Thay đổi hình thái] trạng thái, kéo dài tới khi chiến đấu kết thúc. [Thay đổi hình thái]:nếu chuyển sang [hình thái Masked], nhận kiểm định AC+3, kéo dài tới lần chuyển tiếp theo; nếu chuyển sang [hình thái Rider], nhận kiểm định Nhanh nhẹn+2, và khi bắt đầu mỗi lượt nhận 4 tầng [tachyon siêu tốc], kéo dài tới lần chuyển tiếp theo.",
+              "8": "gắn cho bạn [Thay đổi hình thái] trạng thái, kéo dài tới khi chiến đấu kết thúc. [Thay đổi hình thái]:nếu chuyển sang [hình thái Masked], nhận kiểm định AC+3, kéo dài tới lần chuyển tiếp theo; nếu chuyển sang [hình thái Rider], nhận kiểm định Nhanh nhẹn+3, và khi bắt đầu mỗi lượt nhận 4 tầng [tachyon siêu tốc], kéo dài tới lần chuyển tiếp theo.",
+              "9": "gắn cho bạn [Thay đổi hình thái] trạng thái, kéo dài tới khi chiến đấu kết thúc. [Thay đổi hình thái]:nếu chuyển sang [hình thái Masked], nhận kiểm định AC+4, kéo dài tới lần chuyển tiếp theo; nếu chuyển sang [hình thái Rider], nhận kiểm định Nhanh nhẹn+3, và khi bắt đầu mỗi lượt nhận 4 tầng [tachyon siêu tốc], kéo dài tới lần chuyển tiếp theo.",
+              "10": "gắn cho bạn [Thay đổi hình thái] trạng thái, kéo dài tới khi chiến đấu kết thúc. [Thay đổi hình thái]:nếu chuyển sang [hình thái Masked], nhận kiểm định AC+4, kéo dài tới lần chuyển tiếp theo; nếu chuyển sang [hình thái Rider], nhận kiểm định Nhanh nhẹn+3, và khi bắt đầu mỗi lượt nhận 5 tầng [tachyon siêu tốc], kéo dài tới lần chuyển tiếp theo.",
+              "11": "gắn cho bạn [Thay đổi hình thái] trạng thái, kéo dài tới khi chiến đấu kết thúc. [Thay đổi hình thái]:nếu chuyển sang [hình thái Masked], nhận kiểm định AC+4, kéo dài tới lần chuyển tiếp theo; nếu chuyển sang [hình thái Rider], nhận kiểm định Nhanh nhẹn+4, và khi bắt đầu mỗi lượt nhận 5 tầng [tachyon siêu tốc], kéo dài tới lần chuyển tiếp theo.",
+              "12": "gắn cho bạn [Thay đổi hình thái] trạng thái, kéo dài tới khi chiến đấu kết thúc. [Thay đổi hình thái]:nếu chuyển sang [hình thái Masked], nhận kiểm định AC+5, kéo dài tới lần chuyển tiếp theo; nếu chuyển sang [hình thái Rider], nhận kiểm định Nhanh nhẹn+4, và khi bắt đầu mỗi lượt nhận 5 tầng [tachyon siêu tốc], kéo dài tới lần chuyển tiếp theo.",
+              "13": "gắn cho bạn [Thay đổi hình thái] trạng thái, kéo dài tới khi chiến đấu kết thúc. [Thay đổi hình thái]:nếu chuyển sang [hình thái Masked], nhận kiểm định AC+5, kéo dài tới lần chuyển tiếp theo; nếu chuyển sang [hình thái Rider], nhận kiểm định Nhanh nhẹn+4, và khi bắt đầu mỗi lượt nhận 6 tầng [tachyon siêu tốc], kéo dài tới lần chuyển tiếp theo.",
+              "14": "gắn cho bạn [Thay đổi hình thái] trạng thái, kéo dài tới khi chiến đấu kết thúc. [Thay đổi hình thái]:nếu chuyển sang [hình thái Masked], nhận kiểm định AC+5, kéo dài tới lần chuyển tiếp theo; nếu chuyển sang [hình thái Rider], nhận kiểm định Nhanh nhẹn+5, và khi bắt đầu mỗi lượt nhận 6 tầng [tachyon siêu tốc], kéo dài tới lần chuyển tiếp theo.",
+              "15": "gắn cho bạn [Thay đổi hình thái] trạng thái, kéo dài tới khi chiến đấu kết thúc. [Thay đổi hình thái]:nếu chuyển sang [hình thái Masked], nhận kiểm định AC+5vớigiảm trừ sát thương 10%, kéo dài tới lần chuyển tiếp theo; nếu chuyển sang [hình thái Rider], nhận kiểm định Nhanh nhẹn+5và khi bắt đầu mỗi lượt nhận 7 tầng [tachyon siêu tốc], kéo dài tới lần chuyển tiếp theo."
+            },
+            "阶位": "Cơ bản"
+          },
+          {
+            "名称": "Kunai Gun - Chế độ rìu",
+            "类型": "Chủ động",
+            "描述": "Chuyển Kunai Gun sang chế độ rìu để chém bổ, tiêu hao [tachyon siêu tốc] gây một đòn mạnh.",
+            "特殊效果": {
+              "1": "nếu[tachyon siêu tốc] số tầngkhi đủ, thì tiêu hao 5 tầng[tachyon siêu tốc], khiếnđòn tấn công này, sát thương cuối cùng tăng 20%.",
+              "2": "nếu[tachyon siêu tốc] số tầngkhi đủ, thì tiêu hao 5 tầng[tachyon siêu tốc], khiếnđòn tấn công này, sát thương cuối cùng tăng 25%.",
+              "3": "nếu[tachyon siêu tốc] số tầngkhi đủ, thì tiêu hao 5 tầng[tachyon siêu tốc], khiếnđòn tấn công này, sát thương cuối cùng tăng 30%.",
+              "4": "nếu[tachyon siêu tốc] số tầngkhi đủ, thì tiêu hao 5 tầng[tachyon siêu tốc], khiếnđòn tấn công này, sát thương cuối cùng tăng 30%, và đòn tấn công nàykiểm định trúng đòn nhận ưu thế.",
+              "5": "nếu[tachyon siêu tốc] số tầngkhi đủ, thì tiêu hao 5 tầng[tachyon siêu tốc], khiếnđòn tấn công này, sát thương cuối cùng tăng 35%, và đòn tấn công nàykiểm định trúng đòn nhận ưu thế.",
+              "6": "nếu[tachyon siêu tốc] số tầngkhi đủ, thì tiêu hao 5 tầng[tachyon siêu tốc], khiếnđòn tấn công này, sát thương cuối cùng tăng 40%, và đòn tấn công nàykiểm định trúng đòn nhận ưu thế.",
+              "7": "nếu[tachyon siêu tốc] số tầngkhi đủ, thì tiêu hao 5 tầng[tachyon siêu tốc], khiếnđòn tấn công này, sát thương cuối cùng tăng 45%, và đòn tấn công nàykiểm định trúng đòn nhận ưu thế.",
+              "8": "nếu[tachyon siêu tốc] số tầngkhi đủ, thì tiêu hao 5[tachyon siêu tốc], khiếnđòn tấn công này, sát thương cuối cùng tăng 50%, và đòn tấn công nàykiểm định trúng đòn nhận ưu thế.",
+              "9": "nếu[tachyon siêu tốc] số tầngkhi đủ, thì tiêu hao 5 tầng[tachyon siêu tốc], khiếnđòn tấn công này, sát thương cuối cùng tăng 55%, và đòn tấn công nàykiểm định trúng đòn nhận ưu thế.",
+              "10": "nếu[tachyon siêu tốc] số tầngkhi đủ, thì tiêu hao 5 tầng[tachyon siêu tốc], khiếnđòn tấn công này, sát thương cuối cùng tăng 60%, và đòn tấn công nàychắc chắn bạo kích.",
+              "11": "nếu[tachyon siêu tốc] số tầngkhi đủ, thì tiêu hao 5 tầng[tachyon siêu tốc], khiếnđòn tấn công này, sát thương cuối cùng tăng 70%, và đòn tấn công nàychắc chắn bạo kích.",
+              "12": "nếu[tachyon siêu tốc] số tầngkhi đủ, thì tiêu hao 5 tầng[tachyon siêu tốc], khiếnđòn tấn công này, sát thương cuối cùng tăng 80%, và đòn tấn công nàychắc chắn bạo kích.",
+              "13": "nếu[tachyon siêu tốc] số tầngkhi đủ, thì tiêu hao 5 tầng[tachyon siêu tốc], khiếnđòn tấn công này, sát thương cuối cùng tăng 90%, và đòn tấn công nàychắc chắn bạo kích.",
+              "14": "nếu[tachyon siêu tốc] số tầngkhi đủ, thì tiêu hao 5 tầng[tachyon siêu tốc], khiếnđòn tấn công này, sát thương cuối cùng tăng 100%, và đòn tấn công nàychắc chắn bạo kích.",
+              "15": "nếu[tachyon siêu tốc] số tầngkhi đủ, thì tiêu hao 5 tầng[tachyon siêu tốc], khiếnđòn tấn công này, sát thương cuối cùng tăng 120%, và đòn tấn công nàychắc chắn bạo kích, và gắn cho mục tiêu[Giáp vỡ nát] trạng thái. [Giáp vỡ nát]:mục tiêu ACkiểm định-2, kéo dài 2 lượt."
+            },
+            "阶位": "Cơ bản"
+          },
+          {
+            "名称": "Kunai Gun - Chế độ súng",
+            "类型": "Chủ động",
+            "描述": "Dùng Kunai Gun bắn nhanh, là phương thức cơ bản để tích lũy [tachyon siêu tốc].",
+            "特殊效果": {
+              "1": "thực hiệnmột lần kiểm định tấn công tầm xakiểm định tấn công, sau khi trúng đònnhận 1 tầng [tachyon siêu tốc].",
+              "2": "thực hiệnmột lần kiểm định tấn công tầm xakiểm định tấn công, sau khi trúng đònnhận 1 tầng [tachyon siêu tốc].",
+              "3": "thực hiệnmột lần kiểm định tấn công tầm xakiểm định tấn công, sau khi trúng đònnhận 2 tầng [tachyon siêu tốc].",
+              "4": "thực hiệnmột lần kiểm định tấn công tầm xakiểm định tấn công, sau khi trúng đònnhận 2 tầng [tachyon siêu tốc].",
+              "5": "thực hiệnmột lần kiểm định tấn công tầm xakiểm định tấn công, sau khi trúng đònnhận 2 tầng [tachyon siêu tốc].",
+              "6": "thực hiện hai lần kiểm định tấn công tầm xakiểm định tấn công, lần tấn công thứ nhất sau khi trúng đòn, các lần sautrúng đòntấn công, sát thương của nó giảm xuống còn 10%. mỗi lần trúng đòn nhận 1 tầng [tachyon siêu tốc].",
+              "7": "thực hiện hai lần kiểm định tấn công tầm xakiểm định tấn công, lần tấn công thứ nhất sau khi trúng đòn, các lần sautrúng đòntấn công, sát thương của nó giảm xuống còn 10%. mỗi lần trúng đòn nhận 1 tầng [tachyon siêu tốc].",
+              "8": "thực hiện hai lần kiểm định tấn công tầm xakiểm định tấn công, lần tấn công thứ nhất sau khi trúng đòn, các lần sautrúng đòntấn công, sát thương của nó giảm xuống còn 10%. mỗi lần trúng đòn nhận 2 tầng [tachyon siêu tốc].",
+              "9": "thực hiện hai lần kiểm định tấn công tầm xakiểm định tấn công, lần tấn công thứ nhất sau khi trúng đòn, các lần sautrúng đòntấn công, sát thương của nó giảm xuống còn 10%. mỗi lần trúng đòn nhận 2 tầng [tachyon siêu tốc].",
+              "10": "thực hiện hai lần kiểm định tấn công tầm xakiểm định tấn công, lần tấn công thứ nhất sau khi trúng đòn, các lần sautrúng đòntấn công, sát thương của nó giảm xuống còn 10%. mỗi lần trúng đòn nhận 2 tầng [tachyon siêu tốc].",
+              "11": "thực hiện ba lần tầm xakiểm định tấn công, lần tấn công thứ nhất sau khi trúng đòn, các lần sautrúng đòntấn công, sát thương của nó giảm xuống còn 10%. mỗi lần trúng đòn nhận 1 tầng [tachyon siêu tốc].",
+              "12": "thực hiện ba lần tầm xakiểm định tấn công, lần tấn công thứ nhất sau khi trúng đòn, các lần sautrúng đòntấn công, sát thương của nó giảm xuống còn 10%. mỗi lần trúng đòn nhận 1 tầng [tachyon siêu tốc].",
+              "13": "thực hiện ba lần tầm xakiểm định tấn công, lần tấn công thứ nhất sau khi trúng đòn, các lần sautrúng đòntấn công, sát thương của nó giảm xuống còn 10%. mỗi lần trúng đòn nhận 2 tầng [tachyon siêu tốc].",
+              "14": "thực hiện ba lần tầm xakiểm định tấn công, lần tấn công thứ nhất sau khi trúng đòn, các lần sautrúng đòntấn công, sát thương của nó giảm xuống còn 10%. mỗi lần trúng đòn nhận 2 tầng [tachyon siêu tốc].",
+              "15": "thực hiện ba lần tầm xakiểm định tấn công, lần tấn công thứ nhất sau khi trúng đòn, các lần sautrúng đòntấn công, sát thương của nó giảm xuống còn 10%. mỗi lần trúng đòn nhận 2 tầng [tachyon siêu tốc]. kỹ năngsát thương cuối cùng tăng 15%."
+            },
+            "阶位": "Cơ bản"
+          }
+        ],
+        "转职": [
+          {
+            "名称": "Điều Hòa Hoàn Mỹ",
+            "类型": "Đặc biệt",
+            "描述": "Đạt đồng bộ hoàn hảo với Zecter, tức khắc nâng cao năng lực thực thi chiến thuật.",
+            "特殊效果": {
+              "1": "lập tức nhận 3 tầng [tachyon siêu tốc], gắn cho bạn [Điều Hòa Hoàn Mỹ] trạng thái. [Điều Hòa Hoàn Mỹ]:tỷ lệ bạo kích tăng 8%, kéo dài 3 lượt. mỗi trận chiến giới hạn dùng 4  lần.",
+              "2": "lập tức nhận 3 tầng [tachyon siêu tốc], gắn cho bạn [Điều Hòa Hoàn Mỹ] trạng thái. [Điều Hòa Hoàn Mỹ]:tỷ lệ bạo kích tăng 11%, kéo dài 3 lượt. mỗi trận chiến giới hạn dùng 4  lần.",
+              "3": "lập tức nhận 3 tầng [tachyon siêu tốc], gắn cho bạn [Điều Hòa Hoàn Mỹ] trạng thái. [Điều Hòa Hoàn Mỹ]:tỷ lệ bạo kích tăng 14%, kéo dài 3 lượt. mỗi trận chiến giới hạn dùng 4  lần.",
+              "4": "lập tức nhận 6 tầng [tachyon siêu tốc], gắn cho bạn [Điều Hòa Hoàn Mỹ] trạng thái. [Điều Hòa Hoàn Mỹ]:tỷ lệ bạo kích tăng 17%, kéo dài 3 lượt. mỗi trận chiến giới hạn dùng 4  lần.",
+              "5": "lập tức nhận 6 tầng [tachyon siêu tốc], gắn cho bạn [Điều Hòa Hoàn Mỹ] trạng thái. [Điều Hòa Hoàn Mỹ]:tỷ lệ bạo kích tăng 20%, kéo dài 3 lượt. mỗi trận chiến giới hạn dùng 4  lần.",
+              "6": "lập tức nhận 6 tầng [tachyon siêu tốc], gắn cho bạn [Điều Hòa Hoàn Mỹ] trạng thái. [Điều Hòa Hoàn Mỹ]:tỷ lệ bạo kích tăng 23%, kéo dài 3 lượt. mỗi trận chiến giới hạn dùng 4  lần.",
+              "7": "lập tức nhận 9 tầng [tachyon siêu tốc], gắn cho bạn [Điều Hòa Hoàn Mỹ] trạng thái. [Điều Hòa Hoàn Mỹ]:tỷ lệ bạo kích tăng 26%, kéo dài 3 lượt. mỗi trận chiến giới hạn dùng 4  lần.",
+              "8": "lập tức nhận 9 tầng [tachyon siêu tốc], gắn cho bạn [Điều Hòa Hoàn Mỹ] trạng thái. [Điều Hòa Hoàn Mỹ]:tỷ lệ bạo kích tăng 29%, kéo dài 3 lượt. mỗi trận chiến giới hạn dùng 4  lần.",
+              "9": "lập tức nhận 9 tầng [tachyon siêu tốc], gắn cho bạn [Điều Hòa Hoàn Mỹ] trạng thái. [Điều Hòa Hoàn Mỹ]:tỷ lệ bạo kích tăng 32%, kéo dài 3 lượt. mỗi trận chiến giới hạn dùng 4  lần.",
+              "10": "lập tức nhận 12 tầng [tachyon siêu tốc], gắn cho bạn [Điều Hòa Hoàn Mỹ] trạng thái. [Điều Hòa Hoàn Mỹ]:tỷ lệ bạo kích tăng 35%, kéo dài 3 lượt. mỗi trận chiến giới hạn dùng 4  lần.",
+              "11": "lập tức nhận 12 tầng [tachyon siêu tốc], gắn cho bạn [Điều Hòa Hoàn Mỹ] trạng thái. [Điều Hòa Hoàn Mỹ]:tỷ lệ bạo kích tăng 38%, kéo dài 3 lượt. mỗi trận chiến giới hạn dùng 4  lần.",
+              "12": "lập tức nhận 12 tầng [tachyon siêu tốc], gắn cho bạn [Điều Hòa Hoàn Mỹ] trạng thái. [Điều Hòa Hoàn Mỹ]:tỷ lệ bạo kích tăng 41%, kéo dài 3 lượt. mỗi trận chiến giới hạn dùng 4  lần.",
+              "13": "lập tức nhận 15 tầng [tachyon siêu tốc], gắn cho bạn [Điều Hòa Hoàn Mỹ] trạng thái. [Điều Hòa Hoàn Mỹ]:tỷ lệ bạo kích tăng 44%, kéo dài 3 lượt. mỗi trận chiến giới hạn dùng 4  lần.",
+              "14": "lập tức nhận 15 tầng [tachyon siêu tốc], gắn cho bạn [Điều Hòa Hoàn Mỹ] trạng thái. [Điều Hòa Hoàn Mỹ]:tỷ lệ bạo kích tăng 47%, kéo dài 3 lượt. mỗi trận chiến giới hạn dùng 4  lần.",
+              "15": "lập tức nhận 15 tầng [tachyon siêu tốc], gắn cho bạn [Điều Hòa Hoàn Mỹ] trạng thái. [Điều Hòa Hoàn Mỹ]:tỷ lệ bạo kích tăng 50%, kéo dài 3 lượt. mỗi trận chiến giới hạn dùng 4  lần."
+            },
+            "阶位": "Chuyển nghề"
+          },
+          {
+            "名称": "Kunai Gun - Chế độ kunai",
+            "类型": "Chủ động",
+            "描述": "Dùng chế độ kunai để tiến hành cận chiến chính xác.",
+            "特殊效果": {
+              "1": "thực hiệnmột lầncận chiếnkiểm định tấn công, sau khi trúng đònnhận 2 tầng [tachyon siêu tốc].",
+              "2": "thực hiệnmột lầncận chiếnkiểm định tấn công, sau khi trúng đònnhận 2 tầng [tachyon siêu tốc], và gắn cho mục tiêu[dấu ấn] trạng thái. [dấu ấn]:bạn đối vớinókế tiếpmột lầntấn côngkiểm định trúng đòn+1.",
+              "3": "thực hiệnmột lầncận chiếnkiểm định tấn công, sau khi trúng đònnhận 3 tầng [tachyon siêu tốc], và gắn cho mục tiêu[dấu ấn] trạng thái. [dấu ấn]:bạn đối vớinókế tiếpmột lầntấn côngkiểm định trúng đòn+1.",
+              "4": "thực hiệnmột lầncận chiếnkiểm định tấn công, sau khi trúng đònnhận 3 tầng [tachyon siêu tốc], và gắn cho mục tiêu[dấu ấn] trạng thái. [dấu ấn]:bạn đối vớinókế tiếpmột lầntấn côngkiểm định trúng đòn+2.",
+              "5": "thực hiệnmột lầncận chiếnkiểm định tấn công, sau khi trúng đònnhận 4 tầng [tachyon siêu tốc], và gắn cho mục tiêu[dấu ấn] trạng thái. [dấu ấn]:bạn đối vớinókế tiếpmột lầntấn côngkiểm định trúng đòn+2.",
+              "6": "thực hiện hai lầncận chiếnkiểm định tấn công, lần tấn công thứ nhất sau khi trúng đòn, các lần sautrúng đòntấn công, sát thương của nó giảm xuống còn 10%. mỗi lần trúng đòn nhận 3 tầng [tachyon siêu tốc], và gắn cho mục tiêu[dấu ấn] trạng thái. [dấu ấn]:bạn đối vớinókế tiếpmột lầntấn côngkiểm định trúng đòn+2.",
+              "7": "thực hiện hai lầncận chiếnkiểm định tấn công, lần tấn công thứ nhất sau khi trúng đòn, các lần sautrúng đòntấn công, sát thương của nó giảm xuống còn 10%. mỗi lần trúng đòn nhận 3 tầng [tachyon siêu tốc], và gắn cho mục tiêu[dấu ấn] trạng thái. [dấu ấn]:bạn đối vớinókế tiếpmột lầntấn côngkiểm định trúng đòn+3.",
+              "8": "thực hiện hai lầncận chiếnkiểm định tấn công, lần tấn công thứ nhất sau khi trúng đòn, các lần sautrúng đòntấn công, sát thương của nó giảm xuống còn 10%. mỗi lần trúng đòn nhận 3 tầng [tachyon siêu tốc], và gắn cho mục tiêu[dấu ấn] trạng thái. [dấu ấn]:bạn đối vớinókế tiếpmột lầntấn côngkiểm định trúng đòn+3.",
+              "9": "thực hiện hai lầncận chiếnkiểm định tấn công, lần tấn công thứ nhất sau khi trúng đòn, các lần sautrúng đòntấn công, sát thương của nó giảm xuống còn 10%. mỗi lần trúng đòn nhận 3 tầng [tachyon siêu tốc], và gắn cho mục tiêu[dấu ấn] trạng thái. [dấu ấn]:bạn đối vớinókế tiếpmột lầntấn côngkiểm định trúng đòn+3, vànàylầntấn công, sát thương cuối cùng tăng 10%.",
+              "10": "thực hiện hai lầncận chiếnkiểm định tấn công, lần tấn công thứ nhất sau khi trúng đòn, các lần sautrúng đòntấn công, sát thương của nó giảm xuống còn 10%. mỗi lần trúng đòn nhận 3 tầng [tachyon siêu tốc], và gắn cho mục tiêu[dấu ấn] trạng thái. [dấu ấn]:bạn đối vớinókế tiếpmột lầntấn côngkiểm định trúng đòn+3, vànàylầntấn công, sát thương cuối cùng tăng 15%.",
+              "11": "thực hiện ba lần cận chiếnkiểm định tấn công, lần tấn công thứ nhất sau khi trúng đòn, các lần sautrúng đòntấn công, sát thương của nó giảm xuống còn 10%. mỗi lần trúng đòn nhận 3 tầng [tachyon siêu tốc], và gắn cho mục tiêu[dấu ấn] trạng thái. [dấu ấn]:bạn đối vớinókế tiếpmột lầntấn côngkiểm định trúng đòn+3, vànàylầntấn công, sát thương cuối cùng tăng 15%.",
+              "12": "thực hiện ba lần cận chiếnkiểm định tấn công, lần tấn công thứ nhất sau khi trúng đòn, các lần sautrúng đòntấn công, sát thương của nó giảm xuống còn 10%. mỗi lần trúng đòn nhận 3 tầng [tachyon siêu tốc], và gắn cho mục tiêu[dấu ấn] trạng thái. [dấu ấn]:bạn đối vớinókế tiếpmột lầntấn côngkiểm định trúng đòn+3, vànàylầntấn công, sát thương cuối cùng tăng 15%.",
+              "13": "thực hiện ba lần cận chiếnkiểm định tấn công, lần tấn công thứ nhất sau khi trúng đòn, các lần sautrúng đòntấn công, sát thương của nó giảm xuống còn 10%. mỗi lần trúng đòn nhận 3 tầng [tachyon siêu tốc], và gắn cho mục tiêu[dấu ấn] trạng thái. [dấu ấn]:bạn đối vớinókế tiếpmột lầntấn côngkiểm định trúng đòn+4, vànàylầntấn công, sát thương cuối cùng tăng 20%.",
+              "14": "thực hiện ba lần cận chiếnkiểm định tấn công, lần tấn công thứ nhất sau khi trúng đòn, các lần sautrúng đòntấn công, sát thương của nó giảm xuống còn 10%. mỗi lần trúng đòn nhận 3 tầng [tachyon siêu tốc], và gắn cho mục tiêu[dấu ấn] trạng thái. [dấu ấn]:bạn đối vớinókế tiếpmột lầntấn côngkiểm định trúng đòn+4, vànàylầntấn công, sát thương cuối cùng tăng 20%.",
+              "15": "thực hiện ba lần cận chiếnkiểm định tấn công, lần tấn công thứ nhất sau khi trúng đòn, các lần sautrúng đòntấn công, sát thương của nó giảm xuống còn 10%. mỗi lần trúng đòn nhận 3 tầng [tachyon siêu tốc], và gắn cho mục tiêu[dấu ấn] trạng thái. [dấu ấn]:bạn đối vớinókế tiếpmột lầntấn côngkiểm định trúng đòn+5, vànàylầntấn công, sát thương cuối cùng tăng 25%."
+            },
+            "阶位": "Chuyển nghề"
+          },
+          {
+            "名称": "Rider Kick",
+            "类型": "Chủ động",
+            "描述": "“Rider Kick.” Tất sát cước tụ năng lượng tachyon vào bàn chân. Bắt buộc đang ở [hình thái Rider].",
+            "特殊效果": {
+              "1": "tiêu hao 20 tầng[tachyon siêu tốc], sát thương cuối cùng tăng 30%. nếu không đủ tầng thì không thể dùng.",
+              "2": "tiêu hao 20 tầng[tachyon siêu tốc], sát thương cuối cùng tăng 35%. nếu không đủ tầng thì không thể dùng.",
+              "3": "tiêu hao 20 tầng[tachyon siêu tốc], sát thương cuối cùng tăng 40%. nếu không đủ tầng thì không thể dùng.",
+              "4": "tiêu hao 20 tầng[tachyon siêu tốc], sát thương cuối cùng tăng 45%, vàkiểm định trúng đòn nhận ưu thế. nếu không đủ tầng thì không thể dùng.",
+              "5": "tiêu hao 20 tầng[tachyon siêu tốc], sát thương cuối cùng tăng 50%, vàkiểm định trúng đòn nhận ưu thế. nếu không đủ tầng thì không thể dùng.",
+              "6": "tiêu hao 20 tầng[tachyon siêu tốc], sát thương cuối cùng tăng 55%, vàkiểm định trúng đòn nhận ưu thế. nếu không đủ tầng thì không thể dùng.",
+              "7": "tiêu hao 20 tầng[tachyon siêu tốc], sát thương cuối cùng tăng 60%, vàkiểm định trúng đòn nhận ưu thế. nếu không đủ tầng thì không thể dùng.",
+              "8": "tiêu hao 20 tầng[tachyon siêu tốc], sát thương cuối cùng tăng 65%, vàkiểm định trúng đòn nhận ưu thế. nếu không đủ tầng thì không thể dùng.",
+              "9": "tiêu hao 20 tầng[tachyon siêu tốc], sát thương cuối cùng tăng 70%, vàkiểm định trúng đòn nhận ưu thế. nếu không đủ tầng thì không thể dùng.",
+              "10": "tiêu hao 20 tầng[tachyon siêu tốc], sát thương cuối cùng tăng 75%, và đòn tấn công nàychắc chắn bạo kích. nếu không đủ tầng thì không thể dùng.",
+              "11": "tiêu hao 20 tầng[tachyon siêu tốc], sát thương cuối cùng tăng 80%, và đòn tấn công nàychắc chắn bạo kích. nếu không đủ tầng thì không thể dùng.",
+              "12": "tiêu hao 20 tầng[tachyon siêu tốc], sát thương cuối cùng tăng 85%, và đòn tấn công nàychắc chắn bạo kích. nếu không đủ tầng thì không thể dùng.",
+              "13": "tiêu hao 20 tầng[tachyon siêu tốc], sát thương cuối cùng tăng 90%, và đòn tấn công nàychắc chắn bạo kích. nếu không đủ tầng thì không thể dùng.",
+              "14": "tiêu hao 20 tầng[tachyon siêu tốc], sát thương cuối cùng tăng 95%, và đòn tấn công nàychắc chắn bạo kích. nếu không đủ tầng thì không thể dùng.",
+              "15": "tiêu hao 20 tầng[tachyon siêu tốc], sát thương cuối cùng tăng 100%, và đòn tấn công nàychắc chắn bạo kích. nếu không đủ tầng thì không thể dùng."
+            },
+            "阶位": "Chuyển nghề"
+          }
+        ],
+        "进阶": [
+          {
+            "名称": "Né Tránh Siêu Tốc",
+            "类型": "Đặc biệt",
+            "描述": "Dự đoán công kích của địch và né tránh bằng tốc độ vượt giới hạn.",
+            "特殊效果": {
+              "1": "gắn cho bạn [Né Tránh Siêu Tốc] trạng thái. [Né Tránh Siêu Tốc]:khi bạn trở thànhmột lầntấn côngmục tiêukhi, bạncó thểsử dụngphản ứng đểkhiếnđòn nàylầntấn côngvới bạnkiểm định trúng đònchịu bất lợi, né thành côngsau đónhận 2 tầng [tachyon siêu tốc]. hiệu quả nàykéo dài 1 lượt.",
+              "2": "gắn cho bạn [Né Tránh Siêu Tốc] trạng thái. [Né Tránh Siêu Tốc]:khi bạn trở thànhmột lầntấn côngmục tiêukhi, bạncó thểsử dụngphản ứng đểkhiếnđòn nàylầntấn côngvới bạnkiểm định trúng đònchịu bất lợi, né thành côngsau đónhận 3 tầng [tachyon siêu tốc]. hiệu quả nàykéo dài 1 lượt.",
+              "3": "gắn cho bạn [Né Tránh Siêu Tốc] trạng thái. [Né Tránh Siêu Tốc]:khi bạn trở thànhmột lầntấn côngmục tiêukhi, bạncó thểsử dụngphản ứng đểkhiếnđòn nàylầntấn côngvới bạnkiểm định trúng đònchịu bất lợi, né thành côngsau đónhận 4 tầng [tachyon siêu tốc]. hiệu quả nàykéo dài 1 lượt.",
+              "4": "gắn cho bạn [Né Tránh Siêu Tốc] trạng thái. [Né Tránh Siêu Tốc]:khi bạn trở thànhmột lầntấn côngmục tiêukhi, bạncó thểsử dụngphản ứng đểkhiếnđòn nàylầntấn côngvới bạnkiểm định trúng đònchịu bất lợi, né thành côngsau đónhận 5 tầng [tachyon siêu tốc]. hiệu quả nàykéo dài 2 lượt.",
+              "5": "gắn cho bạn [Né Tránh Siêu Tốc] trạng thái. [Né Tránh Siêu Tốc]:khi bạn trở thànhmột lầntấn côngmục tiêukhi, bạncó thểsử dụngphản ứng đểkhiếnđòn nàylầntấn côngvới bạnkiểm định trúng đònchịu bất lợi, né thành côngsau đónhận 6 tầng [tachyon siêu tốc]. hiệu quả nàykéo dài 2 lượt.",
+              "6": "gắn cho bạn [Né Tránh Siêu Tốc] trạng thái. [Né Tránh Siêu Tốc]:khi bạn trở thànhmột lầntấn côngmục tiêukhi, bạncó thểsử dụngphản ứng đểkhiếnđòn nàylầntấn côngtự động đánh trượt, né thành côngsau đónhận 6 tầng [tachyon siêu tốc]. hiệu quả nàykéo dài 1 lượt, mỗi trận chiến giới hạn dùng 1  lần.",
+              "7": "gắn cho bạn [Né Tránh Siêu Tốc] trạng thái. [Né Tránh Siêu Tốc]:khi bạn trở thànhmột lầntấn côngmục tiêukhi, bạncó thểsử dụngphản ứng đểkhiếnđòn nàylầntấn côngtự động đánh trượt, né thành côngsau đónhận 7 tầng [tachyon siêu tốc]. hiệu quả nàykéo dài 1 lượt, mỗi trận chiến giới hạn dùng 2  lần.",
+              "8": "gắn cho bạn [Né Tránh Siêu Tốc] trạng thái. [Né Tránh Siêu Tốc]:khi bạn trở thànhmột lầntấn côngmục tiêukhi, bạncó thểsử dụngphản ứng đểkhiếnđòn nàylầntấn côngtự động đánh trượt, né thành côngsau đónhận 8 tầng [tachyon siêu tốc]. hiệu quả nàykéo dài 1 lượt, mỗi trận chiến giới hạn dùng 3  lần.",
+              "9": "gắn cho bạn [Né Tránh Siêu Tốc] trạng thái. [Né Tránh Siêu Tốc]:khi bạn trở thànhmột lầntấn côngmục tiêukhi, bạncó thểsử dụngphản ứng đểkhiếnđòn nàylầntấn côngtự động đánh trượt, né thành côngsau đónhận 9 tầng [tachyon siêu tốc]. hiệu quả nàykéo dài 1 lượt, mỗi trận chiến giới hạn dùng 4  lần.",
+              "10": "gắn cho bạn [Né Tránh Siêu Tốc] trạng thái. [Né Tránh Siêu Tốc]:khi bạn trở thànhmột lầntấn côngmục tiêukhi, bạncó thểsử dụngphản ứng đểkhiếnđòn nàylầntấn côngtự động đánh trượt, né thành côngsau đónhận 10 tầng [tachyon siêu tốc]. hiệu quả nàykéo dài 1 lượt, mỗi trận chiến giới hạn dùng 5  lần."
+            },
+            "阶位": "Nâng cao"
+          },
+          {
+            "名称": "Clock Up",
+            "类型": "Đặc biệt nghề nghiệp",
+            "描述": "“Clock Up.” Tiến vào trạng thái siêu gia tốc, khiến thời gian xung quanh gần như dừng lại. Bắt buộc đang ở [hình thái Rider].",
+            "特殊效果": {
+              "1": "tiêu hao 30 tầng[tachyon siêu tốc], gắn cho bạn [Clock Up] trạng thái. [Clock Up]:bạn nhận 3 thêmhành động chính. kéo dài 1 lượt. nếu không đủ tầng thì không thể dùng."
+            },
+            "阶位": "Nâng cao"
+          },
+          {
+            "名称": "Trảm Kích Siêu Tốc",
+            "类型": "Chủ động",
+            "描述": "Trong trạng thái siêu gia tốc, liên tục chém vào mục tiêu với tốc độ mắt thường khó bắt kịp. Bắt buộc đang ở [hình thái Rider]. Có thể phối hợp với [Clock Up].",
+            "特殊效果": {
+              "1": "nếu[tachyon siêu tốc] số tầngkhi đủ, thì tiêu hao 10 tầng[tachyon siêu tốc], thêmthực hiệnmột lầncận chiếnkiểm định tấn công. nếubạnđang ở[Clock Up] trạng thái, thìđổi thànhthực hiện hai lầnkiểm định tấn công, lần tấn công thứ nhất sau khi trúng đòn, các lần sautrúng đòntấn công, sát thương của nó giảm xuống còn 20%.",
+              "2": "nếu[tachyon siêu tốc] số tầngkhi đủ, thì tiêu hao 10 tầng[tachyon siêu tốc], thêmthực hiệnmột lầncận chiếnkiểm định tấn công. nếubạnđang ở[Clock Up] trạng thái, thìđổi thànhthực hiện hai lầnkiểm định tấn công, lần tấn công thứ nhất sau khi trúng đòn, các lần sautrúng đòntấn công, sát thương của nó giảm xuống còn 20%.",
+              "3": "nếu[tachyon siêu tốc] số tầngkhi đủ, thì tiêu hao 10 tầng[tachyon siêu tốc], thêmthực hiệnmột lầncận chiếnkiểm định tấn công. nếubạnđang ở[Clock Up] trạng thái, thìđổi thànhthực hiện hai lầnkiểm định tấn công, lần tấn công thứ nhất sau khi trúng đòn, các lần sautrúng đòntấn công, sát thương của nó giảm xuống còn 20%.",
+              "4": "nếu[tachyon siêu tốc] số tầngkhi đủ, thì tiêu hao 10 tầng[tachyon siêu tốc], thêmthực hiệnmột lầncận chiếnkiểm định tấn công. nếubạnđang ở[Clock Up] trạng thái, thìđổi thànhthực hiện ba lần kiểm định tấn công, lần tấn công thứ nhất sau khi trúng đòn, các lần sautrúng đòntấn công, sát thương của nó giảm xuống còn 20%.",
+              "5": "nếu[tachyon siêu tốc] số tầngkhi đủ, thì tiêu hao 10 tầng[tachyon siêu tốc], thêmthực hiệnmột lầncận chiếnkiểm định tấn công. nếubạnđang ở[Clock Up] trạng thái, thìđổi thànhthực hiện ba lần kiểm định tấn công, lần tấn công thứ nhất sau khi trúng đòn, các lần sautrúng đòntấn công, sát thương của nó giảm xuống còn 20%, vàkiểm định tấn côngcóưu thế.",
+              "6": "nếu[tachyon siêu tốc] số tầngkhi đủ, thì tiêu hao 10 tầng[tachyon siêu tốc], thêmthực hiệnmột lầncận chiếnkiểm định tấn công. nếubạnđang ở[Clock Up] trạng thái, thìđổi thànhthực hiện ba lần kiểm định tấn công, lần tấn công thứ nhất sau khi trúng đòn, các lần sautrúng đòntấn công, sát thương của nó giảm xuống còn 20%, vàkiểm định tấn côngcóưu thế.",
+              "7": "nếu[tachyon siêu tốc] số tầngkhi đủ, thì tiêu hao 10 tầng[tachyon siêu tốc], thêmthực hiệnmột lầncận chiếnkiểm định tấn công. nếubạnđang ở[Clock Up] trạng thái, thìđổi thànhthực hiệnbốnlầnkiểm định tấn công, lần tấn công thứ nhất sau khi trúng đòn, các lần sautrúng đòntấn công, sát thương của nó giảm xuống còn 20%, vàkiểm định tấn côngcóưu thế.",
+              "8": "nếu[tachyon siêu tốc] số tầngkhi đủ, thì tiêu hao 10 tầng[tachyon siêu tốc], thêmthực hiệnmột lầncận chiếnkiểm định tấn công. nếubạnđang ở[Clock Up] trạng thái, thìđổi thànhthực hiệnbốnlầnkiểm định tấn công, lần tấn công thứ nhất sau khi trúng đòn, các lần sautrúng đòntấn công, sát thương của nó giảm xuống còn 20%, vàkiểm định tấn côngcóưu thế.",
+              "9": "nếu[tachyon siêu tốc] số tầngkhi đủ, thì tiêu hao 10 tầng[tachyon siêu tốc], thêmthực hiệnmột lầncận chiếnkiểm định tấn công. nếubạnđang ở[Clock Up] trạng thái, thìđổi thànhthực hiệnnămlầnkiểm định tấn công, lần tấn công thứ nhất sau khi trúng đòn, các lần sautrúng đòntấn công, sát thương của nó giảm xuống còn 20%, vàkiểm định tấn côngcóưu thế.",
+              "10": "nếu[tachyon siêu tốc] số tầngkhi đủ, thì tiêu hao 10 tầng[tachyon siêu tốc], thêmthực hiệnmột lầncận chiếnkiểm định tấn công. nếubạnđang ở[Clock Up] trạng thái, thìđổi thànhthực hiệnnămlầnkiểm định tấn công, lần tấn công thứ nhất sau khi trúng đòn, các lần sautrúng đòntấn công, sát thương của nó giảm xuống còn 30%, vàkiểm định tấn côngcóưu thế, chắc chắn bạo kích."
+            },
+            "阶位": "Nâng cao"
+          }
+        ],
+        "必杀": [
+          {
+            "名称": "Hyper Cast Off",
+            "类型": "Đặc biệt",
+            "描述": "“Hyper Cast Off.” Vượt qua giới hạn bản thân, tiến hóa thành hình thái Hyper.",
+            "特殊效果": {
+              "1": "gắn cho bạn [hình thái Hyper] trạng thái. [hình thái Hyper]:bạn ACkiểm định+2, Nhanh nhẹnkiểm định+2, tất cảkỹ năngtiêu hao[tachyon siêu tốc]giảm 10%. hiệu quả nàytrạng tháikéo dài 3 lượt.",
+              "2": "gắn cho bạn [hình thái Hyper] trạng thái. [hình thái Hyper]:bạn ACkiểm định+2, Nhanh nhẹnkiểm định+2, tất cảkỹ năngtiêu hao[tachyon siêu tốc]giảm 15%. hiệu quả nàytrạng tháikéo dài 3 lượt.",
+              "3": "gắn cho bạn [hình thái Hyper] trạng thái. [hình thái Hyper]:bạn ACkiểm định+3, Nhanh nhẹnkiểm định+3, tất cảkỹ năngtiêu hao[tachyon siêu tốc]giảm 15%. hiệu quả nàytrạng tháikéo dài 3 lượt.",
+              "4": "gắn cho bạn [hình thái Hyper] trạng thái. [hình thái Hyper]:bạn ACkiểm định+3, Nhanh nhẹnkiểm định+3, tất cảkỹ năngtiêu hao[tachyon siêu tốc]giảm 20%. hiệu quả nàytrạng tháikéo dài 4 lượt.",
+              "5": "gắn cho bạn [hình thái Hyper] trạng thái. [hình thái Hyper]:bạn ACkiểm định+4, Nhanh nhẹnkiểm định+4, tất cảkỹ năngtiêu hao[tachyon siêu tốc]giảm 20%. hiệu quả nàytrạng tháikéo dài 4 lượt.",
+              "6": "gắn cho bạn [hình thái Hyper] trạng thái. [hình thái Hyper]:bạn ACkiểm định+4, Nhanh nhẹnkiểm định+4, tất cảkỹ năngtiêu hao[tachyon siêu tốc]giảm 25%. hiệu quả nàytrạng tháikéo dài 5 lượt.",
+              "7": "gắn cho bạn [hình thái Hyper] trạng thái. [hình thái Hyper]:bạn ACkiểm định+5, Nhanh nhẹnkiểm định+5, tất cảkỹ năngtiêu hao[tachyon siêu tốc]giảm 30%. hiệu quả nàytrạng tháikéo dài suốt trận chiến."
+            },
+            "阶位": "Tất sát"
+          },
+          {
+            "名称": "Hyper Blade",
+            "类型": "Chủ động",
+            "描述": "“Hyper Blade.” Dùng lưỡi sáng cường hóa từ Perfect Zecter - chế độ kiếm để quét rộng. Bắt buộc đang ở [hình thái Hyper].",
+            "特殊效果": {
+              "1": "nếu[tachyon siêu tốc] số tầngkhi đủ, thì tiêu hao 15 tầng[tachyon siêu tốc], sát thương cuối cùng tăng 20%.",
+              "2": "nếu[tachyon siêu tốc] số tầngkhi đủ, thì tiêu hao 15 tầng[tachyon siêu tốc], sát thương cuối cùng tăng 25%.",
+              "3": "nếu[tachyon siêu tốc] số tầngkhi đủ, thì tiêu hao 15 tầng[tachyon siêu tốc], sát thương cuối cùng tăng 30%, kiểm định tấn côngcóưu thế.",
+              "4": "nếu[tachyon siêu tốc] số tầngkhi đủ, thì tiêu hao 20 tầng[tachyon siêu tốc], sát thương cuối cùng tăng 35%, kiểm định tấn côngcóưu thế, sát thương bạo kíchtăng 20%.",
+              "5": "nếu[tachyon siêu tốc] số tầngkhi đủ, thì tiêu hao 25 tầng[tachyon siêu tốc], sát thương cuối cùng tăng 40%, kiểm định tấn côngcóưu thế, sát thương bạo kíchtăng 30%, bỏ quamục tiêu 20% phòng ngự.",
+              "6": "nếu[tachyon siêu tốc] số tầngkhi đủ, thì tiêu hao 25 tầng[tachyon siêu tốc], sát thương cuối cùng tăng 45%, kiểm định tấn côngcóưu thế, sát thương bạo kíchtăng 40%, bỏ quamục tiêu 25% phòng ngự.",
+              "7": "nếu[tachyon siêu tốc] số tầngkhi đủ, thì tiêu hao 25 tầng[tachyon siêu tốc], sát thương cuối cùng tăng 50%, kiểm định tấn côngcóưu thế, sát thương bạo kíchtăng 50%, bỏ quamục tiêu 30% phòng ngự."
+            },
+            "阶位": "Tất sát"
+          },
+          {
+            "名称": "Hyper Rider Kick",
+            "类型": "Chủ động",
+            "描述": "“Hyper Rider Kick.” Cước kỵ sĩ tối thượng trong hình thái Hyper, mang sức mạnh đảo ngược thời không. Bắt buộc đang ở [hình thái Hyper].",
+            "特殊效果": {
+              "1": "tiêu hao 30 tầng[tachyon siêu tốc], sát thương cuối cùng tăng 20%. nếu không đủ tầng thì không thể dùng.",
+              "2": "tiêu hao 30 tầng[tachyon siêu tốc], sát thương cuối cùng tăng 25%. nếu không đủ tầng thì không thể dùng.",
+              "3": "tiêu hao 30 tầng[tachyon siêu tốc], sát thương cuối cùng tăng 30%, vàkiểm định trúng đòncóưu thế. nếu không đủ tầng thì không thể dùng.",
+              "4": "tiêu hao 30 tầng[tachyon siêu tốc], sát thương cuối cùng tăng 35%, vàkiểm định trúng đòncóưu thế. nếu không đủ tầng thì không thể dùng.",
+              "5": "tiêu hao 30 tầng[tachyon siêu tốc], sát thương cuối cùng tăng 40%, vàkiểm định trúng đòncóưu thế, chắc chắn bạo kích. nếu không đủ tầng thì không thể dùng.",
+              "6": "tiêu hao 30 tầng[tachyon siêu tốc], sát thương cuối cùng tăng 45%, vàkiểm định trúng đòncóưu thế, chắc chắn bạo kích, và gắn cho mục tiêu[Không thời gian nghiền nát] trạng thái. [Không thời gian nghiền nát]:mục tiêutrongtrận chiến nàykhông thểthực hiện bất kỳhành động phản ứng, vàvới mọi kiểm định tấn côngđềuchịu bất lợi, kéo dài 3 lượt. nếu không đủ tầng thì không thể dùng.",
+              "7": "tiêu hao 30 tầng[tachyon siêu tốc], sát thương cuối cùng tăng 50%, vàkiểm định trúng đòncóưu thế, chắc chắn bạo kích, và gắn cho mục tiêu[Không thời gian nghiền nát] trạng thái. [Không thời gian nghiền nát]:mục tiêutrongtrận chiến nàykhông thểthực hiện bất kỳhành động phản ứng, vàvới mọi kiểm định tấn côngđềuchịu bất lợi, kéo dài tới khi chiến đấu kết thúc. nếu không đủ tầng thì không thể dùng."
+            },
+            "阶位": "Tất sát"
+          }
+        ],
+        "奥义": [
+          {
+            "名称": "Hyper Clock Up",
+            "类型": "Đặc biệt",
+            "描述": "“Hyper Clock Up.” Tiến vào lĩnh vực thời gian dừng thật sự, nơi chỉ người được chọn mới có thể đặt chân. Bắt buộc đang ở [hình thái Hyper].",
+            "特殊效果": {
+              "1": "tiêu hao 50 tầng[tachyon siêu tốc], gắn cho bạn [Hyper Clock Up] trạng thái. [Hyper Clock Up]:bạn nhận 1 hoàn chỉnhthêmlượt. trong lượt này, mọi tấn côngchắc chắn bạo kích. mỗi trận chiến giới hạn dùng 1  lần. nếu không đủ tầng thì không thể dùng.",
+              "2": "tiêu hao 50 tầng[tachyon siêu tốc], gắn cho bạn [Hyper Clock Up] trạng thái. [Hyper Clock Up]:bạn nhận 1 hoàn chỉnhthêmlượt. trong lượt này, mọi tấn côngchắc chắn bạo kích, vàsát thương cuối cùng tăng 20%. mỗi trận chiến giới hạn dùng 1  lần. nếu không đủ tầng thì không thể dùng.",
+              "3": "tiêu hao 50 tầng[tachyon siêu tốc], gắn cho bạn [Hyper Clock Up] trạng thái. [Hyper Clock Up]:bạn nhận 1 hoàn chỉnhthêmlượt. trong lượt này, mọi tấn côngchắc chắn bạo kích, vàsát thương cuối cùng tăng 30%. mỗi trận chiến giới hạn dùng 1  lần. nếu không đủ tầng thì không thể dùng.",
+              "4": "tiêu hao 50 tầng[tachyon siêu tốc], gắn cho bạn [Hyper Clock Up] trạng thái. [Hyper Clock Up]:bạn nhận 1 hoàn chỉnhthêmlượt. trong lượt này, mọi tấn côngchắc chắn bạo kích, vàsát thương cuối cùng tăng 40%. mỗi trận chiến giới hạn dùng 1  lần. nếu không đủ tầng thì không thể dùng.",
+              "5": "tiêu hao 50 tầng[tachyon siêu tốc], gắn cho bạn [Hyper Clock Up] trạng thái. [Hyper Clock Up]:bạn nhận 1 hoàn chỉnhthêmlượt. trong lượt này, mọi tấn côngchắc chắn bạo kích, vàsát thương cuối cùng tăng 50%. mỗi trận chiến giới hạn dùng 1  lần. nếu không đủ tầng thì không thể dùng."
+            },
+            "阶位": "Áo nghĩa"
+          },
+          {
+            "名称": "Maximum Hyper Typhoon",
+            "类型": "Chủ động",
+            "描述": "“Maximum Hyper Typhoon.” Trong trạng thái Hyper Clock Up, dùng Perfect Zecter - chế độ kiếm ngưng tụ lưỡi photon khổng lồ để xé toạc kẻ địch. Bắt buộc đang ở [Hyper Clock Up].",
+            "特殊效果": {
+              "1": "tiêu hao toàn bộ [tachyon siêu tốc], gây lên mọi kẻ địch quanh bạngâymột lầntrảm kích hủy diệt. mỗitiêu hao 10 tầng[tachyon siêu tốc], đòn tấn công này, sát thương cuối cùng tăng 5%. nếu không đủ tầng thì không thể dùng.",
+              "2": "tiêu hao toàn bộ [tachyon siêu tốc], gây lên mọi kẻ địch quanh bạngâymột lầntrảm kích hủy diệt. mỗitiêu hao 10 tầng[tachyon siêu tốc], đòn tấn công này, sát thương cuối cùng tăng 10%. nếu không đủ tầng thì không thể dùng.",
+              "3": "tiêu hao toàn bộ [tachyon siêu tốc], gây lên mọi kẻ địch quanh bạngâymột lầntrảm kích hủy diệt. mỗitiêu hao 10 tầng[tachyon siêu tốc], đòn tấn công này, sát thương cuối cùng tăng 15%. nếu không đủ tầng thì không thể dùng.",
+              "4": "tiêu hao toàn bộ [tachyon siêu tốc], gây lên mọi kẻ địch quanh bạngâymột lầntrảm kích hủy diệt. mỗitiêu hao 10 tầng[tachyon siêu tốc], đòn tấn công này, sát thương cuối cùng tăng 15%, và bỏ quamục tiêu 50% phòng ngự. nếu không đủ tầng thì không thể dùng.",
+              "5": "tiêu hao toàn bộ [tachyon siêu tốc], gây lên mọi kẻ địch quanh bạngâymột lầntrảm kích hủy diệt. mỗitiêu hao 10 tầng[tachyon siêu tốc], đòn tấn công này, sát thương cuối cùng tăng 20%, và bỏ quamọi phòng ngự. nếu không đủ tầng thì không thể dùng."
+            },
+            "阶位": "Áo nghĩa"
+          },
+          {
+            "名称": "Maximum Hyper Cyclone",
+            "类型": "Chủ động",
+            "描述": "“Maximum Hyper Cyclone.” Trong trạng thái Hyper Clock Up, dùng Perfect Zecter - chế độ súng bóp cò bắn ra sóng năng lượng khổng lồ dạng lốc xoáy. Bắt buộc đang ở [Hyper Clock Up].",
+            "特殊效果": {
+              "1": "tiêu hao toàn bộ [tachyon siêu tốc], lấy bản thân làm tâm để bộc phát năng lượng, vào mọi kẻ địch trong phạm vi lớntất cảkẻ địchgâysát thương. mỗitiêu hao 10 tầng[tachyon siêu tốc], đòn tấn công này, sát thương cuối cùng tăng 5%. nếu không đủ tầng thì không thể dùng.",
+              "2": "tiêu hao toàn bộ [tachyon siêu tốc], lấy bản thân làm tâm để bộc phát năng lượng, vào mọi kẻ địch trong phạm vi lớntất cảkẻ địchgâysát thương. mỗitiêu hao 10 tầng[tachyon siêu tốc], đòn tấn công này, sát thương cuối cùng tăng 10%. nếu không đủ tầng thì không thể dùng.",
+              "3": "tiêu hao toàn bộ [tachyon siêu tốc], lấy bản thân làm tâm để bộc phát năng lượng, vào mọi kẻ địch trong phạm vi lớntất cảkẻ địchgâysát thương. mỗitiêu hao 10 tầng[tachyon siêu tốc], đòn tấn công này, sát thương cuối cùng tăng 15%, và gắn cho mọi mục tiêu bị trúng đòn[Năng lượng xâm thực] trạng thái. [Năng lượng xâm thực]:mọi kiểm định miễn trừ-2, kéo dài 2 lượt. nếu không đủ tầng thì không thể dùng.",
+              "4": "tiêu hao toàn bộ [tachyon siêu tốc], lấy bản thân làm tâm để bộc phát năng lượng, vào mọi kẻ địch trong phạm vi lớntất cảkẻ địchgâysát thương. mỗitiêu hao 10 tầng[tachyon siêu tốc], đòn tấn công này, sát thương cuối cùng tăng 15%, và gắn cho mọi mục tiêu bị trúng đòn[Năng lượng xâm thực] trạng thái. [Năng lượng xâm thực]:mọi kiểm định miễn trừ-3, kéo dài 3 lượt. nếu không đủ tầng thì không thể dùng.",
+              "5": "tiêu hao toàn bộ [tachyon siêu tốc], lấy bản thân làm tâm để bộc phát năng lượng, vào mọi kẻ địch trong phạm vi lớntất cảkẻ địchgâysát thương. mỗitiêu hao 10 tầng[tachyon siêu tốc], đòn tấn công này, sát thương cuối cùng tăng 15%, và gắn cho mọi mục tiêu bị trúng đòn[Năng lượng phân rã] trạng thái. [Năng lượng phân rã]:mọi kiểm định miễn trừchịu bất lợi, vàkhông thể được trị liệu, kéo dài 3 lượt. nếu không đủ tầng thì không thể dùng."
+            },
+            "阶位": "Áo nghĩa"
+          }
+        ],
+        "觉醒一": [
+          {
+            "名称": "Thiên Đạo",
+            "类型": "Đặc biệt",
+            "阶位": "Thức tỉnh một",
+            "描述": "“Ta bước trên con đường của trời, người sẽ cai quản tất cả.” Thức tỉnh ý chí Tendou Souji, giành quyền khống chế tuyệt đối chiến trường.",
+            "特殊效果": {
+              "1": "gắn cho bản thân [Thiên Đạo] trạng thái, kéo dài tới khi chiến đấu kết thúc. [Thiên Đạo]:mọi kiểm định trúng đòn+1, tất cảkiểm định miễn trừ+1. mỗi lượt nhận 5 tầng [tachyon siêu tốc].",
+              "2": "gắn cho bản thân [Thiên Đạo] trạng thái, kéo dài tới khi chiến đấu kết thúc. [Thiên Đạo]:mọi kiểm định trúng đòn+2, tất cảkiểm định miễn trừ+2. mỗi lượt nhận 5 tầng [tachyon siêu tốc].",
+              "3": "gắn cho bản thân [Thiên Đạo] trạng thái, kéo dài tới khi chiến đấu kết thúc. [Thiên Đạo]:mọi kiểm định trúng đòn+3, tất cảkiểm định miễn trừ+3. mỗi lượt nhận 5 tầng [tachyon siêu tốc]."
+            }
+          }
+        ],
+        "觉醒二": [
+          {
+            "名称": "Souji",
+            "类型": "Đặc biệt",
+            "阶位": "Thức tỉnh hai",
+            "描述": "“Thế giới xoay quanh ta.” Bậc thầy chiến thuật nắm giữ sinh tử, biến từng tấc chiến trường thành bãi săn.",
+            "特殊效果": {
+              "1": "gắn cho bản thân [Souji] trạng thái, kéo dài tới khi chiến đấu kết thúc. [Souji]: khi bắt đầu mỗi vòngthêmnhận 1 hành động tiêu chuẩn; khibạntrong[Clock Up]/[Hyper Clock Up] trạng tháikế tiếptiêu diệtkẻ địchkhi, lập tức hồi phục 20% sinh mệnh tối đavànhận 10 tầng [tachyon siêu tốc].",
+              "2": "gắn cho bản thân [Souji] trạng thái, kéo dài tới khi chiến đấu kết thúc. [Souji]: khi bắt đầu mỗi vòngthêmnhận 1 hành động tiêu chuẩn; khibạntrong[Clock Up]/[Hyper Clock Up] trạng tháikế tiếptiêu diệtkẻ địchkhi, lập tức hồi phục 20% sinh mệnh tối đavànhận 20 tầng [tachyon siêu tốc]."
+            }
+          }
+        ],
+        "觉醒三": [
+          {
+            "名称": "Thần Mặt Trời",
+            "类型": "Đặc biệt",
+            "阶位": "Thức tỉnh ba",
+            "描述": "“Chỉ cần ta khát vọng, vận mệnh sẽ đứng về phía ta.” Quân lâm thiên hạ như thần mặt trời; sự tồn tại của bạn chính là quy luật chiến thắng.",
+            "特殊效果": {
+              "1": "gắn cho bản thân [Thần Mặt Trời] trạng thái, kéo dài tới khi chiến đấu kết thúc. [Thần Mặt Trời]:mọi tấn côngđềugây thêm sát thương chuẩn thuộc tính ánh sáng, trị số bằngbạnhiện tạithi triểnkỹ năngsát thương 20%. bạn đối vớitất cảhiệu ứng giảm íchmiễn nhiễm. mỗi trận chiếnmột lần, khibạn HPgiángtới 0khi, có thểlấy sinh mệnh tối đa 50% hồi sinh, vàvào xung quanhtất cảkẻ địchgắn[thần uy] trạng thái. [thần uy]:mục tiêurơi vào[chấn nhiếp] trạng thái, kéo dài 1 lượt."
+            }
+          }
+        ]
+      },
+      "skillTreeForClass": "Kamen Rider Kabuto",
+      "lockedSkillMap": {},
+      "skillFlavorInput": "",
+      "teammates": [],
+      "customTeammate": null,
+      "selectedTraits": [],
+      "customTraits": [
+        {
+          "name": "Đi theo thiên đạo, thống lĩnh tất cả",
+          "effect": "Bạn luôn có thể nói ra vài câu cực kỳ ra dáng, điều này có thể khiến những tồn tại hùng mạnh chú ý tới bạn."
+        }
+      ],
+      "customExpertise": [],
+      "customIdentity": null,
+      "selectedOpening": "traverse",
+      "customOpeningText": "",
+      "selectedDifficulty": "normal",
+      "customRace": null
+    }
+  }
+}

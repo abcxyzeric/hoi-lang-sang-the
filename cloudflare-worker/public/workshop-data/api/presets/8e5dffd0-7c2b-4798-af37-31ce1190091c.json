@@ -1,0 +1,490 @@
+{
+  "ok": true,
+  "preset": {
+    "id": "8e5dffd0-7c2b-4798-af37-31ce1190091c",
+    "ownerId": "1364216305598595214",
+    "ownerName": "347",
+    "author": "347",
+    "authorAvatar": "https://cdn.discordapp.com/avatars/1364216305598595214/d5259a6e6e376621214869583fa1aa68.png?size=128",
+    "name": "Liệt Hải Vương",
+    "title": "Liệt Hải Vương",
+    "intro": "Liệt, Liệt!\nLiệt Hải Vương trước nay vẫn luôn chẳng hề bận tâm tới chuyện chuyển sinh sang dị giới!\nTrong thế giới dung hợp nơi cường giả nhiều như mây này, hãy bước ra năm thứ 5001 của võ thuật Trung Hoa đi!",
+    "coverUrl": "/api/presets/8e5dffd0-7c2b-4798-af37-31ce1190091c/cover",
+    "className": "Hải Vương",
+    "race": "Võ đạo gia Trung Hoa",
+    "tags": [
+      "Chơi vui",
+      "Đồng nhân",
+      "Bộc phát",
+      "Thao tác"
+    ],
+    "likes": 7,
+    "liked": false,
+    "downloads": 12,
+    "status": "published",
+    "createdAt": "2026-03-30 11:58:32",
+    "updatedAt": "2026-05-12 04:24:10",
+    "lastLikedAt": "",
+    "presetData": {
+      "name": "Liệt Tiểu Long",
+      "gender": "Nam",
+      "age": 29,
+      "race": "__custom__",
+      "identity": "__custom__",
+      "attributes": {
+        "strength": 13,
+        "dexterity": 14,
+        "constitution": 13,
+        "intelligence": 10,
+        "wisdom": 12,
+        "charisma": 12
+      },
+      "backstory": "",
+      "selectedLevelMode": "native",
+      "selectedCustomLevel": null,
+      "selectedSpawnPoint": "Tầng dưới thành phố vách cảng Hoàn Uyên - bờ biển ngoại vi",
+      "class": "Hải Vương",
+      "selectedBaseClass": "Nghề tùy chỉnh",
+      "customClassName": "Hải Vương",
+      "customClassStyle": "Đặc sắc nghề nghiệp: võ học thuần vật lý, giáng đòn hạ chiều.\nCơ chế không có thanh lam: nghề này hoàn toàn không có ma lực, thay vào đó dùng “khí” hoặc “thanh thể năng”. Hoàn toàn miễn nhiễm mọi hiệu ứng tiêu cực như câm lặng và phong ấn ma pháp.\n\nTinh thông cực hạn cả vũ khí lẫn tay không: có thể chuyển đổi liền mạch giữa trạng thái “đấu tay không” và “thuận tay nhặt vật thể trong môi trường làm vũ khí lạnh”.\n\nThích ứng toàn địa hình: bẩm sinh miễn nhiễm phần lớn bẫy mặt đất và hiệu ứng giảm tốc (như đầm lầy, chất độc, vùng nước), tốc độ di chuyển trong địa hình phức tạp không những không giảm mà còn được tăng cường.\nPhương thức chiến đấu: lấy tĩnh chế động, phá giáp phản kích.\nGiỏi đi sau mà tới trước cùng đỡ đòn hoàn mỹ: nhịp chiến đấu không dựa vào kiểu đứng yên xả sát thương vô não, mà là quan sát khoảnh khắc đòn đánh của đối phương để thực hiện “tháo lực” và “phản kích” tới cực hạn.\n\n“Vật lý khắc chế ma pháp”: công kích vật lý của hắn có tính xuyên thấu và ngắt quãng cực mạnh, có thể trực tiếp dùng quyền cước chấn nát lá chắn ma pháp, hoặc thông qua đòn đánh chuẩn xác để cắt ngang quá trình niệm chú của người thi pháp.\n\nKẻ làm chủ cự ly: tuy là nghề cận chiến, nhưng có thể lợi dụng cấu tạo thân thể độc đáo (như mái tóc dài) để kiềm chế và khống chế ở tầm trung, khiến địch không thể dễ dàng kéo giãn khoảng cách.\n",
+      "customClassWeapon": "Quyền cước, mười tám ban binh khí, ám khí",
+      "customClassCombatStyle": "Cận chiến vật lý",
+      "skillTree": {
+        "基础": [
+          {
+            "名称": "Võ Thuật Trung Hoa · Thốn Kình",
+            "类型": "Chủ động",
+            "描述": "Vũ khí: tay không. Cú đánh ngắn bộc phát cực nhanh ở cự ly bằng không, chuyên phá giáp nặng. Phối hợp với Phi Tiêu Trận để áp chế rồi áp sát tung đòn.",
+            "特殊效果": {
+              "1": "sau khi trúng đònthực hiện Sức mạnhkiểm định, thành côngthìđòn tấn công nàybỏ quamục tiêu 5% vật lýgiáp, sát thương cuối cùng+5%.",
+              "2": "sau khi trúng đònthực hiện Sức mạnhkiểm định, thành côngthìđòn tấn công nàybỏ quamục tiêu 8% vật lýgiáp, sát thương cuối cùng+8%.",
+              "3": "sau khi trúng đònthực hiện Sức mạnhkiểm định, thành côngthìđòn tấn công nàybỏ quamục tiêu 10% vật lýgiáp, sát thương cuối cùng+10%.",
+              "4": "sau khi trúng đònthực hiện Sức mạnhkiểm định, thành côngthìđòn tấn công nàybỏ quamục tiêu 12% vật lýgiáp, sát thương cuối cùng+12%.",
+              "5": "sau khi trúng đònthực hiện Sức mạnhkiểm định, thành côngthìđòn tấn công nàybỏ quamục tiêu 15% vật lýgiáp, sát thương cuối cùng+15%, vàvà khiếnmục tiêu Thể chấtkiểm định miễn trừ-1, kéo dài 1 lượt.",
+              "6": "sau khi trúng đònthực hiện Sức mạnhkiểm định, thành côngthìđòn tấn công nàybỏ quamục tiêu 15% vật lýgiáp, sát thương cuối cùng+18%, vàvà khiếnmục tiêu Thể chấtkiểm định miễn trừ-1, kéo dài 1 lượt.",
+              "7": "sau khi trúng đònthực hiện Sức mạnhkiểm định, thành côngthìđòn tấn công nàybỏ quamục tiêu 18% vật lýgiáp, sát thương cuối cùng+20%, vàvà khiếnmục tiêu Thể chấtkiểm định miễn trừ-1, kéo dài 1 lượt.",
+              "8": "sau khi trúng đònthực hiện Sức mạnhkiểm định, thành côngthìđòn tấn công nàybỏ quamục tiêu 20% vật lýgiáp, sát thương cuối cùng+22%, vàvà khiếnmục tiêu Thể chấtkiểm định miễn trừ-1, kéo dài 2 lượt.",
+              "9": "sau khi trúng đònthực hiện Sức mạnhkiểm định, thành côngthìđòn tấn công nàybỏ quamục tiêu 22% vật lýgiáp, sát thương cuối cùng+25%, vàvà khiếnmục tiêu Thể chấtkiểm định miễn trừ-1, kéo dài 2 lượt.",
+              "10": "sau khi trúng đònthực hiện Sức mạnhkiểm định, thành côngthìđòn tấn công nàybỏ quamục tiêu 25% vật lýgiáp, sát thương cuối cùng+28%, vàvà khiếnmục tiêu Thể chấtkiểm định miễn trừ-2, kéo dài 2 lượt; xúc xắc sát thương cơ bảntăng 1 cấp(nhưd 6tăngd 8).",
+              "11": "sau khi trúng đònthực hiện Sức mạnhkiểm định, thành côngthìđòn tấn công nàybỏ quamục tiêu 25% vật lýgiáp, sát thương cuối cùng+30%, vàvà khiếnmục tiêu Thể chấtkiểm định miễn trừ-2, kéo dài 2 lượt; xúc xắc sát thương cơ bảntăng 1 cấp.",
+              "12": "sau khi trúng đònthực hiện Sức mạnhkiểm định, thành côngthìđòn tấn công nàybỏ quamục tiêu 28% vật lýgiáp, sát thương cuối cùng+32%, vàvà khiếnmục tiêu Thể chấtkiểm định miễn trừ-2, kéo dài 2 lượt; xúc xắc sát thương cơ bảntăng 1 cấp.",
+              "13": "sau khi trúng đònthực hiện Sức mạnhkiểm định, thành côngthìđòn tấn công nàybỏ quamục tiêu 30% vật lýgiáp, sát thương cuối cùng+35%, vàvà khiếnmục tiêu Thể chấtkiểm định miễn trừ-2, kéo dài 2 lượt; xúc xắc sát thương cơ bảntăng 1 cấp.",
+              "14": "sau khi trúng đònthực hiện Sức mạnhkiểm định, thành côngthìđòn tấn công nàybỏ quamục tiêu 30% vật lýgiáp, sát thương cuối cùng+38%, vàvà khiếnmục tiêu Thể chấtkiểm định miễn trừ-2, kéo dài 3 lượt; xúc xắc sát thương cơ bảntăng 1 cấp.",
+              "15": "sau khi trúng đònthực hiện Sức mạnhkiểm định, thành côngthìđòn tấn công nàybỏ quamục tiêu 30% vật lýgiáp, sát thương cuối cùng+40%, vàvà khiếnmục tiêu Thể chấtkiểm định miễn trừ-3, kéo dài 3 lượt; xúc xắc sát thương cơ bảntăng 1 cấp, vànếumục tiêuđang ởthi pháptrạng tháithìtrực tiếpngắtnóthi pháp."
+            },
+            "阶位": "Cơ bản"
+          },
+          {
+            "名称": "Phòng Ngự Tiêu Lực",
+            "类型": "Đặc biệt",
+            "描述": "Thả lỏng thân thể tới cực hạn, thuận theo đòn đánh của địch như một chiếc lông vũ. Mở tư thế để hóa giải xung kích, tạo nền hoàn hảo cho Công Kích Tiêu Lực.",
+            "特殊效果": {
+              "1": "chủ động mởsau đóđi vào[tiêu lực]tư thế 1 lượt. trong thời gian đóchịuđếnvật lýtấn côngkhi Nhanh nhẹnkiểm địnhcóưu thế, thành côngthìnàylầngiảm trừ sát thương 20%.",
+              "2": "chủ động mởsau đóđi vào[tiêu lực]tư thế 1 lượt. trong thời gian đóchịuđếnvật lýtấn côngkhi Nhanh nhẹnkiểm địnhcóưu thế, thành côngthìnàylầngiảm trừ sát thương 25%.",
+              "3": "chủ động mởsau đóđi vào[tiêu lực]tư thế 1 lượt. trong thời gian đóchịuđếnvật lýtấn côngkhi Nhanh nhẹnkiểm địnhcóưu thế, thành côngthìnàylầngiảm trừ sát thương 30%.",
+              "4": "chủ động mởsau đóđi vào[tiêu lực]tư thế 2 lượt. trong thời gian đóchịuđếnvật lýtấn côngkhi Nhanh nhẹnkiểm địnhcóưu thế, thành côngthìnàylầngiảm trừ sát thương 35%.",
+              "5": "chủ động mởsau đóđi vào[tiêu lực]tư thế 2 lượt. trong thời gian đóchịuđếnvật lýtấn côngkhi Nhanh nhẹnkiểm địnhcóưu thế, thành côngthìnàylầngiảm trừ sát thương 40%, thất bại thìvẫncó thểgiảm trừ 5%.",
+              "6": "chủ động mởsau đóđi vào[tiêu lực]tư thế 2 lượt. trong thời gian đóchịuđếnvật lýtấn côngkhi Nhanh nhẹnkiểm địnhcóưu thế, thành côngthìnàylầngiảm trừ sát thương 45%, thất bại thìvẫncó thểgiảm trừ 10%.",
+              "7": "chủ động mởsau đóđi vào[tiêu lực]tư thế 2 lượt. trong thời gian đóchịuđếnvật lýtấn côngkhi Nhanh nhẹnkiểm địnhcóưu thế, thành côngthìnàylầngiảm trừ sát thương 50%, thất bại thìvẫncó thểgiảm trừ 10%.",
+              "8": "chủ động mởsau đóđi vào[tiêu lực]tư thế 2 lượt. trong thời gian đóchịuđếnvật lýtấn côngkhi Nhanh nhẹnkiểm địnhcóưu thế, thành côngthìnàylầngiảm trừ sát thương 55%, thất bại thìvẫncó thểgiảm trừ 15%.",
+              "9": "chủ động mởsau đóđi vào[tiêu lực]tư thế 3 lượt. trong thời gian đóchịuđếnvật lýtấn côngkhi Nhanh nhẹnkiểm địnhcóưu thế, thành côngthìnàylầngiảm trừ sát thương 60%, thất bại thìvẫncó thểgiảm trừ 15%.",
+              "10": "chủ động mởsau đóđi vào[tiêu lực]tư thế 3 lượt. trong thời gian đóchịuđếnvật lýtấn côngkhi Nhanh nhẹnkiểm địnhcóưu thế, thành côngthìnàylầngiảm trừ sát thương 65%, thất bại thìvẫncó thểgiảm trừ 20%; kích hoạtgiảm trừsau đókế tiếpmột lầnkiểm định trúng đòn+1.",
+              "11": "chủ động mởsau đóđi vào[tiêu lực]tư thế 3 lượt. trong thời gian đóchịuđếnvật lýtấn côngkhi Nhanh nhẹnkiểm địnhcóưu thế, thành côngthìnàylầngiảm trừ sát thương 70%, thất bại thìvẫncó thểgiảm trừ 20%; kích hoạtgiảm trừsau đókế tiếpmột lầnkiểm định trúng đòn+1.",
+              "12": "chủ động mởsau đóđi vào[tiêu lực]tư thế 3 lượt. trong thời gian đóchịuđếnvật lýtấn côngkhi Nhanh nhẹnkiểm địnhcóưu thế, thành côngthìnàylầngiảm trừ sát thương 70%, thất bại thìvẫncó thểgiảm trừ 20%; kích hoạtgiảm trừsau đókế tiếpmột lầnkiểm định trúng đòn+2.",
+              "13": "chủ động mởsau đóđi vào[tiêu lực]tư thế 3 lượt. trong thời gian đóchịuđếnvật lýtấn côngkhi Nhanh nhẹnkiểm địnhcóưu thế, thành côngthìnàylầngiảm trừ sát thương 75%, thất bại thìvẫncó thểgiảm trừ 20%; kích hoạtgiảm trừsau đókế tiếpmột lầnkiểm định trúng đòn+2.",
+              "14": "chủ động mởsau đóđi vào[tiêu lực]tư thế 3 lượt. trong thời gian đóchịuđếnvật lýtấn côngkhi Nhanh nhẹnkiểm địnhcóưu thế, thành côngthìnàylầngiảm trừ sát thương 75%, thất bại thìvẫncó thểgiảm trừ 20%; kích hoạtgiảm trừsau đókế tiếpmột lầnkiểm định trúng đòn+3.",
+              "15": "chủ động mởsau đóđi vào[tiêu lực]tư thế 4 lượt. trong thời gian đóchịuđếnvật lýtấn côngkhi Nhanh nhẹnkiểm địnhcóưu thế, thành côngthìnàylầngiảm trừ sát thương 80%, thất bại thìvẫncó thểgiảm trừ 20%; thành côngkích hoạtgiảm trừsau đó, không chỉkế tiếpmột lầnkiểm định trúng đòn+3, vàcó thểlập tứcmiễn nhiễmnàylầntấn côngkèmđẩy lùihoặcngã xuốnghiệu quả."
+            },
+            "阶位": "Cơ bản"
+          },
+          {
+            "名称": "Bạch Lâm Tự · Thối Quét Chân",
+            "类型": "Chủ động",
+            "描述": "Sau khi hạ thấp thân hình, tung cú quét quanh thân cực nhanh, là khống chế mở đầu cốt lõi. Phối hợp với Cửu Tiết Tiên Liên Đả để áp chế cụm địch.",
+            "特殊效果": {
+              "1": "vào quanh thânphạm vikẻ địchgâyvật lýsát thương, khiếnmục tiêuthực hiệnmiễn trừ Nhanh nhẹn, thất bại thìthìdi chuyểntốc độ-1 ô, kéo dài 1 lượt.",
+              "2": "vào quanh thânphạm vikẻ địchgâyvật lýsát thương, khiếnmục tiêuthực hiệnmiễn trừ Nhanh nhẹn, thất bại thìthìdi chuyểntốc độ-1 ô, kéo dài 1 lượt; bản thânlượt nàymiễn nhiễm[đánh gục].",
+              "3": "vào quanh thânphạm vikẻ địchgâyvật lýsát thương, khiếnmục tiêuthực hiệnmiễn trừ Nhanh nhẹn, thất bại thìthìdi chuyểntốc độ-1 ô, kéo dài 2 lượt; bản thânlượt nàymiễn nhiễm[đánh gục].",
+              "4": "vào quanh thânphạm vikẻ địchgâyvật lýsát thương, khiếnmục tiêuthực hiệnmiễn trừ Nhanh nhẹn, thất bại thìthìdi chuyểntốc độ-2 ô, kéo dài 2 lượt; bản thânlượt nàymiễn nhiễm[đánh gục].",
+              "5": "vào quanh thânphạm vikẻ địchgâyvật lýsát thương, khiếnmục tiêuthực hiệnmiễn trừ Nhanh nhẹn, thất bại thìthìđi vào[ngã xuống] trạng thái 1 lượt; bản thânlượt nàymiễn nhiễm[đánh gục]; động táclàm đầu tiên hành độngkhicác lần sauliên tiếpkíchphạt-1.",
+              "6": "vào quanh thânphạm vikẻ địchgâyvật lýsát thương, sát thương cuối cùng+5%, khiếnmục tiêuthực hiệnmiễn trừ Nhanh nhẹn, thất bại thìthìđi vào[ngã xuống] trạng thái 1 lượt; bản thânlượt nàymiễn nhiễm[đánh gục]; động táclàm đầu tiên hành độngkhicác lần sauliên tiếpkíchphạt-1.",
+              "7": "vào quanh thânphạm vikẻ địchgâyvật lýsát thương, sát thương cuối cùng+10%, khiếnmục tiêuthực hiệnmiễn trừ Nhanh nhẹn, thất bại thìthìđi vào[ngã xuống] trạng thái 1 lượt; bản thânlượt nàymiễn nhiễm[đánh gục]; động táclàm đầu tiên hành độngkhicác lần sauliên tiếpkíchphạt-1.",
+              "8": "vào quanh thânphạm vikẻ địchgâyvật lýsát thương, sát thương cuối cùng+10%, khiếnmục tiêuthực hiệnmiễn trừ Nhanh nhẹn, thất bại thìthìđi vào[ngã xuống] trạng thái 1 lượt; bản thânlượt nàymiễn nhiễm[đánh gục]; động táclàm đầu tiên hành độngkhicác lần sauliên tiếpkíchphạt-2.",
+              "9": "vào quanh thânphạm vikẻ địchgâyvật lýsát thương, sát thương cuối cùng+15%, khiếnmục tiêuthực hiệnmiễn trừ Nhanh nhẹn, thất bại thìthìđi vào[ngã xuống] trạng thái 1 lượt; bản thânlượt nàymiễn nhiễm[đánh gục]; động táclàm đầu tiên hành độngkhicác lần sauliên tiếpkíchphạt-2.",
+              "10": "vào quanh thânphạm vikẻ địchgâyvật lýsát thương, sát thương cuối cùng+20%, khiếnmục tiêuthực hiệnmiễn trừ Nhanh nhẹn, thất bại thìthìđi vào[ngã xuống] trạng thái 1 lượt; nếumục tiêuđãđang ởngã xuốngthìthêmbồi thêmmột lầnsát thươngkiểm định; bản thânlượt nàymiễn nhiễm[đánh gục]; động táclàm đầu tiên hành độngkhicác lần sauliên tiếpkíchphạt-2.",
+              "11": "vào quanh thânphạm vikẻ địchgâyvật lýsát thương, sát thương cuối cùng+25%, khiếnmục tiêuthực hiệnmiễn trừ Nhanh nhẹn, thất bại thìthìđi vào[ngã xuống] trạng thái 1 lượt; nếumục tiêuđãđang ởngã xuốngthìthêmbồi thêmmột lầnsát thươngkiểm định; bản thânlượt nàymiễn nhiễm[đánh gục]; động táclàm đầu tiên hành độngkhicác lần sauliên tiếpkíchphạt-2.",
+              "12": "vào quanh thânphạm vikẻ địchgâyvật lýsát thương, sát thương cuối cùng+25%, khiếnmục tiêuthực hiệnmiễn trừ Nhanh nhẹn, thất bại thìthìđi vào[ngã xuống] trạng thái 2 lượt; nếumục tiêuđãđang ởngã xuốngthìthêmbồi thêmmột lầnsát thươngkiểm định; bản thânlượt nàymiễn nhiễm[đánh gục]; động táclàm đầu tiên hành độngkhicác lần sauliên tiếpkíchphạt-2.",
+              "13": "vào quanh thânphạm vikẻ địchgâyvật lýsát thương, sát thương cuối cùng+30%, khiếnmục tiêuthực hiệnmiễn trừ Nhanh nhẹn, thất bại thìthìđi vào[ngã xuống] trạng thái 2 lượt; nếumục tiêuđãđang ởngã xuốngthìthêmbồi thêmmột lầnsát thươngkiểm định; bản thânlượt nàymiễn nhiễm[đánh gục]; động táclàm đầu tiên hành độngkhicác lần sauliên tiếpkíchphạt-2.",
+              "14": "vào quanh thânphạm vikẻ địchgâyvật lýsát thương, sát thương cuối cùng+35%, khiếnmục tiêuthực hiệnmiễn trừ Nhanh nhẹn, thất bại thìthìđi vào[ngã xuống] trạng thái 2 lượt; nếumục tiêuđãđang ởngã xuốngthìthêmbồi thêmmột lầnsát thươngkiểm định; bản thânlượt nàymiễn nhiễm[đánh gục]; động táclàm đầu tiên hành độngkhicác lần sauliên tiếpkíchphạt-2.",
+              "15": "vào quanh thânphạm vikẻ địchgâyvật lýsát thương, sát thương cuối cùng+40%, khiếnmục tiêuthực hiệnmiễn trừ Nhanh nhẹn, thất bại thìthìđi vào[ngã xuống] trạng thái 2 lượtvàkhông thểphản ứng; nếumục tiêuđãđang ởngã xuốngthìthêmbồi thêmmột lầnđầy đủsát thươngkiểm định; bản thânlượt nàykhông chỉmiễn nhiễm[đánh gục]cònnhận 1 ôtự dodi chuyển; động táclàm đầu tiên hành độngkhicác lần sauliên tiếpkíchphạt-3."
+            },
+            "阶位": "Cơ bản"
+          },
+          {
+            "名称": "Khí Trầm Đan Điền",
+            "类型": "Đặc biệt",
+            "描述": "Ngưng tụ thể năng, điều hòa hơi thở, đưa cơ thể vào trạng thái chuẩn bị chiến đấu hoàn mỹ.",
+            "特殊效果": {
+              "1": "chủ động mở, tiếp theo 2trong lượt Sức mạnhvới Nhanh nhẹnkiểm định+1.",
+              "2": "chủ động mở, tiếp theo 2trong lượt Sức mạnhvới Nhanh nhẹnkiểm định+1, Thể chấtkiểm định+1.",
+              "3": "chủ động mở, tiếp theo 3trong lượt Sức mạnhvới Nhanh nhẹnkiểm định+1, Thể chấtkiểm định+1.",
+              "4": "chủ động mở, tiếp theo 3trong lượt Sức mạnhvới Nhanh nhẹnkiểm định+2, Thể chấtkiểm định+1.",
+              "5": "chủ động mở, tiếp theo 3trong lượt Sức mạnhvới Nhanh nhẹnkiểm định+2, Thể chấtkiểm định+2.",
+              "6": "chủ động mở, tiếp theo 4trong lượt Sức mạnhvới Nhanh nhẹnkiểm định+2, Thể chấtkiểm định+2.",
+              "7": "chủ động mở, tiếp theo 4trong lượt Sức mạnhvới Nhanh nhẹnkiểm định+2, Thể chấtkiểm định+2, vàlập tứckhiếnkế tiếpmột lầnthườngtấn công, sát thương cuối cùng+10%.",
+              "8": "chủ động mở, tiếp theo 4trong lượt Sức mạnhvới Nhanh nhẹnkiểm định+2, Thể chấtkiểm định+2, vàlập tứckhiếnkế tiếpmột lầnthườngtấn công, sát thương cuối cùng+15%.",
+              "9": "chủ động mở, tiếp theo 4trong lượt Sức mạnhvới Nhanh nhẹnkiểm định+2, Thể chấtkiểm định+2, vàlập tứckhiếnkế tiếpmột lầnthườngtấn công, sát thương cuối cùng+20%.",
+              "10": "chủ động mở, tiếp theo 5trong lượt Sức mạnhvới Nhanh nhẹnkiểm định+3, Thể chấtkiểm định+2, vàlập tứckhiếnkế tiếpmột lầnthườngtấn công, sát thương cuối cùng+20%. ngay khoảnh khắc mởgiải trừbản thânmột không phảima pháploạigiảm íchtrạng thái.",
+              "11": "chủ động mở, tiếp theo 5trong lượt Sức mạnhvới Nhanh nhẹnkiểm định+3, Thể chấtkiểm định+3, vàlập tứckhiếnkế tiếpmột lầnthườngtấn công, sát thương cuối cùng+20%. ngay khoảnh khắc mởgiải trừbản thânmột không phảima pháploạigiảm íchtrạng thái.",
+              "12": "chủ động mở, tiếp theo 5trong lượt Sức mạnhvới Nhanh nhẹnkiểm định+3, Thể chấtkiểm định+3, vàlập tứckhiếnkế tiếpmột lầnthườngtấn công, sát thương cuối cùng+25%. ngay khoảnh khắc mởgiải trừbản thânmột không phảima pháploạigiảm íchtrạng thái.",
+              "13": "chủ động mở, tiếp theo 5trong lượt Sức mạnhvới Nhanh nhẹnkiểm định+3, Thể chấtkiểm định+3, vàlập tứckhiếnkế tiếpmột lầnthườngtấn công, sát thương cuối cùng+30%. ngay khoảnh khắc mởgiải trừbản thânmột giảm íchtrạng thái(bỏ quama pháp/không phảima pháp).",
+              "14": "chủ động mở, tiếp theo 6trong lượt Sức mạnhvới Nhanh nhẹnkiểm định+3, Thể chấtkiểm định+3, vàlập tứckhiếnkế tiếpmột lầnthườngtấn công, sát thương cuối cùng+35%. ngay khoảnh khắc mởgiải trừbản thânmột giảm íchtrạng thái.",
+              "15": "chủ động mở, tiếp theo 6trong lượt Sức mạnh, Nhanh nhẹn, Thể chấtkiểm địnhtoàn bộphầncóưu thế, vàlập tứckhiếnkế tiếpmột lầnthường/kỹ năngtấn công, sát thương cuối cùng+40%. ngay khoảnh khắc mởgiải trừbản thântất cảgiới hạndi chuyểnbất lợitrạng thái, vàtronglượtkết thúckhihồi phục 5% sinh mệnh tối đa."
+            },
+            "阶位": "Cơ bản"
+          }
+        ],
+        "转职": [
+          {
+            "名称": "Bím Tóc Lưu Tinh Chùy",
+            "类型": "Chủ động",
+            "描述": "Vũ khí: bím tóc kỳ môn. Vung bím tóc thô như dây thừng xoắn, cuốn đá hoặc bùn đất dưới đất quật vào địch, có năng lực kiềm chế tầm trung rất mạnh.",
+            "特殊效果": {
+              "1": "sau khi trúng đòngâyvật lýsát thương, mục tiêukế tiếpmột lầnkiểm định tấn công-1.",
+              "2": "sau khi trúng đòngâyvật lýsát thương, sát thương cuối cùng+5%, mục tiêukế tiếpmột lầnkiểm định tấn công-1.",
+              "3": "sau khi trúng đòngâyvật lýsát thương, sát thương cuối cùng+5%, mục tiêukế tiếpmột lầnkiểm định tấn công-2.",
+              "4": "sau khi trúng đòngâyvật lýsát thương, sát thương cuối cùng+10%, mục tiêukế tiếpmột lầnkiểm định tấn công-2.",
+              "5": "sau khi trúng đòngâyvật lýsát thương, sát thương cuối cùng+10%; nếuđộng táclàm đầu tiên hành động, bạo kíchphạm vimở rộnglớn(19-20); mục tiêukế tiếpmột lầnkiểm định tấn côngchịu bất lợi.",
+              "6": "sau khi trúng đòngâyvật lýsát thương, sát thương cuối cùng+15%; nếuđộng táclàm đầu tiên hành động, bạo kíchphạm vimở rộnglớn(19-20); mục tiêukế tiếpmột lầnkiểm định tấn côngchịu bất lợi.",
+              "7": "sau khi trúng đòngâyvật lýsát thương, sát thương cuối cùng+15%; nếuđộng táclàm đầu tiên hành động, bạo kíchphạm vimở rộnglớn(19-20); mục tiêukế tiếphaitrong lượtlần đầukiểm định tấn côngchịu bất lợi.",
+              "8": "sau khi trúng đòngâyvật lýsát thương, sát thương cuối cùng+20%; nếuđộng táclàm đầu tiên hành động, bạo kíchphạm vimở rộnglớn(19-20); mục tiêukế tiếphaitrong lượtlần đầukiểm định tấn côngchịu bất lợi.",
+              "9": "sau khi trúng đòngâyvật lýsát thương, sát thương cuối cùng+20%; nếuđộng táclàm đầu tiên hành động, bạo kíchphạm vimở rộnglớn(18-20); mục tiêukế tiếphaitrong lượtlần đầukiểm định tấn côngchịu bất lợi.",
+              "10": "sau khi trúng đòngâyvật lýsát thương, sát thương cuối cùng+25%; nếuđộng táclàm đầu tiên hành động, bạo kíchphạm vimở rộnglớn(18-20); sau khi trúng đònlàm mục tiêugây thêm[che mắt](không thểthực hiệnđòn đòn đòn đánh cơ hội), kéo dài 1 lượt, vàkiểm định tấn côngbất lợi.",
+              "11": "sau khi trúng đòngâyvật lýsát thương, sát thương cuối cùng+30%; nếuđộng táclàm đầu tiên hành động, bạo kíchphạm vimở rộnglớn(18-20); sau khi trúng đònlàm mục tiêugây thêm[che mắt], kéo dài 1 lượt, vàkiểm định tấn côngbất lợi.",
+              "12": "sau khi trúng đòngâyvật lýsát thương, sát thương cuối cùng+30%; nếuđộng táclàm đầu tiên hành động, bạo kíchphạm vimở rộnglớn(18-20); sau khi trúng đònlàm mục tiêugây thêm[che mắt], kéo dài 2 lượt, vàkiểm định tấn côngbất lợi.",
+              "13": "sau khi trúng đòngâyvật lýsát thương, sát thương cuối cùng+35%; nếuđộng táclàm đầu tiên hành động, bạo kíchphạm vimở rộnglớn(18-20); sau khi trúng đònlàm mục tiêugây thêm[che mắt], kéo dài 2 lượt, vàkiểm định tấn côngbất lợi.",
+              "14": "sau khi trúng đòngâyvật lýsát thương, sát thương cuối cùng+35%; nếuđộng táclàm đầu tiên hành động, bạo kíchphạm vimở rộnglớn(17-20); sau khi trúng đònlàm mục tiêugây thêm[che mắt], kéo dài 2 lượt, vàkiểm định tấn côngbất lợi.",
+              "15": "sau khi trúng đòngâyvật lýsát thương, sát thương cuối cùng+40%; nếuđộng táclàm đầu tiên hành động, bạo kíchphạm vimở rộnglớn(17-20); sau khi trúng đònchắc chắngây thêm[che mắt](không thểthực hiệnđòn đòn đòn đánh cơ hộivàtầm nhìnphạm vigiángtới 1 ô), kéo dài 2 lượt, vàtronghiệu quả nàytrong thời gian đótất cảkiểm định tấn côngđềuchịu bất lợi; vào pháp hệkẻ địchthêmgắntập trung thi phápkiểm địnhbất lợi."
+            },
+            "阶位": "Chuyển nghề"
+          },
+          {
+            "名称": "Võ Học Thuần Lý",
+            "类型": "Đặc biệt nghề nghiệp",
+            "描述": "Sự hợp nhất giữa thân thể và kỹ thuật đạt đỉnh của Hải Vương, chân lý võ đạo vạn pháp bất xâm. Đây là căn cơ biến mọi ma pháp quy về vật lý.",
+            "特殊效果": {
+              "1": "bịhành độngthường trựchiệu quả(không cầntăng): hoàn toànsử dụng Thể chấtnăng lượngkhu động, không sử dụngma phápgiá trị, vĩnh viễnmiễn nhiễmmọi[câm lặng], [phong ấn ma pháp]bất lợihiệu quả; miễn nhiễmlớnphầnmặt đấtbẫysát thương(nhưdịch độc, gai đất), trongđịa hình khó(đầm lầy/vùng nước/bùn lầy) khi di chuyển tốc độkhông giảm , ngược lạicơ bảntốc độ di chuyển+1 ô."
+            },
+            "阶位": "Chuyển nghề"
+          },
+          {
+            "名称": "Bí Kỹ · Chuyển Liên Hoa",
+            "类型": "Chủ động",
+            "描述": "Quấn quanh cổ địch rồi dùng toàn lực toàn thân để siết giết. Khi nối vào mục tiêu đang ngã, có thể trực tiếp vặn nát sinh cơ.",
+            "特殊效果": {
+              "1": "vào đơn mục tiêumục tiêuphát độngthắt cổ giết, kiểm định trúng đòn+1, bạo kíchkhisát thương cuối cùng+10%.",
+              "2": "vào đơn mục tiêumục tiêuphát độngthắt cổ giết, kiểm định trúng đòn+1, bạo kíchkhisát thương cuối cùng+15%.",
+              "3": "vào đơn mục tiêumục tiêuphát độngthắt cổ giết, kiểm định trúng đòn+1, bạo kíchkhisát thương cuối cùng+20%.",
+              "4": "vào đơn mục tiêumục tiêuphát độngthắt cổ giết, kiểm định trúng đòn+2, bạo kíchkhisát thương cuối cùng+20%.",
+              "5": "vào đơn mục tiêumục tiêuphát độngthắt cổ giết, kiểm định trúng đòn+2, bạo kíchkhisát thương cuối cùng+25%, vàgây thêm[ngạt thở] trạng thái(mỗi lượtmấtnhấtlớn HP 2%), kéo dài 1 lượt.",
+              "6": "vào đơn mục tiêumục tiêuphát độngthắt cổ giết, kiểm định trúng đòn+2, bạo kíchkhisát thương cuối cùng+30%, vàgây thêm[ngạt thở] trạng thái(mỗi lượtmấtnhấtlớn HP 2%), kéo dài 1 lượt.",
+              "7": "vào đơn mục tiêumục tiêuphát độngthắt cổ giết, kiểm định trúng đòn+2, bạo kíchkhisát thương cuối cùng+30%, vàgây thêm[ngạt thở] trạng thái(mỗi lượtmấtnhấtlớn HP 3%), kéo dài 2 lượt.",
+              "8": "vào đơn mục tiêumục tiêuphát độngthắt cổ giết, kiểm định trúng đòncóưu thế, bạo kíchkhisát thương cuối cùng+30%, vàgây thêm[ngạt thở] trạng thái(mỗi lượtmấtnhấtlớn HP 3%), kéo dài 2 lượt.",
+              "9": "vào đơn mục tiêumục tiêuphát độngthắt cổ giết, kiểm định trúng đòncóưu thế, bạo kíchkhisát thương cuối cùng+35%, vàgây thêm[ngạt thở] trạng thái(mỗi lượtmấtnhấtlớn HP 3%), kéo dài 2 lượt.",
+              "10": "vào đơn mục tiêumục tiêuphát độngthắt cổ giết, kiểm định trúng đòncóưu thế, bạo kíchkhisát thương cuối cùng+35%, vàgây thêm[ngạt thở] trạng thái(mỗi lượtmấtnhấtlớn HP 4%), kéo dài 2 lượt; nếumục tiêuđang ở[ngã xuống] trạng thái, bạo kíchxác suấttăng 10%.",
+              "11": "vào đơn mục tiêumục tiêuphát độngthắt cổ giết, kiểm định trúng đòncóưu thế, bạo kíchkhisát thương cuối cùng+40%, vàgây thêm[ngạt thở] trạng thái(mỗi lượtmấtnhấtlớn HP 4%), kéo dài 2 lượt; nếumục tiêuđang ở[ngã xuống] trạng thái, bạo kíchxác suấttăng 10%.",
+              "12": "vào đơn mục tiêumục tiêuphát độngthắt cổ giết, kiểm định trúng đòncóưu thế, bạo kíchkhisát thương cuối cùng+40%, vàgây thêm[ngạt thở] trạng thái(mỗi lượtmấtnhấtlớn HP 4%), kéo dài 3 lượt; nếumục tiêuđang ở[ngã xuống] trạng thái, bạo kíchxác suấttăng 15%.",
+              "13": "vào đơn mục tiêumục tiêuphát độngthắt cổ giết, kiểm định trúng đòncóưu thế, bạo kíchkhisát thương cuối cùng+45%, vàgây thêm[ngạt thở] trạng thái(mỗi lượtmấtnhấtlớn HP 4%), kéo dài 3 lượt; nếumục tiêuđang ở[ngã xuống] trạng thái, bạo kíchxác suấttăng 15%.",
+              "14": "vào đơn mục tiêumục tiêuphát độngthắt cổ giết, kiểm định trúng đòncóưu thế, bạo kíchkhisát thương cuối cùng+45%, vàgây thêm[ngạt thở] trạng thái(mỗi lượtmấtnhấtlớn HP 5%), kéo dài 3 lượt; nếumục tiêuđang ở[ngã xuống] trạng thái, bạo kíchxác suấttăng 20%.",
+              "15": "vào đơn mục tiêumục tiêuphát độngthắt cổ giết, kiểm định trúng đòncóưu thế, bạo kíchkhisát thương cuối cùng+50%, chắc chắngây thêm[ngạt thở] trạng thái(mỗi lượtbỏ qua lá chắnmấtnhấtlớn HP 5%), kéo dài 3 lượt; nếumục tiêuđang ở[ngã xuống]hoặc[che mắt] trạng thái, đòn tấn công nàychắc chắn bạo kích, vàmục tiêumọi thuộc tínhkiểm định miễn trừ-3."
+            },
+            "阶位": "Chuyển nghề"
+          },
+          {
+            "名称": "Cửu Tiết Tiên Liên Đả",
+            "类型": "Chủ động",
+            "描述": "Liên tục quất bằng vũ khí mềm có quỹ tích cực khó nhìn thấu, làm suy yếu tuyến phòng thủ của địch. Đây là AOE tầm trung tốt nhất để nối sau Thối Quét Chân.",
+            "特殊效果": {
+              "1": "vào phía trướchình quạtkhu vựcgâyvật lýsát thương, sau khi trúng đònmục tiêuvòng này ACgiảm 1 điểm.",
+              "2": "vào phía trướchình quạtkhu vựcgâyvật lýsát thương, sát thương cuối cùng+5%, sau khi trúng đònmục tiêuvòng này ACgiảm 1 điểm.",
+              "3": "vào phía trướchình quạtkhu vựcgâyvật lýsát thương, sát thương cuối cùng+5%, sau khi trúng đònmục tiêuvòng này ACgiảm 2 điểm.",
+              "4": "vào phía trướchình quạtkhu vựcgâyvật lýsát thương, sát thương cuối cùng+10%, sau khi trúng đònmục tiêuvòng này ACgiảm 2 điểm.",
+              "5": "vào phía trướchình quạtkhu vựcgâyvật lýsát thương, sát thương cuối cùng+10%, sau khi trúng đònmục tiêuvòng này ACgiảm 2 điểm, và khiếnnómiễn trừ Nhanh nhẹn-1.",
+              "6": "vào phía trướchình quạtkhu vựcgâyvật lýsát thương, sát thương cuối cùng+15%, sau khi trúng đònmục tiêuvòng này ACgiảm 2 điểm, và khiếnnómiễn trừ Nhanh nhẹn-1.",
+              "7": "vào phía trướchình quạtkhu vựcgâyvật lýsát thương, sát thương cuối cùng+15%, sau khi trúng đònmục tiêukế tiếpmộtlượtkết thúctrước ACgiảm 3 điểm, và khiếnnómiễn trừ Nhanh nhẹn-1.",
+              "8": "vào phía trướchình quạtkhu vựcgâyvật lýsát thương, sát thương cuối cùng+20%, sau khi trúng đònmục tiêukế tiếpmộtlượtkết thúctrước ACgiảm 3 điểm, và khiếnnómiễn trừ Nhanh nhẹn-1.",
+              "9": "vào phía trướchình quạtkhu vựcgâyvật lýsát thương, sát thương cuối cùng+20%, sau khi trúng đònmục tiêukế tiếpmộtlượtkết thúctrước ACgiảm 3 điểm, và khiếnnómiễn trừ Nhanh nhẹn-2.",
+              "10": "vào phía trướchình quạtkhu vựcgâychiahai đoạnphán địnhvật lýsát thương, sát thương cuối cùng+25%, sau khi trúng đònmục tiêukế tiếpmộtlượtkết thúctrướckiểm định né tránhhoặc ACgiảm 3 điểm, và khiếnnómiễn trừ Nhanh nhẹn-2; vào đang ở[che mắt]mục tiêusát thương cuối cùngcộng thêm 10%.",
+              "11": "vào phía trướchình quạtkhu vựcgâychiahai đoạnphán địnhvật lýsát thương, sát thương cuối cùng+30%, sau khi trúng đònmục tiêukế tiếpmộtlượtkết thúctrướckiểm định né tránhhoặc ACgiảm 3 điểm, và khiếnnómiễn trừ Nhanh nhẹn-2; vào đang ở[che mắt]mục tiêusát thương cuối cùngcộng thêm 10%.",
+              "12": "vào phía trướchình quạtkhu vựcgâychiahai đoạnphán địnhvật lýsát thương, sát thương cuối cùng+30%, sau khi trúng đònmục tiêukế tiếpmộtlượtkết thúctrướckiểm định né tránhhoặc ACgiảm 4 điểm, và khiếnnómiễn trừ Nhanh nhẹn-2; vào đang ở[che mắt]mục tiêusát thương cuối cùngcộng thêm 10%.",
+              "13": "vào phía trướchình quạtkhu vựcgâychiahai đoạnphán địnhvật lýsát thương, sát thương cuối cùng+35%, sau khi trúng đònmục tiêukế tiếpmộtlượtkết thúctrướckiểm định né tránhhoặc ACgiảm 4 điểm, và khiếnnómiễn trừ Nhanh nhẹn-2; vào đang ở[che mắt]mục tiêusát thương cuối cùngcộng thêm 15%.",
+              "14": "vào phía trướchình quạtkhu vựcgâychiahai đoạnphán địnhvật lýsát thương, sát thương cuối cùng+35%, sau khi trúng đònmục tiêukế tiếpmộtlượtkết thúctrướckiểm định né tránhhoặc ACgiảm 4 điểm, và khiếnnómiễn trừ Nhanh nhẹn-3; vào đang ở[che mắt]mục tiêusát thương cuối cùngcộng thêm 15%.",
+              "15": "vào phía trướchình quạtkhu vựcgâychiabađoạnphán địnhcuồng phong quất kích, sát thương cuối cùng+40%, sau khi trúng đònmục tiêutrong 2trong lượtkiểm định né tránhđang ởbất lợivà ACcưỡng chếgiảm 4 điểm; nếumục tiêuđang ở[che mắt]hoặc[ngã xuống], thìlần thứ bađoạntấn côngbỏ quanó 50% giáp, vàngắtnócó thểnăng lượngtồn tạithế đứngkỹ năng."
+            },
+            "阶位": "Chuyển nghề"
+          }
+        ],
+        "进阶": [
+          {
+            "名称": "Công Kích Tiêu Lực",
+            "类型": "Chủ động",
+            "描述": "Kết hợp hoàn mỹ động năng hấp thu từ Phòng Ngự Tiêu Lực với trọng lượng cơ thể để bộc phát phản kích. Kỹ năng đảo chiều cốt lõi.",
+            "特殊效果": {
+              "1": "chỉnăng lượngtrongphòng ngựtiêu lựchấp thusát thươngsau đómộttrong lượtsử dụng. vào đơn mục tiêugâyvật lýsát thương, sát thương cuối cùng+10%.",
+              "2": "chỉnăng lượngtrongphòng ngựtiêu lựchấp thusát thươngsau đómộttrong lượtsử dụng. vào đơn mục tiêugâyvật lýsát thương, sát thương cuối cùng+15%.",
+              "3": "chỉnăng lượngtrongphòng ngựtiêu lựchấp thusát thươngsau đómộttrong lượtsử dụng. vào đơn mục tiêugâyvật lýsát thương, sát thương cuối cùng+20%, và bỏ qualiên tiếpkíchgiảm giá trị.",
+              "4": "chỉnăng lượngtrongphòng ngựtiêu lựchấp thusát thươngsau đómộttrong lượtsử dụng. vào đơn mục tiêugâyvật lýsát thương, sát thương cuối cùng+25%, và bỏ qualiên tiếpkíchgiảm giá trị.",
+              "5": "chỉnăng lượngtrongphòng ngựtiêu lựchấp thusát thươngsau đómộttrong lượtsử dụng. vào đơn mục tiêugâyvật lýsát thương, sát thương cuối cùng+25%, sát thương bạo kíchtăng 10%, và bỏ qualiên tiếpkíchgiảm giá trị.",
+              "6": "chỉnăng lượngtrongphòng ngựtiêu lựchấp thusát thươngsau đómộttrong lượtsử dụng. vào đơn mục tiêugâyvật lýsát thương, sát thương cuối cùng+30%, sát thương bạo kíchtăng 15%, và bỏ qualiên tiếpkíchgiảm giá trị.",
+              "7": "chỉnăng lượngtrongphòng ngựtiêu lựchấp thusát thươngsau đómộttrong lượtsử dụng. vào đơn mục tiêugâyvật lýsát thương, sát thương cuối cùng+30%, sát thương bạo kíchtăng 20%, và bỏ qualiên tiếpkíchgiảm giá trị.",
+              "8": "chỉnăng lượngtrongphòng ngựtiêu lựchấp thusát thươngsau đómộttrong lượtsử dụng. vào đơn mục tiêugâyvật lýsát thương, sát thương cuối cùng+35%, sát thương bạo kíchtăng 25%, và bỏ qualiên tiếpkíchgiảm giá trị.",
+              "9": "chỉnăng lượngtrongphòng ngựtiêu lựchấp thusát thươngsau đómộttrong lượtsử dụng. vào đơn mục tiêugâyvật lýsát thương, sát thương cuối cùng+35%, sát thương bạo kíchtăng 30%, và bỏ qualiên tiếpkíchgiảm giá trị.",
+              "10": "chỉnăng lượngtrongthành côngkích hoạtphòng ngựtiêu lựcgiảm trừsau đómộttrong lượtsử dụng. kích nổhấp thuhành độngnăng lượng, đòn tấn công nàycókiểm địnhưu thế, sát thương cuối cùng+40%, sát thương bạo kíchtăng 35%, bỏ quatất cảliên tiếpkíchtrúng đòngiảm giá trị."
+            },
+            "阶位": "Nâng cao"
+          },
+          {
+            "名称": "Bộ Pháp Thủy Thượng Phiêu",
+            "类型": "Đặc biệt",
+            "描述": "Khinh công tuyệt đỉnh vượt ngoài lẽ thường. Sau khi mở, bỏ qua chướng ngại chiến trường, thậm chí có thể đạp trên mặt nước và dung nham.",
+            "特殊效果": {
+              "1": "chủ động thi triển, khi di chuyển bỏ quađịa hình khógiới hạn, kéo dài 2 lượt.",
+              "2": "chủ động thi triển, khi di chuyển bỏ quađịa hình khógiới hạn, tốc độ di chuyển+1 ô, kéo dài 2 lượt.",
+              "3": "chủ động thi triển, khi di chuyển bỏ quađịa hình khógiới hạnvớibẫy trên mặt đấtsát thương, tốc độ di chuyển+1 ô, kéo dài 2 lượt.",
+              "4": "chủ động thi triển, khi di chuyển bỏ quađịa hình khógiới hạnvớibẫy trên mặt đấtsát thương, tốc độ di chuyển+2 ô, kéo dài 2 lượt.",
+              "5": "chủ động thi triển, đi vào[Thần Hành] trạng thái: bỏ quađịa hình khóvớibẫy trên mặt đất, tốc độ di chuyển+2 ô, khi chịu đòn tấn công đơn mục tiêu, kiểm định né tránh+1, kéo dài 2 lượt.",
+              "6": "chủ động thi triển, đi vào[Thần Hành] trạng thái: bỏ quađịa hình khóvớibẫy trên mặt đất, tốc độ di chuyển+2 ô, khi chịu đòn tấn công đơn mục tiêu, kiểm định né tránh+2, kéo dài 2 lượt.",
+              "7": "chủ động thi triển, đi vào[Thần Hành] trạng thái: bỏ quađịa hình khóvớibẫy trên mặt đất, tốc độ di chuyển+2 ô, khi chịu đòn tấn công đơn mục tiêu, kiểm định né tránh+2, kéo dài 3 lượt.",
+              "8": "chủ động thi triển, đi vào[Thần Hành] trạng thái: bỏ quađịa hình khóvớibẫy trên mặt đất, tốc độ di chuyển+3 ô, khi chịu đòn tấn công đơn mục tiêu, kiểm định né tránh+2, kéo dài 3 lượt.",
+              "9": "chủ động thi triển, đi vào[Thần Hành] trạng thái: bỏ quađịa hình khóvớibẫy trên mặt đất, tốc độ di chuyển+3 ô, khi chịu đòn tấn công đơn mục tiêu, kiểm định né tránh+3, kéo dài 3 lượt.",
+              "10": "chủ động thi triển, đi vào[Thần Hành] trạng thái: bỏ quabất kỳmôi trườngchướng ngại, bẫyvà đòn đòn đòn đánh cơ hội, tốc độ di chuyển+3 ô, bịđơn mục tiêuđòn tấn công khóa địnhkhikiểm định né tránh nhận ưu thế, kéo dài 3 lượt."
+            },
+            "阶位": "Nâng cao"
+          },
+          {
+            "名称": "Liễu Diệp Song Đao Trảm",
+            "类型": "Chủ động",
+            "描述": "Rút song đao giấu ở chân ra, tiến hành cắt xé cận chiến như mưa như bão. AC địch càng thấp, số lần chém càng nhiều.",
+            "特殊效果": {
+              "1": "tấn công vật lý đơn mục tiêu, nếu kiểm định trúng đòn > AC mục tiêu+2, thìbồi thêmmột lần 50% sát thươngkết toán liên trảm.",
+              "2": "tấn công vật lý đơn mục tiêu, nếu kiểm định trúng đòn > AC mục tiêu+1, thìbồi thêmmột lần 50% sát thươngkết toán liên trảm.",
+              "3": "tấn công vật lý đơn mục tiêu, nếu kiểm định trúng đòn > AC mục tiêu, thìbồi thêmmột lần 50% sát thươngkết toán liên trảm.",
+              "4": "tấn công vật lý đơn mục tiêu, nếu kiểm định trúng đòn > AC mục tiêu, thìbồi thêmmột lần 60% sát thươngkết toán liên trảm.",
+              "5": "tấn công vật lý đơn mục tiêu, nếu kiểm định trúng đòn > AC mục tiêu, thìbồi thêmmột lần 70% sát thươngkết toán liên trảm.",
+              "6": "tấn công vật lý đơn mục tiêu, nếu kiểm định trúng đòn > AC mục tiêu, thìbồi thêmmột lần 80% sát thươngkết toán liên trảm.",
+              "7": "tấn công vật lý đơn mục tiêu, nếu kiểm định trúng đòn > AC mục tiêu, thìbồi thêmtối đahailầnkết toán liên trảm(mỗi lầnvượt quá ACphán địnhmột lần), các lần sauliên trảmsát thươngtheo 70% tính toán.",
+              "8": "tấn công vật lý đơn mục tiêu, nếu kiểm định trúng đòn > AC mục tiêu, thìbồi thêmtối đahailầnkết toán liên trảm, các lần sauliên trảmsát thươngtheo 80% tính toán.",
+              "9": "tấn công vật lý đơn mục tiêu, nếu kiểm định trúng đòn > AC mục tiêu, thìbồi thêmtối đahailầnkết toán liên trảm, các lần sauliên trảmsát thươngtheo 90% tính toán, tổng sát thương cuối cùng+10%.",
+              "10": "tấn công vật lý đơn mục tiêu, nếu kiểm định trúng đòn > AC mục tiêu, mỗivượt quá 1 điểm ACgiá trịlàcó thểbồi thêmmột lầnthêm sát thươngkết toán, tối đacó thểliên trảm 3 lần, liên trảmtoàn phầnkế thừa sát thương vũ khí, tổng sát thương cuối cùng+15%."
+            },
+            "阶位": "Nâng cao"
+          },
+          {
+            "名称": "Ám Khí · Phi Tiêu Trận",
+            "类型": "Chủ động",
+            "描述": "Chớp mắt ném lượng lớn phi tiêu phủ kín trận địa địch, cực kỳ khắc chế kẻ địch hệ pháp cần tập trung thi pháp.",
+            "特殊效果": {
+              "1": "vào phạm vi diện rộnggâyvật lýsát thương, mục tiêu trúng đòn bị kiểm định Thể chất-1.",
+              "2": "vào phạm vi diện rộnggâyvật lýsát thương, sát thương cuối cùng+5%, mục tiêu trúng đòn bị kiểm định Thể chất-1.",
+              "3": "vào phạm vi diện rộnggâyvật lýsát thương, sát thương cuối cùng+5%, mục tiêu trúng đòn bị kiểm định Thể chất-2.",
+              "4": "vào phạm vi diện rộnggâyvật lýsát thương, sát thương cuối cùng+10%, mục tiêu trúng đòn bị kiểm định Thể chất-2.",
+              "5": "vào phạm vi diện rộnggâyvật lýsát thương, sát thương cuối cùng+10%; sau khi trúng đòn, gắn thêm [khóa yết hầu]: kiểm định thi pháp trong vòng này chịu bất lợi.",
+              "6": "vào phạm vi diện rộnggâyvật lýsát thương, sát thương cuối cùng+15%; sau khi trúng đòn, gắn thêm [khóa yết hầu]: kiểm định thi pháp trong vòng này chịu bất lợi.",
+              "7": "vào phạm vi diện rộnggâyvật lýsát thương, sát thương cuối cùng+15%; sau khi trúng đòn, gắn thêm [khóa yết hầu]: kiểm định thi pháp và kiểm định tấn công tầm xa trong vòng này chịu bất lợi.",
+              "8": "vào phạm vi diện rộnggâyvật lýsát thương, sát thương cuối cùng+20%; sau khi trúng đòn, gắn thêm [khóa yết hầu]: kiểm định thi pháp và kiểm định tấn công tầm xa trong vòng này chịu bất lợi.",
+              "9": "vào phạm vi diện rộnggâyvật lýsát thương, sát thương cuối cùng+20%; sau khi trúng đòn, gắn thêm [khóa yết hầu]: duy trìmộtlượtthi phápkiểm địnhvớitầm xakiểm định tấn côngchịu bất lợi.",
+              "10": "gây sát thương bộc phá vật lý trong phạm vi diện rộng, sát thương cuối cùng+25%; sau khi trúng đòn, gắn thêm cường hiệu [khóa yết hầu]: mục tiêuvòng này và vòng saunếu thử thi pháp hoặc tấn công tầm xa, đều cần vượt qua miễn trừ Thể chất DC15 trước, nếu không thì hành động bị ngắt trực tiếp và mất nàyhành động."
+            },
+            "阶位": "Nâng cao"
+          },
+          {
+            "名称": "Vô Khí Giới · Đả Nham",
+            "类型": "Chủ động",
+            "描述": "Thân thể tôi luyện nghìn vạn lần đã là vũ khí mạnh nhất, ngay cả nham thạch cũng có thể đập nát. Chuyên phá đỡ đòn hoặc lá chắn mạnh của địch.",
+            "特殊效果": {
+              "1": "gây AOE vật lý hình quạt phía trước, vào cólá chắn tạm thờimục tiêusát thương cuối cùng+10%.",
+              "2": "gây AOE vật lý hình quạt phía trước, vào cólá chắn tạm thờimục tiêusát thương cuối cùng+15%.",
+              "3": "gây AOE vật lý hình quạt phía trước, vào cólá chắn tạm thờimục tiêusát thương cuối cùng+20%.",
+              "4": "gây AOE vật lý hình quạt phía trước, kiểm định trúng đòncóưu thế, vào cólá chắnmục tiêusát thương cuối cùng+20%.",
+              "5": "gây AOE vật lý hình quạt phía trước, gắn thêm [nghiền nát]: khi trúng đòn, lập tức giảm giá trị lá chắn của mục tiêu tương đương 30% sát thương lần này, rồi mới trừ sinh mệnh.",
+              "6": "gây AOE vật lý hình quạt phía trước, gắn thêm [nghiền nát]: khi trúng đòn, lập tức giảm giá trị lá chắn của mục tiêu tương đương 40% sát thương lần này, rồi mới trừ sinh mệnh.",
+              "7": "gây AOE vật lý hình quạt phía trước, gắn thêm [nghiền nát]: khi trúng đòn, lập tức giảm giá trị lá chắn của mục tiêu tương đương 50% sát thương lần này, rồi mới trừ sinh mệnh.",
+              "8": "gây AOE vật lý hình quạt phía trước, gắn thêm [nghiền nát]: khi trúng đòn, lập tức giảm giá trị lá chắn của mục tiêu tương đương 60% sát thương lần này, rồi mới trừ sinh mệnh.",
+              "9": "gây AOE vật lý hình quạt phía trước, gắn thêm [nghiền nát]: khi trúng đòn, lập tức giảm giá trị lá chắn của mục tiêu tương đương 70% sát thương lần này, rồi mới trừ sinh mệnh.",
+              "10": "gây xung kích vật lý mạnh theo hình quạt phía trước, đòn tấn công này cưỡng ép chắc chắn trúng! gây thêm[nghiền nát]: nếumục tiêucó manglá chắnhoặcđang ởđỡ đòntư thế, trực tiếp phá hủy toàn bộ giá trị lá chắn còn lại của nó, và chấn nhiếp mục tiêu, khiến kiểm định miễn trừ của nó ở lần bị tấn công kế tiếp chịu bất lợi."
+            },
+            "阶位": "Nâng cao"
+          }
+        ],
+        "必杀": [
+          {
+            "名称": "Kết Tinh Bốn Nghìn Năm · Băng Quyền",
+            "类型": "Chủ động",
+            "描述": "Một kích hoàn mỹ hội tụ bốn nghìn năm lịch sử võ thuật Trung Hoa. Đổi một cái giá sinh mệnh nhỏ để lấy sát thương đơn phát tối thượng bỏ qua mọi kháng tính.",
+            "特殊效果": {
+              "1": "tiêu hao 3% sinh mệnh tối đa của bản thân, gây sát thương vật lý cực ý lên đơn mục tiêu, sát thương cuối cùng+10%, bỏ qua 10% kháng vật lý của mục tiêu.",
+              "2": "tiêu hao 3% sinh mệnh tối đa của bản thân, gây sát thương vật lý cực ý lên đơn mục tiêu, sát thương cuối cùng+15%, bỏ qua 15% kháng vật lý của mục tiêu.",
+              "3": "tiêu hao 3% sinh mệnh tối đa của bản thân, gây sát thương vật lý cực ý lên đơn mục tiêu, sát thương cuối cùng+20%, bỏ qua 20% kháng vật lý của mục tiêu.",
+              "4": "tiêu hao 4% sinh mệnh tối đa của bản thân, gây sát thương vật lý cực ý lên đơn mục tiêu, sát thương cuối cùng+20%, bỏ qua 30% kháng vật lý của mục tiêu.",
+              "5": "tiêu hao 4% sinh mệnh tối đa của bản thân, gây sát thương vật lý cực ý lên đơn mục tiêu, sát thương cuối cùng+25%, bỏ qua 40% kháng vật lý của mục tiêu; nếugâytiêu diệt, bản thânhồi phụctiêu haolượng sinh mệnh.",
+              "6": "tiêu hao 4% sinh mệnh tối đa của bản thân, gây sát thương vật lý cực ý lên đơn mục tiêu, sát thương cuối cùng+30%, bỏ qua 50% kháng vật lý của mục tiêu; nếugâytiêu diệt, bản thânhồi phụctiêu haolượng sinh mệnh.",
+              "7": "tiêu hao 5% sinh mệnh tối đa của bản thân, gây sát thương vật lý cực ý lên đơn mục tiêu, sát thương cuối cùng+30%, bỏ qua 60% kháng vật lý của mục tiêu; nếugâytiêu diệt, xúc xắc sát thương của trận chiến này tăng 1."
+            },
+            "阶位": "Tất sát"
+          },
+          {
+            "名称": "Liên Đả Không Hô Hấp",
+            "类型": "Chủ động",
+            "描述": "Từ bỏ hô hấp, trong thời gian cực ngắn trút xuống liên kích như mưa bão. Một động tác áp chế rủi ro cao, lợi ích cao.",
+            "特殊效果": {
+              "1": "kích hoạt bằng hành động tặng thêm sau hành động chính, liên tục bồi thêm 2 lần phán định lên cùng một mục tiêu, mỗi lần gây 50% sát thương vũ khí, nhưng lượt sau bản thân bỏ qua hành động tặng thêm.",
+              "2": "kích hoạt bằng hành động tặng thêm sau hành động chính, liên tục bồi thêm 2 lần phán định lên cùng một mục tiêu, mỗi lần gây 60% sát thương vũ khí, nhưng lượt sau bản thân bỏ qua hành động tặng thêm.",
+              "3": "kích hoạt bằng hành động tặng thêm sau hành động chính, liên tục bồi thêm 3 lần phán định lên cùng một mục tiêu, mỗi lần gây 50% sát thương vũ khí, nhưng lượt sau bản thân bỏ qua hành động tặng thêm.",
+              "4": "kích hoạt bằng hành động tặng thêm sau hành động chính, liên tục bồi thêm 3 lần phán định lên cùng một mục tiêu, mỗi lần gây 60% sát thương vũ khí, nhưng lượt sau khoảng cách di chuyển của bản thân giảm một nửa.",
+              "5": "bộc phát [cuồng lan]: kích hoạt bằng hành động tặng thêm sau khi hành động chính trúng đòn, đối với mục tiêu, bao gồm 3 lần kết toán sát thương, tổng sát thương cuối cùng+20%, nhưng lượt sau bản thân bỏ qua hành động chính.",
+              "6": "bộc phát [cuồng lan]: kích hoạt bằng hành động tặng thêm sau khi hành động chính trúng đòn, đối với mục tiêu, bao gồm 3 lần kết toán sát thương, tổng sát thương cuối cùng+25%, nhưng lượt sau bản thân bỏ qua hành động chính.",
+              "7": "bộc phát [cuồng lan]: kích hoạt bằng hành động tặng thêm sau khi hành động chính trúng đòn, đối với mục tiêu, bao gồm 4 lần kết toán sát thương, tổng sát thương cuối cùng+25%, nhưng lượt sau bản thân bỏ qua hành động chính."
+            },
+            "阶位": "Tất sát"
+          },
+          {
+            "名称": "Đại Quan Mười Tám Ban Binh Khí",
+            "类型": "Chủ động",
+            "描述": "Biến mọi vật nhìn thấy trên chiến trường, từ bàn ghế, đá tảng tới cả tàn chi của địch, thành thần binh lợi khí, thi triển chuỗi liên chiêu binh khí diện rộng cực kỳ hoa lệ.",
+            "特殊效果": {
+              "1": "gây đòn đánh bao phủ vật lý lên môi trường diện rộng, sau khi trúng đònkhiếntất cảbịảnh hưởng lanphe địch AC-1, kéo dài 1 lượt.",
+              "2": "gây đòn đánh bao phủ vật lý lên môi trường diện rộng, sát thương cuối cùng+5%, sau khi trúng đònkhiếntất cảbịảnh hưởng lanphe địch AC-1, kéo dài 1 lượt.",
+              "3": "gây đòn đánh bao phủ vật lý lên môi trường diện rộng, sát thương cuối cùng+10%, sau khi trúng đònkhiếntất cảbịảnh hưởng lanphe địch AC-1, kéo dài 2 lượt.",
+              "4": "gây đòn đánh bao phủ vật lý lên môi trường diện rộng, sát thương cuối cùng+10%, sau khi trúng đònkhiếntất cảbịảnh hưởng lanphe địch AC-2, kéo dài 2 lượt.",
+              "5": "gây đòn đánh bao phủ vật lý lên môi trường diện rộng, gây ra[chấn nhiếp]: sau khi trúng đònphe địchtoàn quân AC-2, kiểm định miễn trừ Ý chí chịu bất lợi, kéo dài 2 lượt.",
+              "6": "gây đòn đánh bao phủ vật lý lên môi trường diện rộng, gây ra[chấn nhiếp]: sát thương cuối cùng+15%, sau khi trúng đònphe địchtoàn quân AC-2, kiểm định miễn trừ Ý chí chịu bất lợi, kéo dài 2 lượt.",
+              "7": "gây đòn đánh bao phủ vật lý lên môi trường diện rộng, gây ra[chấn nhiếp]: sát thương cuối cùng+20%, sau khi trúng đònphe địchtoàn quân AC-2, kiểm định miễn trừ Ý chí chịu bất lợi, kéo dài 2 lượt."
+            },
+            "阶位": "Tất sát"
+          }
+        ],
+        "奥义": [
+          {
+            "名称": "Hóa Cảnh · Thiên Địa Tiêu Lực",
+            "类型": "Đặc biệt",
+            "描述": "Cảnh giới tối cao có thể hóa giải toàn bộ chấn động đại địa và uy năng thiên tai, dựng nên một kết giới phản kích bất chấp pháp tắc.",
+            "特殊效果": {
+              "1": "chủ động mở kết giới 1 lượt, trong thời gian đóchịuđếnchí tửsát thương AOEkhi, có thể giảm một nửa sát thương này, và phản bật phần đã giảm trừ cho kẻ tấn công.",
+              "2": "chủ động mở kết giới 1 lượt, trong thời gian đóchịuđếnchí tửsát thương AOEkhi, có thể giảm 60% sát thương này, và phản bật phần đã giảm trừ cho kẻ tấn công.",
+              "3": "chủ động mở kết giới 1 lượt, trong thời gian đóchịuđếnchí tửsát thương AOEkhi, có thể giảm 70% sát thương này, và phản bật phần đã giảm trừ cho kẻ tấn công.",
+              "4": "chủ động mở kết giới 2 lượt, trong thời gian đóchịuđếnchí tửsát thương AOEkhi, có thể giảm 80% sát thương này, và phản bật phần đã giảm trừ cho toàn bộ kẻ địch trên sân.",
+              "5": "chủ động mở kết giới 2 lượt, nhận [quy vô] lực: vòng nàychịuđếnchí mạngsát thương AOEkhikích hoạt, cưỡng ép hạ sát thương này xuống 0, vàsẽhấp thusát thươngtổng lượng 50% động táclàm vật lýsát thươngphản xạchodiện rộngtrongtất cảkẻ địch."
+            },
+            "阶位": "Áo nghĩa"
+          },
+          {
+            "名称": "Long Ngẩng Đầu · Nghịch Lân",
+            "类型": "Chủ động",
+            "描述": "Tất sát tối cao cưỡng ép bật dậy từ trạng thái ngã hoặc tuyệt cảnh. Cực hạn của lấy tĩnh chế động; địch càng áp đảo thì chết càng nhanh.",
+            "特殊效果": {
+              "1": "bắt buộctronglượtbắt đầu HPthấpở 50% khisử dụng, vào đơn mục tiêugâynặng nềvật lýđòn đánh, sát thương cuối cùng+15%.",
+              "2": "bắt buộctronglượtbắt đầu HPthấpở 50% khisử dụng, vào đơn mục tiêugâynặng nềvật lýđòn đánh, sát thương cuối cùng+20%.",
+              "3": "bắt buộctronglượtbắt đầu HPthấpở 50% khisử dụng, vào đơn mục tiêugâynặng nềvật lýđòn đánh, sát thương cuối cùng+25%, chắc chắn trúng đòn.",
+              "4": "bắt buộctronglượtbắt đầu HPthấpở 50% khisử dụng, vào đơn mục tiêugâynặng nềvật lýđòn đánh, sát thương cuối cùng+30%, chắc chắn trúng đòn và hất bay mục tiêu.",
+              "5": "bắt buộc khi bản thân đang ở thế bất lợi(HPthấp, bị khống chế hoặc vừa thoát khỏi khống chế) thì bật dậy khỏi mặt đất, cưỡng ép giải trừ một giới hạn vật lý của bản thân rồi tung ra một quyền, sát thương cuối cùng+40%, sau khi trúng đòn, khiến mục tiêu choáng 1 lượt."
+            },
+            "阶位": "Áo nghĩa"
+          },
+          {
+            "名称": "Bách Bộ Xuyên Dương · Thần Thương",
+            "类型": "Chủ động",
+            "描述": "Nén kình lực của đại thương vào một điểm rồi ném ra một đòn xuyên thấu từ cự ly cực xa như thiên thạch rơi xuống.",
+            "特殊效果": {
+              "1": "ném một đòn xuyên thấu đường thẳng ở cự ly siêu xa, gây sát thương vật lý lên kẻ địch trên đường đi.",
+              "2": "ném một đòn xuyên thấu đường thẳng ở cự ly siêu xa, gây sát thương vật lý lên kẻ địch trên đường đi, sát thương cuối cùng+5%.",
+              "3": "ném một đòn xuyên thấu đường thẳng ở cự ly siêu xa, gây sát thương vật lý lên kẻ địch trên đường đi, sát thương cuối cùng+10%.",
+              "4": "ném một đòn xuyên thấu đường thẳng ở cự ly siêu xa, gây sát thương vật lý lên kẻ địch trên đường đi, sát thương cuối cùng+15%, kẻ địch đầu tiên trên đường đi chịu sát thương toàn phần, các mục tiêu sau suy giảm 10%.",
+              "5": "vào một đường thẳng dài tới 10 ôđường thẳngném Thần Thương, sát thương cuối cùng+20%, bỏ quađường đitrênmọiđịa hìnhchặn, sát thương lên các mục tiêu sau không còn suy giảm."
+            },
+            "阶位": "Áo nghĩa"
+          }
+        ],
+        "觉醒一": [
+          {
+            "名称": "Giai Đoạn Một: Võ Thuật Đạt Nhân",
+            "类型": "Chủ động",
+            "阶位": "Thức tỉnh một",
+            "描述": "Bước đầu bộc lộ phong phạm tông sư, dung hội quán thông các chiêu thức cơ bản.",
+            "特殊效果": {
+              "1": "sau khi thức tỉnh, trong trận chiến này, khi bản thân tính liên kích cho mọi đòn đánh thường và liên chiêu võ thuật, giá trị giảm liên kích ban đầu giảm một lượng bằng điểm điều chỉnh Sức mạnh của bản thân. mỗi lần phá vỡ thành công lá chắn hoặc đỡ đòn của phe địch, lập tức hồi phục cho bản thân 10% Thể chấtnăng lượng/sinh mệnhvàđặt lạimộttrong lượttrongdi chuyểntrêngiới hạn.",
+              "2": "sau khi thức tỉnh, trong trận chiến này, khi bản thân tính liên kích cho mọi đòn đánh thường và liên chiêu võ thuật, giá trị giảm liên kích ban đầu giảm một lượng bằng điểm điều chỉnh Sức mạnh của bản thân. mỗi lần phá vỡ thành công lá chắn hoặc đỡ đòn của phe địch, lập tức hồi phục cho bản thân 10% Thể chấtnăng lượng/sinh mệnhvàđặt lạimộttrong lượttrongdi chuyểntrêngiới hạn.",
+              "3": "sau khi thức tỉnh, trong trận chiến này, khi bản thân tính liên kích cho mọi đòn đánh thường và liên chiêu võ thuật, giá trị giảm liên kích ban đầu giảm một lượng bằng điểm điều chỉnh Sức mạnh của bản thân. mỗi lần phá vỡ thành công lá chắn hoặc đỡ đòn của phe địch, lập tức hồi phục cho bản thân 10% Thể chấtnăng lượng/sinh mệnhvàđặt lạimộttrong lượttrongdi chuyểntrêngiới hạn."
+            }
+          }
+        ],
+        "觉醒二": [
+          {
+            "名称": "Giai Đoạn Hai: Danh Hiệu Hải Vương",
+            "类型": "Chủ động",
+            "阶位": "Thức tỉnh hai",
+            "描述": "Được ban danh hiệu Hải Vương, đại diện cho đỉnh cao của thân thể và kỹ nghệ, từ sát thủ pháp sư tiến hóa thành khắc tinh của vạn vật.",
+            "特殊效果": {
+              "1": "sau khi thức tỉnh, trong trận chiến này, đối mặt vớibất kỳcố gắngvề phíabạnthi phápmục tiêuhoặcbất kỳlơ lửngbayđơn vị, mọi phán định (tấn công, miễn trừ, kiểm định) cưỡng chế mặc định là đại thành công(20 điểm). loại sát thương vũ khí của bạn chuyển hóa thành “vật lý chân lý”, loại sát thương này bỏ quađòn này mọi tồn tại trên thế giới nàykháng tính thần thánh, ác ma hoặc nguyên tố, chỉlấy nhấtcơ bảnpháp tắc thân thểkết toán.",
+              "2": "sau khi thức tỉnh, trong trận chiến này, đối mặt vớibất kỳcố gắngvề phíabạnthi phápmục tiêuhoặcbất kỳlơ lửngbayđơn vị, mọi phán định (tấn công, miễn trừ, kiểm định) cưỡng chế mặc định là đại thành công(20 điểm). loại sát thương vũ khí của bạn chuyển hóa thành “vật lý chân lý”, loại sát thương này bỏ quađòn này mọi tồn tại trên thế giới nàykháng tính thần thánh, ác ma hoặc nguyên tố, chỉlấy nhấtcơ bảnpháp tắc thân thểkết toán."
+            }
+          }
+        ],
+        "觉醒三": [
+          {
+            "名称": "Giai Đoạn Cuối: Cực Cảnh Của Võ",
+            "类型": "Chủ động",
+            "阶位": "Thức tỉnh ba",
+            "描述": "Đạt tới đỉnh cao, thậm chí vượt qua giới hạn thân thể. Mỗi đòn của bạn đều đang “hạ chiều” quy tắc của chính thế giới.",
+            "特殊效果": {
+              "1": "mỗi trận chỉ giới hạn sử dụng 1 lần, cưỡng épbóp méohiện tạichiếntrậnvật lýquy tắckéo dài tới 3 lượt: trong 3 lượt này, mọi kỹ năng ma pháp do phe địch thi triển đều bị phán định là “trò vặt”, phạm vi thu nhỏ còn bản thân và không gây sát thương. còn bạn nhận[Thần Minh Tiêu Lực] và [võ lý duy ngã], mỗi khi bạn thực hiệnmột lầnthườngtấn công cận chiến, đềusẽgây ramộttrậnbao phủtoàn sânchấn động không gian(gây thêmdựa trênbạnnhấtlớn Sức mạnhgiá trịsát thương chuẩn diện rộng), vàchỉ cầnhiệu quả nàytrạng tháitồn tại, bạn HPtuyệt đốikhông sẽgiángtới 1 điểmtrở xuống！"
+            }
+          }
+        ]
+      },
+      "skillTreeForClass": "Hải Vương",
+      "lockedSkillMap": {},
+      "skillFlavorInput": "Thiết kế tham chiếu cây kỹ năng dưới đây, số lượng nghiêm ngặt theo cấu trúc sau: cơ bản 4 kỹ năng, chuyển nghề 4 kỹ năng, nâng cao 5 kỹ năng, tất sát 3 kỹ năng, áo nghĩa 3 kỹ năng.\nCơ bản\nTên kỹ năng: Võ thuật Trung Hoa - Thốn Kình\nMô tả: vũ khí: tay không. Đòn ngắn cực tốc bộc phát ở cự ly bằng không.\nHiệu quả: vật lý đơn mục tiêu. [Thấu thể]: sau khi trúng đòn, thực hiện kiểm định thuộc tính Sức mạnh (DC = AC phe địch -5); thành công thì đòn này bỏ qua 30% giáp vật lý của mục tiêu, đồng thời xúc xắc sát thương cơ bản tăng 1 cấp (ví dụ d6 tăng thành d8).\nTên kỹ năng: Phòng Ngự Tiêu Lực\nMô tả: vũ khí: tay không. Thả lỏng thân thể tới cực hạn, thuận theo đòn đánh của kẻ địch như lông vũ để hóa giải xung kích.\nHiệu quả: bị động/phản ứng. [Tiêu lực]: khi chịu tấn công vật lý, thực hiện kiểm định thuộc tính Nhanh nhẹn (DC = xúc xắc trúng đòn của phe địch); thành công thì giảm 80% sát thương vật lý nhận vào lần này, thất bại thì giảm 20%.\nTên kỹ năng: Bạch Lâm Tự - Cước Quét Sàn\nMô tả: vũ khí: tay không. Đòn quét toàn thân hung mãnh phát động sau khi hạ thấp thân hình.\nHiệu quả: AOE vật lý quanh thân. [Vững chắc]: nếu hành động này là hành động thứ 1, mọi hành động tiếp theo có phạt liên kích giảm 2 điểm, đồng thời miễn nhiễm hiệu ứng [đánh ngã] trong vòng này.\nChuyển nghề\nTên kỹ năng: Bím Tóc Lưu Tinh Chùy\nMô tả: vũ khí: bím tóc (kỳ môn). Vung bím tóc thô chắc, cuốn đá hoặc bùn đất trên mặt đất quất vào kẻ địch.\nHiệu quả: vật lý đơn mục tiêu tầm trung. [Che mắt]: nếu là hành động thứ 1 của vòng này, ngưỡng bạo kích -3; sau khi trúng đòn, kiểm định tấn công kế tiếp của mục tiêu chịu bất lợi.\nTên kỹ năng: Bí Kỹ - Chuyển Liên Hoa\nMô tả: vũ khí: tay không. Quấn lấy cổ kẻ địch và dùng toàn lực toàn thân để siết chết.\nHiệu quả: vật lý đơn mục tiêu. [Siết cổ]: đòn này có ưu thế kiểm định tấn công; nếu trúng đòn và gây bạo kích, mục tiêu bị kèm trạng thái [ngạt thở] (mỗi lượt mất 5% HP tối đa), kéo dài 2 lượt.\nTên kỹ năng: Liên Đả Cửu Tiết Tiên\nMô tả: vũ khí: cửu tiết tiên. Binh khí mềm có quỹ đạo cực khó nhìn thấu liên tục quất đánh.\nHiệu quả: AOE vật lý hình quạt. [Rối loạn]: sau khi trúng đòn, kiểm định né tránh (hoặc AC) của mục tiêu trong vòng này giảm 3 điểm.\nNâng cao\nTên kỹ năng: Công Kích Tiêu Lực\nMô tả: kết hợp hoàn mỹ động năng đã hấp thu bằng “Phòng Ngự Tiêu Lực” với trọng lượng cơ thể, bộc phát phản kích đáng sợ.\nHiệu quả: vật lý đơn mục tiêu. [Phản chấn]: chỉ có thể dùng ở hành động kế tiếp sau khi kích hoạt thành công “Phòng Ngự Tiêu Lực”. Bỏ qua giảm trúng đòn do liên kích, đồng thời sát thương bạo kích tăng 50%.\nTên kỹ năng: Bộ Pháp Trôi Trên Nước\nMô tả: khinh công tuyệt đỉnh vượt khỏi lẽ thường.\nHiệu quả: chủ động đặc biệt. Sau khi phóng thích nhận [thần hành]: di chuyển bỏ qua mọi địa hình khó và sát thương bẫy mặt đất (như đầm độc, dung nham), đồng thời khi chịu tấn công đơn mục tiêu, kiểm định né tránh nhận ưu thế, kéo dài 2 lượt.\nTên kỹ năng: Trảm Song Đao Lá Liễu\nMô tả: rút song đao giấu ở chân để cắt chém cận chiến dày đặc như mưa giông.\nHiệu quả: vật lý đơn mục tiêu. [Liên trảm]: nếu kiểm định trúng đòn > AC mục tiêu, bồi thêm một lần kết toán sát thương, tối đa có thể liên trảm 3 lần.\nTên kỹ năng: Ám Khí - Trận Phi Tiêu\nMô tả: trong chớp mắt ném ra lượng lớn phi tiêu phủ kín trận địa phe địch.\nHiệu quả: AOE vật lý diện rộng. [Phong hầu]: mục tiêu trúng đòn chịu bất lợi khi kiểm định thi pháp hoặc kiểm định tấn công tầm xa trong vòng này.\nTên kỹ năng: Không Dùng Khí Giới - Đả Nham\nMô tả: thân thể ngàn rèn trăm luyện chính là vũ khí mạnh nhất, ngay cả đá cũng có thể đập nát.\nHiệu quả: AOE vật lý hình quạt. [Nghiền nát]: đòn tấn công này chắc chắn trúng; nếu mục tiêu có lá chắn hoặc đang ở trạng thái đỡ đòn, trực tiếp phá hủy giá trị lá chắn của nó, đồng thời khiến các hành động tiếp theo trong vòng này nhận ưu thế kiểm định.\nTất sát\nTên kỹ năng: Kết Tinh Bốn Nghìn Năm - Băng Quyền\nMô tả: một kích hoàn mỹ hội tụ lịch sử bốn nghìn năm võ thuật Trung Hoa.\nHiệu quả: vật lý đơn mục tiêu. [Phá quân]: phóng thích tiêu hao 5% HP, sát thương lần này tăng 30% và bỏ qua mọi kháng vật lý của phe địch; nếu gây đánh giết, xúc xắc sát thương của trận chiến này +1.\nTên kỹ năng: Liên Đả Vô Hô Hấp\nMô tả: từ bỏ hô hấp, trút ra chuỗi liên kích như mưa bão trong thời gian cực ngắn.\nHiệu quả: vật lý đơn mục tiêu. Hành động tặng thêm. [Cuồng lan]: chỉ có thể kích hoạt sau khi hành động chính trúng đòn. Đòn này gồm 4 lần kết toán sát thương, sát thương cuối cùng tăng 40%, nhưng lượt sau bản thân bỏ qua hành động chính.\nTên kỹ năng: Đại Quan Mười Tám Ban Binh Khí\nMô tả: biến mọi đồ vật trên sân thành thần binh lợi khí, thi triển chuỗi liên chiêu binh khí phạm vi lớn cực kỳ hoa lệ.\nHiệu quả: AOE vật lý diện rộng. Sau khi trúng đòn kèm [chấn nhiếp]: toàn bộ phe địch AC -3, kéo dài 3 lượt.\nÁo nghĩa\nTên kỹ năng: Hóa Cảnh - Thiên Địa Tiêu Lực\nMô tả: cảnh giới chí cao có thể hóa giải hoàn toàn và phản bật cả chấn động đại địa lẫn uy năng thiên tai.\nHiệu quả: AOE vật lý diện rộng (kỹ phản kích). [Quy vô]: kích hoạt khi trong vòng này chịu bất kỳ sát thương AOE chí tử nào, cưỡng ép hạ sát thương đó về 0, đồng thời phản xạ 150% tổng lượng sát thương đã hấp thu thành sát thương vật lý lên mọi kẻ địch trong phạm vi diện rộng.",
+      "teammates": [],
+      "customTeammate": null,
+      "selectedTraits": [
+        "Ra tay trước tất sát"
+      ],
+      "customTraits": [
+        {
+          "name": "Ta không bận tâm!",
+          "effect": "Retsu Kaioh trước sau vẫn không bận tâm! Ông có thể vứt bỏ mọi tạp niệm, lấy ý chí võ giả thuần túy nhất để quân lâm chiến trường. Không chịu ảnh hưởng của bất kỳ hiệu ứng tinh thần bất lợi nào, cũng không bị lời khiêu khích, hạ thấp hay hành vi ác ý của người khác dao động."
+        }
+      ],
+      "customExpertise": [
+        {
+          "name": "Ẩm thực Trung Hoa",
+          "effect": "Văn hóa Trung Hoa coi trọng y thực đồng nguyên. Bạn có thể chế biến đủ loại món Trung Hoa và dược thiện phong phú, tạm thời nâng cao nhiều thuộc tính và giải trừ debuff. Món ăn bạn nấu ngon tới mức khiến người ta kinh ngạc."
+        }
+      ],
+      "customIdentity": {
+        "enabled": true,
+        "name": "Retsu Kaioh! Đường đường chuyển sinh!",
+        "desc": "“Nhất định có thể dùng cho lần sau...”\nRuột đã trào ra ngoài; hóa ra sau khi bị chém trúng thật sự không thể đánh trả.\nLà phương pháp tiêu lực sai sao? Là do ta sơ suất sao?\nTừng cường giả đã đối mặt trong đời lần lượt hiện lên trước mắt, ý thức dần chìm vào bóng tối.\n“!?”\nKhông có cơn mê man như tưởng tượng, cũng chẳng có phán quan Diêm La nào. Trước mắt là một thiếu nữ tóc ngắn, dưới chân là một bàn cờ đang mở ra.\n“Trò chơi và dị thế giới sao? Ta không bận tâm!”",
+        "tierIndex": 2
+      },
+      "selectedOpening": "traverse",
+      "customOpeningText": "",
+      "selectedDifficulty": "easy",
+      "customRace": {
+        "enabled": true,
+        "name": "Võ đạo gia Trung Hoa",
+        "trait1": {
+          "name": "Võ si",
+          "detail": "Võ đạo gia theo thế giới quan Baki, không phải nhân loại thông thường; lòng ngưỡng mộ với việc khiêu chiến cường giả luôn thường trực trong tim.\nKinh nghiệm nhận được tăng thêm 30%.\nPhần thưởng đánh giết vượt cấp tăng gấp 4.\nCó thể cảm nhận mọi cường giả ở gần.",
+          "negative": false
+        },
+        "trait2": {
+          "name": "Năm nghìn năm trên dưới",
+          "detail": "Dù các quốc gia khác đều cho rằng chỉ có bốn nghìn năm, nhưng văn minh Hoa Hạ của chúng ta quả thực đã truyền thừa năm nghìn năm!\nTrí lực nhận giá trị điều chỉnh +2.\nTinh thông nhiều trí tuệ cổ xưa.\nĐối với hành động và chiêu số của kẻ địch, bạn có thể hiểu rõ logic và nguyên lý của chúng.\n“Con đường của các ngươi, mấy nghìn năm trước chúng ta đã đi qua rồi!”",
+          "negative": false
+        }
+      }
+    },
+    "downloadUrl": "/api/presets/8e5dffd0-7c2b-4798-af37-31ce1190091c/file"
+  }
+}

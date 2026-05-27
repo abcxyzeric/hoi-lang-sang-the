@@ -1,0 +1,862 @@
+{
+  "exportedAt": "2026-04-29T13:15:04.084Z",
+  "version": "1.0",
+  "preset": {
+    "id": "1777465269895",
+    "name": "La La La La La Rubick",
+    "timestamp": 1777465269895,
+    "createdAt": 1777465269895,
+    "updatedAt": 1777468503261,
+    "data": {
+      "name": "Rubick~",
+      "gender": "Nam",
+      "age": 18,
+      "race": "__custom__",
+      "identity": "__custom__",
+      "avatar": "data:image/png;base64,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",
+      "attributes": {
+        "strength": 10,
+        "dexterity": 10,
+        "constitution": 10,
+        "intelligence": 15,
+        "wisdom": 15,
+        "charisma": 11
+      },
+      "backstory": "",
+      "selectedLevelMode": "custom",
+      "selectedCustomLevel": 1,
+      "selectedSpawnPoint": "Tầng dưới thành phố vách cảng Hoàn Uyên - bờ biển ngoại vi",
+      "selectedAmberSpawn": null,
+      "class": "Đại Ma Đạo Sư",
+      "selectedBaseClass": "Nghề tùy chỉnh",
+      "customClassName": "Đại Ma Đạo Sư",
+      "customClassStyle": "Bạn là Rubick đến từ thế giới DOTA2, mọi loại kỹ năng đều đã nằm lòng.",
+      "customClassWeapon": "Pháp trượng",
+      "customClassCombatStyle": "",
+      "skillTree": {
+        "基础": [
+          {
+            "名称": "Lấy Vật Từ Xa",
+            "类型": "Chủ động",
+            "描述": "Dùng niệm lực nhấc một kẻ địch lên giữa không trung rồi nện xuống mặt đất. Dù tên là lấy vật từ xa, nó không dùng để móc túi lấy tiền được.",
+            "特殊效果": {
+              "1": "Sau khi trúng đòn, khiến mục tiêu rơi vào trạng thái [lơ lửng] 1 lượt; trong thời gian đó không thể di chuyển hoặc thực hiện hành động; khi rơi xuống, sát thương cuối cùng +5%.",
+              "2": "Sau khi trúng đòn, khiến mục tiêu rơi vào trạng thái [lơ lửng] 1 lượt; trong thời gian đó không thể di chuyển hoặc thực hiện hành động; khi rơi xuống, sát thương cuối cùng +10%.",
+              "3": "Sau khi trúng đòn, khiến mục tiêu rơi vào trạng thái [lơ lửng] 1 lượt; trong thời gian đó không thể di chuyển hoặc thực hiện hành động; khi rơi xuống, sát thương cuối cùng +15%, đồng thời khiến kiểm định miễn trừ Nhanh nhẹn của nó sau khi chạm đất -1.",
+              "4": "Sau khi trúng đòn, khiến mục tiêu rơi vào trạng thái [lơ lửng] 1 lượt; trong thời gian đó không thể di chuyển hoặc thực hiện hành động; khi rơi xuống, sát thương cuối cùng +20%, đồng thời khiến kiểm định miễn trừ Nhanh nhẹn của nó sau khi chạm đất -1.",
+              "5": "Sau khi trúng đòn, khiến mục tiêu rơi vào trạng thái [lơ lửng] 2 lượt; trong thời gian đó không thể di chuyển hoặc thực hiện hành động; khi rơi xuống, sát thương cuối cùng +25%, đồng thời khiến kiểm định miễn trừ Nhanh nhẹn của nó sau khi chạm đất -1.",
+              "6": "Sau khi trúng đòn, khiến mục tiêu rơi vào trạng thái [lơ lửng] 2 lượt; có thể ném mục tiêu tới vị trí bất kỳ trong phạm vi 3 yard; khi rơi xuống, sát thương cuối cùng +30%, đồng thời khiến kiểm định miễn trừ Nhanh nhẹn của nó sau khi chạm đất -2.",
+              "7": "Sau khi trúng đòn, khiến mục tiêu rơi vào trạng thái [lơ lửng] 2 lượt; có thể ném mục tiêu tới vị trí bất kỳ trong phạm vi 4 yard; khi rơi xuống, sát thương cuối cùng +35%, đồng thời khiến kiểm định miễn trừ Nhanh nhẹn của nó sau khi chạm đất -2.",
+              "8": "Sau khi trúng đòn, khiến mục tiêu rơi vào trạng thái [lơ lửng] 2 lượt; có thể ném mục tiêu tới vị trí bất kỳ trong phạm vi 4 yard; khi rơi xuống, sát thương cuối cùng +40%, đồng thời khiến kiểm định miễn trừ Nhanh nhẹn của nó sau khi chạm đất -3.",
+              "9": "Sau khi trúng đòn, khiến mục tiêu rơi vào trạng thái [lơ lửng] 2 lượt; có thể ném mục tiêu tới vị trí bất kỳ trong phạm vi 5 yard; khi chạm đất, gây sát thương lan bằng sát thương cuối cùng +10% lên những kẻ địch khác trong phạm vi 2 yard quanh điểm rơi.",
+              "10": "Sau khi trúng đòn, khiến mục tiêu rơi vào trạng thái [lơ lửng] 3 lượt; có thể ném mục tiêu tới vị trí bất kỳ trong phạm vi 5 yard; khi chạm đất, gây sát thương lan bằng sát thương cuối cùng +15% lên những kẻ địch khác trong phạm vi 2 yard quanh điểm rơi.",
+              "11": "Sau khi trúng đòn, khiến mục tiêu rơi vào trạng thái [lơ lửng] 3 lượt; có thể ném mục tiêu tới vị trí bất kỳ trong phạm vi 6 yard; khi chạm đất, gây sát thương lan bằng sát thương cuối cùng +20% lên những kẻ địch khác trong phạm vi 3 yard quanh điểm rơi.",
+              "12": "Sau khi trúng đòn, khiến mục tiêu rơi vào trạng thái [lơ lửng] 3 lượt; có thể ném mục tiêu tới vị trí bất kỳ trong phạm vi 6 yard; khi chạm đất, gây sát thương lan bằng sát thương cuối cùng +25% lên những kẻ địch khác trong phạm vi 3 yard quanh điểm rơi, kèm [choáng] 1 lượt.",
+              "13": "Sau khi trúng đòn, khiến mục tiêu rơi vào trạng thái [lơ lửng] 3 lượt; có thể ném mục tiêu tới vị trí bất kỳ trong phạm vi 7 yard; sát thương cuối cùng lên bản thể khi rơi xuống +50%, sát thương cuối cùng lan +30%, kèm [choáng] 1 lượt.",
+              "14": "Sau khi trúng đòn, khiến mục tiêu rơi vào trạng thái [lơ lửng] 4 lượt; có thể ném mục tiêu tới vị trí bất kỳ trong phạm vi 7 yard; sát thương cuối cùng lên bản thể khi rơi xuống +60%, sát thương cuối cùng lan +35%, kèm [choáng] 1 lượt.",
+              "15": "Sau khi trúng đòn, khiến mục tiêu rơi vào trạng thái [lơ lửng] 4 lượt; có thể ném mục tiêu tới vị trí bất kỳ trong phạm vi 8 yard; sát thương cuối cùng lên bản thể khi rơi xuống +75%, sát thương cuối cùng lan +45%, mọi kẻ địch trong khu vực bị kiểm định miễn trừ Sức mạnh và Nhanh nhẹn -4, kéo dài 2 lượt."
+            },
+            "阶位": "Cơ bản"
+          },
+          {
+            "名称": "Dòng Năng Lượng Suy Yếu",
+            "类型": "Chủ động",
+            "描述": "Phóng ra một dòng năng lượng nhảy qua giữa các kẻ địch, làm giảm sức tấn công và cường độ pháp thuật của chúng.",
+            "特殊效果": {
+              "1": "Sau khi trúng mục tiêu, kèm trạng thái [suy yếu] 1 lượt, kiểm định tấn công của mục tiêu -1; kỹ năng này sẽ nảy sang một kẻ địch khác trong phạm vi 3 yard 1 lần, sát thương cuối cùng +5%.",
+              "2": "Sau khi trúng mục tiêu, kèm trạng thái [suy yếu] 1 lượt, kiểm định tấn công của mục tiêu -1; kỹ năng này sẽ nảy sang một kẻ địch khác trong phạm vi 3 yard 2 lần, sát thương cuối cùng +10%.",
+              "3": "Sau khi trúng mục tiêu, kèm trạng thái [suy yếu] 2 lượt, kiểm định tấn công của mục tiêu -1; kỹ năng này sẽ nảy sang một kẻ địch khác trong phạm vi 3 yard 2 lần, sát thương cuối cùng +15%.",
+              "4": "Sau khi trúng mục tiêu, kèm trạng thái [suy yếu] 2 lượt, kiểm định tấn công của mục tiêu -2; kỹ năng này sẽ nảy sang một kẻ địch khác trong phạm vi 4 yard 2 lần, sát thương cuối cùng +15%.",
+              "5": "Sau khi trúng mục tiêu, kèm trạng thái [suy yếu] 2 lượt, kiểm định tấn công của mục tiêu -2; kỹ năng này sẽ nảy sang một kẻ địch khác trong phạm vi 4 yard 3 lần, sát thương cuối cùng +20%.",
+              "6": "Sau khi trúng mục tiêu, kèm trạng thái [suy yếu] 2 lượt, kiểm định tấn công của mục tiêu -2; kỹ năng này sẽ nảy sang một kẻ địch khác trong phạm vi 4 yard 3 lần, sát thương cuối cùng +25%; mỗi lần nảy trúng đòn gây thêm sát thương cuối cùng +5%.",
+              "7": "Sau khi trúng mục tiêu, kèm trạng thái [suy yếu] 3 lượt, kiểm định tấn công của mục tiêu -2; kỹ năng này sẽ nảy sang một kẻ địch khác trong phạm vi 5 yard 3 lần, sát thương cuối cùng +25%; mỗi lần nảy trúng đòn gây thêm sát thương cuối cùng +5%.",
+              "8": "Sau khi trúng mục tiêu, kèm trạng thái [suy yếu] 3 lượt, kiểm định tấn công của mục tiêu -3; kỹ năng này sẽ nảy sang một kẻ địch khác trong phạm vi 5 yard 4 lần, sát thương cuối cùng +30%; mỗi lần nảy trúng đòn gây thêm sát thương cuối cùng +5%.",
+              "9": "Sau khi trúng mục tiêu, kèm trạng thái [suy yếu] 3 lượt, kiểm định tấn công của mục tiêu -3; kỹ năng này sẽ nảy sang một kẻ địch khác trong phạm vi 5 yard 4 lần, sát thương cuối cùng +35%; mỗi lần nảy trúng đòn gây thêm sát thương cuối cùng +10%.",
+              "10": "Sau khi trúng mục tiêu, kèm trạng thái [suy yếu] 3 lượt, kiểm định tấn công của mục tiêu -3; kỹ năng này sẽ nảy sang một kẻ địch khác trong phạm vi 6 yard 4 lần, sát thương cuối cùng +40%; mỗi lần nảy trúng đòn gây thêm sát thương cuối cùng +10%.",
+              "11": "Sau khi trúng mục tiêu, kèm trạng thái [suy yếu] 4 lượt, kiểm định tấn công của mục tiêu -3; kỹ năng này sẽ nảy sang một kẻ địch khác trong phạm vi 6 yard 5 lần, sát thương cuối cùng +45%; mỗi lần nảy trúng đòn gây thêm sát thương cuối cùng +10%.",
+              "12": "Sau khi trúng mục tiêu, kèm trạng thái [suy yếu] 4 lượt, kiểm định tấn công của mục tiêu -4; kỹ năng này sẽ nảy sang một kẻ địch khác trong phạm vi 6 yard 5 lần, sát thương cuối cùng +50%; mỗi lần nảy trúng đòn gây thêm sát thương cuối cùng +15%.",
+              "13": "Sau khi trúng mục tiêu, kèm trạng thái [suy yếu] 4 lượt, kiểm định tấn công của mục tiêu -4; kỹ năng này sẽ nảy sang một kẻ địch khác trong phạm vi 7 yard 5 lần, sát thương cuối cùng +55%; mỗi lần nảy trúng đòn gây thêm sát thương cuối cùng +15%.",
+              "14": "Sau khi trúng mục tiêu, kèm trạng thái [suy yếu] 4 lượt, kiểm định tấn công của mục tiêu -4; kỹ năng này sẽ nảy sang một kẻ địch khác trong phạm vi 7 yard 6 lần, sát thương cuối cùng +60%; mỗi lần nảy trúng đòn gây thêm sát thương cuối cùng +20%.",
+              "15": "Sau khi trúng mục tiêu, kèm trạng thái [suy yếu] 5 lượt, kiểm định tấn công của mục tiêu -5; kỹ năng này sẽ nảy sang một kẻ địch khác trong phạm vi 8 yard 6 lần, sát thương cuối cùng +70%; mỗi lần nảy trúng đòn gây thêm sát thương cuối cùng +20%, đồng thời những kẻ bị trúng đòn chịu bất lợi khi kiểm định miễn trừ Nhanh nhẹn."
+            },
+            "阶位": "Cơ bản"
+          },
+          {
+            "名称": "Meat Hook",
+            "类型": "Chủ động",
+            "描述": "Ném chiếc móc thịt đẫm máu vào khu vực mục tiêu, kéo đơn vị đầu tiên chạm phải về bên cạnh mình. Vì mười Pudge thì chín người tệ, Meat Hook cấp một thật sự quá cơ bản nên Rubick học luôn làm kỹ năng nền.",
+            "特殊效果": {
+              "1": "Sau khi trúng mục tiêu, kéo mục tiêu về phía bản thân 3 yard, gây sát thương cuối cùng +10%.",
+              "2": "Sau khi trúng mục tiêu, kéo mục tiêu về phía bản thân 3 yard, gây sát thương cuối cùng +15%.",
+              "3": "Sau khi trúng mục tiêu, kéo mục tiêu về phía bản thân 4 yard, gây sát thương cuối cùng +20%.",
+              "4": "Sau khi trúng mục tiêu, kéo mục tiêu về phía bản thân 4 yard, gây sát thương cuối cùng +25%; khi trúng đòn tiến hành đối kháng Sức mạnh, nếu thành công thì kèm [chảy máu] 1 lượt.",
+              "5": "Sau khi trúng mục tiêu, kéo mục tiêu về phía bản thân 5 yard, gây sát thương cuối cùng +30%; khi trúng đòn tiến hành đối kháng Sức mạnh, nếu thành công thì kèm [chảy máu] 1 lượt.",
+              "6": "Sau khi trúng mục tiêu, kéo mục tiêu về phía bản thân 5 yard, gây sát thương cuối cùng +35%; khi trúng đòn tiến hành đối kháng Sức mạnh, nếu thành công thì kèm [chảy máu] 2 lượt.",
+              "7": "Sau khi trúng mục tiêu, kéo mục tiêu về phía bản thân 6 yard, gây sát thương cuối cùng +40%; khi trúng đòn tiến hành đối kháng Sức mạnh, nếu thành công thì kèm [chảy máu] 2 lượt.",
+              "8": "Sau khi trúng mục tiêu, kéo mục tiêu về phía bản thân 6 yard, gây sát thương cuối cùng +45%; khi trúng đòn tiến hành đối kháng Sức mạnh, nếu thành công thì kèm [chảy máu] 3 lượt.",
+              "9": "Sau khi trúng mục tiêu, kéo mục tiêu về phía bản thân 7 yard, gây sát thương cuối cùng +50%; khi trúng đòn cưỡng chế ngắt động tác chuẩn bị thi pháp của mục tiêu.",
+              "10": "Sau khi trúng mục tiêu, kéo mục tiêu về phía bản thân 7 yard, gây sát thương cuối cùng +55%; khi trúng đòn cưỡng chế ngắt động tác chuẩn bị thi pháp của mục tiêu, đồng thời kèm [phá giáp] 1 lượt (AC-2).",
+              "11": "Sau khi trúng mục tiêu, kéo mục tiêu về phía bản thân 8 yard, gây sát thương cuối cùng +60%; khi trúng đòn cưỡng chế ngắt động tác chuẩn bị thi pháp của mục tiêu, đồng thời kèm [phá giáp] 1 lượt (AC-2).",
+              "12": "Sau khi trúng mục tiêu, kéo mục tiêu về phía bản thân 8 yard, gây sát thương cuối cùng +65%; khi trúng đòn cưỡng chế ngắt động tác chuẩn bị thi pháp của mục tiêu, đồng thời kèm [phá giáp] 2 lượt (AC-3).",
+              "13": "Sau khi trúng mục tiêu, kéo mục tiêu về phía bản thân 9 yard, gây sát thương cuối cùng +70%; trong quá trình kéo, gây nửa lượng sát thương vật lý phụ lên kẻ địch trên đường.",
+              "14": "Sau khi trúng mục tiêu, kéo mục tiêu về phía bản thân 9 yard, gây sát thương cuối cùng +80%; trong quá trình kéo, gây nửa lượng sát thương vật lý phụ lên kẻ địch trên đường, đồng thời kèm [giảm tốc] 1 lượt.",
+              "15": "Sau khi trúng mục tiêu, kéo mục tiêu về phía bản thân 10 yard, gây sát thương cuối cùng +100%; mọi kẻ địch chạm phải trong quá trình kéo đều phải thực hiện miễn trừ Nhanh nhẹn, nếu thất bại thì bị gom lại cùng lúc và bị kèm [chảy máu] cùng [phá giáp] 3 lượt."
+            },
+            "阶位": "Cơ bản"
+          },
+          {
+            "名称": "Cú Đá Chim Cánh Cụt",
+            "类型": "Chủ động",
+            "描述": "Vừa phát ra tiếng hey vừa phi cước vào kẻ địch. Rubick lĩnh ngộ từ video trên Bilibili; ai bảo đại chiêu nhất định phải hủy thiên diệt địa? Đôi khi cú phi cước gây cười mới là nơi linh hồn thuộc về. Có thể dùng đại chiêu để chạy đường, kỹ năng Tetto tặng cho đủ số.",
+            "特殊效果": {
+              "1": "Đâm cực tốc về phía trước 3 yard, gây sát thương cuối cùng +5% lên kẻ địch đầu tiên trên đường.",
+              "2": "Đâm cực tốc về phía trước 3 yard, gây sát thương cuối cùng +8% lên kẻ địch đầu tiên trên đường, đồng thời khiến miễn trừ Sức mạnh của nó -1.",
+              "3": "Đâm cực tốc về phía trước 4 yard, gây sát thương cuối cùng +12% lên kẻ địch đầu tiên trên đường, đồng thời khiến miễn trừ Sức mạnh của nó -1.",
+              "4": "Đâm cực tốc về phía trước 4 yard, gây sát thương cuối cùng +15% lên kẻ địch đầu tiên trên đường; sau khi trúng đòn nhận 10 sinh mệnh tạm thời.",
+              "5": "Đâm cực tốc về phía trước 4 yard, gây sát thương cuối cùng +20% lên kẻ địch đầu tiên trên đường; sau khi trúng đòn nhận 15 sinh mệnh tạm thời.",
+              "6": "Đâm cực tốc về phía trước 5 yard, gây sát thương cuối cùng +25% lên mọi kẻ địch trên đường, đồng thời khiến miễn trừ Sức mạnh của chúng -2.",
+              "7": "Đâm cực tốc về phía trước 5 yard, gây sát thương cuối cùng +30% lên mọi kẻ địch trên đường; sau khi trúng đòn nhận 20 sinh mệnh tạm thời.",
+              "8": "Đâm cực tốc về phía trước 6 yard, gây sát thương cuối cùng +35% lên mọi kẻ địch trên đường, kèm phán định xác suất [choáng] 1 lượt (miễn trừ Thể chất thất bại thì có hiệu lực).",
+              "9": "Đâm cực tốc về phía trước 6 yard, gây sát thương cuối cùng +40% lên mọi kẻ địch trên đường, kèm [choáng] 1 lượt.",
+              "10": "Đâm cực tốc về phía trước 7 yard, gây sát thương cuối cùng +45% lên mọi kẻ địch trên đường, đồng thời cưỡng chế đẩy chúng ra 1 yard.",
+              "11": "Đâm cực tốc về phía trước 7 yard, gây sát thương cuối cùng +50% lên mọi kẻ địch trên đường; bản thân nhận ưu thế di chuyển kéo dài 1 lượt.",
+              "12": "Đâm cực tốc về phía trước 8 yard, gây sát thương cuối cùng +55% lên mọi kẻ địch trên đường; kẻ địch trúng đòn bị miễn trừ Nhanh nhẹn -3.",
+              "13": "Đâm cực tốc về phía trước 8 yard, gây sát thương cuối cùng +65% lên mọi kẻ địch trên đường; sau khi trúng đòn đặt lại một hành động phản kích của bản thân.",
+              "14": "Đâm cực tốc về phía trước 9 yard, gây sát thương cuối cùng +75% lên mọi kẻ địch trên đường; nếu kẻ địch đang ở trạng thái [suy yếu], ngưỡng bạo kích giảm 2.",
+              "15": "Đâm cực tốc về phía trước 10 yard xuyên suốt toàn sân, và sau khi phi cước kết thúc phát ra tiếng gầm “gu gu ga ga” chấn động thế giới, gây lượng sát thương bổ sung siêu lớn."
+            },
+            "阶位": "Cơ bản"
+          }
+        ],
+        "转职": [
+          {
+            "名称": "Trộm Kỹ Năng",
+            "类型": "Đặc biệt nghề nghiệp",
+            "描述": "Giải mở bí mật của kỹ năng cuối cùng phe địch vừa thi triển, khiến bản thân có thể thi triển kỹ năng đó. Bạn tưởng đây là kỹ năng của bạn à? Giờ nó là của ta.",
+            "特殊效果": {
+              "1": "Trộm một kỹ năng bạn từng chứng kiến và lập tức phóng thích, cường độ do D20 quyết định."
+            },
+            "阶位": "Chuyển nghề"
+          },
+          {
+            "名称": "Gai Đất",
+            "类型": "Chủ động",
+            "描述": "Phóng ra một dải gai đá trên mặt đất, hất kẻ địch lên không. Cái gai này vừa thô vừa lớn, đâm thủng mọi kẻ không phục.",
+            "特殊效果": {
+              "1": "Gây sát thương cuối cùng +10% trên đường thẳng 3 yard phía trước, mục tiêu trúng đòn bị kèm [hất bay] 1 lượt.",
+              "2": "Gây sát thương cuối cùng +15% trên đường thẳng 3 yard phía trước, mục tiêu trúng đòn bị kèm [hất bay] 1 lượt.",
+              "3": "Gây sát thương cuối cùng +20% trên đường thẳng 4 yard phía trước, mục tiêu trúng đòn bị kèm [hất bay] 1 lượt.",
+              "4": "Gây sát thương cuối cùng +25% trên đường thẳng 4 yard phía trước, mục tiêu trúng đòn bị kèm [hất bay] 1 lượt; khi chạm đất, tốc độ di chuyển giảm một nửa trong 1 lượt.",
+              "5": "Gây sát thương cuối cùng +30% trên đường thẳng 5 yard phía trước, mục tiêu trúng đòn bị kèm [hất bay] 1 lượt; khi chạm đất, tốc độ di chuyển giảm một nửa trong 1 lượt.",
+              "6": "Gây sát thương cuối cùng +35% trên đường thẳng 5 yard phía trước, mục tiêu trúng đòn bị kèm [hất bay] 2 lượt; khi chạm đất, tốc độ di chuyển giảm một nửa trong 1 lượt.",
+              "7": "Gây sát thương cuối cùng +40% trên đường thẳng 6 yard phía trước, mục tiêu trúng đòn bị kèm [hất bay] 2 lượt; khi chạm đất, tốc độ di chuyển giảm một nửa trong 1 lượt.",
+              "8": "Gây sát thương cuối cùng +45% trên đường thẳng 6 yard phía trước, mục tiêu trúng đòn bị kèm [hất bay] 2 lượt, đồng thời khiến kiểm định Nhanh nhẹn của nó -1.",
+              "9": "Gây sát thương cuối cùng +50% trên đường thẳng 7 yard phía trước, mục tiêu trúng đòn bị kèm [hất bay] 2 lượt, đồng thời khiến kiểm định Nhanh nhẹn của nó -2.",
+              "10": "Gây sát thương cuối cùng +55% trên đường thẳng 7 yard phía trước, mục tiêu trúng đòn bị kèm [hất bay] 2 lượt, đồng thời phá hủy mặt đất tạo thành [địa hình gồ ghề].",
+              "11": "Gây sát thương cuối cùng +60% trên đường thẳng 8 yard phía trước, mục tiêu trúng đòn bị kèm [hất bay] 2 lượt; sau khi địa hình bị phá hủy, kẻ địch bước vào khu vực đó bị miễn trừ Thể chất -2.",
+              "12": "Gây sát thương cuối cùng +65% trên đường thẳng 8 yard phía trước, mục tiêu trúng đòn bị kèm [hất bay] 2 lượt; sau khi địa hình bị phá hủy, kẻ địch bước vào khu vực đó bị miễn trừ Thể chất -3.",
+              "13": "Gây sát thương cuối cùng +70% trên đường thẳng 9 yard phía trước; nếu mục tiêu đang ở trạng thái [giảm tốc] hoặc [lơ lửng], gây thêm sát thương cuối cùng +10%.",
+              "14": "Gây sát thương cuối cùng +75% trên đường thẳng 9 yard phía trước; nếu mục tiêu đang chịu bất kỳ trạng thái xấu nào, gây thêm sát thương cuối cùng +15%, đồng thời ngưỡng bạo kích giảm 1.",
+              "15": "Gây sát thương cuối cùng +90% trên đường thẳng 10 yard phía trước; gai đá có hiệu ứng xuyên thấu, bỏ qua 20% kháng tính của mục tiêu; khi hất bay kết thúc, kèm [choáng] 1 lượt, ngưỡng bạo kích giảm thêm 2."
+            },
+            "阶位": "Chuyển nghề"
+          },
+          {
+            "名称": "Tường Gió",
+            "类型": "Đặc biệt",
+            "描述": "Tạo thành một luồng khí chặn toàn bộ vật phóng bay của phe địch. Đừng hỏi Rubick quen Yasuo kiểu gì; có lẽ thông qua một thương nhân họ Ma nào đó cùng sư môn với Rubick.",
+            "特殊效果": {
+              "1": "Mở một bức tường gió rộng 3 yard ở phía trước, kéo dài 1 lượt; trong thời gian đó chặn mọi vật phóng của đòn tấn công tầm xa xuyên qua tường gió.",
+              "2": "Mở một bức tường gió rộng 3 yard ở phía trước, kéo dài 1 lượt; chặn vật phóng, đồng thời đồng minh phía sau tường gió AC+1.",
+              "3": "Mở một bức tường gió rộng 4 yard ở phía trước, kéo dài 1 lượt; chặn vật phóng, đồng thời đồng minh phía sau tường gió AC+1.",
+              "4": "Mở một bức tường gió rộng 4 yard ở phía trước, kéo dài 2 lượt; chặn vật phóng, đồng thời đồng minh phía sau tường gió AC+1.",
+              "5": "Mở một bức tường gió rộng 4 yard ở phía trước, kéo dài 2 lượt; chặn vật phóng, đồng thời đồng minh phía sau tường gió AC+2.",
+              "6": "Mở một bức tường gió rộng 5 yard ở phía trước, kéo dài 2 lượt; chặn vật phóng, đồng thời đồng minh phía sau tường gió AC+2.",
+              "7": "Mở một bức tường gió rộng 5 yard ở phía trước, kéo dài 2 lượt; chặn vật phóng, kẻ địch cận chiến đi xuyên qua tường gió bị giảm một nửa tốc độ di chuyển trong 1 lượt.",
+              "8": "Mở một bức tường gió rộng 5 yard ở phía trước, kéo dài 3 lượt; chặn vật phóng, kẻ địch cận chiến đi xuyên qua tường gió bị giảm một nửa tốc độ di chuyển trong 1 lượt.",
+              "9": "Mở một bức tường gió rộng 6 yard ở phía trước, kéo dài 3 lượt; chặn vật phóng, kẻ địch đi xuyên qua tường gió cần thực hiện miễn trừ Sức mạnh, thất bại thì bị đẩy lùi 1 yard.",
+              "10": "Mở một bức tường gió rộng 6 yard ở phía trước, kéo dài 3 lượt; chặn vật phóng, kẻ địch đi xuyên qua tường gió cần thực hiện miễn trừ Sức mạnh, thất bại thì bị đẩy lùi 2 yard và AC-1.",
+              "11": "Mở một bức tường gió rộng 6 yard ở phía trước, kéo dài 3 lượt; đồng minh phía sau tường gió được kiểm định miễn trừ mọi thuộc tính +1, kẻ địch đi xuyên qua bị cản trở.",
+              "12": "Mở một bức tường gió rộng 7 yard ở phía trước, kéo dài 4 lượt; đồng minh phía sau tường gió được kiểm định miễn trừ mọi thuộc tính +2; kẻ địch chạm vào tường gió chịu một lượng nhỏ vết cắt phong nhận, kiểm định miễn trừ Thể chất chịu bất lợi.",
+              "13": "Mở một bức tường gió rộng 7 yard ở phía trước, kéo dài 4 lượt; đồng minh phía sau tường gió được kiểm định miễn trừ mọi thuộc tính +2, đồng thời khi tường vừa mở sẽ đẩy kẻ địch trong phạm vi 2 yard xung quanh ra xa.",
+              "14": "Mở một bức tường gió rộng 8 yard ở phía trước, kéo dài 4 lượt; đồng minh phía sau tường gió được kiểm định miễn trừ mọi thuộc tính +3; khoảnh khắc mở tường sẽ đẩy kẻ địch ra và kèm trạng thái [phong thực] làm giảm kháng tính.",
+              "15": "Mở một bức tường gió rộng 10 yard ở phía trước, kéo dài 5 lượt; tuyệt đối chặn mọi vật phóng tầm xa và vật phóng pháp thuật; đơn vị đồng minh được tường gió che chở có ngưỡng bạo kích giảm 1; kẻ địch vượt qua tường gió lập tức rơi vào [mù] và [giảm tốc] 2 lượt."
+            },
+            "阶位": "Chuyển nghề"
+          },
+          {
+            "名称": "Trận Quang Kích",
+            "类型": "Chủ động",
+            "描述": "Triệu hồi một cột lửa đánh vào kẻ địch trong phạm vi nhất định. Vì phạm vi thật sự quá nhỏ, nếu không có khống chế mở đầu thì Rubick chỉ có thể dùng nó để nướng khoai lang.",
+            "特殊效果": {
+              "1": "Gây sát thương cuối cùng +15% trong khu vực bán kính 2 yard, mục tiêu trúng đòn bị kèm [choáng] 1 lượt.",
+              "2": "Gây sát thương cuối cùng +20% trong khu vực bán kính 2 yard, mục tiêu trúng đòn bị kèm [choáng] 1 lượt.",
+              "3": "Gây sát thương cuối cùng +25% trong khu vực bán kính 2 yard, mục tiêu trúng đòn bị kèm [choáng] 1 lượt, kèm trạng thái [cháy] 1 lượt.",
+              "4": "Gây sát thương cuối cùng +30% trong khu vực bán kính 3 yard, mục tiêu trúng đòn bị kèm [choáng] 1 lượt, kèm trạng thái [cháy] 1 lượt.",
+              "5": "Gây sát thương cuối cùng +35% trong khu vực bán kính 3 yard, mục tiêu trúng đòn bị kèm [choáng] 1 lượt, kèm trạng thái [cháy] 2 lượt.",
+              "6": "Gây sát thương cuối cùng +40% trong khu vực bán kính 3 yard, mục tiêu trúng đòn bị kèm [choáng] 1 lượt, kèm trạng thái [cháy] 2 lượt; gây thêm sát thương cuối cùng +10% lên kẻ địch đang [lơ lửng].",
+              "7": "Gây sát thương cuối cùng +45% trong khu vực bán kính 3 yard, mục tiêu trúng đòn bị kèm [choáng] 2 lượt, kèm trạng thái [cháy] 2 lượt.",
+              "8": "Gây sát thương cuối cùng +50% trong khu vực bán kính 4 yard, mục tiêu trúng đòn bị kèm [choáng] 2 lượt, kèm trạng thái [cháy] 2 lượt.",
+              "9": "Gây sát thương cuối cùng +55% trong khu vực bán kính 4 yard, mục tiêu trúng đòn bị kèm [choáng] 2 lượt, kèm trạng thái [cháy] 3 lượt, xuyên kháng lửa +5%.",
+              "10": "Gây sát thương cuối cùng +60% trong khu vực bán kính 4 yard, mục tiêu trúng đòn bị kèm [choáng] 2 lượt, kèm trạng thái [cháy] 3 lượt, xuyên kháng lửa +10%.",
+              "11": "Gây sát thương cuối cùng +65% trong khu vực bán kính 4 yard, mục tiêu trúng đòn bị kèm [choáng] 2 lượt; kẻ địch đang [lơ lửng] hoặc [hất bay] nhận thêm sát thương cuối cùng +20%.",
+              "12": "Gây sát thương cuối cùng +70% trong khu vực bán kính 5 yard, mục tiêu trúng đòn bị kèm [choáng] 2 lượt, đồng thời kích nổ toàn bộ hiệu ứng chảy máu và suy yếu trên mục tiêu, gây toàn bộ lượng sát thương còn lại.",
+              "13": "Gây sát thương cuối cùng +75% trong khu vực bán kính 5 yard, mục tiêu trúng đòn bị kèm [choáng] 3 lượt; hiệu ứng kích nổ đồng thời khiến mục tiêu nhận trạng thái dễ tổn thương, AC-2.",
+              "14": "Gây sát thương cuối cùng +85% trong khu vực bán kính 5 yard, mục tiêu trúng đòn bị kèm [choáng] 3 lượt; vụ nổ lửa lưu lại địa hình [biển lửa] trong khu vực 1 lượt.",
+              "15": "Gây sát thương cuối cùng +100% trong khu vực bán kính 6 yard, mục tiêu trúng đòn bị kèm [choáng sâu] 3 lượt (bỏ qua miễn trừ Thể chất); nếu mục tiêu đã ở bất kỳ trạng thái khống chế nào, Trận Quang Kích lần này chắc chắn bạo kích (ngưỡng bạo kích được xem là giá trị xúc xắc hiện tại)."
+            },
+            "阶位": "Chuyển nghề"
+          }
+        ],
+        "进阶": [
+          {
+            "名称": "Bão Lửa",
+            "类型": "Triệu hồi",
+            "描述": "Triệu hồi nhiều đợt lửa tấn công toàn bộ đơn vị trong khu vực mục tiêu. Mưa lửa của Underlord; đây không phải trời mưa, đây là trời đổ lửa, đồng đội đứng trong đó cũng thấy bỏng chân.",
+            "特殊效果": {
+              "1": "Tạo trận mưa lửa kéo dài 3 lượt trong khu vực chỉ định 4 yard; kẻ địch trong trận mỗi lượt chịu đòn lửa duy trì với sát thương cuối cùng +10%.",
+              "2": "Tạo trận mưa lửa kéo dài 3 lượt trong khu vực chỉ định 4 yard; kẻ địch trong trận mỗi lượt chịu đòn lửa duy trì với sát thương cuối cùng +15%.",
+              "3": "Tạo trận mưa lửa kéo dài 3 lượt trong khu vực chỉ định 5 yard; kẻ địch trong trận mỗi lượt chịu đòn lửa duy trì với sát thương cuối cùng +20%.",
+              "4": "Tạo trận mưa lửa kéo dài 4 lượt trong khu vực chỉ định 5 yard; kẻ địch trong trận mỗi lượt chịu đòn lửa duy trì với sát thương cuối cùng +25%, và mỗi lần chịu sát thương thì miễn trừ Nhanh nhẹn -1.",
+              "5": "Tạo trận mưa lửa kéo dài 4 lượt trong khu vực chỉ định 5 yard; kẻ địch trong trận mỗi lượt chịu đòn lửa duy trì với sát thương cuối cùng +30%, và mỗi lần chịu sát thương thì miễn trừ Nhanh nhẹn -2.",
+              "6": "Tạo trận mưa lửa kéo dài 4 lượt trong khu vực chỉ định 6 yard; kẻ địch trong trận mỗi lượt chịu đòn lửa duy trì với sát thương cuối cùng +35%, kèm cơ chế [mất sinh mệnh tối đa] (chuyển hóa thành thêm sát thương cuối cùng +5%).",
+              "7": "Tạo trận mưa lửa kéo dài 5 lượt trong khu vực chỉ định 6 yard; kẻ địch trong trận mỗi lượt chịu đòn lửa duy trì với sát thương cuối cùng +40%, kèm thiêu đốt tăng thêm sát thương cuối cùng +10%.",
+              "8": "Tạo trận mưa lửa kéo dài 5 lượt trong khu vực chỉ định 6 yard; kẻ địch trong trận mỗi lượt chịu đòn lửa duy trì với sát thương cuối cùng +45%; kẻ địch trong trận không thể nhận cộng thêm ẩn nấp và che chắn.",
+              "9": "Tạo trận mưa lửa kéo dài 5 lượt trong khu vực chỉ định 7 yard; kẻ địch trong trận mỗi lượt chịu đòn lửa duy trì với sát thương cuối cùng +55%; đồng minh trong phạm vi trận mưa lửa được kháng toàn bộ sát thương +10%.",
+              "10": "Tạo trận mưa lửa kéo dài 6 lượt trong khu vực chỉ định 8 yard; mỗi lượt gây đòn đánh với sát thương cuối cùng +70%; nếu kẻ địch trong trận mang [choáng] hoặc [lơ lửng], sát thương lửa nhận vào sẽ bỏ qua kháng lửa."
+            },
+            "阶位": "Nâng cao"
+          },
+          {
+            "名称": "Mười Vạn Volt",
+            "类型": "Chủ động",
+            "描述": "Phóng ra dòng điện mạnh mười vạn volt, xuyên thủng thần kinh đối thủ. Rubick xem hoạt hình không ít, học được thì sao? Không chỉ biết phóng điện, thậm chí còn biết hét Pika!",
+            "特殊效果": {
+              "1": "Gây sát thương cuối cùng +20% lên đơn mục tiêu, có 30% xác suất kèm [tê liệt] 1 lượt (kiểm định Sức mạnh và Nhanh nhẹn chịu bất lợi).",
+              "2": "Gây sát thương cuối cùng +25% lên đơn mục tiêu, có 35% xác suất kèm [tê liệt] 1 lượt.",
+              "3": "Gây sát thương cuối cùng +30% lên đơn mục tiêu, có 40% xác suất kèm [tê liệt] 1 lượt, đồng thời cắt giảm 5 feet tốc độ di chuyển của mục tiêu.",
+              "4": "Gây sát thương cuối cùng +35% lên đơn mục tiêu, có 45% xác suất kèm [tê liệt] 1 lượt; khi trúng đòn, truyền một nửa sát thương sang 1 kẻ địch trong phạm vi 2 yard xung quanh.",
+              "5": "Gây sát thương cuối cùng +40% lên đơn mục tiêu, có 50% xác suất kèm [tê liệt] 2 lượt, truyền sang 1 kẻ địch trong phạm vi 3 yard xung quanh.",
+              "6": "Gây sát thương cuối cùng +45% lên đơn mục tiêu, chắc chắn kèm [tê liệt] 2 lượt, truyền sang 2 kẻ địch trong phạm vi 3 yard xung quanh.",
+              "7": "Gây sát thương cuối cùng +50% lên đơn mục tiêu, chắc chắn kèm [tê liệt] 2 lượt, truyền sang 2 kẻ địch trong phạm vi 4 yard xung quanh, xuyên kháng sét +10%.",
+              "8": "Gây sát thương cuối cùng +55% lên đơn mục tiêu, chắc chắn kèm [tê liệt] 2 lượt, truyền sang 3 kẻ địch trong phạm vi 4 yard xung quanh, ngưỡng bạo kích giảm 1.",
+              "9": "Gây sát thương cuối cùng +65% lên đơn mục tiêu, chắc chắn kèm [tê liệt] 3 lượt, truyền sang 3 kẻ địch trong phạm vi 5 yard xung quanh; nếu mục tiêu đang ở vùng nước hoặc đang [lơ lửng], sát thương truyền dẫn chuyển thành toàn phần.",
+              "10": "Gây sát thương cuối cùng +80% lên đơn mục tiêu; điện kích hình thành lưới lôi bạo bao phủ mục tiêu và phạm vi 5 yard quanh nó, toàn bộ kẻ địch trong phạm vi rơi vào [tê liệt sâu] 2 lượt (không thể hành động); kiểm định điện kích lần này có ưu thế và sát thương cuối cùng thêm +30%."
+            },
+            "阶位": "Nâng cao"
+          },
+          {
+            "名称": "Ân Tứ Giải Thoát",
+            "类型": "Đặc biệt",
+            "描述": "Bồi dưỡng năng lực nhìn thấu điểm yếu của kẻ địch, đòn đánh có xác suất gây bạo kích vật lý hủy diệt. Để cho vị pháp sư này có khả năng vật lý, Rubick đã cầm trượng cận chiến gõ đầu.",
+            "特殊效果": {
+              "1": "Sau khi mở, đi vào tư thế [giải thoát] kéo dài 3 lượt; trong thời gian đó đòn tấn công cận chiến vật lý có ngưỡng bạo kích giảm 1, khi bạo kích thì sát thương cuối cùng +20%.",
+              "2": "Sau khi mở, đi vào tư thế [giải thoát] kéo dài 3 lượt; trong thời gian đó đòn tấn công cận chiến vật lý có ngưỡng bạo kích giảm 1, khi bạo kích thì sát thương cuối cùng +30%.",
+              "3": "Sau khi mở, đi vào tư thế [giải thoát] kéo dài 4 lượt; trong thời gian đó đòn tấn công cận chiến vật lý có ngưỡng bạo kích giảm 2, khi bạo kích thì sát thương cuối cùng +40%.",
+              "4": "Sau khi mở, đi vào tư thế [giải thoát] kéo dài 4 lượt; trong thời gian đó đòn tấn công cận chiến vật lý có ngưỡng bạo kích giảm 2, khi bạo kích thì sát thương cuối cùng +50%, đồng thời bạo kích bỏ qua 10% giáp của mục tiêu (chuyển hóa thành xuyên AC).",
+              "5": "Sau khi mở, đi vào tư thế [giải thoát] kéo dài 4 lượt; trong thời gian đó đòn tấn công cận chiến vật lý có ngưỡng bạo kích giảm 2, khi bạo kích thì sát thương cuối cùng +60%, đồng thời bạo kích bỏ qua 15% giáp của mục tiêu.",
+              "6": "Sau khi mở, đi vào tư thế [giải thoát] kéo dài 5 lượt; trong thời gian đó đòn tấn công cận chiến vật lý có ngưỡng bạo kích giảm 3, khi bạo kích thì sát thương cuối cùng +70%, đồng thời khiến mục tiêu rơi vào [chảy máu] 2 lượt.",
+              "7": "Sau khi mở, đi vào tư thế [giải thoát] kéo dài 5 lượt; trong thời gian đó đòn tấn công cận chiến vật lý có ngưỡng bạo kích giảm 3, khi bạo kích thì sát thương cuối cùng +80%; có ưu thế kiểm định đối với kẻ địch còn dưới 30% sinh mệnh.",
+              "8": "Sau khi mở, đi vào tư thế [giải thoát] kéo dài 5 lượt; trong thời gian đó đòn tấn công cận chiến vật lý có ngưỡng bạo kích giảm 3, khi bạo kích thì sát thương cuối cùng +90%, xử quyết lính thường có sinh mệnh cực thấp.",
+              "9": "Sau khi mở, đi vào tư thế [giải thoát] kéo dài 6 lượt; trong thời gian đó đòn tấn công cận chiến vật lý có ngưỡng bạo kích giảm 4, khi bạo kích thì sát thương cuối cùng +100%; nếu đánh giết mục tiêu thì làm mới thời lượng tư thế và nhận thêm một lần di chuyển.",
+              "10": "Sau khi mở, đi vào tư thế [giải thoát] kéo dài 6 lượt; trong thời gian đó mọi đòn cận chiến và pháp thuật có ngưỡng bạo kích giảm 5, khi bạo kích thì sát thương cuối cùng +150%; đồng thời chắc chắn trúng kẻ địch đang [hất bay] hoặc [choáng], trực tiếp chém rơi chúng xuống."
+            },
+            "阶位": "Nâng cao"
+          },
+          {
+            "名称": "Đứt Hồn",
+            "类型": "Đặc biệt",
+            "描述": "Cắt đứt liên hệ linh hồn giữa bản thân và kẻ địch mục tiêu, trao đổi sinh lực của đôi bên. Pháp sư bị áp sát sắp chết thì làm sao? Tìm một gã đầy máu đổi một cái là xong.",
+            "特殊效果": {
+              "1": "Chỉ định một kẻ địch trong phạm vi 5 yard, cưỡng chế hút năng lượng sinh mệnh của nó, khiến bản thân nhận sinh mệnh tạm thời bằng 10% tỷ lệ sinh mệnh hiện tại của mục tiêu, kéo dài 2 lượt; mục tiêu miễn trừ Thể chất -1.",
+              "2": "Chỉ định một kẻ địch trong phạm vi 5 yard, cưỡng chế hút năng lượng sinh mệnh của nó, khiến bản thân nhận sinh mệnh tạm thời bằng 15% tỷ lệ sinh mệnh hiện tại của mục tiêu, kéo dài 2 lượt; mục tiêu miễn trừ Thể chất -1.",
+              "3": "Chỉ định một kẻ địch trong phạm vi 6 yard, cưỡng chế hút năng lượng sinh mệnh của nó, khiến bản thân nhận sinh mệnh tạm thời bằng 20% tỷ lệ sinh mệnh hiện tại của mục tiêu, kéo dài 3 lượt; mục tiêu miễn trừ Thể chất -2.",
+              "4": "Chỉ định một kẻ địch trong phạm vi 6 yard, cưỡng chế hút năng lượng sinh mệnh của nó, khiến bản thân nhận sinh mệnh tạm thời bằng 25% tỷ lệ sinh mệnh hiện tại của mục tiêu, kéo dài 3 lượt; mục tiêu miễn trừ Thể chất -2 và AC-1.",
+              "5": "Chỉ định một kẻ địch trong phạm vi 7 yard, cưỡng chế hút năng lượng sinh mệnh của nó, khiến bản thân nhận sinh mệnh tạm thời bằng 30% tỷ lệ sinh mệnh hiện tại của mục tiêu, kéo dài 3 lượt; bản thân kiểm định Trí lực +2.",
+              "6": "Chỉ định một kẻ địch trong phạm vi 7 yard, tạo liên kết linh hồn, trộm 35% tỷ lệ sinh mệnh của mục tiêu chuyển thành sinh mệnh tạm thời; nếu bản thân đang cận tử, hồi thêm sinh mệnh cho tới khi thoát khỏi cận tử; mục tiêu miễn trừ Sức mạnh -3.",
+              "7": "Chỉ định một kẻ địch trong phạm vi 8 yard, tạo liên kết linh hồn, trộm 40% tỷ lệ sinh mệnh của mục tiêu chuyển thành sinh mệnh tạm thời, đồng thời chuyển 1 trạng thái bất lợi không thuộc loại khống chế hiện đang tác động lên bản thân sang kẻ địch đó.",
+              "8": "Chỉ định một kẻ địch trong phạm vi 8 yard, tạo liên kết linh hồn, trộm 45% tỷ lệ sinh mệnh của mục tiêu chuyển thành sinh mệnh tạm thời, đồng thời chuyển tối đa 2 trạng thái bất lợi đang tác động lên bản thân; bản thân nhận [linh hồn sung mãn], khiến kỹ năng kế tiếp có sát thương cuối cùng +20%.",
+              "9": "Chỉ định một kẻ địch trong phạm vi 10 yard, tạo liên kết linh hồn, trộm 50% tỷ lệ sinh mệnh của mục tiêu chuyển thành sinh mệnh tạm thời, kèm hiệu ứng áp chế cực mạnh; mục tiêu rơi vào trạng thái [hư nhược] 3 lượt, mọi sát thương cuối cùng đầu ra giảm 30%.",
+              "10": "Bỏ qua khoảng cách, chỉ định một kẻ địch trong tầm nhìn để cưỡng ép trao đổi dấu ấn linh hồn; tước đoạt 60% sinh lực của nó chuyển thành lá chắn cực hiệu của bản thân (sinh mệnh tạm thời), cướp sạch toàn bộ hiệu ứng có lợi mà nó đang mang và chuyển sang bản thân; kẻ bị tước đoạt chịu bất lợi cưỡng chế trong kiểm định mọi thuộc tính, kéo dài 2 lượt."
+            },
+            "阶位": "Nâng cao"
+          }
+        ],
+        "必杀": [
+          {
+            "名称": "Thiên Thạch Hỗn Độn",
+            "类型": "Triệu hồi",
+            "描述": "Triệu hồi một thiên thạch rực cháy từ chân trời, lăn về phía trước và nghiền nát mọi thứ. Không chỉ lớn, mà còn nóng bỏng. Đừng hỏi thiên thạch từ đâu ra, hỏi thì là dùng nguyên lực vo lại.",
+            "特殊效果": {
+              "1": "Nện một thiên thạch xuống phía trước rồi lăn 5 yard về trước; kẻ địch trên đường chịu sát thương cuối cùng +30%, đồng thời kèm [cháy] 1 lượt.",
+              "2": "Nện một thiên thạch xuống phía trước rồi lăn 6 yard về trước; kẻ địch trên đường chịu sát thương cuối cùng +40%, đồng thời kèm [cháy] 2 lượt; khi chạm phải, miễn trừ Nhanh nhẹn -1.",
+              "3": "Nện một thiên thạch xuống phía trước rồi lăn 7 yard về trước; kẻ địch trên đường chịu sát thương cuối cùng +50%, đồng thời kèm [cháy] 2 lượt; kẻ bị nghiền ép bị giảm một nửa tốc độ di chuyển.",
+              "4": "Nện một thiên thạch xuống phía trước rồi lăn 8 yard về trước; kẻ địch trên đường chịu sát thương cuối cùng +60%, đồng thời kèm [cháy] 3 lượt; nếu kẻ địch đang [choáng] trên đường lăn của thiên thạch, sát thương cuối cùng nhận thêm +20%.",
+              "5": "Nện một thiên thạch xuống phía trước rồi lăn 10 yard về trước; kẻ địch trên đường chịu sát thương cuối cùng +75%; đất cháy do thiên thạch để lại sẽ khiến kẻ địch bước vào chịu thêm sát thương lửa mỗi lượt, địa hình kéo dài 2 lượt.",
+              "6": "Nện một thiên thạch xuống phía trước rồi lăn 12 yard về trước; kẻ địch trên đường chịu sát thương cuối cùng +90%, đồng thời bị đẩy dồn tới điểm cuối đường lăn; địa hình đất cháy kéo dài 3 lượt, kẻ địch trong đất cháy AC-2.",
+              "7": "Triệu hồi hai thiên thạch khổng lồ song song lăn về phía trước 15 yard, gây sát thương cuối cùng +120%, nghiền nát mọi vật cản và phá hủy địa hình; gây đả kích hủy diệt lên kẻ địch đang [lơ lửng], [choáng] hoặc [định thân], bỏ qua kháng lửa của chúng và ngưỡng bạo kích giảm 2."
+            },
+            "阶位": "Tất sát"
+          },
+          {
+            "名称": "Sinh Trưởng Điên Cuồng",
+            "类型": "Chủ động",
+            "描述": "Triệu hồi dây leo và cành cây thô lớn quanh bản thân, quấn chặt kẻ địch. Cơn giận của nhà bảo vệ môi trường! Dù là Rubick cũng biết tầm quan trọng của việc trồng cây gây rừng.",
+            "特殊效果": {
+              "1": "Gây sát thương cuối cùng +20% lên mọi kẻ địch trong phạm vi 4 yard xung quanh, đồng thời kèm trạng thái [quấn rễ] 1 lượt; trong thời gian đó không thể di chuyển.",
+              "2": "Gây sát thương cuối cùng +30% lên mọi kẻ địch trong phạm vi 5 yard xung quanh, đồng thời kèm trạng thái [quấn rễ] 1 lượt; trong thời gian đó không thể di chuyển và kiểm định Nhanh nhẹn chịu bất lợi.",
+              "3": "Gây sát thương cuối cùng +40% lên mọi kẻ địch trong phạm vi 6 yard xung quanh, đồng thời kèm trạng thái [quấn rễ] 2 lượt; trong thời gian đó không thể di chuyển và kiểm định Nhanh nhẹn chịu bất lợi.",
+              "4": "Gây sát thương cuối cùng +50% lên mọi kẻ địch trong phạm vi 7 yard xung quanh, đồng thời kèm trạng thái [quấn rễ] 2 lượt; trong thời gian đó không thể di chuyển, và đầu mỗi lượt chịu thêm sát thương siết chặt tự nhiên bằng sát thương cuối cùng +10%.",
+              "5": "Gây sát thương cuối cùng +65% lên mọi kẻ địch trong phạm vi 8 yard xung quanh, đồng thời kèm trạng thái [quấn rễ] 3 lượt; trong thời gian đó không chỉ không thể di chuyển, cả pháp thuật cần thành phần tư thế cũng không thể thi triển.",
+              "6": "Gây sát thương cuối cùng +80% lên mọi kẻ địch trong phạm vi 9 yard xung quanh, đồng thời kèm trạng thái [quấn rễ] 3 lượt; dây leo sẽ hấp thu dưỡng chất của kẻ địch, khiến đồng minh trong phạm vi nhận sinh mệnh tạm thời bằng 20% lượng sát thương.",
+              "7": "Gây sát thương cuối cùng +100% lên mọi kẻ địch trong phạm vi 10 yard xung quanh, kèm [quấn rễ sâu] không thể xua tan trong 3 lượt; kẻ bị quấn trở thành bia ngắm cực tốt cho pháp thuật sau đó (toàn đội có ưu thế kiểm định tấn công lên nó, kiểm định miễn trừ cưỡng chế thất bại một lần), đồng thời phủ sẵn địa hình tự nhiên để nối kỹ năng tiếp theo."
+            },
+            "阶位": "Tất sát"
+          },
+          {
+            "名称": "Hình Thái Cổ Long",
+            "类型": "Đặc biệt",
+            "描述": "Hóa thân thành một cổ long trong truyền thuyết, thay đổi phương thức tấn công. Thân thể nhân loại quá mong manh, vẫn là biến thành rồng phun lửa thì đã hơn.",
+            "特殊效果": {
+              "1": "Sau khi mở, biến thân thành rồng xanh kéo dài 3 lượt; đòn đánh thường chuyển thành tầm xa và kèm [độc tố] kéo dài 1 lượt (sát thương cuối cùng +10%), bản thân AC+2.",
+              "2": "Sau khi mở, biến thân thành rồng xanh kéo dài 4 lượt; đòn đánh thường chuyển thành tầm xa và kèm [độc tố] kéo dài 2 lượt (sát thương cuối cùng +15%), bản thân AC+2, miễn nhiễm độc tố thường.",
+              "3": "Sau khi mở, biến thân thành rồng đỏ kéo dài 4 lượt; đòn đánh thường chuyển thành bộc liệt lan phạm vi nhỏ (2 yard), trung tâm sát thương cuối cùng +25%, rìa sát thương cuối cùng +10%, bản thân AC+3.",
+              "4": "Sau khi mở, biến thân thành rồng đỏ kéo dài 5 lượt; phạm vi lan của đòn đánh thường mở rộng tới 3 yard, trung tâm sát thương cuối cùng +35%, kèm [cháy] 2 lượt, bản thân AC+3 và có ưu thế kiểm định Sức mạnh.",
+              "5": "Sau khi mở, biến thân thành rồng băng kéo dài 5 lượt; đòn đánh thường chuyển thành hơi thở băng sương, khi trúng đòn kèm [giảm tốc] và làm kiểm định tấn công của mục tiêu -2, sát thương cuối cùng +50%, bản thân AC+4.",
+              "6": "Sau khi mở, biến thân thành rồng băng kéo dài 6 lượt; đòn đánh thường kèm hiệu ứng [cực hàn] (giảm tốc và làm phòng thủ bạo kích của mục tiêu giảm), hơi thở băng sương gây sát thương xuyên thấu lên kẻ địch trên đường thẳng 4 yard, sát thương cuối cùng +65%.",
+              "7": "Sau khi mở, có thể tự do chuyển đổi giữa ba hình thái rồng độc, lửa và băng, kéo dài 7 lượt. Đòn đánh không chỉ kèm sát thương phạm vi khổng lồ (sát thương cuối cùng +85%) và trạng thái bất thường cực mạnh, thân thể cự long còn cung cấp bể sinh mệnh tạm thời bằng 50% sinh mệnh tối đa, bỏ qua mọi giới hạn địa hình (nhận tốc độ bay)."
+            },
+            "阶位": "Tất sát"
+          },
+          {
+            "名称": "Phân Ly Nguyên Tố",
+            "类型": "Đặc biệt",
+            "描述": "Tách bản thân thành ba chiến sĩ nguyên tố đất, bão và lửa, kế thừa tinh túy cốt lõi của Brewmaster! Rubick thấy chiêu này có thể giúp hắn một mình đánh mạt chược còn thiếu một người, đánh Đấu Địa Chủ thì vừa đủ.",
+            "特殊效果": {
+              "1": "Chủ động mở, bản thể ẩn nấp và triệu hồi một chiến sĩ đất (miễn nhiễm ma pháp) kéo dài 2 lượt. Trong thời gian đó bản thể miễn nhiễm sát thương, chiến sĩ đất thay mặt hành động.",
+              "2": "Chủ động mở, bản thể ẩn nấp và triệu hồi một chiến sĩ đất cùng một chiến sĩ bão (cung cấp khống chế tầm xa) kéo dài 2 lượt. Trong thời gian đó cả hai có thể hành động riêng.",
+              "3": "Chủ động mở, triệu hồi chiến sĩ đất và chiến sĩ bão kéo dài 3 lượt. Đòn đánh của chiến sĩ bão kèm phán định [mù]; chỉ cần trên sân vẫn còn một chiến sĩ sống sót, bản thể Rubick có thể tái cấu trúc tại vị trí của chiến sĩ đó khi giải trừ.",
+              "4": "Chủ động mở, triệu hồi chiến sĩ đất, bão và lửa kéo dài 3 lượt. Đòn đánh thường của chiến sĩ lửa kèm sát thương cuối cùng +20% và khiến mục tiêu [cháy].",
+              "5": "Chủ động mở, triệu hồi chiến sĩ nguyên tố ba hệ kéo dài 4 lượt. Chiến sĩ đất có thể trọng kích phá hủy địa hình, chiến sĩ bão có thể thổi bay một kẻ địch khiến nó [lơ lửng] 1 lượt, cả ba chiến sĩ đều nhận lợi ích +2 cho kiểm định miễn trừ mọi thuộc tính.",
+              "6": "Chủ động mở, triệu hồi chiến sĩ nguyên tố ba hệ kéo dài 4 lượt. Sát thương cuối cùng từ đòn đánh của chiến sĩ lửa tăng tới +40%, chiến sĩ bão có thể mở tường gió cỡ nhỏ trong phạm vi, khi phân ly kết thúc có thể hồi cho bản thể sinh mệnh tạm thời bằng 10% tỷ lệ sinh mệnh nhân với số chiến sĩ nguyên tố còn lại.",
+              "7": "Chủ tể nguyên tố hoàn mỹ, ba chiến sĩ nguyên tố kéo dài 5 lượt và kế thừa toàn bộ xuyên kháng của Rubick. Trong trạng thái phân ly nguyên tố, mỗi chiến sĩ đều có bể hỏa lực độc lập của riêng mình, và khi phối hợp tấn công cùng một mục tiêu có thể bỏ qua AC của mục tiêu khi tính giáp."
+            },
+            "阶位": "Tất sát"
+          }
+        ],
+        "奥义": [
+          {
+            "名称": "Hố Đen",
+            "类型": "Triệu hồi",
+            "描述": "Triệu hồi một hố đen nuốt chửng mọi thứ, hút kẻ địch xung quanh vào trung tâm. Hy vọng của cả làng, chỉ cần kéo được năm tên thì pha giao tranh này thắng! Kéo hụt thì cứ chờ bị Tetto cười nhạo đi.",
+            "特殊效果": {
+              "1": "Tạo hố đen ở điểm chỉ định, kéo dài 2 lượt; kẻ địch trong phạm vi 5 yard mỗi lượt buộc phải thực hiện miễn trừ Sức mạnh, thất bại thì bị kéo về trung tâm và chịu sát thương nghiền ép bằng sát thương cuối cùng +25%.",
+              "2": "Hố đen kéo dài 2 lượt; kẻ địch trong phạm vi 6 yard chịu bất lợi khi miễn trừ Sức mạnh, thất bại thì bị kéo về trung tâm và rơi vào [áp chế] không thể động đậy, mỗi lượt chịu xé rách trọng lực bằng sát thương cuối cùng +40%.",
+              "3": "Hố đen kéo dài 3 lượt; kẻ địch trong phạm vi 7 yard vô điều kiện trượt về trung tâm; kẻ bị hút vào trung tâm cưỡng chế rơi vào trạng thái [cấm chế] (không thể dùng pháp thuật và tấn công), mỗi lượt chịu sát thương cuối cùng +60%.",
+              "4": "Hố đen kéo dài 3 lượt; trọng lực cực lớn trong phạm vi 8 yard sẽ phá hủy mọi chỗ che chắn và địa hình; sát thương tại trung tâm chuyển thành [xé rách chân thực] (bỏ qua kháng vật lý và ma pháp), mỗi lượt gây sát thương cuối cùng +85%; kẻ địch ở rìa bị cưỡng chế đưa tốc độ di chuyển về 0.",
+              "5": "Hố đen kéo dài 4 lượt; phạm vi hấp phụ mở rộng tới 12 yard, hình thành lĩnh vực tuyệt đối cấm bay và tuyệt đối cấm ma. Kẻ địch ở trung tâm không chỉ mỗi lượt chịu đả kích hủy diệt với sát thương cuối cùng +120%, mà nếu tỷ lệ sinh mệnh của chúng thấp hơn 15% khi hố đen kết thúc, sẽ trực tiếp bị xem là bị kỳ điểm nuốt chửng và kích hoạt phán định chết tức thì."
+            },
+            "阶位": "Áo nghĩa"
+          },
+          {
+            "名称": "Kết Giới Thời Gian",
+            "类型": "Đặc biệt",
+            "描述": "Tạo ra một kết giới xé rách trong thời không, nhốt toàn bộ đơn vị bên trong ra ngoài dòng chảy thời gian. Thần kỹ thật sự là khống chế cả đồng đội, rồi bản thân vẫn có thể nhảy múa bên trong.",
+            "特殊效果": {
+              "1": "Mở kết giới bán kính 4 yard tại vị trí chỉ định, kéo dài 1 lượt. Tất cả đơn vị trong kết giới (bao gồm cả địch và ta) hoàn toàn dừng hành động, không thể thực hiện bất kỳ hành động hoặc phản ứng nào, đồng thời không thể bị đòn tấn công từ ngoài kết giới đánh trúng. Bản thân Rubick có thể tự do hành động trong kết giới, và khi tấn công trong kết giới thì ngưỡng bạo kích giảm 1.",
+              "2": "Bán kính kết giới tăng tới 5 yard, kéo dài 2 lượt. Đơn vị trong kết giới dừng hành động, tốc độ di chuyển của Rubick trong kết giới tăng gấp đôi, mọi đòn tấn công có sát thương cuối cùng thêm +20%, đồng thời bỏ qua miễn trừ Nhanh nhẹn của kẻ địch trong kết giới.",
+              "3": "Bán kính kết giới tăng tới 6 yard, kéo dài 2 lượt. Kết giới không chỉ làm thời gian tĩnh lại, mà còn khiến Rubick khi phóng thích pháp thuật khác bên trong không cần tiêu hao tài nguyên hành động thông thường (mỗi lượt nhận thêm 1 hành động thi pháp miễn phí), tấn công trong kết giới có sát thương cuối cùng +35%.",
+              "4": "Bán kính kết giới tăng tới 7 yard, kéo dài 3 lượt. Bạn được tôn làm chúa tể thời gian trong kết giới; AC của mọi đơn vị phe địch bị nhốt trong kết giới được xem là trạng thái không giáp cơ bản (bỏ qua mọi giáp ma pháp), mọi sát thương bạn gây ra trong kết giới tự động được xem là đã xuyên kháng, ngưỡng bạo kích giảm 3.",
+              "5": "Bán kính kết giới tăng tới 10 yard, kéo dài 3 lượt. Bạn thậm chí có thể chỉ định tối đa hai đơn vị đồng minh không chịu ảnh hưởng của Kết Giới Thời Gian, cùng bạn tàn sát kẻ địch đang tĩnh chỉ trong kết giới. Bất kỳ tuyệt kỹ liên kết kết liễu nào phát động trong kết giới đều bị cưỡng chế nhận sát thương cuối cùng thêm +100%, đồng thời khóa định vận mệnh kẻ địch (kẻ bị đánh giết không thể được hồi sinh)."
+            },
+            "阶位": "Áo nghĩa"
+          },
+          {
+            "名称": "Siêu Tân Tinh",
+            "类型": "Triệu hồi",
+            "描述": "Hóa thân thành một hằng tinh rực cháy; nếu không bị phá hủy thì niết bàn tái sinh. Đập quả trứng! Mau đập quả trứng đi! Chỉ cần trứng vỡ là hắn chết!",
+            "特殊效果": {
+              "1": "Rubick bao bọc bản thân trong một Siêu Tân Tinh có 30 sinh mệnh, kéo dài 2 lượt. Trong thời gian đó không thể hành động; Siêu Tân Tinh mỗi lượt gây thiêu đốt bằng sát thương cuối cùng +30% lên kẻ địch trong phạm vi 5 yard xung quanh. Nếu sau 2 lượt chưa bị phá hủy, Rubick hồi sinh trong trạng thái đầy đủ.",
+              "2": "Sinh mệnh của Siêu Tân Tinh tăng tới 50, kéo dài 2 lượt. Mỗi lượt gây thiêu đốt bằng sát thương cuối cùng +45% lên kẻ địch trong phạm vi 6 yard xung quanh; kẻ địch trong phạm vi khi tấn công Siêu Tân Tinh có kiểm định trúng đòn -2. Có thể phóng thích Nướng Cháy Dưới Nắng trong trạng thái Siêu Tân Tinh.",
+              "3": "Sinh mệnh của Siêu Tân Tinh tăng tới 70, kéo dài 3 lượt. Phạm vi thiêu đốt mở rộng tới 8 yard, mỗi lượt gây sát thương cuối cùng +60%; khoảnh khắc bộc liệt thành công sẽ kèm [choáng] 1 lượt và sát thương lửa cực lớn (sát thương cuối cùng +80%) lên mọi kẻ địch trong phạm vi. Có thể phóng thích Nướng Cháy Dưới Nắng trong trạng thái Siêu Tân Tinh.",
+              "4": "Sinh mệnh của Siêu Tân Tinh tăng tới 100 (và chỉ phán định bằng số lần tấn công hiệu quả, phải bị trúng 5 đòn tấn công độc lập mới tính là bị phá hủy), kéo dài 3 lượt. Phạm vi thiêu đốt 10 yard, mỗi lượt gây sát thương cuối cùng +85% và làm mù kẻ địch; khi bộc liệt gây [choáng] diện rộng 2 lượt, đồng thời sau khi Rubick tái sinh, mọi đòn tấn công trong ba lượt kế tiếp có ngưỡng bạo kích giảm 2. Có thể phóng thích Nướng Cháy Dưới Nắng trong trạng thái Siêu Tân Tinh.",
+              "5": "Hóa thành hằng tinh chân chính! Siêu Tân Tinh cần chịu 8 lần tấn công độc lập mới vỡ, kéo dài 3 lượt. Không chỉ mỗi lượt gây sát thương nhiệt độ cực hạn hủy diệt lên kẻ địch trong phạm vi 15 yard (sát thương cuối cùng +120%, cưỡng chế bỏ qua kháng lửa), chỉ cần niết bàn thành công, Rubick sẽ mang uy thiên hỏa tái sinh, không chỉ hồi phục toàn bộ sinh mệnh, mà còn khiến mọi đơn vị đồng minh trên sân nhận một lần Gió Phục Sinh miễn phí, đồng thời khi bộc liệt cưỡng ép hóa toàn bộ đơn vị phe địch trong phạm vi thành tro bụi (máu dưới 20% trực tiếp xử quyết). Có thể phóng thích Nướng Cháy Dưới Nắng trong trạng thái Siêu Tân Tinh."
+            },
+            "阶位": "Áo nghĩa"
+          },
+          {
+            "名称": "Lời Nguyền Mùa Đông",
+            "类型": "Chủ động",
+            "描述": "Đóng băng một mục tiêu phe địch, đồng thời ép đồng minh quanh mục tiêu đó điên cuồng tấn công nó. Không có gì khiến pháp sư phản diện vui sướng cả thân lẫn tâm hơn cảnh nhìn kẻ địch tự giết lẫn nhau.",
+            "特殊效果": {
+              "1": "Nguyền rủa một kẻ địch, khiến nó [đóng băng] 1 lượt (vô địch và không thể hành động), ép một đồng đội phe địch trong phạm vi 3 yard quanh nó phát động một đòn đánh thường lên nó.",
+              "2": "Nguyền rủa một kẻ địch, khiến nó [đóng băng] 2 lượt, ép toàn bộ đồng đội phe địch trong phạm vi 4 yard quanh nó rơi vào [cuồng loạn], cưỡng chế di chuyển tới mục tiêu bị đóng băng và mỗi lượt phát động đánh thường.",
+              "3": "Nguyền rủa một kẻ địch, khiến nó [đóng băng] 2 lượt; đồng đội phe địch trong phạm vi 5 yard xung quanh không chỉ sẽ tấn công mục tiêu đó, mà trong thời gian tấn công còn có tốc độ tấn công tăng mạnh, sát thương gây ra có cộng thêm cuối cùng +20%, nhưng AC của chính chúng giảm 3 điểm.",
+              "4": "Nguyền rủa một kẻ địch, khiến nó [đóng băng] 3 lượt; phạm vi nguyền rủa mở rộng tới 6 yard. Đồng đội phe địch bị cuốn vào lời nguyền mất sạch lý trí; khi tấn công mục tiêu bị đóng băng, ngưỡng bạo kích giảm 2; mục tiêu bị đóng băng tuy miễn nhiễm sát thương phe ta, nhưng chịu toàn bộ sát thương và cộng dồn hiệu ứng đặc biệt từ đồng đội của nó.",
+              "5": "Châm ngòi ly gián tới cực hạn! Đóng băng mục tiêu chính 3 lượt; mọi quân địch trong phạm vi 8 yard xung quanh không thể miễn trừ và rơi vào [cuồng loạn vực sâu], chúng sẽ trút toàn bộ kỹ năng khả dụng cùng sát thương cao nhất vào mục tiêu chính bị đóng băng; nếu mục tiêu chính bị đồng đội của nó đánh giết trong thời gian nguyền rủa, lời nguyền sẽ lập tức lan như ôn dịch sang kẻ địch đã giết nó, đặt lại thời lượng và dẫn phát vòng tự giết lẫn nhau mới."
+            },
+            "阶位": "Áo nghĩa"
+          }
+        ],
+        "觉醒一": [
+          {
+            "名称": "Trộm Kỹ Năng Vĩnh Cửu",
+            "类型": "Đặc biệt",
+            "描述": "Rubick hoàn toàn nắm giữ căn nguyên của ma pháp, biến kỹ năng đã trộm thành của mình. Của người khác là của ta, của ta vẫn là của ta.",
+            "特殊效果": {
+              "1": "Kỹ năng được Rubick sử dụng thành công thông qua [Trộm Kỹ Năng] sau khi thi triển có 30% xác suất trực tiếp khắc sâu vào linh hồn Rubick, chuyển hóa thành một kỹ năng khả dụng bổ sung vĩnh viễn (tối đa lưu trữ 1 kỹ năng vĩnh viễn, khi thay thế sẽ ghi đè).",
+              "2": "Xác suất khắc ấn tăng tới 60%, tối đa có thể đồng thời lưu trữ 2 kỹ năng trộm vĩnh viễn. Khi dùng các kỹ năng vĩnh viễn này, mọi miễn trừ thuộc tính của Rubick nhận ưu thế, đồng thời không tiêu hao tài nguyên hành động thông thường (mỗi trận chiến giới hạn 1 lần thi pháp cực tốc).",
+              "3": "Đạo văn hoàn mỹ! Một trăm phần trăm đưa kỹ năng đã trộm vào kho kỹ năng tài nguyên, có thể vĩnh viễn lưu trữ và tự do tổ hợp 3 kỹ năng tối thượng đến từ kẻ địch. Khi Rubick phóng thích các kỹ năng này, không chỉ tước đoạt hoàn toàn uy năng kỹ năng của chủ cũ, mà còn kèm [ấn Đại Ma Đạo Sư] chuyên thuộc của Rubick (sát thương cuối cùng cưỡng chế tăng gấp đôi và miễn nhiễm mọi hiệu ứng phản phệ vốn có của kỹ năng đó)."
+            },
+            "阶位": "Thức tỉnh một"
+          }
+        ],
+        "觉醒二": [
+          {
+            "名称": "Áo Thuật Chí Tôn",
+            "类型": "Đặc biệt",
+            "描述": "Nhìn thấu bản chất của mọi ma pháp; không chỉ có thể cường hóa pháp thuật của mình, mà còn làm suy yếu kháng tính của kẻ địch xung quanh. Kẻ địch đứng cạnh Rubick mà thi pháp sẽ cảm thấy mình như kẻ mù chữ.",
+            "特殊效果": {
+              "1": "Trong phạm vi 100 yard quanh Rubick hình thành lĩnh vực áo thuật giáng lâm vĩnh hằng. Mọi đơn vị phe địch trong lĩnh vực này bị cưỡng chế giảm 15% kháng ma pháp toàn hệ; bất kỳ kỹ năng pháp thuật nào Rubick phát động cũng có khoảng cách thi pháp cơ bản tăng thêm 3 yard, kiểm định trúng đòn pháp thuật +3.",
+              "2": "Phạm vi lĩnh vực áo thuật mở rộng tới bao phủ toàn bộ tầm nhìn (trên 30 yard). Dưới sự chi phối tuyệt đối của Rubick, mọi đơn vị phe địch khi thi pháp phải vượt qua một lần miễn trừ Trí lực cực khó trước; thất bại thì pháp thuật trực tiếp phản phệ chính nó; đồng thời mọi kỹ năng pháp thuật của Rubick đều được xem là tự động xuyên qua bất kỳ lá chắn và trạng thái miễn nhiễm ma pháp nào, ngưỡng bạo kích vĩnh viễn giảm 3."
+            },
+            "阶位": "Thức tỉnh hai"
+          }
+        ],
+        "觉醒三": [
+          {
+            "名称": "Trận Thiên Thang",
+            "类型": "Đặc biệt",
+            "描述": "Cưỡng ép kéo toàn bộ mọi người trên sân vào một trận DOTA2 tù túng. Ván cha con, áp lực cực lớn.",
+            "特殊效果": {
+              "1": "Rubick mở khe nứt chiều không gian, cưỡng chế hút toàn bộ đồng minh và quân địch trong bán kính 50 yard vào dị không gian tên là [Defense of the Ancients 2] và tiến hành một trận DOTA2. Trong không gian này không cần tuân theo Mười Minh Ước, mọi quy tắc DND thông thường bị pháp tắc DOTA2 bao phủ. Khi trận đấu kết thúc và Rubick chiến thắng (phe Rubick phá sập Ancient phe địch), kẻ địch sẽ vì lời hứa của ván cha con mà thừa nhận Rubick là cha của mình."
+            },
+            "阶位": "Thức tỉnh ba"
+          }
+        ]
+      },
+      "skillTreeForClass": "Đại Ma Đạo Sư",
+      "lockedSkillMap": {
+        "Đại Ma Đạo Sư": {
+          "基础": {
+            "Lấy Vật Từ Xa": {
+              "名称": "Lấy Vật Từ Xa",
+              "类型": "Chủ động",
+              "描述": "Dùng niệm lực nhấc một kẻ địch lên giữa không trung rồi nện xuống mặt đất. Dù tên là lấy vật từ xa, nó không dùng để móc túi lấy tiền được.",
+              "特殊效果": {
+                "1": "Sau khi trúng đòn, khiến mục tiêu rơi vào trạng thái [lơ lửng] 1 lượt; trong thời gian đó không thể di chuyển hoặc thực hiện hành động; khi rơi xuống, sát thương cuối cùng +5%.",
+                "2": "Sau khi trúng đòn, khiến mục tiêu rơi vào trạng thái [lơ lửng] 1 lượt; trong thời gian đó không thể di chuyển hoặc thực hiện hành động; khi rơi xuống, sát thương cuối cùng +10%.",
+                "3": "Sau khi trúng đòn, khiến mục tiêu rơi vào trạng thái [lơ lửng] 1 lượt; trong thời gian đó không thể di chuyển hoặc thực hiện hành động; khi rơi xuống, sát thương cuối cùng +15%, đồng thời khiến kiểm định miễn trừ Nhanh nhẹn của nó sau khi chạm đất -1.",
+                "4": "Sau khi trúng đòn, khiến mục tiêu rơi vào trạng thái [lơ lửng] 1 lượt; trong thời gian đó không thể di chuyển hoặc thực hiện hành động; khi rơi xuống, sát thương cuối cùng +20%, đồng thời khiến kiểm định miễn trừ Nhanh nhẹn của nó sau khi chạm đất -1.",
+                "5": "Sau khi trúng đòn, khiến mục tiêu rơi vào trạng thái [lơ lửng] 2 lượt; trong thời gian đó không thể di chuyển hoặc thực hiện hành động; khi rơi xuống, sát thương cuối cùng +25%, đồng thời khiến kiểm định miễn trừ Nhanh nhẹn của nó sau khi chạm đất -1.",
+                "6": "Sau khi trúng đòn, khiến mục tiêu rơi vào trạng thái [lơ lửng] 2 lượt; có thể ném mục tiêu tới vị trí bất kỳ trong phạm vi 3 yard; khi rơi xuống, sát thương cuối cùng +30%, đồng thời khiến kiểm định miễn trừ Nhanh nhẹn của nó sau khi chạm đất -2.",
+                "7": "Sau khi trúng đòn, khiến mục tiêu rơi vào trạng thái [lơ lửng] 2 lượt; có thể ném mục tiêu tới vị trí bất kỳ trong phạm vi 4 yard; khi rơi xuống, sát thương cuối cùng +35%, đồng thời khiến kiểm định miễn trừ Nhanh nhẹn của nó sau khi chạm đất -2.",
+                "8": "Sau khi trúng đòn, khiến mục tiêu rơi vào trạng thái [lơ lửng] 2 lượt; có thể ném mục tiêu tới vị trí bất kỳ trong phạm vi 4 yard; khi rơi xuống, sát thương cuối cùng +40%, đồng thời khiến kiểm định miễn trừ Nhanh nhẹn của nó sau khi chạm đất -3.",
+                "9": "Sau khi trúng đòn, khiến mục tiêu rơi vào trạng thái [lơ lửng] 2 lượt; có thể ném mục tiêu tới vị trí bất kỳ trong phạm vi 5 yard; khi chạm đất, gây sát thương lan bằng sát thương cuối cùng +10% lên những kẻ địch khác trong phạm vi 2 yard quanh điểm rơi.",
+                "10": "Sau khi trúng đòn, khiến mục tiêu rơi vào trạng thái [lơ lửng] 3 lượt; có thể ném mục tiêu tới vị trí bất kỳ trong phạm vi 5 yard; khi chạm đất, gây sát thương lan bằng sát thương cuối cùng +15% lên những kẻ địch khác trong phạm vi 2 yard quanh điểm rơi.",
+                "11": "Sau khi trúng đòn, khiến mục tiêu rơi vào trạng thái [lơ lửng] 3 lượt; có thể ném mục tiêu tới vị trí bất kỳ trong phạm vi 6 yard; khi chạm đất, gây sát thương lan bằng sát thương cuối cùng +20% lên những kẻ địch khác trong phạm vi 3 yard quanh điểm rơi.",
+                "12": "Sau khi trúng đòn, khiến mục tiêu rơi vào trạng thái [lơ lửng] 3 lượt; có thể ném mục tiêu tới vị trí bất kỳ trong phạm vi 6 yard; khi chạm đất, gây sát thương lan bằng sát thương cuối cùng +25% lên những kẻ địch khác trong phạm vi 3 yard quanh điểm rơi, kèm [choáng] 1 lượt.",
+                "13": "Sau khi trúng đòn, khiến mục tiêu rơi vào trạng thái [lơ lửng] 3 lượt; có thể ném mục tiêu tới vị trí bất kỳ trong phạm vi 7 yard; sát thương cuối cùng lên bản thể khi rơi xuống +50%, sát thương cuối cùng lan +30%, kèm [choáng] 1 lượt.",
+                "14": "Sau khi trúng đòn, khiến mục tiêu rơi vào trạng thái [lơ lửng] 4 lượt; có thể ném mục tiêu tới vị trí bất kỳ trong phạm vi 7 yard; sát thương cuối cùng lên bản thể khi rơi xuống +60%, sát thương cuối cùng lan +35%, kèm [choáng] 1 lượt.",
+                "15": "Sau khi trúng đòn, khiến mục tiêu rơi vào trạng thái [lơ lửng] 4 lượt; có thể ném mục tiêu tới vị trí bất kỳ trong phạm vi 8 yard; sát thương cuối cùng lên bản thể khi rơi xuống +75%, sát thương cuối cùng lan +45%, mọi kẻ địch trong khu vực bị kiểm định miễn trừ Sức mạnh và Nhanh nhẹn -4, kéo dài 2 lượt."
+              },
+              "阶位": "Cơ bản"
+            },
+            "Dòng Năng Lượng Suy Yếu": {
+              "名称": "Dòng Năng Lượng Suy Yếu",
+              "类型": "Chủ động",
+              "描述": "Phóng ra một dòng năng lượng nhảy qua giữa các kẻ địch, làm giảm sức tấn công và cường độ pháp thuật của chúng.",
+              "特殊效果": {
+                "1": "Sau khi trúng mục tiêu, kèm trạng thái [suy yếu] 1 lượt, kiểm định tấn công của mục tiêu -1; kỹ năng này sẽ nảy sang một kẻ địch khác trong phạm vi 3 yard 1 lần, sát thương cuối cùng +5%.",
+                "2": "Sau khi trúng mục tiêu, kèm trạng thái [suy yếu] 1 lượt, kiểm định tấn công của mục tiêu -1; kỹ năng này sẽ nảy sang một kẻ địch khác trong phạm vi 3 yard 2 lần, sát thương cuối cùng +10%.",
+                "3": "Sau khi trúng mục tiêu, kèm trạng thái [suy yếu] 2 lượt, kiểm định tấn công của mục tiêu -1; kỹ năng này sẽ nảy sang một kẻ địch khác trong phạm vi 3 yard 2 lần, sát thương cuối cùng +15%.",
+                "4": "Sau khi trúng mục tiêu, kèm trạng thái [suy yếu] 2 lượt, kiểm định tấn công của mục tiêu -2; kỹ năng này sẽ nảy sang một kẻ địch khác trong phạm vi 4 yard 2 lần, sát thương cuối cùng +15%.",
+                "5": "Sau khi trúng mục tiêu, kèm trạng thái [suy yếu] 2 lượt, kiểm định tấn công của mục tiêu -2; kỹ năng này sẽ nảy sang một kẻ địch khác trong phạm vi 4 yard 3 lần, sát thương cuối cùng +20%.",
+                "6": "Sau khi trúng mục tiêu, kèm trạng thái [suy yếu] 2 lượt, kiểm định tấn công của mục tiêu -2; kỹ năng này sẽ nảy sang một kẻ địch khác trong phạm vi 4 yard 3 lần, sát thương cuối cùng +25%; mỗi lần nảy trúng đòn gây thêm sát thương cuối cùng +5%.",
+                "7": "Sau khi trúng mục tiêu, kèm trạng thái [suy yếu] 3 lượt, kiểm định tấn công của mục tiêu -2; kỹ năng này sẽ nảy sang một kẻ địch khác trong phạm vi 5 yard 3 lần, sát thương cuối cùng +25%; mỗi lần nảy trúng đòn gây thêm sát thương cuối cùng +5%.",
+                "8": "Sau khi trúng mục tiêu, kèm trạng thái [suy yếu] 3 lượt, kiểm định tấn công của mục tiêu -3; kỹ năng này sẽ nảy sang một kẻ địch khác trong phạm vi 5 yard 4 lần, sát thương cuối cùng +30%; mỗi lần nảy trúng đòn gây thêm sát thương cuối cùng +5%.",
+                "9": "Sau khi trúng mục tiêu, kèm trạng thái [suy yếu] 3 lượt, kiểm định tấn công của mục tiêu -3; kỹ năng này sẽ nảy sang một kẻ địch khác trong phạm vi 5 yard 4 lần, sát thương cuối cùng +35%; mỗi lần nảy trúng đòn gây thêm sát thương cuối cùng +10%.",
+                "10": "Sau khi trúng mục tiêu, kèm trạng thái [suy yếu] 3 lượt, kiểm định tấn công của mục tiêu -3; kỹ năng này sẽ nảy sang một kẻ địch khác trong phạm vi 6 yard 4 lần, sát thương cuối cùng +40%; mỗi lần nảy trúng đòn gây thêm sát thương cuối cùng +10%.",
+                "11": "Sau khi trúng mục tiêu, kèm trạng thái [suy yếu] 4 lượt, kiểm định tấn công của mục tiêu -3; kỹ năng này sẽ nảy sang một kẻ địch khác trong phạm vi 6 yard 5 lần, sát thương cuối cùng +45%; mỗi lần nảy trúng đòn gây thêm sát thương cuối cùng +10%.",
+                "12": "Sau khi trúng mục tiêu, kèm trạng thái [suy yếu] 4 lượt, kiểm định tấn công của mục tiêu -4; kỹ năng này sẽ nảy sang một kẻ địch khác trong phạm vi 6 yard 5 lần, sát thương cuối cùng +50%; mỗi lần nảy trúng đòn gây thêm sát thương cuối cùng +15%.",
+                "13": "Sau khi trúng mục tiêu, kèm trạng thái [suy yếu] 4 lượt, kiểm định tấn công của mục tiêu -4; kỹ năng này sẽ nảy sang một kẻ địch khác trong phạm vi 7 yard 5 lần, sát thương cuối cùng +55%; mỗi lần nảy trúng đòn gây thêm sát thương cuối cùng +15%.",
+                "14": "Sau khi trúng mục tiêu, kèm trạng thái [suy yếu] 4 lượt, kiểm định tấn công của mục tiêu -4; kỹ năng này sẽ nảy sang một kẻ địch khác trong phạm vi 7 yard 6 lần, sát thương cuối cùng +60%; mỗi lần nảy trúng đòn gây thêm sát thương cuối cùng +20%.",
+                "15": "Sau khi trúng mục tiêu, kèm trạng thái [suy yếu] 5 lượt, kiểm định tấn công của mục tiêu -5; kỹ năng này sẽ nảy sang một kẻ địch khác trong phạm vi 8 yard 6 lần, sát thương cuối cùng +70%; mỗi lần nảy trúng đòn gây thêm sát thương cuối cùng +20%, đồng thời những kẻ bị trúng đòn chịu bất lợi khi kiểm định miễn trừ Nhanh nhẹn."
+              },
+              "阶位": "Cơ bản"
+            },
+            "Meat Hook": {
+              "名称": "Meat Hook",
+              "类型": "Chủ động",
+              "描述": "Ném chiếc móc thịt đẫm máu vào khu vực mục tiêu, kéo đơn vị đầu tiên chạm phải về bên cạnh mình. Vì mười Pudge thì chín người tệ, Meat Hook cấp một thật sự quá cơ bản nên Rubick học luôn làm kỹ năng nền.",
+              "特殊效果": {
+                "1": "Sau khi trúng mục tiêu, kéo mục tiêu về phía bản thân 3 yard, gây sát thương cuối cùng +10%.",
+                "2": "Sau khi trúng mục tiêu, kéo mục tiêu về phía bản thân 3 yard, gây sát thương cuối cùng +15%.",
+                "3": "Sau khi trúng mục tiêu, kéo mục tiêu về phía bản thân 4 yard, gây sát thương cuối cùng +20%.",
+                "4": "Sau khi trúng mục tiêu, kéo mục tiêu về phía bản thân 4 yard, gây sát thương cuối cùng +25%; khi trúng đòn tiến hành đối kháng Sức mạnh, nếu thành công thì kèm [chảy máu] 1 lượt.",
+                "5": "Sau khi trúng mục tiêu, kéo mục tiêu về phía bản thân 5 yard, gây sát thương cuối cùng +30%; khi trúng đòn tiến hành đối kháng Sức mạnh, nếu thành công thì kèm [chảy máu] 1 lượt.",
+                "6": "Sau khi trúng mục tiêu, kéo mục tiêu về phía bản thân 5 yard, gây sát thương cuối cùng +35%; khi trúng đòn tiến hành đối kháng Sức mạnh, nếu thành công thì kèm [chảy máu] 2 lượt.",
+                "7": "Sau khi trúng mục tiêu, kéo mục tiêu về phía bản thân 6 yard, gây sát thương cuối cùng +40%; khi trúng đòn tiến hành đối kháng Sức mạnh, nếu thành công thì kèm [chảy máu] 2 lượt.",
+                "8": "Sau khi trúng mục tiêu, kéo mục tiêu về phía bản thân 6 yard, gây sát thương cuối cùng +45%; khi trúng đòn tiến hành đối kháng Sức mạnh, nếu thành công thì kèm [chảy máu] 3 lượt.",
+                "9": "Sau khi trúng mục tiêu, kéo mục tiêu về phía bản thân 7 yard, gây sát thương cuối cùng +50%; khi trúng đòn cưỡng chế ngắt động tác chuẩn bị thi pháp của mục tiêu.",
+                "10": "Sau khi trúng mục tiêu, kéo mục tiêu về phía bản thân 7 yard, gây sát thương cuối cùng +55%; khi trúng đòn cưỡng chế ngắt động tác chuẩn bị thi pháp của mục tiêu, đồng thời kèm [phá giáp] 1 lượt (AC-2).",
+                "11": "Sau khi trúng mục tiêu, kéo mục tiêu về phía bản thân 8 yard, gây sát thương cuối cùng +60%; khi trúng đòn cưỡng chế ngắt động tác chuẩn bị thi pháp của mục tiêu, đồng thời kèm [phá giáp] 1 lượt (AC-2).",
+                "12": "Sau khi trúng mục tiêu, kéo mục tiêu về phía bản thân 8 yard, gây sát thương cuối cùng +65%; khi trúng đòn cưỡng chế ngắt động tác chuẩn bị thi pháp của mục tiêu, đồng thời kèm [phá giáp] 2 lượt (AC-3).",
+                "13": "Sau khi trúng mục tiêu, kéo mục tiêu về phía bản thân 9 yard, gây sát thương cuối cùng +70%; trong quá trình kéo, gây nửa lượng sát thương vật lý phụ lên kẻ địch trên đường.",
+                "14": "Sau khi trúng mục tiêu, kéo mục tiêu về phía bản thân 9 yard, gây sát thương cuối cùng +80%; trong quá trình kéo, gây nửa lượng sát thương vật lý phụ lên kẻ địch trên đường, đồng thời kèm [giảm tốc] 1 lượt.",
+                "15": "Sau khi trúng mục tiêu, kéo mục tiêu về phía bản thân 10 yard, gây sát thương cuối cùng +100%; mọi kẻ địch chạm phải trong quá trình kéo đều phải thực hiện miễn trừ Nhanh nhẹn, nếu thất bại thì bị gom lại cùng lúc và bị kèm [chảy máu] cùng [phá giáp] 3 lượt."
+              },
+              "阶位": "Cơ bản"
+            }
+          },
+          "转职": {
+            "Trộm Kỹ Năng": {
+              "名称": "Trộm Kỹ Năng",
+              "类型": "Đặc biệt nghề nghiệp",
+              "描述": "Giải mở bí mật của kỹ năng cuối cùng phe địch vừa thi triển, khiến bản thân có thể thi triển kỹ năng đó. Bạn tưởng đây là kỹ năng của bạn à? Giờ nó là của ta.",
+              "特殊效果": {
+                "1": "Trộm một kỹ năng bạn từng chứng kiến và lập tức phóng thích, cường độ do D20 quyết định."
+              },
+              "阶位": "Chuyển nghề"
+            },
+            "Gai Đất": {
+              "名称": "Gai Đất",
+              "类型": "Chủ động",
+              "描述": "Phóng ra một dải gai đá trên mặt đất, hất kẻ địch lên không. Cái gai này vừa thô vừa lớn, đâm thủng mọi kẻ không phục.",
+              "特殊效果": {
+                "1": "Gây sát thương cuối cùng +10% trên đường thẳng 3 yard phía trước, mục tiêu trúng đòn bị kèm [hất bay] 1 lượt.",
+                "2": "Gây sát thương cuối cùng +15% trên đường thẳng 3 yard phía trước, mục tiêu trúng đòn bị kèm [hất bay] 1 lượt.",
+                "3": "Gây sát thương cuối cùng +20% trên đường thẳng 4 yard phía trước, mục tiêu trúng đòn bị kèm [hất bay] 1 lượt.",
+                "4": "Gây sát thương cuối cùng +25% trên đường thẳng 4 yard phía trước, mục tiêu trúng đòn bị kèm [hất bay] 1 lượt; khi chạm đất, tốc độ di chuyển giảm một nửa trong 1 lượt.",
+                "5": "Gây sát thương cuối cùng +30% trên đường thẳng 5 yard phía trước, mục tiêu trúng đòn bị kèm [hất bay] 1 lượt; khi chạm đất, tốc độ di chuyển giảm một nửa trong 1 lượt.",
+                "6": "Gây sát thương cuối cùng +35% trên đường thẳng 5 yard phía trước, mục tiêu trúng đòn bị kèm [hất bay] 2 lượt; khi chạm đất, tốc độ di chuyển giảm một nửa trong 1 lượt.",
+                "7": "Gây sát thương cuối cùng +40% trên đường thẳng 6 yard phía trước, mục tiêu trúng đòn bị kèm [hất bay] 2 lượt; khi chạm đất, tốc độ di chuyển giảm một nửa trong 1 lượt.",
+                "8": "Gây sát thương cuối cùng +45% trên đường thẳng 6 yard phía trước, mục tiêu trúng đòn bị kèm [hất bay] 2 lượt, đồng thời khiến kiểm định Nhanh nhẹn của nó -1.",
+                "9": "Gây sát thương cuối cùng +50% trên đường thẳng 7 yard phía trước, mục tiêu trúng đòn bị kèm [hất bay] 2 lượt, đồng thời khiến kiểm định Nhanh nhẹn của nó -2.",
+                "10": "Gây sát thương cuối cùng +55% trên đường thẳng 7 yard phía trước, mục tiêu trúng đòn bị kèm [hất bay] 2 lượt, đồng thời phá hủy mặt đất tạo thành [địa hình gồ ghề].",
+                "11": "Gây sát thương cuối cùng +60% trên đường thẳng 8 yard phía trước, mục tiêu trúng đòn bị kèm [hất bay] 2 lượt; sau khi địa hình bị phá hủy, kẻ địch bước vào khu vực đó bị miễn trừ Thể chất -2.",
+                "12": "Gây sát thương cuối cùng +65% trên đường thẳng 8 yard phía trước, mục tiêu trúng đòn bị kèm [hất bay] 2 lượt; sau khi địa hình bị phá hủy, kẻ địch bước vào khu vực đó bị miễn trừ Thể chất -3.",
+                "13": "Gây sát thương cuối cùng +70% trên đường thẳng 9 yard phía trước; nếu mục tiêu đang ở trạng thái [giảm tốc] hoặc [lơ lửng], gây thêm sát thương cuối cùng +10%.",
+                "14": "Gây sát thương cuối cùng +75% trên đường thẳng 9 yard phía trước; nếu mục tiêu đang chịu bất kỳ trạng thái xấu nào, gây thêm sát thương cuối cùng +15%, đồng thời ngưỡng bạo kích giảm 1.",
+                "15": "Gây sát thương cuối cùng +90% trên đường thẳng 10 yard phía trước; gai đá có hiệu ứng xuyên thấu, bỏ qua 20% kháng tính của mục tiêu; khi hất bay kết thúc, kèm [choáng] 1 lượt, ngưỡng bạo kích giảm thêm 2."
+              },
+              "阶位": "Chuyển nghề"
+            },
+            "Tường Gió": {
+              "名称": "Tường Gió",
+              "类型": "Đặc biệt",
+              "描述": "Tạo thành một luồng khí chặn toàn bộ vật phóng bay của phe địch. Đừng hỏi Rubick quen Yasuo kiểu gì; có lẽ thông qua một thương nhân họ Ma nào đó cùng sư môn với Rubick.",
+              "特殊效果": {
+                "1": "Mở một bức tường gió rộng 3 yard ở phía trước, kéo dài 1 lượt; trong thời gian đó chặn mọi vật phóng của đòn tấn công tầm xa xuyên qua tường gió.",
+                "2": "Mở một bức tường gió rộng 3 yard ở phía trước, kéo dài 1 lượt; chặn vật phóng, đồng thời đồng minh phía sau tường gió AC+1.",
+                "3": "Mở một bức tường gió rộng 4 yard ở phía trước, kéo dài 1 lượt; chặn vật phóng, đồng thời đồng minh phía sau tường gió AC+1.",
+                "4": "Mở một bức tường gió rộng 4 yard ở phía trước, kéo dài 2 lượt; chặn vật phóng, đồng thời đồng minh phía sau tường gió AC+1.",
+                "5": "Mở một bức tường gió rộng 4 yard ở phía trước, kéo dài 2 lượt; chặn vật phóng, đồng thời đồng minh phía sau tường gió AC+2.",
+                "6": "Mở một bức tường gió rộng 5 yard ở phía trước, kéo dài 2 lượt; chặn vật phóng, đồng thời đồng minh phía sau tường gió AC+2.",
+                "7": "Mở một bức tường gió rộng 5 yard ở phía trước, kéo dài 2 lượt; chặn vật phóng, kẻ địch cận chiến đi xuyên qua tường gió bị giảm một nửa tốc độ di chuyển trong 1 lượt.",
+                "8": "Mở một bức tường gió rộng 5 yard ở phía trước, kéo dài 3 lượt; chặn vật phóng, kẻ địch cận chiến đi xuyên qua tường gió bị giảm một nửa tốc độ di chuyển trong 1 lượt.",
+                "9": "Mở một bức tường gió rộng 6 yard ở phía trước, kéo dài 3 lượt; chặn vật phóng, kẻ địch đi xuyên qua tường gió cần thực hiện miễn trừ Sức mạnh, thất bại thì bị đẩy lùi 1 yard.",
+                "10": "Mở một bức tường gió rộng 6 yard ở phía trước, kéo dài 3 lượt; chặn vật phóng, kẻ địch đi xuyên qua tường gió cần thực hiện miễn trừ Sức mạnh, thất bại thì bị đẩy lùi 2 yard và AC-1.",
+                "11": "Mở một bức tường gió rộng 6 yard ở phía trước, kéo dài 3 lượt; đồng minh phía sau tường gió được kiểm định miễn trừ mọi thuộc tính +1, kẻ địch đi xuyên qua bị cản trở.",
+                "12": "Mở một bức tường gió rộng 7 yard ở phía trước, kéo dài 4 lượt; đồng minh phía sau tường gió được kiểm định miễn trừ mọi thuộc tính +2; kẻ địch chạm vào tường gió chịu một lượng nhỏ vết cắt phong nhận, kiểm định miễn trừ Thể chất chịu bất lợi.",
+                "13": "Mở một bức tường gió rộng 7 yard ở phía trước, kéo dài 4 lượt; đồng minh phía sau tường gió được kiểm định miễn trừ mọi thuộc tính +2, đồng thời khi tường vừa mở sẽ đẩy kẻ địch trong phạm vi 2 yard xung quanh ra xa.",
+                "14": "Mở một bức tường gió rộng 8 yard ở phía trước, kéo dài 4 lượt; đồng minh phía sau tường gió được kiểm định miễn trừ mọi thuộc tính +3; khoảnh khắc mở tường sẽ đẩy kẻ địch ra và kèm trạng thái [phong thực] làm giảm kháng tính.",
+                "15": "Mở một bức tường gió rộng 10 yard ở phía trước, kéo dài 5 lượt; tuyệt đối chặn mọi vật phóng tầm xa và vật phóng pháp thuật; đơn vị đồng minh được tường gió che chở có ngưỡng bạo kích giảm 1; kẻ địch vượt qua tường gió lập tức rơi vào [mù] và [giảm tốc] 2 lượt."
+              },
+              "阶位": "Chuyển nghề"
+            },
+            "Trận Quang Kích": {
+              "名称": "Trận Quang Kích",
+              "类型": "Chủ động",
+              "描述": "Triệu hồi một cột lửa đánh vào kẻ địch trong phạm vi nhất định. Vì phạm vi thật sự quá nhỏ, nếu không có khống chế mở đầu thì Rubick chỉ có thể dùng nó để nướng khoai lang.",
+              "特殊效果": {
+                "1": "Gây sát thương cuối cùng +15% trong khu vực bán kính 2 yard, mục tiêu trúng đòn bị kèm [choáng] 1 lượt.",
+                "2": "Gây sát thương cuối cùng +20% trong khu vực bán kính 2 yard, mục tiêu trúng đòn bị kèm [choáng] 1 lượt.",
+                "3": "Gây sát thương cuối cùng +25% trong khu vực bán kính 2 yard, mục tiêu trúng đòn bị kèm [choáng] 1 lượt, kèm trạng thái [cháy] 1 lượt.",
+                "4": "Gây sát thương cuối cùng +30% trong khu vực bán kính 3 yard, mục tiêu trúng đòn bị kèm [choáng] 1 lượt, kèm trạng thái [cháy] 1 lượt.",
+                "5": "Gây sát thương cuối cùng +35% trong khu vực bán kính 3 yard, mục tiêu trúng đòn bị kèm [choáng] 1 lượt, kèm trạng thái [cháy] 2 lượt.",
+                "6": "Gây sát thương cuối cùng +40% trong khu vực bán kính 3 yard, mục tiêu trúng đòn bị kèm [choáng] 1 lượt, kèm trạng thái [cháy] 2 lượt; gây thêm sát thương cuối cùng +10% lên kẻ địch đang [lơ lửng].",
+                "7": "Gây sát thương cuối cùng +45% trong khu vực bán kính 3 yard, mục tiêu trúng đòn bị kèm [choáng] 2 lượt, kèm trạng thái [cháy] 2 lượt.",
+                "8": "Gây sát thương cuối cùng +50% trong khu vực bán kính 4 yard, mục tiêu trúng đòn bị kèm [choáng] 2 lượt, kèm trạng thái [cháy] 2 lượt.",
+                "9": "Gây sát thương cuối cùng +55% trong khu vực bán kính 4 yard, mục tiêu trúng đòn bị kèm [choáng] 2 lượt, kèm trạng thái [cháy] 3 lượt, xuyên kháng lửa +5%.",
+                "10": "Gây sát thương cuối cùng +60% trong khu vực bán kính 4 yard, mục tiêu trúng đòn bị kèm [choáng] 2 lượt, kèm trạng thái [cháy] 3 lượt, xuyên kháng lửa +10%.",
+                "11": "Gây sát thương cuối cùng +65% trong khu vực bán kính 4 yard, mục tiêu trúng đòn bị kèm [choáng] 2 lượt; kẻ địch đang [lơ lửng] hoặc [hất bay] nhận thêm sát thương cuối cùng +20%.",
+                "12": "Gây sát thương cuối cùng +70% trong khu vực bán kính 5 yard, mục tiêu trúng đòn bị kèm [choáng] 2 lượt, đồng thời kích nổ toàn bộ hiệu ứng chảy máu và suy yếu trên mục tiêu, gây toàn bộ lượng sát thương còn lại.",
+                "13": "Gây sát thương cuối cùng +75% trong khu vực bán kính 5 yard, mục tiêu trúng đòn bị kèm [choáng] 3 lượt; hiệu ứng kích nổ đồng thời khiến mục tiêu nhận trạng thái dễ tổn thương, AC-2.",
+                "14": "Gây sát thương cuối cùng +85% trong khu vực bán kính 5 yard, mục tiêu trúng đòn bị kèm [choáng] 3 lượt; vụ nổ lửa lưu lại địa hình [biển lửa] trong khu vực 1 lượt.",
+                "15": "Gây sát thương cuối cùng +100% trong khu vực bán kính 6 yard, mục tiêu trúng đòn bị kèm [choáng sâu] 3 lượt (bỏ qua miễn trừ Thể chất); nếu mục tiêu đã ở bất kỳ trạng thái khống chế nào, Trận Quang Kích lần này chắc chắn bạo kích (ngưỡng bạo kích được xem là giá trị xúc xắc hiện tại)."
+              },
+              "阶位": "Chuyển nghề"
+            }
+          },
+          "进阶": {
+            "Bão Lửa": {
+              "名称": "Bão Lửa",
+              "类型": "Triệu hồi",
+              "描述": "Triệu hồi nhiều đợt lửa tấn công toàn bộ đơn vị trong khu vực mục tiêu. Mưa lửa của Underlord; đây không phải trời mưa, đây là trời đổ lửa, đồng đội đứng trong đó cũng thấy bỏng chân.",
+              "特殊效果": {
+                "1": "Tạo trận mưa lửa kéo dài 3 lượt trong khu vực chỉ định 4 yard; kẻ địch trong trận mỗi lượt chịu đòn lửa duy trì với sát thương cuối cùng +10%.",
+                "2": "Tạo trận mưa lửa kéo dài 3 lượt trong khu vực chỉ định 4 yard; kẻ địch trong trận mỗi lượt chịu đòn lửa duy trì với sát thương cuối cùng +15%.",
+                "3": "Tạo trận mưa lửa kéo dài 3 lượt trong khu vực chỉ định 5 yard; kẻ địch trong trận mỗi lượt chịu đòn lửa duy trì với sát thương cuối cùng +20%.",
+                "4": "Tạo trận mưa lửa kéo dài 4 lượt trong khu vực chỉ định 5 yard; kẻ địch trong trận mỗi lượt chịu đòn lửa duy trì với sát thương cuối cùng +25%, và mỗi lần chịu sát thương thì miễn trừ Nhanh nhẹn -1.",
+                "5": "Tạo trận mưa lửa kéo dài 4 lượt trong khu vực chỉ định 5 yard; kẻ địch trong trận mỗi lượt chịu đòn lửa duy trì với sát thương cuối cùng +30%, và mỗi lần chịu sát thương thì miễn trừ Nhanh nhẹn -2.",
+                "6": "Tạo trận mưa lửa kéo dài 4 lượt trong khu vực chỉ định 6 yard; kẻ địch trong trận mỗi lượt chịu đòn lửa duy trì với sát thương cuối cùng +35%, kèm cơ chế [mất sinh mệnh tối đa] (chuyển hóa thành thêm sát thương cuối cùng +5%).",
+                "7": "Tạo trận mưa lửa kéo dài 5 lượt trong khu vực chỉ định 6 yard; kẻ địch trong trận mỗi lượt chịu đòn lửa duy trì với sát thương cuối cùng +40%, kèm thiêu đốt tăng thêm sát thương cuối cùng +10%.",
+                "8": "Tạo trận mưa lửa kéo dài 5 lượt trong khu vực chỉ định 6 yard; kẻ địch trong trận mỗi lượt chịu đòn lửa duy trì với sát thương cuối cùng +45%; kẻ địch trong trận không thể nhận cộng thêm ẩn nấp và che chắn.",
+                "9": "Tạo trận mưa lửa kéo dài 5 lượt trong khu vực chỉ định 7 yard; kẻ địch trong trận mỗi lượt chịu đòn lửa duy trì với sát thương cuối cùng +55%; đồng minh trong phạm vi trận mưa lửa được kháng toàn bộ sát thương +10%.",
+                "10": "Tạo trận mưa lửa kéo dài 6 lượt trong khu vực chỉ định 8 yard; mỗi lượt gây đòn đánh với sát thương cuối cùng +70%; nếu kẻ địch trong trận mang [choáng] hoặc [lơ lửng], sát thương lửa nhận vào sẽ bỏ qua kháng lửa."
+              },
+              "阶位": "Nâng cao"
+            },
+            "Mười Vạn Volt": {
+              "名称": "Mười Vạn Volt",
+              "类型": "Chủ động",
+              "描述": "Phóng ra dòng điện mạnh mười vạn volt, xuyên thủng thần kinh đối thủ. Rubick xem hoạt hình không ít, học được thì sao? Không chỉ biết phóng điện, thậm chí còn biết hét Pika!",
+              "特殊效果": {
+                "1": "Gây sát thương cuối cùng +20% lên đơn mục tiêu, có 30% xác suất kèm [tê liệt] 1 lượt (kiểm định Sức mạnh và Nhanh nhẹn chịu bất lợi).",
+                "2": "Gây sát thương cuối cùng +25% lên đơn mục tiêu, có 35% xác suất kèm [tê liệt] 1 lượt.",
+                "3": "Gây sát thương cuối cùng +30% lên đơn mục tiêu, có 40% xác suất kèm [tê liệt] 1 lượt, đồng thời cắt giảm 5 feet tốc độ di chuyển của mục tiêu.",
+                "4": "Gây sát thương cuối cùng +35% lên đơn mục tiêu, có 45% xác suất kèm [tê liệt] 1 lượt; khi trúng đòn, truyền một nửa sát thương sang 1 kẻ địch trong phạm vi 2 yard xung quanh.",
+                "5": "Gây sát thương cuối cùng +40% lên đơn mục tiêu, có 50% xác suất kèm [tê liệt] 2 lượt, truyền sang 1 kẻ địch trong phạm vi 3 yard xung quanh.",
+                "6": "Gây sát thương cuối cùng +45% lên đơn mục tiêu, chắc chắn kèm [tê liệt] 2 lượt, truyền sang 2 kẻ địch trong phạm vi 3 yard xung quanh.",
+                "7": "Gây sát thương cuối cùng +50% lên đơn mục tiêu, chắc chắn kèm [tê liệt] 2 lượt, truyền sang 2 kẻ địch trong phạm vi 4 yard xung quanh, xuyên kháng sét +10%.",
+                "8": "Gây sát thương cuối cùng +55% lên đơn mục tiêu, chắc chắn kèm [tê liệt] 2 lượt, truyền sang 3 kẻ địch trong phạm vi 4 yard xung quanh, ngưỡng bạo kích giảm 1.",
+                "9": "Gây sát thương cuối cùng +65% lên đơn mục tiêu, chắc chắn kèm [tê liệt] 3 lượt, truyền sang 3 kẻ địch trong phạm vi 5 yard xung quanh; nếu mục tiêu đang ở vùng nước hoặc đang [lơ lửng], sát thương truyền dẫn chuyển thành toàn phần.",
+                "10": "Gây sát thương cuối cùng +80% lên đơn mục tiêu; điện kích hình thành lưới lôi bạo bao phủ mục tiêu và phạm vi 5 yard quanh nó, toàn bộ kẻ địch trong phạm vi rơi vào [tê liệt sâu] 2 lượt (không thể hành động); kiểm định điện kích lần này có ưu thế và sát thương cuối cùng thêm +30%."
+              },
+              "阶位": "Nâng cao"
+            },
+            "Ân Tứ Giải Thoát": {
+              "名称": "Ân Tứ Giải Thoát",
+              "类型": "Đặc biệt",
+              "描述": "Bồi dưỡng năng lực nhìn thấu điểm yếu của kẻ địch, đòn đánh có xác suất gây bạo kích vật lý hủy diệt. Để cho vị pháp sư này có khả năng vật lý, Rubick đã cầm trượng cận chiến gõ đầu.",
+              "特殊效果": {
+                "1": "Sau khi mở, đi vào tư thế [giải thoát] kéo dài 3 lượt; trong thời gian đó đòn tấn công cận chiến vật lý có ngưỡng bạo kích giảm 1, khi bạo kích thì sát thương cuối cùng +20%.",
+                "2": "Sau khi mở, đi vào tư thế [giải thoát] kéo dài 3 lượt; trong thời gian đó đòn tấn công cận chiến vật lý có ngưỡng bạo kích giảm 1, khi bạo kích thì sát thương cuối cùng +30%.",
+                "3": "Sau khi mở, đi vào tư thế [giải thoát] kéo dài 4 lượt; trong thời gian đó đòn tấn công cận chiến vật lý có ngưỡng bạo kích giảm 2, khi bạo kích thì sát thương cuối cùng +40%.",
+                "4": "Sau khi mở, đi vào tư thế [giải thoát] kéo dài 4 lượt; trong thời gian đó đòn tấn công cận chiến vật lý có ngưỡng bạo kích giảm 2, khi bạo kích thì sát thương cuối cùng +50%, đồng thời bạo kích bỏ qua 10% giáp của mục tiêu (chuyển hóa thành xuyên AC).",
+                "5": "Sau khi mở, đi vào tư thế [giải thoát] kéo dài 4 lượt; trong thời gian đó đòn tấn công cận chiến vật lý có ngưỡng bạo kích giảm 2, khi bạo kích thì sát thương cuối cùng +60%, đồng thời bạo kích bỏ qua 15% giáp của mục tiêu.",
+                "6": "Sau khi mở, đi vào tư thế [giải thoát] kéo dài 5 lượt; trong thời gian đó đòn tấn công cận chiến vật lý có ngưỡng bạo kích giảm 3, khi bạo kích thì sát thương cuối cùng +70%, đồng thời khiến mục tiêu rơi vào [chảy máu] 2 lượt.",
+                "7": "Sau khi mở, đi vào tư thế [giải thoát] kéo dài 5 lượt; trong thời gian đó đòn tấn công cận chiến vật lý có ngưỡng bạo kích giảm 3, khi bạo kích thì sát thương cuối cùng +80%; có ưu thế kiểm định đối với kẻ địch còn dưới 30% sinh mệnh.",
+                "8": "Sau khi mở, đi vào tư thế [giải thoát] kéo dài 5 lượt; trong thời gian đó đòn tấn công cận chiến vật lý có ngưỡng bạo kích giảm 3, khi bạo kích thì sát thương cuối cùng +90%, xử quyết lính thường có sinh mệnh cực thấp.",
+                "9": "Sau khi mở, đi vào tư thế [giải thoát] kéo dài 6 lượt; trong thời gian đó đòn tấn công cận chiến vật lý có ngưỡng bạo kích giảm 4, khi bạo kích thì sát thương cuối cùng +100%; nếu đánh giết mục tiêu thì làm mới thời lượng tư thế và nhận thêm một lần di chuyển.",
+                "10": "Sau khi mở, đi vào tư thế [giải thoát] kéo dài 6 lượt; trong thời gian đó mọi đòn cận chiến và pháp thuật có ngưỡng bạo kích giảm 5, khi bạo kích thì sát thương cuối cùng +150%; đồng thời chắc chắn trúng kẻ địch đang [hất bay] hoặc [choáng], trực tiếp chém rơi chúng xuống."
+              },
+              "阶位": "Nâng cao"
+            },
+            "Đứt Hồn": {
+              "名称": "Đứt Hồn",
+              "类型": "Đặc biệt",
+              "描述": "Cắt đứt liên hệ linh hồn giữa bản thân và kẻ địch mục tiêu, trao đổi sinh lực của đôi bên. Pháp sư bị áp sát sắp chết thì làm sao? Tìm một gã đầy máu đổi một cái là xong.",
+              "特殊效果": {
+                "1": "Chỉ định một kẻ địch trong phạm vi 5 yard, cưỡng chế hút năng lượng sinh mệnh của nó, khiến bản thân nhận sinh mệnh tạm thời bằng 10% tỷ lệ sinh mệnh hiện tại của mục tiêu, kéo dài 2 lượt; mục tiêu miễn trừ Thể chất -1.",
+                "2": "Chỉ định một kẻ địch trong phạm vi 5 yard, cưỡng chế hút năng lượng sinh mệnh của nó, khiến bản thân nhận sinh mệnh tạm thời bằng 15% tỷ lệ sinh mệnh hiện tại của mục tiêu, kéo dài 2 lượt; mục tiêu miễn trừ Thể chất -1.",
+                "3": "Chỉ định một kẻ địch trong phạm vi 6 yard, cưỡng chế hút năng lượng sinh mệnh của nó, khiến bản thân nhận sinh mệnh tạm thời bằng 20% tỷ lệ sinh mệnh hiện tại của mục tiêu, kéo dài 3 lượt; mục tiêu miễn trừ Thể chất -2.",
+                "4": "Chỉ định một kẻ địch trong phạm vi 6 yard, cưỡng chế hút năng lượng sinh mệnh của nó, khiến bản thân nhận sinh mệnh tạm thời bằng 25% tỷ lệ sinh mệnh hiện tại của mục tiêu, kéo dài 3 lượt; mục tiêu miễn trừ Thể chất -2 và AC-1.",
+                "5": "Chỉ định một kẻ địch trong phạm vi 7 yard, cưỡng chế hút năng lượng sinh mệnh của nó, khiến bản thân nhận sinh mệnh tạm thời bằng 30% tỷ lệ sinh mệnh hiện tại của mục tiêu, kéo dài 3 lượt; bản thân kiểm định Trí lực +2.",
+                "6": "Chỉ định một kẻ địch trong phạm vi 7 yard, tạo liên kết linh hồn, trộm 35% tỷ lệ sinh mệnh của mục tiêu chuyển thành sinh mệnh tạm thời; nếu bản thân đang cận tử, hồi thêm sinh mệnh cho tới khi thoát khỏi cận tử; mục tiêu miễn trừ Sức mạnh -3.",
+                "7": "Chỉ định một kẻ địch trong phạm vi 8 yard, tạo liên kết linh hồn, trộm 40% tỷ lệ sinh mệnh của mục tiêu chuyển thành sinh mệnh tạm thời, đồng thời chuyển 1 trạng thái bất lợi không thuộc loại khống chế hiện đang tác động lên bản thân sang kẻ địch đó.",
+                "8": "Chỉ định một kẻ địch trong phạm vi 8 yard, tạo liên kết linh hồn, trộm 45% tỷ lệ sinh mệnh của mục tiêu chuyển thành sinh mệnh tạm thời, đồng thời chuyển tối đa 2 trạng thái bất lợi đang tác động lên bản thân; bản thân nhận [linh hồn sung mãn], khiến kỹ năng kế tiếp có sát thương cuối cùng +20%.",
+                "9": "Chỉ định một kẻ địch trong phạm vi 10 yard, tạo liên kết linh hồn, trộm 50% tỷ lệ sinh mệnh của mục tiêu chuyển thành sinh mệnh tạm thời, kèm hiệu ứng áp chế cực mạnh; mục tiêu rơi vào trạng thái [hư nhược] 3 lượt, mọi sát thương cuối cùng đầu ra giảm 30%.",
+                "10": "Bỏ qua khoảng cách, chỉ định một kẻ địch trong tầm nhìn để cưỡng ép trao đổi dấu ấn linh hồn; tước đoạt 60% sinh lực của nó chuyển thành lá chắn cực hiệu của bản thân (sinh mệnh tạm thời), cướp sạch toàn bộ hiệu ứng có lợi mà nó đang mang và chuyển sang bản thân; kẻ bị tước đoạt chịu bất lợi cưỡng chế trong kiểm định mọi thuộc tính, kéo dài 2 lượt."
+              },
+              "阶位": "Nâng cao"
+            }
+          },
+          "必杀": {
+            "Thiên Thạch Hỗn Độn": {
+              "名称": "Thiên Thạch Hỗn Độn",
+              "类型": "Triệu hồi",
+              "描述": "Triệu hồi một thiên thạch rực cháy từ chân trời, lăn về phía trước và nghiền nát mọi thứ. Không chỉ lớn, mà còn nóng bỏng. Đừng hỏi thiên thạch từ đâu ra, hỏi thì là dùng nguyên lực vo lại.",
+              "特殊效果": {
+                "1": "Nện một thiên thạch xuống phía trước rồi lăn 5 yard về trước; kẻ địch trên đường chịu sát thương cuối cùng +30%, đồng thời kèm [cháy] 1 lượt.",
+                "2": "Nện một thiên thạch xuống phía trước rồi lăn 6 yard về trước; kẻ địch trên đường chịu sát thương cuối cùng +40%, đồng thời kèm [cháy] 2 lượt; khi chạm phải, miễn trừ Nhanh nhẹn -1.",
+                "3": "Nện một thiên thạch xuống phía trước rồi lăn 7 yard về trước; kẻ địch trên đường chịu sát thương cuối cùng +50%, đồng thời kèm [cháy] 2 lượt; kẻ bị nghiền ép bị giảm một nửa tốc độ di chuyển.",
+                "4": "Nện một thiên thạch xuống phía trước rồi lăn 8 yard về trước; kẻ địch trên đường chịu sát thương cuối cùng +60%, đồng thời kèm [cháy] 3 lượt; nếu kẻ địch đang [choáng] trên đường lăn của thiên thạch, sát thương cuối cùng nhận thêm +20%.",
+                "5": "Nện một thiên thạch xuống phía trước rồi lăn 10 yard về trước; kẻ địch trên đường chịu sát thương cuối cùng +75%; đất cháy do thiên thạch để lại sẽ khiến kẻ địch bước vào chịu thêm sát thương lửa mỗi lượt, địa hình kéo dài 2 lượt.",
+                "6": "Nện một thiên thạch xuống phía trước rồi lăn 12 yard về trước; kẻ địch trên đường chịu sát thương cuối cùng +90%, đồng thời bị đẩy dồn tới điểm cuối đường lăn; địa hình đất cháy kéo dài 3 lượt, kẻ địch trong đất cháy AC-2.",
+                "7": "Triệu hồi hai thiên thạch khổng lồ song song lăn về phía trước 15 yard, gây sát thương cuối cùng +120%, nghiền nát mọi vật cản và phá hủy địa hình; gây đả kích hủy diệt lên kẻ địch đang [lơ lửng], [choáng] hoặc [định thân], bỏ qua kháng lửa của chúng và ngưỡng bạo kích giảm 2."
+              },
+              "阶位": "Tất sát"
+            },
+            "Sinh Trưởng Điên Cuồng": {
+              "名称": "Sinh Trưởng Điên Cuồng",
+              "类型": "Chủ động",
+              "描述": "Triệu hồi dây leo và cành cây thô lớn quanh bản thân, quấn chặt kẻ địch. Cơn giận của nhà bảo vệ môi trường! Dù là Rubick cũng biết tầm quan trọng của việc trồng cây gây rừng.",
+              "特殊效果": {
+                "1": "Gây sát thương cuối cùng +20% lên mọi kẻ địch trong phạm vi 4 yard xung quanh, đồng thời kèm trạng thái [quấn rễ] 1 lượt; trong thời gian đó không thể di chuyển.",
+                "2": "Gây sát thương cuối cùng +30% lên mọi kẻ địch trong phạm vi 5 yard xung quanh, đồng thời kèm trạng thái [quấn rễ] 1 lượt; trong thời gian đó không thể di chuyển và kiểm định Nhanh nhẹn chịu bất lợi.",
+                "3": "Gây sát thương cuối cùng +40% lên mọi kẻ địch trong phạm vi 6 yard xung quanh, đồng thời kèm trạng thái [quấn rễ] 2 lượt; trong thời gian đó không thể di chuyển và kiểm định Nhanh nhẹn chịu bất lợi.",
+                "4": "Gây sát thương cuối cùng +50% lên mọi kẻ địch trong phạm vi 7 yard xung quanh, đồng thời kèm trạng thái [quấn rễ] 2 lượt; trong thời gian đó không thể di chuyển, và đầu mỗi lượt chịu thêm sát thương siết chặt tự nhiên bằng sát thương cuối cùng +10%.",
+                "5": "Gây sát thương cuối cùng +65% lên mọi kẻ địch trong phạm vi 8 yard xung quanh, đồng thời kèm trạng thái [quấn rễ] 3 lượt; trong thời gian đó không chỉ không thể di chuyển, cả pháp thuật cần thành phần tư thế cũng không thể thi triển.",
+                "6": "Gây sát thương cuối cùng +80% lên mọi kẻ địch trong phạm vi 9 yard xung quanh, đồng thời kèm trạng thái [quấn rễ] 3 lượt; dây leo sẽ hấp thu dưỡng chất của kẻ địch, khiến đồng minh trong phạm vi nhận sinh mệnh tạm thời bằng 20% lượng sát thương.",
+                "7": "Gây sát thương cuối cùng +100% lên mọi kẻ địch trong phạm vi 10 yard xung quanh, kèm [quấn rễ sâu] không thể xua tan trong 3 lượt; kẻ bị quấn trở thành bia ngắm cực tốt cho pháp thuật sau đó (toàn đội có ưu thế kiểm định tấn công lên nó, kiểm định miễn trừ cưỡng chế thất bại một lần), đồng thời phủ sẵn địa hình tự nhiên để nối kỹ năng tiếp theo."
+              },
+              "阶位": "Tất sát"
+            },
+            "Hình Thái Cổ Long": {
+              "名称": "Hình Thái Cổ Long",
+              "类型": "Đặc biệt",
+              "描述": "Hóa thân thành một cổ long trong truyền thuyết, thay đổi phương thức tấn công. Thân thể nhân loại quá mong manh, vẫn là biến thành rồng phun lửa thì đã hơn.",
+              "特殊效果": {
+                "1": "Sau khi mở, biến thân thành rồng xanh kéo dài 3 lượt; đòn đánh thường chuyển thành tầm xa và kèm [độc tố] kéo dài 1 lượt (sát thương cuối cùng +10%), bản thân AC+2.",
+                "2": "Sau khi mở, biến thân thành rồng xanh kéo dài 4 lượt; đòn đánh thường chuyển thành tầm xa và kèm [độc tố] kéo dài 2 lượt (sát thương cuối cùng +15%), bản thân AC+2, miễn nhiễm độc tố thường.",
+                "3": "Sau khi mở, biến thân thành rồng đỏ kéo dài 4 lượt; đòn đánh thường chuyển thành bộc liệt lan phạm vi nhỏ (2 yard), trung tâm sát thương cuối cùng +25%, rìa sát thương cuối cùng +10%, bản thân AC+3.",
+                "4": "Sau khi mở, biến thân thành rồng đỏ kéo dài 5 lượt; phạm vi lan của đòn đánh thường mở rộng tới 3 yard, trung tâm sát thương cuối cùng +35%, kèm [cháy] 2 lượt, bản thân AC+3 và có ưu thế kiểm định Sức mạnh.",
+                "5": "Sau khi mở, biến thân thành rồng băng kéo dài 5 lượt; đòn đánh thường chuyển thành hơi thở băng sương, khi trúng đòn kèm [giảm tốc] và làm kiểm định tấn công của mục tiêu -2, sát thương cuối cùng +50%, bản thân AC+4.",
+                "6": "Sau khi mở, biến thân thành rồng băng kéo dài 6 lượt; đòn đánh thường kèm hiệu ứng [cực hàn] (giảm tốc và làm phòng thủ bạo kích của mục tiêu giảm), hơi thở băng sương gây sát thương xuyên thấu lên kẻ địch trên đường thẳng 4 yard, sát thương cuối cùng +65%.",
+                "7": "Sau khi mở, có thể tự do chuyển đổi giữa ba hình thái rồng độc, lửa và băng, kéo dài 7 lượt. Đòn đánh không chỉ kèm sát thương phạm vi khổng lồ (sát thương cuối cùng +85%) và trạng thái bất thường cực mạnh, thân thể cự long còn cung cấp bể sinh mệnh tạm thời bằng 50% sinh mệnh tối đa, bỏ qua mọi giới hạn địa hình (nhận tốc độ bay)."
+              },
+              "阶位": "Tất sát"
+            },
+            "Phân Ly Nguyên Tố": {
+              "名称": "Phân Ly Nguyên Tố",
+              "类型": "Đặc biệt",
+              "描述": "Tách bản thân thành ba chiến sĩ nguyên tố đất, bão và lửa, kế thừa tinh túy cốt lõi của Brewmaster! Rubick thấy chiêu này có thể giúp hắn một mình đánh mạt chược còn thiếu một người, đánh Đấu Địa Chủ thì vừa đủ.",
+              "特殊效果": {
+                "1": "Chủ động mở, bản thể ẩn nấp và triệu hồi một chiến sĩ đất (miễn nhiễm ma pháp) kéo dài 2 lượt. Trong thời gian đó bản thể miễn nhiễm sát thương, chiến sĩ đất thay mặt hành động.",
+                "2": "Chủ động mở, bản thể ẩn nấp và triệu hồi một chiến sĩ đất cùng một chiến sĩ bão (cung cấp khống chế tầm xa) kéo dài 2 lượt. Trong thời gian đó cả hai có thể hành động riêng.",
+                "3": "Chủ động mở, triệu hồi chiến sĩ đất và chiến sĩ bão kéo dài 3 lượt. Đòn đánh của chiến sĩ bão kèm phán định [mù]; chỉ cần trên sân vẫn còn một chiến sĩ sống sót, bản thể Rubick có thể tái cấu trúc tại vị trí của chiến sĩ đó khi giải trừ.",
+                "4": "Chủ động mở, triệu hồi chiến sĩ đất, bão và lửa kéo dài 3 lượt. Đòn đánh thường của chiến sĩ lửa kèm sát thương cuối cùng +20% và khiến mục tiêu [cháy].",
+                "5": "Chủ động mở, triệu hồi chiến sĩ nguyên tố ba hệ kéo dài 4 lượt. Chiến sĩ đất có thể trọng kích phá hủy địa hình, chiến sĩ bão có thể thổi bay một kẻ địch khiến nó [lơ lửng] 1 lượt, cả ba chiến sĩ đều nhận lợi ích +2 cho kiểm định miễn trừ mọi thuộc tính.",
+                "6": "Chủ động mở, triệu hồi chiến sĩ nguyên tố ba hệ kéo dài 4 lượt. Sát thương cuối cùng từ đòn đánh của chiến sĩ lửa tăng tới +40%, chiến sĩ bão có thể mở tường gió cỡ nhỏ trong phạm vi, khi phân ly kết thúc có thể hồi cho bản thể sinh mệnh tạm thời bằng 10% tỷ lệ sinh mệnh nhân với số chiến sĩ nguyên tố còn lại.",
+                "7": "Chủ tể nguyên tố hoàn mỹ, ba chiến sĩ nguyên tố kéo dài 5 lượt và kế thừa toàn bộ xuyên kháng của Rubick. Trong trạng thái phân ly nguyên tố, mỗi chiến sĩ đều có bể hỏa lực độc lập của riêng mình, và khi phối hợp tấn công cùng một mục tiêu có thể bỏ qua AC của mục tiêu khi tính giáp."
+              },
+              "阶位": "Tất sát"
+            }
+          },
+          "奥义": {
+            "Hố Đen": {
+              "名称": "Hố Đen",
+              "类型": "Triệu hồi",
+              "描述": "Triệu hồi một hố đen nuốt chửng mọi thứ, hút kẻ địch xung quanh vào trung tâm. Hy vọng của cả làng, chỉ cần kéo được năm tên thì pha giao tranh này thắng! Kéo hụt thì cứ chờ bị Tetto cười nhạo đi.",
+              "特殊效果": {
+                "1": "Tạo hố đen ở điểm chỉ định, kéo dài 2 lượt; kẻ địch trong phạm vi 5 yard mỗi lượt buộc phải thực hiện miễn trừ Sức mạnh, thất bại thì bị kéo về trung tâm và chịu sát thương nghiền ép bằng sát thương cuối cùng +25%.",
+                "2": "Hố đen kéo dài 2 lượt; kẻ địch trong phạm vi 6 yard chịu bất lợi khi miễn trừ Sức mạnh, thất bại thì bị kéo về trung tâm và rơi vào [áp chế] không thể động đậy, mỗi lượt chịu xé rách trọng lực bằng sát thương cuối cùng +40%.",
+                "3": "Hố đen kéo dài 3 lượt; kẻ địch trong phạm vi 7 yard vô điều kiện trượt về trung tâm; kẻ bị hút vào trung tâm cưỡng chế rơi vào trạng thái [cấm chế] (không thể dùng pháp thuật và tấn công), mỗi lượt chịu sát thương cuối cùng +60%.",
+                "4": "Hố đen kéo dài 3 lượt; trọng lực cực lớn trong phạm vi 8 yard sẽ phá hủy mọi chỗ che chắn và địa hình; sát thương tại trung tâm chuyển thành [xé rách chân thực] (bỏ qua kháng vật lý và ma pháp), mỗi lượt gây sát thương cuối cùng +85%; kẻ địch ở rìa bị cưỡng chế đưa tốc độ di chuyển về 0.",
+                "5": "Hố đen kéo dài 4 lượt; phạm vi hấp phụ mở rộng tới 12 yard, hình thành lĩnh vực tuyệt đối cấm bay và tuyệt đối cấm ma. Kẻ địch ở trung tâm không chỉ mỗi lượt chịu đả kích hủy diệt với sát thương cuối cùng +120%, mà nếu tỷ lệ sinh mệnh của chúng thấp hơn 15% khi hố đen kết thúc, sẽ trực tiếp bị xem là bị kỳ điểm nuốt chửng và kích hoạt phán định chết tức thì."
+              },
+              "阶位": "Áo nghĩa"
+            },
+            "Kết Giới Thời Gian": {
+              "名称": "Kết Giới Thời Gian",
+              "类型": "Đặc biệt",
+              "描述": "Tạo ra một kết giới xé rách trong thời không, nhốt toàn bộ đơn vị bên trong ra ngoài dòng chảy thời gian. Thần kỹ thật sự là khống chế cả đồng đội, rồi bản thân vẫn có thể nhảy múa bên trong.",
+              "特殊效果": {
+                "1": "Mở kết giới bán kính 4 yard tại vị trí chỉ định, kéo dài 1 lượt. Tất cả đơn vị trong kết giới (bao gồm cả địch và ta) hoàn toàn dừng hành động, không thể thực hiện bất kỳ hành động hoặc phản ứng nào, đồng thời không thể bị đòn tấn công từ ngoài kết giới đánh trúng. Bản thân Rubick có thể tự do hành động trong kết giới, và khi tấn công trong kết giới thì ngưỡng bạo kích giảm 1.",
+                "2": "Bán kính kết giới tăng tới 5 yard, kéo dài 2 lượt. Đơn vị trong kết giới dừng hành động, tốc độ di chuyển của Rubick trong kết giới tăng gấp đôi, mọi đòn tấn công có sát thương cuối cùng thêm +20%, đồng thời bỏ qua miễn trừ Nhanh nhẹn của kẻ địch trong kết giới.",
+                "3": "Bán kính kết giới tăng tới 6 yard, kéo dài 2 lượt. Kết giới không chỉ làm thời gian tĩnh lại, mà còn khiến Rubick khi phóng thích pháp thuật khác bên trong không cần tiêu hao tài nguyên hành động thông thường (mỗi lượt nhận thêm 1 hành động thi pháp miễn phí), tấn công trong kết giới có sát thương cuối cùng +35%.",
+                "4": "Bán kính kết giới tăng tới 7 yard, kéo dài 3 lượt. Bạn được tôn làm chúa tể thời gian trong kết giới; AC của mọi đơn vị phe địch bị nhốt trong kết giới được xem là trạng thái không giáp cơ bản (bỏ qua mọi giáp ma pháp), mọi sát thương bạn gây ra trong kết giới tự động được xem là đã xuyên kháng, ngưỡng bạo kích giảm 3.",
+                "5": "Bán kính kết giới tăng tới 10 yard, kéo dài 3 lượt. Bạn thậm chí có thể chỉ định tối đa hai đơn vị đồng minh không chịu ảnh hưởng của Kết Giới Thời Gian, cùng bạn tàn sát kẻ địch đang tĩnh chỉ trong kết giới. Bất kỳ tuyệt kỹ liên kết kết liễu nào phát động trong kết giới đều bị cưỡng chế nhận sát thương cuối cùng thêm +100%, đồng thời khóa định vận mệnh kẻ địch (kẻ bị đánh giết không thể được hồi sinh)."
+              },
+              "阶位": "Áo nghĩa"
+            },
+            "Siêu Tân Tinh": {
+              "名称": "Siêu Tân Tinh",
+              "类型": "Triệu hồi",
+              "描述": "Hóa thân thành một hằng tinh rực cháy; nếu không bị phá hủy thì niết bàn tái sinh. Đập quả trứng! Mau đập quả trứng đi! Chỉ cần trứng vỡ là hắn chết!",
+              "特殊效果": {
+                "1": "Rubick bao bọc bản thân trong một Siêu Tân Tinh có 30 sinh mệnh, kéo dài 2 lượt. Trong thời gian đó không thể hành động; Siêu Tân Tinh mỗi lượt gây thiêu đốt bằng sát thương cuối cùng +30% lên kẻ địch trong phạm vi 5 yard xung quanh. Nếu sau 2 lượt chưa bị phá hủy, Rubick hồi sinh trong trạng thái đầy đủ.",
+                "2": "Sinh mệnh của Siêu Tân Tinh tăng tới 50, kéo dài 2 lượt. Mỗi lượt gây thiêu đốt bằng sát thương cuối cùng +45% lên kẻ địch trong phạm vi 6 yard xung quanh; kẻ địch trong phạm vi khi tấn công Siêu Tân Tinh có kiểm định trúng đòn -2. Có thể phóng thích Nướng Cháy Dưới Nắng trong trạng thái Siêu Tân Tinh.",
+                "3": "Sinh mệnh của Siêu Tân Tinh tăng tới 70, kéo dài 3 lượt. Phạm vi thiêu đốt mở rộng tới 8 yard, mỗi lượt gây sát thương cuối cùng +60%; khoảnh khắc bộc liệt thành công sẽ kèm [choáng] 1 lượt và sát thương lửa cực lớn (sát thương cuối cùng +80%) lên mọi kẻ địch trong phạm vi. Có thể phóng thích Nướng Cháy Dưới Nắng trong trạng thái Siêu Tân Tinh.",
+                "4": "Sinh mệnh của Siêu Tân Tinh tăng tới 100 (và chỉ phán định bằng số lần tấn công hiệu quả, phải bị trúng 5 đòn tấn công độc lập mới tính là bị phá hủy), kéo dài 3 lượt. Phạm vi thiêu đốt 10 yard, mỗi lượt gây sát thương cuối cùng +85% và làm mù kẻ địch; khi bộc liệt gây [choáng] diện rộng 2 lượt, đồng thời sau khi Rubick tái sinh, mọi đòn tấn công trong ba lượt kế tiếp có ngưỡng bạo kích giảm 2. Có thể phóng thích Nướng Cháy Dưới Nắng trong trạng thái Siêu Tân Tinh.",
+                "5": "Hóa thành hằng tinh chân chính! Siêu Tân Tinh cần chịu 8 lần tấn công độc lập mới vỡ, kéo dài 3 lượt. Không chỉ mỗi lượt gây sát thương nhiệt độ cực hạn hủy diệt lên kẻ địch trong phạm vi 15 yard (sát thương cuối cùng +120%, cưỡng chế bỏ qua kháng lửa), chỉ cần niết bàn thành công, Rubick sẽ mang uy thiên hỏa tái sinh, không chỉ hồi phục toàn bộ sinh mệnh, mà còn khiến mọi đơn vị đồng minh trên sân nhận một lần Gió Phục Sinh miễn phí, đồng thời khi bộc liệt cưỡng ép hóa toàn bộ đơn vị phe địch trong phạm vi thành tro bụi (máu dưới 20% trực tiếp xử quyết). Có thể phóng thích Nướng Cháy Dưới Nắng trong trạng thái Siêu Tân Tinh."
+              },
+              "阶位": "Áo nghĩa"
+            },
+            "Lời Nguyền Mùa Đông": {
+              "名称": "Lời Nguyền Mùa Đông",
+              "类型": "Chủ động",
+              "描述": "Đóng băng một mục tiêu phe địch, đồng thời ép đồng minh quanh mục tiêu đó điên cuồng tấn công nó. Không có gì khiến pháp sư phản diện vui sướng cả thân lẫn tâm hơn cảnh nhìn kẻ địch tự giết lẫn nhau.",
+              "特殊效果": {
+                "1": "Nguyền rủa một kẻ địch, khiến nó [đóng băng] 1 lượt (vô địch và không thể hành động), ép một đồng đội phe địch trong phạm vi 3 yard quanh nó phát động một đòn đánh thường lên nó.",
+                "2": "Nguyền rủa một kẻ địch, khiến nó [đóng băng] 2 lượt, ép toàn bộ đồng đội phe địch trong phạm vi 4 yard quanh nó rơi vào [cuồng loạn], cưỡng chế di chuyển tới mục tiêu bị đóng băng và mỗi lượt phát động đánh thường.",
+                "3": "Nguyền rủa một kẻ địch, khiến nó [đóng băng] 2 lượt; đồng đội phe địch trong phạm vi 5 yard xung quanh không chỉ sẽ tấn công mục tiêu đó, mà trong thời gian tấn công còn có tốc độ tấn công tăng mạnh, sát thương gây ra có cộng thêm cuối cùng +20%, nhưng AC của chính chúng giảm 3 điểm.",
+                "4": "Nguyền rủa một kẻ địch, khiến nó [đóng băng] 3 lượt; phạm vi nguyền rủa mở rộng tới 6 yard. Đồng đội phe địch bị cuốn vào lời nguyền mất sạch lý trí; khi tấn công mục tiêu bị đóng băng, ngưỡng bạo kích giảm 2; mục tiêu bị đóng băng tuy miễn nhiễm sát thương phe ta, nhưng chịu toàn bộ sát thương và cộng dồn hiệu ứng đặc biệt từ đồng đội của nó.",
+                "5": "Châm ngòi ly gián tới cực hạn! Đóng băng mục tiêu chính 3 lượt; mọi quân địch trong phạm vi 8 yard xung quanh không thể miễn trừ và rơi vào [cuồng loạn vực sâu], chúng sẽ trút toàn bộ kỹ năng khả dụng cùng sát thương cao nhất vào mục tiêu chính bị đóng băng; nếu mục tiêu chính bị đồng đội của nó đánh giết trong thời gian nguyền rủa, lời nguyền sẽ lập tức lan như ôn dịch sang kẻ địch đã giết nó, đặt lại thời lượng và dẫn phát vòng tự giết lẫn nhau mới."
+              },
+              "阶位": "Áo nghĩa"
+            }
+          },
+          "觉醒一": {
+            "Trộm Kỹ Năng Vĩnh Cửu": {
+              "名称": "Trộm Kỹ Năng Vĩnh Cửu",
+              "类型": "Đặc biệt",
+              "描述": "Rubick hoàn toàn nắm giữ căn nguyên của ma pháp, biến kỹ năng đã trộm thành của mình. Của người khác là của ta, của ta vẫn là của ta.",
+              "特殊效果": {
+                "1": "Kỹ năng được Rubick sử dụng thành công thông qua [Trộm Kỹ Năng] sau khi thi triển có 30% xác suất trực tiếp khắc sâu vào linh hồn Rubick, chuyển hóa thành một kỹ năng khả dụng bổ sung vĩnh viễn (tối đa lưu trữ 1 kỹ năng vĩnh viễn, khi thay thế sẽ ghi đè).",
+                "2": "Xác suất khắc ấn tăng tới 60%, tối đa có thể đồng thời lưu trữ 2 kỹ năng trộm vĩnh viễn. Khi dùng các kỹ năng vĩnh viễn này, mọi miễn trừ thuộc tính của Rubick nhận ưu thế, đồng thời không tiêu hao tài nguyên hành động thông thường (mỗi trận chiến giới hạn 1 lần thi pháp cực tốc).",
+                "3": "Đạo văn hoàn mỹ! Một trăm phần trăm đưa kỹ năng đã trộm vào kho kỹ năng tài nguyên, có thể vĩnh viễn lưu trữ và tự do tổ hợp 3 kỹ năng tối thượng đến từ kẻ địch. Khi Rubick phóng thích các kỹ năng này, không chỉ tước đoạt hoàn toàn uy năng kỹ năng của chủ cũ, mà còn kèm [ấn Đại Ma Đạo Sư] chuyên thuộc của Rubick (sát thương cuối cùng cưỡng chế tăng gấp đôi và miễn nhiễm mọi hiệu ứng phản phệ vốn có của kỹ năng đó)."
+              },
+              "阶位": "Thức tỉnh một"
+            }
+          },
+          "觉醒二": {
+            "Áo Thuật Chí Tôn": {
+              "名称": "Áo Thuật Chí Tôn",
+              "类型": "Đặc biệt",
+              "描述": "Nhìn thấu bản chất của mọi ma pháp; không chỉ có thể cường hóa pháp thuật của mình, mà còn làm suy yếu kháng tính của kẻ địch xung quanh. Kẻ địch đứng cạnh Rubick mà thi pháp sẽ cảm thấy mình như kẻ mù chữ.",
+              "特殊效果": {
+                "1": "Trong phạm vi 100 yard quanh Rubick hình thành lĩnh vực áo thuật giáng lâm vĩnh hằng. Mọi đơn vị phe địch trong lĩnh vực này bị cưỡng chế giảm 15% kháng ma pháp toàn hệ; bất kỳ kỹ năng pháp thuật nào Rubick phát động cũng có khoảng cách thi pháp cơ bản tăng thêm 3 yard, kiểm định trúng đòn pháp thuật +3.",
+                "2": "Phạm vi lĩnh vực áo thuật mở rộng tới bao phủ toàn bộ tầm nhìn (trên 30 yard). Dưới sự chi phối tuyệt đối của Rubick, mọi đơn vị phe địch khi thi pháp phải vượt qua một lần miễn trừ Trí lực cực khó trước; thất bại thì pháp thuật trực tiếp phản phệ chính nó; đồng thời mọi kỹ năng pháp thuật của Rubick đều được xem là tự động xuyên qua bất kỳ lá chắn và trạng thái miễn nhiễm ma pháp nào, ngưỡng bạo kích vĩnh viễn giảm 3."
+              },
+              "阶位": "Thức tỉnh hai"
+            }
+          },
+          "觉醒三": {
+            "Trận Thiên Thang": {
+              "名称": "Trận Thiên Thang",
+              "类型": "Đặc biệt",
+              "描述": "Cưỡng ép kéo toàn bộ mọi người trên sân vào một trận DOTA2 tù túng. Ván cha con, áp lực cực lớn.",
+              "特殊效果": {
+                "1": "Rubick mở khe nứt chiều không gian, cưỡng chế hút toàn bộ đồng minh và quân địch trong bán kính 50 yard vào dị không gian tên là [Defense of the Ancients 2] và tiến hành một trận DOTA2. Trong không gian này không cần tuân theo Mười Minh Ước, mọi quy tắc DND thông thường bị pháp tắc DOTA2 bao phủ. Khi trận đấu kết thúc và Rubick chiến thắng (phe Rubick phá sập Ancient phe địch), kẻ địch sẽ vì lời hứa của ván cha con mà thừa nhận Rubick là cha của mình."
+              },
+              "阶位": "Thức tỉnh ba"
+            }
+          }
+        }
+      },
+      "skillFlavorInput": "Mỗi giai đoạn kỹ năng của bạn có bốn kỹ năng. Trong phần mô tả kỹ năng cần có lời châm biếm và ghi rõ nguồn gốc.\nCơ bản: Dòng Năng Lượng Suy Yếu; Lấy Vật Từ Xa; Đá Bay Chim Cánh Cụt (vừa phát ra tiếng “hey” vừa bay tới đá kẻ địch. Rubick lĩnh ngộ được sau khi lướt video trên Bilibili. Bạn tưởng chiêu lớn nào cũng phải hủy thiên diệt địa sao? Đôi khi một cú đá bay hài hước mới là chốn về của linh hồn. Có thể dùng làm chiêu lớn để di chuyển nhanh; đây là kỹ năng Tetto đưa cho bạn để đủ số lượng.); Trộm Kỹ Năng (đặc thù nghề nghiệp, kỹ năng cốt lõi).\nChuyển nghề: Gai Nứt Đất (Lion); Tường Gió (Yasuo - đừng hỏi Rubick quen Yasuo bằng cách nào, có lẽ thông qua một thương nhân họ Ma cùng xuất thân sư môn với Rubick); Trận Quang Kích (Lina); Móc Thịt (Pudge).\nNâng cao: Bão Lửa (Underlord); Một Trăm Nghìn Volt (Pikachu - Rubick xem không ít hoạt hình, học được thì có sao?); Ân Tứ Giải Thoát (Phantom Assassin, cung cấp khả năng tấn công vật lý cho nhân vật chính); Đoạn Hồn (Terrorblade).\nTất sát: Thiên Thạch Hỗn Mang (Invoker); Sinh Trưởng Cuồng Loạn (Treant Protector); Hình Thái Cổ Long (Dragon Knight); Phân Ly Nguyên Tố (Brewmaster).\nÁo nghĩa: Kết Giới Thời Gian (Faceless Void); Hố Đen (Enigma); Siêu Tân Tinh (Phoenix); Lời Nguyền Mùa Đông (Winter Wyvern).\nThức tỉnh một: Trộm Kỹ Năng Vĩnh Viễn (đưa kỹ năng trộm được vào kỹ năng tài nguyên).\nThức tỉnh hai: Chí Tôn Áo Thuật.\nThức tỉnh ba: Trận Đấu Xếp Hạng (cưỡng ép kéo tất cả mọi người trên sân vào một trận DOTA2).",
+      "teammates": [],
+      "customTeammate": null,
+      "selectedTraits": [
+        "Học rộng nhớ kỹ",
+        "Kẻ giữ của"
+      ],
+      "customTraits": [
+        {
+          "name": "Đại Ma Đạo Sư không bao giờ sợ chết",
+          "effect": "Khi Rubick chết, hắn sẽ đi vào một nơi gọi là “suối nguồn” để đếm thời gian hồi sinh, rồi trở về nhanh như tia chớp!"
+        }
+      ],
+      "customExpertise": [],
+      "customIdentity": {
+        "enabled": true,
+        "name": "Đại Ma Đạo Sư bị ban",
+        "desc": "Rubick rất phiền.\nKhông phải phiền bình thường. Vừa cập nhật phiên bản 7.41, hắn không hiểu sao lại thành vua đánh người ở đường: kẻ có tầm đánh dài hơn hắn thì sát thương không bằng hắn, kẻ sát thương cao hơn hắn lại toàn là tay ngắn, chẳng hạn Shadow Shaman xui xẻo bên đối diện. Ngài Shadow Shaman bị hắn thả diều đánh thường năm phát rồi lập tức co về dưới trụ uống thuốc lớn, đồng đội gõ chữ công khai: “Rubick đỉnh quá! A hắn! A hắn!”\nNhưng hắn không muốn A.\nHắn là ai? Người thừa kế của Aghanim, chúa tể ma pháp, bậc tông sư của áo nghĩa trộm kỹ năng. Bắt hắn như một tên côn đồ đầu đường xó chợ dùng đòn đánh thường để đuổi người ta khỏi khu kinh nghiệm? Đó là sự xúc phạm đối với danh hiệu Đại Ma Đạo Sư. Hắn chỉ muốn dùng Dòng Năng Lượng Suy Yếu để ăn lính đánh xa. Nhưng đồng đội không hiểu, đối thủ càng không hiểu. Họ chỉ thấy tên khốn mặc áo choàng xanh này đứng trước tuyến lính ngay cấp một, dùng đòn vật lý đánh đối thủ tơi tả.\n“Rubick, không A người thì mày chơi cái quái gì?”\n“BAN đi, BAN đi, đừng để con tướng ngu này xuất hiện trong ván nữa, nhìn là buồn nôn.”\nHuyết áp của Đại Ma Đạo Sư tăng dần theo từng màn ban chọn; hắn đã lâu lắm không được ra sân. Điều khiến hắn sụp đổ hơn là hôm nay khó khăn lắm mới không bị ban, cũng không bị tranh slot, nhưng offlane Axe có ID “Gaben” đã ba ván liên tiếp đi cùng hắn ở đường khó. Ván đầu, Axe bị Venomancer vị trí năm bên kia quay như chong chóng, còn Rubick ở phía sau tao nhã điện lính. Ván thứ hai, Axe gào trúng ba người, còn trong mắt Rubick chỉ có Lich đối diện vừa dùng chiêu cuối. Ván thứ ba, Axe của G béo bật Blade Mail lao vào đội hình địch; quay đầu nhìn lại thì Rubick đang ở nhà mua Boots of Travel.\n“Rubick.”\nTrong tai nghe vang lên một giọng trầm thấp, mang theo uy quyền không cho phép nghi ngờ. Rubick khựng lại; giọng nói này không giống voice chat trong game, mà giống như... trực tiếp xuất hiện trong ý thức của hắn.\n“I'm done.”\nMàn hình đột ngột tối sầm. Rubick cảm thấy thân thể mình bị một sức mạnh không thể kháng cự nắm chặt, nén lại, rồi bị ép sống sượng qua một khe hẹp nào đó và ngã xuống một sàn nhà kỳ quặc. Trong khoảnh khắc ấy hắn thậm chí tưởng mình đã chết, nhưng rõ ràng nơi này khác với chỗ hắn đếm thời gian hồi sinh ở suối nguồn.\n“Yo, tỉnh rồi à?”\nMột giọng thiếu nữ nhẹ nhàng vang lên từ phía trên đầu. Rubick bật người dậy, pháp trượng trong tay đã chắn ngang trước người.\n“Chào mừng đến Hành Lang Sáng Thế! Ôi chao, ta đã phải trả cho ông chú béo đó không ít tiền để mua ngươi đấy~”",
+        "cardExpanded": false,
+        "tierIndex": 0
+      },
+      "starterShopSelection": [],
+      "selectedWorldview": "corridor",
+      "selectedOpening": "traverse",
+      "customOpeningText": "",
+      "selectedDifficulty": "easy",
+      "customRace": {
+        "enabled": true,
+        "name": "Vị trí số bốn phi nhân loại",
+        "trait1": {
+          "name": "Đại Ma Đạo Sư",
+          "detail": "Khi bạn thực hiện phán định Trí lực, bạn nhận thêm trị số phụ trội tăng theo cấp độ; giá trị cụ thể bằng cấp độ/10, làm tròn lên.",
+          "negative": false
+        },
+        "trait2": {
+          "name": "Vị trí số 4 tồi tệ",
+          "detail": "Bạn có xu hướng bán đứng đồng đội hơn là hi sinh vô tư.",
+          "negative": true
+        }
+      }
+    }
+  }
+}
