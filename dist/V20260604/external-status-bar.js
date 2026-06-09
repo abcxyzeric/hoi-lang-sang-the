@@ -200,7 +200,7 @@
   };
 
   // ==================== Mapping ảnh nền nghề nghiệp ====================
-  const CLASS_BACKGROUND_BASE_URL = 'https://raw.githack.com/abcxyzeric/hoi-lang-sang-the/main/assets/background/';
+  const CLASS_BACKGROUND_BASE_URL = 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/background/';
   const CLASS_BACKGROUND_MAP = {
     'Quỷ kiếm sĩ (nam)': 'gui-jian.webp', 'Quỷ kiếm sĩ (nữ)': 'nu-gui-jian.webp',
     'Võ sư (nam)': 'vo-su-nam.webp', 'Võ sư (nữ)': 'vo-su-nu.webp',
@@ -1432,7 +1432,7 @@ Dưới đây là một phần số trị trang bị, dùng để tham khảo c�
 
 ### Yêu cầu số lượng
 - Tier1, kỹ năng cơ bản dưới cấp 15: 3 kỹ năng.
-- Tier2, kỹ năng chuyển nghề cấp 15 đến 30: 3 kỹ năng, bắt buộc có một kỹ năng đặc biệt nghề nghiệp không thể nâng cấp, ví dụ Hành giả thứ nguyên triệu hồi Nại Nhã Lệ, Cuồng chiến sĩ có Huyết chi cuồng bạo.
+- Tier2, kỹ năng chuyển nghề cấp 15 đến 30: 3 kỹ năng, bắt buộc có một kỹ năng đặc biệt nghề nghiệp không thể nâng cấp, ví dụ Hành giả thứ nguyên triệu hồi Naiyali, Cuồng chiến sĩ có Huyết chi cuồng bạo.
 - Tier3, kỹ năng nâng cao cấp 30 đến 45: 3 kỹ năng.
 - Tier4, kỹ năng tất sát cấp 45 đến 75: 3 kỹ năng.
 - Tier5, kỹ năng áo nghĩa cấp 75 đến 95: 3 kỹ năng.
@@ -1466,7 +1466,7 @@ Dưới đây là một phần số trị trang bị, dùng để tham khảo c�
 - Quan trọng: bắt buộc dùng văn bản mô tả hiệu quả cụ thể của từng cấp từ cấp 1 đến cấp tối đa.
 
 ### Đặc_biệt_nghề_nghiệp
-- Giải thích: chỉ cân nhắc tạo kỹ năng T2 kiểu này khi tạo Tier2. Chỉ khi có nhu cầu đặc sắc nghề nghiệp rất mạnh mới thêm một kỹ năng đặc biệt nghề nghiệp, và kỹ năng này không thể nâng cấp, ví dụ Hành giả thứ nguyên triệu hồi Nại Nhã Lệ, Cuồng chiến sĩ có Huyết chi cuồng bạo.
+- Giải thích: chỉ cân nhắc tạo kỹ năng T2 kiểu này khi tạo Tier2. Chỉ khi có nhu cầu đặc sắc nghề nghiệp rất mạnh mới thêm một kỹ năng đặc biệt nghề nghiệp, và kỹ năng này không thể nâng cấp, ví dụ Hành giả thứ nguyên triệu hồi Naiyali, Cuồng chiến sĩ có Huyết chi cuồng bạo.
 - Bạn cần điền: [Tên, Loại, Mô_tả, Hiệu_ứng_đặc_biệt(hiệu ứng đặc biệt của kỹ năng đặc biệt nghề nghiệp chỉ liệt kê cấp 1, vì nó không thể nâng cấp)].
 
 ## Yêu cầu đầu ra
@@ -2461,7 +2461,7 @@ ${lockedSkillsJson}
   };
 
   // URL ảnh nền.
-  const HEADER_BG_URL = 'https://raw.githack.com/abcxyzeric/hoi-lang-sang-the/main/assets/background/rvassh.webp';
+  const HEADER_BG_URL = 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/background/rvassh.webp';
 
   // Kiểm tra và tải ảnh nền header.
   const loadHeaderBackground = () => {
@@ -3828,8 +3828,8 @@ ${lockedSkillsJson}
 
   // ==================== Popup cửa hàng đặc chất ====================
   const EQUIP_SHOP_SOURCE_URLS = Object.freeze([
-    'https://raw.githack.com/abcxyzeric/hoi-lang-sang-the/main/start_equipment_shop_v1_3.json',
-    'https://raw.githack.com/abcxyzeric/hoi-lang-sang-the/main/start_equipment_shop_v1_3.json',
+    'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/start_equipment_shop_v1_3.json',
+    'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/start_equipment_shop_v1_3.json',
     './start_equipment_shop.json'
   ]);
   const EQUIP_SHOP_DEFAULT_PRICE_MAP = Object.freeze({
@@ -7730,7 +7730,7 @@ ri-sword-line ri-shield-line ri-fire-fill ri-drop-fill ri-skull-line ri-ghost-2-
     z-index: 10;
     position: relative;
     overflow: hidden;
-    background: url('https://raw.githack.com/abcxyzeric/hoi-lang-sang-the/main/assets/background/gui-jian.webp') no-repeat center center;
+    background: url('https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/background/gui-jian.webp') no-repeat center center;
     background-size: cover;
     padding: 20px 15px 10px; /* Reduced header padding */
 }
@@ -8791,7 +8791,7 @@ ri-sword-line ri-shield-line ri-fire-fill ri-drop-fill ri-skull-line ri-ghost-2-
     aspect-ratio: 1 / 1;
     margin: 0 auto 15px;
     background-color: var(--bg-color);
-    background-image: url('https://raw.githack.com/abcxyzeric/hoi-lang-sang-the/main/assets/background/29l6g5.webp');
+    background-image: url('https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/background/29l6g5.webp');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;

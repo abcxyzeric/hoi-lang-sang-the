@@ -1,0 +1,42 @@
+{
+  "ok": true,
+  "preset": {
+    "id": "8e4168a6-a2f0-4b1a-8a4e-0c29712149cb",
+    "ownerId": "1271574516115439686",
+    "ownerName": "库罗库拉",
+    "author": "库罗库拉",
+    "authorAvatar": "https://cdn.discordapp.com/avatars/1271574516115439686/024230e62639ee437b2653b5ea7b3443.png?size=128",
+    "name": "Shin Megami Tensei V: Vengeance - Nahobino",
+    "title": "Shin Megami Tensei V: Vengeance - Nahobino",
+    "intro": "Nahobino trở về tư thái thần minh cổ xưa và có tư cách tái sáng thế. Bản thân hiệu năng đã toàn năng cả hỗ trợ lẫn sát thương, lại còn tinh thông nhiều hành động + né tránh. Rạp hát Nahobino tới rồi.jpg",
+    "coverUrl": "/api/presets/8e4168a6-a2f0-4b1a-8a4e-0c29712149cb/cover",
+    "className": "Nahobino",
+    "race": "Thần hợp nhất",
+    "tags": [
+      "Né tránh",
+      "Nhiều hành động",
+      "Bộc phát",
+      "Toàn năng"
+    ],
+    "likes": 2,
+    "liked": false,
+    "downloads": 11,
+    "status": "published",
+    "createdAt": "2026-06-04 20:17:14",
+    "updatedAt": "2026-06-07 15:28:47",
+    "lastLikedAt": "",
+    "presetData": {
+      "name": "Nahobino",
+      "class": "Nahobino",
+      "customClassName": "Nahobino",
+      "race": "__custom__",
+      "customRace": {
+        "name": "Thần hợp nhất"
+      },
+      "customClassStyle": "Sự kết hợp giữa thần và người, Nahobino là thần minh chân chính trở về tư thái cổ xưa; bất kể tiến công hay hỗ trợ đều không thành vấn đề, sở hữu lợi ích né tránh mạnh mẽ, hơn nữa còn có kỹ năng Magatsuhi phá cách.",
+      "backstory": "",
+      "selectedCustomLevel": null
+    },
+    "downloadUrl": "/api/presets/8e4168a6-a2f0-4b1a-8a4e-0c29712149cb/file"
+  }
+}

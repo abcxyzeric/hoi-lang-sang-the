@@ -1,0 +1,41 @@
+{
+  "ok": true,
+  "preset": {
+    "id": "13cf7372-252d-40eb-a1ed-9225d9c15484",
+    "ownerId": "1398903169483931780",
+    "ownerName": "xxxxzzccwc",
+    "author": "xxxxzzccwc",
+    "authorAvatar": "https://cdn.discordapp.com/avatars/1398903169483931780/a0b0ec9462f15fd17508ebd277d079ac.png?size=128",
+    "name": "Hắc Thú Mão Khôi Thủ - Faust",
+    "title": "Hắc Thú Mão Khôi Thủ - Faust",
+    "intro": "Build lấy phá vỡ và sát thương chân thật làm chủ đạo (còn nghi), kỹ năng tự tay làm, đang test.",
+    "coverUrl": "/api/presets/13cf7372-252d-40eb-a1ed-9225d9c15484/cover",
+    "className": "Hắc Thú - Mão Khôi Thủ",
+    "race": "Hắc Thú Mão",
+    "tags": [
+      "Đơn mục tiêu",
+      "debuff",
+      "Phá liệt"
+    ],
+    "likes": 2,
+    "liked": false,
+    "downloads": 18,
+    "status": "published",
+    "createdAt": "2026-05-28 05:18:34",
+    "updatedAt": "2026-06-07 08:52:24",
+    "lastLikedAt": "",
+    "presetData": {
+      "name": "Faust",
+      "class": "Hắc Thú - Mão Khôi Thủ",
+      "customClassName": "Hắc Thú - Mão Khôi Thủ",
+      "race": "__custom__",
+      "customRace": {
+        "name": "Hắc Thú Mão"
+      },
+      "customClassStyle": "Bản vẽ: Đấu lạp Dệt Bóng (đặc biệt - thần khí); Nhanh nhẹn +1, Cảm nhận +1, Cơ bản +1; [Ảnh hóa] kiểm định trúng của kẻ địch -1; [Kiềm chế] khi kích hoạt Phá liệt, gắn 1 tầng [Chú sát - Kiềm chế] lên kẻ địch, mỗi tầng khiến sát thương kẻ địch gây ra giảm 10%. Bản vẽ: Khảm Lưu Ly Chữ Sơn (vòng tay - truyền thuyết); Nhanh nhẹn +2, toàn kỹ năng +1; [Chú sát minh khắc] khi trúng gắn 1 tầng [Chú sát - Suy yếu] lên kẻ địch, mỗi tầng khiến mọi kháng tính của kẻ địch -10%; khi né tránh gắn 1 tầng [Chú sát - Kịch độc] lên kẻ địch, mỗi tầng khiến kẻ địch trước khi tấn công tổn thất [số tầng*10]% sinh mệnh; khi bạo kích gắn 1 tầng [Chú sát - Vật động] lên kẻ địch, mỗi tầng khiến kẻ địch trong 1 hiệp không thể dùng kỹ năng; khi một đòn tấn công ít nhất gây 50% sinh mệnh kẻ địch, gắn [Chú sát - Suy vong] lên kẻ địch, khiến khi kẻ địch nhận hệ [Chú sát] thì số tầng +1.",
+      "backstory": "",
+      "selectedCustomLevel": 1
+    },
+    "downloadUrl": "/api/presets/13cf7372-252d-40eb-a1ed-9225d9c15484/file"
+  }
+}

@@ -48,7 +48,7 @@
       left: 0;
       width: 100%;
       height: 300px;
-      background-image: var(--class-bg-url, url('https://raw.githack.com/abcxyzeric/hoi-lang-sang-the/main/assets/background/gui-jian.webp'));
+      background-image: var(--class-bg-url, url('https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/background/gui-jian.webp'));
       background-repeat: no-repeat;
       background-position: center top;
       background-size: 100% auto;
@@ -7939,7 +7939,7 @@
       };
 
       // ==================== Mapping ảnh nền nghề nghiệp ====================
-      const CLASS_BACKGROUND_BASE_URL = 'https://raw.githack.com/abcxyzeric/hoi-lang-sang-the/main/assets/background/';
+      const CLASS_BACKGROUND_BASE_URL = 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/background/';
       const CLASS_BACKGROUND_MAP = {
         'Quỷ kiếm sĩ (nam)': 'gui-jian.webp', 'Quỷ kiếm sĩ (nữ)': 'nu-gui-jian.webp',
         'Võ sư (nam)': 'vo-su-nam.webp', 'Võ sư (nữ)': 'vo-su-nu.webp',
@@ -10726,36 +10726,36 @@ ${CHARACTER_PROFILE_FORMAT_SAMPLE.trim()}
       // ==================== Mapping ảnh nhân vật preset ====================
       // Đồng bộ với ảnh đại diện nhân vật tích hợp trong phần làm đẹp nội dung, đồng thời giữ thêm nhân vật riêng của thanh trạng thái
       const PRESET_AVATAR_CONFIG = {
-        'Kỵ sĩ Ung': { avatar: 'https://raw.githack.com/abcxyzeric/hoi-lang-sang-the/main/assets/avatars/cover/cancer-knight.webp', aliases: ['\u764c\u9a91\u58eb', 'Kỵ sĩ Ung', 'Ung'] },
-        'Yato': { avatar: 'https://raw.githack.com/abcxyzeric/hoi-lang-sang-the/main/assets/avatars/cover/yato.webp', aliases: ['\u591c\u6597', 'Yato'] },
-        'Pháp Lộ Đặc': { avatar: 'https://raw.githack.com/abcxyzeric/hoi-lang-sang-the/main/assets/avatars/head/phap-lo-dac.webp', aliases: ['\u6cd5\u9732\u7279', 'Pháp Lộ Đặc'] },
-        'Tinh Cực': { avatar: 'https://raw.githack.com/abcxyzeric/hoi-lang-sang-the/main/assets/avatars/head/tinh-cuc.webp', aliases: ['\u661f\u6781', 'Tinh Cực'] },
-        'Nại Nhã Lệ': { avatar: 'https://raw.githack.com/abcxyzeric/hoi-lang-sang-the/main/assets/avatars/head/nai-nha-le.webp', aliases: ['\u5948\u96c5\u4e3d', 'Nại Nhã Lệ'] },
-        'Aiklisia': { avatar: 'https://raw.githack.com/abcxyzeric/hoi-lang-sang-the/main/assets/avatars/head/aiklisia.webp', aliases: ['\u827e\u514b\u8389\u897f\u5a05', 'Aiklisia'] },
-        'Hồng Liên': { avatar: 'https://raw.githack.com/abcxyzeric/hoi-lang-sang-the/main/assets/avatars/head/hong-lien.webp', aliases: ['\u7ea2\u83b2', 'Hồng Liên'] },
-        'Tetto': { avatar: 'https://raw.githack.com/abcxyzeric/hoi-lang-sang-the/main/assets/avatars/head/tetto.webp', aliases: ['\u7279\u56fe', 'Tetto'] },
-        'Điển Ngục Trưởng': { avatar: 'https://raw.githack.com/abcxyzeric/hoi-lang-sang-the/main/assets/avatars/head/dien-nguc-truong.webp', aliases: ['\u5178\u72f1\u957f', 'Điển Ngục Trưởng'] },
-        'Hatsuse Izuna': { avatar: 'https://raw.githack.com/abcxyzeric/hoi-lang-sang-the/main/assets/avatars/head/hatsuse-izuna.webp', aliases: ['\u521d\u6fd1\u4f0a\u7eb2', '\u4f0a\u7eb2', 'Hatsuse Izuna', 'Izuna'] },
-        'Shiro': { avatar: 'https://raw.githack.com/abcxyzeric/hoi-lang-sang-the/main/assets/avatars/head/shiro.webp', aliases: ['\u767d', 'Shiro'] },
-        'Stephanie': { avatar: 'https://raw.githack.com/abcxyzeric/hoi-lang-sang-the/main/assets/avatars/head/stephanie.webp', aliases: ['\u53f2\u8482\u82ac\u59ae', 'Stephanie'] },
-        'Jibril': { avatar: 'https://raw.githack.com/abcxyzeric/hoi-lang-sang-the/main/assets/avatars/head/jibril.webp', aliases: ['\u5409\u666e\u8389\u5c14', 'Jibril'] },
-        'Feel': { avatar: 'https://raw.githack.com/abcxyzeric/hoi-lang-sang-the/main/assets/avatars/head/feel.webp', aliases: ['\u83f2\u5c14', 'Feel'] },
-        'Kurami': { avatar: 'https://raw.githack.com/abcxyzeric/hoi-lang-sang-the/main/assets/avatars/head/kurami.webp', aliases: ['\u514b\u62c9\u7c73', 'Kurami'] },
-        'Hiiro': { avatar: 'https://raw.githack.com/abcxyzeric/hoi-lang-sang-the/main/assets/avatars/head/hiiro.webp', aliases: ['\u7eef', 'Hiiro'] },
-        'Orchis': { avatar: 'https://raw.githack.com/abcxyzeric/hoi-lang-sang-the/main/assets/avatars/head/orchis.webp', aliases: ['\u5965\u5951\u4e1d', 'Orchis'] },
-        'Ruruka': { avatar: 'https://raw.githack.com/abcxyzeric/hoi-lang-sang-the/main/assets/avatars/head/ruruka.webp', aliases: ['\u9732\u9732\u5361', 'Ruruka'] },
-        'Asuna': { avatar: 'https://raw.githack.com/abcxyzeric/hoi-lang-sang-the/main/assets/avatars/head/asuna.webp', aliases: ['\u4e9a\u4e1d\u5a1c', 'Asuna'] },
-        'Yuuki': { avatar: 'https://raw.githack.com/abcxyzeric/hoi-lang-sang-the/main/assets/avatars/head/yuuki.webp', aliases: ['\u4f18\u7eaa', 'Yuuki'] },
-        'Kiriko': { avatar: 'https://raw.githack.com/abcxyzeric/hoi-lang-sang-the/main/assets/avatars/head/kiriko.webp', aliases: ['\u6850\u5b50', 'Kiriko'] },
-        'Mito': { avatar: 'https://raw.githack.com/abcxyzeric/hoi-lang-sang-the/main/assets/avatars/head/mito.webp', aliases: ['\u7c73\u7279', 'Mito'] },
-        'Leafa': { avatar: 'https://raw.githack.com/abcxyzeric/hoi-lang-sang-the/main/assets/avatars/head/leafa.webp', aliases: ['\u8389\u6cd5', 'Leafa'] },
-        'Silica': { avatar: 'https://raw.githack.com/abcxyzeric/hoi-lang-sang-the/main/assets/avatars/head/silica.webp', aliases: ['\u897f\u8389\u5361', 'Silica'] },
-        'Sinon': { avatar: 'https://raw.githack.com/abcxyzeric/hoi-lang-sang-the/main/assets/avatars/head/sinon.webp', aliases: ['\u8bd7\u4e43', 'Sinon'] },
-        'Argo': { avatar: 'https://raw.githack.com/abcxyzeric/hoi-lang-sang-the/main/assets/avatars/head/argo.webp', aliases: ['\u963f\u5c14\u6208', 'Argo'] },
-        'Roman': { avatar: 'https://raw.githack.com/abcxyzeric/hoi-lang-sang-the/main/assets/avatars/head/roman.webp', aliases: ['\u7f57\u66fc', 'Roman'] },
-        'Freya': { avatar: 'https://raw.githack.com/abcxyzeric/hoi-lang-sang-the/main/assets/avatars/head/freya.webp', aliases: ['\u8299\u857e\u96c5', 'Freya'] },
-        'Katisia': { avatar: 'https://raw.githack.com/abcxyzeric/hoi-lang-sang-the/main/assets/avatars/head/katisia.webp', aliases: ['\u5361\u63d0\u5e0c\u5a05', 'Katisia'] },
-        'Amis': { avatar: 'https://raw.githack.com/abcxyzeric/hoi-lang-sang-the/main/assets/avatars/head/amis.webp', aliases: ['\u7231\u5f25\u65af', 'Amis'] }
+        'Kỵ sĩ Ung': { avatar: 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/cover/cancer-knight.webp', aliases: ['\u764c\u9a91\u58eb', 'Kỵ sĩ Ung', 'Ung'] },
+        'Yato': { avatar: 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/cover/yato.webp', aliases: ['\u591c\u6597', 'Yato'] },
+        'Forte': { avatar: 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/phap-lo-dac.webp', aliases: ['\u6cd5\u9732\u7279', 'Forte'] },
+        'Astesia': { avatar: 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/tinh-cuc.webp', aliases: ['\u661f\u6781', 'Astesia'] },
+        'Naiyali': { avatar: 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/nai-nha-le.webp', aliases: ['\u5948\u96c5\u4e3d', 'Naiyali'] },
+        'Ecclesia': { avatar: 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/aiklisia.webp', aliases: ['\u827e\u514b\u8389\u897f\u5a05', 'Ecclesia'] },
+        'Scarlet': { avatar: 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/hong-lien.webp', aliases: ['\u7ea2\u83b2', 'Scarlet'] },
+        'Tetto': { avatar: 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/tetto.webp', aliases: ['\u7279\u56fe', 'Tetto'] },
+        'Điển Ngục Trưởng': { avatar: 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/dien-nguc-truong.webp', aliases: ['\u5178\u72f1\u957f', 'Điển Ngục Trưởng'] },
+        'Hatsuse Izuna': { avatar: 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/hatsuse-izuna.webp', aliases: ['\u521d\u6fd1\u4f0a\u7eb2', '\u4f0a\u7eb2', 'Hatsuse Izuna', 'Izuna'] },
+        'Shiro': { avatar: 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/shiro.webp', aliases: ['\u767d', 'Shiro'] },
+        'Stephanie': { avatar: 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/stephanie.webp', aliases: ['\u53f2\u8482\u82ac\u59ae', 'Stephanie'] },
+        'Jibril': { avatar: 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/jibril.webp', aliases: ['\u5409\u666e\u8389\u5c14', 'Jibril'] },
+        'Feel': { avatar: 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/feel.webp', aliases: ['\u83f2\u5c14', 'Feel'] },
+        'Kurami': { avatar: 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/kurami.webp', aliases: ['\u514b\u62c9\u7c73', 'Kurami'] },
+        'Hiiro': { avatar: 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/hiiro.webp', aliases: ['\u7eef', 'Hiiro'] },
+        'Orchis': { avatar: 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/orchis.webp', aliases: ['\u5965\u5951\u4e1d', 'Orchis'] },
+        'Ruruka': { avatar: 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/ruruka.webp', aliases: ['\u9732\u9732\u5361', 'Ruruka'] },
+        'Asuna': { avatar: 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/asuna.webp', aliases: ['\u4e9a\u4e1d\u5a1c', 'Asuna'] },
+        'Yuuki': { avatar: 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/yuuki.webp', aliases: ['\u4f18\u7eaa', 'Yuuki'] },
+        'Kiriko': { avatar: 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/kiriko.webp', aliases: ['\u6850\u5b50', 'Kiriko'] },
+        'Mito': { avatar: 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/mito.webp', aliases: ['\u7c73\u7279', 'Mito'] },
+        'Leafa': { avatar: 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/leafa.webp', aliases: ['\u8389\u6cd5', 'Leafa'] },
+        'Silica': { avatar: 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/silica.webp', aliases: ['\u897f\u8389\u5361', 'Silica'] },
+        'Sinon': { avatar: 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/sinon.webp', aliases: ['\u8bd7\u4e43', 'Sinon'] },
+        'Argo': { avatar: 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/argo.webp', aliases: ['\u963f\u5c14\u6208', 'Argo'] },
+        'Roman': { avatar: 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/roman.webp', aliases: ['\u7f57\u66fc', 'Roman'] },
+        'Freya': { avatar: 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/freya.webp', aliases: ['\u8299\u857e\u96c5', 'Freya'] },
+        'Cartethyia': { avatar: 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/katisia.webp', aliases: ['\u5361\u63d0\u5e0c\u5a05', 'Cartethyia'] },
+        'Aemeath': { avatar: 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/amis.webp', aliases: ['\u7231\u5f25\u65af', 'Aemeath'] }
       };
 
       const normalizePresetAvatarName = (raw) => {
@@ -10792,8 +10792,8 @@ ${CHARACTER_PROFILE_FORMAT_SAMPLE.trim()}
       };
 
       // ==================== Hàm render ====================
-      const amberMapDebugUrl = 'https://raw.githack.com/abcxyzeric/hoi-lang-sang-the/main/amber_sword_worldmap.html';
-      const jiuzhouMapDebugUrl = 'https://raw.githack.com/abcxyzeric/hoi-lang-sang-the/main/dist/V20260604/jiuzhou_map_v1_5.html';
+      const amberMapDebugUrl = 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/amber_sword_worldmap.html';
+      const jiuzhouMapDebugUrl = 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/dist/V20260604/jiuzhou_map_v1_5.html';
       let _amberMapEmbedSrcdoc = '';
       let _amberMapHydratedUrl = '';
       let _amberMapHydratingUrl = '';
@@ -11032,7 +11032,7 @@ ${CHARACTER_PROFILE_FORMAT_SAMPLE.trim()}
         if (isJiuzhouWorldviewLabel(worldview)) {
           return jiuzhouMapDebugUrl;
         }
-        return 'https://raw.githack.com/abcxyzeric/hoi-lang-sang-the/main/map.html';
+        return 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/map.html';
       };
 
       const renderStatusBar = (data) => {

@@ -1,0 +1,43 @@
+{
+  "ok": true,
+  "preset": {
+    "id": "5580293c-b899-45dd-a897-f59cf5825b0f",
+    "ownerId": "1359384220946141275",
+    "ownerName": "Lunafreya",
+    "author": "Lunafreya",
+    "authorAvatar": "https://cdn.discordapp.com/avatars/1359384220946141275/7d560198a0ee022f5d7bf665bd12503a.png?size=128",
+    "name": "Dark Souls 3 STR/FTH Knight",
+    "title": "Dark Souls 3 STR/FTH Knight",
+    "intro": "Ôi chà, Sunlight Spear ngầu quá đúng không? Một kỵ sĩ nhỏ build STR/FTH của Dark Souls 3, lối chơi chính là ném các kỳ tích như Lightning Spear, Sunlight Spear, Lightning Arrow; chém người cũng được. Tôi đã thêm kỹ năng parry bằng khiên, cả chiêu cực ngầu kiểu combo năm nhát của Soul of Cinder, cơ động cũng ổn; những thứ khá đẹp như Dragonslayer Greatbow và Soul of Cinder cũng đều được thêm. Tạm thời vậy đã, chưa test nhiều nên xin lỗi, đây thuần túy là sản phẩm của một cơn lên não.",
+    "coverUrl": "/api/presets/5580293c-b899-45dd-a897-f59cf5825b0f/cover",
+    "className": "Kỵ sĩ tro STR/FTH",
+    "race": "Nhân loại chủng · Tro tàn vô hỏa",
+    "tags": [
+      "Bộc phát",
+      "Duy trì",
+      "Dọn quái",
+      "Tấu hài cơ chế",
+      "Sinh tồn"
+    ],
+    "likes": 0,
+    "liked": false,
+    "downloads": 12,
+    "status": "published",
+    "createdAt": "2026-06-05 11:52:13",
+    "updatedAt": "2026-06-09 00:51:32",
+    "lastLikedAt": "",
+    "presetData": {
+      "name": "Erich Wagenknecht",
+      "class": "Kỵ sĩ tro STR/FTH",
+      "customClassName": "Kỵ sĩ tro STR/FTH",
+      "race": "__custom__",
+      "customRace": {
+        "name": "Nhân loại chủng · Tro tàn vô hỏa"
+      },
+      "customClassStyle": "Từng là một kỵ sĩ ở Lothric đi theo Nameless King, vì giữ vững lòng trung thành mà cam nguyện thiêu đốt bản thân; nay lại tỉnh dậy và trôi dạt qua vô số dị thế với tư cách 'tro tàn vô hỏa'. Lớp vỏ này vẫn giữ chấp niệm với ngọn lửa và bản năng kỵ sĩ muốn tìm một kết cục thể diện. Phong cách chiến đấu cứng rắn, dữ dội, là chiến binh STR/FTH dung hợp hoàn hảo nhát chém vật lý nặng nề với kỳ tích sấm sét. Giỏi dùng vũ khí nặng phối hợp parry khiên để xé trận địch, dùng Lightning Spear gắn dấu nhiễm điện, cuối cùng kích nổ sức mạnh thần phạt hủy diệt.",
+      "backstory": "",
+      "selectedCustomLevel": 1
+    },
+    "downloadUrl": "/api/presets/5580293c-b899-45dd-a897-f59cf5825b0f/file"
+  }
+}

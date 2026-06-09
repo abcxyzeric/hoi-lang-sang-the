@@ -1,0 +1,40 @@
+{
+  "ok": true,
+  "preset": {
+    "id": "66c74546-3d43-4925-a126-b9a855827638",
+    "ownerId": "1463730573871808605",
+    "ownerName": "音无彩名",
+    "author": "音无彩名",
+    "authorAvatar": "https://cdn.discordapp.com/avatars/1463730573871808605/44fbe099254ed73c40df9d5ac07967d6.png?size=128",
+    "name": "Guilty Crown",
+    "title": "Guilty Crown",
+    "intro": "Thuần tự làm tự vui, có thể còn nhiều lỗ hổng và bug.\nGiai đoạn đầu không có đồng đội thì đúng nghĩa nhà tù. Không có đồng đội thì chiến đấu gần như trắng trơn. Cây kỹ năng không tốt lắm, nếu thấy khó dùng thì khuyến nghị sinh lại.",
+    "coverUrl": "/api/presets/66c74546-3d43-4925-a126-b9a855827638/cover",
+    "className": "Vua Hư Không (Crown of Void)",
+    "race": "Kẻ thích ứng Apocalypse",
+    "tags": [
+      "Phụ thuộc đồng đội",
+      "Sinh tồn"
+    ],
+    "likes": 0,
+    "liked": false,
+    "downloads": 4,
+    "status": "published",
+    "createdAt": "2026-06-04 11:08:33",
+    "updatedAt": "2026-06-09 00:06:06",
+    "lastLikedAt": "",
+    "presetData": {
+      "name": "Không tên",
+      "class": "Vua Hư Không (Crown of Void)",
+      "customClassName": "Vua Hư Không (Crown of Void)",
+      "race": "__custom__",
+      "customRace": {
+        "name": "Kẻ thích ứng Apocalypse"
+      },
+      "customClassStyle": "【Đặc sắc nghề nghiệp】: hiện thực hóa vũ trang duy tâm\n'Vua Hư Không' là một nghề cực kỳ vô lý và hoàn toàn ràng buộc với lý luận duy tâm duy thức. Nghề này triệt để vứt bỏ kiểu thợ rèn chế tạo và trang bị rơi thông thường; năng lực cốt lõi là dùng 'tay phải của vua' thọc vào lồng ngực người khác, cưỡng ép rút 'tâm linh, ký ức và lý niệm' của đối phương ra, rồi hiện thực hóa thành một món vũ trang hoặc đạo cụ có hình thái vật lý, tức 'Void'. Hình thái, phẩm chất và chỉ số của món vũ trang này hoàn toàn do tính cách và tư chất của người bị rút quyết định. Nó có thể là đại kiếm chém đứt hàng rào năng lượng, có thể là khiên vạn hoa tạo phòng ngự tuyệt đối, có thể là giày phản trọng lực, thậm chí có thể là kéo dùng để cắt đường khái niệm. Cấp bậc của Void vượt cực nhanh qua giới hạn vũ khí thông thường, vừa gặp lần đầu đã có thể bộc lộ sức phá hoại cấp thần thoại.\n\n【Cách chiến đấu】: tước đoạt, thống ngự và bản giao hưởng kho vũ khí\nĐây là một bộ phương thức chiến đấu lõi xoay quanh 'đồng đội/tù binh'. Vì 'Void' của mỗi người là duy nhất, phong cách chiến đấu của Vua Hư Không phải luôn thay đổi theo Void đang nắm giữ: rút ra kiếm thì hóa thành cuồng chiến sĩ, rút ra súng thì hóa thành xạ thủ hủy diệt.\nỞ giai đoạn đầu, bạn cần thông qua giao nhau ánh mắt và tiếp xúc để đơn thể rút Void của đồng bạn rồi sát cánh chiến đấu; tới trung hậu kỳ, phương thức chiến đấu sẽ biến chất: bạn không còn cần rút đơn thể, mà thông qua 'King's Mark' đồng thời rút Void của nhiều mục tiêu, tay trái cầm khiên, tay phải vung kiếm, lưng mang cánh bay, thậm chí cưỡng ép 'lắp ghép hợp thành' nhiều Void vốn không liên quan, sáng tạo cụm vũ trang cấp tai họa đủ để quét sạch cả chiến trường. Đội ngũ của bạn càng đông, kho vũ khí của bạn càng sâu không lường được.",
+      "backstory": "",
+      "selectedCustomLevel": 1
+    },
+    "downloadUrl": "/api/presets/66c74546-3d43-4925-a126-b9a855827638/file"
+  }
+}

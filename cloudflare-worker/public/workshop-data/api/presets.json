@@ -49,7 +49,7 @@
       "authorAvatar": "https://cdn.discordapp.com/avatars/960788675661279233/ca1fe8aea343657f63d1bd9d2cffc2c2.png?size=128",
       "name": "【Chấp Vọng】",
       "title": "【Chấp Vọng】",
-      "intro": "Họ tên: Kujo Yukari (くじょう ゆかり / Kujo Yukari)\nTuổi: 17\nChiều cao: 162cm\nCân nặng: 48kg\nSinh nhật: 1 tháng 11 (cung Bọ Cạp)\nNhóm máu: AB\n\n--\nNhãn: JK, yandere ngầm.\n\n3.28",
+      "intro": "Họ tên: Kujo Yukari (romaji: Kujo Yukari)\nTuổi: 17\nChiều cao: 162cm\nCân nặng: 48kg\nSinh nhật: 1 tháng 11 (cung Bọ Cạp)\nNhóm máu: AB\n\n--\nNhãn: JK, yandere ngầm.\n\n3.28",
       "coverUrl": "/api/presets/04625cb7-1291-415a-9621-a58aa0255236/cover",
       "className": "Vọng Chấp",
       "race": "Nhân loại",
@@ -7874,6 +7874,409 @@
         "selectedCustomLevel": null
       },
       "downloadUrl": "/api/presets/ffb843a5-7808-4fae-806c-180f3d1b11eb/file"
+    },
+    {
+      "id": "e873cfd1-2880-45ad-a47e-4fa6a82a9f4d",
+      "ownerId": "1457345169752854550",
+      "ownerName": "tjnssxxy",
+      "author": "tjnssxxy",
+      "authorAvatar": "https://cdn.discordapp.com/avatars/1457345169752854550/9607a695e7f4967af79c6a389a7c48da.png?size=128",
+      "name": "Hóa thân hình chiếu · Singularity",
+      "title": "Hóa thân hình chiếu · Singularity",
+      "intro": "Người mới tự chế để tự vui, có thể còn rất nhiều lỗ hổng và bug.\nViết tham chiếu theo thiết lập Godzilla Singular Point, cường độ khá vượt chuẩn; nếu thấy chơi không nổi thì bạn có thể tự sửa thiết lập. Thật ra so với nguyên tác thì đã viết khá bảo thủ rồi.",
+      "coverUrl": "/api/presets/e873cfd1-2880-45ad-a47e-4fa6a82a9f4d/cover",
+      "className": "Quan trắc giả Singularity",
+      "race": "Singularity phái sinh · chủng quái thú hư không",
+      "tags": [
+        "Cấp phông nền",
+        "Vượt chuẩn",
+        "Triệu hồi",
+        "Phản chế nhân quả",
+        "Bộc phát"
+      ],
+      "likes": 0,
+      "liked": false,
+      "downloads": 8,
+      "status": "published",
+      "createdAt": "2026-06-05 09:21:38",
+      "updatedAt": "2026-06-09 01:13:05",
+      "lastLikedAt": "",
+      "presetData": {
+        "name": "Aisun",
+        "class": "Quan trắc giả Singularity",
+        "customClassName": "Quan trắc giả Singularity",
+        "race": "__custom__",
+        "customRace": {
+          "name": "Singularity phái sinh · chủng quái thú hư không"
+        },
+        "customClassStyle": "Điều khiển nhân quả và thời không, dùng Hồng Trần làm môi giới để đánh hạ chiều",
+        "backstory": "Một hình chiếu bậc cao đến từ vũ trụ siêu Turing, là chút sức mạnh rất nhỏ mà chủ Singularity 『Godzilla』 thả xuống để đặt chân vào vũ trụ vật chất. Về bản chất, cô không có khái niệm quá khứ và tương lai; Hồng Trần đã đọc tương tác vũ trụ cùng thông tin di truyền sinh vật rồi tái tạo ra nhục thân này cho cô. Cô đang mơ trong một giấc mơ vĩnh viễn không kết thúc.",
+        "selectedCustomLevel": null
+      },
+      "downloadUrl": "/api/presets/e873cfd1-2880-45ad-a47e-4fa6a82a9f4d/file"
+    },
+    {
+      "id": "5580293c-b899-45dd-a897-f59cf5825b0f",
+      "ownerId": "1359384220946141275",
+      "ownerName": "Lunafreya",
+      "author": "Lunafreya",
+      "authorAvatar": "https://cdn.discordapp.com/avatars/1359384220946141275/7d560198a0ee022f5d7bf665bd12503a.png?size=128",
+      "name": "Dark Souls 3 STR/FTH Knight",
+      "title": "Dark Souls 3 STR/FTH Knight",
+      "intro": "Ôi chà, Sunlight Spear ngầu quá đúng không? Một kỵ sĩ nhỏ build STR/FTH của Dark Souls 3, lối chơi chính là ném các kỳ tích như Lightning Spear, Sunlight Spear, Lightning Arrow; chém người cũng được. Tôi đã thêm kỹ năng parry bằng khiên, cả chiêu cực ngầu kiểu combo năm nhát của Soul of Cinder, cơ động cũng ổn; những thứ khá đẹp như Dragonslayer Greatbow và Soul of Cinder cũng đều được thêm. Tạm thời vậy đã, chưa test nhiều nên xin lỗi, đây thuần túy là sản phẩm của một cơn lên não.",
+      "coverUrl": "/api/presets/5580293c-b899-45dd-a897-f59cf5825b0f/cover",
+      "className": "Kỵ sĩ tro STR/FTH",
+      "race": "Nhân loại chủng · Tro tàn vô hỏa",
+      "tags": [
+        "Bộc phát",
+        "Duy trì",
+        "Dọn quái",
+        "Tấu hài cơ chế",
+        "Sinh tồn"
+      ],
+      "likes": 0,
+      "liked": false,
+      "downloads": 12,
+      "status": "published",
+      "createdAt": "2026-06-05 11:52:13",
+      "updatedAt": "2026-06-09 00:51:32",
+      "lastLikedAt": "",
+      "presetData": {
+        "name": "Erich Wagenknecht",
+        "class": "Kỵ sĩ tro STR/FTH",
+        "customClassName": "Kỵ sĩ tro STR/FTH",
+        "race": "__custom__",
+        "customRace": {
+          "name": "Nhân loại chủng · Tro tàn vô hỏa"
+        },
+        "customClassStyle": "Từng là một kỵ sĩ ở Lothric đi theo Nameless King, vì giữ vững lòng trung thành mà cam nguyện thiêu đốt bản thân; nay lại tỉnh dậy và trôi dạt qua vô số dị thế với tư cách 'tro tàn vô hỏa'. Lớp vỏ này vẫn giữ chấp niệm với ngọn lửa và bản năng kỵ sĩ muốn tìm một kết cục thể diện. Phong cách chiến đấu cứng rắn, dữ dội, là chiến binh STR/FTH dung hợp hoàn hảo nhát chém vật lý nặng nề với kỳ tích sấm sét. Giỏi dùng vũ khí nặng phối hợp parry khiên để xé trận địch, dùng Lightning Spear gắn dấu nhiễm điện, cuối cùng kích nổ sức mạnh thần phạt hủy diệt.",
+        "backstory": "",
+        "selectedCustomLevel": 1
+      },
+      "downloadUrl": "/api/presets/5580293c-b899-45dd-a897-f59cf5825b0f/file"
+    },
+    {
+      "id": "66c74546-3d43-4925-a126-b9a855827638",
+      "ownerId": "1463730573871808605",
+      "ownerName": "音无彩名",
+      "author": "音无彩名",
+      "authorAvatar": "https://cdn.discordapp.com/avatars/1463730573871808605/44fbe099254ed73c40df9d5ac07967d6.png?size=128",
+      "name": "Guilty Crown",
+      "title": "Guilty Crown",
+      "intro": "Thuần tự làm tự vui, có thể còn nhiều lỗ hổng và bug.\nGiai đoạn đầu không có đồng đội thì đúng nghĩa nhà tù. Không có đồng đội thì chiến đấu gần như trắng trơn. Cây kỹ năng không tốt lắm, nếu thấy khó dùng thì khuyến nghị sinh lại.",
+      "coverUrl": "/api/presets/66c74546-3d43-4925-a126-b9a855827638/cover",
+      "className": "Vua Hư Không (Crown of Void)",
+      "race": "Kẻ thích ứng Apocalypse",
+      "tags": [
+        "Phụ thuộc đồng đội",
+        "Sinh tồn"
+      ],
+      "likes": 0,
+      "liked": false,
+      "downloads": 4,
+      "status": "published",
+      "createdAt": "2026-06-04 11:08:33",
+      "updatedAt": "2026-06-09 00:06:06",
+      "lastLikedAt": "",
+      "presetData": {
+        "name": "Không tên",
+        "class": "Vua Hư Không (Crown of Void)",
+        "customClassName": "Vua Hư Không (Crown of Void)",
+        "race": "__custom__",
+        "customRace": {
+          "name": "Kẻ thích ứng Apocalypse"
+        },
+        "customClassStyle": "【Đặc sắc nghề nghiệp】: hiện thực hóa vũ trang duy tâm\n'Vua Hư Không' là một nghề cực kỳ vô lý và hoàn toàn ràng buộc với lý luận duy tâm duy thức. Nghề này triệt để vứt bỏ kiểu thợ rèn chế tạo và trang bị rơi thông thường; năng lực cốt lõi là dùng 'tay phải của vua' thọc vào lồng ngực người khác, cưỡng ép rút 'tâm linh, ký ức và lý niệm' của đối phương ra, rồi hiện thực hóa thành một món vũ trang hoặc đạo cụ có hình thái vật lý, tức 'Void'. Hình thái, phẩm chất và chỉ số của món vũ trang này hoàn toàn do tính cách và tư chất của người bị rút quyết định. Nó có thể là đại kiếm chém đứt hàng rào năng lượng, có thể là khiên vạn hoa tạo phòng ngự tuyệt đối, có thể là giày phản trọng lực, thậm chí có thể là kéo dùng để cắt đường khái niệm. Cấp bậc của Void vượt cực nhanh qua giới hạn vũ khí thông thường, vừa gặp lần đầu đã có thể bộc lộ sức phá hoại cấp thần thoại.\n\n【Cách chiến đấu】: tước đoạt, thống ngự và bản giao hưởng kho vũ khí\nĐây là một bộ phương thức chiến đấu lõi xoay quanh 'đồng đội/tù binh'. Vì 'Void' của mỗi người là duy nhất, phong cách chiến đấu của Vua Hư Không phải luôn thay đổi theo Void đang nắm giữ: rút ra kiếm thì hóa thành cuồng chiến sĩ, rút ra súng thì hóa thành xạ thủ hủy diệt.\nỞ giai đoạn đầu, bạn cần thông qua giao nhau ánh mắt và tiếp xúc để đơn thể rút Void của đồng bạn rồi sát cánh chiến đấu; tới trung hậu kỳ, phương thức chiến đấu sẽ biến chất: bạn không còn cần rút đơn thể, mà thông qua 'King's Mark' đồng thời rút Void của nhiều mục tiêu, tay trái cầm khiên, tay phải vung kiếm, lưng mang cánh bay, thậm chí cưỡng ép 'lắp ghép hợp thành' nhiều Void vốn không liên quan, sáng tạo cụm vũ trang cấp tai họa đủ để quét sạch cả chiến trường. Đội ngũ của bạn càng đông, kho vũ khí của bạn càng sâu không lường được.",
+        "backstory": "",
+        "selectedCustomLevel": 1
+      },
+      "downloadUrl": "/api/presets/66c74546-3d43-4925-a126-b9a855827638/file"
+    },
+    {
+      "id": "323ae415-05a6-4660-a4a1-62786b03eca5",
+      "ownerId": "1343965205813792871",
+      "ownerName": "九幽墨",
+      "author": "九幽墨",
+      "authorAvatar": "https://cdn.discordapp.com/avatars/1343965205813792871/29385ee18640cf381dea376b3489dac8.png?size=128",
+      "name": "Serenity",
+      "title": "Serenity",
+      "intro": "Tham khảo Tsukino Usagi trong Sailor Moon, hình thái công chúa ánh trăng.",
+      "coverUrl": "/api/presets/323ae415-05a6-4660-a4a1-62786b03eca5/cover",
+      "className": "Công chúa Mặt Trăng / Người bảo hộ Pha lê Bạc",
+      "race": "Dòng tộc Silver Millennium",
+      "tags": [],
+      "likes": 1,
+      "liked": false,
+      "downloads": 2,
+      "status": "published",
+      "createdAt": "2026-06-07 10:36:12",
+      "updatedAt": "2026-06-08 05:08:44",
+      "lastLikedAt": "",
+      "presetData": {
+        "name": "Serenity",
+        "class": "Công chúa Mặt Trăng / Người bảo hộ Pha lê Bạc",
+        "customClassName": "Công chúa Mặt Trăng / Người bảo hộ Pha lê Bạc",
+        "race": "__custom__",
+        "customRace": {
+          "name": "Dòng tộc Silver Millennium"
+        },
+        "customClassStyle": "",
+        "backstory": "",
+        "selectedCustomLevel": null
+      },
+      "downloadUrl": "/api/presets/323ae415-05a6-4660-a4a1-62786b03eca5/file"
+    },
+    {
+      "id": "db32f163-d727-4d88-98dd-3acfcd6cb561",
+      "ownerId": "999952972144443435",
+      "ownerName": "WangFeng",
+      "author": "WangFeng",
+      "authorAvatar": "https://cdn.discordapp.com/avatars/999952972144443435/52d42dc07cec6d83ca18a4469b7ffa97.png?size=128",
+      "name": "Sanitäter!",
+      "title": "Sanitäter!",
+      "intro": "Nhập vai một linh hồn xuyên qua, hoặc nói đúng hơn là đầu thai thành quân y đế quốc trong thế giới Battlefield 1, dẫn Mango Squad của bạn mở ra danh tiếng mới ở dị thế giới!\nẢnh bìa đến từ họa sĩ NEKO♨ BFG5, nếu vi phạm quyền sẽ xóa. Khuyến nghị tới khu nhân vật để lấy thiết lập Sanitäter và đặt vào thiết lập user, đồng thời tải và lấy các thành viên tiểu đội của cô: một lính xung kích, Munition và Scharfschütze, cùng một phi công.",
+      "coverUrl": "/api/presets/db32f163-d727-4d88-98dd-3acfcd6cb561/cover",
+      "className": "Quân y Đức",
+      "race": "Nhân loại",
+      "tags": [
+        "Sinh tồn",
+        "Triệu hồi",
+        "Đơn mục tiêu",
+        "Duy trì"
+      ],
+      "likes": 2,
+      "liked": false,
+      "downloads": 6,
+      "status": "published",
+      "createdAt": "2026-05-29 13:49:00",
+      "updatedAt": "2026-06-07 20:56:43",
+      "lastLikedAt": "",
+      "presetData": {
+        "name": "Sanitäter",
+        "class": "Quân y Đức",
+        "customClassName": "Quân y Đức",
+        "race": "Nhân loại",
+        "customRace": null,
+        "customClassStyle": "Quân y Đức trong Thế chiến I đến từ thế giới quan Battlefield 1, giỏi hỗ trợ đồng đội và tham gia chiến đấu.",
+        "backstory": "",
+        "selectedCustomLevel": 1
+      },
+      "downloadUrl": "/api/presets/db32f163-d727-4d88-98dd-3acfcd6cb561/file"
+    },
+    {
+      "id": "8e4168a6-a2f0-4b1a-8a4e-0c29712149cb",
+      "ownerId": "1271574516115439686",
+      "ownerName": "库罗库拉",
+      "author": "库罗库拉",
+      "authorAvatar": "https://cdn.discordapp.com/avatars/1271574516115439686/024230e62639ee437b2653b5ea7b3443.png?size=128",
+      "name": "Shin Megami Tensei V: Vengeance - Nahobino",
+      "title": "Shin Megami Tensei V: Vengeance - Nahobino",
+      "intro": "Nahobino trở về tư thái thần minh cổ xưa và có tư cách tái sáng thế. Bản thân hiệu năng đã toàn năng cả hỗ trợ lẫn sát thương, lại còn tinh thông nhiều hành động + né tránh. Rạp hát Nahobino tới rồi.jpg",
+      "coverUrl": "/api/presets/8e4168a6-a2f0-4b1a-8a4e-0c29712149cb/cover",
+      "className": "Nahobino",
+      "race": "Thần hợp nhất",
+      "tags": [
+        "Né tránh",
+        "Nhiều hành động",
+        "Bộc phát",
+        "Toàn năng"
+      ],
+      "likes": 2,
+      "liked": false,
+      "downloads": 11,
+      "status": "published",
+      "createdAt": "2026-06-04 20:17:14",
+      "updatedAt": "2026-06-07 15:28:47",
+      "lastLikedAt": "",
+      "presetData": {
+        "name": "Nahobino",
+        "class": "Nahobino",
+        "customClassName": "Nahobino",
+        "race": "__custom__",
+        "customRace": {
+          "name": "Thần hợp nhất"
+        },
+        "customClassStyle": "Sự kết hợp giữa thần và người, Nahobino là thần minh chân chính trở về tư thái cổ xưa; bất kể tiến công hay hỗ trợ đều không thành vấn đề, sở hữu lợi ích né tránh mạnh mẽ, hơn nữa còn có kỹ năng Magatsuhi phá cách.",
+        "backstory": "",
+        "selectedCustomLevel": null
+      },
+      "downloadUrl": "/api/presets/8e4168a6-a2f0-4b1a-8a4e-0c29712149cb/file"
+    },
+    {
+      "id": "13cf7372-252d-40eb-a1ed-9225d9c15484",
+      "ownerId": "1398903169483931780",
+      "ownerName": "xxxxzzccwc",
+      "author": "xxxxzzccwc",
+      "authorAvatar": "https://cdn.discordapp.com/avatars/1398903169483931780/a0b0ec9462f15fd17508ebd277d079ac.png?size=128",
+      "name": "Hắc Thú Mão Khôi Thủ - Faust",
+      "title": "Hắc Thú Mão Khôi Thủ - Faust",
+      "intro": "Build lấy phá vỡ và sát thương chân thật làm chủ đạo (còn nghi), kỹ năng tự tay làm, đang test.",
+      "coverUrl": "/api/presets/13cf7372-252d-40eb-a1ed-9225d9c15484/cover",
+      "className": "Hắc Thú - Mão Khôi Thủ",
+      "race": "Hắc Thú Mão",
+      "tags": [
+        "Đơn mục tiêu",
+        "debuff",
+        "Phá liệt"
+      ],
+      "likes": 2,
+      "liked": false,
+      "downloads": 18,
+      "status": "published",
+      "createdAt": "2026-05-28 05:18:34",
+      "updatedAt": "2026-06-07 08:52:24",
+      "lastLikedAt": "",
+      "presetData": {
+        "name": "Faust",
+        "class": "Hắc Thú - Mão Khôi Thủ",
+        "customClassName": "Hắc Thú - Mão Khôi Thủ",
+        "race": "__custom__",
+        "customRace": {
+          "name": "Hắc Thú Mão"
+        },
+        "customClassStyle": "Bản vẽ: Đấu lạp Dệt Bóng (đặc biệt - thần khí); Nhanh nhẹn +1, Cảm nhận +1, Cơ bản +1; [Ảnh hóa] kiểm định trúng của kẻ địch -1; [Kiềm chế] khi kích hoạt Phá liệt, gắn 1 tầng [Chú sát - Kiềm chế] lên kẻ địch, mỗi tầng khiến sát thương kẻ địch gây ra giảm 10%. Bản vẽ: Khảm Lưu Ly Chữ Sơn (vòng tay - truyền thuyết); Nhanh nhẹn +2, toàn kỹ năng +1; [Chú sát minh khắc] khi trúng gắn 1 tầng [Chú sát - Suy yếu] lên kẻ địch, mỗi tầng khiến mọi kháng tính của kẻ địch -10%; khi né tránh gắn 1 tầng [Chú sát - Kịch độc] lên kẻ địch, mỗi tầng khiến kẻ địch trước khi tấn công tổn thất [số tầng*10]% sinh mệnh; khi bạo kích gắn 1 tầng [Chú sát - Vật động] lên kẻ địch, mỗi tầng khiến kẻ địch trong 1 hiệp không thể dùng kỹ năng; khi một đòn tấn công ít nhất gây 50% sinh mệnh kẻ địch, gắn [Chú sát - Suy vong] lên kẻ địch, khiến khi kẻ địch nhận hệ [Chú sát] thì số tầng +1.",
+        "backstory": "",
+        "selectedCustomLevel": 1
+      },
+      "downloadUrl": "/api/presets/13cf7372-252d-40eb-a1ed-9225d9c15484/file"
+    },
+    {
+      "id": "d0fdbe13-d66e-426b-9b7a-1cdc56aed248",
+      "ownerId": "1497529714363863162",
+      "ownerName": "Flint",
+      "author": "Flint",
+      "authorAvatar": "",
+      "name": "Corvo Attano",
+      "title": "Corvo Attano",
+      "intro": "Lấy Corvo Attano trong Dishonored làm nguyên mẫu; thuần túy dùng AI tham khảo preset của người khác, tự nghiên cứu thế giới quan card nhân vật và thế giới quan Dishonored để viết. Bản thân tôi còn chưa chơi, không bảo đảm chất lượng.",
+      "coverUrl": "/api/presets/d0fdbe13-d66e-426b-9b7a-1cdc56aed248/cover",
+      "className": "Royal Assassin",
+      "race": "Nhân loại",
+      "tags": [],
+      "likes": 0,
+      "liked": false,
+      "downloads": 0,
+      "status": "published",
+      "createdAt": "2026-06-06 18:04:25",
+      "updatedAt": "2026-06-06 18:04:25",
+      "lastLikedAt": "",
+      "presetData": {
+        "name": "Corvo Attano",
+        "class": "Royal Assassin",
+        "customClassName": "Royal Assassin",
+        "race": "__custom__",
+        "customRace": {
+          "name": "Nhân loại"
+        },
+        "customClassStyle": "Sát thủ được The Outsider lựa chọn, kiêm cả năng lực siêu nhiên lẫn võ kỹ đỉnh cao.\n\nHệ thống ma lực: dùng 'ma lực' để điều khiển kỹ năng siêu nhiên; ma lực có thể chậm rãi hồi phục theo thời gian, dùng Piero's Spiritual Remedy có thể nhanh chóng hồi đầy.\n\nBậc thầy tiềm hành cực hạn: bẩm sinh giỏi lẻn vào không tiếng động, có thể ra vào vô tung trong pháo đài trọng binh canh giữ. Ra tay từ bóng tối, chớp mắt giết chết, rồi lại biến mất vào âm ảnh: không ai có thể nhận ra sự tồn tại của ông.\n\nChiến binh đa diện: tinh thông cận chiến bằng kiếm gấp, bắn súng lục và bắn tỉa bằng nỏ chữ thập, có thể tự do chuyển đổi giữa đột kích bạo lực và tiềm hành như ma tùy theo chiến huống.\n\nSức mạnh siêu nhiên: ấn ký The Outsider trao cho ông năng lực trái với pháp tắc vật lý: dịch chuyển tức thời, đóng băng thời gian, nhập vào sinh vật, triệu hồi bầy chuột, phóng thích bão tố, khiến ông trở thành tử thần bóng tối gần như không thể ngăn cản.",
+        "backstory": "Corvo Attano, sát thủ đến từ dị giới. Ông sinh tại Karnaca, thành phố cảng phía nam lục địa Serkonos, một quốc gia vốn không tồn tại trong vùng trời đất này. Ông từng là hộ vệ trưởng của nữ hoàng, xuất thân từ Đại Cận Vệ Quân Serkonos; trong một cuộc chính biến được mưu tính kỹ càng, ông bị vu cáo thí quân, bị ném vào nhà tù Coldridge và chịu sáu tháng cực hình. Sau khi vượt ngục, ông đeo chiếc mặt nạ đầu lâu do Piero chế tạo, dùng sức mạnh siêu nhiên The Outsider ban cho để lần lượt diệt trừ những kẻ soán vị. Sau khi phục thù hoàn tất, trong một lần xuyên qua hư không, ông bị khe nứt nuốt lấy và rơi vào một dị thế xa lạ: Disboard. Mọi thứ nơi đây hoàn toàn khác với đế quốc ông quen thuộc, nhưng âm ảnh, thời gian, hư không, các sức mạnh này ở đâu cũng hữu dụng. Corvo ít nói, hành sự lạnh lùng hiệu quả, ấn ký The Outsider trên tay trái vẫn đang nhảy nhót. Dù ở nơi nào, ông cũng là lưỡi đao sắc bén nhất.",
+        "selectedCustomLevel": 1
+      },
+      "downloadUrl": "/api/presets/d0fdbe13-d66e-426b-9b7a-1cdc56aed248/file"
+    },
+    {
+      "id": "aa072d98-02cf-4307-8e21-e44405281b53",
+      "ownerId": "1459444190667608301",
+      "ownerName": "鲨柿匕氩",
+      "author": "鲨柿匕氩",
+      "authorAvatar": "https://cdn.discordapp.com/avatars/1459444190667608301/c7d3729c2590e450f077f3329515081f.png?size=128",
+      "name": "Y sĩ",
+      "title": "Y sĩ",
+      "intro": "Tham khảo thiết kế kỹ năng nhân vật chính hệ y sĩ của New Year Kabuto và Almioxion. Hoàn toàn là bản tự làm tự vui, chỉ số điền đại, não test thấy rất mạnh.\nChỉ tích hợp sẵn cây kỹ năng, các phần khác bạn cứ tự sửa tùy ý.",
+      "coverUrl": "/api/presets/aa072d98-02cf-4307-8e21-e44405281b53/cover",
+      "className": "Y sĩ",
+      "race": "Y bốc hạnh lâm",
+      "tags": [
+        "Duy trì",
+        "Khống chế",
+        "Phần trăm cao quý!"
+      ],
+      "likes": 0,
+      "liked": false,
+      "downloads": 0,
+      "status": "published",
+      "createdAt": "2026-06-06 12:48:20",
+      "updatedAt": "2026-06-06 12:48:20",
+      "lastLikedAt": "",
+      "presetData": {
+        "name": "Y sĩ",
+        "class": "Y sĩ",
+        "customClassName": "Y sĩ",
+        "race": "Y bốc hạnh lâm",
+        "customRace": null,
+        "customClassStyle": "Y sĩ du tẩu trên chiến trường, áp sát dùng dao nhỏ tấn công, tầm xa phóng ngân châm, có cơ động cao, có thể vừa chiến đấu vừa hỗ trợ đồng minh; các kỹ năng đã có tên thì cấm sửa tên!!!",
+        "backstory": "",
+        "selectedCustomLevel": 1
+      },
+      "downloadUrl": "/api/presets/aa072d98-02cf-4307-8e21-e44405281b53/file"
+    },
+    {
+      "id": "37c55ec4-7467-4801-b97a-50679933bcae",
+      "ownerId": "1503026199897833502",
+      "ownerName": "zhangtong",
+      "author": "zhangtong",
+      "authorAvatar": "",
+      "name": "Gwen Beckinsale",
+      "title": "Gwen Beckinsale",
+      "intro": "Nghề nghiệp bắt nguồn từ kịch bản AV Nhật Bản, chiến đấu bằng cách khiến kẻ địch xuất tinh hoặc đạt cực khoái; mọi thứ đều bắt nguồn từ hành vi tình dục, trong chiến đấu bắt buộc phải dâm mỹ đến cực hạn.",
+      "coverUrl": "/api/presets/37c55ec4-7467-4801-b97a-50679933bcae/cover",
+      "className": "Chấp hành quan xuất tinh",
+      "race": "Dâm ma chủng",
+      "tags": [],
+      "likes": 0,
+      "liked": false,
+      "downloads": 7,
+      "status": "published",
+      "createdAt": "2026-05-27 23:21:42",
+      "updatedAt": "2026-06-04 14:09:44",
+      "lastLikedAt": "",
+      "presetData": {
+        "name": "Gwen Beckinsale",
+        "class": "Chấp hành quan xuất tinh",
+        "customClassName": "Chấp hành quan xuất tinh",
+        "race": "__custom__",
+        "customRace": {
+          "name": "Dâm ma chủng"
+        },
+        "customClassStyle": "Nghề nghiệp bắt nguồn từ kịch bản AV Nhật Bản, chiến đấu bằng cách khiến kẻ địch xuất tinh hoặc đạt cực khoái; mọi thứ đều bắt nguồn từ hành vi tình dục, trong chiến đấu bắt buộc phải dâm mỹ đến cực hạn.",
+        "backstory": "",
+        "selectedCustomLevel": null
+      },
+      "downloadUrl": "/api/presets/37c55ec4-7467-4801-b97a-50679933bcae/file"
+    },
+    {
+      "id": "6070117d-878c-4ee2-9138-f67627034adb",
+      "ownerId": "1503026199897833502",
+      "ownerName": "zhangtong",
+      "author": "zhangtong",
+      "authorAvatar": "",
+      "name": "Dũng giả tình dục",
+      "title": "Dũng giả tình dục",
+      "intro": "Nghề nghiệp bắt nguồn từ kịch bản AV Nhật Bản, chiến đấu bằng cách khiến kẻ địch xuất tinh hoặc đạt cực khoái; mọi thứ đều bắt nguồn từ hành vi tình dục, trong chiến đấu bắt buộc phải dâm mỹ đến cực hạn.",
+      "coverUrl": "/api/presets/6070117d-878c-4ee2-9138-f67627034adb/cover",
+      "className": "Chấp hành quan xuất tinh",
+      "race": "Dâm ma chủng",
+      "tags": [],
+      "likes": 1,
+      "liked": false,
+      "downloads": 9,
+      "status": "published",
+      "createdAt": "2026-05-27 23:37:46",
+      "updatedAt": "2026-06-03 14:14:24",
+      "lastLikedAt": "",
+      "presetData": {
+        "name": "Gwen Beckinsale",
+        "class": "Chấp hành quan xuất tinh",
+        "customClassName": "Chấp hành quan xuất tinh",
+        "race": "__custom__",
+        "customRace": {
+          "name": "Dâm ma chủng"
+        },
+        "customClassStyle": "Nghề nghiệp bắt nguồn từ kịch bản AV Nhật Bản, chiến đấu bằng cách khiến kẻ địch xuất tinh hoặc đạt cực khoái; mọi thứ đều bắt nguồn từ hành vi tình dục, trong chiến đấu bắt buộc phải dâm mỹ đến cực hạn.",
+        "backstory": "",
+        "selectedCustomLevel": null
+      },
+      "downloadUrl": "/api/presets/6070117d-878c-4ee2-9138-f67627034adb/file"
     }
   ]
 }

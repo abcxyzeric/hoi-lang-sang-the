@@ -1,0 +1,322 @@
+{
+  "exportedAt": "2026-05-28T02:10:08.570Z",
+  "version": "1.0",
+  "preset": {
+    "id": "1779934206440",
+    "name": "Mão Khôi Thủ Faust",
+    "timestamp": 1779934206440,
+    "createdAt": 1779934206440,
+    "updatedAt": 1779934206440,
+    "data": {
+      "name": "Faust",
+      "gender": "Nữ",
+      "age": 24,
+      "race": "__custom__",
+      "identity": "__custom__",
+      "avatar": "",
+      "attributes": {
+        "strength": 8,
+        "dexterity": 15,
+        "constitution": 13,
+        "intelligence": 15,
+        "wisdom": 10,
+        "charisma": 10
+      },
+      "backstory": "",
+      "selectedLevelMode": "custom",
+      "selectedCustomLevel": 1,
+      "selectedSpawnPoint": "Buqi",
+      "selectedAmberSpawn": {
+        "名称": "Buqi",
+        "大陆": "Đại lục Vaunte",
+        "区域": "Buqi",
+        "场所": "Buqi",
+        "层级": "Trung bộ Eruin",
+        "地区等级": "Lv.1~8",
+        "危险等级": "Thấp",
+        "地貌特征": "Làng thung lũng bên bờ tây thượng du sông Vey, độ che phủ rừng cao, xung quanh có nhiều suối, sườn rừng thoải và bồn địa nhỏ giữa núi.",
+        "聚落描述": "Điểm khởi đầu cốt lõi đầu tuyến truyện đông cảnh Eruin, một làng biên giới nhỏ dựa núi kề nước, cũng là quê hương của Brando, Roman và Freya.",
+        "周边威胁": "Ma vật cấp thấp, dã thú, đạo phỉ ven Rừng Đen",
+        "地点类型": "village",
+        "节点ID": "village_buqi",
+        "地图层级": 0
+      },
+      "class": "Hắc Thú - Mão Khôi Thủ",
+      "selectedBaseClass": "Nghề tùy chỉnh",
+      "customClassName": "Hắc Thú - Mão Khôi Thủ",
+      "customClassStyle": "Bản vẽ: Đấu lạp Dệt Bóng (đặc biệt - thần khí); Nhanh nhẹn +1, Cảm nhận +1, Cơ bản +1; [Ảnh hóa] kiểm định trúng của kẻ địch -1; [Kiềm chế] khi kích hoạt Phá liệt, gắn 1 tầng [Chú sát - Kiềm chế] lên kẻ địch, mỗi tầng khiến sát thương kẻ địch gây ra giảm 10%. Bản vẽ: Khảm Lưu Ly Chữ Sơn (vòng tay - truyền thuyết); Nhanh nhẹn +2, toàn kỹ năng +1; [Chú sát minh khắc] khi trúng gắn 1 tầng [Chú sát - Suy yếu] lên kẻ địch, mỗi tầng khiến mọi kháng tính của kẻ địch -10%; khi né tránh gắn 1 tầng [Chú sát - Kịch độc] lên kẻ địch, mỗi tầng khiến kẻ địch trước khi tấn công tổn thất [số tầng*10]% sinh mệnh; khi bạo kích gắn 1 tầng [Chú sát - Vật động] lên kẻ địch, mỗi tầng khiến kẻ địch trong 1 hiệp không thể dùng kỹ năng; khi một đòn tấn công ít nhất gây 50% sinh mệnh kẻ địch, gắn [Chú sát - Suy vong] lên kẻ địch, khiến khi kẻ địch nhận hệ [Chú sát] thì số tầng +1.",
+      "customClassWeapon": "Kiếm phù chú",
+      "customClassCombatStyle": "Vật lý cận chiến",
+      "skillTree": {
+        "基础": [
+          {
+            "名称": "Thuấn Bộ",
+            "类型": "Chủ động",
+            "描述": "Dùng sức bộc phát của chân Mão đột tiến cực nhanh và tấn công nhiều lần, để lại tàn ảnh.",
+            "特殊效果": {
+              "1": "Gắn 1 tầng [Phá liệt] (kích hoạt khi chịu đòn, gây sát thương chân thật bằng [cấp*5*số tầng]), đồng thời kích hoạt thêm 1 lần [Phá liệt].",
+              "6": "Kiểm định trúng +1, gắn 2 tầng [Phá liệt] (kích hoạt khi chịu đòn, gây sát thương chân thật bằng [cấp*5*số tầng]), đồng thời kích hoạt thêm 1 lần [Phá liệt].",
+              "10": "Kiểm định trúng +1, gắn 2 tầng [Phá liệt] (kích hoạt khi chịu đòn, gây sát thương chân thật bằng [cấp*5*số tầng]), đồng thời kích hoạt thêm 2 lần [Phá liệt].",
+              "15": "Kiểm định trúng +2, ngưỡng bạo kích -2, gắn 3 tầng [Phá liệt] (kích hoạt khi chịu đòn, gây sát thương chân thật bằng [cấp*5*số tầng]), đồng thời kích hoạt 3 lần [Phá liệt]."
+            },
+            "阶位": "Cơ bản"
+          },
+          {
+            "名称": "Thị Vệ Siêu Tốc",
+            "类型": "Đặc biệt",
+            "描述": "Dùng tốc độ vượt khỏi mắt thường để bảo vệ đồng bạn, phòng ngự và đỡ đòn tấn công của đối thủ.",
+            "特殊效果": {
+              "1": "Nhất định phát động trước khi kẻ địch tấn công, tiến hành một lần đối kháng thuộc tính Nhanh nhẹn; nếu đối kháng vượt qua, có thể đỡ đòn tấn công vòng này và nhận 5 tầng [Thiên Cứu Tinh Đao].",
+              "6": "Nhất định phát động trước khi kẻ địch tấn công, tiến hành một lần đối kháng thuộc tính Nhanh nhẹn; nếu đối kháng vượt qua, có thể đỡ đòn tấn công vòng này, gắn 2 tầng [Phá liệt] và nhận 5 tầng [Thiên Cứu Tinh Đao].",
+              "10": "Nhất định phát động trước khi kẻ địch tấn công, tiến hành một lần đối kháng thuộc tính Nhanh nhẹn; nếu đối kháng vượt qua, có thể đỡ đòn tấn công vòng này, gắn 2 tầng [Phá liệt], nhận 5 tầng [Thiên Cứu Tinh Đao]; nếu [Thiên Cứu Tinh Đao] có 10 tầng, dùng thêm một lần [Mắt Không Thể Đuổi · Tai Chưa Kịp Nghe] lên mục tiêu.",
+              "15": "Nhất định phát động trước khi kẻ địch tấn công, tiến hành một lần đối kháng thuộc tính Nhanh nhẹn; nếu đối kháng vượt qua, có thể đỡ đòn tấn công vòng này, gắn 3 tầng [Phá liệt], nhận 7 tầng [Thiên Cứu Tinh Đao]; nếu [Thiên Cứu Tinh Đao] có 10 tầng, dùng thêm một lần [Hắc Thú Mão Áo Nghĩa · Vân Giải Hiển Hiện] lên mục tiêu."
+            },
+            "阶位": "Cơ bản"
+          },
+          {
+            "名称": "Thiên Cứu Tinh",
+            "类型": "Đặc biệt nghề nghiệp",
+            "描述": "Cảm ứng mệnh cách Thiên Cứu Tinh, thông qua né tránh và trảm kích để không ngừng tích lũy độ giải phong của [Thiên Cứu Tinh Đao].",
+            "特殊效果": {
+              "1": "Bị động. Mỗi lần trúng và né tránh nhận 3 tầng [Thiên Cứu Tinh Đao], kích hoạt [Phá liệt] nhận 1 tầng, kích hoạt hệ [Chú sát] nhận 5 tầng; mỗi tầng khiến sát thương cuối +3% (tối đa tích lũy 20 tầng)."
+            },
+            "阶位": "Cơ bản"
+          }
+        ],
+        "转职": [
+          {
+            "名称": "Ta Sẽ Mở Đường Phía Trước",
+            "类型": "Chủ động",
+            "描述": "Vung trọng kích mạnh về phía trước, rồi nhanh chóng nhảy lên dùng sức mạnh bá đạo chém cắt kẻ địch và đáp xuống sau lưng chúng.",
+            "特殊效果": {
+              "1": "Nhận 1 tầng [Cước lực - Mão] (mỗi tầng khiến kiểm định tấn công +1, tối đa 3 tầng), kéo dài 3 hiệp.",
+              "6": "Nhận 1 tầng [Cước lực - Mão] (mỗi tầng khiến kiểm định tấn công +1, tối đa 3 tầng), kéo dài 4 hiệp; kiểm định tấn công có ưu thế, sát thương cuối +5%.",
+              "10": "Nhận 2 tầng [Cước lực - Mão] (mỗi tầng khiến kiểm định tấn công +1, tối đa 3 tầng), kéo dài 5 hiệp; kiểm định tấn công có ưu thế, sát thương cuối +10%.",
+              "15": "Nhận 3 tầng [Cước lực - Mão] (mỗi tầng khiến kiểm định tấn công +1, tối đa 3 tầng), kéo dài 6 hiệp; kiểm định tấn công có ưu thế, sát thương cuối +20%; khi [Thiên Cứu Tinh Đao] từ 10 tầng trở lên thì tất trúng."
+            },
+            "阶位": "Chuyển nghề"
+          },
+          {
+            "名称": "Khắc Chú",
+            "类型": "Chủ động",
+            "描述": "Dùng kiếm phù chú đâm vào kinh mạch kẻ địch, cưỡng ép khắc xuống ấn ký chú sát sẽ sinh phản ứng dây chuyền dữ dội với [Cước lực - Mão].",
+            "特殊效果": {
+              "1": "Sau khi trúng, gắn 1 tầng [Chú sát - Tấn tiệp] (kích hoạt khi bên tấn công có [Cước lực - Mão]; khi bị tấn công kích hoạt thêm (số tầng) lần Phá liệt, sau đó (số tầng - 1)).",
+              "6": "Sau khi trúng, gắn 2 tầng [Chú sát - Tấn tiệp] (kích hoạt khi bên tấn công có [Cước lực - Mão]; khi bị tấn công kích hoạt thêm (số tầng) lần Phá liệt, sau đó (số tầng - 1)).",
+              "10": "Sau khi trúng, gắn 3 tầng [Chú sát - Tấn tiệp] (kích hoạt khi bên tấn công có [Cước lực - Mão]; khi bị tấn công kích hoạt thêm (số tầng) lần Phá liệt, sau đó (số tầng - 1)); khi sở hữu [Cước lực - Mão] thì nhất định bạo kích.",
+              "15": "Sau khi trúng, gắn 4 tầng [Chú sát - Tấn tiệp] (kích hoạt khi bên tấn công có [Cước lực - Mão]; khi bị tấn công kích hoạt thêm (số tầng) lần Phá liệt, sau đó (số tầng - 1)); khi sở hữu [Cước lực - Mão] thì bỏ qua phòng ngự, nhất định bạo kích."
+            },
+            "阶位": "Chuyển nghề"
+          },
+          {
+            "名称": "Tuân Mệnh",
+            "类型": "Chủ động",
+            "描述": "Giải phóng bản năng chảy trong huyết mạch Hắc Thú - Mão, nghe theo tiếng gọi của [Nghĩa] để tấn công.",
+            "特殊效果": {
+              "1": "Nhận 3 tầng [Cước lực - Mão] (kiểm định tấn công +1, tối đa 3 tầng), kéo dài 2 hiệp; kích hoạt thêm 1 lần [Thị Vệ Siêu Tốc].",
+              "6": "Gắn 1 tầng [Phá liệt] (kích hoạt khi chịu đòn, gây sát thương chân thật bằng [cấp*5*số tầng]), nhận 3 tầng [Cước lực - Mão] (kiểm định tấn công +1, tối đa 3 tầng), kéo dài 2 hiệp; kích hoạt thêm 1 lần [Thị Vệ Siêu Tốc].",
+              "10": "Gắn 2 tầng [Phá liệt] (kích hoạt khi chịu đòn, gây sát thương chân thật bằng [cấp*5*số tầng]), nhận 3 tầng [Cước lực - Mão] (kiểm định tấn công +1, tối đa 3 tầng), kéo dài 3 hiệp; kích hoạt thêm 1 lần [Thị Vệ Siêu Tốc].",
+              "15": "Gắn 3 tầng [Phá liệt] (kích hoạt khi chịu đòn, gây sát thương chân thật bằng [cấp*5*số tầng]), nhận 3 tầng [Cước lực - Mão] (kiểm định tấn công +1, tối đa 3 tầng), kéo dài 3 hiệp; kích hoạt thêm 1 lần [Thị Vệ Siêu Tốc]."
+            },
+            "阶位": "Chuyển nghề"
+          }
+        ],
+        "进阶": [
+          {
+            "名称": "Mắt Không Thể Đuổi · Tai Chưa Kịp Nghe",
+            "类型": "Chủ động",
+            "描述": "Trong chớp mắt đánh bay kẻ địch rồi dùng cực hạn thần kinh vung vũ khí loạn vũ siêu tốc, cuối cùng chém xuống đất; sau đó kẻ địch trên không chịu nhiều lần bộc phát Phá liệt đáng sợ.",
+            "特殊效果": {
+              "1": "Nhận 3 tầng [Cước lực - Mão] (mỗi tầng kiểm định tấn công +1, tối đa 3 tầng), kéo dài 3 hiệp; gắn 2 tầng [Phá liệt] (kích hoạt khi chịu đòn, gây sát thương chân thật bằng [cấp*5*số tầng]) và 1 tầng [Chú sát - Tấn tiệp], đồng thời kích hoạt 2 lần [Phá liệt].",
+              "6": "Nhận 3 tầng [Cước lực - Mão] (mỗi tầng kiểm định tấn công +1, tối đa 3 tầng), kéo dài 4 hiệp; gắn 3 tầng [Phá liệt] (kích hoạt khi chịu đòn, gây sát thương chân thật bằng [cấp*5*số tầng]) và 2 tầng [Chú sát - Tấn tiệp], đồng thời kích hoạt 3 lần [Phá liệt]; sát thương cuối +20%.",
+              "10": "Nếu [Thiên Cứu Tinh Đao] có 10 tầng thì chuyển thành dùng [Hắc Thú Mão Áo Nghĩa · Vân Giải Hiển Hiện]; nhận 3 tầng [Cước lực - Mão] (mỗi tầng kiểm định tấn công +1, tối đa 3 tầng), kéo dài 5 hiệp; gắn 4 tầng [Phá liệt] (kích hoạt khi chịu đòn, gây sát thương chân thật bằng [cấp*5*số tầng]) và 3 tầng [Chú sát - Tấn tiệp], đồng thời kích hoạt 4 lần [Phá liệt]."
+            },
+            "阶位": "Nâng cao"
+          },
+          {
+            "名称": "Dị Văn Khắc Chạm",
+            "类型": "Đặc biệt",
+            "描述": "Khiến kiếm phù chú hiện lên dị văn vàng sáng thẳm sâu, tăng độ sắc bén của lưỡi kiếm và mở rộng ấn ký Phá liệt.",
+            "特殊效果": {
+              "1": "Sau khi kích hoạt kéo dài 3 hiệp; trong thời gian đó, khi đòn tấn công của bạn trúng sẽ gắn thêm 1 tầng [Phá liệt].",
+              "6": "Sau khi kích hoạt kéo dài 6 hiệp; trong thời gian đó, khi đòn tấn công của bạn trúng sẽ gắn thêm 2 tầng [Phá liệt], ngưỡng bạo kích -2.",
+              "10": "Sau khi kích hoạt duy trì 8 hiệp; trong thời gian đó, khi đòn tấn công của bạn trúng sẽ gắn thêm 3 tầng [Phá liệt], kiểm định tấn công có ưu thế, ngưỡng bạo kích -3."
+            },
+            "阶位": "Nâng cao"
+          },
+          {
+            "名称": "Khắc Chú Sát Kiếm",
+            "类型": "Chủ động",
+            "描述": "Kích hoạt tối đa chú văn đặc biệt của kiếm phù chú và tốc độ cao khắc chú sát cấp cấm kỵ lên thân kẻ địch.",
+            "特殊效果": {
+              "1": "Gắn 1 tầng [Chú sát - Phá] (đòn tấn công kế tiếp tiêu hao 5 tầng [Thiên Cứu Tinh Đao], gây sát thương chân thật bằng [cấp*20*số tầng*số tầng [Phá liệt]], sau đó (số tầng - 1)).",
+              "6": "Gắn 2 tầng [Chú sát - Phá] (đòn tấn công kế tiếp tiêu hao 5 tầng [Thiên Cứu Tinh Đao], gây sát thương chân thật bằng [cấp*20*số tầng*số tầng [Phá liệt]], sau đó (số tầng - 1)).",
+              "10": "Gắn 3 tầng [Chú sát - Phá] (đòn tấn công kế tiếp tiêu hao 5 tầng [Thiên Cứu Tinh Đao], gây sát thương chân thật bằng [cấp*20*số tầng*số tầng [Phá liệt]], sau đó (số tầng - 1))."
+            },
+            "阶位": "Nâng cao"
+          }
+        ],
+        "必杀": [
+          {
+            "名称": "Đấu Lạp Dệt Bóng",
+            "类型": "Đặc biệt",
+            "描述": "Kích hoạt sức mạnh Đấu Lạp Dệt Bóng, trong chớp mắt biến mất trước mặt kẻ địch, toàn thân được sương bóng bao phủ và cường hóa.",
+            "特殊效果": {
+              "1": "Sau khi mở kéo dài 3 hiệp, sát thương cuối +10%, sát thương phải chịu -10%.",
+              "4": "Sau khi mở kéo dài 4 hiệp, sát thương cuối +20%, sát thương phải chịu -20%.",
+              "7": "Sau khi mở kéo dài 5 hiệp, sát thương cuối +30%, sát thương phải chịu -30%."
+            },
+            "阶位": "Tất sát"
+          },
+          {
+            "名称": "Giải Cấm Một Phần · Thiên Cứu Tinh Đao",
+            "类型": "Chủ động",
+            "描述": "Giải cấm Thiên Cứu Tinh Đao khỏi phong ấn trong một khoảnh khắc, lưu quang đỏ khắc xuống chú sát cấm kỵ và trọng thương mục tiêu; sau khi cắm vào đại địa để phóng thích sức mạnh còn lưu lại mới có thể trở về vỏ kiếm.",
+            "特殊效果": {
+              "1": "Có thể phát động khi số tầng [Thiên Cứu Tinh Đao] từ 10 trở lên, gắn 2 tầng [Chú sát - Phá] và lập tức kích hoạt (gây sát thương chân thật bằng [cấp*20*số tầng*số tầng [Phá liệt]], sau đó (số tầng - 1)), sát thương cuối +10%.",
+              "2": "Có thể phát động khi số tầng [Thiên Cứu Tinh Đao] từ 9 trở lên, gắn 2 tầng [Chú sát - Phá] và lập tức kích hoạt (gây sát thương chân thật bằng [cấp*20*số tầng*số tầng [Phá liệt]], sau đó (số tầng - 1)), sát thương cuối +15%.",
+              "3": "Có thể phát động khi số tầng [Thiên Cứu Tinh Đao] từ 8 trở lên, gắn 2 tầng [Chú sát - Phá] và lập tức kích hoạt (gây sát thương chân thật bằng [cấp*20*số tầng*số tầng [Phá liệt]], sau đó (số tầng - 1)), sát thương cuối +20%.",
+              "4": "Có thể phát động khi số tầng [Thiên Cứu Tinh Đao] từ 7 trở lên, gắn 2 tầng [Chú sát - Phá] và lập tức kích hoạt (gây sát thương chân thật bằng [cấp*20*số tầng*số tầng [Phá liệt]], sau đó (số tầng - 1)), sát thương cuối +25%.",
+              "5": "Có thể phát động khi số tầng [Thiên Cứu Tinh Đao] từ 6 trở lên, gắn 2 tầng [Chú sát - Phá] và lập tức kích hoạt (gây sát thương chân thật bằng [cấp*20*số tầng*số tầng [Phá liệt]], sau đó (số tầng - 1)), sát thương cuối +30%.",
+              "6": "Có thể phát động khi số tầng [Thiên Cứu Tinh Đao] từ 5 trở lên, gắn 2 tầng [Chú sát - Phá] và lập tức kích hoạt (gây sát thương chân thật bằng [cấp*20*số tầng*số tầng [Phá liệt]], sau đó (số tầng - 1)), sát thương cuối +35%.",
+              "7": "Có thể phát động khi số tầng [Thiên Cứu Tinh Đao] từ 3 trở lên, gắn 2 tầng [Chú sát - Phá] và lập tức kích hoạt (gây sát thương chân thật bằng [cấp*20*số tầng*số tầng [Phá liệt]], sau đó (số tầng - 1)), sát thương cuối +40%."
+            },
+            "阶位": "Tất sát"
+          },
+          {
+            "名称": "Hắc Thú Hoàn · Mão",
+            "类型": "Triệu hồi",
+            "描述": "Nuốt Hắc Thú Hoàn giấu trong miệng, trong lúc tăng cường Hắc Thú hóa của bản thân, triệu hồi đồng liêu Hắc Thú Mão từ bóng dưới chân.",
+            "召唤物名称": "Đồng liêu Hắc Thú Mão",
+            "特殊效果": {
+              "1": "Kỹ năng này không tiêu hao hành động; vật triệu hồi tồn tại 3 hiệp, khi trúng kèm 3 tầng [Phá liệt]; bản thân nhận 3 tầng [Cước lực - Mão] (mỗi tầng kiểm định tấn công +1, tối đa 3 tầng).",
+              "2": "Kỹ năng này không tiêu hao hành động; vật triệu hồi tồn tại 3 hiệp, khi trúng kèm 3 tầng [Phá liệt]; bản thân nhận 3 tầng [Cước lực - Mão] (mỗi tầng kiểm định tấn công +1, tối đa 3 tầng), sát thương cuối +10%.",
+              "3": "Kỹ năng này không tiêu hao hành động; vật triệu hồi tồn tại 4 hiệp, khi trúng kèm 4 tầng [Phá liệt]; bản thân nhận 3 tầng [Cước lực - Mão] (mỗi tầng kiểm định tấn công +1, tối đa 3 tầng), sát thương cuối +15%.",
+              "4": "Kỹ năng này không tiêu hao hành động; vật triệu hồi tồn tại 5 hiệp, khi trúng kèm 4 tầng [Phá liệt]; bản thân nhận 3 tầng [Cước lực - Mão] (mỗi tầng kiểm định tấn công +1, tối đa 3 tầng), sát thương cuối +20%.",
+              "5": "Kỹ năng này không tiêu hao hành động; vật triệu hồi tồn tại 6 hiệp, khi trúng kèm 5 tầng [Phá liệt]; bản thân nhận 3 tầng [Cước lực - Mão] (mỗi tầng kiểm định tấn công +1, tối đa 3 tầng), sát thương cuối +25%.",
+              "6": "Kỹ năng này không tiêu hao hành động; vật triệu hồi tồn tại 7 hiệp, khi trúng kèm 5 tầng [Phá liệt]; bản thân nhận 3 tầng [Cước lực - Mão] (mỗi tầng kiểm định tấn công +1, tối đa 3 tầng), sát thương cuối +30%.",
+              "7": "Kỹ năng này không tiêu hao hành động; vật triệu hồi tồn tại 8 hiệp, khi trúng kèm 6 tầng [Phá liệt]; bản thân nhận 3 tầng [Cước lực - Mão] (mỗi tầng kiểm định tấn công +1, tối đa 3 tầng), sát thương cuối +40%."
+            },
+            "阶位": "Tất sát"
+          }
+        ],
+        "奥义": [
+          {
+            "名称": "Hắc Thú Mão Áo Nghĩa · Vân Giải Hiển Hiện",
+            "类型": "Chủ động",
+            "描述": "Cởi bỏ phong ấn Thiên Cứu Tinh Đao và phô diễn tối đa thần tốc của Hắc Thú Mão, dùng bão chú sát màu cam đỏ chém mục tiêu vô số lần giữa không trung, rồi trong một khoảnh khắc bộc phát toàn bộ Phá liệt và Chú sát, khiến nó hóa thành mảnh vụn.",
+            "特殊效果": {
+              "1": "Nhận 3 tầng [Cước lực - Mão] (mỗi tầng kiểm định tấn công +1, tối đa 3 tầng), kéo dài 5 hiệp; gắn 4 tầng [Phá liệt] và 1 tầng [Chú sát - Phá] rồi kích hoạt (gây sát thương chân thật bằng [cấp*20*số tầng*số tầng [Phá liệt]], sau đó (số tầng - 1)); nhất định bạo kích, sát thương cuối +30%.",
+              "2": "Nhận 3 tầng [Cước lực - Mão] (mỗi tầng kiểm định tấn công +1, tối đa 3 tầng), kéo dài 5 hiệp; gắn 5 tầng [Phá liệt] và 1 tầng [Chú sát - Phá] rồi kích hoạt (gây sát thương chân thật bằng [cấp*20*số tầng*số tầng [Phá liệt]], sau đó (số tầng - 1)); nhất định bạo kích, sát thương cuối +35%.",
+              "3": "Nhận 3 tầng [Cước lực - Mão] (mỗi tầng kiểm định tấn công +1, tối đa 3 tầng), kéo dài 5 hiệp; gắn 5 tầng [Phá liệt] và 2 tầng [Chú sát - Phá] rồi kích hoạt (gây sát thương chân thật bằng [cấp*20*số tầng*số tầng [Phá liệt]], sau đó (số tầng - 1)); nhất định bạo kích, sát thương cuối +40%.",
+              "4": "Nhận 3 tầng [Cước lực - Mão] (mỗi tầng kiểm định tấn công +1, tối đa 3 tầng), kéo dài 5 hiệp; gắn 6 tầng [Phá liệt] và 2 tầng [Chú sát - Phá] rồi kích hoạt (gây sát thương chân thật bằng [cấp*20*số tầng*số tầng [Phá liệt]], sau đó (số tầng - 1)); nhất định bạo kích, sát thương cuối +45%.",
+              "5": "Nếu [Thiên Cứu Tinh Đao] có 20 tầng thì chuyển thành dùng [Chân · Thiên Cứu Tinh Sát · Vân Giải Hiển Hiện]; nhận 3 tầng [Cước lực - Mão] (mỗi tầng kiểm định tấn công +1, tối đa 3 tầng), kéo dài 5 hiệp; gắn 6 tầng [Phá liệt] và 3 tầng [Chú sát - Phá] rồi kích hoạt (gây sát thương chân thật bằng [cấp*20*số tầng*số tầng [Phá liệt]], sau đó (số tầng - 1)); nhất định bạo kích, sát thương cuối +50%;"
+            },
+            "阶位": "Áo nghĩa"
+          },
+          {
+            "名称": "Khảm Lưu Ly Chữ Sơn",
+            "类型": "Đặc biệt",
+            "描述": "Khảm Lưu Ly Chữ Sơn khắc mọi loại phù chú chú sát; khi triển khai thành pháp trận sẽ tăng mạnh cường độ vũ khí phù chú.",
+            "特殊效果": {
+              "1": "Pháp trận duy trì 2 hiệp. Trong trận, xúc xắc sát thương của bạn sẽ không thấp hơn 5.",
+              "2": "Pháp trận duy trì 3 hiệp. Trong trận, xúc xắc sát thương của bạn sẽ không thấp hơn 6, mỗi hiệp nhận 1 tầng [Thiên Cứu Tinh Đao].",
+              "3": "Pháp trận duy trì 4 hiệp. Trong trận, xúc xắc sát thương của bạn sẽ không thấp hơn 7, mỗi hiệp nhận 2 tầng [Thiên Cứu Tinh Đao].",
+              "4": "Pháp trận duy trì 5 hiệp. Trong trận, xúc xắc sát thương của bạn sẽ không thấp hơn 8, mỗi hiệp nhận 3 tầng [Thiên Cứu Tinh Đao].",
+              "5": "Pháp trận duy trì 6 hiệp. Trong trận, xúc xắc sát thương của bạn lấy giá trị tối đa, mỗi hiệp nhận 5 tầng [Thiên Cứu Tinh Đao]."
+            },
+            "阶位": "Áo nghĩa"
+          },
+          {
+            "名称": "Ẩn Mật Chi Túc",
+            "类型": "Đặc biệt nghề nghiệp",
+            "描述": "Kích thích kinh lạc chân Mão tới trạng thái gần như sụp đổ, phụ trợ bằng sức mạnh sương bóng và Hắc Thú Hoàn Mão, thậm chí có thể liên tục trong không gian như thể bỏ qua pháp tắc vật lý.",
+            "特殊效果": {
+              "1": "Bị động. Khi chiến đấu bắt đầu nhận 1 tầng [Cước lực - Mão], tấn công bỏ qua 2 điểm AC của địch, bỏ qua lần sát thương kế tiếp.",
+              "2": "Bị động. Khi chiến đấu bắt đầu nhận 2 tầng [Cước lực - Mão], tấn công bỏ qua 3 điểm AC của địch, bỏ qua lần sát thương kế tiếp.",
+              "3": "Bị động. Khi chiến đấu bắt đầu nhận 2 tầng [Cước lực - Mão], tấn công bỏ qua 4 điểm AC của địch, bỏ qua lần sát thương kế tiếp.",
+              "4": "Bị động. Khi chiến đấu bắt đầu nhận 3 tầng [Cước lực - Mão], tấn công bỏ qua 5 điểm AC của địch, bỏ qua lần sát thương kế tiếp.",
+              "5": "Bị động. Khi chiến đấu bắt đầu nhận 3 tầng [Cước lực - Mão], tấn công bỏ qua 6 điểm AC của địch, bỏ qua lần sát thương kế tiếp."
+            },
+            "阶位": "Áo nghĩa"
+          }
+        ],
+        "觉醒一": [
+          {
+            "名称": "Thiên Cứu Tinh Đao · Giải Phóng Hoàn Toàn",
+            "类型": "Chủ động",
+            "阶位": "Thức tỉnh một",
+            "描述": "Nhổ bỏ phong ấn Thiên Cứu Tinh Đao và giải phóng tối đa sức mạnh bên trong, dẫn phát bộc phát [Chú sát tràn lan]; thanh tinh đao này tồn tại để nghiền nát mọi phòng ngự.",
+            "特殊效果": {
+              "1": "Trong chớp mắt kích nổ toàn bộ trạng thái hệ [Phá liệt] và [Chú sát-X] trên một mục tiêu đơn thể trong sân để dẫn phát [Chú sát tràn lan]: trực tiếp gây một lần sát thương chân thật cấp hủy diệt; mỗi khi tiêu hao 1 tổng tầng trạng thái, hệ số chân thương thực toán cuối của lần này tăng +50%, sau đó giải trừ chúng;",
+              "2": "Trong chớp mắt kích nổ toàn bộ trạng thái hệ [Phá liệt] và [Chú sát-X] trên một mục tiêu đơn thể trong sân để dẫn phát [Chú sát tràn lan]: trực tiếp gây một lần trảm kích không gian sát thương chân thật cấp hủy diệt; mỗi khi tiêu hao 1 tổng tầng trạng thái, hệ số chân thương thực toán cuối của lần này tăng +80%, sau đó giải trừ chúng; mục tiêu không thể hồi phục sinh mệnh nữa.",
+              "3": "Trong chớp mắt kích nổ toàn bộ trạng thái hệ [Phá liệt] và [Chú sát-X] trên một mục tiêu đơn thể trong sân để dẫn phát [Chú sát tràn lan]: trực tiếp gây một lần trảm kích không gian sát thương chân thật cấp hủy diệt; mỗi khi tiêu hao 1 tổng tầng trạng thái, hệ số chân thương thực toán cuối của lần này tăng +100%, sau đó giải trừ chúng; mục tiêu không thể hồi phục sinh mệnh nữa."
+            }
+          }
+        ],
+        "觉醒二": [
+          {
+            "名称": "Tiên Nhân Mão Giải Cấm",
+            "类型": "Đặc biệt",
+            "阶位": "Thức tỉnh hai",
+            "描述": "Kích phát hoàn toàn tiên lực Mão ẩn trong huyết mạch, hóa thân thành hình thái Hắc Thú Tiên Nhân - Mão; tốc độ của cô đã trở thành pháp tắc, có thể xuyên qua thời không trong chớp mắt.",
+            "特殊效果": {
+              "1": "Tư thái tiên nhân kéo dài 5 hiệp. Miễn trừ toàn thuộc tính có ưu thế; đòn tấn công thường gây sát thương chân thật bằng (cấp*20*số tầng [Chú sát]*số tầng [Phá liệt]); khiến phán định tấn công đầu tiên mỗi hiệp của bản thân có quyền hạn [Bỏ qua phòng ngự] và [Tất trúng].",
+              "2": "Tư thái tiên nhân kéo dài 8 hiệp. Miễn trừ toàn thuộc tính có ưu thế; mọi đòn tấn công gây sát thương chân thật bằng (cấp*20*số tầng [Chú sát]*số tầng [Phá liệt]); khiến phán định tấn công đầu tiên mỗi hiệp của bản thân có quyền hạn [Bỏ qua phòng ngự] và [Tất trúng]."
+            }
+          }
+        ],
+        "觉醒三": [
+          {
+            "名称": "Chân · Thiên Cứu Tinh Sát · Vân Giải Hiển Hiện",
+            "类型": "Chủ động",
+            "阶位": "Thức tỉnh ba",
+            "描述": "Áo nghĩa thức tỉnh ba tối đỉnh. Dòng hợp lưu của người, thú và sao, từ ngoài trời rơi xuống vạn đạo chú phù diệt giới mang khái niệm tổng hòa thuần túy của [Thiên Cứu Tinh Đao] và [Phá liệt], thi hành xử quyết chung cục.",
+            "特殊效果": {
+              "1": "Bỏ qua việc địch có tồn tại ấn ký hay không; khi phán định, cưỡng chế mục tiêu ít nhất sở hữu 10 tầng [Phá liệt] + 10 tầng [Chú sát]. Một khi kỹ năng triển khai, cưỡng chế đoạt lấy 1 vòng hành động trọn vẹn của địch (xem như thời không đình trệ), trảm kích sẽ dẫn phát [Chú sát tràn lan chung mạt] kiểu phủ kín. Tất trúng bạo kích, bỏ qua phòng ngự, sát thương cuối +500%, tuyên cáo màn hạ của đường dây vận mệnh bị chém đứt."
+            }
+          }
+        ]
+      },
+      "skillTreeForClass": "Hắc Thú - Mão Khôi Thủ",
+      "lockedSkillMap": {},
+      "skillFlavorInput": "Cơ bản: Thuấn Bộ, Thị Vệ Siêu Tốc, Thiên Cứu Tinh (bị động thường trực)\nChuyển nghề: Ta Sẽ Mở Đường Phía Trước, Khắc Chú, Tuân Mệnh\nNâng cao: Mắt Không Thể Đuổi · Tai Chưa Kịp Nghe, Dị Văn Khắc Chạm (bị động thường trực), Khắc Chú Sát Kiếm\nTất sát: Đấu Lạp Dệt Bóng, Giải Cấm Một Phần · Thiên Cứu Tinh Đao, Hắc Thú Hoàn · Mão\nÁo nghĩa: Hắc Thú Mão Áo Nghĩa · Vân Giải Hiển Hiện, Khảm Lưu Ly Chữ Sơn, Ẩn Mật Chi Túc (bị động thường trực)\nThức tỉnh một: Thiên Cứu Tinh Đao · Giải Phóng Hoàn Toàn\nThức tỉnh hai: Tiên Nhân Mão Giải Cấm\nThức tỉnh ba: Chân · Thiên Cứu Tinh Sát · Vân Giải Hiển Hiện",
+      "teammates": [],
+      "customTeammate": null,
+      "selectedTraits": [],
+      "customTraits": [
+        {
+          "name": "Gesellschaft",
+          "effect": "Faust lúc nào cũng có thể kết nối máy chủ, giao lưu với vô số Faust ở các thế giới song song trong không gian ý niệm này. Không cần kiểm định vẫn có thể lấy được đáp án của sự vật; nếu sự vật được hỏi vượt quá bản thân 20 cấp thì cần tiến hành kiểm định Trí lực mới có thể nhận đáp án."
+        }
+      ],
+      "customExpertise": [],
+      "customIdentity": {
+        "enabled": true,
+        "name": "Người đến từ Đô Thị",
+        "desc": "Hắc Thú Mão khôi thủ Faust trong một trận chiến đã xuyên tới nơi này, và phát hiện sức mạnh của mình phải tu luyện lại từ đầu.\nNgoại hình: tóc ngắn màu trắng, vải đen che mắt trái, mắt phải màu vàng.\nTính cách: lạnh nhạt, chỉ hứng thú với những gì liên quan [Đạo Nghĩa]; người nghĩa không tranh trước bằng vũ lực.\nVũ khí ban đầu: [Thiên Cứu Tinh Đao] (kiếm phù chú, tinh đao, phong ấn) cấp 15; Nhanh nhẹn +2, toàn kỹ năng +1; [Chỉ dẫn] kiểm định tấn công +1; [Giải phóng tinh đao] mỗi ngày một lần, cởi cấm cố để gắn 5 tầng [Phá liệt] lên kẻ địch; [Giải cấm] trưởng thành theo cấp độ Faust. Giới thiệu: thanh trường kiếm Trung Hoa màu đỏ bị khóa xích và vỏ sắt nặng nề phong cấm, thân kiếm khắc phù văn vàng; chỉ người có mệnh cách Thiên Cứu Tinh mới có thể giải cấm, ngưng kết sức mạnh của sao và nguyện vọng của người, thanh kiếm này sinh ra để nghiền nát mọi phòng ngự.\n\n",
+        "cardExpanded": true,
+        "tierIndex": 4
+      },
+      "starterShopSelection": [],
+      "selectedWorldview": "amber",
+      "selectedOpening": "amber_native_story",
+      "customOpeningText": "",
+      "selectedDifficulty": "easy",
+      "customRace": {
+        "enabled": true,
+        "name": "Hắc Thú Mão",
+        "trait1": {
+          "name": "Hắc Thú hóa - Mão",
+          "detail": "Thân thể trải qua cải tạo sinh học, động như thỏ thoát nhưng trở nên lạnh nhạt. Kiểm định Nhanh nhẹn có ưu thế, kiểm định xã giao loại thân thiện chịu bất lợi.",
+          "negative": false
+        },
+        "trait2": {
+          "name": "Chân Mão",
+          "detail": "Bàn chân biến thành chân thỏ màu đen. Không thể dùng kỹ năng trang bị chân nhưng kiểm định Tiềm hành +4; nhận kỹ năng [Xúc]: [mỗi trận một lần] tốc độ cao di chuyển tới sau lưng mục tiêu, kiểm định tấn công kế tiếp +2 và có ưu thế.",
+          "negative": false
+        }
+      }
+    }
+  }
+}

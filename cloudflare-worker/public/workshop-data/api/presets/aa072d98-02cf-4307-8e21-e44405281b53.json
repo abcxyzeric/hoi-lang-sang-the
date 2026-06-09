@@ -1,0 +1,39 @@
+{
+  "ok": true,
+  "preset": {
+    "id": "aa072d98-02cf-4307-8e21-e44405281b53",
+    "ownerId": "1459444190667608301",
+    "ownerName": "鲨柿匕氩",
+    "author": "鲨柿匕氩",
+    "authorAvatar": "https://cdn.discordapp.com/avatars/1459444190667608301/c7d3729c2590e450f077f3329515081f.png?size=128",
+    "name": "Y sĩ",
+    "title": "Y sĩ",
+    "intro": "Tham khảo thiết kế kỹ năng nhân vật chính hệ y sĩ của New Year Kabuto và Almioxion. Hoàn toàn là bản tự làm tự vui, chỉ số điền đại, não test thấy rất mạnh.\nChỉ tích hợp sẵn cây kỹ năng, các phần khác bạn cứ tự sửa tùy ý.",
+    "coverUrl": "/api/presets/aa072d98-02cf-4307-8e21-e44405281b53/cover",
+    "className": "Y sĩ",
+    "race": "Y bốc hạnh lâm",
+    "tags": [
+      "Duy trì",
+      "Khống chế",
+      "Phần trăm cao quý!"
+    ],
+    "likes": 0,
+    "liked": false,
+    "downloads": 0,
+    "status": "published",
+    "createdAt": "2026-06-06 12:48:20",
+    "updatedAt": "2026-06-06 12:48:20",
+    "lastLikedAt": "",
+    "presetData": {
+      "name": "Y sĩ",
+      "class": "Y sĩ",
+      "customClassName": "Y sĩ",
+      "race": "Y bốc hạnh lâm",
+      "customRace": null,
+      "customClassStyle": "Y sĩ du tẩu trên chiến trường, áp sát dùng dao nhỏ tấn công, tầm xa phóng ngân châm, có cơ động cao, có thể vừa chiến đấu vừa hỗ trợ đồng minh; các kỹ năng đã có tên thì cấm sửa tên!!!",
+      "backstory": "",
+      "selectedCustomLevel": 1
+    },
+    "downloadUrl": "/api/presets/aa072d98-02cf-4307-8e21-e44405281b53/file"
+  }
+}

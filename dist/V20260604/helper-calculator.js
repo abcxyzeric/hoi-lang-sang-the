@@ -1675,7 +1675,7 @@
     }
 
     const STARTER_TEAMMATE_TEMPLATE_MAP = {
-        'Pháp Lộ Đặc': {
+        'Forte': {
             Giới_tính: 'Nữ',
             Ở_gần: true,
             Chủng_tộc: 'Ảo_tưởng_chủng',
@@ -1686,7 +1686,7 @@
                     Loại: 'Vũ_khí', Vị_trí_trang_bị: 'Tay_chính', Tên: 'Hắc Ám Long Thương', Phẩm_chất: 'Sử_thi', Cấp_độ: 95, Cấp_cường_hóa: 0,
                     Cộng_thêm_thuộc_tính: { Sức_mạnh: 10, Thể_chất: 5 },
                     Hiệu_quả: '[Bị động - Thiên Ân] Khi ở ngoài trời hoặc trên không, mọi kiểm định thuộc tính +2;[Bị động - Long Uy] Khi gây sát thương lên [Long tộc] hoặc [quái vật không phải huyền thoại], mục tiêu phải kiểm định ý chí, thất bại thì nhận [Run sợ](AC-2);[Tuyệt kỹ - Thương Rơi Sao] Chỉ dùng được khi đang bay hoặc ở nơi cao. Lao xuống hủy diệt, xúc xắc sát thương của đòn này nhân đôi. Nếu hạ gục mục tiêu, lập tức làm mới hành động trong lượt này và có thể hành động lần nữa.',
-                    Mô_tả: 'Cây thương yêu quý của Pháp Lộ Đặc, một cây kỵ thương khổng lồ hai màu đen trắng. Nghe nói mũi thương không chỉ từng nhuốm máu vô số cự long, mà còn từng xuyên thủng sao băng trên bầu trời. Người cầm nó sẽ xem mặt đất là bãi săn.',
+                    Mô_tả: 'Cây thương yêu quý của Forte, một cây kỵ thương khổng lồ hai màu đen trắng. Nghe nói mũi thương không chỉ từng nhuốm máu vô số cự long, mà còn từng xuyên thủng sao băng trên bầu trời. Người cầm nó sẽ xem mặt đất là bãi săn.',
                     Hòm_trang_bị: false
                 },
                 'Trọng Giáp Hắc Kim': {
@@ -1707,7 +1707,7 @@
             Lời_thề_đồng_hành: false,
             Tuyệt_kỹ_liên_kết: {}
         },
-        'Hồng Liên': {
+        'Scarlet': {
             Giới_tính: 'Nữ',
             Ở_gần: true,
             Chủng_tộc: 'Nhân_loại',
@@ -1739,7 +1739,7 @@
             Lời_thề_đồng_hành: false,
             Tuyệt_kỹ_liên_kết: {}
         },
-        'Tinh Cực': {
+        'Astesia': {
             Giới_tính: 'Nữ',
             Ở_gần: true,
             Chủng_tộc: 'Nhân_loại',
@@ -1757,7 +1757,7 @@
                     Loại: 'Trang_sức', Vị_trí_trang_bị: 'Tay_phụ', Tên: 'Thiên Cầu Nghi Cầm Tay', Phẩm_chất: 'Đặc_biệt', Cấp_độ: 10, Cấp_cường_hóa: 0,
                     Cộng_thêm_thuộc_tính: { Cảm_nhận: 3 },
                     Hiệu_quả: 'Hỗ trợ chiêm tinh, giúp cảm nhận rõ hơn chỉ dẫn của sao trời. Khi chiêm tinh, ảo ảnh tinh tú hiện quanh người; trong chiến đấu có thể dự đoán quỹ đạo tấn công của địch, kiểm định né tránh +2',
-                    Mô_tả: 'Thiên cầu nghi nhỏ Tinh Cực luôn mang theo, là đạo cụ quan trọng để cô quan sát trời sao và thi triển kiếm nghi tinh tú.',
+                    Mô_tả: 'Thiên cầu nghi nhỏ Astesia luôn mang theo, là đạo cụ quan trọng để cô quan sát trời sao và thi triển kiếm nghi tinh tú.',
                     Hòm_trang_bị: false
                 }
             },
@@ -1771,7 +1771,7 @@
             Lời_thề_đồng_hành: false,
             Tuyệt_kỹ_liên_kết: {}
         },
-        'Aiklisia': {
+        'Ecclesia': {
             Giới_tính: 'Nữ',
             Ở_gần: true,
             Chủng_tộc: 'Nhân_loại',
@@ -1803,7 +1803,7 @@
             Lời_thề_đồng_hành: false,
             Tuyệt_kỹ_liên_kết: {}
         },
-        'Nại Nhã Lệ': {
+        'Naiyali': {
             Giới_tính: 'Nữ',
             Ở_gần: true,
             Chủng_tộc: 'Ảo_tưởng_chủng',
@@ -1820,7 +1820,7 @@
                 'Khối Đa Diện Lệch Ba Tám Mặt Lấp Lánh': {
                     Loại: 'Trang_sức', Vị_trí_trang_bị: 'Dây_chuyền', Tên: 'Khối Đa Diện Lệch Ba Tám Mặt Lấp Lánh', Phẩm_chất: 'Thần_khí', Cấp_độ: 1, Cấp_cường_hóa: 0,
                     Cộng_thêm_thuộc_tính: { Trí_lực: 3, Cảm_nhận: 2 },
-                    Hiệu_quả: 'Môi giới khế ước, duy trì sự thực thể hóa của Nại Nhã Lệ ở hiện thế; thậm chí có thể dùng nó làm môi giới để nối tới bờ kia thứ nguyên, triệu hồi "những người bạn" của Nại Nhã Lệ. Mỗi ngày một lần, xé mở thứ nguyên và triệu hồi một sinh vật lệch pha có cấp ngang <user> hỗ trợ chiến đấu trong 10 phút.',
+                    Hiệu_quả: 'Môi giới khế ước, duy trì sự thực thể hóa của Naiyali ở hiện thế; thậm chí có thể dùng nó làm môi giới để nối tới bờ kia thứ nguyên, triệu hồi "những người bạn" của Naiyali. Mỗi ngày một lần, xé mở thứ nguyên và triệu hồi một sinh vật lệch pha có cấp ngang <user> hỗ trợ chiến đấu trong 10 phút.',
                     Mô_tả: 'Viên pha lê đa diện tỏa ánh cầu vồng bất quy tắc, là neo khế ước nối tới bờ kia thứ nguyên, nhiệt độ vĩnh viễn hơi lạnh',
                     Hòm_trang_bị: false
                 }
@@ -2010,7 +2010,7 @@
             Lời_thề_đồng_hành: false,
             Tuyệt_kỹ_liên_kết: {}
         },
-        'Katisia': {
+        'Cartethyia': {
             Giới_tính: 'Nữ',
             Ở_gần: true,
             Chủng_tộc: 'Nhân_loại',
@@ -2041,10 +2041,10 @@
             Độ_thiện_cảm: 35,
             Lời_thề_đồng_hành: false,
             Tuyệt_kỹ_liên_kết: {
-                'Lời Đồng Cầu Của Thủy Triều Và Sao Trời': { Phẩm_chất: 'Sử_thi', Loại: 'Sát_thương', Hiệu_quả: 'Katisia chuyển sang hình thái thánh nữ và giơ cao thánh kiếm, Kẻ Lãng Du rót sức mạnh cộng hưởng vào thân kiếm. Hai người hợp lực chém ra một đòn dung hợp ánh huy hoàng Tuế Chủ và vực sâu Minh Thức, gây [1000% + 25% × (Cấp_độ - 1)] sát thương khí động. Mỗi 1 tầng [Phong thực] mục tiêu đang có khiến ngưỡng bạo kích giảm thêm 1 (tối đa -5); đòn này chắc chắn trúng và sau khi trúng không xóa số tầng phong thực. Khi hạ mục tiêu, Katisia giữ hình thái thánh nữ và tiếp tục hành động 1 lượt. Tiêu hao 100 CP.', Mô_tả: 'Thánh kiếm giơ cao, cộng hưởng của Kẻ Lãng Du như ánh sao rót vào lưỡi kiếm. Khi nàng mở mắt, đôi mắt xanh cùng lúc phản chiếu vực triều và ánh sao:\'Lần này, chúng ta cùng nhau.\'' }
+                'Lời Đồng Cầu Của Thủy Triều Và Sao Trời': { Phẩm_chất: 'Sử_thi', Loại: 'Sát_thương', Hiệu_quả: 'Cartethyia chuyển sang hình thái thánh nữ và giơ cao thánh kiếm, Kẻ Lãng Du rót sức mạnh cộng hưởng vào thân kiếm. Hai người hợp lực chém ra một đòn dung hợp ánh huy hoàng Tuế Chủ và vực sâu Minh Thức, gây [1000% + 25% × (Cấp_độ - 1)] sát thương khí động. Mỗi 1 tầng [Phong thực] mục tiêu đang có khiến ngưỡng bạo kích giảm thêm 1 (tối đa -5); đòn này chắc chắn trúng và sau khi trúng không xóa số tầng phong thực. Khi hạ mục tiêu, Cartethyia giữ hình thái thánh nữ và tiếp tục hành động 1 lượt. Tiêu hao 100 CP.', Mô_tả: 'Thánh kiếm giơ cao, cộng hưởng của Kẻ Lãng Du như ánh sao rót vào lưỡi kiếm. Khi nàng mở mắt, đôi mắt xanh cùng lúc phản chiếu vực triều và ánh sao:\'Lần này, chúng ta cùng nhau.\'' }
             }
         },
-        'Amis': {
+        'Aemeath': {
             Giới_tính: 'Nữ',
             Ở_gần: true,
             Chủng_tộc: 'Nhân_loại',
@@ -2054,21 +2054,21 @@
                 'Sao Mai Vĩnh Viễn': {
                     Loại: 'Vũ_khí', Vị_trí_trang_bị: 'Tay_chính', Tên: 'Sao Mai Vĩnh Viễn', Phẩm_chất: 'Sử_thi', Cấp_độ: 1, Cấp_cường_hóa: 0,
                     Cộng_thêm_thuộc_tính: { Nhanh_nhẹn: 2, Trí_lực: 1, Toàn_kỹ_năng: 2, Sát_thương_bạo_kích: 30 },
-                    Hiệu_quả: 'Kiểm định tấn công +2;[Dấu ấn tinh huy] Khi kiếm này đánh trúng mục tiêu, khắc [Tầng lưu quang] lên người mục tiêu: mỗi tầng khiến mục tiêu không thể ẩn nấp trước Amis, đồng thời ngưỡng bạo kích của Amis khi tấn công mục tiêu -1, tối đa cộng dồn 3 tầng (ngưỡng bạo kích tối đa -3), kéo dài tới hết chiến đấu;[Lưu quang thừa khải] Kích hoạt khi người cầm chuyển hình thái chiến đấu, thân kiếm tái tạo theo đó: hình thái người hóa thành trọng thứ kiếm lưu quang, hình thái cơ binh hóa thành trọng trường mâu xuyên trời, đồng thời lập tức thanh toán [Tầng lưu quang] tích lũy trên mục tiêu chính: tiêu hao N tầng gây [1000% + 25% × (Cấp_độ-1)] × N÷3 sát thương thuộc tính ánh sáng (làm tròn tới 10 gần nhất, đủ 3 tầng là đủ mức), sau khi kích hoạt xóa sạch số tầng lưu quang của mục tiêu;[Tinh hải quy hàng] Hành động phụ, phát ra một luồng lưu quang khóa một đồng minh trong tầm nhìn, lập tức dịch chuyển người đó tới vị trí liền kề bên Amis, quá trình dịch chuyển không kích hoạt tấn công cơ hội và bẫy.',
-                    Mô_tả: 'Kiếm tên "Khải Minh", là kết tinh Amis dùng chấp niệm tái tạo từ dòng dữ liệu vỡ nát khi một mình trôi dạt mười năm trong sâu thẳm không gian hư chất. Thân kiếm quấn ánh sao vụn không bao giờ tắt, lưu chuyển theo cảm xúc người cầm: bình tĩnh như dòng Ngân Hà chảy chậm, khi kịch chiến như sao băng bắn tóe; tồn tại hiểu "tần số" có thể đọc được chấp niệm sâu nhất trong đó. Nó sẽ tự động biến đổi theo hình thái chiến đấu của người cầm: ở hình thái người là trọng thứ kiếm lưu quang, sau khi khởi động binh trang Ẩn Giả biến thành cơ binh thì hóa thành trọng trường mâu xuyên thủng trời cao. Khi trong lòng nàng hiện lên ý nghĩ "muốn thắp sáng đường về cho một ai đó", ánh kiếm vẫn không tắt trong đêm đen sâu nhất. Đây là lời hứa vô thanh của nàng với Kẻ Lãng Du.',
+                    Hiệu_quả: 'Kiểm định tấn công +2;[Dấu ấn tinh huy] Khi kiếm này đánh trúng mục tiêu, khắc [Tầng lưu quang] lên người mục tiêu: mỗi tầng khiến mục tiêu không thể ẩn nấp trước Aemeath, đồng thời ngưỡng bạo kích của Aemeath khi tấn công mục tiêu -1, tối đa cộng dồn 3 tầng (ngưỡng bạo kích tối đa -3), kéo dài tới hết chiến đấu;[Lưu quang thừa khải] Kích hoạt khi người cầm chuyển hình thái chiến đấu, thân kiếm tái tạo theo đó: hình thái người hóa thành trọng thứ kiếm lưu quang, hình thái cơ binh hóa thành trọng trường mâu xuyên trời, đồng thời lập tức thanh toán [Tầng lưu quang] tích lũy trên mục tiêu chính: tiêu hao N tầng gây [1000% + 25% × (Cấp_độ-1)] × N÷3 sát thương thuộc tính ánh sáng (làm tròn tới 10 gần nhất, đủ 3 tầng là đủ mức), sau khi kích hoạt xóa sạch số tầng lưu quang của mục tiêu;[Tinh hải quy hàng] Hành động phụ, phát ra một luồng lưu quang khóa một đồng minh trong tầm nhìn, lập tức dịch chuyển người đó tới vị trí liền kề bên Aemeath, quá trình dịch chuyển không kích hoạt tấn công cơ hội và bẫy.',
+                    Mô_tả: 'Kiếm tên "Khải Minh", là kết tinh Aemeath dùng chấp niệm tái tạo từ dòng dữ liệu vỡ nát khi một mình trôi dạt mười năm trong sâu thẳm không gian hư chất. Thân kiếm quấn ánh sao vụn không bao giờ tắt, lưu chuyển theo cảm xúc người cầm: bình tĩnh như dòng Ngân Hà chảy chậm, khi kịch chiến như sao băng bắn tóe; tồn tại hiểu "tần số" có thể đọc được chấp niệm sâu nhất trong đó. Nó sẽ tự động biến đổi theo hình thái chiến đấu của người cầm: ở hình thái người là trọng thứ kiếm lưu quang, sau khi khởi động binh trang Ẩn Giả biến thành cơ binh thì hóa thành trọng trường mâu xuyên thủng trời cao. Khi trong lòng nàng hiện lên ý nghĩ "muốn thắp sáng đường về cho một ai đó", ánh kiếm vẫn không tắt trong đêm đen sâu nhất. Đây là lời hứa vô thanh của nàng với Kẻ Lãng Du.',
                     Hòm_trang_bị: false
                 }
             },
             Kỹ_năng: {
                 'Bay Tới Lúc Khải Minh': { Phẩm_chất: 'Thần_khí', Loại: 'Sát_thương', Hiệu_quả: 'Có hình thức tấn công khác nhau tùy hình thái. Hình thái người: sau khi tụ lực, lao tới mục tiêu chém một nhát, gây [500% + 15% × (Cấp_độ - 1)] sát thương vật lý và gắn 2 tầng [Dấu lưu quang]. Hình thái cơ binh: giơ tay dẫn lưu quang từ dưới lên hóa thành kiếm nhận bay lên, rồi kiếm nhận phá không rơi xuống, gây [600% + 18% × (Cấp_độ - 1)] sát thương thuộc tính lửa và gắn 3 tầng [Dấu lưu quang].', Mô_tả: 'Ánh kiếm cắt đêm, quét sạch tai ách!' },
-                'Tinh Huy Phá Giới Mà Đến': { Phẩm_chất: 'Truyền_thuyết', Loại: 'Sát_thương', Hiệu_quả: 'Chỉ có thể dùng sau khi "Bay tới lúc Khải Minh" đã được thi triển 2 lần trong trận này. Triệu hồi hình chiếu Ẩn Giả (Gundam khổng lồ) phá mở màn trời, cắm xuống cự kiếm cơ giới như núi để hủy diệt kẻ địch, gây [800% + 20% × (Cấp_độ - 1)] sát thương thuộc tính lửa. Mỗi khi tiêu hao 1 tầng [Dấu lưu quang], sát thương cuối của đòn này tăng thêm 10% (tối đa +50%). Đòn này chắc chắn trúng.', Mô_tả: 'Hình chiếu Ẩn Giả khổng lồ giáng xuống từ trời cao, cự kiếm cơ giới rơi như núi. Binh trang Ẩn Giả: chế độ cánh sáng triển khai. Amis: Đêm nay biển sao sáng trong!' }
+                'Tinh Huy Phá Giới Mà Đến': { Phẩm_chất: 'Truyền_thuyết', Loại: 'Sát_thương', Hiệu_quả: 'Chỉ có thể dùng sau khi "Bay tới lúc Khải Minh" đã được thi triển 2 lần trong trận này. Triệu hồi hình chiếu Ẩn Giả (Gundam khổng lồ) phá mở màn trời, cắm xuống cự kiếm cơ giới như núi để hủy diệt kẻ địch, gây [800% + 20% × (Cấp_độ - 1)] sát thương thuộc tính lửa. Mỗi khi tiêu hao 1 tầng [Dấu lưu quang], sát thương cuối của đòn này tăng thêm 10% (tối đa +50%). Đòn này chắc chắn trúng.', Mô_tả: 'Hình chiếu Ẩn Giả khổng lồ giáng xuống từ trời cao, cự kiếm cơ giới rơi như núi. Binh trang Ẩn Giả: chế độ cánh sáng triển khai. Aemeath: Đêm nay biển sao sáng trong!' }
             },
             Ngoại_hình: 'Tóc dài hồng nhạt buộc đuôi ngựa cao, quanh tóc lơ lửng vòng hào quang công nghệ. Đồng tử hình sao chữ thập màu vàng hổ phách, khi cười mắt cong như trăng non. Vai trái điểm một nốt ruồi đen. Ở hình thái cơ binh, toàn thân bạc trắng, lưng mọc cánh máy, như một pháo đài trên không nhẹ nhàng.',
             Trang_phục: 'Đồ bó chiến đấu trắng thuần phong cách idol cải biên, vai và cổ để lộ phóng khoáng, áo quây da bóng trắng siết ra khuôn ngực đầy đặn, chính giữa ngực mở rộng để lộ khe ngực, lưng gần như để trần. Phần dưới là bodysuit xẻ cao quấn váy đuôi én bất đối xứng; hai chân bất đối xứng: chân trái là bốt tất dài trắng kéo tới gốc đùi, chân phải chỉ buộc vòng chân vàng, đi bốt cao gót cổ ngắn màu trắng. Hai tay đeo găng chiến thuật ống dài màu trắng, dài quá khuỷu tay.',
             Độ_thiện_cảm: 35,
             Lời_thề_đồng_hành: true,
             Tuyệt_kỹ_liên_kết: {
-                'Hướng Tới Ngôi Sao Chưa Được Thắp Sáng': { Phẩm_chất: 'Sử_thi', Loại: 'Sát_thương', Hiệu_quả: 'Tiêu hao 100 CP. Amis triệu hồi hình chiếu Ẩn Giả (Gundam khổng lồ) trên không chiến trường, cùng <user> hóa thành lưu quang vào buồng lái Ẩn Giả để cùng điều khiển. Trong thời gian này, hai người miễn nhiễm mọi tấn công và khống chế của kẻ địch, duy trì tối đa 2 lượt; nếu dùng Ẩn Giả phát động tổng cộng 3 lần tấn công trong thời gian đó thì lập tức giải trừ. Mỗi đòn tấn công của Ẩn Giả gây [1000% + 20% × (Cấp_độ-1)] sát thương thuộc tính lửa, chắc chắn trúng.', Mô_tả: 'Giới hạn cơ thể được giải trừ, thời khắc cứu thế đã tới!' }
+                'Hướng Tới Ngôi Sao Chưa Được Thắp Sáng': { Phẩm_chất: 'Sử_thi', Loại: 'Sát_thương', Hiệu_quả: 'Tiêu hao 100 CP. Aemeath triệu hồi hình chiếu Ẩn Giả (Gundam khổng lồ) trên không chiến trường, cùng <user> hóa thành lưu quang vào buồng lái Ẩn Giả để cùng điều khiển. Trong thời gian này, hai người miễn nhiễm mọi tấn công và khống chế của kẻ địch, duy trì tối đa 2 lượt; nếu dùng Ẩn Giả phát động tổng cộng 3 lần tấn công trong thời gian đó thì lập tức giải trừ. Mỗi đòn tấn công của Ẩn Giả gây [1000% + 20% × (Cấp_độ-1)] sát thương thuộc tính lửa, chắc chắn trúng.', Mô_tả: 'Giới hạn cơ thể được giải trừ, thời khắc cứu thế đã tới!' }
             }
         },
         'Lumioer': {

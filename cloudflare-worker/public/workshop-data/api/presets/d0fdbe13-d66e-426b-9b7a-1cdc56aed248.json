@@ -1,0 +1,37 @@
+{
+  "ok": true,
+  "preset": {
+    "id": "d0fdbe13-d66e-426b-9b7a-1cdc56aed248",
+    "ownerId": "1497529714363863162",
+    "ownerName": "Flint",
+    "author": "Flint",
+    "authorAvatar": "",
+    "name": "Corvo Attano",
+    "title": "Corvo Attano",
+    "intro": "Lấy Corvo Attano trong Dishonored làm nguyên mẫu; thuần túy dùng AI tham khảo preset của người khác, tự nghiên cứu thế giới quan card nhân vật và thế giới quan Dishonored để viết. Bản thân tôi còn chưa chơi, không bảo đảm chất lượng.",
+    "coverUrl": "/api/presets/d0fdbe13-d66e-426b-9b7a-1cdc56aed248/cover",
+    "className": "Royal Assassin",
+    "race": "Nhân loại",
+    "tags": [],
+    "likes": 0,
+    "liked": false,
+    "downloads": 0,
+    "status": "published",
+    "createdAt": "2026-06-06 18:04:25",
+    "updatedAt": "2026-06-06 18:04:25",
+    "lastLikedAt": "",
+    "presetData": {
+      "name": "Corvo Attano",
+      "class": "Royal Assassin",
+      "customClassName": "Royal Assassin",
+      "race": "__custom__",
+      "customRace": {
+        "name": "Nhân loại"
+      },
+      "customClassStyle": "Sát thủ được The Outsider lựa chọn, kiêm cả năng lực siêu nhiên lẫn võ kỹ đỉnh cao.\n\nHệ thống ma lực: dùng 'ma lực' để điều khiển kỹ năng siêu nhiên; ma lực có thể chậm rãi hồi phục theo thời gian, dùng Piero's Spiritual Remedy có thể nhanh chóng hồi đầy.\n\nBậc thầy tiềm hành cực hạn: bẩm sinh giỏi lẻn vào không tiếng động, có thể ra vào vô tung trong pháo đài trọng binh canh giữ. Ra tay từ bóng tối, chớp mắt giết chết, rồi lại biến mất vào âm ảnh: không ai có thể nhận ra sự tồn tại của ông.\n\nChiến binh đa diện: tinh thông cận chiến bằng kiếm gấp, bắn súng lục và bắn tỉa bằng nỏ chữ thập, có thể tự do chuyển đổi giữa đột kích bạo lực và tiềm hành như ma tùy theo chiến huống.\n\nSức mạnh siêu nhiên: ấn ký The Outsider trao cho ông năng lực trái với pháp tắc vật lý: dịch chuyển tức thời, đóng băng thời gian, nhập vào sinh vật, triệu hồi bầy chuột, phóng thích bão tố, khiến ông trở thành tử thần bóng tối gần như không thể ngăn cản.",
+      "backstory": "Corvo Attano, sát thủ đến từ dị giới. Ông sinh tại Karnaca, thành phố cảng phía nam lục địa Serkonos, một quốc gia vốn không tồn tại trong vùng trời đất này. Ông từng là hộ vệ trưởng của nữ hoàng, xuất thân từ Đại Cận Vệ Quân Serkonos; trong một cuộc chính biến được mưu tính kỹ càng, ông bị vu cáo thí quân, bị ném vào nhà tù Coldridge và chịu sáu tháng cực hình. Sau khi vượt ngục, ông đeo chiếc mặt nạ đầu lâu do Piero chế tạo, dùng sức mạnh siêu nhiên The Outsider ban cho để lần lượt diệt trừ những kẻ soán vị. Sau khi phục thù hoàn tất, trong một lần xuyên qua hư không, ông bị khe nứt nuốt lấy và rơi vào một dị thế xa lạ: Disboard. Mọi thứ nơi đây hoàn toàn khác với đế quốc ông quen thuộc, nhưng âm ảnh, thời gian, hư không, các sức mạnh này ở đâu cũng hữu dụng. Corvo ít nói, hành sự lạnh lùng hiệu quả, ấn ký The Outsider trên tay trái vẫn đang nhảy nhót. Dù ở nơi nào, ông cũng là lưỡi đao sắc bén nhất.",
+      "selectedCustomLevel": 1
+    },
+    "downloadUrl": "/api/presets/d0fdbe13-d66e-426b-9b7a-1cdc56aed248/file"
+  }
+}

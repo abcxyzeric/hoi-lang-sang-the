@@ -267,7 +267,7 @@ body #mobile-trigger-btn.tablet-mode {
     flex-direction: column !important;
     position: relative !important;
     background: #fff5f7 !important;
-    background-image: url('https://raw.githack.com/abcxyzeric/hoi-lang-sang-the/main/assets/avatars/cover/phap-lo-dac.webp') !important;
+    background-image: url('https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/cover/phap-lo-dac.webp') !important;
     background-size: cover !important;
     background-position: center !important;
     background-repeat: no-repeat !important;
@@ -2158,37 +2158,37 @@ function setupPhoneUiUnderscoreObserver(root = document.getElementById('mobile-p
 
 // ==================== Cấu hình avatar nhân vật ====================
 const CHARACTER_AVATAR_CONFIG = {
-    'Nại Nhã Lệ': 'https://raw.githack.com/abcxyzeric/hoi-lang-sang-the/main/assets/avatars/head/nai-nha-le.webp',
-    'Tinh Cực': 'https://raw.githack.com/abcxyzeric/hoi-lang-sang-the/main/assets/avatars/head/tinh-cuc.webp',
-    'Pháp Lộ Đặc': 'https://raw.githack.com/abcxyzeric/hoi-lang-sang-the/main/assets/avatars/head/phap-lo-dac.webp',
-    'Asuna': 'https://raw.githack.com/abcxyzeric/hoi-lang-sang-the/main/assets/avatars/head/asuna.webp',
-    'Ruruka': 'https://raw.githack.com/abcxyzeric/hoi-lang-sang-the/main/assets/avatars/head/ruruka.webp',
-    'Orchis': 'https://raw.githack.com/abcxyzeric/hoi-lang-sang-the/main/assets/avatars/head/orchis.webp',
-    'Hồng Liên': 'https://raw.githack.com/abcxyzeric/hoi-lang-sang-the/main/assets/avatars/head/hong-lien.webp',
-    'Aiklisia': 'https://raw.githack.com/abcxyzeric/hoi-lang-sang-the/main/assets/avatars/head/aiklisia.webp',
-    'Kurami': 'https://raw.githack.com/abcxyzeric/hoi-lang-sang-the/main/assets/avatars/head/kurami.webp',
-    'Hatsuse Izuna': 'https://raw.githack.com/abcxyzeric/hoi-lang-sang-the/main/assets/avatars/head/hatsuse-izuna.webp',
-    'Stephanie': 'https://raw.githack.com/abcxyzeric/hoi-lang-sang-the/main/assets/avatars/head/stephanie.webp',
-    'Jibril': 'https://raw.githack.com/abcxyzeric/hoi-lang-sang-the/main/assets/avatars/head/jibril.webp',
-    'Tetto': 'https://raw.githack.com/abcxyzeric/hoi-lang-sang-the/main/assets/avatars/head/tetto.webp',
-    'Shiro': 'https://raw.githack.com/abcxyzeric/hoi-lang-sang-the/main/assets/avatars/head/shiro.webp',
-    'Hiiro': 'https://raw.githack.com/abcxyzeric/hoi-lang-sang-the/main/assets/avatars/head/hiiro.webp',
-    'Feel': 'https://raw.githack.com/abcxyzeric/hoi-lang-sang-the/main/assets/avatars/head/feel.webp',
-    "Katisia": 'https://raw.githack.com/abcxyzeric/hoi-lang-sang-the/main/assets/avatars/head/katisia.webp',
-    "Amis": 'https://raw.githack.com/abcxyzeric/hoi-lang-sang-the/main/assets/avatars/head/amis.webp',
+    'Naiyali': 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/nai-nha-le.webp',
+    'Astesia': 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/tinh-cuc.webp',
+    'Forte': 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/phap-lo-dac.webp',
+    'Asuna': 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/asuna.webp',
+    'Ruruka': 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/ruruka.webp',
+    'Orchis': 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/orchis.webp',
+    'Scarlet': 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/hong-lien.webp',
+    'Ecclesia': 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/aiklisia.webp',
+    'Kurami': 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/kurami.webp',
+    'Hatsuse Izuna': 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/hatsuse-izuna.webp',
+    'Stephanie': 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/stephanie.webp',
+    'Jibril': 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/jibril.webp',
+    'Tetto': 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/tetto.webp',
+    'Shiro': 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/shiro.webp',
+    'Hiiro': 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/hiiro.webp',
+    'Feel': 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/feel.webp',
+    "Cartethyia": 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/katisia.webp',
+    "Aemeath": 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/amis.webp',
     "Lumioer": 'https://gitgud.io/Rown/dnf/-/raw/master/%E5%A4%B4%E5%83%8F/%E7%92%90%E7%B1%B3%E6%AC%A7%E5%84%BF.webp',
     "Argent": 'https://gitgud.io/Rown/dnf/-/raw/master/%E5%A4%B4%E5%83%8F/%E9%9B%85%E5%84%BF%E8%B4%9E%E7%89%B9.webp'
 };
 
 Object.assign(CHARACTER_AVATAR_CONFIG, {
-    '\u5948\u96c5\u4e3d': CHARACTER_AVATAR_CONFIG['Nại Nhã Lệ'],
-    '\u661f\u6781': CHARACTER_AVATAR_CONFIG['Tinh Cực'],
-    '\u6cd5\u9732\u7279': CHARACTER_AVATAR_CONFIG['Pháp Lộ Đặc'],
+    '\u5948\u96c5\u4e3d': CHARACTER_AVATAR_CONFIG['Naiyali'],
+    '\u661f\u6781': CHARACTER_AVATAR_CONFIG['Astesia'],
+    '\u6cd5\u9732\u7279': CHARACTER_AVATAR_CONFIG['Forte'],
     '\u4e9a\u4e1d\u5a1c': CHARACTER_AVATAR_CONFIG['Asuna'],
     '\u9732\u9732\u5361': CHARACTER_AVATAR_CONFIG['Ruruka'],
     '\u5965\u5951\u4e1d': CHARACTER_AVATAR_CONFIG['Orchis'],
-    '\u7ea2\u83b2': CHARACTER_AVATAR_CONFIG['Hồng Liên'],
-    '\u827e\u514b\u8389\u897f\u5a05': CHARACTER_AVATAR_CONFIG['Aiklisia'],
+    '\u7ea2\u83b2': CHARACTER_AVATAR_CONFIG['Scarlet'],
+    '\u827e\u514b\u8389\u897f\u5a05': CHARACTER_AVATAR_CONFIG['Ecclesia'],
     '\u514b\u62c9\u7c73': CHARACTER_AVATAR_CONFIG['Kurami'],
     '\u521d\u6fd1\u4f0a\u7eb2': CHARACTER_AVATAR_CONFIG['Hatsuse Izuna'],
     '\u4f0a\u7eb2': CHARACTER_AVATAR_CONFIG['Hatsuse Izuna'],
@@ -2200,8 +2200,8 @@ Object.assign(CHARACTER_AVATAR_CONFIG, {
     '\u767d': CHARACTER_AVATAR_CONFIG['Shiro'],
     '\u7eef': CHARACTER_AVATAR_CONFIG['Hiiro'],
     '\u83f2\u5c14': CHARACTER_AVATAR_CONFIG['Feel'],
-    '\u5361\u63d0\u5e0c\u5a05': CHARACTER_AVATAR_CONFIG['Katisia'],
-    '\u7231\u5f25\u65af': CHARACTER_AVATAR_CONFIG['Amis']
+    '\u5361\u63d0\u5e0c\u5a05': CHARACTER_AVATAR_CONFIG['Cartethyia'],
+    '\u7231\u5f25\u65af': CHARACTER_AVATAR_CONFIG['Aemeath']
 });
 
 /**
@@ -2298,14 +2298,14 @@ let phoneStartY = 0;
 let isPinned = false;
 
 // Dữ liệu hình nền.
-const phoneWpBaseUrl = 'https://raw.githack.com/abcxyzeric/hoi-lang-sang-the/main/assets/avatars/cover/';
+const phoneWpBaseUrl = 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/cover/';
 const phoneWpData = {
-    'Katisia': ['\u5361\u63d0\u5e0c\u5a05'],
-    'Nại Nhã Lệ': ['\u5948\u96c5\u4e3d'],
-    'Tinh Cực': ['\u661f\u6781'],
-    'Pháp Lộ Đặc': ['\u6cd5\u9732\u7279'],
-    'Hồng Liên': ['\u7ea2\u83b2'],
-    'Aiklisia': ['\u827e\u514b\u8389\u897f\u5a05'],
+    'Cartethyia': ['\u5361\u63d0\u5e0c\u5a05'],
+    'Naiyali': ['\u5948\u96c5\u4e3d'],
+    'Astesia': ['\u661f\u6781'],
+    'Forte': ['\u6cd5\u9732\u7279'],
+    'Scarlet': ['\u7ea2\u83b2'],
+    'Ecclesia': ['\u827e\u514b\u8389\u897f\u5a05'],
     'Cerberus': ['\u51ef\u5c14\u8d1d\u6d1b\u65af'],
     'Yato': ['\u591c\u6597'],
     'Orchis': ['\u5965\u5951\u4e1d'],
@@ -6756,33 +6756,33 @@ const SHARED_CG_SCENES = {
 
 // Dữ liệu danh sách CG.
 const CG_LIST = {
-    "Nại Nhã Lệ": { ...SHARED_CG_SCENES },
-    "Tinh Cực": { ...SHARED_CG_SCENES },
-    "Pháp Lộ Đặc": { ...SHARED_CG_SCENES },
+    "Naiyali": { ...SHARED_CG_SCENES },
+    "Astesia": { ...SHARED_CG_SCENES },
+    "Forte": { ...SHARED_CG_SCENES },
     "Asuna": { ...SHARED_CG_SCENES },
     "Ruruka": { ...SHARED_CG_SCENES },
-    "Hồng Liên": { ...SHARED_CG_SCENES },
+    "Scarlet": { ...SHARED_CG_SCENES },
     "Orchis": { ...SHARED_CG_SCENES },
     "Jibril": { ...SHARED_CG_SCENES },
-    "Aiklisia": { ...SHARED_CG_SCENES },
+    "Ecclesia": { ...SHARED_CG_SCENES },
     "Shiro": { ...SHARED_CG_SCENES },
-    "Katisia": { ...SHARED_CG_SCENES },
-    "Amis": { ...SHARED_CG_SCENES }
+    "Cartethyia": { ...SHARED_CG_SCENES },
+    "Aemeath": { ...SHARED_CG_SCENES }
 };
 
 const CG_CHARACTER_REMOTE_NAME = {
-    "Nại Nhã Lệ": "\u5948\u96c5\u4e3d",
-    "Tinh Cực": "\u661f\u6781",
-    "Pháp Lộ Đặc": "\u6cd5\u9732\u7279",
+    "Naiyali": "\u5948\u96c5\u4e3d",
+    "Astesia": "\u661f\u6781",
+    "Forte": "\u6cd5\u9732\u7279",
     "Asuna": "\u4e9a\u4e1d\u5a1c",
     "Ruruka": "\u9732\u9732\u5361",
-    "Hồng Liên": "\u7ea2\u83b2",
+    "Scarlet": "\u7ea2\u83b2",
     "Orchis": "\u5965\u5951\u4e1d",
     "Jibril": "\u5409\u666e\u8389\u5c14",
-    "Aiklisia": "\u827e\u514b\u8389\u897f\u5a05",
+    "Ecclesia": "\u827e\u514b\u8389\u897f\u5a05",
     "Shiro": "\u767d",
-    "Katisia": "\u5361\u63d0\u5e0c\u5a05",
-    "Amis": "\u7231\u5f25\u65af"
+    "Cartethyia": "\u5361\u63d0\u5e0c\u5a05",
+    "Aemeath": "\u7231\u5f25\u65af"
 };
 
 const CG_SCENE_REMOTE_NAME = {
@@ -9989,7 +9989,7 @@ function setWallpaper(imageUrl) {
 // Khôi phục hình nền
 function restoreWallpaper() {
     try {
-        const defaultWallpaper = 'https://raw.githack.com/abcxyzeric/hoi-lang-sang-the/main/assets/avatars/cover/phap-lo-dac.webp';
+        const defaultWallpaper = 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/cover/phap-lo-dac.webp';
         let savedWallpaper = localStorage.getItem('dnf-phone-wallpaper');
 
         // Kiểm tra URL hình nền đã lưu có hợp lệ hay không: phải có nội dung và bắt đầu bằng http.
@@ -10081,7 +10081,7 @@ function uploadCustomWallpaper(file) {
 // Đặt lại thành hình nền mặc định
 function resetWallpaper() {
 
-    const defaultWallpaper = 'https://raw.githack.com/abcxyzeric/hoi-lang-sang-the/main/assets/avatars/cover/phap-lo-dac.webp';
+    const defaultWallpaper = 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/cover/phap-lo-dac.webp';
 
     const $screen = $('#mobile-phone-overlay .mobile-phone-screen');
 

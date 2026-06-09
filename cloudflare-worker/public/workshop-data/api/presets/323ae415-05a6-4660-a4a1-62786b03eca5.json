@@ -1,0 +1,37 @@
+{
+  "ok": true,
+  "preset": {
+    "id": "323ae415-05a6-4660-a4a1-62786b03eca5",
+    "ownerId": "1343965205813792871",
+    "ownerName": "九幽墨",
+    "author": "九幽墨",
+    "authorAvatar": "https://cdn.discordapp.com/avatars/1343965205813792871/29385ee18640cf381dea376b3489dac8.png?size=128",
+    "name": "Serenity",
+    "title": "Serenity",
+    "intro": "Tham khảo Tsukino Usagi trong Sailor Moon, hình thái công chúa ánh trăng.",
+    "coverUrl": "/api/presets/323ae415-05a6-4660-a4a1-62786b03eca5/cover",
+    "className": "Công chúa Mặt Trăng / Người bảo hộ Pha lê Bạc",
+    "race": "Dòng tộc Silver Millennium",
+    "tags": [],
+    "likes": 1,
+    "liked": false,
+    "downloads": 2,
+    "status": "published",
+    "createdAt": "2026-06-07 10:36:12",
+    "updatedAt": "2026-06-08 05:08:44",
+    "lastLikedAt": "",
+    "presetData": {
+      "name": "Serenity",
+      "class": "Công chúa Mặt Trăng / Người bảo hộ Pha lê Bạc",
+      "customClassName": "Công chúa Mặt Trăng / Người bảo hộ Pha lê Bạc",
+      "race": "__custom__",
+      "customRace": {
+        "name": "Dòng tộc Silver Millennium"
+      },
+      "customClassStyle": "",
+      "backstory": "",
+      "selectedCustomLevel": null
+    },
+    "downloadUrl": "/api/presets/323ae415-05a6-4660-a4a1-62786b03eca5/file"
+  }
+}

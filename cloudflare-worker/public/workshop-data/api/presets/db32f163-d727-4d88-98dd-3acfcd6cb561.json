@@ -1,0 +1,40 @@
+{
+  "ok": true,
+  "preset": {
+    "id": "db32f163-d727-4d88-98dd-3acfcd6cb561",
+    "ownerId": "999952972144443435",
+    "ownerName": "WangFeng",
+    "author": "WangFeng",
+    "authorAvatar": "https://cdn.discordapp.com/avatars/999952972144443435/52d42dc07cec6d83ca18a4469b7ffa97.png?size=128",
+    "name": "Sanitäter!",
+    "title": "Sanitäter!",
+    "intro": "Nhập vai một linh hồn xuyên qua, hoặc nói đúng hơn là đầu thai thành quân y đế quốc trong thế giới Battlefield 1, dẫn Mango Squad của bạn mở ra danh tiếng mới ở dị thế giới!\nẢnh bìa đến từ họa sĩ NEKO♨ BFG5, nếu vi phạm quyền sẽ xóa. Khuyến nghị tới khu nhân vật để lấy thiết lập Sanitäter và đặt vào thiết lập user, đồng thời tải và lấy các thành viên tiểu đội của cô: một lính xung kích, Munition và Scharfschütze, cùng một phi công.",
+    "coverUrl": "/api/presets/db32f163-d727-4d88-98dd-3acfcd6cb561/cover",
+    "className": "Quân y Đức",
+    "race": "Nhân loại",
+    "tags": [
+      "Sinh tồn",
+      "Triệu hồi",
+      "Đơn mục tiêu",
+      "Duy trì"
+    ],
+    "likes": 2,
+    "liked": false,
+    "downloads": 6,
+    "status": "published",
+    "createdAt": "2026-05-29 13:49:00",
+    "updatedAt": "2026-06-07 20:56:43",
+    "lastLikedAt": "",
+    "presetData": {
+      "name": "Sanitäter",
+      "class": "Quân y Đức",
+      "customClassName": "Quân y Đức",
+      "race": "Nhân loại",
+      "customRace": null,
+      "customClassStyle": "Quân y Đức trong Thế chiến I đến từ thế giới quan Battlefield 1, giỏi hỗ trợ đồng đội và tham gia chiến đấu.",
+      "backstory": "",
+      "selectedCustomLevel": 1
+    },
+    "downloadUrl": "/api/presets/db32f163-d727-4d88-98dd-3acfcd6cb561/file"
+  }
+}

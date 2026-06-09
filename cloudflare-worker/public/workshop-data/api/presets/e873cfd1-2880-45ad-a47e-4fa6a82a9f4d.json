@@ -1,0 +1,43 @@
+{
+  "ok": true,
+  "preset": {
+    "id": "e873cfd1-2880-45ad-a47e-4fa6a82a9f4d",
+    "ownerId": "1457345169752854550",
+    "ownerName": "tjnssxxy",
+    "author": "tjnssxxy",
+    "authorAvatar": "https://cdn.discordapp.com/avatars/1457345169752854550/9607a695e7f4967af79c6a389a7c48da.png?size=128",
+    "name": "Hóa thân hình chiếu · Singularity",
+    "title": "Hóa thân hình chiếu · Singularity",
+    "intro": "Người mới tự chế để tự vui, có thể còn rất nhiều lỗ hổng và bug.\nViết tham chiếu theo thiết lập Godzilla Singular Point, cường độ khá vượt chuẩn; nếu thấy chơi không nổi thì bạn có thể tự sửa thiết lập. Thật ra so với nguyên tác thì đã viết khá bảo thủ rồi.",
+    "coverUrl": "/api/presets/e873cfd1-2880-45ad-a47e-4fa6a82a9f4d/cover",
+    "className": "Quan trắc giả Singularity",
+    "race": "Singularity phái sinh · chủng quái thú hư không",
+    "tags": [
+      "Cấp phông nền",
+      "Vượt chuẩn",
+      "Triệu hồi",
+      "Phản chế nhân quả",
+      "Bộc phát"
+    ],
+    "likes": 0,
+    "liked": false,
+    "downloads": 8,
+    "status": "published",
+    "createdAt": "2026-06-05 09:21:38",
+    "updatedAt": "2026-06-09 01:13:05",
+    "lastLikedAt": "",
+    "presetData": {
+      "name": "Aisun",
+      "class": "Quan trắc giả Singularity",
+      "customClassName": "Quan trắc giả Singularity",
+      "race": "__custom__",
+      "customRace": {
+        "name": "Singularity phái sinh · chủng quái thú hư không"
+      },
+      "customClassStyle": "Điều khiển nhân quả và thời không, dùng Hồng Trần làm môi giới để đánh hạ chiều",
+      "backstory": "Một hình chiếu bậc cao đến từ vũ trụ siêu Turing, là chút sức mạnh rất nhỏ mà chủ Singularity 『Godzilla』 thả xuống để đặt chân vào vũ trụ vật chất. Về bản chất, cô không có khái niệm quá khứ và tương lai; Hồng Trần đã đọc tương tác vũ trụ cùng thông tin di truyền sinh vật rồi tái tạo ra nhục thân này cho cô. Cô đang mơ trong một giấc mơ vĩnh viễn không kết thúc.",
+      "selectedCustomLevel": null
+    },
+    "downloadUrl": "/api/presets/e873cfd1-2880-45ad-a47e-4fa6a82a9f4d/file"
+  }
+}
