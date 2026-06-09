@@ -267,7 +267,7 @@ body #mobile-trigger-btn.tablet-mode {
     flex-direction: column !important;
     position: relative !important;
     background: #fff5f7 !important;
-    background-image: url('https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/cover/phap-lo-dac.webp') !important;
+    background-image: url('https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@v20260609-live-mod-update/assets/avatars/cover/phap-lo-dac.webp') !important;
     background-size: cover !important;
     background-position: center !important;
     background-repeat: no-repeat !important;
@@ -2158,24 +2158,24 @@ function setupPhoneUiUnderscoreObserver(root = document.getElementById('mobile-p
 
 // ==================== Cấu hình avatar nhân vật ====================
 const CHARACTER_AVATAR_CONFIG = {
-    'Naiyali': 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/nai-nha-le.webp',
-    'Astesia': 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/tinh-cuc.webp',
-    'Forte': 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/phap-lo-dac.webp',
-    'Asuna': 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/asuna.webp',
-    'Ruruka': 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/ruruka.webp',
-    'Orchis': 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/orchis.webp',
-    'Scarlet': 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/hong-lien.webp',
-    'Ecclesia': 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/aiklisia.webp',
-    'Kurami': 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/kurami.webp',
-    'Hatsuse Izuna': 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/hatsuse-izuna.webp',
-    'Stephanie': 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/stephanie.webp',
-    'Jibril': 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/jibril.webp',
-    'Tetto': 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/tetto.webp',
-    'Shiro': 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/shiro.webp',
-    'Hiiro': 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/hiiro.webp',
-    'Feel': 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/feel.webp',
-    "Cartethyia": 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/katisia.webp',
-    "Aemeath": 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/head/amis.webp',
+    'Naiyali': 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@v20260609-live-mod-update/assets/avatars/head/nai-nha-le.webp',
+    'Astesia': 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@v20260609-live-mod-update/assets/avatars/head/tinh-cuc.webp',
+    'Forte': 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@v20260609-live-mod-update/assets/avatars/head/phap-lo-dac.webp',
+    'Asuna': 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@v20260609-live-mod-update/assets/avatars/head/asuna.webp',
+    'Ruruka': 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@v20260609-live-mod-update/assets/avatars/head/ruruka.webp',
+    'Orchis': 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@v20260609-live-mod-update/assets/avatars/head/orchis.webp',
+    'Scarlet': 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@v20260609-live-mod-update/assets/avatars/head/hong-lien.webp',
+    'Ecclesia': 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@v20260609-live-mod-update/assets/avatars/head/aiklisia.webp',
+    'Kurami': 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@v20260609-live-mod-update/assets/avatars/head/kurami.webp',
+    'Hatsuse Izuna': 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@v20260609-live-mod-update/assets/avatars/head/hatsuse-izuna.webp',
+    'Stephanie': 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@v20260609-live-mod-update/assets/avatars/head/stephanie.webp',
+    'Jibril': 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@v20260609-live-mod-update/assets/avatars/head/jibril.webp',
+    'Tetto': 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@v20260609-live-mod-update/assets/avatars/head/tetto.webp',
+    'Shiro': 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@v20260609-live-mod-update/assets/avatars/head/shiro.webp',
+    'Hiiro': 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@v20260609-live-mod-update/assets/avatars/head/hiiro.webp',
+    'Feel': 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@v20260609-live-mod-update/assets/avatars/head/feel.webp',
+    "Cartethyia": 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@v20260609-live-mod-update/assets/avatars/head/katisia.webp',
+    "Aemeath": 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@v20260609-live-mod-update/assets/avatars/head/amis.webp',
     "Lumioer": 'https://gitgud.io/Rown/dnf/-/raw/master/%E5%A4%B4%E5%83%8F/%E7%92%90%E7%B1%B3%E6%AC%A7%E5%84%BF.webp',
     "Argent": 'https://gitgud.io/Rown/dnf/-/raw/master/%E5%A4%B4%E5%83%8F/%E9%9B%85%E5%84%BF%E8%B4%9E%E7%89%B9.webp'
 };
@@ -2298,7 +2298,7 @@ let phoneStartY = 0;
 let isPinned = false;
 
 // Dữ liệu hình nền.
-const phoneWpBaseUrl = 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/cover/';
+const phoneWpBaseUrl = 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@v20260609-live-mod-update/assets/avatars/cover/';
 const phoneWpData = {
     'Cartethyia': ['\u5361\u63d0\u5e0c\u5a05'],
     'Naiyali': ['\u5948\u96c5\u4e3d'],
@@ -9989,7 +9989,7 @@ function setWallpaper(imageUrl) {
 // Khôi phục hình nền
 function restoreWallpaper() {
     try {
-        const defaultWallpaper = 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/cover/phap-lo-dac.webp';
+        const defaultWallpaper = 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@v20260609-live-mod-update/assets/avatars/cover/phap-lo-dac.webp';
         let savedWallpaper = localStorage.getItem('dnf-phone-wallpaper');
 
         // Kiểm tra URL hình nền đã lưu có hợp lệ hay không: phải có nội dung và bắt đầu bằng http.
@@ -10081,7 +10081,7 @@ function uploadCustomWallpaper(file) {
 // Đặt lại thành hình nền mặc định
 function resetWallpaper() {
 
-    const defaultWallpaper = 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@main/assets/avatars/cover/phap-lo-dac.webp';
+    const defaultWallpaper = 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@v20260609-live-mod-update/assets/avatars/cover/phap-lo-dac.webp';
 
     const $screen = $('#mobile-phone-overlay .mobile-phone-screen');
 
