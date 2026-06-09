@@ -11,7 +11,7 @@ const NO_STORE_HEADERS = {
   "Expires": "0",
 };
 const TRANSLATED_DATA_PREFIX = "/workshop-data/api";
-const WORKSHOP_SHELL_VERSION = "20260609-live-mod-update";
+const WORKSHOP_SHELL_VERSION = "20260609-live-mod-update-3";
 
 function withCors(response) {
   const headers = new Headers(response.headers);
