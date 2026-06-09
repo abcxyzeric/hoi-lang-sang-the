@@ -200,7 +200,7 @@
   };
 
   // ==================== Mapping ảnh nền nghề nghiệp ====================
-  const CLASS_BACKGROUND_BASE_URL = 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@v20260609-live-mod-update-4/assets/background/';
+  const CLASS_BACKGROUND_BASE_URL = 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@v20260609-live-mod-update-5/assets/background/';
   const CLASS_BACKGROUND_MAP = {
     'Quỷ kiếm sĩ (nam)': 'gui-jian.webp', 'Quỷ kiếm sĩ (nữ)': 'nu-gui-jian.webp',
     'Võ sư (nam)': 'vo-su-nam.webp', 'Võ sư (nữ)': 'vo-su-nu.webp',
@@ -2461,7 +2461,7 @@ ${lockedSkillsJson}
   };
 
   // URL ảnh nền.
-  const HEADER_BG_URL = 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@v20260609-live-mod-update-4/assets/background/rvassh.webp';
+  const HEADER_BG_URL = 'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@v20260609-live-mod-update-5/assets/background/rvassh.webp';
 
   // Kiểm tra và tải ảnh nền header.
   const loadHeaderBackground = () => {
@@ -3828,8 +3828,8 @@ ${lockedSkillsJson}
 
   // ==================== Popup cửa hàng đặc chất ====================
   const EQUIP_SHOP_SOURCE_URLS = Object.freeze([
-    'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@v20260609-live-mod-update-4/start_equipment_shop_v1_3.json',
-    'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@v20260609-live-mod-update-4/start_equipment_shop_v1_3.json',
+    'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@v20260609-live-mod-update-5/start_equipment_shop_v1_3.json',
+    'https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@v20260609-live-mod-update-5/start_equipment_shop_v1_3.json',
     './start_equipment_shop.json'
   ]);
   const EQUIP_SHOP_DEFAULT_PRICE_MAP = Object.freeze({
@@ -7730,7 +7730,7 @@ ri-sword-line ri-shield-line ri-fire-fill ri-drop-fill ri-skull-line ri-ghost-2-
     z-index: 10;
     position: relative;
     overflow: hidden;
-    background: url('https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@v20260609-live-mod-update-4/assets/background/gui-jian.webp') no-repeat center center;
+    background: url('https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@v20260609-live-mod-update-5/assets/background/gui-jian.webp') no-repeat center center;
     background-size: cover;
     padding: 20px 15px 10px; /* Reduced header padding */
 }
@@ -8791,7 +8791,7 @@ ri-sword-line ri-shield-line ri-fire-fill ri-drop-fill ri-skull-line ri-ghost-2-
     aspect-ratio: 1 / 1;
     margin: 0 auto 15px;
     background-color: var(--bg-color);
-    background-image: url('https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@v20260609-live-mod-update-4/assets/background/29l6g5.webp');
+    background-image: url('https://cdn.jsdelivr.net/gh/abcxyzeric/hoi-lang-sang-the@v20260609-live-mod-update-5/assets/background/29l6g5.webp');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;

@@ -1,5 +1,5 @@
-// Du lieu ban do Hai Kinh Cuu Chau, port day du tu ban goc 4.0.
-// Giu nguyen id/type/toa do/field goc; chi Viet hoa gia tri hien thi.
+// Dữ liệu bản đồ Hai Kinh Cửu Châu, port đầy đủ từ bản gốc 4.0.
+// Giữ nguyên id/type/tọa độ/field gốc; chỉ Việt hóa giá trị hiển thị.
 var MAP_JSON_DATA = {
   "mapData": {
     "title": "Hai hồ sơ quyền lực và sinh thái địa lý Bắc Kinh và Kyushu",

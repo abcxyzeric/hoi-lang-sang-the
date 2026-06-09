@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Hai Kinh Cuu Chau - Ban do the luc thien ha</title>
+<title>Hai Kinh Cửu Châu - Bản đồ thế lực thiên hạ</title>
 <script src="./jiuzhouMapData.js"></script>
 <link href="https://fonts.googleapis.com/css2?family=Noto+Serif:wght@400;500;600;700&display=swap" rel="stylesheet">
 <style>
@@ -53,7 +53,7 @@ body::after {
 }
 .node-wrapper.dimmed { opacity:0.28; }
 .node-wrapper.mode-dim { opacity:0.32; }
-/* Trong che do Tat ca, mon phai la lop phu: thu nho va chi hien nhan khi hover */
+/* Trong chế độ Tất cả, môn phái là lớp phụ: thu nhỏ và chỉ hiện nhãn khi hover */
 .node-wrapper.sect-muted .node-label { display:none; }
 .node-wrapper.sect-muted:hover .node-label { display:block; }
 .node-wrapper:hover { filter: brightness(1.2) drop-shadow(0 0 9px rgba(143,202,173,0.55)); z-index:60; }
@@ -86,7 +86,7 @@ body::after {
   animation: fashi-pulse 3.2s ease-in-out infinite;
 }
 @keyframes fashi-pulse { 0%,100%{filter:drop-shadow(1px 2px 3px rgba(0,0,0,0.6)) drop-shadow(0 0 6px rgba(200,80,70,0.3));} 50%{filter:drop-shadow(1px 2px 3px rgba(0,0,0,0.6)) drop-shadow(0 0 11px rgba(200,80,70,0.55));} }
-/* Phap thi: dau hieu cam dia ngoai quan ai, la diem doc lap khong phai thanh tran co the di toi */
+/* Pháp thi: dấu hiệu cấm địa ngoài quan ải, là điểm độc lập không phải thành trấn có thể đi tới */
 .node-wrapper.faction-mark::before {
   content:""; position:absolute; top:-22px; left:50%; width:80px; height:80px;
   transform:translateX(-50%); border-radius:50%; pointer-events:none; z-index:-1;
@@ -99,17 +99,17 @@ body::after {
   letter-spacing:1px;
 }
 
-/* ============ Danh dau vi tri nguoi choi ============ */
+/* ============ Đánh dấu vị trí người chơi ============ */
 .node-wrapper.player-here { z-index:95; }
 .special-marker-player { position:absolute; pointer-events:none; z-index:-1; }
-/* Vong sang mem dien rong */
+/* Vòng sáng mềm diện rộng */
 .special-marker-player::before {
   content:''; position:absolute; top:50%; left:50%; width:118px; height:118px;
   transform:translate(-50%,-50%); border-radius:50%;
   background:radial-gradient(circle, rgba(255,205,77,0.6) 0%, rgba(255,170,40,0.26) 45%, transparent 72%);
   animation:pulse-player 1.6s ease-in-out infinite;
 }
-/* Vong vang noi bat sat quanh bieu tuong */
+/* Vòng vàng nổi bật sát quanh biểu tượng */
 .special-marker-player::after {
   content:''; position:absolute; top:50%; left:50%; width:62px; height:62px;
   transform:translate(-50%,-50%); border-radius:50%;
@@ -125,7 +125,7 @@ body::after {
   0%,100% { opacity:0.7; transform:translate(-50%,-50%) scale(1); }
   50%     { opacity:1;   transform:translate(-50%,-50%) scale(1.12); }
 }
-/* Ghim dinh vi phia tren dau de nhin ro vi tri hien tai */
+/* Ghim định vị phía trên đầu để nhận rõ vị trí hiện tại */
 .player-pin {
   position:absolute; top:-50px; left:50%; transform:translateX(-50%);
   font-size:30px; line-height:1; pointer-events:none; z-index:3;
@@ -277,7 +277,7 @@ body::after {
       <circle cx="16" cy="2" r="1.4" fill="#f2e2b0"/>
     </symbol>
 
-    <!-- CITY: lau thanh va tuong thanh -->
+    <!-- CITY: lầu thành và tường thành -->
     <symbol id="icon-city" viewBox="0 0 32 32">
       <rect x="2" y="20" width="28" height="10" fill="#c4ac84" stroke="#3d2e1c" stroke-width="0.6"/>
       <g fill="#c4ac84" stroke="#3d2e1c" stroke-width="0.3">
@@ -301,7 +301,7 @@ body::after {
       <path d="M16,11 L9.5,16 Q6.5,17.8 7.3,17.8 L24.7,17.8 Q25.5,17.8 22.5,16 Z" fill="#54707a" stroke="#2a474e" stroke-width="0.4"/>
     </symbol>
 
-    <!-- PORT: thuyen buom cap ben -->
+    <!-- PORT: thuyền buồm cập bến -->
     <symbol id="icon-port" viewBox="0 0 32 32">
       <path d="M1,25 Q5,23 9,25 Q13,27 17,25 Q21,23 25,25 Q29,27 32,25 L32,32 L0,32 Z" fill="#3a6f86" opacity="0.55"/>
       <path d="M5,21 L27,21 L23.5,27 L8.5,27 Z" fill="#7a5c3a" stroke="#3d2e1c" stroke-width="0.5"/>
@@ -324,7 +324,7 @@ body::after {
       <path d="M16,9 L7.5,14 Q4.5,15.8 5.3,15.8 L26.7,15.8 Q27.5,15.8 24.5,14 Z" fill="#4d8290" stroke="#234850" stroke-width="0.5"/>
     </symbol>
 
-    <!-- GARRISON: quan tran, lau gac va chien ky -->
+    <!-- GARRISON: quân trấn, lầu gác và chiến kỳ -->
     <symbol id="icon-garrison" viewBox="0 0 32 32">
       <rect x="10" y="13" width="12" height="17" fill="#b69e76" stroke="#3d2e1c" stroke-width="0.5"/>
       <g fill="#b69e76" stroke="#3d2e1c" stroke-width="0.3">
@@ -369,7 +369,7 @@ body::after {
       <circle cx="16" cy="4" r="2.6" fill="none" stroke="#bdeede" stroke-width="0.4" opacity="0.5"/>
     </symbol>
 
-    <!-- FACTION: phap thi -->
+    <!-- FACTION: pháp thi -->
     <symbol id="icon-faction" viewBox="0 0 32 32">
       <circle cx="16" cy="15" r="12" fill="#7a1c1c" opacity="0.16"/>
       <path d="M16,4.5 C9.5,4.5 6.5,9 6.5,14 C6.5,17 8.5,19 8.5,21 L11.5,21 L11.5,24.5 L13.6,24.5 L13.6,21 L18.4,21 L18.4,24.5 L20.5,24.5 L20.5,21 L23.5,21 C23.5,19 25.5,17 25.5,14 C25.5,9 22.5,4.5 16,4.5 Z" fill="#dcd4c6" stroke="#42201c" stroke-width="0.7"/>
@@ -380,7 +380,7 @@ body::after {
       <path d="M16,16 L14.3,19.4 L17.7,19.4 Z" fill="#160808"/>
     </symbol>
 
-    <!-- ===== Bieu tuong dia hinh dai khu, dung tien to tr- de tranh xung dot===== -->
+    <!-- ===== Biểu tượng địa hình đại khu, dùng tiền tố tr- để tránh xung đột===== -->
     <symbol id="icon-tr-forest" viewBox="0 0 32 32">
       <polygon points="16,2 8,18 24,18" fill="#4a8a3a" opacity="0.9" />
       <polygon points="16,6 10,18 22,18" fill="#3a7a2a" />
@@ -447,7 +447,7 @@ body::after {
   </defs>
 </svg>
 
-<div id="map-title">Hai Kinh Cuu Chau - Ban do the luc thien ha</div>
+<div id="map-title">Hai Kinh Cửu Châu - Bản đồ thế lực thiên hạ</div>
 <div id="map-container">
   <div id="terrain-layer"></div>
   <canvas id="edge-canvas"></canvas>
@@ -455,18 +455,18 @@ body::after {
 </div>
 
 <div id="filter-bar">
-  <button class="filter-btn active" data-filter="all">Tat ca</button>
-  <button class="filter-btn" data-filter="onlySect">Mon phai</button>
+  <button class="filter-btn active" data-filter="all">Tất cả</button>
+  <button class="filter-btn" data-filter="onlySect">Môn phái</button>
 </div>
 
 <div id="zoom-controls">
-  <button class="zoom-btn" id="zoom-in" title="Phong to">+</button>
-  <button class="zoom-btn" id="zoom-out" title="Thu nho">−</button>
-  <button class="zoom-btn" id="zoom-reset" title="Dat lai" style="font-size:14px">⌂</button>
+  <button class="zoom-btn" id="zoom-in" title="Phóng to">+</button>
+  <button class="zoom-btn" id="zoom-out" title="Thu nhỏ">−</button>
+  <button class="zoom-btn" id="zoom-reset" title="Đặt lại" style="font-size:14px">⌂</button>
 </div>
 
 <div id="legend" class="collapsed">
-  <div id="legend-title"><span>Chu giai</span><span class="legend-caret">▼</span></div>
+  <div id="legend-title"><span>Chú giải</span><span class="legend-caret">▼</span></div>
   <div class="legend-body">
     <div id="legend-items"></div>
     <div class="legend-routes" id="legend-routes"></div>
@@ -491,9 +491,9 @@ body::after {
 </div>
 
 <script>
-// ============ EMBED / SPAWN-SELECT MODE, giu dung nang luc goc nhu ban do Ho Phach Kiem============
-// Khi duoc nhung vao trang mo dau, che do chon diem sinh gui lua chon ve trang cha thay vi mo chi tiet.
-// Nguon che do: URL ?mode=spawn-select hoac cau hinh __JIUZHOU_MAP_EMBED_CONFIG__ khi nhung srcdoc.
+// ============ EMBED / SPAWN-SELECT MODE, giữ đúng năng lực gốc như bản đồ Hổ Phách Kiếm============
+// Khi được nhúng vào trang mở đầu, chế độ chọn điểm sinh gửi lựa chọn về trang cha thay vì mở chi tiết.
+// Nguồn chế độ: URL ?mode=spawn-select hoặc cấu hình __JIUZHOU_MAP_EMBED_CONFIG__ khi nhúng srcdoc.
 const _jzPageParams = new URLSearchParams(window.location.search);
 const JIUZHOU_EMBED_CONFIG = window.__JIUZHOU_MAP_EMBED_CONFIG__ || {};
 const MAP_MODE = _jzPageParams.get('mode') || String(JIUZHOU_EMBED_CONFIG.mode || '').trim() || 'browse';
@@ -501,62 +501,62 @@ const IS_SPAWN_SELECT_MODE = MAP_MODE === 'spawn-select';
 
 // ============ TYPE CONFIG ============
 const typeConfig = {
-  capital:    { size: 60, label: 'Hai kinh', labelSize: 18, color: '#f2e2b0', tier: 'major' },
-  city:       { size: 50, label: 'Chau phu', labelSize: 15, color: '#e3ecdd', tier: 'major' },
-  town:       { size: 42, label: 'Trong tran', labelSize: 13, color: '#dccfa0' },
-  port:       { size: 46, label: 'Cang khau', labelSize: 14, color: '#a8dbef' },
-  pass:       { size: 46, label: 'Quan ai', labelSize: 14, color: '#eab98e' },
-  garrison:   { size: 44, label: 'Quan tran', labelSize: 13, color: '#e6b48c' },
-  frontier:   { size: 42, label: 'Bien dia', labelSize: 13, color: '#cbb78c' },
-  wilderness: { size: 40, label: 'Hoang nguyen', labelSize: 12, color: '#aebdb0' },
-  sect:       { size: 38, label: 'Mon phai', labelSize: 12, color: '#9fdcc0' },
-  faction:    { size: 42, label: 'Cam dia Phap thi', labelSize: 13, color: '#f09a9a' },
+  capital:    { size: 60, label: 'Hai Kinh', labelSize: 18, color: '#f2e2b0', tier: 'major' },
+  city:       { size: 50, label: 'Châu phủ', labelSize: 15, color: '#e3ecdd', tier: 'major' },
+  town:       { size: 42, label: 'Trọng trấn', labelSize: 13, color: '#dccfa0' },
+  port:       { size: 46, label: 'Cảng khẩu', labelSize: 14, color: '#a8dbef' },
+  pass:       { size: 46, label: 'Quan ải', labelSize: 14, color: '#eab98e' },
+  garrison:   { size: 44, label: 'Quân trấn', labelSize: 13, color: '#e6b48c' },
+  frontier:   { size: 42, label: 'Biên địa', labelSize: 13, color: '#cbb78c' },
+  wilderness: { size: 40, label: 'Hoang nguyên', labelSize: 12, color: '#aebdb0' },
+  sect:       { size: 38, label: 'Môn phái', labelSize: 12, color: '#9fdcc0' },
+  faction:    { size: 42, label: 'Cấm địa Pháp thi', labelSize: 13, color: '#f09a9a' },
 };
 
-// ============ Dia hinh / loai duong ============
-// Moi loai duong co mau, kieu net va he so hao thoi gian tren moi don vi khoang cach.
+// ============ Địa hình / loại đường ============
+// Mỗi loại đường có màu, kiểu nét và hệ số hao thời gian trên mỗi đơn vị khoảng cách.
 const terrainStyles = {
-  land:     { color:'#e7c074', alpha:0.80, width:1.9, dash:[],      factor:1.0, label:'Duong bo - quan dao dich dao' },
-  water:    { color:'#5fb6d8', alpha:0.85, width:2.0, dash:[],      factor:0.7, label:'Duong thuy - song va tao van' },
-  sea:      { color:'#4f93dd', alpha:0.88, width:2.1, dash:[11,7],  factor:1.4, label:'Duong bien - hang dao vuot bien' },
-  highland: { color:'#c193da', alpha:0.82, width:1.8, dash:[3,6],   factor:2.2, label:'Duong hiem - nui tuyet va gobi' },
-  sect:     { color:'#86d2ad', alpha:0.30, width:1.0, dash:[2,5],   factor:1.0, label:'Loi mon mon phai' },
+  land:     { color:'#e7c074', alpha:0.80, width:1.9, dash:[],      factor:1.0, label:'Đường bộ - quan đạo dịch đạo' },
+  water:    { color:'#5fb6d8', alpha:0.85, width:2.0, dash:[],      factor:0.7, label:'Đường thủy - sông và tào vận' },
+  sea:      { color:'#4f93dd', alpha:0.88, width:2.1, dash:[11,7],  factor:1.4, label:'Đường biển - hải đạo vượt biển' },
+  highland: { color:'#c193da', alpha:0.82, width:1.8, dash:[3,6],   factor:2.2, label:'Đường hiểm - núi tuyết và Gobi' },
+  sect:     { color:'#86d2ad', alpha:0.30, width:1.0, dash:[2,5],   factor:1.0, label:'Đường nhỏ môn phái' },
 };
 
-// ============ Bieu tuong dia hinh dai khu, moi khu dung mot vai icon lon============
-// items la toa do icon cua khu va kich co svg; chi dat it icon lon de tao mang dia hinh.
+// ============ Biểu tượng địa hình đại khu, mỗi khu dùng một vài icon lớn============
+// items là tọa độ icon của khu và kích cỡ svg; chỉ đặt ít icon lớn để tạo mảng địa hình.
 const TERRAIN_REGIONS = [
-  { icon:'icon-tr-ocean',    color:'#9fc8e0', name:'Dong Hai', sub:'Hai cuong van dam',
+  { icon:'icon-tr-ocean',    color:'#9fc8e0', name:'Đông Hải', sub:'Hải cương vạn dặm',
     label:[450,150],  items:[[448,150,128]] },
-  { icon:'icon-tr-ocean',    color:'#9fc8e0', name:'Nam Hai', sub:'Thuyen ngoai duong xa',
+  { icon:'icon-tr-ocean',    color:'#9fc8e0', name:'Nam Hải', sub:'Thuyền phiên viễn dương',
     label:[255,468],  items:[[255,468,128]] },
-  { icon:'icon-tr-mountain', color:'#c4d2e8', name:'Cao nguyen Tuyet Vuc', sub:'Cam khu cuc han',
+  { icon:'icon-tr-mountain', color:'#c4d2e8', name:'Cao nguyên Tuyết Vực', sub:'Cấm khu cực hàn',
     label:[-348,300], items:[[-348,300,138]] },
-  { icon:'icon-tr-desert',   color:'#d8bd84', name:'Dai mac Tay Vuc', sub:'Cat chay ngoai hoa vuc',
+  { icon:'icon-tr-desert',   color:'#d8bd84', name:'Đại mạc Tây Vực', sub:'Lưu sa ngoài hóa vực',
     label:[-372,-188],items:[[-372,-185,128]] },
-  { icon:'icon-tr-warseal',  color:'#c2b09c', name:'Co chien truong ngoai quan ai', sub:'Thi hai cam che Nam Bac trieu',
+  { icon:'icon-tr-warseal',  color:'#c2b09c', name:'Cổ chiến trường ngoài quan ải', sub:'Biển xác cấm chế Nam Bắc triều',
     label:[-70,-292], items:[[-70,-292,132]] },
-  { icon:'icon-tr-forest',   color:'#9ed0b0', name:'Lam hai cuc bac', sub:'Kho han ngoai quan ai',
+  { icon:'icon-tr-forest',   color:'#9ed0b0', name:'Lâm hải cực bắc', sub:'Khổ hàn ngoài quan ải',
     label:[250,-352],  items:[[250,-352,130]] },
 ];
 
 const GEO_TYPES = new Set(['capital','city','town','port','pass','garrison','frontier','wilderness']);
-// Node cao nguyen / nui tuyet / gobi: duong ra vao tinh la duong hiem
+// Node cao nguyên / núi tuyết / Gobi: đường ra vào tính là đường hiểm
 const HIGHLAND_SET = new Set(['wilderness_xueyu','city_xining','frontier_dunhuang','pass_jiayuguan','city_liangzhou','town_dajianlu']);
-// Node song noi dia / kenh van
+// Node sông nội địa / kênh vận
 const WATER_SET = new Set(['capital_jiangning','city_yangzhou','city_suzhou','city_hangzhou','city_wuchang','city_jiangling','city_chongqing','city_changsha','city_guilin','city_wuzhou','city_kaifeng','city_jinan','city_yanzhou','city_guide']);
-// Node ven bien / hai cang / hai dao
+// Node ven biển / hải cảng / hải đảo
 const SEA_SET = new Set(['port_dengzhou','port_guangzhou','city_qiongzhou','city_fuzhou','frontier_bohai']);
-// Hang dao vuot bien ro rang, dong thoi ep noi canh de bao dam lien thong tren bien
+// Hải đạo vượt biển rõ ràng, đồng thời ép nối cạnh để bảo đảm liên thông trên biển
 const SPECIAL_SEA = {
-  'garrison_andong|port_dengzhou': 'Hai dao Bot Hai',
-  'city_fuzhou|port_guangzhou':    'Hai dao Man Quang',
-  'city_fuzhou|city_hangzhou':     'Hai dao Man Chiet',
-  'city_qiongzhou|port_guangzhou': 'Hai lo Quynh Chau',
+  'garrison_andong|port_dengzhou': 'Hải đạo Bột Hải',
+  'city_fuzhou|port_guangzhou':    'Hải đạo Mân Quảng',
+  'city_fuzhou|city_hangzhou':     'Hải đạo Mân Chiết',
+  'city_qiongzhou|port_guangzhou': 'Hải lộ Quỳnh Châu',
 };
 function pairKey(a,b){ return a < b ? a+'|'+b : b+'|'+a; }
 
-// Xac dinh dia hinh cua canh: bien > hiem > thuy > bo
+// Xác định địa hình của cạnh: biển > hiểm > thủy > bộ
 function decideTerrain(aId,bId){
   if (SPECIAL_SEA[pairKey(aId,bId)]) return 'sea';
   if (SEA_SET.has(aId) && SEA_SET.has(bId)) return 'sea';
@@ -567,7 +567,7 @@ function decideTerrain(aId,bId){
   return 'land';
 }
 
-// Do thi lan can Gabriel: A va B noi canh khi trong vong tron duong kinh AB khong co diem thu ba
+// Đồ thị lân cận Gabriel: A và B nối cạnh khi trong vòng tròn đường kính AB không có điểm thứ ba
 function gabrielEdges(pts){
   const out = [];
   for (let i=0;i<pts.length;i++){
@@ -587,7 +587,7 @@ function gabrielEdges(pts){
   return out;
 }
 
-// Chong chong lap node: day nhe cac node qua gan theo huong noi, chi phuc vu hien thi
+// Chống chồng lấp node: đẩy nhẹ các node quá gần theo hướng nối, chỉ phục vụ hiển thị
 function relaxPositions(){
   const minGap = 28;
   for (let it=0; it<80; it++){
@@ -611,12 +611,12 @@ function relaxPositions(){
 
 // ============ FIELD LABELS ============
 const FIELD_LABELS = {
-  landscape: 'Pho cho', people: 'Cu dan', livelihood: 'Sinh ke', order: 'Quyen tri',
-  threats: 'Tai hoa', curiosities: 'Di van', socialColor: 'Phong vi xa hoi',
-  role: 'Dinh vi', footprint: 'Can cu', publicFace: 'Hinh anh ben ngoai', specialty: 'So truong',
-  methods: 'Thu doan', relationToState: 'Voi trieu dinh',
-  structure: 'Co cau', coreMembers: 'Nhan su hach tam', characteristics: 'Dac diem',
-  manifestation: 'Bieu hien', threatScale: 'Cap do uy hiep', habits: 'Tap tinh', officialView: 'Cach noi cua quan phu',
+  landscape: 'Phố chợ', people: 'Cư dân', livelihood: 'Sinh kế', order: 'Quyền trị',
+  threats: 'Tai họa', curiosities: 'Dị văn', socialColor: 'Phong vị xã hội',
+  role: 'Định vị', footprint: 'Căn cứ', publicFace: 'Hình ảnh bên ngoài', specialty: 'Sở trường',
+  methods: 'Thủ đoạn', relationToState: 'Với triều đình',
+  structure: 'Cơ cấu', coreMembers: 'Nhân sự hạch tâm', characteristics: 'Đặc điểm',
+  manifestation: 'Biểu hiện', threatScale: 'Cấp độ uy hiếp', habits: 'Tập tính', officialView: 'Cách nói của quan phủ',
 };
 const SKIP_FIELDS = new Set(['id','name','type','x','y','tier','dangerLevel','summary','brief']);
 
@@ -627,18 +627,18 @@ const rawEdges = mapData.edges || [];
 const nodeMap = {};
 nodes.forEach(n => { nodeMap[n.id] = n; });
 
-// Ten duong co that da biet, lay tu edges goc va loai tru loi mon mon phai
+// Tên đường có thật đã biết, lấy từ edges gốc và loại trừ đường nhỏ môn phái
 const nameDict = {};
 rawEdges.forEach(e => {
   const a = e.from || e.source, b = e.to || e.target;
-  if (e.label && !/Loi mon/.test(e.label)) nameDict[pairKey(a, b)] = e.label;
+  if (e.label && !/Đường nhỏ|小径/.test(e.label)) nameDict[pairKey(a, b)] = e.label;
 });
 
-// 1) Chong chong lap truoc, tach cac node qua day
+// 1) Chống chồng lấp trước, tách các node quá dày
 relaxPositions();
 
-// 2) Mang duong: uu tien doc duong da dong trong file du lieu, gom terrain/kind/dist/cost;
-//    neu du lieu chua dong, tao theo toa do bang Gabriel lam du phong.
+// 2) Mạng đường: ưu tiên đọc đường đã đóng trong file dữ liệu, gồm terrain/kind/dist/cost;
+//    nếu dữ liệu chưa đóng, tạo theo tọa độ bằng Gabriel làm dự phòng.
 let edges = [];
 (function buildNetwork(){
   const baked = rawEdges.filter(e => (e.from || e.source) && (e.to || e.target) && (e.terrain || e.kind));
@@ -657,7 +657,7 @@ let edges = [];
     });
     return;
   }
-  // -- Du phong: tao theo toa do --
+  // -- Dự phòng: tạo theo tọa độ --
   const geo = nodes.filter(n => GEO_TYPES.has(n.type));
   const seen = new Set();
   const addRoute = (a, b) => {
@@ -677,20 +677,20 @@ let edges = [];
   };
   // Gabriel
   gabrielEdges(geo).forEach(([a, b]) => addRoute(a, b));
-  // Ep bo sung hang dao vuot bien de bao dam lien thong tren bien
+  // Ép bổ sung hải đạo vượt biển để bảo đảm liên thông trên biển
   Object.keys(SPECIAL_SEA).forEach(k => { const [a, b] = k.split('|'); if (nodeMap[a] && nodeMap[b]) addRoute(a, b); });
 
-  // Mon phai / di mach: giu quan he neo goc lam lop phu
+  // Môn phái / dị mạch: giữ quan hệ neo gốc làm lớp phụ
   rawEdges.forEach(e => {
     const a = e.from || e.source, b = e.to || e.target;
     if (!nodeMap[a] || !nodeMap[b]) return;
-    const isSect = /Loi mon/.test(e.label || '') ||
+    const isSect = /Đường nhỏ|小径/.test(e.label || '') ||
       ['sect', 'faction'].includes(nodeMap[a].type) || ['sect', 'faction'].includes(nodeMap[b].type);
     if (!isSect) return;
     const k = pairKey(a, b);
     if (seen.has(k)) return;
     seen.add(k);
-    edges.push({ from: a, to: b, label: 'Loi mon mon phai', terrain: 'sect', kind: 'sect' });
+    edges.push({ from: a, to: b, label: 'Đường nhỏ môn phái', terrain: 'sect', kind: 'sect' });
   });
 })();
 
@@ -736,7 +736,7 @@ function rectsOverlap(ax, ay, aw, ah, bx, by, bw, bh) {
 }
 function isVisible(node) {
   if (activeFilter === 'noSect') return node.type !== 'sect';
-  return true; // 'all' va 'onlySect' deu render tat ca node; onlySect se lam mo node khong phai mon phai
+  return true; // 'all' và 'onlySect' đều render tất cả node; onlySect sẽ làm mờ node không phải môn phái
 }
 function hashStr(s){ let h=0; for(let i=0;i<s.length;i++){ h=(h*31+s.charCodeAt(i))|0; } return h; }
 function clampScale(){ return Math.min(1.15, Math.max(0.55, scale)); }
@@ -751,7 +751,7 @@ function resizeCanvas() {
   ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
 }
 
-// ============ RENDER TERRAIN - bieu tuong dia hinh dai khu, lop duoi cung============
+// ============ RENDER TERRAIN - biểu tượng địa hình đại khu, lớp dưới cùng============
 let terrainElements = [];
 function renderTerrain() {
   terrainLayer.innerHTML = '';
@@ -790,10 +790,10 @@ function renderNodes() {
     wrapper.dataset.id = n.id;
     if (cfg.tier) wrapper.dataset.tier = cfg.tier;
 
-    // Che do Tat ca: mon phai la lop phu, thu nho va an nhan thuong truc de tranh chen chu
+    // Chế độ Tất cả: môn phái là lớp phụ, thu nhỏ và ẩn nhãn thường trực để tránh chen chữ
     const sectMuted = (n.type === 'sect' && activeFilter === 'all');
     if (sectMuted) wrapper.classList.add('sect-muted');
-    // Che do chi mon phai: lam mo node khong phai mon phai lam nen tham chieu
+    // Chế độ chỉ Môn phái: làm mờ node không phải môn phái làm nền tham chiếu
     if (activeFilter === 'onlySect' && n.type !== 'sect') wrapper.classList.add('mode-dim');
     const iconSize = sectMuted ? Math.round(cfg.size * 0.72) : cfg.size;
 
@@ -885,7 +885,7 @@ function renderEdges() {
   const w = container.clientWidth, h = container.clientHeight;
   ctx.clearRect(0, 0, w, h);
   ctx.lineCap = 'round';
-  // Ve loi mon mon phai truoc, roi duong bo/thuy, cuoi cung la duong hiem va duong bien
+  // Vẽ đường nhỏ môn phái trước, rồi đường bộ/thủy, cuối cùng là đường hiểm và đường biển
   const drawList = edges.map((e, i) => ({ e, i, cat: e.kind === 'sect' ? 'sect' : e.terrain }));
 
   ['sect', 'land', 'water', 'highland', 'sea'].forEach(catKey => {
@@ -897,10 +897,10 @@ function renderEdges() {
       if (!src || !tgt) return;
       const isHot = edgeConnectedToHover(e);
       if (e.kind === 'sect') {
-        if (activeFilter === 'noSect') return;          // An mon phai: khong ve loi mon
-        if (activeFilter === 'all' && !isHot) return;   // Tat ca: mac dinh an, chi hien khi hover canh noi
+        if (activeFilter === 'noSect') return;          // Ẩn môn phái: không vẽ đường nhỏ
+        if (activeFilter === 'all' && !isHot) return;   // Tất cả: mặc định ẩn, chỉ hiện khi hover cạnh nối
       } else {
-        if (activeFilter === 'onlySect') return;        // Chi mon phai: an tat ca truc duong chinh
+        if (activeFilter === 'onlySect') return;        // Chỉ Môn phái: ẩn tất cả trục đường chính
       }
       let alpha = st.alpha;
       if (hoverId && !isHot) alpha *= 0.16;
@@ -925,7 +925,7 @@ function renderEdges() {
   drawEdgeLabels(drawList);
 }
 
-// Diem dieu khien duong cong thong nhat, dua vao id hai dau de tranh duong thang chen nhau
+// Điểm điều khiển đường cong thống nhất, dựa vào id hai đầu để tránh đường thẳng chen nhau
 function curveCtrl(src, tgt, s, t) {
   const mx = (s.x + t.x) / 2, my = (s.y + t.y) / 2;
   const dx = t.x - s.x, dy = t.y - s.y;
@@ -935,7 +935,7 @@ function curveCtrl(src, tgt, s, t) {
   const bend = Math.min(len * 0.14, 46) * dir;
   return { x: mx + nx * bend, y: my + ny * bend };
 }
-// Diem Bezier bac hai tai t=0.5
+// Điểm Bezier bậc hai tại t=0.5
 function curveMid(s, ctrl, t) {
   return { x: 0.25 * s.x + 0.5 * ctrl.x + 0.25 * t.x, y: 0.25 * s.y + 0.5 * ctrl.y + 0.25 * t.y };
 }
@@ -966,18 +966,18 @@ function drawEdgeLabels(drawList) {
 
   drawList.forEach(({ e, cat }) => {
     let text = e.label || '';
-    // Khi hover node, canh lien quan hien ten duong va uoc tinh lo trinh
+    // Khi hover node, cạnh liên quan hiện tên đường và đặc tính lộ trình
     if (hoverId && edgeConnectedToHover(e) && e.kind === 'route') {
-      text = (e.label ? e.label + ' · ' : '') + e.cost + ' trinh';
+      text = (e.label ? e.label + ' · ' : '') + e.cost + ' trình';
     }
     if (!text) return;
     if (cat === 'sect') {
-      // Loi mon mon phai: chi gan nhan trong che do mon phai hoac khi hover canh noi
+      // Đường nhỏ môn phái: chỉ gắn nhãn trong chế độ môn phái hoặc khi hover cạnh nối
       if (!(activeFilter === 'onlySect' || edgeConnectedToHover(e))) return;
     } else {
-      if (activeFilter === 'onlySect') return; // Ghi chu da Viet hoa
+      if (activeFilter === 'onlySect') return; // Ghi chú đã Việt hóa
     }
-    // Che do hover: chi gan nhan canh lien quan de tranh day chu
+    // Chế độ hover: chỉ gắn nhãn cạnh liên quan để tránh dày chữ
     if (hoverId && !edgeConnectedToHover(e)) return;
 
     const src = nodeMap[e.from || e.source];
@@ -994,14 +994,14 @@ function drawEdgeLabels(drawList) {
     const ph = Math.max(15, 17 * scale);
     const pw = tw + 14;
 
-    // Khu trung ten: neu gan do co nhan trung thi bo qua
+    // Khử trùng tên: nếu gần đó có nhãn trùng thì bỏ qua
     let dup = false;
     for (const p of placed) {
       if (p.text === text && Math.hypot(p.x - mx, p.y - my) < DEDUP_DIST) { dup = true; break; }
     }
     if (dup) return;
 
-    // Day nhe theo phap tuyen de tranh node va nhan da co
+    // Đẩy nhẹ theo pháp tuyến để tránh node và nhãn đè cứng
     const dx = t.x - s.x, dy = t.y - s.y;
     const len = Math.hypot(dx, dy) || 1;
     const nx = -dy / len, ny = dx / len;
@@ -1039,14 +1039,14 @@ function drawEdgeLabels(drawList) {
   ctx.restore();
 }
 
-// ============ SPAWN SELECT - chon diem xuat than, giu nang luc goc nhu Ho Phach Kiem============
+// ============ SPAWN SELECT - chọn điểm xuất thân, giữ năng lực gốc như Hổ Phách Kiếm============
 const SPAWN_CHANNEL = 'jiuzhou-spawn-map';
 
-// Cam dia Phap thi la khu nhiem ban thu dich, khong the lam diem xuat than
+// Cấm địa Pháp thi là khu nhiễm bẩn thù địch, không thể làm điểm xuất thân
 function getSpawnBlockedReason(node) {
   if (!node) return '';
-  if (node.type === 'sect') return 'Tru so mon phai khong the lam diem xuat than; hay chon thanh tran, quan ai, cang khau, thon xom hoac dia diem hoang da. Mon phai se chon rieng ben duoi.';
-  if (node.type === 'faction') return 'Cam dia Phap thi la khu nhiem ban thu dich, khong the lam diem xuat than.';
+  if (node.type === 'sect') return 'Trụ sở môn phái không thể làm điểm xuất thân; hãy chọn thành trấn, quan ải, cảng khẩu, thôn xóm hoặc địa điểm hoang dã. Môn phái sẽ chọn riêng bên dưới.';
+  if (node.type === 'faction') return 'Cấm địa Pháp thi là khu nhiễm bẩn thù địch, không thể làm điểm xuất thân.';
   return '';
 }
 
@@ -1056,7 +1056,7 @@ function buildSpawnSelectionPayload(node) {
     type: node.type || '',
     specialty: node.specialty || '',
     methods: node.methods || '',
-    Tên: name, Đại_lục: 'Cuu Chau', Khu_vực: node.tier || '', Địa_điểm: name,
+    Tên: name, Đại_lục: 'Cửu Châu', Khu_vực: node.tier || '', Địa_điểm: name,
     tầngcấp: node.tier || '', Cấp_độ_khu_vực: node.dangerLevel || '', Cấp_độ_nguy_hiểm: node.dangerLevel || '',
     Đặc_trưng_địa_mạo: node.landscape || node.summary || '',
     Mô_tả_khu_định_cư: node.summary || '',
@@ -1188,7 +1188,7 @@ function renderMinimap() {
     const src = nodeMap[e.from || e.source];
     const tgt = nodeMap[e.to || e.target];
     if (!src || !tgt) return;
-    if (e.kind === 'sect') return; // Ban do nho khong ve loi mon mon phai de giu gon
+    if (e.kind === 'sect') return; // Bản đồ nhỏ không vẽ đường nhỏ môn phái để giữ gọn
     if (activeFilter !== 'all' && !isVisible(src) && !isVisible(tgt)) return;
     minimapCtx.beginPath();
     minimapCtx.moveTo(offX + (src.x - minX) * s, offY + (src.y - minY) * s);
@@ -1206,7 +1206,7 @@ function renderMinimap() {
     minimapCtx.fill();
   });
 
-  // Vi tri nguoi choi: diem xanh va vong ngoai
+  // Vị trí người chơi: điểm xanh và vòng ngoài
   if (lastPlayerNodeId && nodeMap[lastPlayerNodeId]) {
     const pn = nodeMap[lastPlayerNodeId];
     const px = offX + (pn.x - minX) * s, py = offY + (pn.y - minY) * s;
@@ -1266,9 +1266,9 @@ function render() {
   renderMinimap();
 }
 
-// ============ Vi tri nguoi choi, nhan mvu_location tu host roi khop va highlight node============
-// Thanh trang thai day la parent cung nguon va se broadcast mvu_location;
-// Trang nay dung thong tin do de khop mo node ban do va dat vong sang cung badge vi tri.
+// ============ Vị trí người chơi, nhận mvu_location từ host rồi khớp và highlight node============
+// Thanh trạng thái đáy là parent cùng nguồn và sẽ broadcast mvu_location;
+// Trang này dùng thông tin đó để khớp mờ node bản đồ và đặt vòng sáng cùng badge vị trí.
 let _mvuLocation = { Dia_diem:'', Khu_vuc:'', Dai_luc:'' };
 let lastPlayerNodeId = null;
 
@@ -1277,33 +1277,33 @@ function removePlayerMarker() {
   nodeLayer.querySelectorAll('.node-wrapper.player-here').forEach(el => el.classList.remove('player-here'));
 }
 
-// Chuan hoa: bo khoang trang va thong nhat dau ngan cach de khop mo
+// Chuẩn hóa: bỏ khoảng trắng và thống nhất dấu ngăn cách để khớp mờ
 function normalizeStr(s) {
   return String(s || '').replace(/\s+/g, '').replace(/[.・‧]/g, '·').toLowerCase();
 }
 
-// Tim node khop nhat theo dia diem/khu vuc/dai luc: chinh xac -> chuan hoa -> bao ham hai chieu -> tach phan
+// Tìm node khớp nhất theo địa điểm/khu vực/đại lục: chính xác -> chuẩn hóa -> bao hàm hai chiều -> tách phần
 function findMatchingNode(Dia_diem, Khu_vuc, Dai_luc) {
   const candidates = [Dia_diem, Khu_vuc, Dai_luc].filter(Boolean);
-  // 1) Khop chinh xac ten node
+  // 1) Khớp chính xác tên node
   for (const loc of candidates) {
     const exact = nodes.find(n => n.name === loc);
     if (exact) return exact;
   }
-  // 2) Bang nhau sau chuan hoa
+  // 2) Bằng nhau sau chuẩn hóa
   for (const loc of candidates) {
     const norm = normalizeStr(loc);
     const m = nodes.find(n => normalizeStr(n.name) === norm);
     if (m) return m;
   }
-  // 3) Bao ham hai chieu
+  // 3) Bao hàm hai chiều
   for (const loc of candidates) {
     if (loc.length < 2) continue;
     const norm = normalizeStr(loc);
     const m = nodes.find(n => { const nn = normalizeStr(n.name); return nn.includes(norm) || norm.includes(nn); });
     if (m) return m;
   }
-  // 4)  · ，Bao ham hai chieu（「 · 」→  / ）
+  // 4) Theo dấu phân cách ·, bao hàm hai chiều (“ · ” -> /)
   for (const loc of candidates) {
     const parts = String(loc).split(/[·・‧.\s]+/).filter(p => p.length >= 2);
     for (const part of parts) {
@@ -1322,14 +1322,14 @@ function updatePlayerLocation() {
   const matched = findMatchingNode(Dia_diem, Khu_vuc, Dai_luc);
   if (!matched) { removePlayerMarker(); lastPlayerNodeId = null; return; }
 
-  // Node chua doi va badge van con thi khong can dung lai
+  // Node chưa đổi và badge vẫn còn thì không cần dựng lại
   if (lastPlayerNodeId === matched.id && document.querySelector('.special-badge-player')) return;
 
   removePlayerMarker();
   lastPlayerNodeId = matched.id;
 
   const wrapper = nodeLayer.querySelector(`.node-wrapper[data-id="${matched.id}"]`);
-  if (!wrapper) return; // node chua render trong bo loc hien tai, renderNodes se goi lai khi can
+  if (!wrapper) return; // node chưa render trong bộ lọc hiện tại, renderNodes sẽ gọi lại khi cần
 
   wrapper.classList.add('player-here');
   const markerBg = document.createElement('div');
@@ -1345,7 +1345,7 @@ function updatePlayerLocation() {
 
   const badge = document.createElement('div');
   badge.className = 'special-badge-player';
-  badge.textContent = 'Ban o day';
+  badge.textContent = 'Bạn ở đây';
   wrapper.appendChild(badge);
 }
 
@@ -1361,7 +1361,7 @@ window.addEventListener('message', (e) => {
     };
     updatePlayerLocation();
   }
-  // Trang mo dau gui lai diem xuat than da chon, dung co che vi tri cuc bo de highlight node
+  // Trang mở đầu gửi lại điểm xuất thân đã chọn, dùng cơ chế vị trí cục bộ để highlight node
   if (d.type === 'jiuzhou_spawn_focus' && d.spawn) {
     _mvuLocation = {
       Dia_diem: d.spawn.Địa_điểm || d.spawn.Tên || '',
@@ -1372,8 +1372,8 @@ window.addEventListener('message', (e) => {
   }
 });
 
-// Thong bao host rang trang da san sang: host vi tri mvu dung ban khong channel;
-// Host chon diem xuat than dung ban co channel va kem che do hien tai.
+// Thông báo host rằng trang đã sẵn sàng: host vị trí mvu dùng bản không channel;
+// Host chọn điểm xuất thân dùng bản có channel và kèm chế độ hiện tại.
 try { window.parent.postMessage({ type: 'map_ready' }, '*'); } catch (e) {}
 try { window.parent.postMessage({ channel: SPAWN_CHANNEL, type: 'map_ready', mode: MAP_MODE }, '*'); } catch (e) {}
 
