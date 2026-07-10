@@ -631,7 +631,7 @@ nodes.forEach(n => { nodeMap[n.id] = n; });
 const nameDict = {};
 rawEdges.forEach(e => {
   const a = e.from || e.source, b = e.to || e.target;
-  if (e.label && !/Đường nhỏ|小径/.test(e.label)) nameDict[pairKey(a, b)] = e.label;
+  if (e.label && !/Đường nhỏ|\u5c0f\u5f84/.test(e.label)) nameDict[pairKey(a, b)] = e.label;
 });
 
 // 1) Chống chồng lấp trước, tách các node quá dày
@@ -684,7 +684,7 @@ let edges = [];
   rawEdges.forEach(e => {
     const a = e.from || e.source, b = e.to || e.target;
     if (!nodeMap[a] || !nodeMap[b]) return;
-    const isSect = /Đường nhỏ|小径/.test(e.label || '') ||
+    const isSect = /Đường nhỏ|\u5c0f\u5f84/.test(e.label || '') ||
       ['sect', 'faction'].includes(nodeMap[a].type) || ['sect', 'faction'].includes(nodeMap[b].type);
     if (!isSect) return;
     const k = pairKey(a, b);
